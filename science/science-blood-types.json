@@ -1,0 +1,205 @@
+{
+  "id": "science-blood-types",
+  "name": "Comprehensive Blood Types Compatibility Chart Dataset",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "blood_type",
+      "label": "Blood Type",
+      "type": "string"
+    },
+    {
+      "key": "abo_group",
+      "label": "ABO Group",
+      "type": "string"
+    },
+    {
+      "key": "rh_factor",
+      "label": "Rh Factor",
+      "type": "string"
+    },
+    {
+      "key": "can_donate_to",
+      "label": "Can Donate To",
+      "type": "string"
+    },
+    {
+      "key": "can_receive_from",
+      "label": "Can Receive From",
+      "type": "string"
+    },
+    {
+      "key": "population_percent",
+      "label": "Population %",
+      "type": "number"
+    },
+    {
+      "key": "antigens",
+      "label": "Antigens",
+      "type": "string"
+    },
+    {
+      "key": "antibodies",
+      "label": "Antibodies",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "blood_type": "A+",
+      "abo_group": "A",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, AB+",
+      "can_receive_from": "A+, A-, O+, O-",
+      "population_percent": 35.7,
+      "antigens": "A, Rh",
+      "antibodies": "Anti-B",
+      "category": "Common Types"
+    },
+    {
+      "blood_type": "A-",
+      "abo_group": "A",
+      "rh_factor": "Negative",
+      "can_donate_to": "A+, A-, AB+, AB-",
+      "can_receive_from": "A-, O-",
+      "population_percent": 6.3,
+      "antigens": "A",
+      "antibodies": "Anti-B",
+      "category": "Common Types"
+    },
+    {
+      "blood_type": "B+",
+      "abo_group": "B",
+      "rh_factor": "Positive",
+      "can_donate_to": "B+, AB+",
+      "can_receive_from": "B+, B-, O+, O-",
+      "population_percent": 8.5,
+      "antigens": "B, Rh",
+      "antibodies": "Anti-A",
+      "category": "Common Types"
+    },
+    {
+      "blood_type": "B-",
+      "abo_group": "B",
+      "rh_factor": "Negative",
+      "can_donate_to": "B+, B-, AB+, AB-",
+      "can_receive_from": "B-, O-",
+      "population_percent": 1.5,
+      "antigens": "B",
+      "antibodies": "Anti-A",
+      "category": "Rare Types"
+    },
+    {
+      "blood_type": "AB+",
+      "abo_group": "AB",
+      "rh_factor": "Positive",
+      "can_donate_to": "AB+",
+      "can_receive_from": "All types (Universal Recipient)",
+      "population_percent": 3.4,
+      "antigens": "A, B, Rh",
+      "antibodies": "None",
+      "category": "Rare Types"
+    },
+    {
+      "blood_type": "AB-",
+      "abo_group": "AB",
+      "rh_factor": "Negative",
+      "can_donate_to": "AB+, AB-",
+      "can_receive_from": "A-, B-, AB-, O-",
+      "population_percent": 0.6,
+      "antigens": "A, B",
+      "antibodies": "None",
+      "category": "Rare Types"
+    },
+    {
+      "blood_type": "O+",
+      "abo_group": "O",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, B+, AB+, O+",
+      "can_receive_from": "O+, O-",
+      "population_percent": 37.4,
+      "antigens": "Rh",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Common Types"
+    },
+    {
+      "blood_type": "O-",
+      "abo_group": "O",
+      "rh_factor": "Negative",
+      "can_donate_to": "All types (Universal Donor)",
+      "can_receive_from": "O-",
+      "population_percent": 6.6,
+      "antigens": "None",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Universal Donor"
+    },
+    {
+      "blood_type": "AB Plasma",
+      "abo_group": "AB",
+      "rh_factor": "Any",
+      "can_donate_to": "All types (Universal Plasma Donor)",
+      "can_receive_from": "AB",
+      "population_percent": 4,
+      "antigens": "A, B (in cells)",
+      "antibodies": "None (in plasma)",
+      "category": "Plasma"
+    },
+    {
+      "blood_type": "Rh+ Summary",
+      "abo_group": "Any",
+      "rh_factor": "Positive",
+      "can_donate_to": "Rh+ recipients only",
+      "can_receive_from": "Both Rh+ and Rh-",
+      "population_percent": 85,
+      "antigens": "Rh (D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Rh Factor Info"
+    },
+    {
+      "blood_type": "Rh- Summary",
+      "abo_group": "Any",
+      "rh_factor": "Negative",
+      "can_donate_to": "Both Rh+ and Rh-",
+      "can_receive_from": "Rh- only",
+      "population_percent": 15,
+      "antigens": "None (no D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Rh Factor Info"
+    }
+  ],
+  "meta": {
+    "seo_title": "Blood Types Compatibility Chart - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download the Blood Types Compatibility Chart dataset for free. Explore ABO groups, Rh factors, and donation rules for 11 blood types. Available in Excel, CSV, and PDF formats.",
+    "title": "Comprehensive Blood Types Compatibility Chart Dataset",
+    "description": "This dataset provides a detailed compatibility chart for all major blood types, including ABO group, Rh factor, donation/receipt rules, population percentages, antigens, and antibodies. It covers 11 unique blood type entries.",
+    "key_takeaways": [
+      "Access critical information on blood donation and transfusion compatibility.",
+      "Explore population percentages and scientific details for 11 blood types.",
+      "Download comprehensive data on antigens, antibodies, and ABO/Rh classifications.",
+      "Use this chart for educational purposes or healthcare reference."
+    ],
+    "keywords": [
+      "blood type compatibility chart",
+      "blood donation rules",
+      "ABO Rh factor dataset",
+      "universal recipient donor list",
+      "blood types excel csv",
+      "free blood chart pdf"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or Python scripts for medical research or developing health applications.",
+      "Use the **Excel** file to filter blood types, create Pivot Tables, and analyze population percentages for public health reporting or presentations.",
+      "Print the **PDF** version for easy access in medical offices, classrooms, or as a quick reference guide for personal understanding.",
+      "Leverage this comprehensive dataset to educate patients, students, or staff on the complexities of blood transfusions and compatibility."
+    ]
+  },
+  "record_count": 11,
+  "title": "Comprehensive Blood Types Compatibility Chart Dataset"
+}

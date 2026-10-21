@@ -1,0 +1,256 @@
+{
+  "id": "ls-foreign-embassies",
+  "name": "Lesotho — Foreign Embassies and Consulates",
+  "title": "Lesotho — Foreign Embassies and Consulates",
+  "description": "Diplomatic missions of foreign countries and territories hosted in Lesotho. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Germany",
+      "operator_cc": "de",
+      "host_country": "Lesotho",
+      "host_cc": "ls",
+      "city": "",
+      "address": "",
+      "type": "embassy",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Lesotho",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q117233570"
+    },
+    {
+      "operator": "Netherlands",
+      "operator_cc": "nl",
+      "host_country": "Lesotho",
+      "host_cc": "ls",
+      "city": "",
+      "address": "",
+      "type": "honorary consulate",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Lesotho",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q112662011"
+    },
+    {
+      "operator": "People's Republic of China",
+      "operator_cc": "cn",
+      "host_country": "Lesotho",
+      "host_cc": "ls",
+      "city": "Maseru",
+      "address": "",
+      "type": "embassy",
+      "latitude": -29.30707,
+      "longitude": 27.4661,
+      "jurisdictions": "Lesotho",
+      "phone": "",
+      "email": "",
+      "website": "http://ls.china-embassy.org",
+      "facebook": "",
+      "twitter": "ChinaEmbLesotho",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q105610676"
+    },
+    {
+      "operator": "South Africa",
+      "operator_cc": "za",
+      "host_country": "Lesotho",
+      "host_cc": "ls",
+      "city": "Maseru",
+      "address": "",
+      "type": "high commission",
+      "latitude": -29.31047,
+      "longitude": 27.47686,
+      "jurisdictions": "Lesotho",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "SAHCLesotho",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q105610980"
+    },
+    {
+      "operator": "United Kingdom",
+      "operator_cc": "gb",
+      "host_country": "Lesotho",
+      "host_cc": "ls",
+      "city": "Maseru",
+      "address": "",
+      "type": "high commission",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Lesotho",
+      "phone": "",
+      "email": "",
+      "website": "https://www.gov.uk/world/organisations/british-high-commission-maseru",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106413866"
+    },
+    {
+      "operator": "United States of America",
+      "operator_cc": "us",
+      "host_country": "Lesotho",
+      "host_cc": "ls",
+      "city": "Maseru",
+      "address": "",
+      "type": "embassy",
+      "latitude": -29.30666,
+      "longitude": 27.4683,
+      "jurisdictions": "Lesotho",
+      "phone": "",
+      "email": "",
+      "website": "https://ls.usembassy.gov",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q105610335"
+    },
+    {
+      "operator": "Vatican",
+      "operator_cc": "va",
+      "host_country": "Lesotho",
+      "host_cc": "ls",
+      "city": "",
+      "address": "",
+      "type": "apostolic nunciature",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Lesotho",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q12785012"
+    }
+  ],
+  "meta": {
+    "title": "Lesotho — Foreign Embassies and Consulates - Free Download",
+    "description": "Diplomatic missions of foreign countries and territories hosted in Lesotho. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lesotho — Foreign Embassies and Consulates | ListBase",
+    "seo_description": "Download Lesotho — Foreign Embassies and Consulates — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

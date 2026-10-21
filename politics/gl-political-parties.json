@@ -1,0 +1,241 @@
+{
+  "id": "gl-political-parties",
+  "name": "Greenland — Political Parties",
+  "title": "Greenland — Political Parties",
+  "description": "Political parties of Greenland from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5535,
+      "name_short": "Siumut",
+      "name": "Siumut",
+      "name_english": "Forward",
+      "name_other": "",
+      "year_first": 1977,
+      "year_last": "",
+      "share": 34.6,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/Siumut",
+      "description": "A center-left, social-democratic, eurosceptical party",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5531,
+      "name_short": "IA",
+      "name": "Inuit Ataqatigiit",
+      "name_english": "Community of the People",
+      "name_other": "",
+      "year_first": 1976,
+      "year_last": "",
+      "share": 33.5,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/Inuit_Ataqatigiit",
+      "description": "Democratic socialist separatist party",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5536,
+      "name_short": "PN",
+      "name": "Partii Naleraq",
+      "name_english": "Point of Orientation Party / Naleraq Party",
+      "name_other": "",
+      "year_first": 2014,
+      "year_last": "",
+      "share": 11.6,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/Partii_Naleraq",
+      "description": "A centrist political party",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5534,
+      "name_short": "Dem",
+      "name": "Demokraatii",
+      "name_english": "Democrats",
+      "name_other": "",
+      "year_first": 2002,
+      "year_last": "",
+      "share": 11.5,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democrats_(Greenland)",
+      "description": "A center-right and pro-Danish political party in Greenland.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5533,
+      "name_short": "Atassut",
+      "name": "Atassut",
+      "name_english": "Solidarity",
+      "name_other": "",
+      "year_first": 1976,
+      "year_last": "",
+      "share": 6.6,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/Atassut",
+      "description": "Liberal conservative party, a partner of the Danish Venstre party",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6121,
+      "name_short": "AP",
+      "name": "Akulliit Partiiat",
+      "name_english": "Centre Party",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": 1999,
+      "share": 6.1,
+      "share_year": 1995,
+      "wikipedia": "https://en.wikipedia.org/wiki/Centre_Party_(Greenland)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6957,
+      "name_short": "SP",
+      "name": "Sulissartut Partiat",
+      "name_english": "Labour Party",
+      "name_other": "",
+      "year_first": 1979,
+      "year_last": 1983,
+      "share": 5.6,
+      "share_year": 1979,
+      "wikipedia": "https://en.wikipedia.org/wiki/Labour_Party_(Greenland)",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6956,
+      "name_short": "K",
+      "name": "Kattusseqatigiit",
+      "name_english": "Association of Candidates",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": "",
+      "share": 4.1,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Association_of_Candidates",
+      "description": "originally entered into the Greenland Parliament as Independents",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8243,
+      "name_short": "NQ",
+      "name": "Nunatta Qitornai",
+      "name_english": "Descendants of Our Country",
+      "name_other": "",
+      "year_first": 2017,
+      "year_last": "",
+      "share": 3.4,
+      "share_year": 2018,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nunatta_Qitornai",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5532,
+      "name_short": "Inuit",
+      "name": "Partii Inuit",
+      "name_english": "Inuit Party",
+      "name_other": "",
+      "year_first": 2013,
+      "year_last": 2018,
+      "share": 1.6,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/Inuit_Party",
+      "description": "A separatist party in Greenland, formed by dissidents from the then-governing Inuit Ataqatigiit (IA)",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Greenland — Political Parties - Free Download",
+    "description": "Political parties of Greenland from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Greenland — Political Parties | ListBase",
+    "seo_description": "Download Greenland — Political Parties dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "id": "be-unesco-heritage",
+  "name": "Belgium — UNESCO World Heritage Sites",
+  "title": "Belgium — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Belgium, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 855,
+      "name": "Flemish Beguinages",
+      "category": "cultural",
+      "date_inscribed": 1998,
+      "criteria": "c2, c3, c4",
+      "lat": 51.03097222,
+      "lon": 4.47375,
+      "area_hectares": 59.95,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "be",
+      "transboundary": false
+    },
+    {
+      "ref_no": 856,
+      "name": "The Four Lifts on the Canal du Centre and their Environs, La Louviare and Le Roeulx (Hainaut)",
+      "category": "cultural",
+      "date_inscribed": 1998,
+      "criteria": "c3, c4",
+      "lat": 50.48111,
+      "lon": 4.13722,
+      "area_hectares": 67.3436,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "be",
+      "transboundary": false
+    },
+    {
+      "ref_no": 857,
+      "name": "La Grand-Place, Brussels",
+      "category": "cultural",
+      "date_inscribed": 1998,
+      "criteria": "c2, c4",
+      "lat": 50.84668,
+      "lon": 4.35242,
+      "area_hectares": 1.48,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "be",
+      "transboundary": false
+    },
+    {
+      "ref_no": 943,
+      "name": "Belfries of Belgium and France",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c2, c4",
+      "lat": 50.17444,
+      "lon": 3.23139,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "be, fr",
+      "transboundary": true
+    },
+    {
+      "ref_no": 996,
+      "name": "Historic Centre of Brugge",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c2, c4, c6",
+      "lat": 51.20891,
+      "lon": 3.22527,
+      "area_hectares": 410,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "be",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1005,
+      "name": "Major Town Houses of the Architect Victor Horta (Brussels)",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c1, c2, c4",
+      "lat": 50.82806,
+      "lon": 4.36223,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "be",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1006,
+      "name": "Neolithic Flint Mines at Spiennes (Mons)",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c1, c3, c4",
+      "lat": 50.43077,
+      "lon": 3.97879,
+      "area_hectares": 172,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "be",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1009,
+      "name": "Notre-Dame Cathedral in Tournai",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c2, c4",
+      "lat": 50.60603,
+      "lon": 3.38926,
+      "area_hectares": 0.4963,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "be",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1185,
+      "name": "Plantin-Moretus House-Workshops-Museum Complex",
+      "category": "cultural",
+      "date_inscribed": 2005,
+      "criteria": "c2, c3, c4, c6",
+      "lat": 51.21833,
+      "lon": 4.39778,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "be",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1298,
+      "name": "Stoclet House",
+      "category": "cultural",
+      "date_inscribed": 2009,
+      "criteria": "c1, c2",
+      "lat": 50.835,
+      "lon": 4.416111111,
+      "area_hectares": 0.86,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "be",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1344,
+      "name": "Major Mining Sites of Wallonia",
+      "category": "cultural",
+      "date_inscribed": 2012,
+      "criteria": "c2, c4",
+      "lat": 50.43527778,
+      "lon": 3.838333333,
+      "area_hectares": 118.07,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "be",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Belgium — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Belgium, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Belgium — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Belgium — UNESCO World Heritage Sites dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

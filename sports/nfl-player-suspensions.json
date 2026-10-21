@@ -1,0 +1,2482 @@
+{
+  "id": "nfl-player-suspensions",
+  "name": "NFL Player Suspensions",
+  "title": "NFL Player Suspensions",
+  "description": "FiveThirtyEight dataset of 269 NFL player suspensions including player name, team, games suspended, violation category, and year.",
+  "category": "sports",
+  "source": "https://github.com/vincentarelbundock/Rdatasets",
+  "source_url": "https://github.com/vincentarelbundock/Rdatasets",
+  "updated": "2026-04",
+  "record_count": 269,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "team",
+      "label": "Team",
+      "type": "string"
+    },
+    {
+      "key": "games",
+      "label": "Games",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "F. Davis",
+      "team": "WAS",
+      "games": "Indef.",
+      "category": "Substance abuse, repeated offense",
+      "description": "Marijuana-related",
+      "year": "2014",
+      "source": "http://www.cbssports.com/nfl/eye-on-football/24448694/redskins-te-fred-davis-suspended-Indefiniteinitely-by-nfl"
+    },
+    {
+      "name": "J. Blackmon",
+      "team": "JAX",
+      "games": "Indef.",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2014",
+      "source": "http://espn.go.com/nfl/story/_/id/11257934/justin-blackmon-jacksonville-jaguars-arrested-marijuana-possession"
+    },
+    {
+      "name": "L. Brazill",
+      "team": "IND",
+      "games": "Indef.",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap2000000364622/article/lavon-brazill-released-by-colts-in-wake-of-suspension"
+    },
+    {
+      "name": "T. Jackson",
+      "team": "WAS",
+      "games": "Indef.",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap2000000364087/article/tanard-jackson-suspended-Indefiniteinitely-by-nfl"
+    },
+    {
+      "name": "M. Hapes",
+      "team": "NYG",
+      "games": "Indef.",
+      "category": "Personal conduct",
+      "description": "Gambling-related",
+      "year": "1946",
+      "source": "http://espn.go.com/blog/nflnation/tag/_/name/frank-filchock"
+    },
+    {
+      "name": "R. Rice",
+      "team": "BAL",
+      "games": "Indef.",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2014",
+      "source": "http://espn.go.com/new-york/nfl/story/_/id/11489134/baltimore-ravens-cut-ray-rice-new-video-surfaces"
+    },
+    {
+      "name": "F. Filchock",
+      "team": "NYG",
+      "games": "36",
+      "category": "Personal conduct",
+      "description": "Gambling-related",
+      "year": "1947",
+      "source": "http://espn.go.com/blog/nflnation/tag/_/name/frank-filchock"
+    },
+    {
+      "name": "J. Jolly",
+      "team": "GB",
+      "games": "32",
+      "category": "Substance abuse, repeated offense",
+      "description": "Arrest, felony possession of codeine",
+      "year": "2010",
+      "source": "http://www.nfl.com/news/story/0ap1000000145928/article/johnny-jolly-reinstated-by-nfl-after-Indefiniteinite-suspension"
+    },
+    {
+      "name": "O. Thurman",
+      "team": "CIN",
+      "games": "32",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2008",
+      "source": "http://www.nfl.com/news/story/09000d5d80864644/article/bengals-release-reinstated-thurman-after-twoyear-suspension"
+    },
+    {
+      "name": "A. Jones",
+      "team": "TEN",
+      "games": "20",
+      "category": "Personal conduct",
+      "description": "Multiple arrests",
+      "year": "2007",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2832015"
+    },
+    {
+      "name": "A. Schlichter",
+      "team": "IND",
+      "games": "16",
+      "category": "Personal conduct",
+      "description": "Gambling-related",
+      "year": "1983",
+      "source": "http://espn.go.com/blog/nflnation/tag/_/name/frank-filchock"
+    },
+    {
+      "name": "D. Stallworth",
+      "team": "NE",
+      "games": "16",
+      "category": "Personal conduct",
+      "description": "DUI manslaughter",
+      "year": "2009",
+      "source": "http://espn.go.com/blog/nflnation/tag/_/name/frank-filchock"
+    },
+    {
+      "name": "W. Bryant",
+      "team": "ARI",
+      "games": "16",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2005",
+      "source": "http://www.azcentral.com/sports/cardinals/articles/2009/05/13/20090513cards0514.html"
+    },
+    {
+      "name": "J. Evans",
+      "team": "TEN",
+      "games": "16",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2000",
+      "source": "http://articles.philly.com/2000-06-21/sports/25602268_1_linebacker-george-koonce-linebacker-na-il-diggs-draft"
+    },
+    {
+      "name": "T. Jackson",
+      "team": "TB",
+      "games": "16",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap2000000364087/article/tanard-jackson-suspended-Indefiniteinitely-by-nfl"
+    },
+    {
+      "name": "D. Washington",
+      "team": "ARI",
+      "games": "16",
+      "category": "Substance abuse, repeated offense",
+      "description": "Marijuana-related",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap2000000354739/article/daryl-washington-suspended-for-at-least-one-year"
+    },
+    {
+      "name": "B. Williams",
+      "team": "PHI",
+      "games": "16",
+      "category": "Substance abuse, repeated offense",
+      "description": "Marijuana-related",
+      "year": "2001",
+      "source": "http://articles.philly.com/2001-04-05/sports/25330303_1_training-camp-eagles-marijuana"
+    },
+    {
+      "name": "R. Williams",
+      "team": "MIA",
+      "games": "16",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2006",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2421774"
+    },
+    {
+      "name": "S. Wilson",
+      "team": "CIN",
+      "games": "16",
+      "category": "Substance abuse, repeated offense",
+      "description": "Cocaine-related",
+      "year": "1989",
+      "source": "http://www.enquirer.com/editions/1999/01/31/spt_hard_fall_for_man.html"
+    },
+    {
+      "name": "J. Gordon",
+      "team": "CLE",
+      "games": "16",
+      "category": "Substance abuse, repeated offense",
+      "description": "Marijuana-related",
+      "year": "2014",
+      "source": "http://espn.go.com/nfl/story/_/id/11418388/josh-gordon-cleveland-browns-suspended-one-year"
+    },
+    {
+      "name": "O. Smith",
+      "team": "MIN",
+      "games": "16",
+      "category": "Substance abuse, repeated offense",
+      "description": "Found with dried urine and \"The Original Whizzinator\"",
+      "year": "2005",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2079032"
+    },
+    {
+      "name": "K. Robinson",
+      "team": "GB",
+      "games": "16",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2006",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2629860"
+    },
+    {
+      "name": "P. Hornung",
+      "team": "GB",
+      "games": "14",
+      "category": "Personal conduct",
+      "description": "Gambling-related",
+      "year": "",
+      "source": "http://espn.go.com/blog/nflnation/tag/_/name/frank-filchock"
+    },
+    {
+      "name": "A. Karras",
+      "team": "DET",
+      "games": "14",
+      "category": "Personal conduct",
+      "description": "Gambling-related",
+      "year": "1963",
+      "source": "http://www.usatoday.com/story/sports/nfl/lions/2012/10/10/alex-karras-obituary-detroit-lions/1623419/"
+    },
+    {
+      "name": "J. Brent",
+      "team": "DAL",
+      "games": "10",
+      "category": "Personal conduct",
+      "description": "DUI manslaughter",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap3000000388413/article/dallas-cowboys-josh-brent-suspended-10-weeks"
+    },
+    {
+      "name": "D. Evans",
+      "team": "SEA",
+      "games": "8",
+      "category": "PEDs, repeated offense",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000236542/article/dequin-evans-suspended-eight-bengals-games-for-peds"
+    },
+    {
+      "name": "J. Ferguson",
+      "team": "FREE",
+      "games": "8",
+      "category": "PEDs, repeated offense",
+      "description": "",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=4973457"
+    },
+    {
+      "name": "A. Jackson",
+      "team": "BAL",
+      "games": "8",
+      "category": "PEDs, repeated offense",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000225102/article/ravens-asa-jackson-banned-8-games-for-violating-ped-policy"
+    },
+    {
+      "name": "W. Saunders",
+      "team": "IND",
+      "games": "8",
+      "category": "PEDs, repeated offense",
+      "description": "",
+      "year": "2013",
+      "source": "http://espn.go.com/nfl/story/_/id/9509539/indianapolis-colts-release-weslye-saunders"
+    },
+    {
+      "name": "H. Thomas",
+      "team": "FREE",
+      "games": "8",
+      "category": "PEDs, repeated offense",
+      "description": "",
+      "year": "2010",
+      "source": "http://profootballtalk.nbcsports.com/2010/07/01/hollis-thomas-career-could-end-with-suspension/"
+    },
+    {
+      "name": "R. Tucker",
+      "team": "CLE",
+      "games": "8",
+      "category": "PEDs, repeated offense",
+      "description": "",
+      "year": "2010",
+      "source": "http://profootballtalk.nbcsports.com/2010/03/07/ryan-tucker-jason-ferguson-suspended-eight-games-each/"
+    },
+    {
+      "name": "C. Henry",
+      "team": "CIN",
+      "games": "8",
+      "category": "Personal conduct",
+      "description": "Multiple arrests",
+      "year": "2007",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2832015"
+    },
+    {
+      "name": "T. Johnson",
+      "team": "BAL",
+      "games": "8",
+      "category": "Personal conduct",
+      "description": "Arrest, possession of weapon",
+      "year": "2006",
+      "source": "http://profootballtalk.nbcsports.com/2014/06/24/artist-formerly-known-as-tank-johnson-friends-with-roger-goodell/"
+    },
+    {
+      "name": "J. Blackmon",
+      "team": "JAX",
+      "games": "8",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.cbssports.com/nfl/eye-on-football/24171316/jaguars-wr-justin-blackmon-suspended-for-the-rest-of-2013-season"
+    },
+    {
+      "name": "T. Couch",
+      "team": "JAX",
+      "games": "6",
+      "category": "PEDs",
+      "description": "",
+      "year": "2007",
+      "source": "http://www.nytimes.com/2007/10/05/sports/football/05nfl.html"
+    },
+    {
+      "name": "K. Lang",
+      "team": "DEN",
+      "games": "6",
+      "category": "PEDs",
+      "description": "",
+      "year": "2007",
+      "source": "http://www.nytimes.com/2007/10/05/sports/football/05nfl.html"
+    },
+    {
+      "name": "R. McBean",
+      "team": "DEN",
+      "games": "6",
+      "category": "PEDs",
+      "description": "Alleged \"non-human\" urine in system",
+      "year": "2012",
+      "source": "http://espn.go.com/nfl/story/_/id/7667289/denver-broncos-dj-williams-ryan-mcbean-virgil-green-suspended"
+    },
+    {
+      "name": "D.J. Williams",
+      "team": "DEN",
+      "games": "6",
+      "category": "PEDs",
+      "description": "Alleged \"non-human\" urine in system",
+      "year": "2012",
+      "source": "http://espn.go.com/nfl/story/_/id/7667289/denver-broncos-dj-williams-ryan-mcbean-virgil-green-suspended"
+    },
+    {
+      "name": "W. Hill",
+      "team": "NYG",
+      "games": "6",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2014",
+      "source": "http://espn.go.com/new-york/nfl/story/_/id/11007693/will-hill-new-york-giants-suspended-six-games-violating-nfl-substance-abuse-policy"
+    },
+    {
+      "name": "A. Haynesworth",
+      "team": "TEN",
+      "games": "5",
+      "category": "In-game violence",
+      "description": "Stomping on player",
+      "year": "2006",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2610577"
+    },
+    {
+      "name": "B. Sochia",
+      "team": "MIA",
+      "games": "5",
+      "category": "PEDs",
+      "description": "",
+      "year": "1990",
+      "source": "http://articles.sun-sentinel.com/1990-08-24/sports/9002100425_1_alfred-oglesby-shula-brian-sochia"
+    },
+    {
+      "name": "T. Pryor",
+      "team": "OAK",
+      "games": "5",
+      "category": "Personal conduct",
+      "description": "Improper gifts while in college",
+      "year": "2011",
+      "source": "http://espn.go.com/nfl/story/_/id/7040047/nfl-upholds-terrelle-pryor-5-game-ban-cites-integrity"
+    },
+    {
+      "name": "M. Ariey",
+      "team": "GB",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://www.utsandiego.com/uniontrib/20080921/news_1s21nfl89.html"
+    },
+    {
+      "name": "O. Ayanbadejo",
+      "team": "CHI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2007",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2967677"
+    },
+    {
+      "name": "S. Bailey",
+      "team": "STL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap2000000349785/article/st-louis-rams-stedman-bailey-suspended-four-games"
+    },
+    {
+      "name": "A. Barbre",
+      "team": "CAR",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://seattletimes.com/html/localnews/2018272778_apfbnseahawksbarbresuspended.html"
+    },
+    {
+      "name": "T. Bennett",
+      "team": "DET",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2001",
+      "source": "http://articles.latimes.com/2001/dec/15/sports/sp-15083"
+    },
+    {
+      "name": "J. Black",
+      "team": "WAS",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000113061/article/jordan-black-of-redskins-suspended-four-games-for-peds"
+    },
+    {
+      "name": "D. Blackstock",
+      "team": "CIN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2008",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=3631111"
+    },
+    {
+      "name": "B. Bolden",
+      "team": "BAL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000092510/article/brandon-bolden-suspended-for-violating-drug-policy"
+    },
+    {
+      "name": "D. Boston",
+      "team": "MIA",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2004",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=1939250"
+    },
+    {
+      "name": "D. Bowe",
+      "team": "KC",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2009",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=4663877"
+    },
+    {
+      "name": "D. Brown",
+      "team": "HOU",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=5600928"
+    },
+    {
+      "name": "G. Brown",
+      "team": "WAS",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap2000000051195/article/garrett-brown-of-san-diego-chargers-suspended-four-games"
+    },
+    {
+      "name": "R. Buchanan",
+      "team": "JAX",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2002",
+      "source": "http://a.espncdn.com/nfl/news/2002/0911/1430323.html"
+    },
+    {
+      "name": "B. Buckner",
+      "team": "CAR",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2003",
+      "source": "http://a.espncdn.com/nfl/columns/pasquarelli_len/1455668.html"
+    },
+    {
+      "name": "T. Burse",
+      "team": "SEA",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://articles.chicagotribune.com/1989-08-30/sports/8901090097_1_steroid-drug-policy-league-spokesman-joe-browne"
+    },
+    {
+      "name": "L. Bush",
+      "team": "KC",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2002",
+      "source": "http://a.espncdn.com/nfl/columns/pasquarelli_len/1457788.html"
+    },
+    {
+      "name": "B. Chamberlain",
+      "team": "MIN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2003",
+      "source": "http://a.espncdn.com/nfl/news/2003/0711/1579603.html"
+    },
+    {
+      "name": "J. Chatman",
+      "team": "NYJ",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/09000d5d80a65c4c/article/chatman-suspended-four-games-for-violating-nfls-steroids-policy"
+    },
+    {
+      "name": "M. Cloud",
+      "team": "KC",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2003",
+      "source": "http://a.espncdn.com/nfl/columns/pasquarelli_len/1529903.html"
+    },
+    {
+      "name": "J. Cooper",
+      "team": "OAK",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2007",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2949591"
+    },
+    {
+      "name": "S. Cooper",
+      "team": "SD",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2008",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=3348671"
+    },
+    {
+      "name": "J. Cunningham",
+      "team": "NE",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://espn.go.com/boston/nfl/story/_/id/8679955/jermaine-cunningham-new-england-patriots-suspended-four-games-violating-nfl-policy-performance-enhancing-substances"
+    },
+    {
+      "name": "B. Cushing",
+      "team": "HOU",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=5172060"
+    },
+    {
+      "name": "S. Davis",
+      "team": "ARI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1997",
+      "source": "http://www.apnewsarchive.com/1997/Falcons-guard-Scott-Davis-suspended-by-NFL-for-steroid-abuse/id-1e82e1a0780f24c6559a167118382f28"
+    },
+    {
+      "name": "T. Doctor",
+      "team": "BUF",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://www.utsandiego.com/sports/nfl/20080921-9999-1s21list.html"
+    },
+    {
+      "name": "S. Doctor",
+      "team": "BUF",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://www.nytimes.com/1989/08/30/sports/nfl-bans-15-for-drugs-or-steroids.html"
+    },
+    {
+      "name": "M. Douglass",
+      "team": "DET",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://www.utsandiego.com/uniontrib/20080921/news_1s21nfl89.html"
+    },
+    {
+      "name": "J. Dunbar",
+      "team": "STL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000229913/article/st-louis-rams-jolonn-dunbar-suspended-four-games"
+    },
+    {
+      "name": "R. Edwards",
+      "team": "MIN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2007",
+      "source": "http://www.twincities.com/ci_7641964?source=rss"
+    },
+    {
+      "name": "B. Eldridge",
+      "team": "STL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/09000d5d82a4a506/article/brody-eldridge-st-louis-rams-te-suspended-four-games"
+    },
+    {
+      "name": "L. Flowers",
+      "team": "DEN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2004",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=1585992"
+    },
+    {
+      "name": "E. Gant",
+      "team": "CIN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2010",
+      "source": "http://blog.azcardinals.com/2010/06/21/gant-suspended-four-games/"
+    },
+    {
+      "name": "D. Graham",
+      "team": "HOU",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2002",
+      "source": "http://www.nytimes.com/2002/12/19/sports/nfl-texans-lineman-suspended.html"
+    },
+    {
+      "name": "L. Grant",
+      "team": "FREE",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000161912/article/larry-grant-suspended-four-games-for-violating-nfl-drug-policy"
+    },
+    {
+      "name": "V. Green",
+      "team": "SD",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://espn.go.com/nfl/story/_/id/7667289/denver-broncos-dj-williams-ryan-mcbean-virgil-green-suspended"
+    },
+    {
+      "name": "S. Gregory",
+      "team": "NYJ",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=5648428"
+    },
+    {
+      "name": "C. Griffin",
+      "team": "WAS",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://espn.go.com/nfl/story/_/id/8709862/cedric-griffin-washington-redskins-suspended-four-games"
+    },
+    {
+      "name": "W. Guy",
+      "team": "SEA",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000098505/article/winston-guy-of-seahawks-suspended-for-illegal-substances"
+    },
+    {
+      "name": "J. Haden",
+      "team": "CLE",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000060490/article/joe-haden-of-cleveland-browns-suspended-four-games"
+    },
+    {
+      "name": "A. Hall",
+      "team": "TEN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2011",
+      "source": "http://espn.go.com/nfl/story/_/id/6927311/tennessee-titans-ahmard-hall-suspended-4-games-nfl"
+    },
+    {
+      "name": "J. Hanson",
+      "team": "PHI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2009",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=4645055"
+    },
+    {
+      "name": "J. Hawley",
+      "team": "ATL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000097773/article/joe-hawley-of-atlanta-falcons-suspended-four-games-by-nfl"
+    },
+    {
+      "name": "K. Henderson",
+      "team": "SF",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://www.nytimes.com/1989/08/30/sports/nfl-bans-15-for-drugs-or-steroids.html"
+    },
+    {
+      "name": "C. Henry",
+      "team": "TEN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2007",
+      "source": "http://www.utsandiego.com/sports/nfl/20080921-9999-1s21list.html"
+    },
+    {
+      "name": "W. Hill",
+      "team": "NYG",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000078540/article/will-hill-suspended-by-nfl-for-violating-ped-policy"
+    },
+    {
+      "name": "A. Holmes",
+      "team": "OAK",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.cbssports.com/nfl/eye-on-football/22915004/raiders-wr-andre-holmes-suspended-for-ped-violation"
+    },
+    {
+      "name": "B. Irvin",
+      "team": "DET",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2013",
+      "source": "http://espn.go.com/nfl/story/_/id/9287069/bruce-irvin-seattle-seahawks-suspended-four-games"
+    },
+    {
+      "name": "A. Jackson",
+      "team": "BAL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000225102/article/ravens-asa-jackson-banned-8-games-for-violating-ped-policy"
+    },
+    {
+      "name": "R. James",
+      "team": "ATL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=5364259"
+    },
+    {
+      "name": "M. Jaworski",
+      "team": "BUF",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://www.nytimes.com/1989/08/30/sports/nfl-bans-15-for-drugs-or-steroids.html"
+    },
+    {
+      "name": "J. Jenkins",
+      "team": "WAS",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000221583/article/redskins-jarvis-jenkins-suspended-4-games-for-peds"
+    },
+    {
+      "name": "T. Jervey",
+      "team": "SF",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1999",
+      "source": "http://www.sfgate.com/sports/article/49ers-Notebook-Jervey-Suspended-for-Steroid-Use-2901850.php"
+    },
+    {
+      "name": "L. Johnson",
+      "team": "PHI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap2000000367649/article/eagles-lane-johnson-suspended-four-games-for-peds"
+    },
+    {
+      "name": "D. Jordan",
+      "team": "MIA",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap2000000363402/article/dion-jordan-suspended-four-games-for-ped-violation"
+    },
+    {
+      "name": "J. Kennedy",
+      "team": "NYG",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2011",
+      "source": "http://espn.go.com/new-york/nfl/story/_/id/7089792/new-york-giants-dt-jimmy-kennedy-suspended-nfl"
+    },
+    {
+      "name": "V. Kirk",
+      "team": "STL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://articles.latimes.com/1989-08-30/sports/sp-1284_1_nfl-suspends"
+    },
+    {
+      "name": "J. Knott",
+      "team": "PHI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap2000000339592/article/jake-knott-suspended-for-violating-substance-abuse-policy"
+    },
+    {
+      "name": "L. Lawton",
+      "team": "OAK",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2009",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=4771154"
+    },
+    {
+      "name": "M. Lehr",
+      "team": "ATL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2006",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2629991"
+    },
+    {
+      "name": "T. Lewis",
+      "team": "WAS",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2011",
+      "source": "http://www.washingtonpost.com/blogs/football-insider/post/report-redskins-trent-williams-and-fred-davis-to-be-suspended-for-four-games/2011/12/04/gIQAZJ6tSO_blog.html"
+    },
+    {
+      "name": "D. Love",
+      "team": "MIN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.cbssports.com/nfl/eye-on-football/22974075/vikings-ol-demarcus-love-suspended-for-ped-violation"
+    },
+    {
+      "name": "D. Lutui",
+      "team": "TEN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000150698/article/deuce-lutui-suspended-by-nfl-for-drug-violation"
+    },
+    {
+      "name": "A. Madise",
+      "team": "DEN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2005",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=1974527"
+    },
+    {
+      "name": "R. Mathis",
+      "team": "IND",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap2000000350988/article/colts-robert-mathis-suspended-four-games-for-ped"
+    },
+    {
+      "name": "G. McRath",
+      "team": "TEN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=5285379"
+    },
+    {
+      "name": "S. Merriman",
+      "team": "SD",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2006",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2635475"
+    },
+    {
+      "name": "G. Miller",
+      "team": "CHI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000209177/article/chicago-bears-gabe-miller-evan-rodriguez-apologize"
+    },
+    {
+      "name": "J. Miller",
+      "team": "CHI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1999",
+      "source": "http://www.nytimes.com/1999/12/02/sports/pro-football-bears-lose-miller-to-steroid-suspension.html"
+    },
+    {
+      "name": "N. Miller",
+      "team": "STL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://profootball.scout.com/story/1159088-nick-miller-suspended-four-games"
+    },
+    {
+      "name": "D. Moch",
+      "team": "CIN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://espn.go.com/nfl/story/_/id/8048956/dontay-moch-cincinnati-bengals-suspended-four-games-peds"
+    },
+    {
+      "name": "J. Moffitt",
+      "team": "CLE",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2011",
+      "source": "http://seattletimes.com/html/seahawksblog/2016949836_seahawksrookiejohnmoffittsuspendedforperformanceenhancingdrugs.html"
+    },
+    {
+      "name": "E. Moore",
+      "team": "NYG",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1993",
+      "source": "http://www.nytimes.com/1993/07/30/sports/pro-football-giants-moore-faces-ban-by-nfl.html"
+    },
+    {
+      "name": "S. Morris",
+      "team": "MIA",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2006",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2568282"
+    },
+    {
+      "name": "M. Neal",
+      "team": "GB",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://espn.go.com/nfl/story/_/id/7682945/nfl-suspends-mike-neal-green-bay-packers-1st-four-games"
+    },
+    {
+      "name": "S. Nealy",
+      "team": "MIN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2014",
+      "source": "http://espn.go.com/nfl/story/_/id/11204290/spencer-nealy-minnesota-vikings-suspended-four-games-ped-use"
+    },
+    {
+      "name": "A. Neblett",
+      "team": "CAR",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/09000d5d82aa5c20/article/andre-neblett-suspended-four-games-for-ped-violation"
+    },
+    {
+      "name": "K. Newman",
+      "team": "ATL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2003",
+      "source": "http://sports.espn.go.com/espn/wire?id=1606334"
+    },
+    {
+      "name": "A. Odom",
+      "team": "CIN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=5687593"
+    },
+    {
+      "name": "C. Pace",
+      "team": "NYJ",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2009",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=4303126"
+    },
+    {
+      "name": "J. Peppers",
+      "team": "CAR",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2002",
+      "source": "http://www.nytimes.com/2002/12/04/sports/pro-football-peppers-to-serve-four-game-suspension.html"
+    },
+    {
+      "name": "K. Peterson",
+      "team": "DEN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2007",
+      "source": "http://www.denverpost.com/ci_6314165"
+    },
+    {
+      "name": "L. Petitgout",
+      "team": "TB",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2008",
+      "source": "http://tbo.com/sports/sports/2008/aug/20/sp-petitgout-violated-nfl-steroids-policy-ar-136563/"
+    },
+    {
+      "name": "A. Pettis",
+      "team": "STL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.foxsports.com/nfl/story/St-Louis-Rams-wide-receiver-Austin-Pettis-suspended-four-games-for-NFL-drug-policy-violation-122111?gt1=39002"
+    },
+    {
+      "name": "A. Pinnock",
+      "team": "SD",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2004",
+      "source": "http://www.utsandiego.com/news/2004/Nov/10/chargers-fullback-andrew-pinnock-suspended-for/"
+    },
+    {
+      "name": "R. Putzier",
+      "team": "SF",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://articles.latimes.com/1989-08-30/sports/sp-1284_1_nfl-suspends"
+    },
+    {
+      "name": "R. Razzano",
+      "team": "TB",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2005",
+      "source": "http://sports.espn.go.com/espn/wire?section=nfl&id=2163692"
+    },
+    {
+      "name": "L. Reynolds",
+      "team": "JAX",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2013",
+      "source": "http://espn.go.com/nfl/story/_/id/9967595/laroy-reynolds-jacksonville-jaguars-suspended-4-games-positive-test"
+    },
+    {
+      "name": "G. Robinson",
+      "team": "ARI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://profootballtalk.nbcsports.com/2012/09/22/gerell-robinson-gets-four-game-suspension/"
+    },
+    {
+      "name": "S. Rogers",
+      "team": "DET",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2006",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2630061"
+    },
+    {
+      "name": "T. Sash",
+      "team": "NYG",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://espn.go.com/new-york/nfl/story/_/id/8219721/tyler-sash-new-york-giants-suspended-four-games"
+    },
+    {
+      "name": "T. Sauerbrun",
+      "team": "DEN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2006",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2512355"
+    },
+    {
+      "name": "Q. Saulsberry",
+      "team": "DEN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000217875/article/quentin-saulsberry-of-denver-broncos-had-dui-arrest"
+    },
+    {
+      "name": "O. Scandrick",
+      "team": "DAL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "MDMA",
+      "year": "2014",
+      "source": "http://espn.go.com/dallas/nfl/story/_/id/11341354/orlando-scandrick-dallas-cowboys-suspended-four-games-performance-enhancing-drugs"
+    },
+    {
+      "name": "S. Shanle",
+      "team": "STL",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2003",
+      "source": "http://www.utsandiego.com/sports/nfl/20080921-9999-1s21list.html"
+    },
+    {
+      "name": "D. Shelton",
+      "team": "CHI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2002",
+      "source": "http://www.nytimes.com/2001/10/07/sports/pro-football-notebook-nfl-is-seeing-fewer-flaws-in-testing-players-for-drugs.html"
+    },
+    {
+      "name": "T.J. Slaughter",
+      "team": "JAX",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2002",
+      "source": "http://articles.orlandosentinel.com/2002-09-07/sports/0209070474_1_slaughter-coleman-tennessee-titans"
+    },
+    {
+      "name": "R. Solt",
+      "team": "PHI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://www.nytimes.com/1989/08/30/sports/nfl-bans-15-for-drugs-or-steroids.html"
+    },
+    {
+      "name": "B. Spikes",
+      "team": "NE",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/boston/nfl/news/story?id=5906897"
+    },
+    {
+      "name": "S. Springs",
+      "team": "SEA",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2001",
+      "source": "http://articles.philly.com/2001-11-28/sports/25320203_1_seahawks-springs-lamar-chapman-browns-president-carmen-policy"
+    },
+    {
+      "name": "J. Steed",
+      "team": "PIT",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1995",
+      "source": "http://articles.chicagotribune.com/1995-10-24/sports/9510240320_1_nose-tackle-joel-steed-bernard-williams-nfl"
+    },
+    {
+      "name": "M. Stevens",
+      "team": "PHI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1997",
+      "source": "http://articles.philly.com/2014-07-02/sports/51005838_1_lane-johnson-groveton-linebacker-jake-knott"
+    },
+    {
+      "name": "M. Stroud",
+      "team": "JAX",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2007",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=3088185"
+    },
+    {
+      "name": "A. Talib",
+      "team": "TB",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000079902/article/aqib-talib-of-buccaneers-suspended-four-games-for-adderall-use"
+    },
+    {
+      "name": "H. Taylor",
+      "team": "CHI",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1999",
+      "source": "http://www.nytimes.com/2001/10/07/sports/pro-football-notebook-nfl-is-seeing-fewer-flaws-in-testing-players-for-drugs.html"
+    },
+    {
+      "name": "H. Thomas",
+      "team": "NO",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2006",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2687451"
+    },
+    {
+      "name": "J. Thomas",
+      "team": "IND",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2011",
+      "source": "http://espn.go.com/nfl/story/_/id/7062953/indianapolis-colts-guard-jaime-thomas-banned-4-games-violating-steroid-policy"
+    },
+    {
+      "name": "R. Tucker",
+      "team": "CLE",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2007",
+      "source": "http://www.nfl.com/news/story/09000d5d8012fe77/article/browns-offensive-lineman-ryan-tucker-suspended-4-games-for-violating-nfl-steroid-policy"
+    },
+    {
+      "name": "K. Uecker",
+      "team": "GB",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://www.nytimes.com/1989/08/30/sports/nfl-bans-15-for-drugs-or-steroids.html"
+    },
+    {
+      "name": "A. Ulmer",
+      "team": "MIN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1997",
+      "source": "http://www.apnewsarchive.com/1997/Vikings-rookie-suspended-for-steroid-use/id-6fa45c120b20b6e4d035442c8a62da30"
+    },
+    {
+      "name": "J. Waddy",
+      "team": "GB",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1998",
+      "source": "http://a.espncdn.com/nfl/columns/pasquarelli_len/1403350.html"
+    },
+    {
+      "name": "J. Welbourn",
+      "team": "KC",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2005",
+      "source": "http://sports.espn.go.com/nfl/columns/story?columnist=pasquarelli_len&id=2150559"
+    },
+    {
+      "name": "L. West",
+      "team": "NYG",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1999",
+      "source": "http://static.espn.go.com/nfl/news/1999/1201/205894.html"
+    },
+    {
+      "name": "P. Wiggins",
+      "team": "PIT",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1998",
+      "source": "http://alb.merlinone.net/mweb/wmsql.wm.request?oneimage&imageid=5942417"
+    },
+    {
+      "name": "B. Williams",
+      "team": "CIN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.foxsports.com/nfl/story/Cincinnati-Bengals-Bobbie-Williams-suspension-substance-abuse-policy-090311?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxsports%2FRSS%2FNFL+(FOXSports.com+News+for+NFL)"
+    },
+    {
+      "name": "K. Winslow",
+      "team": "NYJ",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap2000000260647/article/kellen-winslow-suspended-4-games-for-ped-violation"
+    },
+    {
+      "name": "E. Wright",
+      "team": "TB",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://espn.go.com/nfl/story/_/id/8680228/eric-wright-tampa-bay-buccaneers-suspended-4-games"
+    },
+    {
+      "name": "F. Wycheck",
+      "team": "WAS",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "1994",
+      "source": "http://articles.philly.com/1994-11-30/sports/25868967_1_frank-wycheck-steroids-nfl-policy"
+    },
+    {
+      "name": "T. Zbikowski",
+      "team": "FREE",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2013",
+      "source": "http://espn.go.com/nfl/story/_/id/9660103/nfl-suspends-free-agents-tom-zbikowski-brandon-mcdonald"
+    },
+    {
+      "name": "L. Ziemba",
+      "team": "CAR",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://blogs.charlotte.com/panthers/2012/10/ziemba-suspended-4-games-for-violating-ped-policy.html"
+    },
+    {
+      "name": "W. Welker",
+      "team": "DEN",
+      "games": "4",
+      "category": "PEDs",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.usatoday.com/story/sports/nfl/broncos/2014/09/02/wes-welker-suspended-four-games-amphetamine-denver/14992795/"
+    },
+    {
+      "name": "J. Allen",
+      "team": "KC",
+      "games": "4",
+      "category": "Personal conduct",
+      "description": "DUI arrest, multiple",
+      "year": "2007",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2851494"
+    },
+    {
+      "name": "J. Cooper",
+      "team": "CAR",
+      "games": "4",
+      "category": "Personal conduct",
+      "description": "DUI arrest, drugs",
+      "year": "2003",
+      "source": "http://www.usatoday.com/sports/nfl/arrests/all/car/all/"
+    },
+    {
+      "name": "M. Goodson",
+      "team": "NYJ",
+      "games": "4",
+      "category": "Personal conduct",
+      "description": "Arrest, possession of weapon and marijuana",
+      "year": "2013",
+      "source": "http://espn.go.com/new-york/nfl/story/_/id/9603404/mike-goodson-new-york-jets-suspended-4-games"
+    },
+    {
+      "name": "C. Henry",
+      "team": "CIN",
+      "games": "4",
+      "category": "Personal conduct",
+      "description": "Mulitple arrests",
+      "year": "2007",
+      "source": "http://www.nfl.com/news/story/09000d5d80b58799/article/bengals-wr-henry-activated-after-serving-fourgame-suspension"
+    },
+    {
+      "name": "B. McKinnie",
+      "team": "MIN",
+      "games": "4",
+      "category": "Personal conduct",
+      "description": "Accused of disorderly conduct, resisting arrest",
+      "year": "2008",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=3560135"
+    },
+    {
+      "name": "B. Roethlisberger",
+      "team": "PIT",
+      "games": "4",
+      "category": "Personal conduct",
+      "description": "Sexual assault",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/09000d5d81a3eb23/article/goodell-reduces-roethlisbergers-suspension-to-four-games"
+    },
+    {
+      "name": "E. Warfield",
+      "team": "KC",
+      "games": "4",
+      "category": "Personal conduct",
+      "description": "DUI arrest, multiple",
+      "year": "2005",
+      "source": "http://sports.espn.go.com/nfl/columns/story?columnist=pasquarelli_len&id=2106473"
+    },
+    {
+      "name": "M. Prater",
+      "team": "DEN",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "Alcohol-related",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap3000000383065/article/broncos-matt-prater-will-be-suspended-four-games"
+    },
+    {
+      "name": "F. Alexander",
+      "team": "HOU",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2014",
+      "source": "http://espn.go.com/nfl/story/_/id/10873670/de-frank-alexander-carolina-panthers-suspended-four-games-violating-nfl-substance-abuse-policy"
+    },
+    {
+      "name": "J. Blackmon",
+      "team": "JAX",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2013",
+      "source": "http://thebiglead.com/2013/04/30/justin-blackmon-of-the-jaguars-suspended-for-4-games-for-violating-league-policy-on-substance-abuse/"
+    },
+    {
+      "name": "L. Brazill",
+      "team": "IND",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000214428/article/lavon-brazill-suspended-for-violating-substance-policy"
+    },
+    {
+      "name": "B. Collins",
+      "team": "MIA",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000214394/article/brandon-collins-banned-for-violating-substance-policy"
+    },
+    {
+      "name": "F. Davis",
+      "team": "WAS",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "Marijuana-related",
+      "year": "2011",
+      "source": "http://www.cbssports.com/nfl/eye-on-football/24448694/redskins-te-fred-davis-suspended-Indefiniteinitely-by-nfl"
+    },
+    {
+      "name": "J. Ferguson",
+      "team": "NYJ",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "1999",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=4973457"
+    },
+    {
+      "name": "W. Green",
+      "team": "CLE",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "Marijuana-related",
+      "year": "2003",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=1665738"
+    },
+    {
+      "name": "R. Harrison",
+      "team": "NE",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2007",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2999994"
+    },
+    {
+      "name": "W. Hill",
+      "team": "NYG",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "Marijuana-related",
+      "year": "2013",
+      "source": "http://espn.go.com/new-york/nfl/story/_/id/11007693/will-hill-new-york-giants-suspended-six-games-violating-nfl-substance-abuse-policy"
+    },
+    {
+      "name": "S. Holmes",
+      "team": "NYJ",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/new-york/nfl/news/story?id=5077088"
+    },
+    {
+      "name": "J. Hosley",
+      "team": "TEN",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap2000000355977/article/giants-jayron-hosley-suspended-for-four-games"
+    },
+    {
+      "name": "R. Jackson",
+      "team": "WAS",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000152373/article/washington-redskins-lb-rob-jackson-suspended-four-games"
+    },
+    {
+      "name": "T. Jackson",
+      "team": "TB",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2009",
+      "source": "http://www.nfl.com/news/story/0ap2000000364087/article/tanard-jackson-suspended-Indefiniteinitely-by-nfl"
+    },
+    {
+      "name": "J. James",
+      "team": "ARI",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2013",
+      "source": "http://profootballtalk.nbcsports.com/2013/02/13/javarris-james-suspended-four-games/"
+    },
+    {
+      "name": "V. Miller",
+      "team": "DEN",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "Marijuana-related",
+      "year": "2013",
+      "source": "http://www.denverpost.com/ci_23711440/broncos-star-von-miller-suspended-four-games-by"
+    },
+    {
+      "name": "O. Mobley",
+      "team": "DEN",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "1989",
+      "source": "http://articles.chicagotribune.com/1989-08-30/sports/8901090097_1_steroid-drug-policy-league-spokesman-joe-browne"
+    },
+    {
+      "name": "B. Moore",
+      "team": "WAS",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2014",
+      "source": "http://www.cbssports.com/nfl/eye-on-football/24519089/redskins-de-brandon-moore-suspended-4-games"
+    },
+    {
+      "name": "S. Nelson",
+      "team": "BUF",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2010",
+      "source": "http://www.buffalobills.com/news/article-3/TE-Nelson-suspended-for-first-four-games/b4507a26-f7ac-4bf9-9cf7-c47b2f079781"
+    },
+    {
+      "name": "B. Reed",
+      "team": "PIT",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.behindthesteelcurtain.com/2013/7/19/4537156/former-steelers-receiver-bert-reed-suspended-four-games"
+    },
+    {
+      "name": "D. Robinson",
+      "team": "CAR",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=5906973"
+    },
+    {
+      "name": "A. Sanders",
+      "team": "JAX",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2014",
+      "source": "http://espn.go.com/nfl/story/_/id/11249916/ace-sanders-jacksonville-jaguars-takes-leave-suspension-looming"
+    },
+    {
+      "name": "V. Taua",
+      "team": "SEA",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2013",
+      "source": "http://seattletimes.com/html/seahawks/2022327022_seahawks25xml.html"
+    },
+    {
+      "name": "C. Thompson",
+      "team": "BAL",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000156390/article/christian-thompson-suspended-by-nfl-for-substance-abuse"
+    },
+    {
+      "name": "W. Thurmond",
+      "team": "SEA",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap2000000286330/article/walter-thurmond-to-drop-appeal-of-4game-suspension"
+    },
+    {
+      "name": "D. Washington",
+      "team": "ARI",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap2000000354739/article/daryl-washington-suspended-for-at-least-one-year"
+    },
+    {
+      "name": "R. Watkins",
+      "team": "KC",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2014",
+      "source": "http://espn.go.com/nfl/story/_/id/11173854/rokevious-watkins-kansas-city-chiefs-suspended-four-games-violating-nfl-substance-abuse-policy"
+    },
+    {
+      "name": "L. White",
+      "team": "FREE",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2010",
+      "source": "http://www.nfl.com/news/story/09000d5d818ee863/article/nfl-reveals-fourgame-ban-for-white-eightgamer-for-thomas"
+    },
+    {
+      "name": "R. Williams",
+      "team": "MIA",
+      "games": "4",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2005",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2421774"
+    },
+    {
+      "name": "B. Browner",
+      "team": "SEA",
+      "games": "4",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2013",
+      "source": "http://profootballtalk.nbcsports.com/2014/03/05/browner-is-reinstated-with-four-game-suspension/"
+    },
+    {
+      "name": "J. Lewis",
+      "team": "BAL",
+      "games": "4",
+      "category": "Substance abuse, repeated offense",
+      "description": "",
+      "year": "2004",
+      "source": "http://sports.espn.go.com/nfl/columns/story?columnist=pasquarelli_len&id=1279780"
+    },
+    {
+      "name": "A. Smith",
+      "team": "HOU",
+      "games": "3",
+      "category": "In-game violence",
+      "description": "Ripping off opponent's helmet",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000233139/article/houston-texans-de-antonio-smiths-suspension-appeal-denied"
+    },
+    {
+      "name": "V. Amoia",
+      "team": "NO",
+      "games": "3",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://www.nytimes.com/1989/08/30/sports/two-suspended-jets-are-out-of-a-job.html"
+    },
+    {
+      "name": "J. Brandom",
+      "team": "ARI",
+      "games": "3",
+      "category": "PEDs",
+      "description": "",
+      "year": "1990",
+      "source": "http://articles.latimes.com/1990-08-14/sports/sp-693_1_offensive-linemen"
+    },
+    {
+      "name": "L. Cheek",
+      "team": "DAL",
+      "games": "3",
+      "category": "PEDs",
+      "description": "",
+      "year": "1990",
+      "source": "http://www.nytimes.com/1990/08/17/sports/drug-suspension-for-bax-of-bucs.html"
+    },
+    {
+      "name": "B. Hartmann",
+      "team": "WAS",
+      "games": "3",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://profootballtalk.nbcsports.com/2012/05/22/hartmann-explains-his-three-game-suspension/"
+    },
+    {
+      "name": "M. Mraz",
+      "team": "LA",
+      "games": "3",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://articles.latimes.com/1989-08-30/sports/sp-1284_1_nfl-suspends"
+    },
+    {
+      "name": "B. Riley",
+      "team": "NYJ",
+      "games": "3",
+      "category": "PEDs",
+      "description": "",
+      "year": "1989",
+      "source": "http://www.nytimes.com/1989/08/30/sports/two-suspended-jets-are-out-of-a-job.html"
+    },
+    {
+      "name": "C. Benson",
+      "team": "DEN",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "Misdemeanour assault",
+      "year": "2014",
+      "source": "http://www.foxsports.com/nfl/story/Cincinnati-Bengals-RB-Cedric-Benson-suspended-three-games-092211"
+    },
+    {
+      "name": "A. Berry",
+      "team": "CLE",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "DUI arrest",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000052406/article/aaron-berry-gets-3game-nfl-suspension-for-arrests"
+    },
+    {
+      "name": "J. Felton",
+      "team": "CAR",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "Reckless driving",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000234517/article/minnesota-vikings-jerome-felton-suspended-3-games"
+    },
+    {
+      "name": "C. Haggans",
+      "team": "WAS",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "DUI arrest",
+      "year": "2013",
+      "source": "http://www.mercurynews.com/49ers/ci_21575932/san-francisco-49ers-linebacker-clark-haggans-suspended?source=rss_viewed"
+    },
+    {
+      "name": "V. Jackson",
+      "team": "SD",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "DUI arrest",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=5345629"
+    },
+    {
+      "name": "D. Jarrett",
+      "team": "CAR",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "DUI arrest",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/09000d5d829ad13c/article/dwayne-jarrett-announces-retirement-from-football"
+    },
+    {
+      "name": "M. Jones",
+      "team": "JAX",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "Arrest, cocaine possession",
+      "year": "2009",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=4207106"
+    },
+    {
+      "name": "M. Lynch",
+      "team": "BUF",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "Misdemeanour gun charge",
+      "year": "2009",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=4054396"
+    },
+    {
+      "name": "M. Pittman",
+      "team": "TB",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2004",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=1826233"
+    },
+    {
+      "name": "D. Washington",
+      "team": "KC",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "DUI, marijuana-related",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/09000d5d82ab54ab/article/kansas-city-chiefs-donald-washington-charged-with-dui"
+    },
+    {
+      "name": "D.J. Williams",
+      "team": "DEN",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "DUI arrest",
+      "year": "2012",
+      "source": "http://espn.go.com/nfl/story/_/id/8466699/denver-broncos-linebacker-dj-williams-suspended-3-more-games"
+    },
+    {
+      "name": "L. Irvin",
+      "team": "LA",
+      "games": "3",
+      "category": "Substance abuse",
+      "description": "Marijuana-related",
+      "year": "1989",
+      "source": "http://articles.latimes.com/1989-08-30/sports/sp-1280_1_leroy-irvin"
+    },
+    {
+      "name": "J. Simpson",
+      "team": "IND",
+      "games": "3",
+      "category": "Substance abuse",
+      "description": "Marijuana-related",
+      "year": "2012",
+      "source": "http://espn.go.com/nfl/story/_/id/7849039/free-agent-receiver-jerome-simpson-suspended-three-games-league-source-says"
+    },
+    {
+      "name": "C. Martin",
+      "team": "GB",
+      "games": "2",
+      "category": "In-game violence",
+      "description": "Illegal hit",
+      "year": "1986",
+      "source": "http://espn.go.com/blog/nflnation/tag/_/name/frank-filchock"
+    },
+    {
+      "name": "N. Suh",
+      "team": "DET",
+      "games": "2",
+      "category": "In-game violence",
+      "description": "Stomping on player",
+      "year": "2011",
+      "source": "http://espn.go.com/nfl/story/_/id/7293935/ndamukong-suh-detroit-lions-suspended-two-games-pay"
+    },
+    {
+      "name": "W. Smith",
+      "team": "NO",
+      "games": "2",
+      "category": "PEDs",
+      "description": "",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/09000d5d821ea898/article/nfl-suspends-vikes-williams-saints-smith-in-starcaps-case"
+    },
+    {
+      "name": "K. Williams",
+      "team": "MIN",
+      "games": "2",
+      "category": "PEDs",
+      "description": "",
+      "year": "2011",
+      "source": "http://espn.go.com/nfl/story/_/id/6922853/nfl-suspends-minnesota-vikings-kevin-williams-three-others-two-games"
+    },
+    {
+      "name": "P. Williams",
+      "team": "MIN",
+      "games": "2",
+      "category": "PEDs",
+      "description": "",
+      "year": "2011",
+      "source": "http://espn.go.com/nfl/story/_/id/6922853/nfl-suspends-minnesota-vikings-kevin-williams-three-others-two-games"
+    },
+    {
+      "name": "S. Brandon",
+      "team": "DEN",
+      "games": "2",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2007",
+      "source": "http://www.denverpost.com/broncos/ci_6362668"
+    },
+    {
+      "name": "J. Bridges",
+      "team": "ARI",
+      "games": "2",
+      "category": "Personal conduct",
+      "description": "Arrest, misdemeanour assault for pointing gun at stripper",
+      "year": "2012",
+      "source": "http://www.newsobserver.com/2012/11/14/2482573/guard-jeremy-bridges-to-get-2nd.html"
+    },
+    {
+      "name": "F. Evans",
+      "team": "MIN",
+      "games": "2",
+      "category": "Personal conduct",
+      "description": "Marijuana-related",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/09000d5d80496e88/article/vikings-evans-gets-twogame-suspension-per-nfl-conduct-policy"
+    },
+    {
+      "name": "L. Hill",
+      "team": "SEA",
+      "games": "2",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000132752/article/seattle-seahawks-leroy-hill-arrested-on-assault-charges"
+    },
+    {
+      "name": "M. Leshoure",
+      "team": "DET",
+      "games": "2",
+      "category": "Personal conduct",
+      "description": "Arrest, Marijuana-related",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/09000d5d829cc3b8/article/mikel-leshoure-suspended-two-games-by-nfl"
+    },
+    {
+      "name": "B. McDonald",
+      "team": "FREE",
+      "games": "2",
+      "category": "Personal conduct",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.usatoday.com/story/sports/nfl/2013/09/10/nfl-suspends-tom-zbikowski-brandon-mcdonald/2795979/"
+    },
+    {
+      "name": "B. Underwood",
+      "team": "GB",
+      "games": "2",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2011",
+      "source": "http://www.nationalfootballpost.com/Report-NFL-suspends-Brandon-Underwood-for-2-games.html"
+    },
+    {
+      "name": "M. Vick",
+      "team": "ATL",
+      "games": "2",
+      "category": "Personal conduct",
+      "description": "Dogfighting",
+      "year": "2007",
+      "source": "http://espn.go.com/blog/nflnation/tag/_/name/frank-filchock"
+    },
+    {
+      "name": "C. Williams",
+      "team": "BAL",
+      "games": "2",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=5401102"
+    },
+    {
+      "name": "J. Babineaux",
+      "team": "SEA",
+      "games": "2",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2008",
+      "source": "http://seattletimes.com/html/seahawks/2008148770_webhawk31.html"
+    },
+    {
+      "name": "J. Gordon",
+      "team": "CLE",
+      "games": "2",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000210218/article/josh-gordon-suspended-two-cleveland-browns-games"
+    },
+    {
+      "name": "D. Goldson",
+      "team": "DEN",
+      "games": "1",
+      "category": "In-game violence",
+      "description": "Head-butt",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap2000000284209/article/bucs-dashon-goldson-has-onegame-suspension-upheld"
+    },
+    {
+      "name": "M. Griffin",
+      "team": "TEN",
+      "games": "1",
+      "category": "In-game violence",
+      "description": "Illegal hit",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap2000000287948/article/titans-michael-griffin-suspended-1-game-for-illegal-hit"
+    },
+    {
+      "name": "J. Harrison",
+      "team": "PIT",
+      "games": "1",
+      "category": "In-game violence",
+      "description": "Helmet-to-helmet hit",
+      "year": "2011",
+      "source": "http://espn.go.com/nfl/story/_/id/7348112/pittsburgh-steelers-james-harrison-banned-1-game-hit-cleveland-browns-colt-mccoy"
+    },
+    {
+      "name": "J. Mays",
+      "team": "DEN",
+      "games": "1",
+      "category": "In-game violence",
+      "description": "Helmet-to-helmet hit",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000066219/article/joe-mays-suspended-one-game-for-hit-on-matt-schaub"
+    },
+    {
+      "name": "B. Meriweather",
+      "team": "WAS",
+      "games": "1",
+      "category": "In-game violence",
+      "description": "Helmet-to-helmet hit",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap2000000268595/article/brandon-meriweathers-suspension-reduced-to-1-game"
+    },
+    {
+      "name": "E. Walden",
+      "team": "IND",
+      "games": "1",
+      "category": "In-game violence",
+      "description": "Head-butt",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap2000000284117/article/erik-walden-has-onegame-ban-for-headbutt-upheld"
+    },
+    {
+      "name": "J. Babineaux",
+      "team": "ATL",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Accused of battery and resisting arrest",
+      "year": "2010",
+      "source": "http://usatoday30.usatoday.com/sports/football/nfl/falcons/2010-08-03-jonathan-babineaux_N.htm"
+    },
+    {
+      "name": "C. Benson",
+      "team": "PIT",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Misdemeanour assault",
+      "year": "2014",
+      "source": "http://espn.go.com/nfl/story/_/id/7119178/suspension-cincinnati-bengals-cedric-benson-reduced-1-game-3"
+    },
+    {
+      "name": "R. Bernard",
+      "team": "SEA",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Assault",
+      "year": "2008",
+      "source": "http://seattletimes.com/html/seahawks/2008148770_webhawk31.html"
+    },
+    {
+      "name": "M. Boley",
+      "team": "NYG",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2009",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=4311313"
+    },
+    {
+      "name": "K. Britt",
+      "team": "TEN",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "DUI arrest",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/0ap1000000056660/article/kenny-britt-of-titans-suspended-one-game-by-nfl"
+    },
+    {
+      "name": "D. Carswell",
+      "team": "DEN",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2003",
+      "source": "http://a.espncdn.com/nfl/news/2003/0703/1576427.html"
+    },
+    {
+      "name": "D. Dobbs",
+      "team": "SF",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "DUI arrest, possession of marijuana",
+      "year": "2013",
+      "source": "http://espn.go.com/nfl/trainingcamp13/story/_/id/9568430/demarcus-dobbs-san-francisco-49ers-suspended-week-1"
+    },
+    {
+      "name": "B. Hopkins",
+      "team": "TEN",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2005",
+      "source": "http://sports.espn.go.com/nfl/columns/story?columnist=pasquarelli_len&id=2138940"
+    },
+    {
+      "name": "L. Johnson",
+      "team": "KC",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Simple assault for spitting drink in a woman's face",
+      "year": "2008",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=3675871"
+    },
+    {
+      "name": "R. Manning",
+      "team": "CHI",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Felony arrest charges",
+      "year": "2006",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2672378"
+    },
+    {
+      "name": "B. Marshall",
+      "team": "DEN",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/09000d5d827969b7/article/report-brandon-marshall-accused-of-hitting-woman-outside-club"
+    },
+    {
+      "name": "T. McDaniel",
+      "team": "TB",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=5622330"
+    },
+    {
+      "name": "Q. Ojinnaka",
+      "team": "ATL",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2010",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=5249193"
+    },
+    {
+      "name": "M. Purify",
+      "team": "CIN",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Disorderly conduct",
+      "year": "2010",
+      "source": "http://espn.go.com/blog/afcnorth/post/_/id/16670/bengals-wr-purify-suspended-one-game"
+    },
+    {
+      "name": "D. Rhodes",
+      "team": "CAR",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Reckless driving",
+      "year": "2007",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=2925395"
+    },
+    {
+      "name": "V. Riley",
+      "team": "KC",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2002",
+      "source": "http://a.espncdn.com/nfl/news/2003/0703/1576427.html"
+    },
+    {
+      "name": "D. Rodgers",
+      "team": "MIA",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2003",
+      "source": "http://articles.sun-sentinel.com/2002-07-19/sports/0207190115_1_derrick-rodgers-kareff-rodgers-william-peguero"
+    },
+    {
+      "name": "A. Talib",
+      "team": "TB",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Simple battery, resisting arrest",
+      "year": "2009",
+      "source": "http://www.denverpost.com/broncos/ci_25352579/broncos-cornerback-aqib-talib-comes-denver-plenty-baggage"
+    },
+    {
+      "name": "F. Washington",
+      "team": "OAK",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "Domestic violence",
+      "year": "2008",
+      "source": "http://espn.go.com/blog/baltimore-ravens/post/_/id/10593/what-punishment-should-ray-rice-expect"
+    },
+    {
+      "name": "P. Zukauskas",
+      "team": "CLE",
+      "games": "1",
+      "category": "Personal conduct",
+      "description": "DUI (acquitted)",
+      "year": "2004",
+      "source": "http://www.usatoday.com/sports/nfl/arrests/"
+    },
+    {
+      "name": "N. Bradham",
+      "team": "BUF",
+      "games": "1",
+      "category": "Substance abuse",
+      "description": "Marijuana-related",
+      "year": "2014",
+      "source": "http://www.nfl.com/news/story/0ap2000000371523/article/bills-lb-nigel-bradham-suspended-for-opening-game"
+    },
+    {
+      "name": "N. Collins",
+      "team": "CHI",
+      "games": "1",
+      "category": "Substance abuse",
+      "description": "Marijuana-related",
+      "year": "2012",
+      "source": "http://www.nfl.com/news/story/09000d5d82aaddb5/article/chicago-bears-dt-nate-collins-suspended-one-game-by-nfl"
+    },
+    {
+      "name": "T. Hali",
+      "team": "KC",
+      "games": "1",
+      "category": "Substance abuse",
+      "description": "",
+      "year": "2012",
+      "source": "http://espn.go.com/nfl/trainingcamp12/story/_/id/8284849/kansas-city-chiefs-tamba-hali-suspended-one-game-nfl"
+    },
+    {
+      "name": "I. Pead",
+      "team": "STL",
+      "games": "1",
+      "category": "Substance abuse",
+      "description": "Marijuana-related",
+      "year": "2013",
+      "source": "http://www.nfl.com/news/story/0ap1000000208343/article/isaiah-pead-suspended-for-substance-abuse-violation"
+    },
+    {
+      "name": "D. Reed",
+      "team": "BAL",
+      "games": "1",
+      "category": "Substance abuse",
+      "description": "Marijuana-related",
+      "year": "2011",
+      "source": "http://www.nfl.com/news/story/09000d5d821eb87b/article/ravens-david-reed-suspended-for-substanceabuse-violation"
+    },
+    {
+      "name": "L. Wilson",
+      "team": "NO",
+      "games": "1",
+      "category": "Substance abuse",
+      "description": "Marijuana-related",
+      "year": "2012",
+      "source": "http://profootballtalk.nbcsports.com/2012/07/06/saints-linebacker-lawrence-wilson-suspended-fined-by-league/"
+    },
+    {
+      "name": "D. Scott",
+      "team": "MIN",
+      "games": "3",
+      "category": "Personal conduct",
+      "description": "Child endangerment",
+      "year": "2008",
+      "source": "http://sports.espn.go.com/nfl/news/story?id=3487505"
+    }
+  ],
+  "meta": {
+    "title": "NFL Player Suspensions - Free Download",
+    "description": "FiveThirtyEight dataset of 269 NFL player suspensions including player name, team, games suspended, violation category, and year. Contains 269 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "NFL Player Suspensions | ListBase",
+    "seo_description": "Download NFL Player Suspensions — 269 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 269 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/vincentarelbundock/Rdatasets"
+    ]
+  }
+}

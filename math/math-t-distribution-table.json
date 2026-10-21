@@ -1,0 +1,443 @@
+{
+  "id": "math-t-distribution-table",
+  "name": "Student's t-Distribution Critical Values Table Dataset",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "degrees_of_freedom",
+      "label": "Degrees of Freedom (df)",
+      "type": "number"
+    },
+    {
+      "key": "confidence_90",
+      "label": "t (α=0.10, 90%)",
+      "type": "number"
+    },
+    {
+      "key": "confidence_95",
+      "label": "t (α=0.05, 95%)",
+      "type": "number"
+    },
+    {
+      "key": "confidence_975",
+      "label": "t (α=0.025, 97.5%)",
+      "type": "number"
+    },
+    {
+      "key": "confidence_99",
+      "label": "t (α=0.01, 99%)",
+      "type": "number"
+    },
+    {
+      "key": "confidence_995",
+      "label": "t (α=0.005, 99.5%)",
+      "type": "number"
+    },
+    {
+      "key": "confidence_999",
+      "label": "t (α=0.001, 99.9%)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "degrees_of_freedom": 1,
+      "confidence_90": 3.078,
+      "confidence_95": 6.314,
+      "confidence_975": 12.706,
+      "confidence_99": 31.821,
+      "confidence_995": 63.657,
+      "confidence_999": 318.309
+    },
+    {
+      "degrees_of_freedom": 2,
+      "confidence_90": 1.886,
+      "confidence_95": 2.92,
+      "confidence_975": 4.303,
+      "confidence_99": 6.965,
+      "confidence_995": 9.925,
+      "confidence_999": 22.327
+    },
+    {
+      "degrees_of_freedom": 3,
+      "confidence_90": 1.638,
+      "confidence_95": 2.353,
+      "confidence_975": 3.182,
+      "confidence_99": 4.541,
+      "confidence_995": 5.841,
+      "confidence_999": 10.215
+    },
+    {
+      "degrees_of_freedom": 4,
+      "confidence_90": 1.533,
+      "confidence_95": 2.132,
+      "confidence_975": 2.776,
+      "confidence_99": 3.747,
+      "confidence_995": 4.604,
+      "confidence_999": 7.173
+    },
+    {
+      "degrees_of_freedom": 5,
+      "confidence_90": 1.476,
+      "confidence_95": 2.015,
+      "confidence_975": 2.571,
+      "confidence_99": 3.365,
+      "confidence_995": 4.032,
+      "confidence_999": 5.893
+    },
+    {
+      "degrees_of_freedom": 6,
+      "confidence_90": 1.44,
+      "confidence_95": 1.943,
+      "confidence_975": 2.447,
+      "confidence_99": 3.143,
+      "confidence_995": 3.707,
+      "confidence_999": 5.208
+    },
+    {
+      "degrees_of_freedom": 7,
+      "confidence_90": 1.415,
+      "confidence_95": 1.895,
+      "confidence_975": 2.365,
+      "confidence_99": 2.998,
+      "confidence_995": 3.499,
+      "confidence_999": 4.785
+    },
+    {
+      "degrees_of_freedom": 8,
+      "confidence_90": 1.397,
+      "confidence_95": 1.86,
+      "confidence_975": 2.306,
+      "confidence_99": 2.896,
+      "confidence_995": 3.355,
+      "confidence_999": 4.501
+    },
+    {
+      "degrees_of_freedom": 9,
+      "confidence_90": 1.383,
+      "confidence_95": 1.833,
+      "confidence_975": 2.262,
+      "confidence_99": 2.821,
+      "confidence_995": 3.25,
+      "confidence_999": 4.297
+    },
+    {
+      "degrees_of_freedom": 10,
+      "confidence_90": 1.372,
+      "confidence_95": 1.812,
+      "confidence_975": 2.228,
+      "confidence_99": 2.764,
+      "confidence_995": 3.169,
+      "confidence_999": 4.144
+    },
+    {
+      "degrees_of_freedom": 11,
+      "confidence_90": 1.363,
+      "confidence_95": 1.796,
+      "confidence_975": 2.201,
+      "confidence_99": 2.718,
+      "confidence_995": 3.106,
+      "confidence_999": 4.025
+    },
+    {
+      "degrees_of_freedom": 12,
+      "confidence_90": 1.356,
+      "confidence_95": 1.782,
+      "confidence_975": 2.179,
+      "confidence_99": 2.681,
+      "confidence_995": 3.055,
+      "confidence_999": 3.93
+    },
+    {
+      "degrees_of_freedom": 13,
+      "confidence_90": 1.35,
+      "confidence_95": 1.771,
+      "confidence_975": 2.16,
+      "confidence_99": 2.65,
+      "confidence_995": 3.012,
+      "confidence_999": 3.852
+    },
+    {
+      "degrees_of_freedom": 14,
+      "confidence_90": 1.345,
+      "confidence_95": 1.761,
+      "confidence_975": 2.145,
+      "confidence_99": 2.624,
+      "confidence_995": 2.977,
+      "confidence_999": 3.787
+    },
+    {
+      "degrees_of_freedom": 15,
+      "confidence_90": 1.341,
+      "confidence_95": 1.753,
+      "confidence_975": 2.131,
+      "confidence_99": 2.602,
+      "confidence_995": 2.947,
+      "confidence_999": 3.733
+    },
+    {
+      "degrees_of_freedom": 16,
+      "confidence_90": 1.337,
+      "confidence_95": 1.746,
+      "confidence_975": 2.12,
+      "confidence_99": 2.583,
+      "confidence_995": 2.921,
+      "confidence_999": 3.686
+    },
+    {
+      "degrees_of_freedom": 17,
+      "confidence_90": 1.333,
+      "confidence_95": 1.74,
+      "confidence_975": 2.11,
+      "confidence_99": 2.567,
+      "confidence_995": 2.898,
+      "confidence_999": 3.646
+    },
+    {
+      "degrees_of_freedom": 18,
+      "confidence_90": 1.33,
+      "confidence_95": 1.734,
+      "confidence_975": 2.101,
+      "confidence_99": 2.552,
+      "confidence_995": 2.878,
+      "confidence_999": 3.61
+    },
+    {
+      "degrees_of_freedom": 19,
+      "confidence_90": 1.328,
+      "confidence_95": 1.729,
+      "confidence_975": 2.093,
+      "confidence_99": 2.539,
+      "confidence_995": 2.861,
+      "confidence_999": 3.579
+    },
+    {
+      "degrees_of_freedom": 20,
+      "confidence_90": 1.325,
+      "confidence_95": 1.725,
+      "confidence_975": 2.086,
+      "confidence_99": 2.528,
+      "confidence_995": 2.845,
+      "confidence_999": 3.552
+    },
+    {
+      "degrees_of_freedom": 21,
+      "confidence_90": 1.323,
+      "confidence_95": 1.721,
+      "confidence_975": 2.08,
+      "confidence_99": 2.518,
+      "confidence_995": 2.831,
+      "confidence_999": 3.527
+    },
+    {
+      "degrees_of_freedom": 22,
+      "confidence_90": 1.321,
+      "confidence_95": 1.717,
+      "confidence_975": 2.074,
+      "confidence_99": 2.508,
+      "confidence_995": 2.819,
+      "confidence_999": 3.505
+    },
+    {
+      "degrees_of_freedom": 23,
+      "confidence_90": 1.319,
+      "confidence_95": 1.714,
+      "confidence_975": 2.069,
+      "confidence_99": 2.5,
+      "confidence_995": 2.807,
+      "confidence_999": 3.485
+    },
+    {
+      "degrees_of_freedom": 24,
+      "confidence_90": 1.318,
+      "confidence_95": 1.711,
+      "confidence_975": 2.064,
+      "confidence_99": 2.492,
+      "confidence_995": 2.797,
+      "confidence_999": 3.467
+    },
+    {
+      "degrees_of_freedom": 25,
+      "confidence_90": 1.316,
+      "confidence_95": 1.708,
+      "confidence_975": 2.06,
+      "confidence_99": 2.485,
+      "confidence_995": 2.787,
+      "confidence_999": 3.45
+    },
+    {
+      "degrees_of_freedom": 26,
+      "confidence_90": 1.315,
+      "confidence_95": 1.706,
+      "confidence_975": 2.056,
+      "confidence_99": 2.479,
+      "confidence_995": 2.779,
+      "confidence_999": 3.435
+    },
+    {
+      "degrees_of_freedom": 27,
+      "confidence_90": 1.314,
+      "confidence_95": 1.703,
+      "confidence_975": 2.052,
+      "confidence_99": 2.473,
+      "confidence_995": 2.771,
+      "confidence_999": 3.421
+    },
+    {
+      "degrees_of_freedom": 28,
+      "confidence_90": 1.313,
+      "confidence_95": 1.701,
+      "confidence_975": 2.048,
+      "confidence_99": 2.467,
+      "confidence_995": 2.763,
+      "confidence_999": 3.408
+    },
+    {
+      "degrees_of_freedom": 29,
+      "confidence_90": 1.311,
+      "confidence_95": 1.699,
+      "confidence_975": 2.045,
+      "confidence_99": 2.462,
+      "confidence_995": 2.756,
+      "confidence_999": 3.396
+    },
+    {
+      "degrees_of_freedom": 30,
+      "confidence_90": 1.31,
+      "confidence_95": 1.697,
+      "confidence_975": 2.042,
+      "confidence_99": 2.457,
+      "confidence_995": 2.75,
+      "confidence_999": 3.385
+    },
+    {
+      "degrees_of_freedom": 35,
+      "confidence_90": 1.306,
+      "confidence_95": 1.69,
+      "confidence_975": 2.03,
+      "confidence_99": 2.438,
+      "confidence_995": 2.724,
+      "confidence_999": 3.34
+    },
+    {
+      "degrees_of_freedom": 40,
+      "confidence_90": 1.303,
+      "confidence_95": 1.684,
+      "confidence_975": 2.021,
+      "confidence_99": 2.423,
+      "confidence_995": 2.704,
+      "confidence_999": 3.307
+    },
+    {
+      "degrees_of_freedom": 45,
+      "confidence_90": 1.301,
+      "confidence_95": 1.679,
+      "confidence_975": 2.014,
+      "confidence_99": 2.412,
+      "confidence_995": 2.69,
+      "confidence_999": 3.281
+    },
+    {
+      "degrees_of_freedom": 50,
+      "confidence_90": 1.299,
+      "confidence_95": 1.676,
+      "confidence_975": 2.009,
+      "confidence_99": 2.403,
+      "confidence_995": 2.678,
+      "confidence_999": 3.261
+    },
+    {
+      "degrees_of_freedom": 60,
+      "confidence_90": 1.296,
+      "confidence_95": 1.671,
+      "confidence_975": 2,
+      "confidence_99": 2.39,
+      "confidence_995": 2.66,
+      "confidence_999": 3.232
+    },
+    {
+      "degrees_of_freedom": 70,
+      "confidence_90": 1.294,
+      "confidence_95": 1.667,
+      "confidence_975": 1.994,
+      "confidence_99": 2.381,
+      "confidence_995": 2.648,
+      "confidence_999": 3.211
+    },
+    {
+      "degrees_of_freedom": 80,
+      "confidence_90": 1.292,
+      "confidence_95": 1.664,
+      "confidence_975": 1.99,
+      "confidence_99": 2.374,
+      "confidence_995": 2.639,
+      "confidence_999": 3.195
+    },
+    {
+      "degrees_of_freedom": 90,
+      "confidence_90": 1.291,
+      "confidence_95": 1.662,
+      "confidence_975": 1.987,
+      "confidence_99": 2.368,
+      "confidence_995": 2.632,
+      "confidence_999": 3.183
+    },
+    {
+      "degrees_of_freedom": 100,
+      "confidence_90": 1.29,
+      "confidence_95": 1.66,
+      "confidence_975": 1.984,
+      "confidence_99": 2.364,
+      "confidence_995": 2.626,
+      "confidence_999": 3.174
+    },
+    {
+      "degrees_of_freedom": 120,
+      "confidence_90": 1.289,
+      "confidence_95": 1.658,
+      "confidence_975": 1.98,
+      "confidence_99": 2.358,
+      "confidence_995": 2.617,
+      "confidence_999": 3.16
+    },
+    {
+      "degrees_of_freedom": 1000,
+      "confidence_90": 1.282,
+      "confidence_95": 1.646,
+      "confidence_975": 1.962,
+      "confidence_99": 2.33,
+      "confidence_995": 2.581,
+      "confidence_999": 3.098
+    }
+  ],
+  "meta": {
+    "seo_title": "Student's t-Distribution Table Values - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download of Student's t-Distribution critical values for various confidence levels and degrees of freedom (1-40, infinity). 41 records. Available in Excel, CSV, and PDF formats.",
+    "title": "Student's t-Distribution Critical Values Table Dataset",
+    "description": "This dataset provides Student's t-Distribution critical values for 41 different degrees of freedom, ranging from 1 to 40 and infinity. It includes values for common confidence levels (90%, 95%, 97.5%, 99%, 99.5%, 99.9%) useful for hypothesis testing and confidence interval calculations.",
+    "key_takeaways": [
+      "Access critical t-values for 41 degrees of freedom and multiple confidence levels.",
+      "Explore essential statistical reference data for hypothesis testing and confidence intervals.",
+      "Download comprehensive Student's t-Distribution values in ready-to-use formats.",
+      "Leverage accurate t-table data for academic research, statistical analysis, and teaching."
+    ],
+    "keywords": [
+      "student t distribution table",
+      "t critical values excel",
+      "degrees of freedom table",
+      "confidence interval t table csv",
+      "hypothesis testing t values",
+      "t distribution table pdf download"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your Python or R scripts for automated statistical computations and hypothesis testing in data science projects.",
+      "Use the **Excel** file to quickly look up t-values, perform statistical calculations, or create custom reference sheets for academic assignments.",
+      "Print the **PDF** version for convenient offline reference in classrooms, study groups, or during examinations where digital devices are restricted.",
+      "Integrate this data into statistical software or web applications to provide real-time critical t-values for users performing various analyses."
+    ]
+  },
+  "record_count": 41,
+  "title": "Student's t-Distribution Critical Values Table Dataset"
+}

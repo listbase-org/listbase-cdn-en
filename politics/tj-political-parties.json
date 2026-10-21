@@ -1,0 +1,151 @@
+{
+  "id": "tj-political-parties",
+  "name": "Tajikistan — Political Parties",
+  "title": "Tajikistan — Political Parties",
+  "description": "Political parties of Tajikistan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 4906,
+      "name_short": "PDPT",
+      "name": "Hizbi Khalqī-Demokratī Tojikiston",
+      "name_english": "People's Democratic Party of Tajikistan",
+      "name_other": "Tajik: Ҳизби халқӣ-демократӣ Тоҷикистон",
+      "year_first": 1994,
+      "year_last": "",
+      "share": 71,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Democratic_Party_of_Tajikistan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4905,
+      "name_short": "CPT",
+      "name": "Hizbi Komunistii Tojikiston",
+      "name_english": "Communist Party of Tajikistan",
+      "name_other": "Tajik: Ҳизби Кумунистии Тоҷикистон; Russian: Коммунистическая партия Таджикистана",
+      "year_first": 1918,
+      "year_last": "",
+      "share": 20.6,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Tajikistan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5697,
+      "name_short": "IRPT",
+      "name": "Hizbi Nahzati Islomii Tojikiston",
+      "name_english": "Islamic Renaissance Party of Tajikistan",
+      "name_other": "Tajik: Ҳизби Наҳзати Исломии Тоҷикистон",
+      "year_first": 1990,
+      "year_last": 2015,
+      "share": 8,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Islamic_Renaissance_Party_of_Tajikistan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6933,
+      "name_short": "HAT",
+      "name": "Hizbi Agrarii Tojikiston",
+      "name_english": "Agrarian Party",
+      "name_other": "Tajik: Ҳизби аграрии Тоҷикистон",
+      "year_first": 2010,
+      "year_last": "",
+      "share": 7.9,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/Agrarian_Party_(Tajikistan)",
+      "description": "5 of 63 seats in 2015 Tajik parliamentary election",
+      "comment": "ParIS",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Tajikistan — Political Parties - Free Download",
+    "description": "Political parties of Tajikistan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 4 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tajikistan — Political Parties | ListBase",
+    "seo_description": "Download Tajikistan — Political Parties dataset with 4 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 4 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

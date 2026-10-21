@@ -1,0 +1,317 @@
+{
+  "id": "science-solubility-rules",
+  "name": "Comprehensive Solubility Rules Table Dataset",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "ion_type",
+      "label": "Ion/Compound Type",
+      "type": "string"
+    },
+    {
+      "key": "formula",
+      "label": "Formula",
+      "type": "string"
+    },
+    {
+      "key": "solubility",
+      "label": "Solubility",
+      "type": "string"
+    },
+    {
+      "key": "exceptions",
+      "label": "Exceptions/Notes",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ion_type": "Nitrates",
+      "formula": "NO₃⁻",
+      "solubility": "Soluble",
+      "exceptions": "None - all nitrates are soluble",
+      "category": "Always Soluble",
+      "examples": "NaNO₃, KNO₃, AgNO₃, Pb(NO₃)₂"
+    },
+    {
+      "ion_type": "Acetates",
+      "formula": "CH₃COO⁻ (C₂H₃O₂⁻)",
+      "solubility": "Soluble",
+      "exceptions": "Silver acetate is slightly soluble",
+      "category": "Always Soluble",
+      "examples": "NaCH₃COO, KC₂H₃O₂, Ca(CH₃COO)₂"
+    },
+    {
+      "ion_type": "Chlorates",
+      "formula": "ClO₃⁻",
+      "solubility": "Soluble",
+      "exceptions": "None - all chlorates are soluble",
+      "category": "Always Soluble",
+      "examples": "NaClO₃, KClO₃, Ba(ClO₃)₂"
+    },
+    {
+      "ion_type": "Perchlorates",
+      "formula": "ClO₄⁻",
+      "solubility": "Soluble",
+      "exceptions": "KClO₄, RbClO₄, CsClO₄ are slightly soluble",
+      "category": "Always Soluble",
+      "examples": "NaClO₄, Mg(ClO₄)₂, Ca(ClO₄)₂"
+    },
+    {
+      "ion_type": "Alkali Metal Ions",
+      "formula": "Li⁺, Na⁺, K⁺, Rb⁺, Cs⁺",
+      "solubility": "Soluble",
+      "exceptions": "None - all Group 1 salts are soluble",
+      "category": "Always Soluble",
+      "examples": "NaCl, KBr, Li₂SO₄, CsNO₃"
+    },
+    {
+      "ion_type": "Ammonium",
+      "formula": "NH₄⁺",
+      "solubility": "Soluble",
+      "exceptions": "None - all ammonium salts are soluble",
+      "category": "Always Soluble",
+      "examples": "NH₄Cl, NH₄NO₃, (NH₄)₂SO₄, NH₄OH"
+    },
+    {
+      "ion_type": "Halides (Cl⁻, Br⁻, I⁻)",
+      "formula": "Cl⁻, Br⁻, I⁻",
+      "solubility": "Mostly Soluble",
+      "exceptions": "Ag⁺, Pb²⁺, Hg₂²⁺ halides are insoluble",
+      "category": "Soluble with Exceptions",
+      "examples": "NaCl, KBr soluble; AgCl, PbI₂ insoluble"
+    },
+    {
+      "ion_type": "Fluorides",
+      "formula": "F⁻",
+      "solubility": "Mostly Soluble",
+      "exceptions": "Group 2 fluorides (MgF₂, CaF₂, BaF₂) and PbF₂ are insoluble",
+      "category": "Soluble with Exceptions",
+      "examples": "NaF, KF soluble; CaF₂, BaF₂ insoluble"
+    },
+    {
+      "ion_type": "Sulfates",
+      "formula": "SO₄²⁻",
+      "solubility": "Mostly Soluble",
+      "exceptions": "BaSO₄, PbSO₄, HgSO₄, CaSO₄, SrSO₄, Ag₂SO₄ are insoluble or slightly soluble",
+      "category": "Soluble with Exceptions",
+      "examples": "Na₂SO₄, MgSO₄ soluble; BaSO₄, PbSO₄ insoluble"
+    },
+    {
+      "ion_type": "Carbonates",
+      "formula": "CO₃²⁻",
+      "solubility": "Mostly Insoluble",
+      "exceptions": "Alkali metal and ammonium carbonates are soluble",
+      "category": "Insoluble with Exceptions",
+      "examples": "CaCO₃, BaCO₃ insoluble; Na₂CO₃, K₂CO₃ soluble"
+    },
+    {
+      "ion_type": "Phosphates",
+      "formula": "PO₄³⁻",
+      "solubility": "Mostly Insoluble",
+      "exceptions": "Alkali metal and ammonium phosphates are soluble",
+      "category": "Insoluble with Exceptions",
+      "examples": "Ca₃(PO₄)₂, Ag₃PO₄ insoluble; Na₃PO₄ soluble"
+    },
+    {
+      "ion_type": "Chromates",
+      "formula": "CrO₄²⁻",
+      "solubility": "Mostly Insoluble",
+      "exceptions": "Alkali metal and ammonium chromates are soluble; MgCrO₄, CaCrO₄ are soluble",
+      "category": "Insoluble with Exceptions",
+      "examples": "PbCrO₄, BaCrO₄, Ag₂CrO₄ insoluble; K₂CrO₄ soluble"
+    },
+    {
+      "ion_type": "Sulfides",
+      "formula": "S²⁻",
+      "solubility": "Mostly Insoluble",
+      "exceptions": "Alkali metal, alkaline earth, and ammonium sulfides are soluble",
+      "category": "Insoluble with Exceptions",
+      "examples": "CuS, PbS, Ag₂S insoluble; Na₂S, (NH₄)₂S soluble"
+    },
+    {
+      "ion_type": "Hydroxides",
+      "formula": "OH⁻",
+      "solubility": "Mostly Insoluble",
+      "exceptions": "Alkali metal hydroxides are soluble; Ca(OH)₂, Sr(OH)₂, Ba(OH)₂ are slightly soluble",
+      "category": "Insoluble with Exceptions",
+      "examples": "Fe(OH)₃, Al(OH)₃ insoluble; NaOH, KOH soluble"
+    },
+    {
+      "ion_type": "Oxides",
+      "formula": "O²⁻",
+      "solubility": "Mostly Insoluble",
+      "exceptions": "Alkali metal oxides react with water to form soluble hydroxides; CaO, SrO, BaO slightly soluble",
+      "category": "Insoluble with Exceptions",
+      "examples": "Fe₂O₃, Al₂O₃ insoluble; Na₂O reacts with water"
+    },
+    {
+      "ion_type": "Sulfites",
+      "formula": "SO₃²⁻",
+      "solubility": "Mostly Insoluble",
+      "exceptions": "Alkali metal and ammonium sulfites are soluble",
+      "category": "Insoluble with Exceptions",
+      "examples": "CaSO₃, BaSO₃ insoluble; Na₂SO₃ soluble"
+    },
+    {
+      "ion_type": "Oxalates",
+      "formula": "C₂O₄²⁻",
+      "solubility": "Mostly Insoluble",
+      "exceptions": "Alkali metal and ammonium oxalates are soluble",
+      "category": "Insoluble with Exceptions",
+      "examples": "CaC₂O₄, BaC₂O₄ insoluble; Na₂C₂O₄ soluble"
+    },
+    {
+      "ion_type": "Silver Chloride",
+      "formula": "AgCl",
+      "solubility": "Insoluble",
+      "exceptions": "Dissolves in NH₃ solution forming [Ag(NH₃)₂]⁺",
+      "category": "Common Precipitate",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Silver Bromide",
+      "formula": "AgBr",
+      "solubility": "Insoluble",
+      "exceptions": "Less soluble than AgCl",
+      "category": "Common Precipitate",
+      "examples": "Light yellow precipitate, Ksp = 5.0 × 10⁻¹³"
+    },
+    {
+      "ion_type": "Silver Iodide",
+      "formula": "AgI",
+      "solubility": "Insoluble",
+      "exceptions": "Least soluble silver halide",
+      "category": "Common Precipitate",
+      "examples": "Yellow precipitate, Ksp = 8.3 × 10⁻¹⁷"
+    },
+    {
+      "ion_type": "Lead(II) Chloride",
+      "formula": "PbCl₂",
+      "solubility": "Slightly Soluble",
+      "exceptions": "More soluble in hot water",
+      "category": "Common Precipitate",
+      "examples": "White precipitate, Ksp = 1.7 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Lead(II) Iodide",
+      "formula": "PbI₂",
+      "solubility": "Insoluble",
+      "exceptions": "More soluble in hot water (golden rain demo)",
+      "category": "Common Precipitate",
+      "examples": "Bright yellow precipitate, Ksp = 7.9 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Lead(II) Sulfate",
+      "formula": "PbSO₄",
+      "solubility": "Insoluble",
+      "exceptions": "Dissolves in concentrated H₂SO₄",
+      "category": "Common Precipitate",
+      "examples": "White precipitate, Ksp = 1.6 × 10⁻⁸"
+    },
+    {
+      "ion_type": "Barium Sulfate",
+      "formula": "BaSO₄",
+      "solubility": "Insoluble",
+      "exceptions": "Very insoluble - used in medical imaging",
+      "category": "Common Precipitate",
+      "examples": "White precipitate, Ksp = 1.1 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Calcium Carbonate",
+      "formula": "CaCO₃",
+      "solubility": "Insoluble",
+      "exceptions": "Dissolves in acid; more soluble in CO₂-rich water",
+      "category": "Common Precipitate",
+      "examples": "White precipitate (limestone, chalk), Ksp = 3.4 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Calcium Sulfate",
+      "formula": "CaSO₄",
+      "solubility": "Slightly Soluble",
+      "exceptions": "Gypsum, plaster of Paris",
+      "category": "Common Precipitate",
+      "examples": "White solid, Ksp = 2.4 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Iron(III) Hydroxide",
+      "formula": "Fe(OH)₃",
+      "solubility": "Insoluble",
+      "exceptions": "Dissolves in acid",
+      "category": "Common Precipitate",
+      "examples": "Rust-brown precipitate, Ksp = 6.3 × 10⁻³⁸"
+    },
+    {
+      "ion_type": "Copper(II) Hydroxide",
+      "formula": "Cu(OH)₂",
+      "solubility": "Insoluble",
+      "exceptions": "Dissolves in NH₃ forming [Cu(NH₃)₄]²⁺ (deep blue)",
+      "category": "Common Precipitate",
+      "examples": "Blue precipitate, Ksp = 2.2 × 10⁻²⁰"
+    },
+    {
+      "ion_type": "Magnesium Hydroxide",
+      "formula": "Mg(OH)₂",
+      "solubility": "Slightly Soluble",
+      "exceptions": "Milk of Magnesia - antacid",
+      "category": "Common Precipitate",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹¹"
+    },
+    {
+      "ion_type": "Aluminum Hydroxide",
+      "formula": "Al(OH)₃",
+      "solubility": "Insoluble",
+      "exceptions": "Amphoteric - dissolves in both acid and base",
+      "category": "Common Precipitate",
+      "examples": "White gelatinous precipitate, Ksp = 3 × 10⁻³⁴"
+    },
+    {
+      "ion_type": "Zinc Hydroxide",
+      "formula": "Zn(OH)₂",
+      "solubility": "Insoluble",
+      "exceptions": "Amphoteric - dissolves in excess NaOH",
+      "category": "Common Precipitate",
+      "examples": "White precipitate, Ksp = 3 × 10⁻¹⁷"
+    }
+  ],
+  "meta": {
+    "seo_title": "Solubility Rules Table - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download this comprehensive Solubility Rules Table dataset for free (31 records). Available in Excel, CSV, and PDF formats for chemistry students & professionals.",
+    "title": "Comprehensive Solubility Rules Table Dataset",
+    "description": "This dataset provides a detailed table of solubility rules for common ionic compounds, including their formulas, solubility status, exceptions, and illustrative examples. It's an essential resource for chemistry studies and research.",
+    "key_takeaways": [
+      "Access 31 key solubility rules for various ions and compounds.",
+      "Explore detailed exceptions and notes for each solubility guideline.",
+      "Download a ready-to-use reference for chemistry coursework and lab work.",
+      "Get practical examples of soluble and insoluble compounds."
+    ],
+    "keywords": [
+      "solubility rules table excel",
+      "chemical solubility chart csv",
+      "ionic compounds solubility pdf",
+      "chemistry reference dataset",
+      "download solubility data",
+      "solubility guidelines"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or Python script for programmatic analysis and integration into educational apps.",
+      "Use the **Excel** file to filter, sort, and create custom reports for chemistry assignments or laboratory data analysis.",
+      "Print the **PDF** version for a handy, offline reference chart in classrooms or during lab experiments.",
+      "Leverage this dataset to quickly verify the solubility of various compounds for chemical reaction predictions and experimental design."
+    ]
+  },
+  "record_count": 31,
+  "title": "Comprehensive Solubility Rules Table Dataset"
+}

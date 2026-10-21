@@ -1,0 +1,276 @@
+{
+  "id": "sz-foreign-embassies",
+  "name": "Eswatini — Foreign Embassies and Consulates",
+  "title": "Eswatini — Foreign Embassies and Consulates",
+  "description": "Diplomatic missions of foreign countries and territories hosted in Eswatini. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "India",
+      "operator_cc": "in",
+      "host_country": "Eswatini",
+      "host_cc": "sz",
+      "city": "Mbabane",
+      "address": "",
+      "type": "high commission",
+      "latitude": -26.3197,
+      "longitude": 31.1368,
+      "jurisdictions": "Eswatini",
+      "phone": "",
+      "email": "",
+      "website": "https://www.hcimbabane.gov.in",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q112713732"
+    },
+    {
+      "operator": "Mozambique",
+      "operator_cc": "mz",
+      "host_country": "Eswatini",
+      "host_cc": "sz",
+      "city": "Mbabane",
+      "address": "",
+      "type": "high commission",
+      "latitude": -26.33985,
+      "longitude": 31.15049,
+      "jurisdictions": "Eswatini",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q113361342"
+    },
+    {
+      "operator": "Netherlands",
+      "operator_cc": "nl",
+      "host_country": "Eswatini",
+      "host_cc": "sz",
+      "city": "Mbabane",
+      "address": "",
+      "type": "honorary consulate",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q112662262"
+    },
+    {
+      "operator": "South Africa",
+      "operator_cc": "za",
+      "host_country": "Eswatini",
+      "host_cc": "sz",
+      "city": "Mbabane",
+      "address": "",
+      "type": "high commission",
+      "latitude": -26.32536,
+      "longitude": 31.14134,
+      "jurisdictions": "Eswatini",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106617924"
+    },
+    {
+      "operator": "Sweden",
+      "operator_cc": "se",
+      "host_country": "Eswatini",
+      "host_cc": "sz",
+      "city": "",
+      "address": "",
+      "type": "embassy",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Eswatini",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q114612578"
+    },
+    {
+      "operator": "Taiwan",
+      "operator_cc": "tw",
+      "host_country": "Eswatini",
+      "host_cc": "sz",
+      "city": "Mbabane",
+      "address": "",
+      "type": "embassy",
+      "latitude": -26.3268,
+      "longitude": 31.1467,
+      "jurisdictions": "Mozambique, Eswatini",
+      "phone": "",
+      "email": "",
+      "website": "https://www.taiwanembassy.org/sz",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q16891041"
+    },
+    {
+      "operator": "United States of America",
+      "operator_cc": "us",
+      "host_country": "Eswatini",
+      "host_cc": "sz",
+      "city": "Mbabane",
+      "address": "",
+      "type": "embassy",
+      "latitude": -26.44235,
+      "longitude": 31.18888,
+      "jurisdictions": "Eswatini",
+      "phone": "",
+      "email": "",
+      "website": "https://sz.usembassy.gov",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q105585586"
+    },
+    {
+      "operator": "Vatican",
+      "operator_cc": "va",
+      "host_country": "Eswatini",
+      "host_cc": "sz",
+      "city": "",
+      "address": "",
+      "type": "apostolic nunciature",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Eswatini",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q19932635"
+    }
+  ],
+  "meta": {
+    "title": "Eswatini — Foreign Embassies and Consulates - Free Download",
+    "description": "Diplomatic missions of foreign countries and territories hosted in Eswatini. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Eswatini — Foreign Embassies and Consulates | ListBase",
+    "seo_description": "Download Eswatini — Foreign Embassies and Consulates — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

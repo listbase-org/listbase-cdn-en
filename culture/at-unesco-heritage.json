@@ -1,0 +1,212 @@
+{
+  "id": "at-unesco-heritage",
+  "name": "Austria — UNESCO World Heritage Sites",
+  "title": "Austria — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Austria, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 784,
+      "name": "Historic Centre of the City of Salzburg",
+      "category": "cultural",
+      "date_inscribed": 1996,
+      "criteria": "c2, c4, c6",
+      "lat": 47.80055556,
+      "lon": 13.04333333,
+      "area_hectares": 236,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "at",
+      "transboundary": false
+    },
+    {
+      "ref_no": 786,
+      "name": "Palace and Gardens of Schoenbrunn",
+      "category": "cultural",
+      "date_inscribed": 1996,
+      "criteria": "c1, c4",
+      "lat": 48.18666667,
+      "lon": 16.31333333,
+      "area_hectares": 186.28,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "at",
+      "transboundary": false
+    },
+    {
+      "ref_no": 806,
+      "name": "Hallstatt-Dachstein / Salzkammergut Cultural Landscape",
+      "category": "cultural",
+      "date_inscribed": 1997,
+      "criteria": "c3, c4",
+      "lat": 47.55944444,
+      "lon": 13.64638889,
+      "area_hectares": 28446.2,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "at",
+      "transboundary": false
+    },
+    {
+      "ref_no": 785,
+      "name": "Semmering Railway",
+      "category": "cultural",
+      "date_inscribed": 1998,
+      "criteria": "c2, c4",
+      "lat": 47.64877778,
+      "lon": 15.82797222,
+      "area_hectares": 156.18,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "at",
+      "transboundary": false
+    },
+    {
+      "ref_no": 931,
+      "name": "City of Graz - Historic Centre and Schloss Eggenberg",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c2, c4",
+      "lat": 47.07416667,
+      "lon": 15.39166667,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "at",
+      "transboundary": false
+    },
+    {
+      "ref_no": 970,
+      "name": "Wachau Cultural Landscape",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c2, c4",
+      "lat": 48.36444444,
+      "lon": 15.43416667,
+      "area_hectares": 18387,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "at",
+      "transboundary": false
+    },
+    {
+      "ref_no": 772,
+      "name": "Fertoe / Neusiedlersee Cultural Landscape",
+      "category": "cultural",
+      "date_inscribed": 2001,
+      "criteria": "c5",
+      "lat": 47.71927778,
+      "lon": 16.72272222,
+      "area_hectares": 68369,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "at, hu",
+      "transboundary": true
+    },
+    {
+      "ref_no": 1033,
+      "name": "Historic Centre of Vienna",
+      "category": "cultural",
+      "date_inscribed": 2001,
+      "criteria": "c2, c4, c6",
+      "lat": 48.21666667,
+      "lon": 16.38333333,
+      "area_hectares": 371,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "at",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1363,
+      "name": "Prehistoric Pile dwellings around the Alps",
+      "category": "cultural",
+      "date_inscribed": 2011,
+      "criteria": "c4, c5",
+      "lat": 47.27833333,
+      "lon": 8.2075,
+      "area_hectares": 274.2,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "at, fr, de, it, si, ch",
+      "transboundary": true
+    }
+  ],
+  "meta": {
+    "title": "Austria — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Austria, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Austria — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Austria — UNESCO World Heritage Sites dataset with 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

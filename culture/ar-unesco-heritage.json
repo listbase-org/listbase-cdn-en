@@ -1,0 +1,212 @@
+{
+  "id": "ar-unesco-heritage",
+  "name": "Argentina — UNESCO World Heritage Sites",
+  "title": "Argentina — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Argentina, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 145,
+      "name": "Los Glaciares National Park",
+      "category": "natural",
+      "date_inscribed": 1981,
+      "criteria": "n7, n8",
+      "lat": -50,
+      "lon": -73.24944,
+      "area_hectares": 726927,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar",
+      "transboundary": false
+    },
+    {
+      "ref_no": 275,
+      "name": "Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Sesora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)",
+      "category": "cultural",
+      "date_inscribed": 1983,
+      "criteria": "c4",
+      "lat": -28.54333333,
+      "lon": -54.26583333,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar, br",
+      "transboundary": true
+    },
+    {
+      "ref_no": 303,
+      "name": "Iguazu National Park",
+      "category": "natural",
+      "date_inscribed": 1984,
+      "criteria": "n7, n10",
+      "lat": -25.51805556,
+      "lon": -54.13333333,
+      "area_hectares": 55000,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar",
+      "transboundary": false
+    },
+    {
+      "ref_no": 936,
+      "name": "Cueva de las Manos, Rio Pinturas",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c3",
+      "lat": -47.15,
+      "lon": -70.66666667,
+      "area_hectares": 600,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar",
+      "transboundary": false
+    },
+    {
+      "ref_no": 937,
+      "name": "Peninsula Valdes",
+      "category": "natural",
+      "date_inscribed": 1999,
+      "criteria": "n10",
+      "lat": -42.5,
+      "lon": -64,
+      "area_hectares": 360000,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar",
+      "transboundary": false
+    },
+    {
+      "ref_no": 966,
+      "name": "Ischigualasto / Talampaya Natural Parks",
+      "category": "natural",
+      "date_inscribed": 2000,
+      "criteria": "n8",
+      "lat": -30,
+      "lon": -68,
+      "area_hectares": 275369,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar",
+      "transboundary": false
+    },
+    {
+      "ref_no": 995,
+      "name": "Jesuit Block and Estancias of Cordoba",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c2, c4",
+      "lat": -31.42056,
+      "lon": -64.19111,
+      "area_hectares": 38.12,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1116,
+      "name": "Quebrada de Humahuaca",
+      "category": "cultural",
+      "date_inscribed": 2003,
+      "criteria": "c2, c4, c5",
+      "lat": -23.19986111,
+      "lon": -65.34886111,
+      "area_hectares": 172116.4375,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1459,
+      "name": "Qhapaq Nan, Andean Road System",
+      "category": "cultural",
+      "date_inscribed": 2014,
+      "criteria": "c2, c3, c4, c6",
+      "lat": -18.25,
+      "lon": -69.59166667,
+      "area_hectares": 11406.95,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar, bo, cl, co, ec, pe",
+      "transboundary": true
+    }
+  ],
+  "meta": {
+    "title": "Argentina — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Argentina, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Argentina — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Argentina — UNESCO World Heritage Sites dataset with 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

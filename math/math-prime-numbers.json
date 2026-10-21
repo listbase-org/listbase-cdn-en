@@ -1,0 +1,7064 @@
+{
+  "id": "math-prime-numbers",
+  "name": "First 1000 Prime Numbers Dataset & Properties",
+  "category": "math",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "index",
+      "label": "Index",
+      "type": "number"
+    },
+    {
+      "key": "prime",
+      "label": "Prime Number",
+      "type": "number"
+    },
+    {
+      "key": "digits",
+      "label": "Digits",
+      "type": "number"
+    },
+    {
+      "key": "sum_of_digits",
+      "label": "Sum of Digits",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "index": 1,
+      "prime": 2,
+      "digits": 1,
+      "sum_of_digits": 2,
+      "category": "Even Prime"
+    },
+    {
+      "index": 2,
+      "prime": 3,
+      "digits": 1,
+      "sum_of_digits": 3,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 3,
+      "prime": 5,
+      "digits": 1,
+      "sum_of_digits": 5,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 4,
+      "prime": 7,
+      "digits": 1,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 5,
+      "prime": 11,
+      "digits": 2,
+      "sum_of_digits": 2,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 6,
+      "prime": 13,
+      "digits": 2,
+      "sum_of_digits": 4,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 7,
+      "prime": 17,
+      "digits": 2,
+      "sum_of_digits": 8,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 8,
+      "prime": 19,
+      "digits": 2,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 9,
+      "prime": 23,
+      "digits": 2,
+      "sum_of_digits": 5,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 10,
+      "prime": 29,
+      "digits": 2,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 11,
+      "prime": 31,
+      "digits": 2,
+      "sum_of_digits": 4,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 12,
+      "prime": 37,
+      "digits": 2,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 13,
+      "prime": 41,
+      "digits": 2,
+      "sum_of_digits": 5,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 14,
+      "prime": 43,
+      "digits": 2,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 15,
+      "prime": 47,
+      "digits": 2,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 16,
+      "prime": 53,
+      "digits": 2,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 17,
+      "prime": 59,
+      "digits": 2,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 18,
+      "prime": 61,
+      "digits": 2,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 19,
+      "prime": 67,
+      "digits": 2,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 20,
+      "prime": 71,
+      "digits": 2,
+      "sum_of_digits": 8,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 21,
+      "prime": 73,
+      "digits": 2,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 22,
+      "prime": 79,
+      "digits": 2,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 23,
+      "prime": 83,
+      "digits": 2,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 24,
+      "prime": 89,
+      "digits": 2,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 25,
+      "prime": 97,
+      "digits": 2,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 26,
+      "prime": 101,
+      "digits": 3,
+      "sum_of_digits": 2,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 27,
+      "prime": 103,
+      "digits": 3,
+      "sum_of_digits": 4,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 28,
+      "prime": 107,
+      "digits": 3,
+      "sum_of_digits": 8,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 29,
+      "prime": 109,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 30,
+      "prime": 113,
+      "digits": 3,
+      "sum_of_digits": 5,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 31,
+      "prime": 127,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 32,
+      "prime": 131,
+      "digits": 3,
+      "sum_of_digits": 5,
+      "category": "Palindromic Prime"
+    },
+    {
+      "index": 33,
+      "prime": 137,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 34,
+      "prime": 139,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 35,
+      "prime": 149,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 36,
+      "prime": 151,
+      "digits": 3,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 37,
+      "prime": 157,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 38,
+      "prime": 163,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 39,
+      "prime": 167,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 40,
+      "prime": 173,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 41,
+      "prime": 179,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 42,
+      "prime": 181,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 43,
+      "prime": 191,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 44,
+      "prime": 193,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 45,
+      "prime": 197,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 46,
+      "prime": 199,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 47,
+      "prime": 211,
+      "digits": 3,
+      "sum_of_digits": 4,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 48,
+      "prime": 223,
+      "digits": 3,
+      "sum_of_digits": 7,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 49,
+      "prime": 227,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 50,
+      "prime": 229,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 51,
+      "prime": 233,
+      "digits": 3,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 52,
+      "prime": 239,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 53,
+      "prime": 241,
+      "digits": 3,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 54,
+      "prime": 251,
+      "digits": 3,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 55,
+      "prime": 257,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 56,
+      "prime": 263,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 57,
+      "prime": 269,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 58,
+      "prime": 271,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 59,
+      "prime": 277,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 60,
+      "prime": 281,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 61,
+      "prime": 283,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 62,
+      "prime": 293,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 63,
+      "prime": 307,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 64,
+      "prime": 311,
+      "digits": 3,
+      "sum_of_digits": 5,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 65,
+      "prime": 313,
+      "digits": 3,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 66,
+      "prime": 317,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 67,
+      "prime": 331,
+      "digits": 3,
+      "sum_of_digits": 7,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 68,
+      "prime": 337,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 69,
+      "prime": 347,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 70,
+      "prime": 349,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 71,
+      "prime": 353,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Palindromic Prime"
+    },
+    {
+      "index": 72,
+      "prime": 359,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 73,
+      "prime": 367,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 74,
+      "prime": 373,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Palindromic Prime"
+    },
+    {
+      "index": 75,
+      "prime": 379,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 76,
+      "prime": 383,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Palindromic Prime"
+    },
+    {
+      "index": 77,
+      "prime": 389,
+      "digits": 3,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 78,
+      "prime": 397,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 79,
+      "prime": 401,
+      "digits": 3,
+      "sum_of_digits": 5,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 80,
+      "prime": 409,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 81,
+      "prime": 419,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 82,
+      "prime": 421,
+      "digits": 3,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 83,
+      "prime": 431,
+      "digits": 3,
+      "sum_of_digits": 8,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 84,
+      "prime": 433,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 85,
+      "prime": 439,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 86,
+      "prime": 443,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 87,
+      "prime": 449,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 88,
+      "prime": 457,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 89,
+      "prime": 461,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 90,
+      "prime": 463,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 91,
+      "prime": 467,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 92,
+      "prime": 479,
+      "digits": 3,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 93,
+      "prime": 487,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 94,
+      "prime": 491,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 95,
+      "prime": 499,
+      "digits": 3,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 96,
+      "prime": 503,
+      "digits": 3,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 97,
+      "prime": 509,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 98,
+      "prime": 521,
+      "digits": 3,
+      "sum_of_digits": 8,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 99,
+      "prime": 523,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 100,
+      "prime": 541,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 101,
+      "prime": 547,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 102,
+      "prime": 557,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 103,
+      "prime": 563,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 104,
+      "prime": 569,
+      "digits": 3,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 105,
+      "prime": 571,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 106,
+      "prime": 577,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 107,
+      "prime": 587,
+      "digits": 3,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 108,
+      "prime": 593,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 109,
+      "prime": 599,
+      "digits": 3,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 110,
+      "prime": 601,
+      "digits": 3,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 111,
+      "prime": 607,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 112,
+      "prime": 613,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 113,
+      "prime": 617,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 114,
+      "prime": 619,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 115,
+      "prime": 631,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 116,
+      "prime": 641,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 117,
+      "prime": 643,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 118,
+      "prime": 647,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 119,
+      "prime": 653,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 120,
+      "prime": 659,
+      "digits": 3,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 121,
+      "prime": 661,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 122,
+      "prime": 673,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 123,
+      "prime": 677,
+      "digits": 3,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 124,
+      "prime": 683,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 125,
+      "prime": 691,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 126,
+      "prime": 701,
+      "digits": 3,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 127,
+      "prime": 709,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 128,
+      "prime": 719,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 129,
+      "prime": 727,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Palindromic Prime"
+    },
+    {
+      "index": 130,
+      "prime": 733,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 131,
+      "prime": 739,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 132,
+      "prime": 743,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 133,
+      "prime": 751,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 134,
+      "prime": 757,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Palindromic Prime"
+    },
+    {
+      "index": 135,
+      "prime": 761,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 136,
+      "prime": 769,
+      "digits": 3,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 137,
+      "prime": 773,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 138,
+      "prime": 787,
+      "digits": 3,
+      "sum_of_digits": 22,
+      "category": "Palindromic Prime"
+    },
+    {
+      "index": 139,
+      "prime": 797,
+      "digits": 3,
+      "sum_of_digits": 23,
+      "category": "Palindromic Prime"
+    },
+    {
+      "index": 140,
+      "prime": 809,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 141,
+      "prime": 811,
+      "digits": 3,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 142,
+      "prime": 821,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 143,
+      "prime": 823,
+      "digits": 3,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 144,
+      "prime": 827,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 145,
+      "prime": 829,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 146,
+      "prime": 839,
+      "digits": 3,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 147,
+      "prime": 853,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 148,
+      "prime": 857,
+      "digits": 3,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 149,
+      "prime": 859,
+      "digits": 3,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 150,
+      "prime": 863,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 151,
+      "prime": 877,
+      "digits": 3,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 152,
+      "prime": 881,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 153,
+      "prime": 883,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 154,
+      "prime": 887,
+      "digits": 3,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 155,
+      "prime": 907,
+      "digits": 3,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 156,
+      "prime": 911,
+      "digits": 3,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 157,
+      "prime": 919,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Palindromic Prime"
+    },
+    {
+      "index": 158,
+      "prime": 929,
+      "digits": 3,
+      "sum_of_digits": 20,
+      "category": "Palindromic Prime"
+    },
+    {
+      "index": 159,
+      "prime": 937,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 160,
+      "prime": 941,
+      "digits": 3,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 161,
+      "prime": 947,
+      "digits": 3,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 162,
+      "prime": 953,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 163,
+      "prime": 967,
+      "digits": 3,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 164,
+      "prime": 971,
+      "digits": 3,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 165,
+      "prime": 977,
+      "digits": 3,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 166,
+      "prime": 983,
+      "digits": 3,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 167,
+      "prime": 991,
+      "digits": 3,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 168,
+      "prime": 997,
+      "digits": 3,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 169,
+      "prime": 1009,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 170,
+      "prime": 1013,
+      "digits": 4,
+      "sum_of_digits": 5,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 171,
+      "prime": 1019,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 172,
+      "prime": 1021,
+      "digits": 4,
+      "sum_of_digits": 4,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 173,
+      "prime": 1031,
+      "digits": 4,
+      "sum_of_digits": 5,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 174,
+      "prime": 1033,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 175,
+      "prime": 1039,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 176,
+      "prime": 1049,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 177,
+      "prime": 1051,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 178,
+      "prime": 1061,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 179,
+      "prime": 1063,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 180,
+      "prime": 1069,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 181,
+      "prime": 1087,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 182,
+      "prime": 1091,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 183,
+      "prime": 1093,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 184,
+      "prime": 1097,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 185,
+      "prime": 1103,
+      "digits": 4,
+      "sum_of_digits": 5,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 186,
+      "prime": 1109,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 187,
+      "prime": 1117,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 188,
+      "prime": 1123,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 189,
+      "prime": 1129,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 190,
+      "prime": 1151,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 191,
+      "prime": 1153,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 192,
+      "prime": 1163,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 193,
+      "prime": 1171,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 194,
+      "prime": 1181,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 195,
+      "prime": 1187,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 196,
+      "prime": 1193,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 197,
+      "prime": 1201,
+      "digits": 4,
+      "sum_of_digits": 4,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 198,
+      "prime": 1213,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 199,
+      "prime": 1217,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 200,
+      "prime": 1223,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 201,
+      "prime": 1229,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 202,
+      "prime": 1231,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 203,
+      "prime": 1237,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 204,
+      "prime": 1249,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 205,
+      "prime": 1259,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 206,
+      "prime": 1277,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 207,
+      "prime": 1279,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 208,
+      "prime": 1283,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 209,
+      "prime": 1289,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 210,
+      "prime": 1291,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 211,
+      "prime": 1297,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 212,
+      "prime": 1301,
+      "digits": 4,
+      "sum_of_digits": 5,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 213,
+      "prime": 1303,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 214,
+      "prime": 1307,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 215,
+      "prime": 1319,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 216,
+      "prime": 1321,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 217,
+      "prime": 1327,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 218,
+      "prime": 1361,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 219,
+      "prime": 1367,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 220,
+      "prime": 1373,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 221,
+      "prime": 1381,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 222,
+      "prime": 1399,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 223,
+      "prime": 1409,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 224,
+      "prime": 1423,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 225,
+      "prime": 1427,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 226,
+      "prime": 1429,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 227,
+      "prime": 1433,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 228,
+      "prime": 1439,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 229,
+      "prime": 1447,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 230,
+      "prime": 1451,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 231,
+      "prime": 1453,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 232,
+      "prime": 1459,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 233,
+      "prime": 1471,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 234,
+      "prime": 1481,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 235,
+      "prime": 1483,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 236,
+      "prime": 1487,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 237,
+      "prime": 1489,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 238,
+      "prime": 1493,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 239,
+      "prime": 1499,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 240,
+      "prime": 1511,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 241,
+      "prime": 1523,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 242,
+      "prime": 1531,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 243,
+      "prime": 1543,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 244,
+      "prime": 1549,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 245,
+      "prime": 1553,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 246,
+      "prime": 1559,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 247,
+      "prime": 1567,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 248,
+      "prime": 1571,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 249,
+      "prime": 1579,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 250,
+      "prime": 1583,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 251,
+      "prime": 1597,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 252,
+      "prime": 1601,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 253,
+      "prime": 1607,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 254,
+      "prime": 1609,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 255,
+      "prime": 1613,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 256,
+      "prime": 1619,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 257,
+      "prime": 1621,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 258,
+      "prime": 1627,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 259,
+      "prime": 1637,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 260,
+      "prime": 1657,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 261,
+      "prime": 1663,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 262,
+      "prime": 1667,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 263,
+      "prime": 1669,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 264,
+      "prime": 1693,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 265,
+      "prime": 1697,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 266,
+      "prime": 1699,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 267,
+      "prime": 1709,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 268,
+      "prime": 1721,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 269,
+      "prime": 1723,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 270,
+      "prime": 1733,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 271,
+      "prime": 1741,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 272,
+      "prime": 1747,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 273,
+      "prime": 1753,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 274,
+      "prime": 1759,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 275,
+      "prime": 1777,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 276,
+      "prime": 1783,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 277,
+      "prime": 1787,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 278,
+      "prime": 1789,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 279,
+      "prime": 1801,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 280,
+      "prime": 1811,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 281,
+      "prime": 1823,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 282,
+      "prime": 1831,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 283,
+      "prime": 1847,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 284,
+      "prime": 1861,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 285,
+      "prime": 1867,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 286,
+      "prime": 1871,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 287,
+      "prime": 1873,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 288,
+      "prime": 1877,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 289,
+      "prime": 1879,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 290,
+      "prime": 1889,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 291,
+      "prime": 1901,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 292,
+      "prime": 1907,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 293,
+      "prime": 1913,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 294,
+      "prime": 1931,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 295,
+      "prime": 1933,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 296,
+      "prime": 1949,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 297,
+      "prime": 1951,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 298,
+      "prime": 1973,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 299,
+      "prime": 1979,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 300,
+      "prime": 1987,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 301,
+      "prime": 1993,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 302,
+      "prime": 1997,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 303,
+      "prime": 1999,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 304,
+      "prime": 2003,
+      "digits": 4,
+      "sum_of_digits": 5,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 305,
+      "prime": 2011,
+      "digits": 4,
+      "sum_of_digits": 4,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 306,
+      "prime": 2017,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 307,
+      "prime": 2027,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 308,
+      "prime": 2029,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 309,
+      "prime": 2039,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 310,
+      "prime": 2053,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 311,
+      "prime": 2063,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 312,
+      "prime": 2069,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 313,
+      "prime": 2081,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 314,
+      "prime": 2083,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 315,
+      "prime": 2087,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 316,
+      "prime": 2089,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 317,
+      "prime": 2099,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 318,
+      "prime": 2111,
+      "digits": 4,
+      "sum_of_digits": 5,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 319,
+      "prime": 2113,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 320,
+      "prime": 2129,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 321,
+      "prime": 2131,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 322,
+      "prime": 2137,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 323,
+      "prime": 2141,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 324,
+      "prime": 2143,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 325,
+      "prime": 2153,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 326,
+      "prime": 2161,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 327,
+      "prime": 2179,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 328,
+      "prime": 2203,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 329,
+      "prime": 2207,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 330,
+      "prime": 2213,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 331,
+      "prime": 2221,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 332,
+      "prime": 2237,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 333,
+      "prime": 2239,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 334,
+      "prime": 2243,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 335,
+      "prime": 2251,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 336,
+      "prime": 2267,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 337,
+      "prime": 2269,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 338,
+      "prime": 2273,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 339,
+      "prime": 2281,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 340,
+      "prime": 2287,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 341,
+      "prime": 2293,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 342,
+      "prime": 2297,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 343,
+      "prime": 2309,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 344,
+      "prime": 2311,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 345,
+      "prime": 2333,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 346,
+      "prime": 2339,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 347,
+      "prime": 2341,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 348,
+      "prime": 2347,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 349,
+      "prime": 2351,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 350,
+      "prime": 2357,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 351,
+      "prime": 2371,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 352,
+      "prime": 2377,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 353,
+      "prime": 2381,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 354,
+      "prime": 2383,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 355,
+      "prime": 2389,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 356,
+      "prime": 2393,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 357,
+      "prime": 2399,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 358,
+      "prime": 2411,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 359,
+      "prime": 2417,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 360,
+      "prime": 2423,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 361,
+      "prime": 2437,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 362,
+      "prime": 2441,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 363,
+      "prime": 2447,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 364,
+      "prime": 2459,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 365,
+      "prime": 2467,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 366,
+      "prime": 2473,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 367,
+      "prime": 2477,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 368,
+      "prime": 2503,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 369,
+      "prime": 2521,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 370,
+      "prime": 2531,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 371,
+      "prime": 2539,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 372,
+      "prime": 2543,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 373,
+      "prime": 2549,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 374,
+      "prime": 2551,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 375,
+      "prime": 2557,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 376,
+      "prime": 2579,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 377,
+      "prime": 2591,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 378,
+      "prime": 2593,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 379,
+      "prime": 2609,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 380,
+      "prime": 2617,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 381,
+      "prime": 2621,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 382,
+      "prime": 2633,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 383,
+      "prime": 2647,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 384,
+      "prime": 2657,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 385,
+      "prime": 2659,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 386,
+      "prime": 2663,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 387,
+      "prime": 2671,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 388,
+      "prime": 2677,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 389,
+      "prime": 2683,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 390,
+      "prime": 2687,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 391,
+      "prime": 2689,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 392,
+      "prime": 2693,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 393,
+      "prime": 2699,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 394,
+      "prime": 2707,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 395,
+      "prime": 2711,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 396,
+      "prime": 2713,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 397,
+      "prime": 2719,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 398,
+      "prime": 2729,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 399,
+      "prime": 2731,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 400,
+      "prime": 2741,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 401,
+      "prime": 2749,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 402,
+      "prime": 2753,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 403,
+      "prime": 2767,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 404,
+      "prime": 2777,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 405,
+      "prime": 2789,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 406,
+      "prime": 2791,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 407,
+      "prime": 2797,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 408,
+      "prime": 2801,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 409,
+      "prime": 2803,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 410,
+      "prime": 2819,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 411,
+      "prime": 2833,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 412,
+      "prime": 2837,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 413,
+      "prime": 2843,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 414,
+      "prime": 2851,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 415,
+      "prime": 2857,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 416,
+      "prime": 2861,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 417,
+      "prime": 2879,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 418,
+      "prime": 2887,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 419,
+      "prime": 2897,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 420,
+      "prime": 2903,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 421,
+      "prime": 2909,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 422,
+      "prime": 2917,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 423,
+      "prime": 2927,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 424,
+      "prime": 2939,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 425,
+      "prime": 2953,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 426,
+      "prime": 2957,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 427,
+      "prime": 2963,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 428,
+      "prime": 2969,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 429,
+      "prime": 2971,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 430,
+      "prime": 2999,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 431,
+      "prime": 3001,
+      "digits": 4,
+      "sum_of_digits": 4,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 432,
+      "prime": 3011,
+      "digits": 4,
+      "sum_of_digits": 5,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 433,
+      "prime": 3019,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 434,
+      "prime": 3023,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 435,
+      "prime": 3037,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 436,
+      "prime": 3041,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 437,
+      "prime": 3049,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 438,
+      "prime": 3061,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 439,
+      "prime": 3067,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 440,
+      "prime": 3079,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 441,
+      "prime": 3083,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 442,
+      "prime": 3089,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 443,
+      "prime": 3109,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 444,
+      "prime": 3119,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 445,
+      "prime": 3121,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 446,
+      "prime": 3137,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 447,
+      "prime": 3163,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 448,
+      "prime": 3167,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 449,
+      "prime": 3169,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 450,
+      "prime": 3181,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 451,
+      "prime": 3187,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 452,
+      "prime": 3191,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 453,
+      "prime": 3203,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 454,
+      "prime": 3209,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 455,
+      "prime": 3217,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 456,
+      "prime": 3221,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 457,
+      "prime": 3229,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 458,
+      "prime": 3251,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 459,
+      "prime": 3253,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 460,
+      "prime": 3257,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 461,
+      "prime": 3259,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 462,
+      "prime": 3271,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 463,
+      "prime": 3299,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 464,
+      "prime": 3301,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 465,
+      "prime": 3307,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 466,
+      "prime": 3313,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 467,
+      "prime": 3319,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 468,
+      "prime": 3323,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 469,
+      "prime": 3329,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 470,
+      "prime": 3331,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 471,
+      "prime": 3343,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 472,
+      "prime": 3347,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 473,
+      "prime": 3359,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 474,
+      "prime": 3361,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 475,
+      "prime": 3371,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 476,
+      "prime": 3373,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 477,
+      "prime": 3389,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 478,
+      "prime": 3391,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 479,
+      "prime": 3407,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 480,
+      "prime": 3413,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 481,
+      "prime": 3433,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 482,
+      "prime": 3449,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 483,
+      "prime": 3457,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 484,
+      "prime": 3461,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 485,
+      "prime": 3463,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 486,
+      "prime": 3467,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 487,
+      "prime": 3469,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 488,
+      "prime": 3491,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 489,
+      "prime": 3499,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 490,
+      "prime": 3511,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 491,
+      "prime": 3517,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 492,
+      "prime": 3527,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 493,
+      "prime": 3529,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 494,
+      "prime": 3533,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 495,
+      "prime": 3539,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 496,
+      "prime": 3541,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 497,
+      "prime": 3547,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 498,
+      "prime": 3557,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 499,
+      "prime": 3559,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 500,
+      "prime": 3571,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 501,
+      "prime": 3581,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 502,
+      "prime": 3583,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 503,
+      "prime": 3593,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 504,
+      "prime": 3607,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 505,
+      "prime": 3613,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 506,
+      "prime": 3617,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 507,
+      "prime": 3623,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 508,
+      "prime": 3631,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 509,
+      "prime": 3637,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 510,
+      "prime": 3643,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 511,
+      "prime": 3659,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 512,
+      "prime": 3671,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 513,
+      "prime": 3673,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 514,
+      "prime": 3677,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 515,
+      "prime": 3691,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 516,
+      "prime": 3697,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 517,
+      "prime": 3701,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 518,
+      "prime": 3709,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 519,
+      "prime": 3719,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 520,
+      "prime": 3727,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 521,
+      "prime": 3733,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 522,
+      "prime": 3739,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 523,
+      "prime": 3761,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 524,
+      "prime": 3767,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 525,
+      "prime": 3769,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 526,
+      "prime": 3779,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 527,
+      "prime": 3793,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 528,
+      "prime": 3797,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 529,
+      "prime": 3803,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 530,
+      "prime": 3821,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 531,
+      "prime": 3823,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 532,
+      "prime": 3833,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 533,
+      "prime": 3847,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 534,
+      "prime": 3851,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 535,
+      "prime": 3853,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 536,
+      "prime": 3863,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 537,
+      "prime": 3877,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 538,
+      "prime": 3881,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 539,
+      "prime": 3889,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 540,
+      "prime": 3907,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 541,
+      "prime": 3911,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 542,
+      "prime": 3917,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 543,
+      "prime": 3919,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 544,
+      "prime": 3923,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 545,
+      "prime": 3929,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 546,
+      "prime": 3931,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 547,
+      "prime": 3943,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 548,
+      "prime": 3947,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 549,
+      "prime": 3967,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 550,
+      "prime": 3989,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 551,
+      "prime": 4001,
+      "digits": 4,
+      "sum_of_digits": 5,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 552,
+      "prime": 4003,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 553,
+      "prime": 4007,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 554,
+      "prime": 4013,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 555,
+      "prime": 4019,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 556,
+      "prime": 4021,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 557,
+      "prime": 4027,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 558,
+      "prime": 4049,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 559,
+      "prime": 4051,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 560,
+      "prime": 4057,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 561,
+      "prime": 4073,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 562,
+      "prime": 4079,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 563,
+      "prime": 4091,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 564,
+      "prime": 4093,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 565,
+      "prime": 4099,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 566,
+      "prime": 4111,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 567,
+      "prime": 4127,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 568,
+      "prime": 4129,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 569,
+      "prime": 4133,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 570,
+      "prime": 4139,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 571,
+      "prime": 4153,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 572,
+      "prime": 4157,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 573,
+      "prime": 4159,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 574,
+      "prime": 4177,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 575,
+      "prime": 4201,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 576,
+      "prime": 4211,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 577,
+      "prime": 4217,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 578,
+      "prime": 4219,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 579,
+      "prime": 4229,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 580,
+      "prime": 4231,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 581,
+      "prime": 4241,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 582,
+      "prime": 4243,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 583,
+      "prime": 4253,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 584,
+      "prime": 4259,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 585,
+      "prime": 4261,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 586,
+      "prime": 4271,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 587,
+      "prime": 4273,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 588,
+      "prime": 4283,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 589,
+      "prime": 4289,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 590,
+      "prime": 4297,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 591,
+      "prime": 4327,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 592,
+      "prime": 4337,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 593,
+      "prime": 4339,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 594,
+      "prime": 4349,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 595,
+      "prime": 4357,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 596,
+      "prime": 4363,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 597,
+      "prime": 4373,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 598,
+      "prime": 4391,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 599,
+      "prime": 4397,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 600,
+      "prime": 4409,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 601,
+      "prime": 4421,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 602,
+      "prime": 4423,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 603,
+      "prime": 4441,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 604,
+      "prime": 4447,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 605,
+      "prime": 4451,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 606,
+      "prime": 4457,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 607,
+      "prime": 4463,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 608,
+      "prime": 4481,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 609,
+      "prime": 4483,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 610,
+      "prime": 4493,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 611,
+      "prime": 4507,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 612,
+      "prime": 4513,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 613,
+      "prime": 4517,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 614,
+      "prime": 4519,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 615,
+      "prime": 4523,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 616,
+      "prime": 4547,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 617,
+      "prime": 4549,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 618,
+      "prime": 4561,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 619,
+      "prime": 4567,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 620,
+      "prime": 4583,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 621,
+      "prime": 4591,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 622,
+      "prime": 4597,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 623,
+      "prime": 4603,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 624,
+      "prime": 4621,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 625,
+      "prime": 4637,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 626,
+      "prime": 4639,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 627,
+      "prime": 4643,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 628,
+      "prime": 4649,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 629,
+      "prime": 4651,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 630,
+      "prime": 4657,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 631,
+      "prime": 4663,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 632,
+      "prime": 4673,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 633,
+      "prime": 4679,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 634,
+      "prime": 4691,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 635,
+      "prime": 4703,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 636,
+      "prime": 4721,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 637,
+      "prime": 4723,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 638,
+      "prime": 4729,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 639,
+      "prime": 4733,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 640,
+      "prime": 4751,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 641,
+      "prime": 4759,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 642,
+      "prime": 4783,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 643,
+      "prime": 4787,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 644,
+      "prime": 4789,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 645,
+      "prime": 4793,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 646,
+      "prime": 4799,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 647,
+      "prime": 4801,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 648,
+      "prime": 4813,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 649,
+      "prime": 4817,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 650,
+      "prime": 4831,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 651,
+      "prime": 4861,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 652,
+      "prime": 4871,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 653,
+      "prime": 4877,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 654,
+      "prime": 4889,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 655,
+      "prime": 4903,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 656,
+      "prime": 4909,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 657,
+      "prime": 4919,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 658,
+      "prime": 4931,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 659,
+      "prime": 4933,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 660,
+      "prime": 4937,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 661,
+      "prime": 4943,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 662,
+      "prime": 4951,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 663,
+      "prime": 4957,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 664,
+      "prime": 4967,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 665,
+      "prime": 4969,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 666,
+      "prime": 4973,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 667,
+      "prime": 4987,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 668,
+      "prime": 4993,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 669,
+      "prime": 4999,
+      "digits": 4,
+      "sum_of_digits": 31,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 670,
+      "prime": 5003,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 671,
+      "prime": 5009,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 672,
+      "prime": 5011,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 673,
+      "prime": 5021,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 674,
+      "prime": 5023,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 675,
+      "prime": 5039,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 676,
+      "prime": 5051,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 677,
+      "prime": 5059,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 678,
+      "prime": 5077,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 679,
+      "prime": 5081,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 680,
+      "prime": 5087,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 681,
+      "prime": 5099,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 682,
+      "prime": 5101,
+      "digits": 4,
+      "sum_of_digits": 7,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 683,
+      "prime": 5107,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 684,
+      "prime": 5113,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 685,
+      "prime": 5119,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 686,
+      "prime": 5147,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 687,
+      "prime": 5153,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 688,
+      "prime": 5167,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 689,
+      "prime": 5171,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 690,
+      "prime": 5179,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 691,
+      "prime": 5189,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 692,
+      "prime": 5197,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 693,
+      "prime": 5209,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 694,
+      "prime": 5227,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 695,
+      "prime": 5231,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 696,
+      "prime": 5233,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 697,
+      "prime": 5237,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 698,
+      "prime": 5261,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 699,
+      "prime": 5273,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 700,
+      "prime": 5279,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 701,
+      "prime": 5281,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 702,
+      "prime": 5297,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 703,
+      "prime": 5303,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 704,
+      "prime": 5309,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 705,
+      "prime": 5323,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 706,
+      "prime": 5333,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 707,
+      "prime": 5347,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 708,
+      "prime": 5351,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 709,
+      "prime": 5381,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 710,
+      "prime": 5387,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 711,
+      "prime": 5393,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 712,
+      "prime": 5399,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 713,
+      "prime": 5407,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 714,
+      "prime": 5413,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 715,
+      "prime": 5417,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 716,
+      "prime": 5419,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 717,
+      "prime": 5431,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 718,
+      "prime": 5437,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 719,
+      "prime": 5441,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 720,
+      "prime": 5443,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 721,
+      "prime": 5449,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 722,
+      "prime": 5471,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 723,
+      "prime": 5477,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 724,
+      "prime": 5479,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 725,
+      "prime": 5483,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 726,
+      "prime": 5501,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 727,
+      "prime": 5503,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 728,
+      "prime": 5507,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 729,
+      "prime": 5519,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 730,
+      "prime": 5521,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 731,
+      "prime": 5527,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 732,
+      "prime": 5531,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 733,
+      "prime": 5557,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 734,
+      "prime": 5563,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 735,
+      "prime": 5569,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 736,
+      "prime": 5573,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 737,
+      "prime": 5581,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 738,
+      "prime": 5591,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 739,
+      "prime": 5623,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 740,
+      "prime": 5639,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 741,
+      "prime": 5641,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 742,
+      "prime": 5647,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 743,
+      "prime": 5651,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 744,
+      "prime": 5653,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 745,
+      "prime": 5657,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 746,
+      "prime": 5659,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 747,
+      "prime": 5669,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 748,
+      "prime": 5683,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 749,
+      "prime": 5689,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 750,
+      "prime": 5693,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 751,
+      "prime": 5701,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 752,
+      "prime": 5711,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 753,
+      "prime": 5717,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 754,
+      "prime": 5737,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 755,
+      "prime": 5741,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 756,
+      "prime": 5743,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 757,
+      "prime": 5749,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 758,
+      "prime": 5779,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 759,
+      "prime": 5783,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 760,
+      "prime": 5791,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 761,
+      "prime": 5801,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 762,
+      "prime": 5807,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 763,
+      "prime": 5813,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 764,
+      "prime": 5821,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 765,
+      "prime": 5827,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 766,
+      "prime": 5839,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 767,
+      "prime": 5843,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 768,
+      "prime": 5849,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 769,
+      "prime": 5851,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 770,
+      "prime": 5857,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 771,
+      "prime": 5861,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 772,
+      "prime": 5867,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 773,
+      "prime": 5869,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 774,
+      "prime": 5879,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 775,
+      "prime": 5881,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 776,
+      "prime": 5897,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 777,
+      "prime": 5903,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 778,
+      "prime": 5923,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 779,
+      "prime": 5927,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 780,
+      "prime": 5939,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 781,
+      "prime": 5953,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 782,
+      "prime": 5981,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 783,
+      "prime": 5987,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 784,
+      "prime": 6007,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 785,
+      "prime": 6011,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 786,
+      "prime": 6029,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 787,
+      "prime": 6037,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 788,
+      "prime": 6043,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 789,
+      "prime": 6047,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 790,
+      "prime": 6053,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 791,
+      "prime": 6067,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 792,
+      "prime": 6073,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 793,
+      "prime": 6079,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 794,
+      "prime": 6089,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 795,
+      "prime": 6091,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 796,
+      "prime": 6101,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 797,
+      "prime": 6113,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 798,
+      "prime": 6121,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 799,
+      "prime": 6131,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 800,
+      "prime": 6133,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 801,
+      "prime": 6143,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 802,
+      "prime": 6151,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 803,
+      "prime": 6163,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 804,
+      "prime": 6173,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 805,
+      "prime": 6197,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 806,
+      "prime": 6199,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 807,
+      "prime": 6203,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 808,
+      "prime": 6211,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 809,
+      "prime": 6217,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 810,
+      "prime": 6221,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 811,
+      "prime": 6229,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 812,
+      "prime": 6247,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 813,
+      "prime": 6257,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 814,
+      "prime": 6263,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 815,
+      "prime": 6269,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 816,
+      "prime": 6271,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 817,
+      "prime": 6277,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 818,
+      "prime": 6287,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 819,
+      "prime": 6299,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 820,
+      "prime": 6301,
+      "digits": 4,
+      "sum_of_digits": 10,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 821,
+      "prime": 6311,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 822,
+      "prime": 6317,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 823,
+      "prime": 6323,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 824,
+      "prime": 6329,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 825,
+      "prime": 6337,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 826,
+      "prime": 6343,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 827,
+      "prime": 6353,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 828,
+      "prime": 6359,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 829,
+      "prime": 6361,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 830,
+      "prime": 6367,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 831,
+      "prime": 6373,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 832,
+      "prime": 6379,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 833,
+      "prime": 6389,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 834,
+      "prime": 6397,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 835,
+      "prime": 6421,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 836,
+      "prime": 6427,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 837,
+      "prime": 6449,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 838,
+      "prime": 6451,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 839,
+      "prime": 6469,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 840,
+      "prime": 6473,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 841,
+      "prime": 6481,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 842,
+      "prime": 6491,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 843,
+      "prime": 6521,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 844,
+      "prime": 6529,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 845,
+      "prime": 6547,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 846,
+      "prime": 6551,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 847,
+      "prime": 6553,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 848,
+      "prime": 6563,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 849,
+      "prime": 6569,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 850,
+      "prime": 6571,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 851,
+      "prime": 6577,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 852,
+      "prime": 6581,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 853,
+      "prime": 6599,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 854,
+      "prime": 6607,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 855,
+      "prime": 6619,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 856,
+      "prime": 6637,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 857,
+      "prime": 6653,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 858,
+      "prime": 6659,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 859,
+      "prime": 6661,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 860,
+      "prime": 6673,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 861,
+      "prime": 6679,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 862,
+      "prime": 6689,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 863,
+      "prime": 6691,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 864,
+      "prime": 6701,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 865,
+      "prime": 6703,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 866,
+      "prime": 6709,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 867,
+      "prime": 6719,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 868,
+      "prime": 6733,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 869,
+      "prime": 6737,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 870,
+      "prime": 6761,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 871,
+      "prime": 6763,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 872,
+      "prime": 6779,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 873,
+      "prime": 6781,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 874,
+      "prime": 6791,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 875,
+      "prime": 6793,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 876,
+      "prime": 6803,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 877,
+      "prime": 6823,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 878,
+      "prime": 6827,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 879,
+      "prime": 6829,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 880,
+      "prime": 6833,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 881,
+      "prime": 6841,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 882,
+      "prime": 6857,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 883,
+      "prime": 6863,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 884,
+      "prime": 6869,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 885,
+      "prime": 6871,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 886,
+      "prime": 6883,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 887,
+      "prime": 6899,
+      "digits": 4,
+      "sum_of_digits": 32,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 888,
+      "prime": 6907,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 889,
+      "prime": 6911,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 890,
+      "prime": 6917,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 891,
+      "prime": 6947,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 892,
+      "prime": 6949,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 893,
+      "prime": 6959,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 894,
+      "prime": 6961,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 895,
+      "prime": 6967,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 896,
+      "prime": 6971,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 897,
+      "prime": 6977,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 898,
+      "prime": 6983,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 899,
+      "prime": 6991,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 900,
+      "prime": 6997,
+      "digits": 4,
+      "sum_of_digits": 31,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 901,
+      "prime": 7001,
+      "digits": 4,
+      "sum_of_digits": 8,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 902,
+      "prime": 7013,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 903,
+      "prime": 7019,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 904,
+      "prime": 7027,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 905,
+      "prime": 7039,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 906,
+      "prime": 7043,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 907,
+      "prime": 7057,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 908,
+      "prime": 7069,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 909,
+      "prime": 7079,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 910,
+      "prime": 7103,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 911,
+      "prime": 7109,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 912,
+      "prime": 7121,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 913,
+      "prime": 7127,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 914,
+      "prime": 7129,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 915,
+      "prime": 7151,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 916,
+      "prime": 7159,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 917,
+      "prime": 7177,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 918,
+      "prime": 7187,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 919,
+      "prime": 7193,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 920,
+      "prime": 7207,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 921,
+      "prime": 7211,
+      "digits": 4,
+      "sum_of_digits": 11,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 922,
+      "prime": 7213,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 923,
+      "prime": 7219,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 924,
+      "prime": 7229,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 925,
+      "prime": 7237,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 926,
+      "prime": 7243,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 927,
+      "prime": 7247,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 928,
+      "prime": 7253,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 929,
+      "prime": 7283,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 930,
+      "prime": 7297,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 931,
+      "prime": 7307,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 932,
+      "prime": 7309,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 933,
+      "prime": 7321,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 934,
+      "prime": 7331,
+      "digits": 4,
+      "sum_of_digits": 14,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 935,
+      "prime": 7333,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 936,
+      "prime": 7349,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 937,
+      "prime": 7351,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 938,
+      "prime": 7369,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 939,
+      "prime": 7393,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 940,
+      "prime": 7411,
+      "digits": 4,
+      "sum_of_digits": 13,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 941,
+      "prime": 7417,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 942,
+      "prime": 7433,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 943,
+      "prime": 7451,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 944,
+      "prime": 7457,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 945,
+      "prime": 7459,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 946,
+      "prime": 7477,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 947,
+      "prime": 7481,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 948,
+      "prime": 7487,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 949,
+      "prime": 7489,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 950,
+      "prime": 7499,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 951,
+      "prime": 7507,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 952,
+      "prime": 7517,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 953,
+      "prime": 7523,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 954,
+      "prime": 7529,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 955,
+      "prime": 7537,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 956,
+      "prime": 7541,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 957,
+      "prime": 7547,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 958,
+      "prime": 7549,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 959,
+      "prime": 7559,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 960,
+      "prime": 7561,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 961,
+      "prime": 7573,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 962,
+      "prime": 7577,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 963,
+      "prime": 7583,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 964,
+      "prime": 7589,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 965,
+      "prime": 7591,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 966,
+      "prime": 7603,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 967,
+      "prime": 7607,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 968,
+      "prime": 7621,
+      "digits": 4,
+      "sum_of_digits": 16,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 969,
+      "prime": 7639,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 970,
+      "prime": 7643,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 971,
+      "prime": 7649,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 972,
+      "prime": 7669,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 973,
+      "prime": 7673,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 974,
+      "prime": 7681,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 975,
+      "prime": 7687,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 976,
+      "prime": 7691,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 977,
+      "prime": 7699,
+      "digits": 4,
+      "sum_of_digits": 31,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 978,
+      "prime": 7703,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 979,
+      "prime": 7717,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 980,
+      "prime": 7723,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 981,
+      "prime": 7727,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 982,
+      "prime": 7741,
+      "digits": 4,
+      "sum_of_digits": 19,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 983,
+      "prime": 7753,
+      "digits": 4,
+      "sum_of_digits": 22,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 984,
+      "prime": 7757,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 985,
+      "prime": 7759,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 986,
+      "prime": 7789,
+      "digits": 4,
+      "sum_of_digits": 31,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 987,
+      "prime": 7793,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 988,
+      "prime": 7817,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 989,
+      "prime": 7823,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 990,
+      "prime": 7829,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 991,
+      "prime": 7841,
+      "digits": 4,
+      "sum_of_digits": 20,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 992,
+      "prime": 7853,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 993,
+      "prime": 7867,
+      "digits": 4,
+      "sum_of_digits": 28,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 994,
+      "prime": 7873,
+      "digits": 4,
+      "sum_of_digits": 25,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 995,
+      "prime": 7877,
+      "digits": 4,
+      "sum_of_digits": 29,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 996,
+      "prime": 7879,
+      "digits": 4,
+      "sum_of_digits": 31,
+      "category": "Twin Prime"
+    },
+    {
+      "index": 997,
+      "prime": 7883,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 998,
+      "prime": 7901,
+      "digits": 4,
+      "sum_of_digits": 17,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 999,
+      "prime": 7907,
+      "digits": 4,
+      "sum_of_digits": 23,
+      "category": "Regular Prime"
+    },
+    {
+      "index": 1000,
+      "prime": 7919,
+      "digits": 4,
+      "sum_of_digits": 26,
+      "category": "Regular Prime"
+    }
+  ],
+  "meta": {
+    "seo_title": "First 1000 Prime Numbers List - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download the first 1000 prime numbers with properties like digits, sum of digits, and category. Free and available in Excel, CSV, and PDF formats for quick analysis. Total 1000 records.",
+    "title": "First 1000 Prime Numbers Dataset & Properties",
+    "description": "This dataset provides the first 1000 prime numbers, each augmented with details such as its index, number of digits, sum of its digits, and a specific category like 'Twin Prime' or 'Even Prime'. It's ideal for mathematical analysis, educational purposes, and programming challenges.",
+    "key_takeaways": [
+      "Access a comprehensive list of the first 1000 prime numbers with detailed attributes.",
+      "Explore numerical patterns and properties for each prime, including digit count and sum of digits.",
+      "Download data conveniently categorized by 'Twin Prime', 'Even Prime', and other classifications.",
+      "Leverage this dataset for number theory studies, algorithmic development, and educational projects."
+    ],
+    "keywords": [
+      "prime numbers list excel",
+      "first 1000 primes csv",
+      "prime number dataset download",
+      "mathematical data prime numbers",
+      "number theory dataset free",
+      "primes with properties"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or Python scripts to analyze prime number distributions or develop custom algorithms for number theory.",
+      "Use the **Excel** file to create Pivot Tables for visualizing prime number properties, filtering by digit count, or calculating sums of digits across categories for statistical analysis.",
+      "Print the **PDF** version for a handy offline reference in classrooms, for study groups, or as a quick lookup table during mathematical problem-solving sessions.",
+      "Utilize this dataset for educational projects to teach fundamental number theory concepts, validate prime number generation algorithms, or explore computational mathematics."
+    ]
+  },
+  "record_count": 1000,
+  "title": "First 1000 Prime Numbers Dataset & Properties"
+}

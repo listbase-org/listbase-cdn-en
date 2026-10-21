@@ -1,0 +1,268 @@
+{
+  "id": "kw-power-plants",
+  "name": "Kuwait — Power Plants",
+  "title": "Kuwait — Power Plants",
+  "description": "Power plants located in Kuwait from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Az Zour South CCGT",
+      "gppd_idnr": "WRI1008685",
+      "capacity_mw": 5805,
+      "latitude": 28.7072,
+      "longitude": 48.3742,
+      "primary_fuel": "Gas",
+      "other_fuels": "Oil",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 19049.96",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sabiya",
+      "gppd_idnr": "WRI1008692",
+      "capacity_mw": 5366.5,
+      "latitude": 29.567,
+      "longitude": 48.171,
+      "primary_fuel": "Gas",
+      "other_fuels": "Oil",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 17610.96",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Doha West",
+      "gppd_idnr": "WRI1008690",
+      "capacity_mw": 2543,
+      "latitude": 29.3678,
+      "longitude": 47.7865,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2008,
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 8345.22",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Doha East",
+      "gppd_idnr": "WRI1008689",
+      "capacity_mw": 1158,
+      "latitude": 29.3682,
+      "longitude": 47.7963,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 3800.14",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Az Zour North",
+      "gppd_idnr": "WRI1023728",
+      "capacity_mw": 1100,
+      "latitude": 28.7135,
+      "longitude": 48.3806,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 3609.81",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Shuiba North",
+      "gppd_idnr": "WRI1008688",
+      "capacity_mw": 875,
+      "latitude": 29.0359,
+      "longitude": 48.1536,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 2871.44",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Shuiba SPSS",
+      "gppd_idnr": "WRI1008687",
+      "capacity_mw": 720,
+      "latitude": 29.0359,
+      "longitude": 48.1536,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 2362.78",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Shuwaikh",
+      "gppd_idnr": "WRI1008691",
+      "capacity_mw": 252,
+      "latitude": 29.0769,
+      "longitude": 48.0839,
+      "primary_fuel": "Gas",
+      "other_fuels": "Oil",
+      "commissioning_year": 2007,
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "CARMA",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 826.97",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Umm Gudair",
+      "gppd_idnr": "WKS0064590",
+      "capacity_mw": 10,
+      "latitude": 28.89,
+      "longitude": 47.71,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 16.66; 2014: 16.48; 2015: 16.11; 2016: 16.34; 2017: 16.49",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Kuwait — Power Plants - Free Download",
+    "description": "Power plants located in Kuwait from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kuwait — Power Plants | ListBase",
+    "seo_description": "Download Kuwait — Power Plants dataset with 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "id": "uz-airports-iata",
+  "name": "Uzbekistan — IATA Airports",
+  "title": "Uzbekistan — IATA Airports",
+  "description": "Airports with IATA codes in Uzbekistan: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "AFS",
+      "icao_code": "UTSN",
+      "name": "Zarafshan Airport",
+      "city_name_list": "Zarafshan",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Navoiy Region",
+      "latitude": 41.6139,
+      "longitude": 64.2332,
+      "elevation": "",
+      "timezone": "Asia/Samarkand",
+      "wiki_link": "https://en.wikipedia.org/wiki/Zarafshan_Airport"
+    },
+    {
+      "iata_code": "AZN",
+      "icao_code": "UZFA",
+      "name": "Andizhan Airport",
+      "city_name_list": "Andijon",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Andijan Region",
+      "latitude": 40.7277,
+      "longitude": 72.294,
+      "elevation": "",
+      "timezone": "Asia/Tashkent",
+      "wiki_link": "https://en.wikipedia.org/wiki/Andizhan_Airport"
+    },
+    {
+      "iata_code": "BHK",
+      "icao_code": "UTSB",
+      "name": "Bukhara Airport",
+      "city_name_list": "Bukhara",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Bukhara",
+      "latitude": 39.76629,
+      "longitude": 64.47988,
+      "elevation": "",
+      "timezone": "Asia/Samarkand",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bukhara_International_Airport"
+    },
+    {
+      "iata_code": "FEG",
+      "icao_code": "UTFF",
+      "name": "Fergana International Airport",
+      "city_name_list": "Fergana",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Fergana",
+      "latitude": 40.3588,
+      "longitude": 71.745,
+      "elevation": "",
+      "timezone": "Asia/Tashkent",
+      "wiki_link": "https://en.wikipedia.org/wiki/Fergana_International_Airport"
+    },
+    {
+      "iata_code": "IYO",
+      "icao_code": "UTSR",
+      "name": "Sariosiyo Airport",
+      "city_name_list": "Sariosiyo",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Surxondaryo Region",
+      "latitude": 38.40809,
+      "longitude": 67.94498,
+      "elevation": "",
+      "timezone": "Asia/Samarkand",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "KSQ",
+      "icao_code": "UTSK",
+      "name": "Karshi Airport",
+      "city_name_list": "Qarshi",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Qashqadaryo",
+      "latitude": 38.80231,
+      "longitude": 65.77316,
+      "elevation": "",
+      "timezone": "Asia/Samarkand",
+      "wiki_link": "https://en.wikipedia.org/wiki/Qarshi_Airport"
+    },
+    {
+      "iata_code": "MOK",
+      "icao_code": "UTNM",
+      "name": "Muynak Airport",
+      "city_name_list": "Mŭynoq",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Karakalpakstan",
+      "latitude": 43.75521,
+      "longitude": 59.03087,
+      "elevation": "",
+      "timezone": "Asia/Samarkand",
+      "wiki_link": "https://en.wikipedia.org/wiki/Muynak_Airport"
+    },
+    {
+      "iata_code": "NCU",
+      "icao_code": "UTNN",
+      "name": "Nukus / Karakalpakstan",
+      "city_name_list": "Nukus",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Karakalpakstan",
+      "latitude": 42.48,
+      "longitude": 59.63,
+      "elevation": "",
+      "timezone": "Asia/Samarkand",
+      "wiki_link": "https://en.wikipedia.org/wiki/Nukus_Airport"
+    },
+    {
+      "iata_code": "NMA",
+      "icao_code": "UTFN",
+      "name": "Namangan Airport",
+      "city_name_list": "Namangan",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Namangan",
+      "latitude": 40.9849,
+      "longitude": 71.55683,
+      "elevation": "",
+      "timezone": "Asia/Tashkent",
+      "wiki_link": "https://en.wikipedia.org/wiki/Namangan_Airport"
+    },
+    {
+      "iata_code": "NVI",
+      "icao_code": "UTSA",
+      "name": "Navoi International Airport",
+      "city_name_list": "Navoiy",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Navoiy Region",
+      "latitude": 40.1172,
+      "longitude": 65.1708,
+      "elevation": "",
+      "timezone": "Asia/Samarkand",
+      "wiki_link": "https://en.wikipedia.org/wiki/Navoi_International_Airport"
+    },
+    {
+      "iata_code": "OMN",
+      "icao_code": "UTTZ",
+      "name": "Zomin Airport",
+      "city_name_list": "Zomin Shaharchasi",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Jizzakh Region",
+      "latitude": 39.96926,
+      "longitude": 68.54398,
+      "elevation": "",
+      "timezone": "Asia/Samarkand",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "OQN",
+      "icao_code": "UTKK",
+      "name": "Qoqon Airport",
+      "city_name_list": "Qo‘qon",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Fergana",
+      "latitude": 40.44694,
+      "longitude": 70.98853,
+      "elevation": "",
+      "timezone": "Asia/Tashkent",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "RBZ",
+      "icao_code": "",
+      "name": "Shakhrisyabz Airport",
+      "city_name_list": "Shahrisabz Shahri",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Qashqadaryo",
+      "latitude": 39.02991,
+      "longitude": 66.77596,
+      "elevation": "",
+      "timezone": "Asia/Samarkand",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "SKD",
+      "icao_code": "UTSS",
+      "name": "Samarkand Airport",
+      "city_name_list": "Samarkand",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Samarqand Region",
+      "latitude": 39.70055,
+      "longitude": 66.98383,
+      "elevation": 677,
+      "timezone": "Asia/Samarkand",
+      "wiki_link": "https://en.wikipedia.org/wiki/Samarkand_International_Airport"
+    },
+    {
+      "iata_code": "TAS",
+      "icao_code": "UTTT",
+      "name": "Tashkent International Airport",
+      "city_name_list": "Tashkent",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Tashkent",
+      "latitude": 41.25786,
+      "longitude": 69.28119,
+      "elevation": 431,
+      "timezone": "Asia/Tashkent",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tashkent_International_Airport"
+    },
+    {
+      "iata_code": "TMJ",
+      "icao_code": "UTST",
+      "name": "Termez Airport",
+      "city_name_list": "Termez Airport",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Surxondaryo Region",
+      "latitude": 37.286667,
+      "longitude": 67.31,
+      "elevation": 313,
+      "timezone": "Asia/Samarkand",
+      "wiki_link": "https://en.wikipedia.org/wiki/Termez_Airport"
+    },
+    {
+      "iata_code": "TVT",
+      "icao_code": "UTTP",
+      "name": "Tashkent Eastern Airport",
+      "city_name_list": "Tashkent",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Tashkent Region",
+      "latitude": 41.31247,
+      "longitude": 69.39041,
+      "elevation": "",
+      "timezone": "Asia/Tashkent",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "UGC",
+      "icao_code": "UTNU",
+      "name": "Urgench International Airport",
+      "city_name_list": "Urganch",
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Xorazm Region",
+      "latitude": 41.58427,
+      "longitude": 60.64171,
+      "elevation": 97,
+      "timezone": "Asia/Samarkand",
+      "wiki_link": "https://en.wikipedia.org/wiki/Urgench_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Uzbekistan — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Uzbekistan: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Uzbekistan — IATA Airports | ListBase",
+    "seo_description": "Download Uzbekistan — IATA Airports dataset with 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

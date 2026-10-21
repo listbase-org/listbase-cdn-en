@@ -1,0 +1,256 @@
+{
+  "id": "tn-airports-iata",
+  "name": "Tunisia — IATA Airports",
+  "title": "Tunisia — IATA Airports",
+  "description": "Airports with IATA codes in Tunisia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "DJE",
+      "icao_code": "DTTJ",
+      "name": "Djerba-Zarzis International Airport",
+      "city_name_list": "Djerba Island=Houmt Souk",
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Medenine Governorate",
+      "latitude": 33.87334,
+      "longitude": 10.77553,
+      "elevation": 5,
+      "timezone": "Africa/Tunis",
+      "wiki_link": "https://en.wikipedia.org/wiki/Djerba%E2%80%93Zarzis_International_Airport"
+    },
+    {
+      "iata_code": "EBM",
+      "icao_code": "DTTR",
+      "name": "El Borma Airport",
+      "city_name_list": "El Borma",
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Tataouine",
+      "latitude": 31.70428,
+      "longitude": 9.25462,
+      "elevation": 252,
+      "timezone": "Africa/Tunis",
+      "wiki_link": "https://en.wikipedia.org/wiki/El_Borma_Airport"
+    },
+    {
+      "iata_code": "GAE",
+      "icao_code": "DTTG",
+      "name": "Gabès – Matmata International Airport",
+      "city_name_list": "Gabès",
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Gabes Governorate",
+      "latitude": 33.73426,
+      "longitude": 9.92005,
+      "elevation": "",
+      "timezone": "Africa/Tunis",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gab%C3%A8s_%E2%80%93_Matmata_International_Airport"
+    },
+    {
+      "iata_code": "GAF",
+      "icao_code": "DTTF",
+      "name": "Gafsa – Ksar International Airport",
+      "city_name_list": "Gafsa",
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Gafsa",
+      "latitude": 34.42202,
+      "longitude": 8.8225,
+      "elevation": 323,
+      "timezone": "Africa/Tunis",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gafsa_%E2%80%93_Ksar_International_Airport"
+    },
+    {
+      "iata_code": "MIR",
+      "icao_code": "DTMB",
+      "name": "Monastir Habib Bourguiba International Airport",
+      "city_name_list": "Monastir",
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Monastir Governorate",
+      "latitude": 35.75806,
+      "longitude": 10.75472,
+      "elevation": 2,
+      "timezone": "Africa/Tunis",
+      "wiki_link": "https://en.wikipedia.org/wiki/Monastir_Habib_Bourguiba_International_Airport"
+    },
+    {
+      "iata_code": "NBE",
+      "icao_code": "DTNH",
+      "name": "Enfidha – Hammamet International Airport",
+      "city_name_list": "Enfidha",
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sousse Governorate",
+      "latitude": 36.07579,
+      "longitude": 10.43859,
+      "elevation": 40,
+      "timezone": "Africa/Tunis",
+      "wiki_link": "https://en.wikipedia.org/wiki/Enfidha_%E2%80%93_Hammamet_International_Airport"
+    },
+    {
+      "iata_code": "QKN",
+      "icao_code": "DTTK",
+      "name": "Kairouan",
+      "city_name_list": "Kairouan",
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kairouan",
+      "latitude": 35.66667,
+      "longitude": 10.1,
+      "elevation": 60,
+      "timezone": "Africa/Tunis",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "SFA",
+      "icao_code": "DTTX",
+      "name": "Sfax–Thyna International Airport",
+      "city_name_list": "Sfax",
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sfax Governorate",
+      "latitude": 34.71795,
+      "longitude": 10.69097,
+      "elevation": 25,
+      "timezone": "Africa/Tunis",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sfax%E2%80%93Thyna_International_Airport"
+    },
+    {
+      "iata_code": "TBJ",
+      "icao_code": "DTKA",
+      "name": "Tabarka–Ain Draham International Airport",
+      "city_name_list": "Tabarka",
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Jendouba Governorate",
+      "latitude": 36.98,
+      "longitude": 8.87694,
+      "elevation": 70,
+      "timezone": "Africa/Tunis",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tabarka%E2%80%93Ain_Draham_International_Airport"
+    },
+    {
+      "iata_code": "TOE",
+      "icao_code": "DTTZ",
+      "name": "Tozeur–Nefta International Airport",
+      "city_name_list": "Tozeur",
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Tozeur Governorate",
+      "latitude": 33.93972,
+      "longitude": 8.11056,
+      "elevation": 87,
+      "timezone": "Africa/Tunis",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tozeur%E2%80%93Nefta_International_Airport"
+    },
+    {
+      "iata_code": "TUN",
+      "icao_code": "DTTA",
+      "name": "Tunis-Carthage Airport",
+      "city_name_list": "Tunis",
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Tunis Governorate",
+      "latitude": 36.85103,
+      "longitude": 10.22722,
+      "elevation": 6,
+      "timezone": "Africa/Tunis",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tunis%E2%80%93Carthage_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Tunisia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Tunisia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tunisia — IATA Airports | ListBase",
+    "seo_description": "Download Tunisia — IATA Airports dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

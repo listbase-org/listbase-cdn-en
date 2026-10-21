@@ -1,0 +1,271 @@
+{
+  "id": "vg-political-parties",
+  "name": "British Virgin Islands — Political Parties",
+  "title": "British Virgin Islands — Political Parties",
+  "description": "Political parties of British Virgin Islands from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3760,
+      "name_short": "NDP",
+      "name": "National Democratic Party",
+      "name_english": "National Democratic Party",
+      "name_other": "",
+      "year_first": 1999,
+      "year_last": "",
+      "share": 53.1,
+      "share_year": 2003,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Democratic_Party_(British_Virgin_Islands)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3752,
+      "name_short": "VIP",
+      "name": "Virgin Islands Party",
+      "name_english": "Virgin Islands Party",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": 2011,
+      "share": 50.8,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Virgin_Islands_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6989,
+      "name_short": "VIDP",
+      "name": "VI Democratic Party",
+      "name_english": "VI Democratic Party",
+      "name_other": "",
+      "year_first": 1967,
+      "year_last": 1979,
+      "share": 31.3,
+      "share_year": 1967,
+      "wikipedia": "https://en.wikipedia.org/wiki/VI_Democratic_Party",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6991,
+      "name_short": "VINM",
+      "name": "Virgin Islands National Movement",
+      "name_english": "Virgin Islands National Movement",
+      "name_other": "",
+      "year_first": 1979,
+      "year_last": 1979,
+      "share": 22.9,
+      "share_year": 1979,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6990,
+      "name_short": "POP",
+      "name": "People's Own Party",
+      "name_english": "People's Own Party",
+      "name_other": "",
+      "year_first": 1967,
+      "year_last": 1967,
+      "share": 16.7,
+      "share_year": 1967,
+      "wikipedia": "",
+      "description": "1 of 6 seats in 1967 British Virgin Islands general election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6987,
+      "name_short": "UP",
+      "name": "United Party / BVI United Party",
+      "name_english": "United Party / BVI United Party",
+      "name_other": "",
+      "year_first": 1967,
+      "year_last": 2005,
+      "share": 16.5,
+      "share_year": 1995,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6995,
+      "name_short": "CCM",
+      "name": "Concerned Citizens' Movement",
+      "name_english": "Concerned Citizens' Movement",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": 1995,
+      "share": 14.2,
+      "share_year": 1995,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6994,
+      "name_short": "CCM",
+      "name": "Concerned Citizens' Movement",
+      "name_english": "Concerned Citizens' Movement",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": 1995,
+      "share": 14.2,
+      "share_year": 1995,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6992,
+      "name_short": "IPM",
+      "name": "Independent People's Movement",
+      "name_english": "Independent People's Movement",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": 1990,
+      "share": 14,
+      "share_year": 1990,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6993,
+      "name_short": "PPDP",
+      "name": "Progressive People's Democratic Party",
+      "name_english": "Progressive People's Democratic Party",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": 1990,
+      "share": 8.8,
+      "share_year": 1990,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6988,
+      "name_short": "PP",
+      "name": "People's Party",
+      "name_english": "People's Party",
+      "name_other": "",
+      "year_first": 1986,
+      "year_last": 1986,
+      "share": 6.3,
+      "share_year": 1986,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3757,
+      "name_short": "PPA",
+      "name": "People’s Patriotic Alliance",
+      "name_english": "People’s Patriotic Alliance",
+      "name_other": "",
+      "year_first": 2011,
+      "year_last": 2011,
+      "share": 5.1,
+      "share_year": 2011,
+      "wikipedia": "https://en.wikipedia.org/wiki/British_Virgin_Islands_general_election,_2011",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "British Virgin Islands — Political Parties - Free Download",
+    "description": "Political parties of British Virgin Islands from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "British Virgin Islands — Political Parties | ListBase",
+    "seo_description": "Download British Virgin Islands — Political Parties dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

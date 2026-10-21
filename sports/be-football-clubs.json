@@ -1,0 +1,682 @@
+{
+  "id": "be-football-clubs",
+  "name": "Belgium — Football Clubs",
+  "title": "Belgium — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Belgium's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "KSVRoeselare",
+      "matches_played": 455,
+      "seasons_count": 14,
+      "leagues": "belgacom-league, exqi-league, jupiler-league, proximus-league",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2004-2005, exqi-league-2010-2011, exqi-lea…"
+    },
+    {
+      "name": "Beveren",
+      "matches_played": 443,
+      "seasons_count": 14,
+      "leagues": "exqi-league, jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1998,
+      "last_season_year": 2011,
+      "seasons": "exqi-league-2004-2005, exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2008-2009, exqi-league-2009-2010, exqi-league-2010-2011, exqi-league-2011-2012, jupiler-league-1998-1999, jupiler-leagu…"
+    },
+    {
+      "name": "RWDMBrussels",
+      "matches_played": 437,
+      "seasons_count": 13,
+      "leagues": "belgacom-league, exqi-league, jupiler-league",
+      "first_season_year": 2000,
+      "last_season_year": 2013,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2008-2009, exqi-league-2009-2010, exqi-league-2010-2011, exqi-lea…"
+    },
+    {
+      "name": "Oostende",
+      "matches_played": 428,
+      "seasons_count": 13,
+      "leagues": "belgacom-league, exqi-league, jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "belgacom-league-2012-2013, exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2003-2004, exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2008-2009, exqi-league-2009-2010, exqi-league-…"
+    },
+    {
+      "name": "Antwerp",
+      "matches_played": 427,
+      "seasons_count": 13,
+      "leagues": "belgacom-league, exqi-league, jupiler-league, proximus-league",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-1999-2000, exqi-league-2004-2005, exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2008-2009, exqi-league-2009-2010, exqi-lea…"
+    },
+    {
+      "name": "St.Truiden",
+      "matches_played": 408,
+      "seasons_count": 13,
+      "leagues": "belgacom-league, exqi-league, jupiler-league, jupiler-leagueresults, proximus-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-2008-2009, jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005…"
+    },
+    {
+      "name": "Eupen",
+      "matches_played": 392,
+      "seasons_count": 12,
+      "leagues": "belgacom-league, exqi-league, proximus-league",
+      "first_season_year": 2002,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2004-2005, exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2008-2009, exqi-lea…"
+    },
+    {
+      "name": "Tubize",
+      "matches_played": 359,
+      "seasons_count": 11,
+      "leagues": "belgacom-league, exqi-league, proximus-league",
+      "first_season_year": 2003,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-2003-2004, exqi-league-2004-2005, exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2009-2010, exqi-league-2010-2011, exqi-lea…"
+    },
+    {
+      "name": "Tienen",
+      "matches_played": 334,
+      "seasons_count": 10,
+      "leagues": "exqi-league",
+      "first_season_year": 1999,
+      "last_season_year": 2011,
+      "seasons": "exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2008-2009, exqi-league-2009-2010, exqi-league-2010…"
+    },
+    {
+      "name": "Lierse",
+      "matches_played": 330,
+      "seasons_count": 10,
+      "leagues": "exqi-league, jupiler-league, proximus-league",
+      "first_season_year": 1998,
+      "last_season_year": 2009,
+      "seasons": "exqi-league-2007-2008, exqi-league-2008-2009, exqi-league-2009-2010, jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, j…"
+    },
+    {
+      "name": "LommelUtd",
+      "matches_played": 329,
+      "seasons_count": 10,
+      "leagues": "belgacom-league, exqi-league, proximus-league",
+      "first_season_year": 2006,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2008-2009, exqi-league-2009-2010, exqi-league-2010-2011, exqi-league-2011-2012, proximus…"
+    },
+    {
+      "name": "Westerlo",
+      "matches_played": 329,
+      "seasons_count": 10,
+      "leagues": "belgacom-league, jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2…"
+    },
+    {
+      "name": "Anderlecht",
+      "matches_played": 322,
+      "seasons_count": 14,
+      "leagues": "jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2006-2007, jupiler-league-2007-2008, jupiler-league-200…"
+    },
+    {
+      "name": "ClubBruggeKV",
+      "matches_played": 321,
+      "seasons_count": 14,
+      "leagues": "jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2006-2007, jupiler-league-2007-2008, jupiler-league-200…"
+    },
+    {
+      "name": "Dessel",
+      "matches_played": 319,
+      "seasons_count": 10,
+      "leagues": "belgacom-league, exqi-league, proximus-league",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2004-2005, exqi-league-2006-2007, proximus…"
+    },
+    {
+      "name": "St.Liege",
+      "matches_played": 311,
+      "seasons_count": 13,
+      "leagues": "jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2006-2007, jupiler-league-2007-2008, jupiler-league-201…"
+    },
+    {
+      "name": "Charleroi",
+      "matches_played": 304,
+      "seasons_count": 10,
+      "leagues": "exqi-league, jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "exqi-league-2011-2012, jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2006-2007, jupiler-league-2007-2…"
+    },
+    {
+      "name": "Gent",
+      "matches_played": 302,
+      "seasons_count": 12,
+      "leagues": "jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2006-2007, jupiler-league-2007-2008, jupiler-league-200…"
+    },
+    {
+      "name": "Genk",
+      "matches_played": 301,
+      "seasons_count": 12,
+      "leagues": "jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2006-2007, jupiler-league-2007-2008, jupiler-league-201…"
+    },
+    {
+      "name": "Dender",
+      "matches_played": 298,
+      "seasons_count": 9,
+      "leagues": "exqi-league, jupiler-league",
+      "first_season_year": 1999,
+      "last_season_year": 2011,
+      "seasons": "exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2006-2007, exqi-league-2009-2010, exqi-league-2010-2011, exqi-league-2011-2012, jupiler-league-2…"
+    },
+    {
+      "name": "Lokeren",
+      "matches_played": 291,
+      "seasons_count": 11,
+      "leagues": "jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2006-2007, jupiler-league-2007-2008, jupiler-league-201…"
+    },
+    {
+      "name": "Virton",
+      "matches_played": 291,
+      "seasons_count": 9,
+      "leagues": "belgacom-league, exqi-league, proximus-league",
+      "first_season_year": 2002,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2013-2014, exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2004-2005, exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2008-2009, proximus-league, proximus-league-20…"
+    },
+    {
+      "name": "CercleBruggeKSV",
+      "matches_played": 288,
+      "seasons_count": 9,
+      "leagues": "exqi-league, jupiler-league, proximus-league",
+      "first_season_year": 1999,
+      "last_season_year": 2007,
+      "seasons": "exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2002-2003, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2006-2007, jupiler-league-2007-2008, p…"
+    },
+    {
+      "name": "Deinze",
+      "matches_played": 288,
+      "seasons_count": 9,
+      "leagues": "exqi-league, proximus-league",
+      "first_season_year": 1999,
+      "last_season_year": 2008,
+      "seasons": "exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2004-2005, exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2008-2009, proximus-league"
+    },
+    {
+      "name": "Mons",
+      "matches_played": 269,
+      "seasons_count": 8,
+      "leagues": "exqi-league, jupiler-league, proximus-league",
+      "first_season_year": 2000,
+      "last_season_year": 2014,
+      "seasons": "exqi-league-2000-2001, exqi-league-2009-2010, exqi-league-2010-2011, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2006-2007, jupiler-league-2007-2008, proximus-league-2014-2015"
+    },
+    {
+      "name": "Aalst",
+      "matches_played": 268,
+      "seasons_count": 8,
+      "leagues": "belgacom-league, exqi-league, jupiler-league, proximus-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-2003-2004, exqi-league-2004-2005, exqi-league-2011-2012, jupiler-league-1998-1999, jupiler-league-1999-2000, proximus-league-2014-2015"
+    },
+    {
+      "name": "Waasland",
+      "matches_played": 268,
+      "seasons_count": 8,
+      "leagues": "exqi-league, jupiler-leagueresults",
+      "first_season_year": 2004,
+      "last_season_year": 2011,
+      "seasons": "exqi-league-2004-2005, exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2008-2009, exqi-league-2009-2010, exqi-league-2010-2011, exqi-league-2011-2012, jupiler-leagueresults"
+    },
+    {
+      "name": "Vise",
+      "matches_played": 264,
+      "seasons_count": 8,
+      "leagues": "belgacom-league, exqi-league",
+      "first_season_year": 1999,
+      "last_season_year": 2013,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-1999-2000, exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2004-2005, exqi-league-2010-2011, exqi-league-2011-2012"
+    },
+    {
+      "name": "Waregem",
+      "matches_played": 253,
+      "seasons_count": 10,
+      "leagues": "exqi-league, jupiler-league, jupiler-leagueresults",
+      "first_season_year": 2002,
+      "last_season_year": 2013,
+      "seasons": "exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2006-2007, jupiler-league-2007-2008, jupiler-league-2009-2010, jupiler-league-2012-2013, j…"
+    },
+    {
+      "name": "Beerschot",
+      "matches_played": 237,
+      "seasons_count": 7,
+      "leagues": "jupiler-league",
+      "first_season_year": 1998,
+      "last_season_year": 2007,
+      "seasons": "jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2006-2007, jupiler-league-2007-2008"
+    },
+    {
+      "name": "Mouscron",
+      "matches_played": 237,
+      "seasons_count": 7,
+      "leagues": "jupiler-league",
+      "first_season_year": 1998,
+      "last_season_year": 2007,
+      "seasons": "jupiler-league-1998-1999, jupiler-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006, jupiler-league-2006-2007, jupiler-league-2007-2008"
+    },
+    {
+      "name": "Leuven",
+      "matches_played": 229,
+      "seasons_count": 7,
+      "leagues": "exqi-league, jupiler-leagueresults, proximus-league",
+      "first_season_year": 2006,
+      "last_season_year": 2014,
+      "seasons": "exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2008-2009, exqi-league-2009-2010, exqi-league-2010-2011, jupiler-leagueresults, proximus-league-2014-2015"
+    },
+    {
+      "name": "Kortrijk",
+      "matches_played": 221,
+      "seasons_count": 9,
+      "leagues": "exqi-league, jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "exqi-league-1999-2000, exqi-league-2004-2005, exqi-league-2006-2007, exqi-league-2007-2008, jupiler-league-1998-1999, jupiler-league-2009-2010, jupiler-league-2011-2012, jupiler-league-2014-2015, jupi…"
+    },
+    {
+      "name": "PatroEisden",
+      "matches_played": 219,
+      "seasons_count": 7,
+      "leagues": "exqi-league, proximus-league",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2004-2005, proximus-league, proximus-league-2014-2015"
+    },
+    {
+      "name": "Hamme",
+      "matches_played": 200,
+      "seasons_count": 6,
+      "leagues": "exqi-league",
+      "first_season_year": 2002,
+      "last_season_year": 2008,
+      "seasons": "exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2004-2005, exqi-league-2006-2007, exqi-league-2007-2008, exqi-league-2008-2009"
+    },
+    {
+      "name": "Ronse",
+      "matches_played": 200,
+      "seasons_count": 6,
+      "leagues": "exqi-league",
+      "first_season_year": 2002,
+      "last_season_year": 2009,
+      "seasons": "exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2004-2005, exqi-league-2006-2007, exqi-league-2008-2009, exqi-league-2009-2010"
+    },
+    {
+      "name": "Geel",
+      "matches_played": 198,
+      "seasons_count": 6,
+      "leagues": "exqi-league, jupiler-league",
+      "first_season_year": 1999,
+      "last_season_year": 2007,
+      "seasons": "exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2003-2004, exqi-league-2004-2005, exqi-league-2007-2008, jupiler-league-1999-2000"
+    },
+    {
+      "name": "Heist",
+      "matches_played": 191,
+      "seasons_count": 6,
+      "leagues": "belgacom-league, exqi-league, proximus-league",
+      "first_season_year": 2010,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-2010-2011, exqi-league-2011-2012, proximus-league, proximus-league-2014-2015"
+    },
+    {
+      "name": "Borinage",
+      "matches_played": 169,
+      "seasons_count": 5,
+      "leagues": "belgacom-league, exqi-league",
+      "first_season_year": 2009,
+      "last_season_year": 2013,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-2009-2010, exqi-league-2010-2011, exqi-league-2011-2012"
+    },
+    {
+      "name": "RFCLiege",
+      "matches_played": 167,
+      "seasons_count": 5,
+      "leagues": "exqi-league",
+      "first_season_year": 1999,
+      "last_season_year": 2009,
+      "seasons": "exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2008-2009, exqi-league-2009-2010"
+    },
+    {
+      "name": "RWSBruxelles",
+      "matches_played": 158,
+      "seasons_count": 5,
+      "leagues": "belgacom-league, exqi-league, proximus-league",
+      "first_season_year": 2011,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, exqi-league-2011-2012, proximus-league, proximus-league-2014-2015"
+    },
+    {
+      "name": "Tournai",
+      "matches_played": 138,
+      "seasons_count": 4,
+      "leagues": "exqi-league",
+      "first_season_year": 2007,
+      "last_season_year": 2010,
+      "seasons": "exqi-league-2007-2008, exqi-league-2008-2009, exqi-league-2009-2010, exqi-league-2010-2011"
+    },
+    {
+      "name": "Ingelmunster",
+      "matches_played": 134,
+      "seasons_count": 4,
+      "leagues": "exqi-league",
+      "first_season_year": 1999,
+      "last_season_year": 2003,
+      "seasons": "exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2003-2004"
+    },
+    {
+      "name": "RAALouvieroise",
+      "matches_played": 134,
+      "seasons_count": 4,
+      "leagues": "exqi-league, jupiler-league",
+      "first_season_year": 1999,
+      "last_season_year": 2005,
+      "seasons": "exqi-league-1999-2000, jupiler-league-2003-2004, jupiler-league-2004-2005, jupiler-league-2005-2006"
+    },
+    {
+      "name": "Heusden",
+      "matches_played": 133,
+      "seasons_count": 4,
+      "leagues": "exqi-league, jupiler-league",
+      "first_season_year": 2000,
+      "last_season_year": 2004,
+      "seasons": "exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2004-2005, jupiler-league-2003-2004"
+    },
+    {
+      "name": "K.FCTurnhout",
+      "matches_played": 133,
+      "seasons_count": 4,
+      "leagues": "exqi-league",
+      "first_season_year": 1999,
+      "last_season_year": 2010,
+      "seasons": "exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2009-2010, exqi-league-2010-2011"
+    },
+    {
+      "name": "KVMechelen",
+      "matches_played": 126,
+      "seasons_count": 4,
+      "leagues": "exqi-league, jupiler-league, jupiler-leagueresults",
+      "first_season_year": 1999,
+      "last_season_year": 2007,
+      "seasons": "exqi-league-2006-2007, jupiler-league-1999-2000, jupiler-league-2007-2008, jupiler-leagueresults"
+    },
+    {
+      "name": "St.Gilloise",
+      "matches_played": 122,
+      "seasons_count": 4,
+      "leagues": "exqi-league, proximus-league",
+      "first_season_year": 2004,
+      "last_season_year": 2007,
+      "seasons": "exqi-league-2004-2005, exqi-league-2006-2007, exqi-league-2007-2008, proximus-league"
+    },
+    {
+      "name": "St.Wetteren",
+      "matches_played": 101,
+      "seasons_count": 3,
+      "leagues": "exqi-league",
+      "first_season_year": 2009,
+      "last_season_year": 2011,
+      "seasons": "exqi-league-2009-2010, exqi-league-2010-2011, exqi-league-2011-2012"
+    },
+    {
+      "name": "LommelSK",
+      "matches_played": 100,
+      "seasons_count": 3,
+      "leagues": "exqi-league, jupiler-league",
+      "first_season_year": 1998,
+      "last_season_year": 2000,
+      "seasons": "exqi-league-2000-2001, jupiler-league-1998-1999, jupiler-league-1999-2000"
+    },
+    {
+      "name": "MouscronPeruwelz",
+      "matches_played": 93,
+      "seasons_count": 3,
+      "leagues": "belgacom-league, jupiler-leagueresults",
+      "first_season_year": 2012,
+      "last_season_year": 2013,
+      "seasons": "belgacom-league-2012-2013, belgacom-league-2013-2014, jupiler-leagueresults"
+    },
+    {
+      "name": "ASVGeel",
+      "matches_played": 91,
+      "seasons_count": 3,
+      "leagues": "belgacom-league, proximus-league",
+      "first_season_year": 2013,
+      "last_season_year": 2014,
+      "seasons": "belgacom-league-2013-2014, proximus-league, proximus-league-2014-2015"
+    },
+    {
+      "name": "Namur",
+      "matches_played": 70,
+      "seasons_count": 2,
+      "leagues": "exqi-league",
+      "first_season_year": 2007,
+      "last_season_year": 2008,
+      "seasons": "exqi-league-2007-2008, exqi-league-2008-2009"
+    },
+    {
+      "name": "OCCharleroi",
+      "matches_played": 70,
+      "seasons_count": 2,
+      "leagues": "exqi-league",
+      "first_season_year": 2007,
+      "last_season_year": 2008,
+      "seasons": "exqi-league-2007-2008, exqi-league-2008-2009"
+    },
+    {
+      "name": "Harelbeke",
+      "matches_played": 68,
+      "seasons_count": 4,
+      "leagues": "exqi-league",
+      "first_season_year": 1999,
+      "last_season_year": 2003,
+      "seasons": "exqi-league-1999-2000, exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2003-2004"
+    },
+    {
+      "name": "KRCHarelbeke",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "jupiler-league",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "jupiler-league-1998-1999, jupiler-league-1999-2000"
+    },
+    {
+      "name": "Zolder",
+      "matches_played": 68,
+      "seasons_count": 4,
+      "leagues": "exqi-league, jupiler-league",
+      "first_season_year": 2000,
+      "last_season_year": 2004,
+      "seasons": "exqi-league-2000-2001, exqi-league-2002-2003, exqi-league-2004-2005, jupiler-league-2003-2004"
+    },
+    {
+      "name": "SintNiklaas",
+      "matches_played": 67,
+      "seasons_count": 2,
+      "leagues": "belgacom-league, exqi-league",
+      "first_season_year": 2011,
+      "last_season_year": 2012,
+      "seasons": "belgacom-league-2012-2013, exqi-league-2011-2012"
+    },
+    {
+      "name": "Hekelgem",
+      "matches_played": 65,
+      "seasons_count": 2,
+      "leagues": "exqi-league",
+      "first_season_year": 1999,
+      "last_season_year": 2000,
+      "seasons": "exqi-league-1999-2000, exqi-league-2000-2001"
+    },
+    {
+      "name": "RWDMolenbeek",
+      "matches_played": 65,
+      "seasons_count": 2,
+      "leagues": "exqi-league",
+      "first_season_year": 1999,
+      "last_season_year": 2000,
+      "seasons": "exqi-league-1999-2000, exqi-league-2000-2001"
+    },
+    {
+      "name": "SeraingUtd",
+      "matches_played": 58,
+      "seasons_count": 2,
+      "leagues": "proximus-league",
+      "first_season_year": 2014,
+      "last_season_year": 2014,
+      "seasons": "proximus-league, proximus-league-2014-2015"
+    },
+    {
+      "name": "Hoogstraten",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "belgacom-league",
+      "first_season_year": 2013,
+      "last_season_year": 2013,
+      "seasons": "belgacom-league-2013-2014"
+    },
+    {
+      "name": "KRCMechelen",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "proximus-league",
+      "first_season_year": 2014,
+      "last_season_year": 2014,
+      "seasons": "proximus-league-2014-2015"
+    },
+    {
+      "name": "Oudenaarde",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "belgacom-league",
+      "first_season_year": 2012,
+      "last_season_year": 2012,
+      "seasons": "belgacom-league-2012-2013"
+    },
+    {
+      "name": "WoluweZaventem",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "proximus-league",
+      "first_season_year": 2014,
+      "last_season_year": 2014,
+      "seasons": "proximus-league-2014-2015"
+    },
+    {
+      "name": "Boom",
+      "matches_played": 33,
+      "seasons_count": 1,
+      "leagues": "exqi-league",
+      "first_season_year": 2010,
+      "last_season_year": 2010,
+      "seasons": "exqi-league-2010-2011"
+    },
+    {
+      "name": "Capellen",
+      "matches_played": 33,
+      "seasons_count": 1,
+      "leagues": "exqi-league",
+      "first_season_year": 1999,
+      "last_season_year": 1999,
+      "seasons": "exqi-league-1999-2000"
+    },
+    {
+      "name": "Rac.Waregem",
+      "matches_played": 33,
+      "seasons_count": 1,
+      "leagues": "exqi-league",
+      "first_season_year": 2006,
+      "last_season_year": 2006,
+      "seasons": "exqi-league-2006-2007"
+    },
+    {
+      "name": "Coxyde",
+      "matches_played": 22,
+      "seasons_count": 1,
+      "leagues": "proximus-league",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "proximus-league"
+    }
+  ],
+  "meta": {
+    "title": "Belgium — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Belgium's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Belgium — Football Clubs | ListBase",
+    "seo_description": "Download Belgium — Football Clubs dataset with 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

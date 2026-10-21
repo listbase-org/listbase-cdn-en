@@ -1,0 +1,276 @@
+{
+  "id": "big5-extended-profiles",
+  "name": "Big 5 English-Speaking Countries — Extended Profiles",
+  "title": "Big 5 English-Speaking Countries — Extended Profiles",
+  "description": "Comprehensive country profile for US/UK/Canada/Australia/New Zealand: names (native + translations), ISO codes, currencies, dialing codes, capital, languages, borders, area, demonyms, TLDs, and lat/lng.",
+  "category": "reference",
+  "source": "https://github.com/mledoze/countries",
+  "source_url": "https://github.com/mledoze/countries",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "tld",
+      "label": "Tld",
+      "type": "string"
+    },
+    {
+      "key": "cca2",
+      "label": "Cca2",
+      "type": "string"
+    },
+    {
+      "key": "ccn3",
+      "label": "Ccn3",
+      "type": "number"
+    },
+    {
+      "key": "cca3",
+      "label": "Cca3",
+      "type": "string"
+    },
+    {
+      "key": "cioc",
+      "label": "Cioc",
+      "type": "string"
+    },
+    {
+      "key": "independent",
+      "label": "Independent",
+      "type": "boolean"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "unMember",
+      "label": "UnMember",
+      "type": "boolean"
+    },
+    {
+      "key": "unRegionalGroup",
+      "label": "UnRegionalGroup",
+      "type": "string"
+    },
+    {
+      "key": "currencies",
+      "label": "Currencies",
+      "type": "string"
+    },
+    {
+      "key": "idd",
+      "label": "Idd",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "altSpellings",
+      "label": "AltSpellings",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "subregion",
+      "label": "Subregion",
+      "type": "string"
+    },
+    {
+      "key": "languages",
+      "label": "Languages",
+      "type": "string"
+    },
+    {
+      "key": "translations",
+      "label": "Translations",
+      "type": "string"
+    },
+    {
+      "key": "latlng",
+      "label": "Latlng",
+      "type": "string"
+    },
+    {
+      "key": "landlocked",
+      "label": "Landlocked",
+      "type": "boolean"
+    },
+    {
+      "key": "borders",
+      "label": "Borders",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "number"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    },
+    {
+      "key": "demonyms",
+      "label": "Demonyms",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "common: United States; official: United States of America; native: [object Object]",
+      "tld": ".us",
+      "cca2": "US",
+      "ccn3": "840",
+      "cca3": "USA",
+      "cioc": "USA",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "unRegionalGroup": "Western European and Others Group",
+      "currencies": "USD: United States dollar, $",
+      "idd": "root: +1; suffixes: 201, 202, 203, 205, 206, 207, 208, 209, 210, 212, 213, 214, 215, 216, 217, 218, 219, 220, 223, 224, 225, 227, 228, 229, 231, 234, 239, 240, 248, 251, 252, 253, 254, 256, 260, 262,…",
+      "capital": "Washington D.C.",
+      "altSpellings": "US, USA, United States of America",
+      "region": "Americas",
+      "subregion": "North America",
+      "languages": "eng: English",
+      "translations": "ara: الولايات المتحدة الامريكية, الولايات المتحدة; bre: Stadoù-Unanet Amerika, Stadoù-Unanet; ces: Spojené státy americké, Spojené státy; deu: Vereinigte Staaten von Amerika, Vereinigte Staaten; est:…",
+      "latlng": "38, -97",
+      "landlocked": false,
+      "borders": "CAN, MEX",
+      "area": 9372610,
+      "flag": "🇺🇸",
+      "demonyms": "eng: American, American; fra: Américaine, Américain"
+    },
+    {
+      "name": "common: United Kingdom; official: United Kingdom of Great Britain and Northern Ireland; native: [object Object]",
+      "tld": ".uk",
+      "cca2": "GB",
+      "ccn3": "826",
+      "cca3": "GBR",
+      "cioc": "GBR",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "unRegionalGroup": "Western European and Others Group",
+      "currencies": "GBP: British pound, £",
+      "idd": "root: +4; suffixes: 4",
+      "capital": "London",
+      "altSpellings": "GB, UK, Great Britain",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "languages": "eng: English",
+      "translations": "ara: المملكة المتحدة لبريطانيا العظمى وايرلندا الشمالية, المملكة المتحدة; bre: Rouantelezh-Unanet Breizh-Veur ha Norzhiwerzhon, Rouantelezh-Unanet; ces: Spojené království Velké Británie a Severního I…",
+      "latlng": "54, -2",
+      "landlocked": false,
+      "borders": "IRL",
+      "area": 242900,
+      "flag": "🇬🇧",
+      "demonyms": "eng: British, British; fra: Britannique, Britannique"
+    },
+    {
+      "name": "common: Canada; official: Canada; native: [object Object], [object Object]",
+      "tld": ".ca",
+      "cca2": "CA",
+      "ccn3": "124",
+      "cca3": "CAN",
+      "cioc": "CAN",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "unRegionalGroup": "Western European and Others Group",
+      "currencies": "CAD: Canadian dollar, $",
+      "idd": "root: +1; suffixes: 204, 226, 236, 249, 250, 263, 289, 306, 343, 354, 365, 367, 368, 382, 387, 403, 416, 418, 428, 431, 437, 438, 450, 468, 474, 506, 514, 519, 548, 579, 581, 584, 587, 600, 604, 613,…",
+      "capital": "Ottawa",
+      "altSpellings": "CA",
+      "region": "Americas",
+      "subregion": "North America",
+      "languages": "eng: English; fra: French",
+      "translations": "ara: كندا, كندا; bre: Kanada, Kanada; ces: Kanada, Kanada; deu: Kanada, Kanada; est: Kanada, Kanada; fin: Kanada, Kanada; fra: Canada, Canada; hrv: Kanada, Kanada; hun: Kanada, Kanada; ita: Canada, Ca…",
+      "latlng": "60, -95",
+      "landlocked": false,
+      "borders": "USA",
+      "area": 9984670,
+      "flag": "🇨🇦",
+      "demonyms": "eng: Canadian, Canadian; fra: Canadienne, Canadien"
+    },
+    {
+      "name": "common: Australia; official: Commonwealth of Australia; native: [object Object]",
+      "tld": ".au",
+      "cca2": "AU",
+      "ccn3": "036",
+      "cca3": "AUS",
+      "cioc": "AUS",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "unRegionalGroup": "Western European and Others Group",
+      "currencies": "AUD: Australian dollar, $",
+      "idd": "root: +6; suffixes: 1",
+      "capital": "Canberra",
+      "altSpellings": "AU",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "languages": "eng: English",
+      "translations": "ara: كومونولث أستراليا, أستراليا; bre: Kenglad Aostralia, Aostralia; ces: Australské společenství, Austrálie; deu: Commonwealth Australien, Australien; est: Austraalia Ühendus, Austraalia; fin: Austra…",
+      "latlng": "-27, 133",
+      "landlocked": false,
+      "borders": "",
+      "area": 7692024,
+      "flag": "🇦🇺",
+      "demonyms": "eng: Australian, Australian; fra: Australienne, Australien"
+    },
+    {
+      "name": "common: New Zealand; official: New Zealand; native: [object Object], [object Object], [object Object]",
+      "tld": ".nz",
+      "cca2": "NZ",
+      "ccn3": "554",
+      "cca3": "NZL",
+      "cioc": "NZL",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "unRegionalGroup": "Western European and Others Group",
+      "currencies": "NZD: New Zealand dollar, $",
+      "idd": "root: +6; suffixes: 4",
+      "capital": "Wellington",
+      "altSpellings": "NZ, Aotearoa",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "languages": "eng: English; mri: Māori; nzs: New Zealand Sign Language",
+      "translations": "ara: نيوزيلندا, نيوزيلندا; bre: Zeland-Nevez, Zeland-Nevez; ces: Nový Zéland, Nový Zéland; deu: Neuseeland, Neuseeland; est: Uus-Meremaa, Uus-Meremaa; fin: Uusi-Seelanti, Uusi-Seelanti; fra: Nouvelle-…",
+      "latlng": "-41, 174",
+      "landlocked": false,
+      "borders": "",
+      "area": 270467,
+      "flag": "🇳🇿",
+      "demonyms": "eng: New Zealander, New Zealander; fra: Neo-Zélandaise, Neo-Zélandais"
+    }
+  ],
+  "meta": {
+    "title": "Big 5 English-Speaking Countries — Extended Profiles - Free Download",
+    "description": "Comprehensive country profile for US/UK/Canada/Australia/New Zealand: names (native + translations), ISO codes, currencies, dialing codes, capital, languages, borders, area, demonyms, TLDs, and lat/lng. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Big 5 English-Speaking Countries — Extended Profiles | ListBase",
+    "seo_description": "Download Big 5 English-Speaking Countries — Extended Profiles dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 24 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/mledoze/countries"
+    ]
+  }
+}

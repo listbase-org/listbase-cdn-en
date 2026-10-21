@@ -1,0 +1,121 @@
+{
+  "id": "st-airports-iata",
+  "name": "Sao Tome and Principe — IATA Airports",
+  "title": "Sao Tome and Principe — IATA Airports",
+  "description": "Airports with IATA codes in Sao Tome and Principe: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "PCP",
+      "icao_code": "FPPR",
+      "name": "Príncipe Airport",
+      "city_name_list": "Príncipe Island",
+      "country_code": "ST",
+      "country_name": "Sao Tome and Principe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Principe",
+      "latitude": 1.66269,
+      "longitude": 7.41105,
+      "elevation": 180,
+      "timezone": "Africa/Sao_Tome",
+      "wiki_link": "https://en.wikipedia.org/wiki/Pr%C3%ADncipe_Airport"
+    },
+    {
+      "iata_code": "TMS",
+      "icao_code": "FPST",
+      "name": "S. Tome",
+      "city_name_list": "São Tomé",
+      "country_code": "ST",
+      "country_name": "Sao Tome and Principe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sao Tome Island",
+      "latitude": 0.37817,
+      "longitude": 6.71215,
+      "elevation": 10,
+      "timezone": "Africa/Sao_Tome",
+      "wiki_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Sao Tome and Principe — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Sao Tome and Principe: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sao Tome and Principe — IATA Airports | ListBase",
+    "seo_description": "Download Sao Tome and Principe — IATA Airports dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

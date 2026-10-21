@@ -1,0 +1,442 @@
+{
+  "id": "kjv-bible-books",
+  "name": "Books of the King James Bible",
+  "title": "Books of the King James Bible",
+  "description": "The 66 books of the King James Version Bible, with chapter and verse counts computed from the KJV text.",
+  "category": "culture",
+  "source": "https://github.com/aruljohn/bible-kjv",
+  "source_url": "https://github.com/aruljohn/bible-kjv",
+  "updated": "2026-04",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "book",
+      "label": "Book",
+      "type": "string"
+    },
+    {
+      "key": "file",
+      "label": "File",
+      "type": "string"
+    },
+    {
+      "key": "chapter_count",
+      "label": "Chapter Count",
+      "type": "number"
+    },
+    {
+      "key": "verse_count",
+      "label": "Verse Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "book": "Genesis",
+      "file": "Genesis.json",
+      "chapter_count": 50,
+      "verse_count": 1533
+    },
+    {
+      "book": "Exodus",
+      "file": "Exodus.json",
+      "chapter_count": 40,
+      "verse_count": 1213
+    },
+    {
+      "book": "Leviticus",
+      "file": "Leviticus.json",
+      "chapter_count": 27,
+      "verse_count": 859
+    },
+    {
+      "book": "Numbers",
+      "file": "Numbers.json",
+      "chapter_count": 36,
+      "verse_count": 1288
+    },
+    {
+      "book": "Deuteronomy",
+      "file": "Deuteronomy.json",
+      "chapter_count": 34,
+      "verse_count": 959
+    },
+    {
+      "book": "Joshua",
+      "file": "Joshua.json",
+      "chapter_count": 24,
+      "verse_count": 658
+    },
+    {
+      "book": "Judges",
+      "file": "Judges.json",
+      "chapter_count": 21,
+      "verse_count": 618
+    },
+    {
+      "book": "Ruth",
+      "file": "Ruth.json",
+      "chapter_count": 4,
+      "verse_count": 85
+    },
+    {
+      "book": "1 Samuel",
+      "file": "1Samuel.json",
+      "chapter_count": 31,
+      "verse_count": 810
+    },
+    {
+      "book": "2 Samuel",
+      "file": "2Samuel.json",
+      "chapter_count": 24,
+      "verse_count": 695
+    },
+    {
+      "book": "1 Kings",
+      "file": "1Kings.json",
+      "chapter_count": 22,
+      "verse_count": 816
+    },
+    {
+      "book": "2 Kings",
+      "file": "2Kings.json",
+      "chapter_count": 25,
+      "verse_count": 719
+    },
+    {
+      "book": "1 Chronicles",
+      "file": "1Chronicles.json",
+      "chapter_count": 29,
+      "verse_count": 942
+    },
+    {
+      "book": "2 Chronicles",
+      "file": "2Chronicles.json",
+      "chapter_count": 36,
+      "verse_count": 822
+    },
+    {
+      "book": "Ezra",
+      "file": "Ezra.json",
+      "chapter_count": 10,
+      "verse_count": 280
+    },
+    {
+      "book": "Nehemiah",
+      "file": "Nehemiah.json",
+      "chapter_count": 13,
+      "verse_count": 406
+    },
+    {
+      "book": "Esther",
+      "file": "Esther.json",
+      "chapter_count": 10,
+      "verse_count": 167
+    },
+    {
+      "book": "Job",
+      "file": "Job.json",
+      "chapter_count": 42,
+      "verse_count": 1070
+    },
+    {
+      "book": "Psalms",
+      "file": "Psalms.json",
+      "chapter_count": 150,
+      "verse_count": 2461
+    },
+    {
+      "book": "Proverbs",
+      "file": "Proverbs.json",
+      "chapter_count": 31,
+      "verse_count": 915
+    },
+    {
+      "book": "Ecclesiastes",
+      "file": "Ecclesiastes.json",
+      "chapter_count": 12,
+      "verse_count": 222
+    },
+    {
+      "book": "Song of Solomon",
+      "file": "SongofSolomon.json",
+      "chapter_count": 8,
+      "verse_count": 117
+    },
+    {
+      "book": "Isaiah",
+      "file": "Isaiah.json",
+      "chapter_count": 66,
+      "verse_count": 1292
+    },
+    {
+      "book": "Jeremiah",
+      "file": "Jeremiah.json",
+      "chapter_count": 52,
+      "verse_count": 1364
+    },
+    {
+      "book": "Lamentations",
+      "file": "Lamentations.json",
+      "chapter_count": 5,
+      "verse_count": 154
+    },
+    {
+      "book": "Ezekiel",
+      "file": "Ezekiel.json",
+      "chapter_count": 48,
+      "verse_count": 1273
+    },
+    {
+      "book": "Daniel",
+      "file": "Daniel.json",
+      "chapter_count": 12,
+      "verse_count": 357
+    },
+    {
+      "book": "Hosea",
+      "file": "Hosea.json",
+      "chapter_count": 14,
+      "verse_count": 197
+    },
+    {
+      "book": "Joel",
+      "file": "Joel.json",
+      "chapter_count": 3,
+      "verse_count": 73
+    },
+    {
+      "book": "Amos",
+      "file": "Amos.json",
+      "chapter_count": 9,
+      "verse_count": 146
+    },
+    {
+      "book": "Obadiah",
+      "file": "Obadiah.json",
+      "chapter_count": 1,
+      "verse_count": 21
+    },
+    {
+      "book": "Jonah",
+      "file": "Jonah.json",
+      "chapter_count": 4,
+      "verse_count": 48
+    },
+    {
+      "book": "Micah",
+      "file": "Micah.json",
+      "chapter_count": 7,
+      "verse_count": 105
+    },
+    {
+      "book": "Nahum",
+      "file": "Nahum.json",
+      "chapter_count": 3,
+      "verse_count": 47
+    },
+    {
+      "book": "Habakkuk",
+      "file": "Habakkuk.json",
+      "chapter_count": 3,
+      "verse_count": 56
+    },
+    {
+      "book": "Zephaniah",
+      "file": "Zephaniah.json",
+      "chapter_count": 3,
+      "verse_count": 53
+    },
+    {
+      "book": "Haggai",
+      "file": "Haggai.json",
+      "chapter_count": 2,
+      "verse_count": 38
+    },
+    {
+      "book": "Zechariah",
+      "file": "Zechariah.json",
+      "chapter_count": 14,
+      "verse_count": 211
+    },
+    {
+      "book": "Malachi",
+      "file": "Malachi.json",
+      "chapter_count": 4,
+      "verse_count": 55
+    },
+    {
+      "book": "Matthew",
+      "file": "Matthew.json",
+      "chapter_count": 28,
+      "verse_count": 1071
+    },
+    {
+      "book": "Mark",
+      "file": "Mark.json",
+      "chapter_count": 16,
+      "verse_count": 678
+    },
+    {
+      "book": "Luke",
+      "file": "Luke.json",
+      "chapter_count": 24,
+      "verse_count": 1151
+    },
+    {
+      "book": "John",
+      "file": "John.json",
+      "chapter_count": 21,
+      "verse_count": 879
+    },
+    {
+      "book": "Acts",
+      "file": "Acts.json",
+      "chapter_count": 28,
+      "verse_count": 1007
+    },
+    {
+      "book": "Romans",
+      "file": "Romans.json",
+      "chapter_count": 16,
+      "verse_count": 433
+    },
+    {
+      "book": "1 Corinthians",
+      "file": "1Corinthians.json",
+      "chapter_count": 16,
+      "verse_count": 437
+    },
+    {
+      "book": "2 Corinthians",
+      "file": "2Corinthians.json",
+      "chapter_count": 13,
+      "verse_count": 257
+    },
+    {
+      "book": "Galatians",
+      "file": "Galatians.json",
+      "chapter_count": 6,
+      "verse_count": 149
+    },
+    {
+      "book": "Ephesians",
+      "file": "Ephesians.json",
+      "chapter_count": 6,
+      "verse_count": 155
+    },
+    {
+      "book": "Philippians",
+      "file": "Philippians.json",
+      "chapter_count": 4,
+      "verse_count": 104
+    },
+    {
+      "book": "Colossians",
+      "file": "Colossians.json",
+      "chapter_count": 4,
+      "verse_count": 95
+    },
+    {
+      "book": "1 Thessalonians",
+      "file": "1Thessalonians.json",
+      "chapter_count": 5,
+      "verse_count": 89
+    },
+    {
+      "book": "2 Thessalonians",
+      "file": "2Thessalonians.json",
+      "chapter_count": 3,
+      "verse_count": 47
+    },
+    {
+      "book": "1 Timothy",
+      "file": "1Timothy.json",
+      "chapter_count": 6,
+      "verse_count": 113
+    },
+    {
+      "book": "2 Timothy",
+      "file": "2Timothy.json",
+      "chapter_count": 4,
+      "verse_count": 83
+    },
+    {
+      "book": "Titus",
+      "file": "Titus.json",
+      "chapter_count": 3,
+      "verse_count": 46
+    },
+    {
+      "book": "Philemon",
+      "file": "Philemon.json",
+      "chapter_count": 1,
+      "verse_count": 25
+    },
+    {
+      "book": "Hebrews",
+      "file": "Hebrews.json",
+      "chapter_count": 13,
+      "verse_count": 303
+    },
+    {
+      "book": "James",
+      "file": "James.json",
+      "chapter_count": 5,
+      "verse_count": 108
+    },
+    {
+      "book": "1 Peter",
+      "file": "1Peter.json",
+      "chapter_count": 5,
+      "verse_count": 105
+    },
+    {
+      "book": "2 Peter",
+      "file": "2Peter.json",
+      "chapter_count": 3,
+      "verse_count": 61
+    },
+    {
+      "book": "1 John",
+      "file": "1John.json",
+      "chapter_count": 5,
+      "verse_count": 105
+    },
+    {
+      "book": "2 John",
+      "file": "2John.json",
+      "chapter_count": 1,
+      "verse_count": 13
+    },
+    {
+      "book": "3 John",
+      "file": "3John.json",
+      "chapter_count": 1,
+      "verse_count": 14
+    },
+    {
+      "book": "Jude",
+      "file": "Jude.json",
+      "chapter_count": 1,
+      "verse_count": 25
+    },
+    {
+      "book": "Revelation",
+      "file": "Revelation.json",
+      "chapter_count": 22,
+      "verse_count": 404
+    }
+  ],
+  "meta": {
+    "title": "Books of the King James Bible - Free Download",
+    "description": "The 66 books of the King James Version Bible, with chapter and verse counts computed from the KJV text. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Books of the King James Bible | ListBase",
+    "seo_description": "Download Books of the King James Bible — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/aruljohn/bible-kjv"
+    ]
+  }
+}

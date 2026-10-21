@@ -1,0 +1,256 @@
+{
+  "id": "sz-embassies-abroad",
+  "name": "Eswatini — Embassies and Consulates Abroad",
+  "title": "Eswatini — Embassies and Consulates Abroad",
+  "description": "Diplomatic missions operated by Eswatini in foreign countries. Sourced from Wikidata via the database-of-embassies project; each record includes the host country, mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Eswatini",
+      "operator_cc": "sz",
+      "host_country": "Belgium",
+      "host_cc": "be",
+      "city": "Uccle - Ukkel",
+      "address": "",
+      "type": "embassy",
+      "latitude": 50.8115,
+      "longitude": 4.36047,
+      "jurisdictions": "European Union, Belgium, Luxembourg, Poland, France, Estonia, Czech Republic, Vatican City, Serbia",
+      "phone": "",
+      "email": "",
+      "website": "https://eswatini-embassy.eu",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q16010354"
+    },
+    {
+      "operator": "Eswatini",
+      "operator_cc": "sz",
+      "host_country": "Malaysia",
+      "host_cc": "my",
+      "city": "Kuala Lumpur",
+      "address": "",
+      "type": "high commission",
+      "latitude": 3.1599,
+      "longitude": 101.7174,
+      "jurisdictions": "Japan, Indonesia, Australia, New Zealand, Malaysia",
+      "phone": "",
+      "email": "",
+      "website": "https://www.swazilandkualalumpur.org/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106462905"
+    },
+    {
+      "operator": "Eswatini",
+      "operator_cc": "sz",
+      "host_country": "South Africa",
+      "host_cc": "za",
+      "city": "Pretoria",
+      "address": "",
+      "type": "high commission",
+      "latitude": -25.74125,
+      "longitude": 28.21523,
+      "jurisdictions": "South Africa, Zambia, Zimbabwe, Botswana, Lesotho, Namibia",
+      "phone": "",
+      "email": "",
+      "website": "http://swazihighcom.co.za/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106673648"
+    },
+    {
+      "operator": "Eswatini",
+      "operator_cc": "sz",
+      "host_country": "Switzerland",
+      "host_cc": "ch",
+      "city": "Pregny-Chambésy",
+      "address": "",
+      "type": "embassy",
+      "latitude": 46.2427,
+      "longitude": 6.1478,
+      "jurisdictions": "Switzerland, Austria, Russia",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q100983286"
+    },
+    {
+      "operator": "Eswatini",
+      "operator_cc": "sz",
+      "host_country": "Taiwan",
+      "host_cc": "tw",
+      "city": "Taipei",
+      "address": "",
+      "type": "embassy",
+      "latitude": 25.117222222,
+      "longitude": 121.524111111,
+      "jurisdictions": "Taiwan",
+      "phone": "",
+      "email": "",
+      "website": "http://www.swaziland.org.tw/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q25349301"
+    },
+    {
+      "operator": "Eswatini",
+      "operator_cc": "sz",
+      "host_country": "United Kingdom",
+      "host_cc": "gb",
+      "city": "City of Westminster",
+      "address": "",
+      "type": "high commission",
+      "latitude": 51.49950449,
+      "longitude": -0.140078318,
+      "jurisdictions": "Spain, Finland, Sweden, Denmark, Italy, Portugal, United Kingdom, Iceland, Romania, Cyprus, Malta",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q16843065"
+    },
+    {
+      "operator": "Eswatini",
+      "operator_cc": "sz",
+      "host_country": "United States of America",
+      "host_cc": "us",
+      "city": "Washington, D.C.",
+      "address": "",
+      "type": "embassy",
+      "latitude": 38.9131,
+      "longitude": -77.0406,
+      "jurisdictions": "Canada, United States of America, Chile",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q5369871"
+    }
+  ],
+  "meta": {
+    "title": "Eswatini — Embassies and Consulates Abroad - Free Download",
+    "description": "Diplomatic missions operated by Eswatini in foreign countries. Sourced from Wikidata via the database-of-embassies project; each record includes the host country, mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Eswatini — Embassies and Consulates Abroad | ListBase",
+    "seo_description": "Download Eswatini — Embassies and Consulates Abroad — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

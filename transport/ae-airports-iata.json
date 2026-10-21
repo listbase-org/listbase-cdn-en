@@ -1,0 +1,241 @@
+{
+  "id": "ae-airports-iata",
+  "name": "United Arab Emirates — IATA Airports",
+  "title": "United Arab Emirates — IATA Airports",
+  "description": "Airports with IATA codes in United Arab Emirates: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "AAN",
+      "icao_code": "OMAL",
+      "name": "Al Ain International Airport",
+      "city_name_list": "Al Ain City",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Abu Dhabi",
+      "latitude": 24.26167,
+      "longitude": 55.60917,
+      "elevation": 264,
+      "timezone": "Asia/Dubai",
+      "wiki_link": "https://en.wikipedia.org/wiki/Al_Ain_International_Airport"
+    },
+    {
+      "iata_code": "AUH",
+      "icao_code": "OMAA",
+      "name": "Abu Dhabi International Airport",
+      "city_name_list": "Abu Dhabi",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Abu Dhabi",
+      "latitude": 24.432972,
+      "longitude": 54.651138,
+      "elevation": 26,
+      "timezone": "Asia/Dubai",
+      "wiki_link": "https://en.wikipedia.org/wiki/Abu_Dhabi_International_Airport"
+    },
+    {
+      "iata_code": "AZI",
+      "icao_code": "OMAD",
+      "name": "Abu Dhabi Bateen Airport",
+      "city_name_list": "Abu Dhabi",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Abu Dhabi",
+      "latitude": 24.428333,
+      "longitude": 54.458084,
+      "elevation": 4,
+      "timezone": "Asia/Dubai",
+      "wiki_link": "https://en.wikipedia.org/wiki/Al_Bateen_Executive_Airport"
+    },
+    {
+      "iata_code": "DWC",
+      "icao_code": "OMDW",
+      "name": "Dubai World Central - Al Maktoum International Airport",
+      "city_name_list": "Dubai",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Dubai",
+      "latitude": 24.8978,
+      "longitude": 55.15905,
+      "elevation": "",
+      "timezone": "Asia/Dubai",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dubai_World_Central_-_Al_Maktoum_International_Airport"
+    },
+    {
+      "iata_code": "DXB",
+      "icao_code": "OMDB",
+      "name": "Dubai International Airport",
+      "city_name_list": "Dubai",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Dubai",
+      "latitude": 25.252778,
+      "longitude": 55.364444,
+      "elevation": 18,
+      "timezone": "Asia/Dubai",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dubai_International_Airport"
+    },
+    {
+      "iata_code": "FJR",
+      "icao_code": "OMFJ",
+      "name": "Fujairah International Airport",
+      "city_name_list": "Fujairah",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Fujairah",
+      "latitude": 25.11222,
+      "longitude": 56.32396,
+      "elevation": 46,
+      "timezone": "Asia/Dubai",
+      "wiki_link": "https://en.wikipedia.org/wiki/Fujairah_International_Airport"
+    },
+    {
+      "iata_code": "RKT",
+      "icao_code": "OMRK",
+      "name": "Ras Al Khaimah International Airport",
+      "city_name_list": "Ras Al Khaimah",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Ras Al Khaimah",
+      "latitude": 25.61348,
+      "longitude": 55.93882,
+      "elevation": 31,
+      "timezone": "Asia/Dubai",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ras_Al_Khaimah_International_Airport"
+    },
+    {
+      "iata_code": "SHJ",
+      "icao_code": "OMSJ",
+      "name": "Sharjah International Airport",
+      "city_name_list": "Sharjah",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Sharjah",
+      "latitude": 25.328575,
+      "longitude": 55.51715,
+      "elevation": 33,
+      "timezone": "Asia/Dubai",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sharjah_International_Airport"
+    },
+    {
+      "iata_code": "XSB",
+      "icao_code": "OMBY",
+      "name": "Sir Bani Yas Island Airport",
+      "city_name_list": "Sir Bani Yas Island",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Abu Dhabi",
+      "latitude": 24.28257,
+      "longitude": 52.58267,
+      "elevation": "",
+      "timezone": "Asia/Dubai",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sir_Bani_Yas_Airport"
+    },
+    {
+      "iata_code": "ZDY",
+      "icao_code": "OMDL",
+      "name": "Dalma Airport",
+      "city_name_list": "Dalmā Island",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Abu Dhabi",
+      "latitude": 24.50308,
+      "longitude": 52.33595,
+      "elevation": "",
+      "timezone": "Asia/Dubai",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dalma_Airport"
+    }
+  ],
+  "meta": {
+    "title": "United Arab Emirates — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in United Arab Emirates: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "United Arab Emirates — IATA Airports | ListBase",
+    "seo_description": "Download United Arab Emirates — IATA Airports dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

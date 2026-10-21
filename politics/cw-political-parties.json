@@ -1,0 +1,271 @@
+{
+  "id": "cw-political-parties",
+  "name": "Curaçao — Political Parties",
+  "title": "Curaçao — Political Parties",
+  "description": "Political parties of Curaçao from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3803,
+      "name_short": "PS",
+      "name": "Pueblo Soberano",
+      "name_english": "Sovereign People",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": 2012,
+      "share": 22.7,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sovereign_People",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3804,
+      "name_short": "MFK",
+      "name": "Movementu Futuro Kòrsou",
+      "name_english": "Movement for the Future of Curaçao",
+      "name_other": "",
+      "year_first": 2010,
+      "year_last": 2012,
+      "share": 21.2,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Movement_for_the_Future_of_Cura%C3%A7ao",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3809,
+      "name_short": "PAR",
+      "name": "Partido Antiá Restrukturá",
+      "name_english": "Party for the Restructured Antilles",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 2012,
+      "share": 19.8,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_for_the_Restructured_Antilles",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3807,
+      "name_short": "PAIS",
+      "name": "Partido pa Adelanto I Inovashon Soshal",
+      "name_english": "PAIS",
+      "name_other": "",
+      "year_first": 2010,
+      "year_last": 2012,
+      "share": 17.6,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Partido_pa_Adelanto_I_Inovashon_Soshal",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6927,
+      "name_short": "PLKP",
+      "name": "Partido Laboral Krusada Popular, Laboral",
+      "name_english": "Labour Party People's Crusade",
+      "name_other": "",
+      "year_first": 1997,
+      "year_last": "",
+      "share": 13.1,
+      "share_year": 2003,
+      "wikipedia": "https://en.wikipedia.org/wiki/Labour_Party_People%27s_Crusade",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3806,
+      "name_short": "MAN",
+      "name": "Partido Movishon Antia Nobo",
+      "name_english": "New Antilles Movement",
+      "name_other": "Partido MAN",
+      "year_first": 1971,
+      "year_last": 2012,
+      "share": 9.5,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Partido_MAN",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6924,
+      "name_short": "LNPA",
+      "name": "Lista Niun Paso Atras",
+      "name_english": "List No Step Go",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": 2007,
+      "share": 8.5,
+      "share_year": 2007,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6925,
+      "name_short": "FK",
+      "name": "Forsa Kòrsou",
+      "name_english": "Upwards Curaçao",
+      "name_other": "",
+      "year_first": 2006,
+      "year_last": 2007,
+      "share": 6.6,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Forsa_Kòrsou",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3805,
+      "name_short": "PNP",
+      "name": "Partido Nashonal di Pueblo",
+      "name_english": "National People’s Party",
+      "name_other": "Nationale Volkspartij",
+      "year_first": 1948,
+      "year_last": 2012,
+      "share": 5.9,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_People%27s_Party_(Cura%C3%A7ao)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6928,
+      "name_short": "ORDU",
+      "name": "Organisahon pa Restourashon Di Un i tur",
+      "name_english": "Organisahon pa Restourashon Di Un i tur",
+      "name_other": "",
+      "year_first": 1999,
+      "year_last": 1999,
+      "share": 5.3,
+      "share_year": 1999,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6926,
+      "name_short": "PD",
+      "name": "Partido Democraat",
+      "name_english": "Democratic Party",
+      "name_other": "",
+      "year_first": 1944,
+      "year_last": "",
+      "share": 5.1,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_(Curaçao)",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3811,
+      "name_short": "FOL",
+      "name": "Partido Frente Obrero Liberashon 30 Di Mei",
+      "name_english": "Party Workers’ Liberation Front 30th of May",
+      "name_other": "",
+      "year_first": 1969,
+      "year_last": 2012,
+      "share": 2.1,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_Workers%27_Liberation_Front_30_May",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Curaçao — Political Parties - Free Download",
+    "description": "Political parties of Curaçao from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Curaçao — Political Parties | ListBase",
+    "seo_description": "Download Curaçao — Political Parties dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

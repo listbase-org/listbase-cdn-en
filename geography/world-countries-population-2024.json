@@ -1,0 +1,1366 @@
+{
+  "id": "world-countries-population-2024",
+  "name": "World Population by Country (2024)",
+  "title": "World Population by Country (2024)",
+  "description": "265 countries and regions with mid-year population totals for 2024, sourced from World Bank via datasets/population.",
+  "category": "geography",
+  "source": "https://github.com/datasets/population",
+  "source_url": "https://github.com/datasets/population",
+  "updated": "2026-04",
+  "record_count": 265,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country": "World",
+      "country_code": "WLD",
+      "population": 8141808945
+    },
+    {
+      "country": "IDA & IBRD total",
+      "country_code": "IBT",
+      "population": 6926222113
+    },
+    {
+      "country": "Low & middle income",
+      "country_code": "LMY",
+      "population": 6563501708
+    },
+    {
+      "country": "Middle income",
+      "country_code": "MIC",
+      "population": 5938893610
+    },
+    {
+      "country": "IBRD only",
+      "country_code": "IBD",
+      "population": 4979421568
+    },
+    {
+      "country": "Early-demographic dividend",
+      "country_code": "EAR",
+      "population": 3552278604
+    },
+    {
+      "country": "Lower middle income",
+      "country_code": "LMC",
+      "population": 3120980912
+    },
+    {
+      "country": "Upper middle income",
+      "country_code": "UMC",
+      "population": 2817912698
+    },
+    {
+      "country": "East Asia & Pacific",
+      "country_code": "EAS",
+      "population": 2388319494
+    },
+    {
+      "country": "Late-demographic dividend",
+      "country_code": "LTE",
+      "population": 2328628339
+    },
+    {
+      "country": "East Asia & Pacific (excluding high income)",
+      "country_code": "EAP",
+      "population": 2141122258
+    },
+    {
+      "country": "East Asia & Pacific (IDA & IBRD countries)",
+      "country_code": "TEA",
+      "population": 2114653077
+    },
+    {
+      "country": "IDA total",
+      "country_code": "IDA",
+      "population": 1946800545
+    },
+    {
+      "country": "South Asia",
+      "country_code": "SAS",
+      "population": 1677384532
+    },
+    {
+      "country": "South Asia (IDA & IBRD)",
+      "country_code": "TSA",
+      "population": 1677384532
+    },
+    {
+      "country": "India",
+      "country_code": "IND",
+      "population": 1450935791
+    },
+    {
+      "country": "High income",
+      "country_code": "HIC",
+      "population": 1417841927
+    },
+    {
+      "country": "China",
+      "country_code": "CHN",
+      "population": 1408975000
+    },
+    {
+      "country": "OECD members",
+      "country_code": "OED",
+      "population": 1396877448
+    },
+    {
+      "country": "Sub-Saharan Africa",
+      "country_code": "SSF",
+      "population": 1291044964
+    },
+    {
+      "country": "Sub-Saharan Africa (IDA & IBRD countries)",
+      "country_code": "TSS",
+      "population": 1291044964
+    },
+    {
+      "country": "IDA only",
+      "country_code": "IDX",
+      "population": 1269842894
+    },
+    {
+      "country": "Least developed countries: UN classification",
+      "country_code": "LDC",
+      "population": 1187777591
+    },
+    {
+      "country": "Sub-Saharan Africa (excluding high income)",
+      "country_code": "SSA",
+      "population": 1158863843
+    },
+    {
+      "country": "Post-demographic dividend",
+      "country_code": "PST",
+      "population": 1128377826
+    },
+    {
+      "country": "Pre-demographic dividend",
+      "country_code": "PRE",
+      "population": 1105951788
+    },
+    {
+      "country": "Fragile and conflict affected situations",
+      "country_code": "FCS",
+      "population": 1081767572
+    },
+    {
+      "country": "Heavily indebted poor countries (HIPC)",
+      "country_code": "HPC",
+      "population": 941413026
+    },
+    {
+      "country": "Europe & Central Asia",
+      "country_code": "ECS",
+      "population": 928263208
+    },
+    {
+      "country": "Middle East, North Africa, Afghanistan & Pakistan",
+      "country_code": "MEA",
+      "population": 813146136
+    },
+    {
+      "country": "Africa Eastern and Southern",
+      "country_code": "AFE",
+      "population": 769280888
+    },
+    {
+      "country": "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",
+      "country_code": "MNA",
+      "population": 741690916
+    },
+    {
+      "country": "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",
+      "country_code": "TMN",
+      "population": 736401764
+    },
+    {
+      "country": "IDA blend",
+      "country_code": "IDB",
+      "population": 676957651
+    },
+    {
+      "country": "Latin America & Caribbean",
+      "country_code": "LCN",
+      "population": 662186388
+    },
+    {
+      "country": "Latin America & the Caribbean (IDA & IBRD countries)",
+      "country_code": "TLA",
+      "population": 647003746
+    },
+    {
+      "country": "Low income",
+      "country_code": "LIC",
+      "population": 624608098
+    },
+    {
+      "country": "Latin America & Caribbean (excluding high income)",
+      "country_code": "LAC",
+      "population": 594158638
+    },
+    {
+      "country": "Africa Western and Central",
+      "country_code": "AFW",
+      "population": 521764076
+    },
+    {
+      "country": "Arab World",
+      "country_code": "ARB",
+      "population": 492612632
+    },
+    {
+      "country": "Europe & Central Asia (IDA & IBRD countries)",
+      "country_code": "TEC",
+      "population": 459734030
+    },
+    {
+      "country": "European Union",
+      "country_code": "EUU",
+      "population": 450228188
+    },
+    {
+      "country": "North America",
+      "country_code": "NAC",
+      "population": 381464223
+    },
+    {
+      "country": "Euro area",
+      "country_code": "EMU",
+      "population": 351161936
+    },
+    {
+      "country": "United States",
+      "country_code": "USA",
+      "population": 340110988
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "IDN",
+      "population": 283487931
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "PAK",
+      "population": 251269164
+    },
+    {
+      "country": "Europe & Central Asia (excluding high income)",
+      "country_code": "ECA",
+      "population": 250281521
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "NGA",
+      "population": 232679478
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BRA",
+      "population": 211998573
+    },
+    {
+      "country": "Bangladesh",
+      "country_code": "BGD",
+      "population": 173562364
+    },
+    {
+      "country": "Russian Federation",
+      "country_code": "RUS",
+      "population": 143533851
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "population": 132059767
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MEX",
+      "population": 130861007
+    },
+    {
+      "country": "Japan",
+      "country_code": "JPN",
+      "population": 123975371
+    },
+    {
+      "country": "Egypt, Arab Rep.",
+      "country_code": "EGY",
+      "population": 116538258
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PHL",
+      "population": 115843670
+    },
+    {
+      "country": "Congo, Dem. Rep.",
+      "country_code": "COD",
+      "population": 109276265
+    },
+    {
+      "country": "Viet Nam",
+      "country_code": "VNM",
+      "population": 100987686
+    },
+    {
+      "country": "Central Europe and the Baltics",
+      "country_code": "CEB",
+      "population": 100061963
+    },
+    {
+      "country": "Iran, Islamic Rep.",
+      "country_code": "IRN",
+      "population": 91567738
+    },
+    {
+      "country": "Turkiye",
+      "country_code": "TUR",
+      "population": 85518661
+    },
+    {
+      "country": "Germany",
+      "country_code": "DEU",
+      "population": 83516593
+    },
+    {
+      "country": "Thailand",
+      "country_code": "THA",
+      "population": 71668011
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GBR",
+      "population": 69226000
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "population": 68560157
+    },
+    {
+      "country": "France",
+      "country_code": "FRA",
+      "population": 68551653
+    },
+    {
+      "country": "South Africa",
+      "country_code": "ZAF",
+      "population": 64007187
+    },
+    {
+      "country": "Italy",
+      "country_code": "ITA",
+      "population": 58952704
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "population": 56432944
+    },
+    {
+      "country": "Myanmar",
+      "country_code": "MMR",
+      "population": 54500091
+    },
+    {
+      "country": "Colombia",
+      "country_code": "COL",
+      "population": 52886363
+    },
+    {
+      "country": "Korea, Rep.",
+      "country_code": "KOR",
+      "population": 51751065
+    },
+    {
+      "country": "Sudan",
+      "country_code": "SDN",
+      "population": 50448963
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "population": 50015092
+    },
+    {
+      "country": "Spain",
+      "country_code": "ESP",
+      "population": 48848840
+    },
+    {
+      "country": "Algeria",
+      "country_code": "DZA",
+      "population": 46814308
+    },
+    {
+      "country": "Iraq",
+      "country_code": "IRQ",
+      "population": 46042015
+    },
+    {
+      "country": "Argentina",
+      "country_code": "ARG",
+      "population": 45696159
+    },
+    {
+      "country": "Afghanistan",
+      "country_code": "AFG",
+      "population": 42647492
+    },
+    {
+      "country": "Canada",
+      "country_code": "CAN",
+      "population": 41288599
+    },
+    {
+      "country": "Yemen, Rep.",
+      "country_code": "YEM",
+      "population": 40583164
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MAR",
+      "population": 38081173
+    },
+    {
+      "country": "Angola",
+      "country_code": "AGO",
+      "population": 37885849
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UKR",
+      "population": 37860221
+    },
+    {
+      "country": "Poland",
+      "country_code": "POL",
+      "population": 36559233
+    },
+    {
+      "country": "Uzbekistan",
+      "country_code": "UZB",
+      "population": 36361859
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MYS",
+      "population": 35557673
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SAU",
+      "population": 35300280
+    },
+    {
+      "country": "Mozambique",
+      "country_code": "MOZ",
+      "population": 34631766
+    },
+    {
+      "country": "Ghana",
+      "country_code": "GHA",
+      "population": 34427414
+    },
+    {
+      "country": "Peru",
+      "country_code": "PER",
+      "population": 34217848
+    },
+    {
+      "country": "Madagascar",
+      "country_code": "MDG",
+      "population": 31964956
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "country_code": "CIV",
+      "population": 31934230
+    },
+    {
+      "country": "Nepal",
+      "country_code": "NPL",
+      "population": 29651054
+    },
+    {
+      "country": "Cameroon",
+      "country_code": "CMR",
+      "population": 29123744
+    },
+    {
+      "country": "Venezuela, RB",
+      "country_code": "VEN",
+      "population": 28405543
+    },
+    {
+      "country": "Australia",
+      "country_code": "AUS",
+      "population": 27196812
+    },
+    {
+      "country": "Niger",
+      "country_code": "NER",
+      "population": 27032412
+    },
+    {
+      "country": "Korea, Dem. People's Rep.",
+      "country_code": "PRK",
+      "population": 26498823
+    },
+    {
+      "country": "Syrian Arab Republic",
+      "country_code": "SYR",
+      "population": 24672760
+    },
+    {
+      "country": "Mali",
+      "country_code": "MLI",
+      "population": 24478595
+    },
+    {
+      "country": "Burkina Faso",
+      "country_code": "BFA",
+      "population": 23548781
+    },
+    {
+      "country": "Sri Lanka",
+      "country_code": "LKA",
+      "population": 21916000
+    },
+    {
+      "country": "Malawi",
+      "country_code": "MWI",
+      "population": 21655286
+    },
+    {
+      "country": "Zambia",
+      "country_code": "ZMB",
+      "population": 21314956
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "KAZ",
+      "population": 20592571
+    },
+    {
+      "country": "Chad",
+      "country_code": "TCD",
+      "population": 20299123
+    },
+    {
+      "country": "Small states",
+      "country_code": "SST",
+      "population": 20193405
+    },
+    {
+      "country": "Chile",
+      "country_code": "CHL",
+      "population": 19764771
+    },
+    {
+      "country": "Romania",
+      "country_code": "ROU",
+      "population": 19051804
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "population": 19009151
+    },
+    {
+      "country": "Senegal",
+      "country_code": "SEN",
+      "population": 18501984
+    },
+    {
+      "country": "Guatemala",
+      "country_code": "GTM",
+      "population": 18406359
+    },
+    {
+      "country": "Ecuador",
+      "country_code": "ECU",
+      "population": 18135478
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NLD",
+      "population": 17993485
+    },
+    {
+      "country": "Cambodia",
+      "country_code": "KHM",
+      "population": 17638801
+    },
+    {
+      "country": "Zimbabwe",
+      "country_code": "ZWE",
+      "population": 16634373
+    },
+    {
+      "country": "Guinea",
+      "country_code": "GIN",
+      "population": 14754785
+    },
+    {
+      "country": "Benin",
+      "country_code": "BEN",
+      "population": 14462724
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "population": 14256567
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "population": 14047786
+    },
+    {
+      "country": "Other small states",
+      "country_code": "OSS",
+      "population": 12931878
+    },
+    {
+      "country": "Bolivia",
+      "country_code": "BOL",
+      "population": 12413315
+    },
+    {
+      "country": "Tunisia",
+      "country_code": "TUN",
+      "population": 12277109
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "population": 11943408
+    },
+    {
+      "country": "Belgium",
+      "country_code": "BEL",
+      "population": 11858610
+    },
+    {
+      "country": "Haiti",
+      "country_code": "HTI",
+      "population": 11772557
+    },
+    {
+      "country": "Jordan",
+      "country_code": "JOR",
+      "population": 11552876
+    },
+    {
+      "country": "Dominican Republic",
+      "country_code": "DOM",
+      "population": 11427557
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "ARE",
+      "population": 10986400
+    },
+    {
+      "country": "Cuba",
+      "country_code": "CUB",
+      "population": 10979783
+    },
+    {
+      "country": "Czechia",
+      "country_code": "CZE",
+      "population": 10905028
+    },
+    {
+      "country": "Honduras",
+      "country_code": "HND",
+      "population": 10825703
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PRT",
+      "population": 10694681
+    },
+    {
+      "country": "Tajikistan",
+      "country_code": "TJK",
+      "population": 10590927
+    },
+    {
+      "country": "Papua New Guinea",
+      "country_code": "PNG",
+      "population": 10576502
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SWE",
+      "population": 10569709
+    },
+    {
+      "country": "Greece",
+      "country_code": "GRC",
+      "population": 10405134
+    },
+    {
+      "country": "Azerbaijan",
+      "country_code": "AZE",
+      "population": 10202830
+    },
+    {
+      "country": "Israel",
+      "country_code": "ISR",
+      "population": 9974400
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HUN",
+      "population": 9562065
+    },
+    {
+      "country": "Togo",
+      "country_code": "TGO",
+      "population": 9515236
+    },
+    {
+      "country": "Austria",
+      "country_code": "AUT",
+      "population": 9177982
+    },
+    {
+      "country": "Belarus",
+      "country_code": "BLR",
+      "population": 9132629
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CHE",
+      "population": 9005582
+    },
+    {
+      "country": "Sierra Leone",
+      "country_code": "SLE",
+      "population": 8642022
+    },
+    {
+      "country": "Lao PDR",
+      "country_code": "LAO",
+      "population": 7769819
+    },
+    {
+      "country": "Hong Kong SAR, China",
+      "country_code": "HKG",
+      "population": 7524100
+    },
+    {
+      "country": "Turkmenistan",
+      "country_code": "TKM",
+      "population": 7494498
+    },
+    {
+      "country": "Libya",
+      "country_code": "LBY",
+      "population": 7381023
+    },
+    {
+      "country": "Kyrgyz Republic",
+      "country_code": "KGZ",
+      "population": 7221868
+    },
+    {
+      "country": "Paraguay",
+      "country_code": "PRY",
+      "population": 6929153
+    },
+    {
+      "country": "Nicaragua",
+      "country_code": "NIC",
+      "population": 6916140
+    },
+    {
+      "country": "Serbia",
+      "country_code": "SRB",
+      "population": 6586476
+    },
+    {
+      "country": "Bulgaria",
+      "country_code": "BGR",
+      "population": 6441421
+    },
+    {
+      "country": "El Salvador",
+      "country_code": "SLV",
+      "population": 6338193
+    },
+    {
+      "country": "Congo, Rep.",
+      "country_code": "COG",
+      "population": 6332961
+    },
+    {
+      "country": "Singapore",
+      "country_code": "SGP",
+      "population": 6036860
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DNK",
+      "population": 5976992
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "LBN",
+      "population": 5805962
+    },
+    {
+      "country": "Finland",
+      "country_code": "FIN",
+      "population": 5619911
+    },
+    {
+      "country": "Liberia",
+      "country_code": "LBR",
+      "population": 5612817
+    },
+    {
+      "country": "Norway",
+      "country_code": "NOR",
+      "population": 5572279
+    },
+    {
+      "country": "Slovak Republic",
+      "country_code": "SVK",
+      "population": 5422069
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IRL",
+      "population": 5395790
+    },
+    {
+      "country": "Central African Republic",
+      "country_code": "CAF",
+      "population": 5330690
+    },
+    {
+      "country": "West Bank and Gaza",
+      "country_code": "PSE",
+      "population": 5289152
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "NZL",
+      "population": 5287500
+    },
+    {
+      "country": "Oman",
+      "country_code": "OMN",
+      "population": 5281538
+    },
+    {
+      "country": "Mauritania",
+      "country_code": "MRT",
+      "population": 5169395
+    },
+    {
+      "country": "Costa Rica",
+      "country_code": "CRI",
+      "population": 5129910
+    },
+    {
+      "country": "Kuwait",
+      "country_code": "KWT",
+      "population": 4897263
+    },
+    {
+      "country": "Caribbean small states",
+      "country_code": "CSS",
+      "population": 4539060
+    },
+    {
+      "country": "Panama",
+      "country_code": "PAN",
+      "population": 4515577
+    },
+    {
+      "country": "Croatia",
+      "country_code": "HRV",
+      "population": 3866200
+    },
+    {
+      "country": "Georgia",
+      "country_code": "GEO",
+      "population": 3699557
+    },
+    {
+      "country": "Eritrea",
+      "country_code": "ERI",
+      "population": 3535603
+    },
+    {
+      "country": "Mongolia",
+      "country_code": "MNG",
+      "population": 3524788
+    },
+    {
+      "country": "Uruguay",
+      "country_code": "URY",
+      "population": 3386588
+    },
+    {
+      "country": "Puerto Rico (US)",
+      "country_code": "PRI",
+      "population": 3203295
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "population": 3164253
+    },
+    {
+      "country": "Armenia",
+      "country_code": "ARM",
+      "population": 3033500
+    },
+    {
+      "country": "Namibia",
+      "country_code": "NAM",
+      "population": 3030131
+    },
+    {
+      "country": "Lithuania",
+      "country_code": "LTU",
+      "population": 2888278
+    },
+    {
+      "country": "Qatar",
+      "country_code": "QAT",
+      "population": 2857822
+    },
+    {
+      "country": "Jamaica",
+      "country_code": "JAM",
+      "population": 2839175
+    },
+    {
+      "country": "Gambia, The",
+      "country_code": "GMB",
+      "population": 2759988
+    },
+    {
+      "country": "Pacific island small states",
+      "country_code": "PSS",
+      "population": 2722467
+    },
+    {
+      "country": "Gabon",
+      "country_code": "GAB",
+      "population": 2538952
+    },
+    {
+      "country": "Botswana",
+      "country_code": "BWA",
+      "population": 2521139
+    },
+    {
+      "country": "Moldova",
+      "country_code": "MDA",
+      "population": 2402306
+    },
+    {
+      "country": "Albania",
+      "country_code": "ALB",
+      "population": 2377128
+    },
+    {
+      "country": "Lesotho",
+      "country_code": "LSO",
+      "population": 2337423
+    },
+    {
+      "country": "Guinea-Bissau",
+      "country_code": "GNB",
+      "population": 2201352
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "SVN",
+      "population": 2127400
+    },
+    {
+      "country": "Equatorial Guinea",
+      "country_code": "GNQ",
+      "population": 1892516
+    },
+    {
+      "country": "Latvia",
+      "country_code": "LVA",
+      "population": 1866124
+    },
+    {
+      "country": "North Macedonia",
+      "country_code": "MKD",
+      "population": 1824359
+    },
+    {
+      "country": "Kosovo",
+      "country_code": "XKX",
+      "population": 1594353
+    },
+    {
+      "country": "Bahrain",
+      "country_code": "BHR",
+      "population": 1588670
+    },
+    {
+      "country": "Timor-Leste",
+      "country_code": "TLS",
+      "population": 1400638
+    },
+    {
+      "country": "Estonia",
+      "country_code": "EST",
+      "population": 1372341
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "country_code": "TTO",
+      "population": 1368333
+    },
+    {
+      "country": "Cyprus",
+      "country_code": "CYP",
+      "population": 1358282
+    },
+    {
+      "country": "Mauritius",
+      "country_code": "MUS",
+      "population": 1245779
+    },
+    {
+      "country": "Eswatini",
+      "country_code": "SWZ",
+      "population": 1242822
+    },
+    {
+      "country": "Djibouti",
+      "country_code": "DJI",
+      "population": 1168722
+    },
+    {
+      "country": "Fiji",
+      "country_code": "FJI",
+      "population": 928784
+    },
+    {
+      "country": "Comoros",
+      "country_code": "COM",
+      "population": 866628
+    },
+    {
+      "country": "Guyana",
+      "country_code": "GUY",
+      "population": 831087
+    },
+    {
+      "country": "Solomon Islands",
+      "country_code": "SLB",
+      "population": 819198
+    },
+    {
+      "country": "Bhutan",
+      "country_code": "BTN",
+      "population": 791524
+    },
+    {
+      "country": "Macao SAR, China",
+      "country_code": "MAC",
+      "population": 687000
+    },
+    {
+      "country": "Luxembourg",
+      "country_code": "LUX",
+      "population": 677012
+    },
+    {
+      "country": "Suriname",
+      "country_code": "SUR",
+      "population": 634431
+    },
+    {
+      "country": "Montenegro",
+      "country_code": "MNE",
+      "population": 623525
+    },
+    {
+      "country": "Malta",
+      "country_code": "MLT",
+      "population": 568847
+    },
+    {
+      "country": "Maldives",
+      "country_code": "MDV",
+      "population": 527799
+    },
+    {
+      "country": "Cabo Verde",
+      "country_code": "CPV",
+      "population": 524877
+    },
+    {
+      "country": "Brunei Darussalam",
+      "country_code": "BRN",
+      "population": 462721
+    },
+    {
+      "country": "Belize",
+      "country_code": "BLZ",
+      "population": 417072
+    },
+    {
+      "country": "Bahamas, The",
+      "country_code": "BHS",
+      "population": 401283
+    },
+    {
+      "country": "Iceland",
+      "country_code": "ISL",
+      "population": 386506
+    },
+    {
+      "country": "Vanuatu",
+      "country_code": "VUT",
+      "population": 327777
+    },
+    {
+      "country": "New Caledonia",
+      "country_code": "NCL",
+      "population": 292639
+    },
+    {
+      "country": "Barbados",
+      "country_code": "BRB",
+      "population": 282467
+    },
+    {
+      "country": "French Polynesia",
+      "country_code": "PYF",
+      "population": 281807
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "country_code": "STP",
+      "population": 235536
+    },
+    {
+      "country": "Samoa",
+      "country_code": "WSM",
+      "population": 218019
+    },
+    {
+      "country": "St. Lucia",
+      "country_code": "LCA",
+      "population": 179744
+    },
+    {
+      "country": "Channel Islands",
+      "country_code": "CHI",
+      "population": 168126
+    },
+    {
+      "country": "Guam",
+      "country_code": "GUM",
+      "population": 167777
+    },
+    {
+      "country": "Curacao",
+      "country_code": "CUW",
+      "population": 155967
+    },
+    {
+      "country": "Kiribati",
+      "country_code": "KIR",
+      "population": 134518
+    },
+    {
+      "country": "Seychelles",
+      "country_code": "SYC",
+      "population": 121354
+    },
+    {
+      "country": "Grenada",
+      "country_code": "GRD",
+      "population": 117207
+    },
+    {
+      "country": "Micronesia, Fed. Sts.",
+      "country_code": "FSM",
+      "population": 113160
+    },
+    {
+      "country": "Aruba",
+      "country_code": "ABW",
+      "population": 107995
+    },
+    {
+      "country": "Virgin Islands (U.S.)",
+      "country_code": "VIR",
+      "population": 104377
+    },
+    {
+      "country": "Tonga",
+      "country_code": "TON",
+      "population": 104175
+    },
+    {
+      "country": "St. Vincent and the Grenadines",
+      "country_code": "VCT",
+      "population": 100616
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "country_code": "ATG",
+      "population": 93772
+    },
+    {
+      "country": "Isle of Man",
+      "country_code": "IMN",
+      "population": 84160
+    },
+    {
+      "country": "Andorra",
+      "country_code": "AND",
+      "population": 81938
+    },
+    {
+      "country": "Cayman Islands",
+      "country_code": "CYM",
+      "population": 74457
+    },
+    {
+      "country": "Dominica",
+      "country_code": "DMA",
+      "population": 66205
+    },
+    {
+      "country": "Bermuda",
+      "country_code": "BMU",
+      "population": 64636
+    },
+    {
+      "country": "Greenland",
+      "country_code": "GRL",
+      "population": 56836
+    },
+    {
+      "country": "Faroe Islands",
+      "country_code": "FRO",
+      "population": 54681
+    },
+    {
+      "country": "St. Kitts and Nevis",
+      "country_code": "KNA",
+      "population": 46843
+    },
+    {
+      "country": "American Samoa",
+      "country_code": "ASM",
+      "population": 46765
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "country_code": "TCA",
+      "population": 46535
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "country_code": "MNP",
+      "population": 44278
+    },
+    {
+      "country": "Sint Maarten (Dutch part)",
+      "country_code": "SXM",
+      "population": 43350
+    },
+    {
+      "country": "Liechtenstein",
+      "country_code": "LIE",
+      "population": 40450
+    },
+    {
+      "country": "British Virgin Islands",
+      "country_code": "VGB",
+      "population": 39471
+    },
+    {
+      "country": "Gibraltar",
+      "country_code": "GIB",
+      "population": 39329
+    },
+    {
+      "country": "Monaco",
+      "country_code": "MCO",
+      "population": 38631
+    },
+    {
+      "country": "Marshall Islands",
+      "country_code": "MHL",
+      "population": 37548
+    },
+    {
+      "country": "San Marino",
+      "country_code": "SMR",
+      "population": 33977
+    },
+    {
+      "country": "St. Martin (French part)",
+      "country_code": "MAF",
+      "population": 26129
+    },
+    {
+      "country": "Palau",
+      "country_code": "PLW",
+      "population": 17695
+    },
+    {
+      "country": "Nauru",
+      "country_code": "NRU",
+      "population": 11947
+    },
+    {
+      "country": "Tuvalu",
+      "country_code": "TUV",
+      "population": 9646
+    }
+  ],
+  "meta": {
+    "title": "World Population by Country (2024) - Free Download",
+    "description": "265 countries and regions with mid-year population totals for 2024, sourced from World Bank via datasets/population. Contains 265 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "World Population by Country (2024) | ListBase",
+    "seo_description": "Download World Population by Country (2024) — 265 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 265 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/population"
+    ]
+  }
+}

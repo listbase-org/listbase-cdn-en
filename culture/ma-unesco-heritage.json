@@ -1,0 +1,212 @@
+{
+  "id": "ma-unesco-heritage",
+  "name": "Morocco — UNESCO World Heritage Sites",
+  "title": "Morocco — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Morocco, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 170,
+      "name": "Medina of Fez",
+      "category": "cultural",
+      "date_inscribed": 1981,
+      "criteria": "c2, c5",
+      "lat": 34.06111,
+      "lon": -4.97778,
+      "area_hectares": 280,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "ma",
+      "transboundary": false
+    },
+    {
+      "ref_no": 331,
+      "name": "Medina of Marrakesh",
+      "category": "cultural",
+      "date_inscribed": 1985,
+      "criteria": "c1, c2, c4, c5",
+      "lat": 31.63139,
+      "lon": -7.98667,
+      "area_hectares": 1107,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "ma",
+      "transboundary": false
+    },
+    {
+      "ref_no": 444,
+      "name": "Ksar of Ait-Ben-Haddou",
+      "category": "cultural",
+      "date_inscribed": 1987,
+      "criteria": "c4, c5",
+      "lat": 31.04722,
+      "lon": -7.12889,
+      "area_hectares": 3.03,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "ma",
+      "transboundary": false
+    },
+    {
+      "ref_no": 793,
+      "name": "Historic City of Meknes",
+      "category": "cultural",
+      "date_inscribed": 1996,
+      "criteria": "c4",
+      "lat": 33.88333,
+      "lon": -5.55833,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "ma",
+      "transboundary": false
+    },
+    {
+      "ref_no": 836,
+      "name": "Archaeological Site of Volubilis",
+      "category": "cultural",
+      "date_inscribed": 1997,
+      "criteria": "c2, c3, c4, c6",
+      "lat": 34.07389,
+      "lon": -5.55694,
+      "area_hectares": 42,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "ma",
+      "transboundary": false
+    },
+    {
+      "ref_no": 837,
+      "name": "Medina of Tetouan (formerly known as Titawin)",
+      "category": "cultural",
+      "date_inscribed": 1997,
+      "criteria": "c2, c4, c5",
+      "lat": 35.57083,
+      "lon": -5.36667,
+      "area_hectares": 6.5,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "ma",
+      "transboundary": false
+    },
+    {
+      "ref_no": 753,
+      "name": "Medina of Essaouira (formerly Mogador)",
+      "category": "cultural",
+      "date_inscribed": 2001,
+      "criteria": "c2, c4",
+      "lat": 31.51667,
+      "lon": -9.76944,
+      "area_hectares": 30,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "ma",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1058,
+      "name": "Portuguese City of Mazagan (El Jadida)",
+      "category": "cultural",
+      "date_inscribed": 2004,
+      "criteria": "c2, c4",
+      "lat": 33.25667,
+      "lon": -8.50194,
+      "area_hectares": 7.5,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "ma",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1401,
+      "name": "Rabat, Modern Capital and Historic City: a Shared Heritage",
+      "category": "cultural",
+      "date_inscribed": 2012,
+      "criteria": "c2, c4",
+      "lat": 34.02416667,
+      "lon": -6.822777778,
+      "area_hectares": 348.59,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "ma",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Morocco — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Morocco, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Morocco — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Morocco — UNESCO World Heritage Sites dataset with 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

@@ -1,0 +1,5763 @@
+{
+  "id": "covid19-worldwide-daily",
+  "name": "COVID-19 Worldwide Daily Totals",
+  "title": "COVID-19 Worldwide Daily Totals",
+  "description": "Daily global totals of COVID-19 confirmed cases, recoveries, and deaths from Jan 2020 onward, aggregated from Johns Hopkins CSSE data via the datasets/covid-19 project.",
+  "category": "health",
+  "source": "https://github.com/datasets/covid-19",
+  "source_url": "https://github.com/datasets/covid-19",
+  "updated": "2026-04",
+  "record_count": 816,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "confirmed",
+      "label": "Confirmed",
+      "type": "number"
+    },
+    {
+      "key": "recovered",
+      "label": "Recovered",
+      "type": "number"
+    },
+    {
+      "key": "deaths",
+      "label": "Deaths",
+      "type": "number"
+    },
+    {
+      "key": "increase_rate",
+      "label": "Increase Rate",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-22",
+      "confirmed": 557,
+      "recovered": 30,
+      "deaths": 17,
+      "increase_rate": ""
+    },
+    {
+      "date": "2020-01-23",
+      "confirmed": 657,
+      "recovered": 32,
+      "deaths": 18,
+      "increase_rate": 17.953321364452425
+    },
+    {
+      "date": "2020-01-24",
+      "confirmed": 944,
+      "recovered": 39,
+      "deaths": 26,
+      "increase_rate": 43.68340943683409
+    },
+    {
+      "date": "2020-01-25",
+      "confirmed": 1437,
+      "recovered": 42,
+      "deaths": 42,
+      "increase_rate": 52.22457627118644
+    },
+    {
+      "date": "2020-01-26",
+      "confirmed": 2120,
+      "recovered": 56,
+      "deaths": 56,
+      "increase_rate": 47.529575504523315
+    },
+    {
+      "date": "2020-01-27",
+      "confirmed": 2929,
+      "recovered": 65,
+      "deaths": 82,
+      "increase_rate": 38.160377358490564
+    },
+    {
+      "date": "2020-01-28",
+      "confirmed": 5580,
+      "recovered": 108,
+      "deaths": 131,
+      "increase_rate": 90.5087060430181
+    },
+    {
+      "date": "2020-01-29",
+      "confirmed": 6169,
+      "recovered": 127,
+      "deaths": 133,
+      "increase_rate": 10.555555555555555
+    },
+    {
+      "date": "2020-01-30",
+      "confirmed": 8237,
+      "recovered": 145,
+      "deaths": 171,
+      "increase_rate": 33.52245096449992
+    },
+    {
+      "date": "2020-01-31",
+      "confirmed": 9927,
+      "recovered": 225,
+      "deaths": 213,
+      "increase_rate": 20.51717858443608
+    },
+    {
+      "date": "2020-02-01",
+      "confirmed": 12038,
+      "recovered": 287,
+      "deaths": 259,
+      "increase_rate": 21.2652362244384
+    },
+    {
+      "date": "2020-02-02",
+      "confirmed": 16787,
+      "recovered": 476,
+      "deaths": 362,
+      "increase_rate": 39.45007476324971
+    },
+    {
+      "date": "2020-02-03",
+      "confirmed": 19887,
+      "recovered": 627,
+      "deaths": 426,
+      "increase_rate": 18.466670637993683
+    },
+    {
+      "date": "2020-02-04",
+      "confirmed": 23899,
+      "recovered": 857,
+      "deaths": 492,
+      "increase_rate": 20.173983003972445
+    },
+    {
+      "date": "2020-02-05",
+      "confirmed": 27644,
+      "recovered": 1130,
+      "deaths": 564,
+      "increase_rate": 15.670111720155655
+    },
+    {
+      "date": "2020-02-06",
+      "confirmed": 30806,
+      "recovered": 1493,
+      "deaths": 634,
+      "increase_rate": 11.438286789176674
+    },
+    {
+      "date": "2020-02-07",
+      "confirmed": 34400,
+      "recovered": 2016,
+      "deaths": 719,
+      "increase_rate": 11.666558462637148
+    },
+    {
+      "date": "2020-02-08",
+      "confirmed": 37131,
+      "recovered": 2617,
+      "deaths": 806,
+      "increase_rate": 7.938953488372093
+    },
+    {
+      "date": "2020-02-09",
+      "confirmed": 40162,
+      "recovered": 3247,
+      "deaths": 906,
+      "increase_rate": 8.162990493118958
+    },
+    {
+      "date": "2020-02-10",
+      "confirmed": 42771,
+      "recovered": 3949,
+      "deaths": 1013,
+      "increase_rate": 6.496190428763509
+    },
+    {
+      "date": "2020-02-11",
+      "confirmed": 44814,
+      "recovered": 4684,
+      "deaths": 1113,
+      "increase_rate": 4.77660096794557
+    },
+    {
+      "date": "2020-02-12",
+      "confirmed": 45232,
+      "recovered": 5151,
+      "deaths": 1118,
+      "increase_rate": 0.9327442317133039
+    },
+    {
+      "date": "2020-02-13",
+      "confirmed": 60384,
+      "recovered": 6294,
+      "deaths": 1371,
+      "increase_rate": 33.49840820657941
+    },
+    {
+      "date": "2020-02-14",
+      "confirmed": 66912,
+      "recovered": 8061,
+      "deaths": 1523,
+      "increase_rate": 10.81081081081081
+    },
+    {
+      "date": "2020-02-15",
+      "confirmed": 69055,
+      "recovered": 9397,
+      "deaths": 1666,
+      "increase_rate": 3.202714012434242
+    },
+    {
+      "date": "2020-02-16",
+      "confirmed": 71238,
+      "recovered": 10867,
+      "deaths": 1770,
+      "increase_rate": 3.1612482803562383
+    },
+    {
+      "date": "2020-02-17",
+      "confirmed": 73273,
+      "recovered": 12587,
+      "deaths": 1868,
+      "increase_rate": 2.856621466071479
+    },
+    {
+      "date": "2020-02-18",
+      "confirmed": 75155,
+      "recovered": 14352,
+      "deaths": 2008,
+      "increase_rate": 2.568476792270004
+    },
+    {
+      "date": "2020-02-19",
+      "confirmed": 75655,
+      "recovered": 16123,
+      "deaths": 2123,
+      "increase_rate": 0.6652917304237909
+    },
+    {
+      "date": "2020-02-20",
+      "confirmed": 76216,
+      "recovered": 18181,
+      "deaths": 2248,
+      "increase_rate": 0.7415240235278567
+    },
+    {
+      "date": "2020-02-21",
+      "confirmed": 76846,
+      "recovered": 18894,
+      "deaths": 2252,
+      "increase_rate": 0.8265980896399705
+    },
+    {
+      "date": "2020-02-22",
+      "confirmed": 78608,
+      "recovered": 22892,
+      "deaths": 2459,
+      "increase_rate": 2.292897483278245
+    },
+    {
+      "date": "2020-02-23",
+      "confirmed": 78990,
+      "recovered": 23397,
+      "deaths": 2470,
+      "increase_rate": 0.4859556279259108
+    },
+    {
+      "date": "2020-02-24",
+      "confirmed": 79558,
+      "recovered": 25229,
+      "deaths": 2630,
+      "increase_rate": 0.7190783643499177
+    },
+    {
+      "date": "2020-02-25",
+      "confirmed": 80412,
+      "recovered": 27907,
+      "deaths": 2710,
+      "increase_rate": 1.0734307046431535
+    },
+    {
+      "date": "2020-02-26",
+      "confirmed": 81385,
+      "recovered": 30388,
+      "deaths": 2771,
+      "increase_rate": 1.2100184052131524
+    },
+    {
+      "date": "2020-02-27",
+      "confirmed": 82730,
+      "recovered": 33282,
+      "deaths": 2814,
+      "increase_rate": 1.6526386926337777
+    },
+    {
+      "date": "2020-02-28",
+      "confirmed": 84154,
+      "recovered": 36714,
+      "deaths": 2873,
+      "increase_rate": 1.7212619364196786
+    },
+    {
+      "date": "2020-02-29",
+      "confirmed": 86030,
+      "recovered": 39785,
+      "deaths": 2943,
+      "increase_rate": 2.2292463816336716
+    },
+    {
+      "date": "2020-03-01",
+      "confirmed": 88410,
+      "recovered": 42721,
+      "deaths": 2997,
+      "increase_rate": 2.7664768104149715
+    },
+    {
+      "date": "2020-03-02",
+      "confirmed": 90393,
+      "recovered": 45605,
+      "deaths": 3086,
+      "increase_rate": 2.2429589412962336
+    },
+    {
+      "date": "2020-03-03",
+      "confirmed": 93004,
+      "recovered": 48227,
+      "deaths": 3160,
+      "increase_rate": 2.8884980031639618
+    },
+    {
+      "date": "2020-03-04",
+      "confirmed": 95329,
+      "recovered": 51170,
+      "deaths": 3255,
+      "increase_rate": 2.499892477742893
+    },
+    {
+      "date": "2020-03-05",
+      "confirmed": 98046,
+      "recovered": 53796,
+      "deaths": 3348,
+      "increase_rate": 2.850129551343243
+    },
+    {
+      "date": "2020-03-06",
+      "confirmed": 101976,
+      "recovered": 55864,
+      "deaths": 3461,
+      "increase_rate": 4.008322624074414
+    },
+    {
+      "date": "2020-03-07",
+      "confirmed": 106122,
+      "recovered": 58358,
+      "deaths": 3566,
+      "increase_rate": 4.065662508825605
+    },
+    {
+      "date": "2020-03-08",
+      "confirmed": 109972,
+      "recovered": 60695,
+      "deaths": 3807,
+      "increase_rate": 3.6278999641921565
+    },
+    {
+      "date": "2020-03-09",
+      "confirmed": 114299,
+      "recovered": 62495,
+      "deaths": 3997,
+      "increase_rate": 3.9346379078310845
+    },
+    {
+      "date": "2020-03-10",
+      "confirmed": 119108,
+      "recovered": 64402,
+      "deaths": 4273,
+      "increase_rate": 4.207385891390126
+    },
+    {
+      "date": "2020-03-11",
+      "confirmed": 126628,
+      "recovered": 66999,
+      "deaths": 4618,
+      "increase_rate": 6.313597743224636
+    },
+    {
+      "date": "2020-03-12",
+      "confirmed": 133383,
+      "recovered": 68328,
+      "deaths": 4930,
+      "increase_rate": 5.334523170230913
+    },
+    {
+      "date": "2020-03-13",
+      "confirmed": 146673,
+      "recovered": 70255,
+      "deaths": 5420,
+      "increase_rate": 9.963788488787927
+    },
+    {
+      "date": "2020-03-14",
+      "confirmed": 157617,
+      "recovered": 72622,
+      "deaths": 5843,
+      "increase_rate": 7.461495980855372
+    },
+    {
+      "date": "2020-03-15",
+      "confirmed": 168876,
+      "recovered": 76031,
+      "deaths": 6496,
+      "increase_rate": 7.143265003140524
+    },
+    {
+      "date": "2020-03-16",
+      "confirmed": 183394,
+      "recovered": 78086,
+      "deaths": 7178,
+      "increase_rate": 8.59684028517966
+    },
+    {
+      "date": "2020-03-17",
+      "confirmed": 198691,
+      "recovered": 80830,
+      "deaths": 7989,
+      "increase_rate": 8.341058049881674
+    },
+    {
+      "date": "2020-03-18",
+      "confirmed": 216348,
+      "recovered": 83317,
+      "deaths": 8907,
+      "increase_rate": 8.886663210714124
+    },
+    {
+      "date": "2020-03-19",
+      "confirmed": 243464,
+      "recovered": 84958,
+      "deaths": 10017,
+      "increase_rate": 12.533510825152069
+    },
+    {
+      "date": "2020-03-20",
+      "confirmed": 273008,
+      "recovered": 87403,
+      "deaths": 11504,
+      "increase_rate": 12.134853612854467
+    },
+    {
+      "date": "2020-03-21",
+      "confirmed": 305423,
+      "recovered": 91650,
+      "deaths": 13233,
+      "increase_rate": 11.873278438727072
+    },
+    {
+      "date": "2020-03-22",
+      "confirmed": 339895,
+      "recovered": 97867,
+      "deaths": 14919,
+      "increase_rate": 11.28664180497212
+    },
+    {
+      "date": "2020-03-23",
+      "confirmed": 382799,
+      "recovered": 98355,
+      "deaths": 16886,
+      "increase_rate": 12.622721722885007
+    },
+    {
+      "date": "2020-03-24",
+      "confirmed": 424883,
+      "recovered": 107974,
+      "deaths": 19201,
+      "increase_rate": 10.993759126852472
+    },
+    {
+      "date": "2020-03-25",
+      "confirmed": 475998,
+      "recovered": 113753,
+      "deaths": 22022,
+      "increase_rate": 12.03037071382004
+    },
+    {
+      "date": "2020-03-26",
+      "confirmed": 537412,
+      "recovered": 122125,
+      "deaths": 25058,
+      "increase_rate": 12.902155051071643
+    },
+    {
+      "date": "2020-03-27",
+      "confirmed": 601349,
+      "recovered": 130910,
+      "deaths": 28538,
+      "increase_rate": 11.89720363519981
+    },
+    {
+      "date": "2020-03-28",
+      "confirmed": 670495,
+      "recovered": 139421,
+      "deaths": 32374,
+      "increase_rate": 11.498480915408523
+    },
+    {
+      "date": "2020-03-29",
+      "confirmed": 726726,
+      "recovered": 148877,
+      "deaths": 35838,
+      "increase_rate": 8.386490577856657
+    },
+    {
+      "date": "2020-03-30",
+      "confirmed": 791975,
+      "recovered": 164213,
+      "deaths": 39895,
+      "increase_rate": 8.978487077660631
+    },
+    {
+      "date": "2020-03-31",
+      "confirmed": 870403,
+      "recovered": 177803,
+      "deaths": 44661,
+      "increase_rate": 9.902837842103601
+    },
+    {
+      "date": "2020-04-01",
+      "confirmed": 951968,
+      "recovered": 193075,
+      "deaths": 50714,
+      "increase_rate": 9.37094656153529
+    },
+    {
+      "date": "2020-04-02",
+      "confirmed": 1034275,
+      "recovered": 210218,
+      "deaths": 56593,
+      "increase_rate": 8.645983898618441
+    },
+    {
+      "date": "2020-04-03",
+      "confirmed": 1118277,
+      "recovered": 225640,
+      "deaths": 62818,
+      "increase_rate": 8.12182446641367
+    },
+    {
+      "date": "2020-04-04",
+      "confirmed": 1178363,
+      "recovered": 246052,
+      "deaths": 68781,
+      "increase_rate": 5.373087347768039
+    },
+    {
+      "date": "2020-04-05",
+      "confirmed": 1250388,
+      "recovered": 259888,
+      "deaths": 74091,
+      "increase_rate": 6.112293070980674
+    },
+    {
+      "date": "2020-04-06",
+      "confirmed": 1324899,
+      "recovered": 276597,
+      "deaths": 79957,
+      "increase_rate": 5.959030316989606
+    },
+    {
+      "date": "2020-04-07",
+      "confirmed": 1393878,
+      "recovered": 299859,
+      "deaths": 88306,
+      "increase_rate": 5.20635912624283
+    },
+    {
+      "date": "2020-04-08",
+      "confirmed": 1475875,
+      "recovered": 328741,
+      "deaths": 95132,
+      "increase_rate": 5.882652570741485
+    },
+    {
+      "date": "2020-04-09",
+      "confirmed": 1562641,
+      "recovered": 353995,
+      "deaths": 103003,
+      "increase_rate": 5.878953163377657
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1649186,
+      "recovered": 375733,
+      "deaths": 110565,
+      "increase_rate": 5.538380216569257
+    },
+    {
+      "date": "2020-04-11",
+      "confirmed": 1724605,
+      "recovered": 401983,
+      "deaths": 117084,
+      "increase_rate": 4.5731045497597
+    },
+    {
+      "date": "2020-04-12",
+      "confirmed": 1843412,
+      "recovered": 421366,
+      "deaths": 122922,
+      "increase_rate": 6.888939786211916
+    },
+    {
+      "date": "2020-04-13",
+      "confirmed": 1915034,
+      "recovered": 448623,
+      "deaths": 128975,
+      "increase_rate": 3.8852953110861814
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1999558,
+      "recovered": 473697,
+      "deaths": 136189,
+      "increase_rate": 4.413707537307432
+    },
+    {
+      "date": "2020-04-15",
+      "confirmed": 2077371,
+      "recovered": 510236,
+      "deaths": 144551,
+      "increase_rate": 3.891510023715241
+    },
+    {
+      "date": "2020-04-16",
+      "confirmed": 2171785,
+      "recovered": 541119,
+      "deaths": 152026,
+      "increase_rate": 4.5448790803376005
+    },
+    {
+      "date": "2020-04-17",
+      "confirmed": 2259607,
+      "recovered": 567303,
+      "deaths": 160597,
+      "increase_rate": 4.043770446890461
+    },
+    {
+      "date": "2020-04-18",
+      "confirmed": 2337796,
+      "recovered": 591169,
+      "deaths": 166983,
+      "increase_rate": 3.460291988828146
+    },
+    {
+      "date": "2020-04-19",
+      "confirmed": 2414457,
+      "recovered": 622952,
+      "deaths": 172419,
+      "increase_rate": 3.279199724869065
+    },
+    {
+      "date": "2020-04-20",
+      "confirmed": 2490365,
+      "recovered": 645130,
+      "deaths": 178322,
+      "increase_rate": 3.143895294055765
+    },
+    {
+      "date": "2020-04-21",
+      "confirmed": 2566638,
+      "recovered": 679932,
+      "deaths": 185709,
+      "increase_rate": 3.062723737283491
+    },
+    {
+      "date": "2020-04-22",
+      "confirmed": 2648575,
+      "recovered": 710017,
+      "deaths": 192772,
+      "increase_rate": 3.1923863045743106
+    },
+    {
+      "date": "2020-04-23",
+      "confirmed": 2731191,
+      "recovered": 738747,
+      "deaths": 199676,
+      "increase_rate": 3.1192622447920106
+    },
+    {
+      "date": "2020-04-24",
+      "confirmed": 2815227,
+      "recovered": 788776,
+      "deaths": 206617,
+      "increase_rate": 3.0768994186052896
+    },
+    {
+      "date": "2020-04-25",
+      "confirmed": 2898734,
+      "recovered": 816531,
+      "deaths": 212567,
+      "increase_rate": 2.9662616904427246
+    },
+    {
+      "date": "2020-04-26",
+      "confirmed": 2969606,
+      "recovered": 845343,
+      "deaths": 216860,
+      "increase_rate": 2.4449294071135883
+    },
+    {
+      "date": "2020-04-27",
+      "confirmed": 3040528,
+      "recovered": 873227,
+      "deaths": 221730,
+      "increase_rate": 2.388262954748879
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 3116384,
+      "recovered": 906439,
+      "deaths": 228524,
+      "increase_rate": 2.4948298453426507
+    },
+    {
+      "date": "2020-04-29",
+      "confirmed": 3193728,
+      "recovered": 948516,
+      "deaths": 235484,
+      "increase_rate": 2.481850760368427
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 3277569,
+      "recovered": 1013632,
+      "deaths": 241546,
+      "increase_rate": 2.6251765961284117
+    },
+    {
+      "date": "2020-05-01",
+      "confirmed": 3366610,
+      "recovered": 1051789,
+      "deaths": 247086,
+      "increase_rate": 2.7166781233286015
+    },
+    {
+      "date": "2020-05-02",
+      "confirmed": 3444964,
+      "recovered": 1092440,
+      "deaths": 252954,
+      "increase_rate": 2.327385708472321
+    },
+    {
+      "date": "2020-05-03",
+      "confirmed": 3519125,
+      "recovered": 1124973,
+      "deaths": 256815,
+      "increase_rate": 2.152736574315435
+    },
+    {
+      "date": "2020-05-04",
+      "confirmed": 3596510,
+      "recovered": 1159059,
+      "deaths": 261181,
+      "increase_rate": 2.198984122473626
+    },
+    {
+      "date": "2020-05-05",
+      "confirmed": 3676149,
+      "recovered": 1195532,
+      "deaths": 267419,
+      "increase_rate": 2.2143411251463223
+    },
+    {
+      "date": "2020-05-06",
+      "confirmed": 3766683,
+      "recovered": 1241651,
+      "deaths": 274166,
+      "increase_rate": 2.462740220812595
+    },
+    {
+      "date": "2020-05-07",
+      "confirmed": 3855364,
+      "recovered": 1281176,
+      "deaths": 279841,
+      "increase_rate": 2.3543526227187157
+    },
+    {
+      "date": "2020-05-08",
+      "confirmed": 3945797,
+      "recovered": 1317589,
+      "deaths": 285765,
+      "increase_rate": 2.3456410341539735
+    },
+    {
+      "date": "2020-05-09",
+      "confirmed": 4030371,
+      "recovered": 1371030,
+      "deaths": 290382,
+      "increase_rate": 2.143394604436062
+    },
+    {
+      "date": "2020-05-10",
+      "confirmed": 4105624,
+      "recovered": 1404839,
+      "deaths": 294434,
+      "increase_rate": 1.8671482104252932
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 4181600,
+      "recovered": 1451724,
+      "deaths": 298258,
+      "increase_rate": 1.8505347786353548
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 4266957,
+      "recovered": 1488766,
+      "deaths": 304137,
+      "increase_rate": 2.0412521522862064
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 4351290,
+      "recovered": 1544638,
+      "deaths": 309590,
+      "increase_rate": 1.9764201982818201
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 4446959,
+      "recovered": 1584349,
+      "deaths": 315235,
+      "increase_rate": 2.198635347218871
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 4543310,
+      "recovered": 1632452,
+      "deaths": 320957,
+      "increase_rate": 2.1666716513464594
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": 4637421,
+      "recovered": 1688863,
+      "deaths": 325507,
+      "increase_rate": 2.0714192956236754
+    },
+    {
+      "date": "2020-05-17",
+      "confirmed": 4715829,
+      "recovered": 1729871,
+      "deaths": 329094,
+      "increase_rate": 1.6907673467645057
+    },
+    {
+      "date": "2020-05-18",
+      "confirmed": 4804897,
+      "recovered": 1782787,
+      "deaths": 333226,
+      "increase_rate": 1.8887029194654854
+    },
+    {
+      "date": "2020-05-19",
+      "confirmed": 4900710,
+      "recovered": 1834839,
+      "deaths": 338357,
+      "increase_rate": 1.9940698000394181
+    },
+    {
+      "date": "2020-05-20",
+      "confirmed": 5006099,
+      "recovered": 1893809,
+      "deaths": 343748,
+      "increase_rate": 2.1504843175784734
+    },
+    {
+      "date": "2020-05-21",
+      "confirmed": 5111870,
+      "recovered": 1945029,
+      "deaths": 348701,
+      "increase_rate": 2.112842754408173
+    },
+    {
+      "date": "2020-05-22",
+      "confirmed": 5219114,
+      "recovered": 2053576,
+      "deaths": 354391,
+      "increase_rate": 2.097940675330163
+    },
+    {
+      "date": "2020-05-23",
+      "confirmed": 5323547,
+      "recovered": 2108410,
+      "deaths": 358772,
+      "increase_rate": 2.000971812457057
+    },
+    {
+      "date": "2020-05-24",
+      "confirmed": 5416801,
+      "recovered": 2163937,
+      "deaths": 362256,
+      "increase_rate": 1.7517268092119782
+    },
+    {
+      "date": "2020-05-25",
+      "confirmed": 5504948,
+      "recovered": 2227666,
+      "deaths": 363762,
+      "increase_rate": 1.6272888740051554
+    },
+    {
+      "date": "2020-05-26",
+      "confirmed": 5597804,
+      "recovered": 2282818,
+      "deaths": 368384,
+      "increase_rate": 1.6867734263793228
+    },
+    {
+      "date": "2020-05-27",
+      "confirmed": 5700330,
+      "recovered": 2346145,
+      "deaths": 373744,
+      "increase_rate": 1.8315396537642261
+    },
+    {
+      "date": "2020-05-28",
+      "confirmed": 5819995,
+      "recovered": 2413008,
+      "deaths": 378794,
+      "increase_rate": 2.0992644285506277
+    },
+    {
+      "date": "2020-05-29",
+      "confirmed": 5941625,
+      "recovered": 2490273,
+      "deaths": 383955,
+      "increase_rate": 2.0898643383714246
+    },
+    {
+      "date": "2020-05-30",
+      "confirmed": 6077041,
+      "recovered": 2560723,
+      "deaths": 388246,
+      "increase_rate": 2.2791071466139314
+    },
+    {
+      "date": "2020-05-31",
+      "confirmed": 6180061,
+      "recovered": 2637107,
+      "deaths": 391387,
+      "increase_rate": 1.6952329266825747
+    },
+    {
+      "date": "2020-06-01",
+      "confirmed": 6280296,
+      "recovered": 2692032,
+      "deaths": 395023,
+      "increase_rate": 1.6219095572034
+    },
+    {
+      "date": "2020-06-02",
+      "confirmed": 6403453,
+      "recovered": 2796144,
+      "deaths": 400307,
+      "increase_rate": 1.9610062965185078
+    },
+    {
+      "date": "2020-06-03",
+      "confirmed": 6514705,
+      "recovered": 2875235,
+      "deaths": 405976,
+      "increase_rate": 1.7373751318234085
+    },
+    {
+      "date": "2020-06-04",
+      "confirmed": 6652817,
+      "recovered": 2945305,
+      "deaths": 411408,
+      "increase_rate": 2.1200038988718597
+    },
+    {
+      "date": "2020-06-05",
+      "confirmed": 6786463,
+      "recovered": 3014470,
+      "deaths": 416538,
+      "increase_rate": 2.0088633130897784
+    },
+    {
+      "date": "2020-06-06",
+      "confirmed": 6915945,
+      "recovered": 3086674,
+      "deaths": 420638,
+      "increase_rate": 1.907945272817372
+    },
+    {
+      "date": "2020-06-07",
+      "confirmed": 7026914,
+      "recovered": 3141783,
+      "deaths": 423764,
+      "increase_rate": 1.6045384976311985
+    },
+    {
+      "date": "2020-06-08",
+      "confirmed": 7129985,
+      "recovered": 3293394,
+      "deaths": 428095,
+      "increase_rate": 1.4668032083500666
+    },
+    {
+      "date": "2020-06-09",
+      "confirmed": 7256297,
+      "recovered": 3375664,
+      "deaths": 433202,
+      "increase_rate": 1.7715605292297247
+    },
+    {
+      "date": "2020-06-10",
+      "confirmed": 7393421,
+      "recovered": 3454835,
+      "deaths": 438638,
+      "increase_rate": 1.8897241940345053
+    },
+    {
+      "date": "2020-06-11",
+      "confirmed": 7529261,
+      "recovered": 3540714,
+      "deaths": 443725,
+      "increase_rate": 1.8373091428176482
+    },
+    {
+      "date": "2020-06-12",
+      "confirmed": 7656733,
+      "recovered": 3620434,
+      "deaths": 448457,
+      "increase_rate": 1.6930214001081911
+    },
+    {
+      "date": "2020-06-13",
+      "confirmed": 7790659,
+      "recovered": 3706326,
+      "deaths": 452864,
+      "increase_rate": 1.7491272060812362
+    },
+    {
+      "date": "2020-06-14",
+      "confirmed": 7922545,
+      "recovered": 3777145,
+      "deaths": 456522,
+      "increase_rate": 1.6928734783540134
+    },
+    {
+      "date": "2020-06-15",
+      "confirmed": 8047366,
+      "recovered": 3857420,
+      "deaths": 460508,
+      "increase_rate": 1.5755164533618933
+    },
+    {
+      "date": "2020-06-16",
+      "confirmed": 8191583,
+      "recovered": 3955283,
+      "deaths": 467638,
+      "increase_rate": 1.7921019126009679
+    },
+    {
+      "date": "2020-06-17",
+      "confirmed": 8334714,
+      "recovered": 4074114,
+      "deaths": 473117,
+      "increase_rate": 1.7472935328861345
+    },
+    {
+      "date": "2020-06-18",
+      "confirmed": 8477437,
+      "recovered": 4155277,
+      "deaths": 478443,
+      "increase_rate": 1.712392290845253
+    },
+    {
+      "date": "2020-06-19",
+      "confirmed": 8658514,
+      "recovered": 4250267,
+      "deaths": 484794,
+      "increase_rate": 2.1359875632222334
+    },
+    {
+      "date": "2020-06-20",
+      "confirmed": 8844374,
+      "recovered": 4366121,
+      "deaths": 489232,
+      "increase_rate": 2.1465577118660315
+    },
+    {
+      "date": "2020-06-21",
+      "confirmed": 8937379,
+      "recovered": 4434807,
+      "deaths": 493820,
+      "increase_rate": 1.0515724459413407
+    },
+    {
+      "date": "2020-06-22",
+      "confirmed": 9079532,
+      "recovered": 4526440,
+      "deaths": 497614,
+      "increase_rate": 1.5905446104501106
+    },
+    {
+      "date": "2020-06-23",
+      "confirmed": 9247902,
+      "recovered": 4630495,
+      "deaths": 503191,
+      "increase_rate": 1.8543907329144276
+    },
+    {
+      "date": "2020-06-24",
+      "confirmed": 9419320,
+      "recovered": 4746246,
+      "deaths": 508663,
+      "increase_rate": 1.8535879813605292
+    },
+    {
+      "date": "2020-06-25",
+      "confirmed": 9598762,
+      "recovered": 4839130,
+      "deaths": 513746,
+      "increase_rate": 1.9050419775525198
+    },
+    {
+      "date": "2020-06-26",
+      "confirmed": 9791221,
+      "recovered": 4945110,
+      "deaths": 518822,
+      "increase_rate": 2.005039816593015
+    },
+    {
+      "date": "2020-06-27",
+      "confirmed": 9967566,
+      "recovered": 5051396,
+      "deaths": 523516,
+      "increase_rate": 1.8010521874646686
+    },
+    {
+      "date": "2020-06-28",
+      "confirmed": 10136032,
+      "recovered": 5140599,
+      "deaths": 527091,
+      "increase_rate": 1.6901418059333644
+    },
+    {
+      "date": "2020-06-29",
+      "confirmed": 10288517,
+      "recovered": 5235170,
+      "deaths": 531108,
+      "increase_rate": 1.5043855425870793
+    },
+    {
+      "date": "2020-06-30",
+      "confirmed": 10472385,
+      "recovered": 5352510,
+      "deaths": 536343,
+      "increase_rate": 1.7871185905607194
+    },
+    {
+      "date": "2020-07-01",
+      "confirmed": 10687359,
+      "recovered": 5468424,
+      "deaths": 541720,
+      "increase_rate": 2.052770214234866
+    },
+    {
+      "date": "2020-07-02",
+      "confirmed": 10891991,
+      "recovered": 5753358,
+      "deaths": 547195,
+      "increase_rate": 1.9147106408608525
+    },
+    {
+      "date": "2020-07-03",
+      "confirmed": 11094487,
+      "recovered": 5863246,
+      "deaths": 552434,
+      "increase_rate": 1.8591275001971632
+    },
+    {
+      "date": "2020-07-04",
+      "confirmed": 11284154,
+      "recovered": 6059006,
+      "deaths": 557196,
+      "increase_rate": 1.7095607935725194
+    },
+    {
+      "date": "2020-07-05",
+      "confirmed": 11470135,
+      "recovered": 6178369,
+      "deaths": 560995,
+      "increase_rate": 1.6481607748352247
+    },
+    {
+      "date": "2020-07-06",
+      "confirmed": 11637923,
+      "recovered": 6302068,
+      "deaths": 565214,
+      "increase_rate": 1.462824979828049
+    },
+    {
+      "date": "2020-07-07",
+      "confirmed": 11847615,
+      "recovered": 6447101,
+      "deaths": 571595,
+      "increase_rate": 1.801799169834686
+    },
+    {
+      "date": "2020-07-08",
+      "confirmed": 12062729,
+      "recovered": 6605157,
+      "deaths": 577225,
+      "increase_rate": 1.8156734498884375
+    },
+    {
+      "date": "2020-07-09",
+      "confirmed": 12286931,
+      "recovered": 6739775,
+      "deaths": 583029,
+      "increase_rate": 1.8586341448937467
+    },
+    {
+      "date": "2020-07-10",
+      "confirmed": 12520121,
+      "recovered": 6879221,
+      "deaths": 588771,
+      "increase_rate": 1.8978701841818757
+    },
+    {
+      "date": "2020-07-11",
+      "confirmed": 12732941,
+      "recovered": 7004913,
+      "deaths": 593874,
+      "increase_rate": 1.6998238275812192
+    },
+    {
+      "date": "2020-07-12",
+      "confirmed": 12925796,
+      "recovered": 7116749,
+      "deaths": 598161,
+      "increase_rate": 1.5146147304067457
+    },
+    {
+      "date": "2020-07-13",
+      "confirmed": 13119978,
+      "recovered": 7257072,
+      "deaths": 602539,
+      "increase_rate": 1.5022827220853554
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 13341228,
+      "recovered": 7399324,
+      "deaths": 608526,
+      "increase_rate": 1.6863595350540983
+    },
+    {
+      "date": "2020-07-15",
+      "confirmed": 13570476,
+      "recovered": 7559130,
+      "deaths": 614423,
+      "increase_rate": 1.7183425693646792
+    },
+    {
+      "date": "2020-07-16",
+      "confirmed": 13815424,
+      "recovered": 7711615,
+      "deaths": 620588,
+      "increase_rate": 1.805006692469741
+    },
+    {
+      "date": "2020-07-17",
+      "confirmed": 14052932,
+      "recovered": 7895036,
+      "deaths": 627582,
+      "increase_rate": 1.7191510010840059
+    },
+    {
+      "date": "2020-07-18",
+      "confirmed": 14288256,
+      "recovered": 8045823,
+      "deaths": 634080,
+      "increase_rate": 1.6745544630828642
+    },
+    {
+      "date": "2020-07-19",
+      "confirmed": 14500046,
+      "recovered": 8133881,
+      "deaths": 638971,
+      "increase_rate": 1.4822662751843192
+    },
+    {
+      "date": "2020-07-20",
+      "confirmed": 14708011,
+      "recovered": 8293009,
+      "deaths": 642893,
+      "increase_rate": 1.434236829317645
+    },
+    {
+      "date": "2020-07-21",
+      "confirmed": 14951217,
+      "recovered": 8467705,
+      "deaths": 649249,
+      "increase_rate": 1.6535614502871938
+    },
+    {
+      "date": "2020-07-22",
+      "confirmed": 15226372,
+      "recovered": 8647437,
+      "deaths": 656622,
+      "increase_rate": 1.8403518589824495
+    },
+    {
+      "date": "2020-07-23",
+      "confirmed": 15506179,
+      "recovered": 8823667,
+      "deaths": 663262,
+      "increase_rate": 1.8376472084091995
+    },
+    {
+      "date": "2020-07-24",
+      "confirmed": 15789858,
+      "recovered": 9051967,
+      "deaths": 669717,
+      "increase_rate": 1.8294577922775173
+    },
+    {
+      "date": "2020-07-25",
+      "confirmed": 16039878,
+      "recovered": 9271779,
+      "deaths": 675792,
+      "increase_rate": 1.5834214595216753
+    },
+    {
+      "date": "2020-07-26",
+      "confirmed": 16251880,
+      "recovered": 9415080,
+      "deaths": 680145,
+      "increase_rate": 1.3217182823959135
+    },
+    {
+      "date": "2020-07-27",
+      "confirmed": 16485974,
+      "recovered": 9586463,
+      "deaths": 685422,
+      "increase_rate": 1.440411816971329
+    },
+    {
+      "date": "2020-07-28",
+      "confirmed": 16750382,
+      "recovered": 9756921,
+      "deaths": 692366,
+      "increase_rate": 1.6038360851472895
+    },
+    {
+      "date": "2020-07-29",
+      "confirmed": 17020687,
+      "recovered": 9959507,
+      "deaths": 699019,
+      "increase_rate": 1.6137243914795496
+    },
+    {
+      "date": "2020-07-30",
+      "confirmed": 17302404,
+      "recovered": 10173026,
+      "deaths": 705765,
+      "increase_rate": 1.6551447071437246
+    },
+    {
+      "date": "2020-07-31",
+      "confirmed": 17590145,
+      "recovered": 10372632,
+      "deaths": 712354,
+      "increase_rate": 1.663011683231995
+    },
+    {
+      "date": "2020-08-01",
+      "confirmed": 17836466,
+      "recovered": 10553543,
+      "deaths": 718356,
+      "increase_rate": 1.400335244536074
+    },
+    {
+      "date": "2020-08-02",
+      "confirmed": 18067265,
+      "recovered": 10692267,
+      "deaths": 723008,
+      "increase_rate": 1.2939726961607754
+    },
+    {
+      "date": "2020-08-03",
+      "confirmed": 18273134,
+      "recovered": 10914712,
+      "deaths": 727807,
+      "increase_rate": 1.1394585732815674
+    },
+    {
+      "date": "2020-08-04",
+      "confirmed": 18538734,
+      "recovered": 11138369,
+      "deaths": 734978,
+      "increase_rate": 1.4534999852789345
+    },
+    {
+      "date": "2020-08-05",
+      "confirmed": 18813900,
+      "recovered": 11360064,
+      "deaths": 742360,
+      "increase_rate": 1.4842761107635505
+    },
+    {
+      "date": "2020-08-06",
+      "confirmed": 19100788,
+      "recovered": 11548871,
+      "deaths": 749183,
+      "increase_rate": 1.5248725676228747
+    },
+    {
+      "date": "2020-08-07",
+      "confirmed": 19383355,
+      "recovered": 11740917,
+      "deaths": 755920,
+      "increase_rate": 1.4793473442038099
+    },
+    {
+      "date": "2020-08-08",
+      "confirmed": 19648713,
+      "recovered": 11941161,
+      "deaths": 761937,
+      "increase_rate": 1.3689993295794254
+    },
+    {
+      "date": "2020-08-09",
+      "confirmed": 19881837,
+      "recovered": 12119939,
+      "deaths": 767106,
+      "increase_rate": 1.1864593879507528
+    },
+    {
+      "date": "2020-08-10",
+      "confirmed": 20114995,
+      "recovered": 12284150,
+      "deaths": 772469,
+      "increase_rate": 1.1727185973811172
+    },
+    {
+      "date": "2020-08-11",
+      "confirmed": 20380911,
+      "recovered": 12589218,
+      "deaths": 779101,
+      "increase_rate": 1.3219789515234779
+    },
+    {
+      "date": "2020-08-12",
+      "confirmed": 20655885,
+      "recovered": 12829863,
+      "deaths": 786048,
+      "increase_rate": 1.3491742346551634
+    },
+    {
+      "date": "2020-08-13",
+      "confirmed": 20946163,
+      "recovered": 12993779,
+      "deaths": 792840,
+      "increase_rate": 1.4053041058274676
+    },
+    {
+      "date": "2020-08-14",
+      "confirmed": 21253368,
+      "recovered": 13277021,
+      "deaths": 799421,
+      "increase_rate": 1.4666409308473345
+    },
+    {
+      "date": "2020-08-15",
+      "confirmed": 21502515,
+      "recovered": 13445625,
+      "deaths": 805439,
+      "increase_rate": 1.1722706725823409
+    },
+    {
+      "date": "2020-08-16",
+      "confirmed": 21712481,
+      "recovered": 13678579,
+      "deaths": 810225,
+      "increase_rate": 0.9764718220170989
+    },
+    {
+      "date": "2020-08-17",
+      "confirmed": 21925213,
+      "recovered": 13889591,
+      "deaths": 814842,
+      "increase_rate": 0.9797682724512228
+    },
+    {
+      "date": "2020-08-18",
+      "confirmed": 22184889,
+      "recovered": 14117186,
+      "deaths": 821893,
+      "increase_rate": 1.184371618191349
+    },
+    {
+      "date": "2020-08-19",
+      "confirmed": 22462185,
+      "recovered": 14335183,
+      "deaths": 828302,
+      "increase_rate": 1.2499318793075773
+    },
+    {
+      "date": "2020-08-20",
+      "confirmed": 22733750,
+      "recovered": 14542973,
+      "deaths": 834739,
+      "increase_rate": 1.2089874604808035
+    },
+    {
+      "date": "2020-08-21",
+      "confirmed": 22995385,
+      "recovered": 14711467,
+      "deaths": 840476,
+      "increase_rate": 1.150866003189091
+    },
+    {
+      "date": "2020-08-22",
+      "confirmed": 23259276,
+      "recovered": 14921384,
+      "deaths": 846274,
+      "increase_rate": 1.1475824388241378
+    },
+    {
+      "date": "2020-08-23",
+      "confirmed": 23461927,
+      "recovered": 15137915,
+      "deaths": 850586,
+      "increase_rate": 0.8712695958378067
+    },
+    {
+      "date": "2020-08-24",
+      "confirmed": 23689888,
+      "recovered": 15337336,
+      "deaths": 855405,
+      "increase_rate": 0.9716209585001266
+    },
+    {
+      "date": "2020-08-25",
+      "confirmed": 23935409,
+      "recovered": 15568885,
+      "deaths": 861970,
+      "increase_rate": 1.036395782031557
+    },
+    {
+      "date": "2020-08-26",
+      "confirmed": 24216938,
+      "recovered": 15794619,
+      "deaths": 868511,
+      "increase_rate": 1.1762030053465977
+    },
+    {
+      "date": "2020-08-27",
+      "confirmed": 24504301,
+      "recovered": 16001856,
+      "deaths": 874717,
+      "increase_rate": 1.1866198773767351
+    },
+    {
+      "date": "2020-08-28",
+      "confirmed": 24788323,
+      "recovered": 16200974,
+      "deaths": 880534,
+      "increase_rate": 1.1590699934676774
+    },
+    {
+      "date": "2020-08-29",
+      "confirmed": 25049249,
+      "recovered": 16412387,
+      "deaths": 886339,
+      "increase_rate": 1.0526165888672663
+    },
+    {
+      "date": "2020-08-30",
+      "confirmed": 25268736,
+      "recovered": 16622627,
+      "deaths": 890600,
+      "increase_rate": 0.8762218779493149
+    },
+    {
+      "date": "2020-08-31",
+      "confirmed": 25532930,
+      "recovered": 16823417,
+      "deaths": 895016,
+      "increase_rate": 1.0455370620833586
+    },
+    {
+      "date": "2020-09-01",
+      "confirmed": 25799976,
+      "recovered": 17081379,
+      "deaths": 901614,
+      "increase_rate": 1.0458885838797192
+    },
+    {
+      "date": "2020-09-02",
+      "confirmed": 26081699,
+      "recovered": 17300616,
+      "deaths": 907908,
+      "increase_rate": 1.0919506281711269
+    },
+    {
+      "date": "2020-09-03",
+      "confirmed": 26367170,
+      "recovered": 17521985,
+      "deaths": 914006,
+      "increase_rate": 1.0945260889637596
+    },
+    {
+      "date": "2020-09-04",
+      "confirmed": 26668499,
+      "recovered": 17735486,
+      "deaths": 919857,
+      "increase_rate": 1.1428188918264646
+    },
+    {
+      "date": "2020-09-05",
+      "confirmed": 26942595,
+      "recovered": 17936474,
+      "deaths": 924962,
+      "increase_rate": 1.0277893780223626
+    },
+    {
+      "date": "2020-09-06",
+      "confirmed": 27171440,
+      "recovered": 18148265,
+      "deaths": 929078,
+      "increase_rate": 0.8493799502238
+    },
+    {
+      "date": "2020-09-07",
+      "confirmed": 27388662,
+      "recovered": 18345813,
+      "deaths": 938684,
+      "increase_rate": 0.7994497163197828
+    },
+    {
+      "date": "2020-09-08",
+      "confirmed": 27635123,
+      "recovered": 18547610,
+      "deaths": 943817,
+      "increase_rate": 0.8998650609511337
+    },
+    {
+      "date": "2020-09-09",
+      "confirmed": 27920213,
+      "recovered": 18787877,
+      "deaths": 950075,
+      "increase_rate": 1.0316219688980577
+    },
+    {
+      "date": "2020-09-10",
+      "confirmed": 28224541,
+      "recovered": 19004538,
+      "deaths": 956075,
+      "increase_rate": 1.0899916845190256
+    },
+    {
+      "date": "2020-09-11",
+      "confirmed": 28540587,
+      "recovered": 19228208,
+      "deaths": 962068,
+      "increase_rate": 1.1197560307535204
+    },
+    {
+      "date": "2020-09-12",
+      "confirmed": 28829539,
+      "recovered": 19451142,
+      "deaths": 967111,
+      "increase_rate": 1.0124248670848992
+    },
+    {
+      "date": "2020-09-13",
+      "confirmed": 29077878,
+      "recovered": 19638990,
+      "deaths": 971055,
+      "increase_rate": 0.8614046863531186
+    },
+    {
+      "date": "2020-09-14",
+      "confirmed": 29344683,
+      "recovered": 19867489,
+      "deaths": 975643,
+      "increase_rate": 0.9175531997211076
+    },
+    {
+      "date": "2020-09-15",
+      "confirmed": 29625452,
+      "recovered": 20093776,
+      "deaths": 982216,
+      "increase_rate": 0.9567968411858462
+    },
+    {
+      "date": "2020-09-16",
+      "confirmed": 29930181,
+      "recovered": 20323253,
+      "deaths": 988076,
+      "increase_rate": 1.028605403218827
+    },
+    {
+      "date": "2020-09-17",
+      "confirmed": 30245688,
+      "recovered": 20543464,
+      "deaths": 993715,
+      "increase_rate": 1.0541433077200568
+    },
+    {
+      "date": "2020-09-18",
+      "confirmed": 30572221,
+      "recovered": 20794613,
+      "deaths": 999566,
+      "increase_rate": 1.079601826217344
+    },
+    {
+      "date": "2020-09-19",
+      "confirmed": 30865470,
+      "recovered": 21031598,
+      "deaths": 1004872,
+      "increase_rate": 0.9592008379109911
+    },
+    {
+      "date": "2020-09-20",
+      "confirmed": 31120345,
+      "recovered": 21268675,
+      "deaths": 1008828,
+      "increase_rate": 0.8257609555273255
+    },
+    {
+      "date": "2020-09-21",
+      "confirmed": 31379958,
+      "recovered": 21514153,
+      "deaths": 1013231,
+      "increase_rate": 0.8342227568492573
+    },
+    {
+      "date": "2020-09-22",
+      "confirmed": 31664541,
+      "recovered": 21733546,
+      "deaths": 1019388,
+      "increase_rate": 0.9068941392464579
+    },
+    {
+      "date": "2020-09-23",
+      "confirmed": 31976037,
+      "recovered": 21996959,
+      "deaths": 1025913,
+      "increase_rate": 0.9837376136290747
+    },
+    {
+      "date": "2020-09-24",
+      "confirmed": 32296990,
+      "recovered": 22252629,
+      "deaths": 1031593,
+      "increase_rate": 1.003729761758782
+    },
+    {
+      "date": "2020-09-25",
+      "confirmed": 32627024,
+      "recovered": 22491837,
+      "deaths": 1037605,
+      "increase_rate": 1.0218723168939272
+    },
+    {
+      "date": "2020-09-26",
+      "confirmed": 32912811,
+      "recovered": 22753980,
+      "deaths": 1043037,
+      "increase_rate": 0.8759211382564343
+    },
+    {
+      "date": "2020-09-27",
+      "confirmed": 33159736,
+      "recovered": 22967859,
+      "deaths": 1046878,
+      "increase_rate": 0.7502397774532232
+    },
+    {
+      "date": "2020-09-28",
+      "confirmed": 33422170,
+      "recovered": 23190401,
+      "deaths": 1050951,
+      "increase_rate": 0.7914236711655365
+    },
+    {
+      "date": "2020-09-29",
+      "confirmed": 33704894,
+      "recovered": 23431685,
+      "deaths": 1057046,
+      "increase_rate": 0.8459175451504196
+    },
+    {
+      "date": "2020-09-30",
+      "confirmed": 34029080,
+      "recovered": 23679903,
+      "deaths": 1063488,
+      "increase_rate": 0.9618365807647994
+    },
+    {
+      "date": "2020-10-01",
+      "confirmed": 34348139,
+      "recovered": 23901445,
+      "deaths": 1072373,
+      "increase_rate": 0.9376068938684208
+    },
+    {
+      "date": "2020-10-02",
+      "confirmed": 34677414,
+      "recovered": 24073730,
+      "deaths": 1077969,
+      "increase_rate": 0.9586400008454607
+    },
+    {
+      "date": "2020-10-03",
+      "confirmed": 34974941,
+      "recovered": 24329331,
+      "deaths": 1082692,
+      "increase_rate": 0.8579849696981442
+    },
+    {
+      "date": "2020-10-04",
+      "confirmed": 35234912,
+      "recovered": 24551490,
+      "deaths": 1086683,
+      "increase_rate": 0.7433064719108461
+    },
+    {
+      "date": "2020-10-05",
+      "confirmed": 35545699,
+      "recovered": 24788958,
+      "deaths": 1093722,
+      "increase_rate": 0.8820427875625175
+    },
+    {
+      "date": "2020-10-06",
+      "confirmed": 35861625,
+      "recovered": 25021584,
+      "deaths": 1099576,
+      "increase_rate": 0.8887882609932639
+    },
+    {
+      "date": "2020-10-07",
+      "confirmed": 36210456,
+      "recovered": 25276775,
+      "deaths": 1105467,
+      "increase_rate": 0.9727138689337139
+    },
+    {
+      "date": "2020-10-08",
+      "confirmed": 36569609,
+      "recovered": 25496281,
+      "deaths": 1111833,
+      "increase_rate": 0.9918488737065339
+    },
+    {
+      "date": "2020-10-09",
+      "confirmed": 36929540,
+      "recovered": 25703071,
+      "deaths": 1118024,
+      "increase_rate": 0.9842352976757285
+    },
+    {
+      "date": "2020-10-10",
+      "confirmed": 37285319,
+      "recovered": 25898476,
+      "deaths": 1122904,
+      "increase_rate": 0.9633994899476137
+    },
+    {
+      "date": "2020-10-11",
+      "confirmed": 37574472,
+      "recovered": 26121116,
+      "deaths": 1127028,
+      "increase_rate": 0.7755143519088572
+    },
+    {
+      "date": "2020-10-12",
+      "confirmed": 37863592,
+      "recovered": 26321235,
+      "deaths": 1131078,
+      "increase_rate": 0.7694585834765689
+    },
+    {
+      "date": "2020-10-13",
+      "confirmed": 38182789,
+      "recovered": 26513680,
+      "deaths": 1136463,
+      "increase_rate": 0.8430182746528644
+    },
+    {
+      "date": "2020-10-14",
+      "confirmed": 38562868,
+      "recovered": 26725965,
+      "deaths": 1142654,
+      "increase_rate": 0.9954196902693514
+    },
+    {
+      "date": "2020-10-15",
+      "confirmed": 38969780,
+      "recovered": 26933292,
+      "deaths": 1148837,
+      "increase_rate": 1.0551912269595716
+    },
+    {
+      "date": "2020-10-16",
+      "confirmed": 39379895,
+      "recovered": 27136306,
+      "deaths": 1155025,
+      "increase_rate": 1.052392392258822
+    },
+    {
+      "date": "2020-10-17",
+      "confirmed": 39752176,
+      "recovered": 27334589,
+      "deaths": 1160737,
+      "increase_rate": 0.9453580310460452
+    },
+    {
+      "date": "2020-10-18",
+      "confirmed": 40083148,
+      "recovered": 27536100,
+      "deaths": 1164590,
+      "increase_rate": 0.8325883845956006
+    },
+    {
+      "date": "2020-10-19",
+      "confirmed": 40456878,
+      "recovered": 27738631,
+      "deaths": 1169292,
+      "increase_rate": 0.9323868474601845
+    },
+    {
+      "date": "2020-10-20",
+      "confirmed": 40845321,
+      "recovered": 27950078,
+      "deaths": 1175943,
+      "increase_rate": 0.9601408195659586
+    },
+    {
+      "date": "2020-10-21",
+      "confirmed": 41284309,
+      "recovered": 28161300,
+      "deaths": 1182798,
+      "increase_rate": 1.0747571306882373
+    },
+    {
+      "date": "2020-10-22",
+      "confirmed": 41766204,
+      "recovered": 28388093,
+      "deaths": 1188695,
+      "increase_rate": 1.1672594544334023
+    },
+    {
+      "date": "2020-10-23",
+      "confirmed": 42259529,
+      "recovered": 28594827,
+      "deaths": 1195788,
+      "increase_rate": 1.181158335576774
+    },
+    {
+      "date": "2020-10-24",
+      "confirmed": 42716464,
+      "recovered": 28806408,
+      "deaths": 1201651,
+      "increase_rate": 1.0812590930675068
+    },
+    {
+      "date": "2020-10-25",
+      "confirmed": 43075336,
+      "recovered": 29003666,
+      "deaths": 1205906,
+      "increase_rate": 0.8401257182710629
+    },
+    {
+      "date": "2020-10-26",
+      "confirmed": 43558104,
+      "recovered": 29242801,
+      "deaths": 1211520,
+      "increase_rate": 1.120752720303795
+    },
+    {
+      "date": "2020-10-27",
+      "confirmed": 44025232,
+      "recovered": 29832506,
+      "deaths": 1218996,
+      "increase_rate": 1.0724250072960018
+    },
+    {
+      "date": "2020-10-28",
+      "confirmed": 44545397,
+      "recovered": 30098468,
+      "deaths": 1226179,
+      "increase_rate": 1.1815156363060166
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 45095600,
+      "recovered": 30345219,
+      "deaths": 1233380,
+      "increase_rate": 1.2351511874504115
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 45667520,
+      "recovered": 30600993,
+      "deaths": 1241057,
+      "increase_rate": 1.268239029971882
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 46140588,
+      "recovered": 30845322,
+      "deaths": 1247660,
+      "increase_rate": 1.035895971578925
+    },
+    {
+      "date": "2020-11-01",
+      "confirmed": 46578413,
+      "recovered": 31103269,
+      "deaths": 1252779,
+      "increase_rate": 0.9488934124549951
+    },
+    {
+      "date": "2020-11-02",
+      "confirmed": 47124212,
+      "recovered": 31383406,
+      "deaths": 1258854,
+      "increase_rate": 1.1717853074985618
+    },
+    {
+      "date": "2020-11-03",
+      "confirmed": 47687439,
+      "recovered": 31634979,
+      "deaths": 1268427,
+      "increase_rate": 1.1951966432881678
+    },
+    {
+      "date": "2020-11-04",
+      "confirmed": 48179325,
+      "recovered": 31914298,
+      "deaths": 1278499,
+      "increase_rate": 1.031479170017916
+    },
+    {
+      "date": "2020-11-05",
+      "confirmed": 48797426,
+      "recovered": 32217953,
+      "deaths": 1287166,
+      "increase_rate": 1.282917517005479
+    },
+    {
+      "date": "2020-11-06",
+      "confirmed": 49418108,
+      "recovered": 32506314,
+      "deaths": 1296318,
+      "increase_rate": 1.271956434751292
+    },
+    {
+      "date": "2020-11-07",
+      "confirmed": 50018687,
+      "recovered": 32805330,
+      "deaths": 1304068,
+      "increase_rate": 1.215301484225175
+    },
+    {
+      "date": "2020-11-08",
+      "confirmed": 50508065,
+      "recovered": 33058570,
+      "deaths": 1310158,
+      "increase_rate": 0.9783903363956755
+    },
+    {
+      "date": "2020-11-09",
+      "confirmed": 51015418,
+      "recovered": 33315623,
+      "deaths": 1317391,
+      "increase_rate": 1.0044989844691141
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 51584111,
+      "recovered": 33572983,
+      "deaths": 1327237,
+      "increase_rate": 1.1147473103131293
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 52207978,
+      "recovered": 33953207,
+      "deaths": 1337787,
+      "increase_rate": 1.2094169850092018
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 52849166,
+      "recovered": 34179446,
+      "deaths": 1347560,
+      "increase_rate": 1.2281417985580672
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 53511432,
+      "recovered": 34481578,
+      "deaths": 1357352,
+      "increase_rate": 1.2531247891404758
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 54098149,
+      "recovered": 34759397,
+      "deaths": 1366475,
+      "increase_rate": 1.096433001456586
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 54588232,
+      "recovered": 34990157,
+      "deaths": 1373087,
+      "increase_rate": 0.9059145443220248
+    },
+    {
+      "date": "2020-11-16",
+      "confirmed": 55110823,
+      "recovered": 35380887,
+      "deaths": 1380828,
+      "increase_rate": 0.9573327086321461
+    },
+    {
+      "date": "2020-11-17",
+      "confirmed": 55711730,
+      "recovered": 35814478,
+      "deaths": 1391876,
+      "increase_rate": 1.0903611437629956
+    },
+    {
+      "date": "2020-11-18",
+      "confirmed": 56333473,
+      "recovered": 36177588,
+      "deaths": 1403334,
+      "increase_rate": 1.116000167289725
+    },
+    {
+      "date": "2020-11-19",
+      "confirmed": 56987275,
+      "recovered": 36551887,
+      "deaths": 1414453,
+      "increase_rate": 1.1605923888271543
+    },
+    {
+      "date": "2020-11-20",
+      "confirmed": 57662075,
+      "recovered": 36907311,
+      "deaths": 1426213,
+      "increase_rate": 1.1841239996121942
+    },
+    {
+      "date": "2020-11-21",
+      "confirmed": 58256749,
+      "recovered": 37246581,
+      "deaths": 1435353,
+      "increase_rate": 1.0313087068059898
+    },
+    {
+      "date": "2020-11-22",
+      "confirmed": 58755072,
+      "recovered": 37520305,
+      "deaths": 1442824,
+      "increase_rate": 0.8553910208755384
+    },
+    {
+      "date": "2020-11-23",
+      "confirmed": 59284353,
+      "recovered": 37931518,
+      "deaths": 1451132,
+      "increase_rate": 0.9008260597485098
+    },
+    {
+      "date": "2020-11-24",
+      "confirmed": 59875565,
+      "recovered": 38303697,
+      "deaths": 1463736,
+      "increase_rate": 0.9972479584958952
+    },
+    {
+      "date": "2020-11-25",
+      "confirmed": 60492652,
+      "recovered": 38741107,
+      "deaths": 1475890,
+      "increase_rate": 1.0306157445027866
+    },
+    {
+      "date": "2020-11-26",
+      "confirmed": 61086033,
+      "recovered": 39107983,
+      "deaths": 1486891,
+      "increase_rate": 0.9809141778079097
+    },
+    {
+      "date": "2020-11-27",
+      "confirmed": 61780326,
+      "recovered": 39489609,
+      "deaths": 1498394,
+      "increase_rate": 1.1365822364009135
+    },
+    {
+      "date": "2020-11-28",
+      "confirmed": 62388284,
+      "recovered": 39849315,
+      "deaths": 1507860,
+      "increase_rate": 0.98406408538537
+    },
+    {
+      "date": "2020-11-29",
+      "confirmed": 62884434,
+      "recovered": 40167598,
+      "deaths": 1515172,
+      "increase_rate": 0.7952614949306828
+    },
+    {
+      "date": "2020-11-30",
+      "confirmed": 63386344,
+      "recovered": 40569854,
+      "deaths": 1523873,
+      "increase_rate": 0.7981466446847562
+    },
+    {
+      "date": "2020-12-01",
+      "confirmed": 64000159,
+      "recovered": 41046058,
+      "deaths": 1536532,
+      "increase_rate": 0.9683710421916746
+    },
+    {
+      "date": "2020-12-02",
+      "confirmed": 64639978,
+      "recovered": 41508984,
+      "deaths": 1549160,
+      "increase_rate": 0.9997147038337827
+    },
+    {
+      "date": "2020-12-03",
+      "confirmed": 65331254,
+      "recovered": 41935968,
+      "deaths": 1561779,
+      "increase_rate": 1.0694248689255432
+    },
+    {
+      "date": "2020-12-04",
+      "confirmed": 66028169,
+      "recovered": 42426585,
+      "deaths": 1574187,
+      "increase_rate": 1.066740583304891
+    },
+    {
+      "date": "2020-12-05",
+      "confirmed": 66672388,
+      "recovered": 42862533,
+      "deaths": 1584737,
+      "increase_rate": 0.9756729737576094
+    },
+    {
+      "date": "2020-12-06",
+      "confirmed": 67216584,
+      "recovered": 43178577,
+      "deaths": 1592557,
+      "increase_rate": 0.8162239516604685
+    },
+    {
+      "date": "2020-12-07",
+      "confirmed": 67750014,
+      "recovered": 43591716,
+      "deaths": 1600972,
+      "increase_rate": 0.7935987940119063
+    },
+    {
+      "date": "2020-12-08",
+      "confirmed": 68380626,
+      "recovered": 44032487,
+      "deaths": 1613132,
+      "increase_rate": 0.9307924275853287
+    },
+    {
+      "date": "2020-12-09",
+      "confirmed": 69046486,
+      "recovered": 44458967,
+      "deaths": 1625916,
+      "increase_rate": 0.9737553440941006
+    },
+    {
+      "date": "2020-12-10",
+      "confirmed": 70543194,
+      "recovered": 44950193,
+      "deaths": 1638408,
+      "increase_rate": 2.167681639873751
+    },
+    {
+      "date": "2020-12-11",
+      "confirmed": 71251444,
+      "recovered": 45428333,
+      "deaths": 1651556,
+      "increase_rate": 1.0039948006890644
+    },
+    {
+      "date": "2020-12-12",
+      "confirmed": 71901650,
+      "recovered": 46933276,
+      "deaths": 1662469,
+      "increase_rate": 0.9125513301877783
+    },
+    {
+      "date": "2020-12-13",
+      "confirmed": 72441140,
+      "recovered": 47328395,
+      "deaths": 1670406,
+      "increase_rate": 0.750316578270457
+    },
+    {
+      "date": "2020-12-14",
+      "confirmed": 72992271,
+      "recovered": 41338398,
+      "deaths": 1679234,
+      "increase_rate": 0.7607983529800885
+    },
+    {
+      "date": "2020-12-15",
+      "confirmed": 73639542,
+      "recovered": 41696562,
+      "deaths": 1692579,
+      "increase_rate": 0.8867664906603605
+    },
+    {
+      "date": "2020-12-16",
+      "confirmed": 74357765,
+      "recovered": 42058782,
+      "deaths": 1706670,
+      "increase_rate": 0.9753224700935809
+    },
+    {
+      "date": "2020-12-17",
+      "confirmed": 75096946,
+      "recovered": 42434191,
+      "deaths": 1719993,
+      "increase_rate": 0.9940871676280211
+    },
+    {
+      "date": "2020-12-18",
+      "confirmed": 75819294,
+      "recovered": 42751919,
+      "deaths": 1733005,
+      "increase_rate": 0.9618873182938757
+    },
+    {
+      "date": "2020-12-19",
+      "confirmed": 76455347,
+      "recovered": 43103505,
+      "deaths": 1744311,
+      "increase_rate": 0.8389065189660035
+    },
+    {
+      "date": "2020-12-20",
+      "confirmed": 77003179,
+      "recovered": 43380334,
+      "deaths": 1752546,
+      "increase_rate": 0.7165385044946562
+    },
+    {
+      "date": "2020-12-21",
+      "confirmed": 77549228,
+      "recovered": 43723554,
+      "deaths": 1761625,
+      "increase_rate": 0.7091252687113087
+    },
+    {
+      "date": "2020-12-22",
+      "confirmed": 78201068,
+      "recovered": 44086739,
+      "deaths": 1775566,
+      "increase_rate": 0.8405499536371916
+    },
+    {
+      "date": "2020-12-23",
+      "confirmed": 78883803,
+      "recovered": 44410879,
+      "deaths": 1789509,
+      "increase_rate": 0.8730507363403273
+    },
+    {
+      "date": "2020-12-24",
+      "confirmed": 79579153,
+      "recovered": 44725551,
+      "deaths": 1801705,
+      "increase_rate": 0.881486406024314
+    },
+    {
+      "date": "2020-12-25",
+      "confirmed": 80098228,
+      "recovered": 45017157,
+      "deaths": 1810601,
+      "increase_rate": 0.6522751002388779
+    },
+    {
+      "date": "2020-12-26",
+      "confirmed": 80605026,
+      "recovered": 45425321,
+      "deaths": 1818041,
+      "increase_rate": 0.6327206139941074
+    },
+    {
+      "date": "2020-12-27",
+      "confirmed": 81017977,
+      "recovered": 45717709,
+      "deaths": 1825789,
+      "increase_rate": 0.5123142073051375
+    },
+    {
+      "date": "2020-12-28",
+      "confirmed": 81516474,
+      "recovered": 46016135,
+      "deaths": 1834888,
+      "increase_rate": 0.6152918382546135
+    },
+    {
+      "date": "2020-12-29",
+      "confirmed": 82187305,
+      "recovered": 46369230,
+      "deaths": 1849717,
+      "increase_rate": 0.8229391766871565
+    },
+    {
+      "date": "2020-12-30",
+      "confirmed": 82913042,
+      "recovered": 46757475,
+      "deaths": 1865432,
+      "increase_rate": 0.8830281026978559
+    },
+    {
+      "date": "2020-12-31",
+      "confirmed": 83753075,
+      "recovered": 47055807,
+      "deaths": 1879122,
+      "increase_rate": 1.0131494150220661
+    },
+    {
+      "date": "2021-01-01",
+      "confirmed": 84341129,
+      "recovered": 47359111,
+      "deaths": 1889077,
+      "increase_rate": 0.7021282502164845
+    },
+    {
+      "date": "2021-01-02",
+      "confirmed": 84921890,
+      "recovered": 47614296,
+      "deaths": 1897496,
+      "increase_rate": 0.6885857551183598
+    },
+    {
+      "date": "2021-01-03",
+      "confirmed": 85442114,
+      "recovered": 47882778,
+      "deaths": 1905134,
+      "increase_rate": 0.6125911705450738
+    },
+    {
+      "date": "2021-01-04",
+      "confirmed": 85998532,
+      "recovered": 48173186,
+      "deaths": 1914530,
+      "increase_rate": 0.6512221830091891
+    },
+    {
+      "date": "2021-01-05",
+      "confirmed": 86740208,
+      "recovered": 48488547,
+      "deaths": 1929931,
+      "increase_rate": 0.8624286749452885
+    },
+    {
+      "date": "2021-01-06",
+      "confirmed": 87531297,
+      "recovered": 48801672,
+      "deaths": 1944927,
+      "increase_rate": 0.9120211009869841
+    },
+    {
+      "date": "2021-01-07",
+      "confirmed": 88402136,
+      "recovered": 49125603,
+      "deaths": 1959982,
+      "increase_rate": 0.9948887196313337
+    },
+    {
+      "date": "2021-01-08",
+      "confirmed": 89238832,
+      "recovered": 49422866,
+      "deaths": 1975521,
+      "increase_rate": 0.9464658184277358
+    },
+    {
+      "date": "2021-01-09",
+      "confirmed": 89996683,
+      "recovered": 49753111,
+      "deaths": 1988855,
+      "increase_rate": 0.8492390397937973
+    },
+    {
+      "date": "2021-01-10",
+      "confirmed": 90598523,
+      "recovered": 50023661,
+      "deaths": 1997796,
+      "increase_rate": 0.6687357577389825
+    },
+    {
+      "date": "2021-01-11",
+      "confirmed": 91212596,
+      "recovered": 50313949,
+      "deaths": 2007354,
+      "increase_rate": 0.6777958179296146
+    },
+    {
+      "date": "2021-01-12",
+      "confirmed": 91904578,
+      "recovered": 50657506,
+      "deaths": 2024302,
+      "increase_rate": 0.7586474131270203
+    },
+    {
+      "date": "2021-01-13",
+      "confirmed": 92648667,
+      "recovered": 51023567,
+      "deaths": 2041022,
+      "increase_rate": 0.8096321382379885
+    },
+    {
+      "date": "2021-01-14",
+      "confirmed": 93409890,
+      "recovered": 51396412,
+      "deaths": 2056610,
+      "increase_rate": 0.8216232619946923
+    },
+    {
+      "date": "2021-01-15",
+      "confirmed": 94194314,
+      "recovered": 51717034,
+      "deaths": 2072243,
+      "increase_rate": 0.8397654680890857
+    },
+    {
+      "date": "2021-01-16",
+      "confirmed": 94852162,
+      "recovered": 52034089,
+      "deaths": 2086164,
+      "increase_rate": 0.6983945973639131
+    },
+    {
+      "date": "2021-01-17",
+      "confirmed": 95379938,
+      "recovered": 52349804,
+      "deaths": 2095253,
+      "increase_rate": 0.5564195785015422
+    },
+    {
+      "date": "2021-01-18",
+      "confirmed": 95896595,
+      "recovered": 52668557,
+      "deaths": 2104872,
+      "increase_rate": 0.5416830948244065
+    },
+    {
+      "date": "2021-01-19",
+      "confirmed": 96489830,
+      "recovered": 53071501,
+      "deaths": 2120725,
+      "increase_rate": 0.6186194619318861
+    },
+    {
+      "date": "2021-01-20",
+      "confirmed": 97176788,
+      "recovered": 53399272,
+      "deaths": 2138868,
+      "increase_rate": 0.7119486063971716
+    },
+    {
+      "date": "2021-01-21",
+      "confirmed": 97846151,
+      "recovered": 53765411,
+      "deaths": 2156151,
+      "increase_rate": 0.6888095539852583
+    },
+    {
+      "date": "2021-01-22",
+      "confirmed": 98510412,
+      "recovered": 54147168,
+      "deaths": 2172232,
+      "increase_rate": 0.6788831172316631
+    },
+    {
+      "date": "2021-01-23",
+      "confirmed": 99087798,
+      "recovered": 54463661,
+      "deaths": 2186850,
+      "increase_rate": 0.5861167243925445
+    },
+    {
+      "date": "2021-01-24",
+      "confirmed": 99549884,
+      "recovered": 54774618,
+      "deaths": 2195957,
+      "increase_rate": 0.46633996246439946
+    },
+    {
+      "date": "2021-01-25",
+      "confirmed": 100030792,
+      "recovered": 55089059,
+      "deaths": 2206362,
+      "increase_rate": 0.48308243131654477
+    },
+    {
+      "date": "2021-01-26",
+      "confirmed": 100592320,
+      "recovered": 55418602,
+      "deaths": 2224173,
+      "increase_rate": 0.5613551475229748
+    },
+    {
+      "date": "2021-01-27",
+      "confirmed": 101193735,
+      "recovered": 55759371,
+      "deaths": 2241615,
+      "increase_rate": 0.5978736746503113
+    },
+    {
+      "date": "2021-01-28",
+      "confirmed": 101808776,
+      "recovered": 56075030,
+      "deaths": 2258177,
+      "increase_rate": 0.6077856499713149
+    },
+    {
+      "date": "2021-01-29",
+      "confirmed": 102398247,
+      "recovered": 56439137,
+      "deaths": 2273979,
+      "increase_rate": 0.5789982191712039
+    },
+    {
+      "date": "2021-01-30",
+      "confirmed": 102913518,
+      "recovered": 56790303,
+      "deaths": 2287429,
+      "increase_rate": 0.5032029503395697
+    },
+    {
+      "date": "2021-01-31",
+      "confirmed": 103310123,
+      "recovered": 57079202,
+      "deaths": 2296527,
+      "increase_rate": 0.38537697253727154
+    },
+    {
+      "date": "2021-02-01",
+      "confirmed": 103752688,
+      "recovered": 57351844,
+      "deaths": 2306150,
+      "increase_rate": 0.42838493184254556
+    },
+    {
+      "date": "2021-02-02",
+      "confirmed": 104217880,
+      "recovered": 57702034,
+      "deaths": 2321484,
+      "increase_rate": 0.4483662148589345
+    },
+    {
+      "date": "2021-02-03",
+      "confirmed": 104743426,
+      "recovered": 58031881,
+      "deaths": 2337679,
+      "increase_rate": 0.5042762335983039
+    },
+    {
+      "date": "2021-02-04",
+      "confirmed": 105215449,
+      "recovered": 58325870,
+      "deaths": 2350625,
+      "increase_rate": 0.45064689787786777
+    },
+    {
+      "date": "2021-02-05",
+      "confirmed": 105752476,
+      "recovered": 58607157,
+      "deaths": 2367926,
+      "increase_rate": 0.5104069840542143
+    },
+    {
+      "date": "2021-02-06",
+      "confirmed": 106188323,
+      "recovered": 58901714,
+      "deaths": 2379783,
+      "increase_rate": 0.4121388136576584
+    },
+    {
+      "date": "2021-02-07",
+      "confirmed": 106540137,
+      "recovered": 59179149,
+      "deaths": 2387143,
+      "increase_rate": 0.33131138157252943
+    },
+    {
+      "date": "2021-02-08",
+      "confirmed": 106879564,
+      "recovered": 59411983,
+      "deaths": 2396212,
+      "increase_rate": 0.3185907298016709
+    },
+    {
+      "date": "2021-02-09",
+      "confirmed": 107286701,
+      "recovered": 59783591,
+      "deaths": 2411279,
+      "increase_rate": 0.3809306332873888
+    },
+    {
+      "date": "2021-02-10",
+      "confirmed": 107727017,
+      "recovered": 60052899,
+      "deaths": 2425448,
+      "increase_rate": 0.41041060625025655
+    },
+    {
+      "date": "2021-02-11",
+      "confirmed": 108171909,
+      "recovered": 60328984,
+      "deaths": 2439315,
+      "increase_rate": 0.4129808959622451
+    },
+    {
+      "date": "2021-02-12",
+      "confirmed": 108602636,
+      "recovered": 60616583,
+      "deaths": 2452310,
+      "increase_rate": 0.3981874813728211
+    },
+    {
+      "date": "2021-02-13",
+      "confirmed": 108983366,
+      "recovered": 60862826,
+      "deaths": 2463034,
+      "increase_rate": 0.35057160122706416
+    },
+    {
+      "date": "2021-02-14",
+      "confirmed": 109292190,
+      "recovered": 61058257,
+      "deaths": 2469761,
+      "increase_rate": 0.2833680141609867
+    },
+    {
+      "date": "2021-02-15",
+      "confirmed": 109572409,
+      "recovered": 61346870,
+      "deaths": 2477164,
+      "increase_rate": 0.2563943498615958
+    },
+    {
+      "date": "2021-02-16",
+      "confirmed": 109931831,
+      "recovered": 61582275,
+      "deaths": 2488491,
+      "increase_rate": 0.3280223582562651
+    },
+    {
+      "date": "2021-02-17",
+      "confirmed": 110318342,
+      "recovered": 61876216,
+      "deaths": 2500087,
+      "increase_rate": 0.35159152402364696
+    },
+    {
+      "date": "2021-02-18",
+      "confirmed": 110729640,
+      "recovered": 62112834,
+      "deaths": 2512001,
+      "increase_rate": 0.3728283008459283
+    },
+    {
+      "date": "2021-02-19",
+      "confirmed": 111139580,
+      "recovered": 62347470,
+      "deaths": 2523693,
+      "increase_rate": 0.37021704396401905
+    },
+    {
+      "date": "2021-02-20",
+      "confirmed": 111515230,
+      "recovered": 62616686,
+      "deaths": 2532767,
+      "increase_rate": 0.3379983980504515
+    },
+    {
+      "date": "2021-02-21",
+      "confirmed": 111834482,
+      "recovered": 62833943,
+      "deaths": 2539343,
+      "increase_rate": 0.2862855593805438
+    },
+    {
+      "date": "2021-02-22",
+      "confirmed": 112129135,
+      "recovered": 63016513,
+      "deaths": 2546356,
+      "increase_rate": 0.2634724055859623
+    },
+    {
+      "date": "2021-02-23",
+      "confirmed": 112522443,
+      "recovered": 63295143,
+      "deaths": 2558026,
+      "increase_rate": 0.35076343003983756
+    },
+    {
+      "date": "2021-02-24",
+      "confirmed": 112967480,
+      "recovered": 63504602,
+      "deaths": 2570562,
+      "increase_rate": 0.39550954292736074
+    },
+    {
+      "date": "2021-02-25",
+      "confirmed": 113421072,
+      "recovered": 63732294,
+      "deaths": 2581421,
+      "increase_rate": 0.401524403306155
+    },
+    {
+      "date": "2021-02-26",
+      "confirmed": 113863138,
+      "recovered": 63992562,
+      "deaths": 2591996,
+      "increase_rate": 0.3897564995682637
+    },
+    {
+      "date": "2021-02-27",
+      "confirmed": 114260988,
+      "recovered": 64243284,
+      "deaths": 2600691,
+      "increase_rate": 0.3494107109537065
+    },
+    {
+      "date": "2021-02-28",
+      "confirmed": 114569813,
+      "recovered": 64418461,
+      "deaths": 2607029,
+      "increase_rate": 0.27028035150545
+    },
+    {
+      "date": "2021-03-01",
+      "confirmed": 114874850,
+      "recovered": 64633387,
+      "deaths": 2614416,
+      "increase_rate": 0.2662455249010488
+    },
+    {
+      "date": "2021-03-02",
+      "confirmed": 115188425,
+      "recovered": 64903491,
+      "deaths": 2624772,
+      "increase_rate": 0.2729709766759217
+    },
+    {
+      "date": "2021-03-03",
+      "confirmed": 115630622,
+      "recovered": 65132899,
+      "deaths": 2636546,
+      "increase_rate": 0.38389013479435974
+    },
+    {
+      "date": "2021-03-04",
+      "confirmed": 116089417,
+      "recovered": 65383179,
+      "deaths": 2647015,
+      "increase_rate": 0.3967763833355493
+    },
+    {
+      "date": "2021-03-05",
+      "confirmed": 116539442,
+      "recovered": 65609539,
+      "deaths": 2657485,
+      "increase_rate": 0.3876537686462841
+    },
+    {
+      "date": "2021-03-06",
+      "confirmed": 116953953,
+      "recovered": 65846042,
+      "deaths": 2665755,
+      "increase_rate": 0.35568301416785575
+    },
+    {
+      "date": "2021-03-07",
+      "confirmed": 117327861,
+      "recovered": 66084362,
+      "deaths": 2671692,
+      "increase_rate": 0.31970531171357675
+    },
+    {
+      "date": "2021-03-08",
+      "confirmed": 117632319,
+      "recovered": 66358920,
+      "deaths": 2678717,
+      "increase_rate": 0.25949335256354844
+    },
+    {
+      "date": "2021-03-09",
+      "confirmed": 118046564,
+      "recovered": 66621153,
+      "deaths": 2689280,
+      "increase_rate": 0.3521523706422892
+    },
+    {
+      "date": "2021-03-10",
+      "confirmed": 118505479,
+      "recovered": 66856509,
+      "deaths": 2699457,
+      "increase_rate": 0.388757609243078
+    },
+    {
+      "date": "2021-03-11",
+      "confirmed": 118995836,
+      "recovered": 67129126,
+      "deaths": 2709693,
+      "increase_rate": 0.41378424368041244
+    },
+    {
+      "date": "2021-03-12",
+      "confirmed": 119485614,
+      "recovered": 67397682,
+      "deaths": 2719584,
+      "increase_rate": 0.4115925535411171
+    },
+    {
+      "date": "2021-03-13",
+      "confirmed": 119941781,
+      "recovered": 67650214,
+      "deaths": 2728176,
+      "increase_rate": 0.3817756671527001
+    },
+    {
+      "date": "2021-03-14",
+      "confirmed": 120306971,
+      "recovered": 67895902,
+      "deaths": 2733988,
+      "increase_rate": 0.30447271747615623
+    },
+    {
+      "date": "2021-03-15",
+      "confirmed": 120659926,
+      "recovered": 68185781,
+      "deaths": 2741454,
+      "increase_rate": 0.29337867711755455
+    },
+    {
+      "date": "2021-03-16",
+      "confirmed": 121126545,
+      "recovered": 68452266,
+      "deaths": 2752081,
+      "increase_rate": 0.3867224317707604
+    },
+    {
+      "date": "2021-03-17",
+      "confirmed": 121672187,
+      "recovered": 68716802,
+      "deaths": 2762677,
+      "increase_rate": 0.4504726854051686
+    },
+    {
+      "date": "2021-03-18",
+      "confirmed": 122220797,
+      "recovered": 68985878,
+      "deaths": 2773399,
+      "increase_rate": 0.45089187062939867
+    },
+    {
+      "date": "2021-03-19",
+      "confirmed": 122784013,
+      "recovered": 69264939,
+      "deaths": 2784225,
+      "increase_rate": 0.4608184644713125
+    },
+    {
+      "date": "2021-03-20",
+      "confirmed": 123283226,
+      "recovered": 69523150,
+      "deaths": 2793008,
+      "increase_rate": 0.40657817561313947
+    },
+    {
+      "date": "2021-03-21",
+      "confirmed": 123722665,
+      "recovered": 69803249,
+      "deaths": 2801454,
+      "increase_rate": 0.35644670751883145
+    },
+    {
+      "date": "2021-03-22",
+      "confirmed": 124142574,
+      "recovered": 70137878,
+      "deaths": 2809326,
+      "increase_rate": 0.33939537270717535
+    },
+    {
+      "date": "2021-03-23",
+      "confirmed": 124649657,
+      "recovered": 70451020,
+      "deaths": 2820817,
+      "increase_rate": 0.408468250384433
+    },
+    {
+      "date": "2021-03-24",
+      "confirmed": 125279444,
+      "recovered": 70786662,
+      "deaths": 2831499,
+      "increase_rate": 0.5052456742821202
+    },
+    {
+      "date": "2021-03-25",
+      "confirmed": 125931456,
+      "recovered": 71098479,
+      "deaths": 2843056,
+      "increase_rate": 0.520446115645277
+    },
+    {
+      "date": "2021-03-26",
+      "confirmed": 126572141,
+      "recovered": 71463065,
+      "deaths": 2855824,
+      "increase_rate": 0.5087569224959966
+    },
+    {
+      "date": "2021-03-27",
+      "confirmed": 127157204,
+      "recovered": 71768318,
+      "deaths": 2866034,
+      "increase_rate": 0.4622367887416869
+    },
+    {
+      "date": "2021-03-28",
+      "confirmed": 127649180,
+      "recovered": 72097106,
+      "deaths": 2873284,
+      "increase_rate": 0.3869037573364699
+    },
+    {
+      "date": "2021-03-29",
+      "confirmed": 128108148,
+      "recovered": 72401542,
+      "deaths": 2881882,
+      "increase_rate": 0.3595542094355796
+    },
+    {
+      "date": "2021-03-30",
+      "confirmed": 128669690,
+      "recovered": 72736785,
+      "deaths": 2893798,
+      "increase_rate": 0.4383343360798565
+    },
+    {
+      "date": "2021-03-31",
+      "confirmed": 129344579,
+      "recovered": 73119294,
+      "deaths": 2906701,
+      "increase_rate": 0.5245128048416065
+    },
+    {
+      "date": "2021-04-01",
+      "confirmed": 130054616,
+      "recovered": 73464080,
+      "deaths": 2918988,
+      "increase_rate": 0.5489499486484084
+    },
+    {
+      "date": "2021-04-02",
+      "confirmed": 130699335,
+      "recovered": 73784287,
+      "deaths": 2929619,
+      "increase_rate": 0.4957294249363667
+    },
+    {
+      "date": "2021-04-03",
+      "confirmed": 131240249,
+      "recovered": 74150288,
+      "deaths": 2938932,
+      "increase_rate": 0.41386132530819686
+    },
+    {
+      "date": "2021-04-04",
+      "confirmed": 131799592,
+      "recovered": 74498476,
+      "deaths": 2946314,
+      "increase_rate": 0.4261977588902624
+    },
+    {
+      "date": "2021-04-05",
+      "confirmed": 132294751,
+      "recovered": 74846289,
+      "deaths": 2954562,
+      "increase_rate": 0.37569084432370625
+    },
+    {
+      "date": "2021-04-06",
+      "confirmed": 132901342,
+      "recovered": 75216285,
+      "deaths": 2967002,
+      "increase_rate": 0.4585147902050929
+    },
+    {
+      "date": "2021-04-07",
+      "confirmed": 133565619,
+      "recovered": 75699590,
+      "deaths": 2982385,
+      "increase_rate": 0.4998271575015398
+    },
+    {
+      "date": "2021-04-08",
+      "confirmed": 134401976,
+      "recovered": 76094849,
+      "deaths": 2996720,
+      "increase_rate": 0.6261768606784954
+    },
+    {
+      "date": "2021-04-09",
+      "confirmed": 135149458,
+      "recovered": 76548562,
+      "deaths": 3011092,
+      "increase_rate": 0.5561540255926
+    },
+    {
+      "date": "2021-04-10",
+      "confirmed": 135820843,
+      "recovered": 76933556,
+      "deaths": 3024124,
+      "increase_rate": 0.4967722475069046
+    },
+    {
+      "date": "2021-04-11",
+      "confirmed": 136529367,
+      "recovered": 77464028,
+      "deaths": 3033212,
+      "increase_rate": 0.5216607292004513
+    },
+    {
+      "date": "2021-04-12",
+      "confirmed": 137142099,
+      "recovered": 77858760,
+      "deaths": 3043098,
+      "increase_rate": 0.44879135783292684
+    },
+    {
+      "date": "2021-04-13",
+      "confirmed": 137906430,
+      "recovered": 78345222,
+      "deaths": 3056919,
+      "increase_rate": 0.5573277684775702
+    },
+    {
+      "date": "2021-04-14",
+      "confirmed": 138719032,
+      "recovered": 78792112,
+      "deaths": 3071018,
+      "increase_rate": 0.589241560382645
+    },
+    {
+      "date": "2021-04-15",
+      "confirmed": 139539495,
+      "recovered": 79236514,
+      "deaths": 3084676,
+      "increase_rate": 0.5914566935559354
+    },
+    {
+      "date": "2021-04-16",
+      "confirmed": 140399677,
+      "recovered": 79740631,
+      "deaths": 3098064,
+      "increase_rate": 0.6164433947535786
+    },
+    {
+      "date": "2021-04-17",
+      "confirmed": 141193459,
+      "recovered": 80259167,
+      "deaths": 3110669,
+      "increase_rate": 0.5653730955520645
+    },
+    {
+      "date": "2021-04-18",
+      "confirmed": 141893297,
+      "recovered": 80839358,
+      "deaths": 3119780,
+      "increase_rate": 0.49565893842150294
+    },
+    {
+      "date": "2021-04-19",
+      "confirmed": 142583039,
+      "recovered": 81374733,
+      "deaths": 3130880,
+      "increase_rate": 0.48609907203720837
+    },
+    {
+      "date": "2021-04-20",
+      "confirmed": 143422747,
+      "recovered": 81979570,
+      "deaths": 3145202,
+      "increase_rate": 0.5889255874255843
+    },
+    {
+      "date": "2021-04-21",
+      "confirmed": 144311955,
+      "recovered": 82491870,
+      "deaths": 3159936,
+      "increase_rate": 0.6199909139935801
+    },
+    {
+      "date": "2021-04-22",
+      "confirmed": 145211836,
+      "recovered": 83128166,
+      "deaths": 3173812,
+      "increase_rate": 0.623566495235963
+    },
+    {
+      "date": "2021-04-23",
+      "confirmed": 146119369,
+      "recovered": 83767998,
+      "deaths": 3189079,
+      "increase_rate": 0.6249717826031757
+    },
+    {
+      "date": "2021-04-24",
+      "confirmed": 146943967,
+      "recovered": 84344289,
+      "deaths": 3202201,
+      "increase_rate": 0.5643317553609201
+    },
+    {
+      "date": "2021-04-25",
+      "confirmed": 147672696,
+      "recovered": 84878103,
+      "deaths": 3212951,
+      "increase_rate": 0.49592304800101117
+    },
+    {
+      "date": "2021-04-26",
+      "confirmed": 148360462,
+      "recovered": 85565469,
+      "deaths": 3224541,
+      "increase_rate": 0.4657367398506762
+    },
+    {
+      "date": "2021-04-27",
+      "confirmed": 149199958,
+      "recovered": 86246373,
+      "deaths": 3239557,
+      "increase_rate": 0.5658488715140292
+    },
+    {
+      "date": "2021-04-28",
+      "confirmed": 150098583,
+      "recovered": 86843038,
+      "deaths": 3255535,
+      "increase_rate": 0.6022957459545665
+    },
+    {
+      "date": "2021-04-29",
+      "confirmed": 150993610,
+      "recovered": 87550354,
+      "deaths": 3271268,
+      "increase_rate": 0.5962927711316236
+    },
+    {
+      "date": "2021-04-30",
+      "confirmed": 151885385,
+      "recovered": 88236950,
+      "deaths": 3285680,
+      "increase_rate": 0.5906044633279514
+    },
+    {
+      "date": "2021-05-01",
+      "confirmed": 152680343,
+      "recovered": 88919400,
+      "deaths": 3298710,
+      "increase_rate": 0.5233933468977282
+    },
+    {
+      "date": "2021-05-02",
+      "confirmed": 153367519,
+      "recovered": 89612414,
+      "deaths": 3309013,
+      "increase_rate": 0.45007496479098164
+    },
+    {
+      "date": "2021-05-03",
+      "confirmed": 154056690,
+      "recovered": 90255903,
+      "deaths": 3320659,
+      "increase_rate": 0.4493591632006514
+    },
+    {
+      "date": "2021-05-04",
+      "confirmed": 154842345,
+      "recovered": 90912803,
+      "deaths": 3334777,
+      "increase_rate": 0.5099778529578949
+    },
+    {
+      "date": "2021-05-05",
+      "confirmed": 155684714,
+      "recovered": 91626285,
+      "deaths": 3349654,
+      "increase_rate": 0.5440172066626865
+    },
+    {
+      "date": "2021-05-06",
+      "confirmed": 156557290,
+      "recovered": 92301897,
+      "deaths": 3364262,
+      "increase_rate": 0.5604763483716199
+    },
+    {
+      "date": "2021-05-07",
+      "confirmed": 157392278,
+      "recovered": 92998026,
+      "deaths": 3378783,
+      "increase_rate": 0.5333434169689575
+    },
+    {
+      "date": "2021-05-08",
+      "confirmed": 158181221,
+      "recovered": 93709031,
+      "deaths": 3392088,
+      "increase_rate": 0.501259026189328
+    },
+    {
+      "date": "2021-05-09",
+      "confirmed": 158830526,
+      "recovered": 94371824,
+      "deaths": 3402507,
+      "increase_rate": 0.4104817221002486
+    },
+    {
+      "date": "2021-05-10",
+      "confirmed": 159455449,
+      "recovered": 95000510,
+      "deaths": 3413570,
+      "increase_rate": 0.3934527044253446
+    },
+    {
+      "date": "2021-05-11",
+      "confirmed": 160181621,
+      "recovered": 95751514,
+      "deaths": 3427762,
+      "increase_rate": 0.45540745365183477
+    },
+    {
+      "date": "2021-05-12",
+      "confirmed": 160949550,
+      "recovered": 96399063,
+      "deaths": 3441913,
+      "increase_rate": 0.47941143010408166
+    },
+    {
+      "date": "2021-05-13",
+      "confirmed": 161684855,
+      "recovered": 97089180,
+      "deaths": 3455377,
+      "increase_rate": 0.45685433727525177
+    },
+    {
+      "date": "2021-05-14",
+      "confirmed": 162394780,
+      "recovered": 97754527,
+      "deaths": 3468377,
+      "increase_rate": 0.4390794672760167
+    },
+    {
+      "date": "2021-05-15",
+      "confirmed": 163026598,
+      "recovered": 98397064,
+      "deaths": 3480647,
+      "increase_rate": 0.3890629982072084
+    },
+    {
+      "date": "2021-05-16",
+      "confirmed": 163573172,
+      "recovered": 99064468,
+      "deaths": 3490915,
+      "increase_rate": 0.3352667642613753
+    },
+    {
+      "date": "2021-05-17",
+      "confirmed": 164116235,
+      "recovered": 99808930,
+      "deaths": 3502229,
+      "increase_rate": 0.3320000421585026
+    },
+    {
+      "date": "2021-05-18",
+      "confirmed": 164736006,
+      "recovered": 100552043,
+      "deaths": 3516310,
+      "increase_rate": 0.3776414929333469
+    },
+    {
+      "date": "2021-05-19",
+      "confirmed": 165408800,
+      "recovered": 101250070,
+      "deaths": 3529788,
+      "increase_rate": 0.408407376344914
+    },
+    {
+      "date": "2021-05-20",
+      "confirmed": 165690919,
+      "recovered": 101886759,
+      "deaths": 3542965,
+      "increase_rate": 0.17055864016908412
+    },
+    {
+      "date": "2021-05-21",
+      "confirmed": 166317397,
+      "recovered": 102501547,
+      "deaths": 3555935,
+      "increase_rate": 0.3781003834012171
+    },
+    {
+      "date": "2021-05-22",
+      "confirmed": 166890042,
+      "recovered": 103118308,
+      "deaths": 3567369,
+      "increase_rate": 0.3443085391722431
+    },
+    {
+      "date": "2021-05-23",
+      "confirmed": 167371567,
+      "recovered": 103620279,
+      "deaths": 3577194,
+      "increase_rate": 0.28852829936971314
+    },
+    {
+      "date": "2021-05-24",
+      "confirmed": 167822262,
+      "recovered": 104247871,
+      "deaths": 3586314,
+      "increase_rate": 0.26927811460353956
+    },
+    {
+      "date": "2021-05-25",
+      "confirmed": 168356595,
+      "recovered": 104824934,
+      "deaths": 3599276,
+      "increase_rate": 0.3183922047243053
+    },
+    {
+      "date": "2021-05-26",
+      "confirmed": 168925182,
+      "recovered": 105380747,
+      "deaths": 3612081,
+      "increase_rate": 0.3377277854781988
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": 169472359,
+      "recovered": 106078105,
+      "deaths": 3625015,
+      "increase_rate": 0.3239167739952472
+    },
+    {
+      "date": "2021-05-28",
+      "confirmed": 169977978,
+      "recovered": 106633068,
+      "deaths": 3637016,
+      "increase_rate": 0.29834894786588767
+    },
+    {
+      "date": "2021-05-29",
+      "confirmed": 170458538,
+      "recovered": 107140668,
+      "deaths": 3647820,
+      "increase_rate": 0.28271897669002743
+    },
+    {
+      "date": "2021-05-30",
+      "confirmed": 170848636,
+      "recovered": 107630597,
+      "deaths": 3656202,
+      "increase_rate": 0.22885213294508017
+    },
+    {
+      "date": "2021-05-31",
+      "confirmed": 171235461,
+      "recovered": 108159766,
+      "deaths": 3664871,
+      "increase_rate": 0.22641386496056076
+    },
+    {
+      "date": "2021-06-01",
+      "confirmed": 171695471,
+      "recovered": 108743649,
+      "deaths": 3680082,
+      "increase_rate": 0.2686417855936978
+    },
+    {
+      "date": "2021-06-02",
+      "confirmed": 172183117,
+      "recovered": 109272023,
+      "deaths": 3691980,
+      "increase_rate": 0.28401797505771137
+    },
+    {
+      "date": "2021-06-03",
+      "confirmed": 172663902,
+      "recovered": 109701213,
+      "deaths": 3702144,
+      "increase_rate": 0.27922888630248227
+    },
+    {
+      "date": "2021-06-04",
+      "confirmed": 173089139,
+      "recovered": 110226715,
+      "deaths": 3712787,
+      "increase_rate": 0.2462801981620918
+    },
+    {
+      "date": "2021-06-05",
+      "confirmed": 173486079,
+      "recovered": 110704845,
+      "deaths": 3722183,
+      "increase_rate": 0.22932692501289753
+    },
+    {
+      "date": "2021-06-06",
+      "confirmed": 173809303,
+      "recovered": 111146371,
+      "deaths": 3729461,
+      "increase_rate": 0.1863112025259387
+    },
+    {
+      "date": "2021-06-07",
+      "confirmed": 174130990,
+      "recovered": 111568368,
+      "deaths": 3737520,
+      "increase_rate": 0.18508042690902454
+    },
+    {
+      "date": "2021-06-08",
+      "confirmed": 174501789,
+      "recovered": 111983104,
+      "deaths": 3748170,
+      "increase_rate": 0.21294256697213976
+    },
+    {
+      "date": "2021-06-09",
+      "confirmed": 174920328,
+      "recovered": 112435799,
+      "deaths": 3758323,
+      "increase_rate": 0.2398479708422932
+    },
+    {
+      "date": "2021-06-10",
+      "confirmed": 175373823,
+      "recovered": 112849488,
+      "deaths": 3774292,
+      "increase_rate": 0.25925803203387543
+    },
+    {
+      "date": "2021-06-11",
+      "confirmed": 175796382,
+      "recovered": 113225020,
+      "deaths": 3786030,
+      "increase_rate": 0.2409475899946596
+    },
+    {
+      "date": "2021-06-12",
+      "confirmed": 176164980,
+      "recovered": 113563994,
+      "deaths": 3795834,
+      "increase_rate": 0.20967325709808976
+    },
+    {
+      "date": "2021-06-13",
+      "confirmed": 176467978,
+      "recovered": 113993655,
+      "deaths": 3805101,
+      "increase_rate": 0.17199672715882577
+    },
+    {
+      "date": "2021-06-14",
+      "confirmed": 176777436,
+      "recovered": 114340429,
+      "deaths": 3813079,
+      "increase_rate": 0.1753621271730104
+    },
+    {
+      "date": "2021-06-15",
+      "confirmed": 177152356,
+      "recovered": 114800574,
+      "deaths": 3823828,
+      "increase_rate": 0.21208589087127616
+    },
+    {
+      "date": "2021-06-16",
+      "confirmed": 177541331,
+      "recovered": 115149801,
+      "deaths": 3833886,
+      "increase_rate": 0.21957088733270927
+    },
+    {
+      "date": "2021-06-17",
+      "confirmed": 177937632,
+      "recovered": 115530279,
+      "deaths": 3843207,
+      "increase_rate": 0.22321619296635778
+    },
+    {
+      "date": "2021-06-18",
+      "confirmed": 178341062,
+      "recovered": 115849842,
+      "deaths": 3852407,
+      "increase_rate": 0.22672550795775456
+    },
+    {
+      "date": "2021-06-19",
+      "confirmed": 178689527,
+      "recovered": 116181692,
+      "deaths": 3860570,
+      "increase_rate": 0.19539246659863446
+    },
+    {
+      "date": "2021-06-20",
+      "confirmed": 178992964,
+      "recovered": 116446786,
+      "deaths": 3867304,
+      "increase_rate": 0.1698124143559908
+    },
+    {
+      "date": "2021-06-21",
+      "confirmed": 179289570,
+      "recovered": 116804004,
+      "deaths": 3874286,
+      "increase_rate": 0.16570818951296878
+    },
+    {
+      "date": "2021-06-22",
+      "confirmed": 179699866,
+      "recovered": 117107408,
+      "deaths": 3883209,
+      "increase_rate": 0.22884543702123886
+    },
+    {
+      "date": "2021-06-23",
+      "confirmed": 180096920,
+      "recovered": 117507151,
+      "deaths": 3892588,
+      "increase_rate": 0.22095397667130146
+    },
+    {
+      "date": "2021-06-24",
+      "confirmed": 180506291,
+      "recovered": 117796862,
+      "deaths": 3901240,
+      "increase_rate": 0.22730594171182938
+    },
+    {
+      "date": "2021-06-25",
+      "confirmed": 180924286,
+      "recovered": 118125509,
+      "deaths": 3910471,
+      "increase_rate": 0.23156810639912823
+    },
+    {
+      "date": "2021-06-26",
+      "confirmed": 181287479,
+      "recovered": 118420068,
+      "deaths": 3917993,
+      "increase_rate": 0.20074308874155236
+    },
+    {
+      "date": "2021-06-27",
+      "confirmed": 181598524,
+      "recovered": 118678807,
+      "deaths": 3924070,
+      "increase_rate": 0.17157555597096696
+    },
+    {
+      "date": "2021-06-28",
+      "confirmed": 181931639,
+      "recovered": 119006263,
+      "deaths": 3930616,
+      "increase_rate": 0.1834348609573501
+    },
+    {
+      "date": "2021-06-29",
+      "confirmed": 182313066,
+      "recovered": 119299679,
+      "deaths": 3938757,
+      "increase_rate": 0.20965402284975843
+    },
+    {
+      "date": "2021-06-30",
+      "confirmed": 182712486,
+      "recovered": 119580620,
+      "deaths": 3947956,
+      "increase_rate": 0.21908468151152696
+    },
+    {
+      "date": "2021-07-01",
+      "confirmed": 183148177,
+      "recovered": 120008476,
+      "deaths": 3956503,
+      "increase_rate": 0.2384571572191295
+    },
+    {
+      "date": "2021-07-02",
+      "confirmed": 183590581,
+      "recovered": 120299518,
+      "deaths": 3964846,
+      "increase_rate": 0.24155522989453507
+    },
+    {
+      "date": "2021-07-03",
+      "confirmed": 183965141,
+      "recovered": 120569293,
+      "deaths": 3971764,
+      "increase_rate": 0.2040191811365312
+    },
+    {
+      "date": "2021-07-04",
+      "confirmed": 184293366,
+      "recovered": 120868181,
+      "deaths": 3978382,
+      "increase_rate": 0.17841695345967745
+    },
+    {
+      "date": "2021-07-05",
+      "confirmed": 184670047,
+      "recovered": 121235174,
+      "deaths": 3985742,
+      "increase_rate": 0.204392056087358
+    },
+    {
+      "date": "2021-07-06",
+      "confirmed": 185120673,
+      "recovered": 121563017,
+      "deaths": 3994232,
+      "increase_rate": 0.24401683289764906
+    },
+    {
+      "date": "2021-07-07",
+      "confirmed": 185585716,
+      "recovered": 121831180,
+      "deaths": 4002771,
+      "increase_rate": 0.25121073322804954
+    },
+    {
+      "date": "2021-07-08",
+      "confirmed": 186067519,
+      "recovered": 122123831,
+      "deaths": 4011679,
+      "increase_rate": 0.2596121136822836
+    },
+    {
+      "date": "2021-07-09",
+      "confirmed": 186581412,
+      "recovered": 122462949,
+      "deaths": 4020050,
+      "increase_rate": 0.27618630202727645
+    },
+    {
+      "date": "2021-07-10",
+      "confirmed": 187003460,
+      "recovered": 122907153,
+      "deaths": 4026651,
+      "increase_rate": 0.2262004534513867
+    },
+    {
+      "date": "2021-07-11",
+      "confirmed": 187374019,
+      "recovered": 123197639,
+      "deaths": 4034264,
+      "increase_rate": 0.19815622662810622
+    },
+    {
+      "date": "2021-07-12",
+      "confirmed": 187806270,
+      "recovered": 123499875,
+      "deaths": 4042328,
+      "increase_rate": 0.23068886620828685
+    },
+    {
+      "date": "2021-07-13",
+      "confirmed": 188332239,
+      "recovered": 123783322,
+      "deaths": 4050711,
+      "increase_rate": 0.2800593398718797
+    },
+    {
+      "date": "2021-07-14",
+      "confirmed": 188870189,
+      "recovered": 124113063,
+      "deaths": 4059318,
+      "increase_rate": 0.2856388278801273
+    },
+    {
+      "date": "2021-07-15",
+      "confirmed": 189446635,
+      "recovered": 124394119,
+      "deaths": 4067943,
+      "increase_rate": 0.3052075094815519
+    },
+    {
+      "date": "2021-07-16",
+      "confirmed": 190042655,
+      "recovered": 124784824,
+      "deaths": 4076686,
+      "increase_rate": 0.31461102489363296
+    },
+    {
+      "date": "2021-07-17",
+      "confirmed": 190533173,
+      "recovered": 125065613,
+      "deaths": 4084203,
+      "increase_rate": 0.25810942285562155
+    },
+    {
+      "date": "2021-07-18",
+      "confirmed": 190954486,
+      "recovered": 125382096,
+      "deaths": 4090742,
+      "increase_rate": 0.22112317417817842
+    },
+    {
+      "date": "2021-07-19",
+      "confirmed": 191440779,
+      "recovered": 125688817,
+      "deaths": 4097881,
+      "increase_rate": 0.25466434970268254
+    },
+    {
+      "date": "2021-07-20",
+      "confirmed": 191973342,
+      "recovered": 126008997,
+      "deaths": 4118607,
+      "increase_rate": 0.27818681201668116
+    },
+    {
+      "date": "2021-07-21",
+      "confirmed": 192529117,
+      "recovered": 126315580,
+      "deaths": 4127267,
+      "increase_rate": 0.28950634197950254
+    },
+    {
+      "date": "2021-07-22",
+      "confirmed": 193094481,
+      "recovered": 126671708,
+      "deaths": 4136039,
+      "increase_rate": 0.29365116757897974
+    },
+    {
+      "date": "2021-07-23",
+      "confirmed": 193822688,
+      "recovered": 126918098,
+      "deaths": 4144358,
+      "increase_rate": 0.37712470922459973
+    },
+    {
+      "date": "2021-07-24",
+      "confirmed": 194255794,
+      "recovered": 127435324,
+      "deaths": 4153052,
+      "increase_rate": 0.22345474849672914
+    },
+    {
+      "date": "2021-07-25",
+      "confirmed": 194702066,
+      "recovered": 127762741,
+      "deaths": 4160384,
+      "increase_rate": 0.2297342029345081
+    },
+    {
+      "date": "2021-07-26",
+      "confirmed": 195240235,
+      "recovered": 128063201,
+      "deaths": 4168797,
+      "increase_rate": 0.2764064147115932
+    },
+    {
+      "date": "2021-07-27",
+      "confirmed": 195846899,
+      "recovered": 128409040,
+      "deaths": 4178640,
+      "increase_rate": 0.3107269359719834
+    },
+    {
+      "date": "2021-07-28",
+      "confirmed": 196496923,
+      "recovered": 128745703,
+      "deaths": 4188793,
+      "increase_rate": 0.33190415744085894
+    },
+    {
+      "date": "2021-07-29",
+      "confirmed": 197139976,
+      "recovered": 129094091,
+      "deaths": 4199056,
+      "increase_rate": 0.327258559667115
+    },
+    {
+      "date": "2021-07-30",
+      "confirmed": 197872571,
+      "recovered": 129401282,
+      "deaths": 4208607,
+      "increase_rate": 0.371611590335184
+    },
+    {
+      "date": "2021-07-31",
+      "confirmed": 198391486,
+      "recovered": 129705211,
+      "deaths": 4217440,
+      "increase_rate": 0.2622470600030764
+    },
+    {
+      "date": "2021-08-01",
+      "confirmed": 198875665,
+      "recovered": 129994389,
+      "deaths": 4224807,
+      "increase_rate": 0.24405230776889286
+    },
+    {
+      "date": "2021-08-02",
+      "confirmed": 199443161,
+      "recovered": 130277533,
+      "deaths": 4232852,
+      "increase_rate": 0.28535215708769596
+    },
+    {
+      "date": "2021-08-03",
+      "confirmed": 200077681,
+      "recovered": 130582001,
+      "deaths": 4243256,
+      "increase_rate": 0.3181457798896398
+    },
+    {
+      "date": "2021-08-04",
+      "confirmed": 200758017,
+      "recovered": 130899061,
+      "deaths": 4253756,
+      "increase_rate": 0.34003592834525104
+    },
+    {
+      "date": "2021-08-05",
+      "confirmed": 201443373,
+      "recovered": 0,
+      "deaths": 4264706,
+      "increase_rate": 0.3413841251480383
+    },
+    {
+      "date": "2021-08-06",
+      "confirmed": 202263081,
+      "recovered": 0,
+      "deaths": 4275153,
+      "increase_rate": 0.4069173325448637
+    },
+    {
+      "date": "2021-08-07",
+      "confirmed": 202826624,
+      "recovered": 0,
+      "deaths": 4283820,
+      "increase_rate": 0.27861881526466015
+    },
+    {
+      "date": "2021-08-08",
+      "confirmed": 203296529,
+      "recovered": 0,
+      "deaths": 4291259,
+      "increase_rate": 0.23167816469695812
+    },
+    {
+      "date": "2021-08-09",
+      "confirmed": 203910612,
+      "recovered": 0,
+      "deaths": 4300015,
+      "increase_rate": 0.3020627076225192
+    },
+    {
+      "date": "2021-08-10",
+      "confirmed": 204556461,
+      "recovered": 0,
+      "deaths": 4311606,
+      "increase_rate": 0.31673143131952347
+    },
+    {
+      "date": "2021-08-11",
+      "confirmed": 205287051,
+      "recovered": 0,
+      "deaths": 4322122,
+      "increase_rate": 0.3571581148932763
+    },
+    {
+      "date": "2021-08-12",
+      "confirmed": 205993035,
+      "recovered": 0,
+      "deaths": 4332626,
+      "increase_rate": 0.3439008922194513
+    },
+    {
+      "date": "2021-08-13",
+      "confirmed": 206794999,
+      "recovered": 0,
+      "deaths": 4343083,
+      "increase_rate": 0.3893160756624611
+    },
+    {
+      "date": "2021-08-14",
+      "confirmed": 207352369,
+      "recovered": 0,
+      "deaths": 4351807,
+      "increase_rate": 0.2695277945285321
+    },
+    {
+      "date": "2021-08-15",
+      "confirmed": 207822568,
+      "recovered": 0,
+      "deaths": 4359219,
+      "increase_rate": 0.2267632640358211
+    },
+    {
+      "date": "2021-08-16",
+      "confirmed": 208477534,
+      "recovered": 0,
+      "deaths": 4368979,
+      "increase_rate": 0.315156340479827
+    },
+    {
+      "date": "2021-08-17",
+      "confirmed": 209159680,
+      "recovered": 0,
+      "deaths": 4379748,
+      "increase_rate": 0.3272036017079903
+    },
+    {
+      "date": "2021-08-18",
+      "confirmed": 209895653,
+      "recovered": 0,
+      "deaths": 4390561,
+      "increase_rate": 0.35187135493800714
+    },
+    {
+      "date": "2021-08-19",
+      "confirmed": 210607624,
+      "recovered": 0,
+      "deaths": 4402001,
+      "increase_rate": 0.33920235594397946
+    },
+    {
+      "date": "2021-08-20",
+      "confirmed": 211392868,
+      "recovered": 0,
+      "deaths": 4412487,
+      "increase_rate": 0.3728469013068587
+    },
+    {
+      "date": "2021-08-21",
+      "confirmed": 211958726,
+      "recovered": 0,
+      "deaths": 4421394,
+      "increase_rate": 0.2676807431365187
+    },
+    {
+      "date": "2021-08-22",
+      "confirmed": 212412489,
+      "recovered": 0,
+      "deaths": 4429082,
+      "increase_rate": 0.21408083005745185
+    },
+    {
+      "date": "2021-08-23",
+      "confirmed": 213083549,
+      "recovered": 0,
+      "deaths": 4439029,
+      "increase_rate": 0.3159230434892178
+    },
+    {
+      "date": "2021-08-24",
+      "confirmed": 213760144,
+      "recovered": 0,
+      "deaths": 4450069,
+      "increase_rate": 0.317525685664265
+    },
+    {
+      "date": "2021-08-25",
+      "confirmed": 214497353,
+      "recovered": 0,
+      "deaths": 4461417,
+      "increase_rate": 0.3448767324932191
+    },
+    {
+      "date": "2021-08-26",
+      "confirmed": 215233641,
+      "recovered": 0,
+      "deaths": 4473015,
+      "increase_rate": 0.34326204482346223
+    },
+    {
+      "date": "2021-08-27",
+      "confirmed": 215985195,
+      "recovered": 0,
+      "deaths": 4483359,
+      "increase_rate": 0.34918054469003756
+    },
+    {
+      "date": "2021-08-28",
+      "confirmed": 216551398,
+      "recovered": 0,
+      "deaths": 4491807,
+      "increase_rate": 0.2621489866469783
+    },
+    {
+      "date": "2021-08-29",
+      "confirmed": 217005390,
+      "recovered": 0,
+      "deaths": 4498545,
+      "increase_rate": 0.20964630299916145
+    },
+    {
+      "date": "2021-08-30",
+      "confirmed": 217659628,
+      "recovered": 0,
+      "deaths": 4508005,
+      "increase_rate": 0.30148467740824314
+    },
+    {
+      "date": "2021-08-31",
+      "confirmed": 218280898,
+      "recovered": 0,
+      "deaths": 4517214,
+      "increase_rate": 0.28543189460932095
+    },
+    {
+      "date": "2021-09-01",
+      "confirmed": 219000231,
+      "recovered": 0,
+      "deaths": 4529702,
+      "increase_rate": 0.3295446402277491
+    },
+    {
+      "date": "2021-09-02",
+      "confirmed": 219676549,
+      "recovered": 0,
+      "deaths": 4540913,
+      "increase_rate": 0.30882067882385017
+    },
+    {
+      "date": "2021-09-03",
+      "confirmed": 220400668,
+      "recovered": 0,
+      "deaths": 4551613,
+      "increase_rate": 0.3296296319731425
+    },
+    {
+      "date": "2021-09-04",
+      "confirmed": 220906759,
+      "recovered": 0,
+      "deaths": 4559352,
+      "increase_rate": 0.22962316974465793
+    },
+    {
+      "date": "2021-09-05",
+      "confirmed": 221362690,
+      "recovered": 0,
+      "deaths": 4565831,
+      "increase_rate": 0.2063906971719231
+    },
+    {
+      "date": "2021-09-06",
+      "confirmed": 221821940,
+      "recovered": 0,
+      "deaths": 4573840,
+      "increase_rate": 0.20746495265304196
+    },
+    {
+      "date": "2021-09-07",
+      "confirmed": 222478184,
+      "recovered": 0,
+      "deaths": 4584328,
+      "increase_rate": 0.29584269256683987
+    },
+    {
+      "date": "2021-09-08",
+      "confirmed": 223115208,
+      "recovered": 0,
+      "deaths": 4594429,
+      "increase_rate": 0.2863309959416066
+    },
+    {
+      "date": "2021-09-09",
+      "confirmed": 223755136,
+      "recovered": 0,
+      "deaths": 4605142,
+      "increase_rate": 0.28681505206942237
+    },
+    {
+      "date": "2021-09-10",
+      "confirmed": 224414378,
+      "recovered": 0,
+      "deaths": 4614334,
+      "increase_rate": 0.29462653317598037
+    },
+    {
+      "date": "2021-09-11",
+      "confirmed": 224892541,
+      "recovered": 0,
+      "deaths": 4622726,
+      "increase_rate": 0.21307146371878188
+    },
+    {
+      "date": "2021-09-12",
+      "confirmed": 225269501,
+      "recovered": 0,
+      "deaths": 4628306,
+      "increase_rate": 0.16761783130904284
+    },
+    {
+      "date": "2021-09-13",
+      "confirmed": 225831661,
+      "recovered": 0,
+      "deaths": 4637341,
+      "increase_rate": 0.24954998235646644
+    },
+    {
+      "date": "2021-09-14",
+      "confirmed": 226382316,
+      "recovered": 0,
+      "deaths": 4647239,
+      "increase_rate": 0.24383427795804063
+    },
+    {
+      "date": "2021-09-15",
+      "confirmed": 226949475,
+      "recovered": 0,
+      "deaths": 4657706,
+      "increase_rate": 0.25053149469501845
+    },
+    {
+      "date": "2021-09-16",
+      "confirmed": 227536585,
+      "recovered": 0,
+      "deaths": 4668180,
+      "increase_rate": 0.2586963464004488
+    },
+    {
+      "date": "2021-09-17",
+      "confirmed": 228159977,
+      "recovered": 0,
+      "deaths": 4677223,
+      "increase_rate": 0.2739744028416353
+    },
+    {
+      "date": "2021-09-18",
+      "confirmed": 228691015,
+      "recovered": 0,
+      "deaths": 4683766,
+      "increase_rate": 0.2327480949912613
+    },
+    {
+      "date": "2021-09-19",
+      "confirmed": 229060019,
+      "recovered": 0,
+      "deaths": 4689794,
+      "increase_rate": 0.16135483066529746
+    },
+    {
+      "date": "2021-09-20",
+      "confirmed": 229576329,
+      "recovered": 0,
+      "deaths": 4697932,
+      "increase_rate": 0.22540380562877715
+    },
+    {
+      "date": "2021-09-21",
+      "confirmed": 230065643,
+      "recovered": 0,
+      "deaths": 4707355,
+      "increase_rate": 0.21313782746303955
+    },
+    {
+      "date": "2021-09-22",
+      "confirmed": 230600342,
+      "recovered": 0,
+      "deaths": 4717094,
+      "increase_rate": 0.23241149483584558
+    },
+    {
+      "date": "2021-09-23",
+      "confirmed": 231148056,
+      "recovered": 0,
+      "deaths": 4726946,
+      "increase_rate": 0.23751656014456388
+    },
+    {
+      "date": "2021-09-24",
+      "confirmed": 231697328,
+      "recovered": 0,
+      "deaths": 4735665,
+      "increase_rate": 0.23762778260181433
+    },
+    {
+      "date": "2021-09-25",
+      "confirmed": 232077347,
+      "recovered": 0,
+      "deaths": 4741180,
+      "increase_rate": 0.16401527081917835
+    },
+    {
+      "date": "2021-09-26",
+      "confirmed": 232439247,
+      "recovered": 0,
+      "deaths": 4746649,
+      "increase_rate": 0.15593939032748422
+    },
+    {
+      "date": "2021-09-27",
+      "confirmed": 232909032,
+      "recovered": 0,
+      "deaths": 4754271,
+      "increase_rate": 0.20211087674019182
+    },
+    {
+      "date": "2021-09-28",
+      "confirmed": 233360421,
+      "recovered": 0,
+      "deaths": 4763667,
+      "increase_rate": 0.19380484995532504
+    },
+    {
+      "date": "2021-09-29",
+      "confirmed": 233851041,
+      "recovered": 0,
+      "deaths": 4772938,
+      "increase_rate": 0.21024130737234142
+    },
+    {
+      "date": "2021-09-30",
+      "confirmed": 234340438,
+      "recovered": 0,
+      "deaths": 4781771,
+      "increase_rate": 0.20927723815435142
+    },
+    {
+      "date": "2021-10-01",
+      "confirmed": 234862666,
+      "recovered": 0,
+      "deaths": 4790395,
+      "increase_rate": 0.2228501424922659
+    },
+    {
+      "date": "2021-10-02",
+      "confirmed": 235219823,
+      "recovered": 0,
+      "deaths": 4796358,
+      "increase_rate": 0.15207057217003575
+    },
+    {
+      "date": "2021-10-03",
+      "confirmed": 235534134,
+      "recovered": 0,
+      "deaths": 4800641,
+      "increase_rate": 0.13362436719459653
+    },
+    {
+      "date": "2021-10-04",
+      "confirmed": 235968653,
+      "recovered": 0,
+      "deaths": 4807688,
+      "increase_rate": 0.18448239014053056
+    },
+    {
+      "date": "2021-10-05",
+      "confirmed": 236391351,
+      "recovered": 0,
+      "deaths": 4815096,
+      "increase_rate": 0.17913311561769182
+    },
+    {
+      "date": "2021-10-06",
+      "confirmed": 236898796,
+      "recovered": 0,
+      "deaths": 4824263,
+      "increase_rate": 0.21466309907421272
+    },
+    {
+      "date": "2021-10-07",
+      "confirmed": 237360236,
+      "recovered": 0,
+      "deaths": 4833182,
+      "increase_rate": 0.19478359864690914
+    },
+    {
+      "date": "2021-10-08",
+      "confirmed": 237836322,
+      "recovered": 0,
+      "deaths": 4840732,
+      "increase_rate": 0.2005752977090906
+    },
+    {
+      "date": "2021-10-09",
+      "confirmed": 238183753,
+      "recovered": 0,
+      "deaths": 4845634,
+      "increase_rate": 0.14607987420861646
+    },
+    {
+      "date": "2021-10-10",
+      "confirmed": 238506140,
+      "recovered": 0,
+      "deaths": 4850329,
+      "increase_rate": 0.13535222110636572
+    },
+    {
+      "date": "2021-10-11",
+      "confirmed": 238880802,
+      "recovered": 0,
+      "deaths": 4856064,
+      "increase_rate": 0.15708694124184813
+    },
+    {
+      "date": "2021-10-12",
+      "confirmed": 239319201,
+      "recovered": 0,
+      "deaths": 4864132,
+      "increase_rate": 0.18352207307140572
+    },
+    {
+      "date": "2021-10-13",
+      "confirmed": 239776316,
+      "recovered": 0,
+      "deaths": 4873048,
+      "increase_rate": 0.1910064040369247
+    },
+    {
+      "date": "2021-10-14",
+      "confirmed": 240229852,
+      "recovered": 0,
+      "deaths": 4881003,
+      "increase_rate": 0.1891496239353348
+    },
+    {
+      "date": "2021-10-15",
+      "confirmed": 240688651,
+      "recovered": 0,
+      "deaths": 4888198,
+      "increase_rate": 0.19098334207024364
+    },
+    {
+      "date": "2021-10-16",
+      "confirmed": 241039445,
+      "recovered": 0,
+      "deaths": 4893557,
+      "increase_rate": 0.14574596622754762
+    },
+    {
+      "date": "2021-10-17",
+      "confirmed": 241359592,
+      "recovered": 0,
+      "deaths": 4897845,
+      "increase_rate": 0.13281934000470338
+    },
+    {
+      "date": "2021-10-18",
+      "confirmed": 241769765,
+      "recovered": 0,
+      "deaths": 4904250,
+      "increase_rate": 0.16994269695318345
+    },
+    {
+      "date": "2021-10-19",
+      "confirmed": 242201982,
+      "recovered": 0,
+      "deaths": 4912482,
+      "increase_rate": 0.17877214712931538
+    },
+    {
+      "date": "2021-10-20",
+      "confirmed": 242678202,
+      "recovered": 0,
+      "deaths": 4921159,
+      "increase_rate": 0.1966210169163686
+    },
+    {
+      "date": "2021-10-21",
+      "confirmed": 243140623,
+      "recovered": 0,
+      "deaths": 4928821,
+      "increase_rate": 0.19054904651057206
+    },
+    {
+      "date": "2021-10-22",
+      "confirmed": 243633498,
+      "recovered": 0,
+      "deaths": 4937006,
+      "increase_rate": 0.2027119096425117
+    },
+    {
+      "date": "2021-10-23",
+      "confirmed": 244017010,
+      "recovered": 0,
+      "deaths": 4942892,
+      "increase_rate": 0.1574134932791549
+    },
+    {
+      "date": "2021-10-24",
+      "confirmed": 244337844,
+      "recovered": 0,
+      "deaths": 4947423,
+      "increase_rate": 0.13148017836953252
+    },
+    {
+      "date": "2021-10-25",
+      "confirmed": 244764051,
+      "recovered": 0,
+      "deaths": 4954116,
+      "increase_rate": 0.1744334782621721
+    },
+    {
+      "date": "2021-10-26",
+      "confirmed": 245190193,
+      "recovered": 0,
+      "deaths": 4961902,
+      "increase_rate": 0.17410318151663537
+    },
+    {
+      "date": "2021-10-27",
+      "confirmed": 245704870,
+      "recovered": 0,
+      "deaths": 4971047,
+      "increase_rate": 0.2099092927423896
+    },
+    {
+      "date": "2021-10-28",
+      "confirmed": 246188053,
+      "recovered": 0,
+      "deaths": 4979941,
+      "increase_rate": 0.19665177983651688
+    },
+    {
+      "date": "2021-10-29",
+      "confirmed": 246684172,
+      "recovered": 0,
+      "deaths": 4987742,
+      "increase_rate": 0.20152033941305839
+    },
+    {
+      "date": "2021-10-30",
+      "confirmed": 247078252,
+      "recovered": 0,
+      "deaths": 4993808,
+      "increase_rate": 0.15975082503469254
+    },
+    {
+      "date": "2021-10-31",
+      "confirmed": 247441791,
+      "recovered": 0,
+      "deaths": 4998323,
+      "increase_rate": 0.14713516752579262
+    },
+    {
+      "date": "2021-11-01",
+      "confirmed": 247862939,
+      "recovered": 0,
+      "deaths": 5004550,
+      "increase_rate": 0.17020083725468993
+    },
+    {
+      "date": "2021-11-02",
+      "confirmed": 248267015,
+      "recovered": 0,
+      "deaths": 5011705,
+      "increase_rate": 0.16302396866197089
+    },
+    {
+      "date": "2021-11-03",
+      "confirmed": 248791446,
+      "recovered": 0,
+      "deaths": 5020142,
+      "increase_rate": 0.21123667999150028
+    },
+    {
+      "date": "2021-11-04",
+      "confirmed": 249311355,
+      "recovered": 0,
+      "deaths": 5027749,
+      "increase_rate": 0.2089738246064939
+    },
+    {
+      "date": "2021-11-05",
+      "confirmed": 249835638,
+      "recovered": 0,
+      "deaths": 5036379,
+      "increase_rate": 0.21029246742491933
+    },
+    {
+      "date": "2021-11-06",
+      "confirmed": 250273075,
+      "recovered": 0,
+      "deaths": 5043130,
+      "increase_rate": 0.1750899125128017
+    },
+    {
+      "date": "2021-11-07",
+      "confirmed": 250633834,
+      "recovered": 0,
+      "deaths": 5047630,
+      "increase_rate": 0.14414614916127114
+    },
+    {
+      "date": "2021-11-08",
+      "confirmed": 251104863,
+      "recovered": 0,
+      "deaths": 5054205,
+      "increase_rate": 0.18793512132124987
+    },
+    {
+      "date": "2021-11-09",
+      "confirmed": 251572196,
+      "recovered": 0,
+      "deaths": 5062306,
+      "increase_rate": 0.18611069272680714
+    },
+    {
+      "date": "2021-11-10",
+      "confirmed": 252149324,
+      "recovered": 0,
+      "deaths": 5070583,
+      "increase_rate": 0.2294084994988874
+    },
+    {
+      "date": "2021-11-11",
+      "confirmed": 252670145,
+      "recovered": 0,
+      "deaths": 5078264,
+      "increase_rate": 0.20655260610573756
+    },
+    {
+      "date": "2021-11-12",
+      "confirmed": 253268010,
+      "recovered": 0,
+      "deaths": 5087293,
+      "increase_rate": 0.23661877425209854
+    },
+    {
+      "date": "2021-11-13",
+      "confirmed": 253709049,
+      "recovered": 0,
+      "deaths": 5093750,
+      "increase_rate": 0.17413924482606388
+    },
+    {
+      "date": "2021-11-14",
+      "confirmed": 254087547,
+      "recovered": 0,
+      "deaths": 5098387,
+      "increase_rate": 0.14918584949644426
+    },
+    {
+      "date": "2021-11-15",
+      "confirmed": 254614006,
+      "recovered": 0,
+      "deaths": 5105091,
+      "increase_rate": 0.2071959079521516
+    },
+    {
+      "date": "2021-11-16",
+      "confirmed": 255119474,
+      "recovered": 0,
+      "deaths": 5112782,
+      "increase_rate": 0.19852325013102382
+    },
+    {
+      "date": "2021-11-17",
+      "confirmed": 255738287,
+      "recovered": 0,
+      "deaths": 5121983,
+      "increase_rate": 0.24255812004378782
+    },
+    {
+      "date": "2021-11-18",
+      "confirmed": 256359795,
+      "recovered": 0,
+      "deaths": 5130367,
+      "increase_rate": 0.24302501095582923
+    },
+    {
+      "date": "2021-11-19",
+      "confirmed": 256975937,
+      "recovered": 0,
+      "deaths": 5138374,
+      "increase_rate": 0.24034267931911865
+    },
+    {
+      "date": "2021-11-20",
+      "confirmed": 257476267,
+      "recovered": 0,
+      "deaths": 5144616,
+      "increase_rate": 0.19469916360301082
+    },
+    {
+      "date": "2021-11-21",
+      "confirmed": 257896926,
+      "recovered": 0,
+      "deaths": 5149188,
+      "increase_rate": 0.163377776484541
+    },
+    {
+      "date": "2021-11-22",
+      "confirmed": 258498491,
+      "recovered": 0,
+      "deaths": 5156226,
+      "increase_rate": 0.23325791793268602
+    },
+    {
+      "date": "2021-11-23",
+      "confirmed": 259088786,
+      "recovered": 0,
+      "deaths": 5164266,
+      "increase_rate": 0.22835529821332692
+    },
+    {
+      "date": "2021-11-24",
+      "confirmed": 259749821,
+      "recovered": 0,
+      "deaths": 5172889,
+      "increase_rate": 0.25513840649205094
+    },
+    {
+      "date": "2021-11-25",
+      "confirmed": 260348236,
+      "recovered": 0,
+      "deaths": 5180720,
+      "increase_rate": 0.23038129446872652
+    },
+    {
+      "date": "2021-11-26",
+      "confirmed": 260958536,
+      "recovered": 0,
+      "deaths": 5187603,
+      "increase_rate": 0.23441679858357098
+    },
+    {
+      "date": "2021-11-27",
+      "confirmed": 261442001,
+      "recovered": 0,
+      "deaths": 5193759,
+      "increase_rate": 0.185265064485187
+    },
+    {
+      "date": "2021-11-28",
+      "confirmed": 261872471,
+      "recovered": 0,
+      "deaths": 5198598,
+      "increase_rate": 0.16465219756331348
+    },
+    {
+      "date": "2021-11-29",
+      "confirmed": 262503351,
+      "recovered": 0,
+      "deaths": 5206035,
+      "increase_rate": 0.24091115709524125
+    },
+    {
+      "date": "2021-11-30",
+      "confirmed": 263103570,
+      "recovered": 0,
+      "deaths": 5214076,
+      "increase_rate": 0.2286519382375427
+    },
+    {
+      "date": "2021-12-01",
+      "confirmed": 263808393,
+      "recovered": 0,
+      "deaths": 5223401,
+      "increase_rate": 0.26788804119989706
+    },
+    {
+      "date": "2021-12-02",
+      "confirmed": 264514416,
+      "recovered": 0,
+      "deaths": 5233564,
+      "increase_rate": 0.2676271941052308
+    },
+    {
+      "date": "2021-12-03",
+      "confirmed": 265243812,
+      "recovered": 0,
+      "deaths": 5242115,
+      "increase_rate": 0.27574905407045947
+    },
+    {
+      "date": "2021-12-04",
+      "confirmed": 265779007,
+      "recovered": 0,
+      "deaths": 5247925,
+      "increase_rate": 0.20177473546489372
+    },
+    {
+      "date": "2021-12-05",
+      "confirmed": 266238363,
+      "recovered": 0,
+      "deaths": 5255326,
+      "increase_rate": 0.17283381602821626
+    },
+    {
+      "date": "2021-12-06",
+      "confirmed": 266837354,
+      "recovered": 0,
+      "deaths": 5262171,
+      "increase_rate": 0.22498297888047034
+    },
+    {
+      "date": "2021-12-07",
+      "confirmed": 267477689,
+      "recovered": 0,
+      "deaths": 5270013,
+      "increase_rate": 0.2399720243066119
+    },
+    {
+      "date": "2021-12-08",
+      "confirmed": 268190740,
+      "recovered": 0,
+      "deaths": 5278327,
+      "increase_rate": 0.26658335604208094
+    },
+    {
+      "date": "2021-12-09",
+      "confirmed": 268888034,
+      "recovered": 0,
+      "deaths": 5286892,
+      "increase_rate": 0.2599992826001375
+    },
+    {
+      "date": "2021-12-10",
+      "confirmed": 269581599,
+      "recovered": 0,
+      "deaths": 5294954,
+      "increase_rate": 0.2579382167672065
+    },
+    {
+      "date": "2021-12-11",
+      "confirmed": 270102238,
+      "recovered": 0,
+      "deaths": 5301315,
+      "increase_rate": 0.19312853767886434
+    },
+    {
+      "date": "2021-12-12",
+      "confirmed": 270557955,
+      "recovered": 0,
+      "deaths": 5305892,
+      "increase_rate": 0.16872018661318902
+    },
+    {
+      "date": "2021-12-13",
+      "confirmed": 271168627,
+      "recovered": 0,
+      "deaths": 5312131,
+      "increase_rate": 0.22570838843012395
+    },
+    {
+      "date": "2021-12-14",
+      "confirmed": 271806819,
+      "recovered": 0,
+      "deaths": 5319931,
+      "increase_rate": 0.23534875957460966
+    },
+    {
+      "date": "2021-12-15",
+      "confirmed": 272546235,
+      "recovered": 0,
+      "deaths": 5329015,
+      "increase_rate": 0.2720373251562905
+    },
+    {
+      "date": "2021-12-16",
+      "confirmed": 273288914,
+      "recovered": 0,
+      "deaths": 5336420,
+      "increase_rate": 0.27249651788438756
+    },
+    {
+      "date": "2021-12-17",
+      "confirmed": 274056452,
+      "recovered": 0,
+      "deaths": 5343698,
+      "increase_rate": 0.2808522265926967
+    },
+    {
+      "date": "2021-12-18",
+      "confirmed": 274626704,
+      "recovered": 0,
+      "deaths": 5349753,
+      "increase_rate": 0.20807829767861113
+    },
+    {
+      "date": "2021-12-19",
+      "confirmed": 275139094,
+      "recovered": 0,
+      "deaths": 5354168,
+      "increase_rate": 0.18657690331527263
+    },
+    {
+      "date": "2021-12-20",
+      "confirmed": 275875635,
+      "recovered": 0,
+      "deaths": 5360781,
+      "increase_rate": 0.26769769039073743
+    },
+    {
+      "date": "2021-12-21",
+      "confirmed": 276632039,
+      "recovered": 0,
+      "deaths": 5368447,
+      "increase_rate": 0.2741829665385274
+    },
+    {
+      "date": "2021-12-22",
+      "confirmed": 277542581,
+      "recovered": 0,
+      "deaths": 5378823,
+      "increase_rate": 0.32915276310420427
+    },
+    {
+      "date": "2021-12-23",
+      "confirmed": 278549328,
+      "recovered": 0,
+      "deaths": 5386072,
+      "increase_rate": 0.362736051661925
+    },
+    {
+      "date": "2021-12-24",
+      "confirmed": 279441137,
+      "recovered": 0,
+      "deaths": 5392175,
+      "increase_rate": 0.3201619642751391
+    },
+    {
+      "date": "2021-12-25",
+      "confirmed": 280143261,
+      "recovered": 0,
+      "deaths": 5396516,
+      "increase_rate": 0.2512600712757621
+    },
+    {
+      "date": "2021-12-26",
+      "confirmed": 280723328,
+      "recovered": 0,
+      "deaths": 5400289,
+      "increase_rate": 0.2070608437730722
+    },
+    {
+      "date": "2021-12-27",
+      "confirmed": 281991534,
+      "recovered": 0,
+      "deaths": 5406610,
+      "increase_rate": 0.4517636667516281
+    },
+    {
+      "date": "2021-12-28",
+      "confirmed": 283318084,
+      "recovered": 0,
+      "deaths": 5414187,
+      "increase_rate": 0.47042192408513933
+    },
+    {
+      "date": "2021-12-29",
+      "confirmed": 285014489,
+      "recovered": 0,
+      "deaths": 5422062,
+      "increase_rate": 0.5987634026213449
+    },
+    {
+      "date": "2021-12-30",
+      "confirmed": 286956973,
+      "recovered": 0,
+      "deaths": 5429648,
+      "increase_rate": 0.6815386848631404
+    },
+    {
+      "date": "2021-12-31",
+      "confirmed": 288702918,
+      "recovered": 0,
+      "deaths": 5436385,
+      "increase_rate": 0.6084344219786567
+    },
+    {
+      "date": "2022-01-01",
+      "confirmed": 289928499,
+      "recovered": 0,
+      "deaths": 5440821,
+      "increase_rate": 0.4245128551142666
+    },
+    {
+      "date": "2022-01-02",
+      "confirmed": 290848465,
+      "recovered": 0,
+      "deaths": 5444100,
+      "increase_rate": 0.3173078890737126
+    },
+    {
+      "date": "2022-01-03",
+      "confirmed": 293207625,
+      "recovered": 0,
+      "deaths": 5449830,
+      "increase_rate": 0.811130290819998
+    },
+    {
+      "date": "2022-01-04",
+      "confirmed": 295707620,
+      "recovered": 0,
+      "deaths": 5457794,
+      "increase_rate": 0.8526364210344121
+    },
+    {
+      "date": "2022-01-05",
+      "confirmed": 298281697,
+      "recovered": 0,
+      "deaths": 5465721,
+      "increase_rate": 0.870480442810368
+    },
+    {
+      "date": "2022-01-06",
+      "confirmed": 300939650,
+      "recovered": 0,
+      "deaths": 5473352,
+      "increase_rate": 0.8910881984153389
+    },
+    {
+      "date": "2022-01-07",
+      "confirmed": 303883455,
+      "recovered": 0,
+      "deaths": 5480605,
+      "increase_rate": 0.9782044340119357
+    },
+    {
+      "date": "2022-01-08",
+      "confirmed": 306062481,
+      "recovered": 0,
+      "deaths": 5486154,
+      "increase_rate": 0.7170597688511867
+    },
+    {
+      "date": "2022-01-09",
+      "confirmed": 308098481,
+      "recovered": 0,
+      "deaths": 5490156,
+      "increase_rate": 0.6652236475858666
+    },
+    {
+      "date": "2022-01-10",
+      "confirmed": 311286657,
+      "recovered": 0,
+      "deaths": 5496572,
+      "increase_rate": 1.0347912101520553
+    },
+    {
+      "date": "2022-01-11",
+      "confirmed": 314318499,
+      "recovered": 0,
+      "deaths": 5505829,
+      "increase_rate": 0.9739710751559775
+    },
+    {
+      "date": "2022-01-12",
+      "confirmed": 317771465,
+      "recovered": 0,
+      "deaths": 5515029,
+      "increase_rate": 1.0985564040887075
+    },
+    {
+      "date": "2022-01-13",
+      "confirmed": 320953420,
+      "recovered": 0,
+      "deaths": 5523359,
+      "increase_rate": 1.0013344023825426
+    },
+    {
+      "date": "2022-01-14",
+      "confirmed": 324269276,
+      "recovered": 0,
+      "deaths": 5531354,
+      "increase_rate": 1.0331268630818764
+    },
+    {
+      "date": "2022-01-15",
+      "confirmed": 326766141,
+      "recovered": 0,
+      "deaths": 5537758,
+      "increase_rate": 0.7699974017889996
+    },
+    {
+      "date": "2022-01-16",
+      "confirmed": 328944049,
+      "recovered": 0,
+      "deaths": 5542128,
+      "increase_rate": 0.6665035714333695
+    },
+    {
+      "date": "2022-01-17",
+      "confirmed": 331605207,
+      "recovered": 0,
+      "deaths": 5548217,
+      "increase_rate": 0.8090001956533344
+    },
+    {
+      "date": "2022-01-18",
+      "confirmed": 335365768,
+      "recovered": 0,
+      "deaths": 5557505,
+      "increase_rate": 1.134047632732136
+    },
+    {
+      "date": "2022-01-19",
+      "confirmed": 339454794,
+      "recovered": 0,
+      "deaths": 5567559,
+      "increase_rate": 1.2192735186973525
+    },
+    {
+      "date": "2022-01-20",
+      "confirmed": 343160300,
+      "recovered": 0,
+      "deaths": 5577247,
+      "increase_rate": 1.0916051461037843
+    },
+    {
+      "date": "2022-01-21",
+      "confirmed": 346995996,
+      "recovered": 0,
+      "deaths": 5587202,
+      "increase_rate": 1.1177563371986796
+    },
+    {
+      "date": "2022-01-22",
+      "confirmed": 349785095,
+      "recovered": 0,
+      "deaths": 5593449,
+      "increase_rate": 0.8037842027433654
+    },
+    {
+      "date": "2022-01-23",
+      "confirmed": 352241709,
+      "recovered": 0,
+      "deaths": 5598467,
+      "increase_rate": 0.7023209493817911
+    },
+    {
+      "date": "2022-01-24",
+      "confirmed": 355664142,
+      "recovered": 0,
+      "deaths": 5606968,
+      "increase_rate": 0.971614920253524
+    },
+    {
+      "date": "2022-01-25",
+      "confirmed": 359315173,
+      "recovered": 0,
+      "deaths": 5617692,
+      "increase_rate": 1.0265389643918617
+    },
+    {
+      "date": "2022-01-26",
+      "confirmed": 362977513,
+      "recovered": 0,
+      "deaths": 5628287,
+      "increase_rate": 1.0192555937513943
+    },
+    {
+      "date": "2022-01-27",
+      "confirmed": 366733894,
+      "recovered": 0,
+      "deaths": 5638821,
+      "increase_rate": 1.0348798108603494
+    },
+    {
+      "date": "2022-01-28",
+      "confirmed": 370353940,
+      "recovered": 0,
+      "deaths": 5651060,
+      "increase_rate": 0.9871042898478318
+    },
+    {
+      "date": "2022-01-29",
+      "confirmed": 373094973,
+      "recovered": 0,
+      "deaths": 5659104,
+      "increase_rate": 0.7401117428371357
+    },
+    {
+      "date": "2022-01-30",
+      "confirmed": 375411593,
+      "recovered": 0,
+      "deaths": 5664764,
+      "increase_rate": 0.6209196498608411
+    },
+    {
+      "date": "2022-01-31",
+      "confirmed": 378898305,
+      "recovered": 0,
+      "deaths": 5674484,
+      "increase_rate": 0.9287704655407378
+    },
+    {
+      "date": "2022-02-01",
+      "confirmed": 382058803,
+      "recovered": 0,
+      "deaths": 5688480,
+      "increase_rate": 0.8341283025797649
+    },
+    {
+      "date": "2022-02-02",
+      "confirmed": 385247362,
+      "recovered": 0,
+      "deaths": 5700656,
+      "increase_rate": 0.8345728393019124
+    },
+    {
+      "date": "2022-02-03",
+      "confirmed": 388420043,
+      "recovered": 0,
+      "deaths": 5712365,
+      "increase_rate": 0.8235438611517345
+    },
+    {
+      "date": "2022-02-04",
+      "confirmed": 391364751,
+      "recovered": 0,
+      "deaths": 5725509,
+      "increase_rate": 0.7581246264369524
+    },
+    {
+      "date": "2022-02-05",
+      "confirmed": 393664575,
+      "recovered": 0,
+      "deaths": 5733888,
+      "increase_rate": 0.5876420894123906
+    },
+    {
+      "date": "2022-02-06",
+      "confirmed": 395536584,
+      "recovered": 0,
+      "deaths": 5739758,
+      "increase_rate": 0.4755340253818876
+    },
+    {
+      "date": "2022-02-07",
+      "confirmed": 398132675,
+      "recovered": 0,
+      "deaths": 5750605,
+      "increase_rate": 0.656346620013283
+    },
+    {
+      "date": "2022-02-08",
+      "confirmed": 400757381,
+      "recovered": 0,
+      "deaths": 5763661,
+      "increase_rate": 0.6592541041751974
+    },
+    {
+      "date": "2022-02-09",
+      "confirmed": 403196058,
+      "recovered": 0,
+      "deaths": 5776954,
+      "increase_rate": 0.60851705186685
+    },
+    {
+      "date": "2022-02-10",
+      "confirmed": 405975896,
+      "recovered": 0,
+      "deaths": 5788716,
+      "increase_rate": 0.6894506890243456
+    },
+    {
+      "date": "2022-02-11",
+      "confirmed": 408397574,
+      "recovered": 0,
+      "deaths": 5800898,
+      "increase_rate": 0.5965078281396293
+    },
+    {
+      "date": "2022-02-12",
+      "confirmed": 410316973,
+      "recovered": 0,
+      "deaths": 5809724,
+      "increase_rate": 0.46998295832188264
+    },
+    {
+      "date": "2022-02-13",
+      "confirmed": 411834455,
+      "recovered": 0,
+      "deaths": 5814923,
+      "increase_rate": 0.3698316423288685
+    },
+    {
+      "date": "2022-02-14",
+      "confirmed": 413533932,
+      "recovered": 0,
+      "deaths": 5825785,
+      "increase_rate": 0.4126602277606909
+    },
+    {
+      "date": "2022-02-15",
+      "confirmed": 415413492,
+      "recovered": 0,
+      "deaths": 5836502,
+      "increase_rate": 0.45451167475175897
+    },
+    {
+      "date": "2022-02-16",
+      "confirmed": 417650987,
+      "recovered": 0,
+      "deaths": 5849486,
+      "increase_rate": 0.5386187601244304
+    },
+    {
+      "date": "2022-02-17",
+      "confirmed": 419707976,
+      "recovered": 0,
+      "deaths": 5861869,
+      "increase_rate": 0.49251386062209884
+    },
+    {
+      "date": "2022-02-18",
+      "confirmed": 421687213,
+      "recovered": 0,
+      "deaths": 5872514,
+      "increase_rate": 0.47157478846673145
+    },
+    {
+      "date": "2022-02-19",
+      "confirmed": 423315769,
+      "recovered": 0,
+      "deaths": 5881022,
+      "increase_rate": 0.38619999606201005
+    },
+    {
+      "date": "2022-02-20",
+      "confirmed": 424641031,
+      "recovered": 0,
+      "deaths": 5886415,
+      "increase_rate": 0.3130670050706285
+    },
+    {
+      "date": "2022-02-21",
+      "confirmed": 426036968,
+      "recovered": 0,
+      "deaths": 5893583,
+      "increase_rate": 0.32873342378447645
+    },
+    {
+      "date": "2022-02-22",
+      "confirmed": 427749047,
+      "recovered": 0,
+      "deaths": 5903733,
+      "increase_rate": 0.401861605587241
+    },
+    {
+      "date": "2022-02-23",
+      "confirmed": 429676087,
+      "recovered": 0,
+      "deaths": 5915748,
+      "increase_rate": 0.45050714046359996
+    },
+    {
+      "date": "2022-02-24",
+      "confirmed": 431444205,
+      "recovered": 0,
+      "deaths": 5926525,
+      "increase_rate": 0.4115002099244122
+    },
+    {
+      "date": "2022-02-25",
+      "confirmed": 433081005,
+      "recovered": 0,
+      "deaths": 5935378,
+      "increase_rate": 0.3793769810861175
+    },
+    {
+      "date": "2022-02-26",
+      "confirmed": 434510151,
+      "recovered": 0,
+      "deaths": 5941897,
+      "increase_rate": 0.32999507794159666
+    },
+    {
+      "date": "2022-02-27",
+      "confirmed": 435657010,
+      "recovered": 0,
+      "deaths": 5946387,
+      "increase_rate": 0.263942970575157
+    },
+    {
+      "date": "2022-02-28",
+      "confirmed": 437015803,
+      "recovered": 0,
+      "deaths": 5954001,
+      "increase_rate": 0.3118951305294043
+    },
+    {
+      "date": "2022-03-01",
+      "confirmed": 438639552,
+      "recovered": 0,
+      "deaths": 5962176,
+      "increase_rate": 0.3715538405827397
+    },
+    {
+      "date": "2022-03-02",
+      "confirmed": 440300042,
+      "recovered": 0,
+      "deaths": 5970165,
+      "increase_rate": 0.37855455405900107
+    },
+    {
+      "date": "2022-03-03",
+      "confirmed": 442056325,
+      "recovered": 0,
+      "deaths": 5978342,
+      "increase_rate": 0.3988832233633991
+    },
+    {
+      "date": "2022-03-04",
+      "confirmed": 443810172,
+      "recovered": 0,
+      "deaths": 5986924,
+      "increase_rate": 0.39674740543526893
+    },
+    {
+      "date": "2022-03-05",
+      "confirmed": 445279837,
+      "recovered": 0,
+      "deaths": 5992605,
+      "increase_rate": 0.3311472094875734
+    },
+    {
+      "date": "2022-03-06",
+      "confirmed": 446492187,
+      "recovered": 0,
+      "deaths": 5996677,
+      "increase_rate": 0.27226698791663456
+    },
+    {
+      "date": "2022-03-07",
+      "confirmed": 447915024,
+      "recovered": 0,
+      "deaths": 6004209,
+      "increase_rate": 0.3186700778708139
+    },
+    {
+      "date": "2022-03-08",
+      "confirmed": 449665818,
+      "recovered": 0,
+      "deaths": 6011475,
+      "increase_rate": 0.39087637301489575
+    },
+    {
+      "date": "2022-03-09",
+      "confirmed": 451505161,
+      "recovered": 0,
+      "deaths": 6019271,
+      "increase_rate": 0.4090466578449154
+    },
+    {
+      "date": "2022-03-10",
+      "confirmed": 453366072,
+      "recovered": 0,
+      "deaths": 6026792,
+      "increase_rate": 0.4121571934811173
+    },
+    {
+      "date": "2022-03-11",
+      "confirmed": 455216502,
+      "recovered": 0,
+      "deaths": 6033268,
+      "increase_rate": 0.4081536123417722
+    },
+    {
+      "date": "2022-03-12",
+      "confirmed": 456964861,
+      "recovered": 0,
+      "deaths": 6037979,
+      "increase_rate": 0.3840719728565552
+    },
+    {
+      "date": "2022-03-13",
+      "confirmed": 458246184,
+      "recovered": 0,
+      "deaths": 6041327,
+      "increase_rate": 0.2803985840828142
+    },
+    {
+      "date": "2022-03-14",
+      "confirmed": 459875566,
+      "recovered": 0,
+      "deaths": 6046593,
+      "increase_rate": 0.355569136610639
+    },
+    {
+      "date": "2022-03-15",
+      "confirmed": 461678072,
+      "recovered": 0,
+      "deaths": 6051908,
+      "increase_rate": 0.39195515771324974
+    },
+    {
+      "date": "2022-03-16",
+      "confirmed": 463901519,
+      "recovered": 0,
+      "deaths": 6058692,
+      "increase_rate": 0.4816011707829173
+    },
+    {
+      "date": "2022-03-17",
+      "confirmed": 465954428,
+      "recovered": 0,
+      "deaths": 6065766,
+      "increase_rate": 0.4425312088706483
+    },
+    {
+      "date": "2022-03-18",
+      "confirmed": 467868149,
+      "recovered": 0,
+      "deaths": 6071185,
+      "increase_rate": 0.41070990745043423
+    },
+    {
+      "date": "2022-03-19",
+      "confirmed": 469577252,
+      "recovered": 0,
+      "deaths": 6075019,
+      "increase_rate": 0.36529586458342134
+    },
+    {
+      "date": "2022-03-20",
+      "confirmed": 470647389,
+      "recovered": 0,
+      "deaths": 6078084,
+      "increase_rate": 0.22789370554943322
+    },
+    {
+      "date": "2022-03-21",
+      "confirmed": 472118029,
+      "recovered": 0,
+      "deaths": 6094399,
+      "increase_rate": 0.3124717217968036
+    },
+    {
+      "date": "2022-03-22",
+      "confirmed": 474093465,
+      "recovered": 0,
+      "deaths": 6099303,
+      "increase_rate": 0.4184199455767871
+    },
+    {
+      "date": "2022-03-23",
+      "confirmed": 475866103,
+      "recovered": 0,
+      "deaths": 6105144,
+      "increase_rate": 0.3739005345707518
+    },
+    {
+      "date": "2022-03-24",
+      "confirmed": 477617482,
+      "recovered": 0,
+      "deaths": 6110404,
+      "increase_rate": 0.3680402930485679
+    },
+    {
+      "date": "2022-03-25",
+      "confirmed": 479458583,
+      "recovered": 0,
+      "deaths": 6119371,
+      "increase_rate": 0.3854760492204931
+    },
+    {
+      "date": "2022-03-26",
+      "confirmed": 480815100,
+      "recovered": 0,
+      "deaths": 6122298,
+      "increase_rate": 0.28292683624770987
+    },
+    {
+      "date": "2022-03-27",
+      "confirmed": 481727049,
+      "recovered": 0,
+      "deaths": 6124662,
+      "increase_rate": 0.18966729622260198
+    },
+    {
+      "date": "2022-03-28",
+      "confirmed": 483219734,
+      "recovered": 0,
+      "deaths": 6128734,
+      "increase_rate": 0.3098611554195704
+    },
+    {
+      "date": "2022-03-29",
+      "confirmed": 484968478,
+      "recovered": 0,
+      "deaths": 6133504,
+      "increase_rate": 0.36189416055595114
+    },
+    {
+      "date": "2022-03-30",
+      "confirmed": 486560758,
+      "recovered": 0,
+      "deaths": 6138489,
+      "increase_rate": 0.3283264938303887
+    },
+    {
+      "date": "2022-03-31",
+      "confirmed": 488406809,
+      "recovered": 0,
+      "deaths": 6143294,
+      "increase_rate": 0.3794081149470751
+    },
+    {
+      "date": "2022-04-01",
+      "confirmed": 489571518,
+      "recovered": 0,
+      "deaths": 6147833,
+      "increase_rate": 0.23847108159378672
+    },
+    {
+      "date": "2022-04-02",
+      "confirmed": 490616434,
+      "recovered": 0,
+      "deaths": 6150482,
+      "increase_rate": 0.21343480198127046
+    },
+    {
+      "date": "2022-04-03",
+      "confirmed": 491405149,
+      "recovered": 0,
+      "deaths": 6152101,
+      "increase_rate": 0.16076000421950806
+    },
+    {
+      "date": "2022-04-04",
+      "confirmed": 492310289,
+      "recovered": 0,
+      "deaths": 6155027,
+      "increase_rate": 0.18419424416735203
+    },
+    {
+      "date": "2022-04-05",
+      "confirmed": 493669057,
+      "recovered": 0,
+      "deaths": 6159243,
+      "increase_rate": 0.2759982942383721
+    },
+    {
+      "date": "2022-04-06",
+      "confirmed": 495122641,
+      "recovered": 0,
+      "deaths": 6166840,
+      "increase_rate": 0.2944450293954721
+    },
+    {
+      "date": "2022-04-07",
+      "confirmed": 496338419,
+      "recovered": 0,
+      "deaths": 6170907,
+      "increase_rate": 0.24555087958500368
+    },
+    {
+      "date": "2022-04-08",
+      "confirmed": 497531675,
+      "recovered": 0,
+      "deaths": 6175012,
+      "increase_rate": 0.24041177437042205
+    },
+    {
+      "date": "2022-04-09",
+      "confirmed": 498299996,
+      "recovered": 0,
+      "deaths": 6177309,
+      "increase_rate": 0.15442654982720447
+    },
+    {
+      "date": "2022-04-10",
+      "confirmed": 498868313,
+      "recovered": 0,
+      "deaths": 6178789,
+      "increase_rate": 0.11405117490709352
+    },
+    {
+      "date": "2022-04-11",
+      "confirmed": 499843502,
+      "recovered": 0,
+      "deaths": 6181737,
+      "increase_rate": 0.19548024490382895
+    },
+    {
+      "date": "2022-04-12",
+      "confirmed": 500880363,
+      "recovered": 0,
+      "deaths": 6185040,
+      "increase_rate": 0.2074371269909997
+    },
+    {
+      "date": "2022-04-13",
+      "confirmed": 501920234,
+      "recovered": 0,
+      "deaths": 6189593,
+      "increase_rate": 0.20760865803796744
+    },
+    {
+      "date": "2022-04-14",
+      "confirmed": 502892186,
+      "recovered": 0,
+      "deaths": 6193401,
+      "increase_rate": 0.19364670602221626
+    },
+    {
+      "date": "2022-04-15",
+      "confirmed": 503606396,
+      "recovered": 0,
+      "deaths": 6195647,
+      "increase_rate": 0.1420205005929442
+    },
+    {
+      "date": "2022-04-16",
+      "confirmed": 504155459,
+      "recovered": 0,
+      "deaths": 6197159,
+      "increase_rate": 0.10902621657728111
+    }
+  ],
+  "meta": {
+    "title": "COVID-19 Worldwide Daily Totals - Free Download",
+    "description": "Daily global totals of COVID-19 confirmed cases, recoveries, and deaths from Jan 2020 onward, aggregated from Johns Hopkins CSSE data via the datasets/covid-19 project. Contains 816 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "COVID-19 Worldwide Daily Totals | ListBase",
+    "seo_description": "Download COVID-19 Worldwide Daily Totals — 816 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 816 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/covid-19"
+    ]
+  }
+}

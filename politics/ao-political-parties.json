@@ -1,0 +1,241 @@
+{
+  "id": "ao-political-parties",
+  "name": "Angola — Political Parties",
+  "title": "Angola — Political Parties",
+  "description": "Political parties of Angola from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 2298,
+      "name_short": "MPLA",
+      "name": "Movimento Popular de Libertação de Angola – Partido do Trabalho",
+      "name_english": "People's Movement for the Liberation of Angola – Labour Party",
+      "name_other": "",
+      "year_first": 1956,
+      "year_last": "",
+      "share": 81.6,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/MPLA",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2343,
+      "name_short": "UNITA",
+      "name": "União Nacional para a Independência Total de Angola",
+      "name_english": "National Union for the Total Independence of Angola",
+      "name_other": "",
+      "year_first": 1966,
+      "year_last": "",
+      "share": 18.7,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/UNITA",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7720,
+      "name_short": "AFAMP",
+      "name": "Angolan Free Alliance Majority Party",
+      "name_english": "Angolan Free Alliance Majority Party",
+      "name_other": "",
+      "year_first": 2017,
+      "year_last": "",
+      "share": 9.5,
+      "share_year": "",
+      "wikipedia": "",
+      "description": "",
+      "comment": "member of 3556 which gained 9.5 % vote share in 2017",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7721,
+      "name_short": "APP",
+      "name": "Angolan Pacific Party",
+      "name_english": "Angolan Pacific Party",
+      "name_other": "",
+      "year_first": 2017,
+      "year_last": "",
+      "share": 9.5,
+      "share_year": "",
+      "wikipedia": "",
+      "description": "",
+      "comment": "member of 3556 which gained 9.5 % vote share in 2017",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7723,
+      "name_short": "NSPA",
+      "name": "National Salvation Party of Angola",
+      "name_english": "National Salvation Party of Angola",
+      "name_other": "",
+      "year_first": 2017,
+      "year_last": "",
+      "share": 9.5,
+      "share_year": "",
+      "wikipedia": "",
+      "description": "",
+      "comment": "member of 3556",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7722,
+      "name_short": "PDDAPA",
+      "name": "Party for Democracy and Development in Angola-Patriotic Alliance",
+      "name_english": "Party for Democracy and Development in Angola-Patriotic Alliance",
+      "name_other": "",
+      "year_first": 2017,
+      "year_last": "",
+      "share": 9.5,
+      "share_year": "",
+      "wikipedia": "",
+      "description": "",
+      "comment": "member of 3556",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3556,
+      "name_short": "CASA-CE",
+      "name": "Convergência Ampla de Salvação de Angola-Coligação Eleitoral",
+      "name_english": "Broad Convergence for the Salvation of Angola – Electoral Coalition",
+      "name_other": "",
+      "year_first": 2012,
+      "year_last": "",
+      "share": 6,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/CASA%E2%80%93CE",
+      "description": "",
+      "comment": "consists of 7720 7721 7722 7723",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2342,
+      "name_short": "PRS",
+      "name": "Partido de Renovação Social",
+      "name_english": "Social Renewal Party",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 3.2,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_Renewal_Party_%28Angola%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5131,
+      "name_short": "FNLA",
+      "name": "Frente Nacional de Libertação de Angola",
+      "name_english": "National Liberation Front of Angola",
+      "name_other": "",
+      "year_first": 1954,
+      "year_last": 2012,
+      "share": 2.4,
+      "share_year": 1992,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Liberation_Front_of_Angola",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5136,
+      "name_short": "PLD",
+      "name": "Partido Liberal Democrático",
+      "name_english": "Liberal Democratic Party",
+      "name_other": "",
+      "year_first": 1983,
+      "year_last": "",
+      "share": 2.4,
+      "share_year": 1992,
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberal_Democratic_Party_%28Angola%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Angola — Political Parties - Free Download",
+    "description": "Political parties of Angola from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Angola — Political Parties | ListBase",
+    "seo_description": "Download Angola — Political Parties dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

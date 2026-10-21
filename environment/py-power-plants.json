@@ -1,0 +1,160 @@
+{
+  "id": "py-power-plants",
+  "name": "Paraguay — Power Plants",
+  "title": "Paraguay — Power Plants",
+  "description": "Power plants located in Paraguay from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Itaipu Binacional Dam (Paraguay part)",
+      "gppd_idnr": "WRI1022983",
+      "capacity_mw": 7000,
+      "latitude": -25.4081,
+      "longitude": -54.5889,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1984,
+      "owner": "Brazil and Paraguay Government",
+      "source": "Situation of Renewable Energy in Paraguay",
+      "url": "http://www.ssme.gov.py/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 35230.22; 2014: 34666.61; 2015: 35230.22; 2017: 47320.15",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Yacyretá Dam",
+      "gppd_idnr": "WRI1022984",
+      "capacity_mw": 1550,
+      "latitude": -27.4827,
+      "longitude": -56.725,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1994,
+      "owner": "Argentina and Paraguay Government",
+      "source": "Situation of Renewable Energy in Paraguay",
+      "url": "http://www.ssme.gov.py/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 4102.81; 2014: 4102.81; 2015: 4102.81; 2016: 4114.05; 2017: 4102.81",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Acaray Dam",
+      "gppd_idnr": "WRI1022985",
+      "capacity_mw": 210,
+      "latitude": -25.4591,
+      "longitude": -54.6289,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1981,
+      "owner": "",
+      "source": "Hydro World",
+      "url": "http://www.ssme.gov.py/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 678.07; 2014: 750.07; 2015: 898.99; 2016: 738.18; 2017: 696.56",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Paraguay — Power Plants - Free Download",
+    "description": "Power plants located in Paraguay from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 3 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Paraguay — Power Plants | ListBase",
+    "seo_description": "Download Paraguay — Power Plants dataset with 3 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 3 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

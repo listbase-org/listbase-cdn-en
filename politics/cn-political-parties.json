@@ -1,0 +1,226 @@
+{
+  "id": "cn-political-parties",
+  "name": "China — Political Parties",
+  "title": "China — Political Parties",
+  "description": "Political parties of China from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5124,
+      "name_short": "CPC",
+      "name": "Communist Party of China",
+      "name_english": "Communist Party of China",
+      "name_other": "中国共产党",
+      "year_first": 1921,
+      "year_last": "",
+      "share": 100,
+      "share_year": 1948,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_China",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5390,
+      "name_short": "KMT",
+      "name": "Kuomintang",
+      "name_english": "Kuomintang of China",
+      "name_other": "",
+      "year_first": 1919,
+      "year_last": 1949,
+      "share": 6.9,
+      "share_year": 1923,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kuomintang",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8370,
+      "name_short": "Beiyang",
+      "name": "Beiyang clique",
+      "name_english": "Beiyang clique [no-party]",
+      "name_other": "",
+      "year_first": 1911,
+      "year_last": 1915,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Beiyang_Army#Beiyang_clique_in_power_(1911–15)",
+      "description": "Premier 1912-1914; Secretarie of State 1915-1916; President 1912-1915; Emperor 1915-196",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8369,
+      "name_short": "Fengtian",
+      "name": "Fèngxì Jūnfá",
+      "name_english": "Fengtian clique [no-party]",
+      "name_other": "simplified Chinese: 奉系军阀; traditional Chinese: 奉系軍閥",
+      "year_first": 1911,
+      "year_last": 1928,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fengtian_clique",
+      "description": "Premier 1927-1928; Generalissimo of the Army and Navy 1927-1928",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8375,
+      "name_short": "Comm",
+      "name": "Jiaotongxi/Chiao-t'ung-hsi",
+      "name_english": "Communications Clique [no-party]",
+      "name_other": "Chinese: 交通系",
+      "year_first": 1912,
+      "year_last": 1928,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Communications_Clique",
+      "description": "Premier 1921-1922",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8372,
+      "name_short": "J/CT",
+      "name": "Jinbudang/Chin-pu Tang",
+      "name_english": "Progressive Party",
+      "name_other": "simplified Chinese: 进步党; traditional Chinese: 進步黨; pinyin",
+      "year_first": 1913,
+      "year_last": 1916,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Progressive_Party_(China)",
+      "description": "Premier 1916-1917; President 1916-1917",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8371,
+      "name_short": "Anhui / Anfu",
+      "name": "Wǎn Xì Jūn Fá",
+      "name_english": "Anhui clique / Anfu Club [no-party]",
+      "name_other": "simplified Chinese: 皖系军阀; traditional Chinese: 皖系軍閥",
+      "year_first": 1918,
+      "year_last": 1920,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anhui_clique",
+      "description": "President 1918-1922",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8374,
+      "name_short": "Res",
+      "name": "Constitution Research Clique",
+      "name_english": "Constitution Research Clique [no-party]",
+      "name_other": "",
+      "year_first": 1918,
+      "year_last": 1924,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "President 1922-1923",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8373,
+      "name_short": "Zhili",
+      "name": "Zhí (Lì) Xì Jūn Fá",
+      "name_english": "Zhili clique [no-party]",
+      "name_other": "(simplified Chinese: 直(隶)系军阀; traditional Chinese: 直(隸)系軍閥",
+      "year_first": 1920,
+      "year_last": 1928,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zhili_clique",
+      "description": "President 1917-1918 & 1923-1924",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "China — Political Parties - Free Download",
+    "description": "Political parties of China from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "China — Political Parties | ListBase",
+    "seo_description": "Download China — Political Parties dataset with 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

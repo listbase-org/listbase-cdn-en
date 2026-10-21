@@ -1,0 +1,160 @@
+{
+  "id": "br-football-leagues",
+  "name": "Brazil — Football Leagues",
+  "title": "Brazil — Football Leagues",
+  "description": "Domestic football (soccer) leagues and cup competitions of Brazil. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/leagues",
+  "source_url": "https://github.com/openfootball/leagues",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "year_span",
+      "label": "Year Span",
+      "type": "string"
+    },
+    {
+      "key": "tier_kind",
+      "label": "Tier Kind",
+      "type": "string"
+    },
+    {
+      "key": "tier_level",
+      "label": "Tier Level",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "1",
+      "name": "Brasileiro Série A",
+      "aliases": "Campeonato Brasileiro Série A, Brazilian Serie A, Brasilien Brasilero Serie A [de], br.a",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 1
+    },
+    {
+      "code": "2",
+      "name": "Brasileiro Série B",
+      "aliases": "Campeonato Brasileiro Série B, Brazilian Serie B, Brasilien Brasilero Serie B [de], br.b",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 2
+    },
+    {
+      "code": "3",
+      "name": "Brasileiro Série C",
+      "aliases": "Campeonato Brasileiro Série C, Brazilian Serie C, br.c",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "4",
+      "name": "Brasileiro Série D",
+      "aliases": "Campeonato Brasileiro Série D, br.d",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 4
+    },
+    {
+      "code": "cup",
+      "name": "Copa do Brasil",
+      "aliases": "Brazil Cup, Brasilien Cup [de], br.copa, bra.copa",
+      "year_span": "",
+      "tier_kind": "national-cup",
+      "tier_level": ""
+    },
+    {
+      "code": "league",
+      "name": "Primeira Liga",
+      "aliases": "Liga Sul-Minas-Rio, South-Minas-Rio League, Copa Sul-Minas-Rio, South-Minas-Rio Cup",
+      "year_span": "",
+      "tier_kind": "other",
+      "tier_level": ""
+    },
+    {
+      "code": "mg",
+      "name": "Campeonato Mineiro",
+      "aliases": "Mineirão, Campeonato Estadual Mineiro, Brazilian Campeonato Mineiro, br.mineiro",
+      "year_span": "",
+      "tier_kind": "other",
+      "tier_level": ""
+    },
+    {
+      "code": "paranaense",
+      "name": "Campeonato Paranaense",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "other",
+      "tier_level": ""
+    },
+    {
+      "code": "rj",
+      "name": "Campeonato Carioca",
+      "aliases": "Campeonato Estadual Carioca, Brazilian Campeonato Carioca, br.carioca",
+      "year_span": "",
+      "tier_kind": "other",
+      "tier_level": ""
+    },
+    {
+      "code": "rs",
+      "name": "Campeonato Gaúcho",
+      "aliases": "Gauchão, Campeonato Estadual Gaúcho, Brazilian Campeonato Gaucho, br.gauchao",
+      "year_span": "",
+      "tier_kind": "other",
+      "tier_level": ""
+    },
+    {
+      "code": "rs.2",
+      "name": "Divisão de Acesso Gaúcha",
+      "aliases": "Divisão de acesso do Campeonato Estadual Gaúcho",
+      "year_span": "",
+      "tier_kind": "other",
+      "tier_level": ""
+    },
+    {
+      "code": "rs.3",
+      "name": "Terceirona",
+      "aliases": "Segunda divisão do Campeonato Estadual Gaúcho",
+      "year_span": "",
+      "tier_kind": "other",
+      "tier_level": ""
+    },
+    {
+      "code": "sp",
+      "name": "Campeonato Paulista",
+      "aliases": "Campeonato Paulista Série A1, Paulistão, Campeonato Estadual Paulista, Brazilian Campeonato Paulista, Brasilien Paulista Serie A1 [de], bra.pau, br.paulistao",
+      "year_span": "",
+      "tier_kind": "other",
+      "tier_level": ""
+    }
+  ],
+  "meta": {
+    "title": "Brazil — Football Leagues - Free Download",
+    "description": "Domestic football (soccer) leagues and cup competitions of Brazil. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Brazil — Football Leagues | ListBase",
+    "seo_description": "Download Brazil — Football Leagues — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/leagues"
+    ]
+  }
+}

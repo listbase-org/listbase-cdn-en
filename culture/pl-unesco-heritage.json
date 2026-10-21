@@ -1,0 +1,282 @@
+{
+  "id": "pl-unesco-heritage",
+  "name": "Poland — UNESCO World Heritage Sites",
+  "title": "Poland — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Poland, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 29,
+      "name": "Historic Centre of Krakow",
+      "category": "cultural",
+      "date_inscribed": 1978,
+      "criteria": "c4",
+      "lat": 50.06667,
+      "lon": 19.95972,
+      "area_hectares": 149.65,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 32,
+      "name": "Wieliczka and Bochnia Royal Salt Mines",
+      "category": "cultural",
+      "date_inscribed": 1978,
+      "criteria": "c4",
+      "lat": 49.97916667,
+      "lon": 20.06388889,
+      "area_hectares": 1104.947,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 31,
+      "name": "Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c6",
+      "lat": 50.03888889,
+      "lon": 19.175,
+      "area_hectares": 191.97,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 33,
+      "name": "Bialowieza Forest",
+      "category": "natural",
+      "date_inscribed": 1979,
+      "criteria": "n9, n10",
+      "lat": 52.7275,
+      "lon": 23.98111111,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "by, pl",
+      "transboundary": true
+    },
+    {
+      "ref_no": 30,
+      "name": "Historic Centre of Warsaw",
+      "category": "cultural",
+      "date_inscribed": 1980,
+      "criteria": "c2, c6",
+      "lat": 52.26639,
+      "lon": 21.01167,
+      "area_hectares": 25.93,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 564,
+      "name": "Old City of Zamosc",
+      "category": "cultural",
+      "date_inscribed": 1992,
+      "criteria": "c4",
+      "lat": 50.71667,
+      "lon": 23.26667,
+      "area_hectares": 75.0391,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 835,
+      "name": "Medieval Town of Torun",
+      "category": "cultural",
+      "date_inscribed": 1997,
+      "criteria": "c2, c4",
+      "lat": 53.01,
+      "lon": 18.61944,
+      "area_hectares": 48,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 847,
+      "name": "Castle of the Teutonic Order in Malbork",
+      "category": "cultural",
+      "date_inscribed": 1997,
+      "criteria": "c2, c3, c4",
+      "lat": 54.04166667,
+      "lon": 19.03333333,
+      "area_hectares": 18.038,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 905,
+      "name": "Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c2, c4",
+      "lat": 49.86666667,
+      "lon": 19.66666667,
+      "area_hectares": 380,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1054,
+      "name": "Churches of Peace in Jawor and Swidnica",
+      "category": "cultural",
+      "date_inscribed": 2001,
+      "criteria": "c3, c4, c6",
+      "lat": 51.05427778,
+      "lon": 16.19594444,
+      "area_hectares": 0.23,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1053,
+      "name": "Wooden Churches of Southern Malopolska",
+      "category": "cultural",
+      "date_inscribed": 2003,
+      "criteria": "c3, c4",
+      "lat": 49.75,
+      "lon": 21.23333333,
+      "area_hectares": 15.24,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1127,
+      "name": "Muskauer Park / Park Muzakowski",
+      "category": "cultural",
+      "date_inscribed": 2004,
+      "criteria": "c1, c4",
+      "lat": 51.57930556,
+      "lon": 14.72644444,
+      "area_hectares": 348,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "de, pl",
+      "transboundary": true
+    },
+    {
+      "ref_no": 1165,
+      "name": "Centennial Hall in Wroclaw",
+      "category": "cultural",
+      "date_inscribed": 2006,
+      "criteria": "c1, c2, c4",
+      "lat": 51.10694722,
+      "lon": 17.07701389,
+      "area_hectares": 36.69,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1424,
+      "name": "Wooden Tserkvas of the Carpathian Region in Poland and Ukraine",
+      "category": "cultural",
+      "date_inscribed": 2013,
+      "criteria": "c3, c4",
+      "lat": 49.53388889,
+      "lon": 21.03222222,
+      "area_hectares": 7.03,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "pl, ua",
+      "transboundary": true
+    }
+  ],
+  "meta": {
+    "title": "Poland — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Poland, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Poland — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Poland — UNESCO World Heritage Sites dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

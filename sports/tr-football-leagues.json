@@ -1,0 +1,112 @@
+{
+  "id": "tr-football-leagues",
+  "name": "Turkey — Football Leagues",
+  "title": "Turkey — Football Leagues",
+  "description": "Domestic football (soccer) leagues and cup competitions of Turkey. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/leagues",
+  "source_url": "https://github.com/openfootball/leagues",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "year_span",
+      "label": "Year Span",
+      "type": "string"
+    },
+    {
+      "key": "tier_kind",
+      "label": "Tier Kind",
+      "type": "string"
+    },
+    {
+      "key": "tier_level",
+      "label": "Tier Level",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "1",
+      "name": "Süper Lig",
+      "aliases": "Turkish Süper Lig, Turkish Super Lig, Turkish Super League, Türkei Süper Lig [de]",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 1
+    },
+    {
+      "code": "2",
+      "name": "1. Lig",
+      "aliases": "Turkish 1. Lig, Türkei TFF 1. Lig [de]",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 2
+    },
+    {
+      "code": "3.b",
+      "name": "2. Lig - Beya",
+      "aliases": "Türkei 2. Lig - Beyaz Gruppe, 2. Lig Beyaz",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "3.ki",
+      "name": "2. Lig - Kirmizi",
+      "aliases": "Türkei 2. Lig - Kirmizi Gruppe, 2. Lig Kırmızı",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "3.playoffs",
+      "name": "2. Lig - Play Offs",
+      "aliases": "tur.3.po",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "cup",
+      "name": "Türkiye Kupasi",
+      "aliases": "Türkei Türkiye Kupasi",
+      "year_span": "",
+      "tier_kind": "national-cup",
+      "tier_level": ""
+    },
+    {
+      "code": "super",
+      "name": "Süper Kupa",
+      "aliases": "Türkei Süper Kupa [de], tur.sc",
+      "year_span": "",
+      "tier_kind": "super-cup",
+      "tier_level": ""
+    }
+  ],
+  "meta": {
+    "title": "Turkey — Football Leagues - Free Download",
+    "description": "Domestic football (soccer) leagues and cup competitions of Turkey. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Turkey — Football Leagues | ListBase",
+    "seo_description": "Download Turkey — Football Leagues — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/leagues"
+    ]
+  }
+}

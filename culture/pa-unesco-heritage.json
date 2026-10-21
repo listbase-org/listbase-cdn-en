@@ -1,0 +1,156 @@
+{
+  "id": "pa-unesco-heritage",
+  "name": "Panama — UNESCO World Heritage Sites",
+  "title": "Panama — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Panama, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 135,
+      "name": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+      "category": "cultural",
+      "date_inscribed": 1980,
+      "criteria": "c1, c4",
+      "lat": 9.553888889,
+      "lon": -79.65583333,
+      "area_hectares": "",
+      "danger_list": "Y 2012",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pa",
+      "transboundary": false
+    },
+    {
+      "ref_no": 159,
+      "name": "Darien National Park",
+      "category": "natural",
+      "date_inscribed": 1981,
+      "criteria": "n7, n9, n10",
+      "lat": 7.736111111,
+      "lon": -77.54722222,
+      "area_hectares": 579000,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pa",
+      "transboundary": false
+    },
+    {
+      "ref_no": 205,
+      "name": "Talamanca Range-La Amistad Reserves / La Amistad National Park",
+      "category": "natural",
+      "date_inscribed": 1983,
+      "criteria": "n7, n8, n9, n10",
+      "lat": 9.407083333,
+      "lon": -82.93880556,
+      "area_hectares": 570045,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "cr, pa",
+      "transboundary": true
+    },
+    {
+      "ref_no": 790,
+      "name": "Archaeological Site of Panama Viejo and Historic District of Panama",
+      "category": "cultural",
+      "date_inscribed": 1997,
+      "criteria": "c2, c4, c6",
+      "lat": 8.951111111,
+      "lon": -79.54055556,
+      "area_hectares": 57.4,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pa",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1138,
+      "name": "Coiba National Park and its Special Zone of Marine Protection",
+      "category": "natural",
+      "date_inscribed": 2005,
+      "criteria": "n9, n10",
+      "lat": 7.433,
+      "lon": -81.766,
+      "area_hectares": 270125,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pa",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Panama — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Panama, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Panama — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Panama — UNESCO World Heritage Sites dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

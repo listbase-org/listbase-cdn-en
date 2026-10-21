@@ -1,0 +1,112 @@
+{
+  "id": "nl-football-leagues",
+  "name": "Netherlands — Football Leagues",
+  "title": "Netherlands — Football Leagues",
+  "description": "Domestic football (soccer) leagues and cup competitions of Netherlands. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/leagues",
+  "source_url": "https://github.com/openfootball/leagues",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "year_span",
+      "label": "Year Span",
+      "type": "string"
+    },
+    {
+      "key": "tier_kind",
+      "label": "Tier Kind",
+      "type": "string"
+    },
+    {
+      "key": "tier_level",
+      "label": "Tier Level",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "1",
+      "name": "Eredivisie",
+      "aliases": "Dutch Eredivisie, Dutch First Division, Niederlande Eredivisie [de], nl.1",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 1
+    },
+    {
+      "code": "1.comeback",
+      "name": "Eredivisie Comeback Tournament",
+      "aliases": "ned.cot",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 1
+    },
+    {
+      "code": "2",
+      "name": "Eerste Divisie",
+      "aliases": "Dutch Eerste Divisie",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 2
+    },
+    {
+      "code": "3",
+      "name": "Tweede Divisie",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "cup",
+      "name": "Cup",
+      "aliases": "KNVB Beker, Dutch KNVB Beker, Niederlande KNVB Cup [de], nl.cup",
+      "year_span": "",
+      "tier_kind": "national-cup",
+      "tier_level": ""
+    },
+    {
+      "code": "super",
+      "name": "Johan Cruijff Schaal",
+      "aliases": "Johan Cruijff Schaal in Amsterdam, Niederlande Johan Cruijff Schaal in Amsterdam [de], nl.sc",
+      "year_span": "",
+      "tier_kind": "super-cup",
+      "tier_level": ""
+    },
+    {
+      "code": "po",
+      "name": "Promotion/Relegation Playoffs",
+      "aliases": "Niederlande Auf/Abstiegsplayoffs [de]",
+      "year_span": "",
+      "tier_kind": "other",
+      "tier_level": ""
+    }
+  ],
+  "meta": {
+    "title": "Netherlands — Football Leagues - Free Download",
+    "description": "Domestic football (soccer) leagues and cup competitions of Netherlands. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Netherlands — Football Leagues | ListBase",
+    "seo_description": "Download Netherlands — Football Leagues — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/leagues"
+    ]
+  }
+}

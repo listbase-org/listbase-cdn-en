@@ -1,0 +1,96 @@
+{
+  "id": "es-football-leagues",
+  "name": "Spain — Football Leagues",
+  "title": "Spain — Football Leagues",
+  "description": "Domestic football (soccer) leagues and cup competitions of Spain. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/leagues",
+  "source_url": "https://github.com/openfootball/leagues",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "year_span",
+      "label": "Year Span",
+      "type": "string"
+    },
+    {
+      "key": "tier_kind",
+      "label": "Tier Kind",
+      "type": "string"
+    },
+    {
+      "key": "tier_level",
+      "label": "Tier Level",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "1",
+      "name": "Primera División",
+      "aliases": "España Primera División, Primera División de España, Spanish Primera División, Spanish Liga, La Liga, Spanien Primera Division [de]",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 1
+    },
+    {
+      "code": "2",
+      "name": "Segunda División",
+      "aliases": "España Segunda División, Segunda División de España, Spanish Segunda División, La Liga 2, Spanien Segunda Division [de]",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 2
+    },
+    {
+      "code": "3",
+      "name": "Segunda División B",
+      "aliases": "Spanien Segunda Division B [de], esp.2b",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "cup",
+      "name": "Copa del Rey",
+      "aliases": "Spanish Copa del Rey, España Copa del Rey, Copa del Rey de España",
+      "year_span": "",
+      "tier_kind": "national-cup",
+      "tier_level": ""
+    },
+    {
+      "code": "super",
+      "name": "Supercopa",
+      "aliases": "Spanien Supercopa [de], esp.sc",
+      "year_span": "",
+      "tier_kind": "super-cup",
+      "tier_level": ""
+    }
+  ],
+  "meta": {
+    "title": "Spain — Football Leagues - Free Download",
+    "description": "Domestic football (soccer) leagues and cup competitions of Spain. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Spain — Football Leagues | ListBase",
+    "seo_description": "Download Spain — Football Leagues — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/leagues"
+    ]
+  }
+}

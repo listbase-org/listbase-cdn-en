@@ -1,0 +1,265 @@
+{
+  "id": "big5-country-profiles",
+  "name": "Big 5 English-Speaking Countries - Profiles",
+  "title": "Big 5 English-Speaking Countries - Profiles",
+  "description": "Country profiles for US, UK, Canada, Australia, and New Zealand with capital, population, area, currency, languages, government type, life expectancy, and more.",
+  "category": "geography",
+  "source": "https://github.com/samayo/country-json",
+  "source_url": "https://github.com/samayo/country-json",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "iso2",
+      "label": "Iso2",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "currency_code",
+      "label": "Currency Code",
+      "type": "string"
+    },
+    {
+      "key": "currency_name",
+      "label": "Currency Name",
+      "type": "string"
+    },
+    {
+      "key": "calling_code",
+      "label": "Calling Code",
+      "type": "number"
+    },
+    {
+      "key": "tld",
+      "label": "Tld",
+      "type": "string"
+    },
+    {
+      "key": "languages",
+      "label": "Languages",
+      "type": "string"
+    },
+    {
+      "key": "government_type",
+      "label": "Government Type",
+      "type": "string"
+    },
+    {
+      "key": "life_expectancy",
+      "label": "Life Expectancy",
+      "type": "number"
+    },
+    {
+      "key": "national_dish",
+      "label": "National Dish",
+      "type": "string"
+    },
+    {
+      "key": "national_symbol",
+      "label": "National Symbol",
+      "type": "string"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "coastline_km",
+      "label": "Coastline Km",
+      "type": "number"
+    },
+    {
+      "key": "driving_side",
+      "label": "Driving Side",
+      "type": "string"
+    },
+    {
+      "key": "avg_male_height_cm",
+      "label": "Avg Male Height Cm",
+      "type": "number"
+    },
+    {
+      "key": "avg_temp_c",
+      "label": "Avg Temp C",
+      "type": "number"
+    },
+    {
+      "key": "pop_density",
+      "label": "Pop Density",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Australia",
+      "iso2": "AU",
+      "capital": "Canberra",
+      "population": 24982688,
+      "area_km2": 7741220,
+      "continent": "Oceania",
+      "currency_code": "AUD",
+      "currency_name": "Australian Dollar",
+      "calling_code": 61,
+      "tld": ".au",
+      "languages": "Arabic, Canton Chinese, English, German, Greek, Italian, Serbo-Croatian, Vietnamese",
+      "government_type": "Federation Constitutional Monarchy",
+      "life_expectancy": 79.8,
+      "national_dish": "Meat pie,Roast lamb",
+      "national_symbol": "animal",
+      "elevation": 330,
+      "coastline_km": 25.76,
+      "driving_side": "left",
+      "avg_male_height_cm": 176.3,
+      "avg_temp_c": 22.05,
+      "pop_density": 3.249129487,
+      "latitude": -10.0628,
+      "longitude": 153.639
+    },
+    {
+      "country": "Canada",
+      "iso2": "CA",
+      "capital": "Ottawa",
+      "population": 37057765,
+      "area_km2": 9970610,
+      "continent": "North America",
+      "currency_code": "CAD",
+      "currency_name": "Canadian Dollar",
+      "calling_code": 1,
+      "tld": ".ca",
+      "languages": "Chinese, Dutch, English, Eskimo Languages, French, German, Italian, Polish, Portuguese, Punjabi, Spanish, Ukrainian",
+      "government_type": "Constitutional Monarchy, Federation",
+      "life_expectancy": 79.4,
+      "national_dish": "Kraft Dinner",
+      "national_symbol": "Flower",
+      "elevation": 487,
+      "coastline_km": 202.08,
+      "driving_side": "right",
+      "avg_male_height_cm": 174.3,
+      "avg_temp_c": -4.03,
+      "pop_density": 4.075308214,
+      "latitude": 83.1106,
+      "longitude": -52.6363
+    },
+    {
+      "country": "United Kingdom",
+      "iso2": "GB",
+      "capital": "London",
+      "population": 66460344,
+      "area_km2": 242900,
+      "continent": "Europe",
+      "currency_code": "GBP",
+      "currency_name": "Pound Sterling",
+      "calling_code": 44,
+      "tld": ".gb",
+      "languages": "English, Gaeli, Kymri",
+      "government_type": "Constitutional Monarchy",
+      "life_expectancy": 77.7,
+      "national_dish": "Fish and chips,Chicken tikka masala (Indian-British curry)",
+      "national_symbol": "",
+      "coastline_km": 12.429,
+      "driving_side": "left",
+      "avg_male_height_cm": 175.4,
+      "avg_temp_c": 9.24,
+      "pop_density": 274.8273922,
+      "latitude": 59.3602,
+      "longitude": 1.759
+    },
+    {
+      "country": "New Zealand",
+      "iso2": "NZ",
+      "capital": "Wellington",
+      "population": 4841000,
+      "area_km2": 270534,
+      "continent": "Oceania",
+      "currency_code": "NZD",
+      "currency_name": "New Zealand Dollar",
+      "calling_code": 64,
+      "tld": ".nz",
+      "languages": "English, Maori",
+      "government_type": "Constitutional Monarchy",
+      "life_expectancy": 77.8,
+      "national_dish": "Bacon and egg pie, lamb, pavlova",
+      "national_symbol": "animal",
+      "elevation": 388,
+      "coastline_km": 15.134,
+      "driving_side": "left",
+      "avg_male_height_cm": 175.5,
+      "avg_temp_c": 10.46,
+      "pop_density": 18.55417569,
+      "latitude": -34.3897,
+      "longitude": -180
+    },
+    {
+      "country": "United States",
+      "iso2": "US",
+      "capital": "Washington",
+      "population": 326687501,
+      "area_km2": 9363520,
+      "continent": "North America",
+      "currency_code": "USD",
+      "currency_name": "US Dollar",
+      "calling_code": 1,
+      "tld": ".us",
+      "languages": "Chinese, English, French, German, Italian, Japanese, Korean, Polish, Portuguese, Spanish, Tagalog, Vietnamese",
+      "government_type": "Federal Republic",
+      "life_expectancy": 77.1,
+      "national_dish": "Hamburger, Hot dog, Fried chicken, Buffalo wings, Apple pie",
+      "national_symbol": "",
+      "elevation": 760,
+      "coastline_km": 19.924,
+      "driving_side": "right",
+      "avg_male_height_cm": 176.4,
+      "avg_temp_c": 9.46,
+      "pop_density": 35.76608858,
+      "latitude": 49.3886,
+      "longitude": -66.9548
+    }
+  ],
+  "meta": {
+    "title": "Big 5 English-Speaking Countries - Profiles - Free Download",
+    "description": "Country profiles for US, UK, Canada, Australia, and New Zealand with capital, population, area, currency, languages, government type, life expectancy, and more. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Big 5 English-Speaking Countries - Profiles | ListBase",
+    "seo_description": "Download Big 5 English-Speaking Countries - Profiles dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 23 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/samayo/country-json"
+    ]
+  }
+}

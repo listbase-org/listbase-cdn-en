@@ -1,0 +1,295 @@
+{
+  "id": "science-ph-scale",
+  "name": "pH Scale Reference Dataset & Chemical Properties",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "substance",
+      "label": "Substance",
+      "type": "string"
+    },
+    {
+      "key": "ph",
+      "label": "pH Value",
+      "type": "number"
+    },
+    {
+      "key": "h_concentration",
+      "label": "[H⁺] Concentration (mol/L)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "nature",
+      "label": "Nature",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "substance": "Battery Acid (H₂SO₄)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Strong Acid",
+      "nature": "Highly Corrosive"
+    },
+    {
+      "substance": "Hydrochloric Acid (HCl)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Strong Acid",
+      "nature": "Highly Corrosive"
+    },
+    {
+      "substance": "Stomach Acid",
+      "ph": 1,
+      "h_concentration": "10⁻¹",
+      "category": "Strong Acid",
+      "nature": "Corrosive"
+    },
+    {
+      "substance": "Lemon Juice",
+      "ph": 2,
+      "h_concentration": "10⁻²",
+      "category": "Strong Acid",
+      "nature": "Acidic"
+    },
+    {
+      "substance": "Vinegar",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Strong Acid",
+      "nature": "Acidic"
+    },
+    {
+      "substance": "Coca-Cola",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Strong Acid",
+      "nature": "Acidic"
+    },
+    {
+      "substance": "Orange Juice",
+      "ph": 3.5,
+      "h_concentration": "3.2×10⁻⁴",
+      "category": "Weak Acid",
+      "nature": "Mildly Acidic"
+    },
+    {
+      "substance": "Tomato Juice",
+      "ph": 4,
+      "h_concentration": "10⁻⁴",
+      "category": "Weak Acid",
+      "nature": "Mildly Acidic"
+    },
+    {
+      "substance": "Beer",
+      "ph": 4.5,
+      "h_concentration": "3.2×10⁻⁵",
+      "category": "Weak Acid",
+      "nature": "Mildly Acidic"
+    },
+    {
+      "substance": "Coffee (Black)",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Weak Acid",
+      "nature": "Mildly Acidic"
+    },
+    {
+      "substance": "Acid Rain",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Weak Acid",
+      "nature": "Environmental"
+    },
+    {
+      "substance": "Bananas",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Weak Acid",
+      "nature": "Mildly Acidic"
+    },
+    {
+      "substance": "Normal Rain",
+      "ph": 5.6,
+      "h_concentration": "2.5×10⁻⁶",
+      "category": "Weak Acid",
+      "nature": "Natural"
+    },
+    {
+      "substance": "Milk",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Weak Acid",
+      "nature": "Nearly Neutral"
+    },
+    {
+      "substance": "Saliva",
+      "ph": 6.8,
+      "h_concentration": "1.6×10⁻⁷",
+      "category": "Weak Acid",
+      "nature": "Nearly Neutral"
+    },
+    {
+      "substance": "Pure Water",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Neutral",
+      "nature": "Neutral"
+    },
+    {
+      "substance": "Blood",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Neutral",
+      "nature": "Slightly Basic"
+    },
+    {
+      "substance": "Egg Whites",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Weak Base",
+      "nature": "Mildly Basic"
+    },
+    {
+      "substance": "Sea Water",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Weak Base",
+      "nature": "Mildly Basic"
+    },
+    {
+      "substance": "Baking Soda (NaHCO₃)",
+      "ph": 8.5,
+      "h_concentration": "3.2×10⁻⁹",
+      "category": "Weak Base",
+      "nature": "Mildly Basic"
+    },
+    {
+      "substance": "Toothpaste",
+      "ph": 9,
+      "h_concentration": "10⁻⁹",
+      "category": "Weak Base",
+      "nature": "Basic"
+    },
+    {
+      "substance": "Milk of Magnesia",
+      "ph": 10.5,
+      "h_concentration": "3.2×10⁻¹¹",
+      "category": "Weak Base",
+      "nature": "Basic"
+    },
+    {
+      "substance": "Ammonia (NH₃)",
+      "ph": 11,
+      "h_concentration": "10⁻¹¹",
+      "category": "Moderate Base",
+      "nature": "Caustic"
+    },
+    {
+      "substance": "Soapy Water",
+      "ph": 12,
+      "h_concentration": "10⁻¹²",
+      "category": "Strong Base",
+      "nature": "Caustic"
+    },
+    {
+      "substance": "Bleach (NaClO)",
+      "ph": 12.5,
+      "h_concentration": "3.2×10⁻¹³",
+      "category": "Strong Base",
+      "nature": "Corrosive"
+    },
+    {
+      "substance": "Oven Cleaner",
+      "ph": 13,
+      "h_concentration": "10⁻¹³",
+      "category": "Strong Base",
+      "nature": "Highly Corrosive"
+    },
+    {
+      "substance": "Drain Cleaner",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Strong Base",
+      "nature": "Highly Corrosive"
+    },
+    {
+      "substance": "Sodium Hydroxide (NaOH)",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Strong Base",
+      "nature": "Highly Corrosive"
+    },
+    {
+      "substance": "Healthy Soil",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Environmental",
+      "nature": "Optimal for most plants"
+    },
+    {
+      "substance": "Swimming Pool (Ideal)",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Environmental",
+      "nature": "Safe for swimming"
+    },
+    {
+      "substance": "Aquarium (Freshwater)",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Environmental",
+      "nature": "Optimal for fish"
+    },
+    {
+      "substance": "Human Skin",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Biological",
+      "nature": "Acid mantle"
+    },
+    {
+      "substance": "Human Urine",
+      "ph": 6,
+      "h_concentration": "10⁻⁶",
+      "category": "Biological",
+      "nature": "Variable (4.5-8)"
+    }
+  ],
+  "meta": {
+    "seo_title": "pH Scale Reference Data - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download 33 pH scale reference entries for various substances. Get pH values, H⁺ concentration, and category. Free in Excel, CSV, and PDF formats.",
+    "title": "pH Scale Reference Dataset & Chemical Properties",
+    "description": "This dataset provides a comprehensive reference of 33 substances, listing their pH values, hydrogen ion concentration, acidity/alkalinity category, and nature.",
+    "key_takeaways": [
+      "Access a curated list of 33 common substances with their pH values.",
+      "Explore hydrogen ion concentrations ([H⁺]) and categorize substances by acidity/alkalinity.",
+      "Download essential chemistry reference data in multiple convenient formats.",
+      "Understand the nature of various substances, from highly corrosive to neutral."
+    ],
+    "keywords": [
+      "pH scale reference excel",
+      "acid base pH data csv",
+      "substance pH value download",
+      "chemistry pH concentration",
+      "alkaline acidic substances list",
+      "free pH dataset pdf"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your database or Python scripts for chemical research, data analysis, or building educational applications related to pH.",
+      "Use the **Excel** file to filter, sort, and analyze pH values and concentrations for laboratory reporting, academic projects, or creating comparison charts.",
+      "Print the **PDF** version for quick offline reference in a chemistry classroom, laboratory, or for study guides and educational presentations.",
+      "Leverage this dataset to enrich educational content, develop quizzes, or demonstrate the pH spectrum of everyday substances to students."
+    ]
+  },
+  "record_count": 33,
+  "title": "pH Scale Reference Dataset & Chemical Properties"
+}

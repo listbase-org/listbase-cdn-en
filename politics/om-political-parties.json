@@ -1,0 +1,106 @@
+{
+  "id": "om-political-parties",
+  "name": "Oman — Political Parties",
+  "title": "Oman — Political Parties",
+  "description": "Political parties of Oman from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "string"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6348,
+      "name_short": "PFLO",
+      "name": "Popular Front for the Liberation of Oman",
+      "name_english": "Popular Front for the Liberation of Oman",
+      "name_other": "Arabic: الجبهة الشعبية لتحرير عُمان - al-Jabha al-Sha'abiya li-Tahrīr 'Uman",
+      "year_first": 1974,
+      "year_last": 1992,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Oman",
+      "description": "opposition group",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Oman — Political Parties - Free Download",
+    "description": "Political parties of Oman from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 1 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Oman — Political Parties | ListBase",
+    "seo_description": "Download Oman — Political Parties dataset with 1 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

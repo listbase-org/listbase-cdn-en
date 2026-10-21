@@ -1,0 +1,419 @@
+{
+  "id": "fr-ports",
+  "name": "France — Ports",
+  "title": "France — Ports",
+  "description": "Ports and harbors in France: name, city, coordinates, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "asciiname",
+      "label": "Asciiname",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "unlc_list",
+      "label": "Unlc List",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "",
+      "name": "Port de Lavéra",
+      "asciiname": "Port de Lavera",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Provence-Alpes-Cote d'Azur",
+      "latitude": 43.38333,
+      "longitude": 5,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRLAV|"
+    },
+    {
+      "iata_code": "",
+      "name": "Dunkerque Port Ouest",
+      "asciiname": "Dunkerque Port Ouest",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Hauts-de-France",
+      "latitude": 51.02034,
+      "longitude": 2.19379,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRDKK|"
+    },
+    {
+      "iata_code": "",
+      "name": "Dunkerque Port Est",
+      "asciiname": "Dunkerque Port Est",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Hauts-de-France",
+      "latitude": 51.0477,
+      "longitude": 2.33767,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRDKK|"
+    },
+    {
+      "iata_code": "",
+      "name": "Port de Donges",
+      "asciiname": "Port de Donges",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Pays de la Loire",
+      "latitude": 47.30559,
+      "longitude": -2.06655,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRDON|"
+    },
+    {
+      "iata_code": "",
+      "name": "Calais Ferry Port",
+      "asciiname": "Calais Ferry Port",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Hauts-de-France",
+      "latitude": 50.96562,
+      "longitude": 1.85596,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRCQF|"
+    },
+    {
+      "iata_code": "",
+      "name": "Cherbourg Port",
+      "asciiname": "Cherbourg Port",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Normandy",
+      "latitude": 49.64449,
+      "longitude": -1.61087,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRCER|"
+    },
+    {
+      "iata_code": "",
+      "name": "Dieppe Port",
+      "asciiname": "Dieppe Port",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Normandy",
+      "latitude": 49.93225,
+      "longitude": 1.08745,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRDPE|"
+    },
+    {
+      "iata_code": "",
+      "name": "Port of Le Havre",
+      "asciiname": "Port of Le Havre",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Normandy",
+      "latitude": 49.48519,
+      "longitude": 0.11564,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRLEH|"
+    },
+    {
+      "iata_code": "",
+      "name": "Granville Port",
+      "asciiname": "Granville Port",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Normandy",
+      "latitude": 48.83354,
+      "longitude": -1.60233,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRGFR|"
+    },
+    {
+      "iata_code": "",
+      "name": "Marseille-Fos Port",
+      "asciiname": "Marseille-Fos Port",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Provence-Alpes-Cote d'Azur",
+      "latitude": 43.30007,
+      "longitude": 5.36317,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRMRS|"
+    },
+    {
+      "iata_code": "",
+      "name": "Saint-Nazaire, Nantes Port",
+      "asciiname": "Saint-Nazaire, Nantes Port",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Pays de la Loire",
+      "latitude": 47.29539,
+      "longitude": -2.16044,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRSNR|"
+    },
+    {
+      "iata_code": "",
+      "name": "Calvi Port",
+      "asciiname": "Calvi Port",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Corsica",
+      "latitude": 42.56726,
+      "longitude": 8.76163,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRCLY|"
+    },
+    {
+      "iata_code": "",
+      "name": "Bonifacio Port",
+      "asciiname": "Bonifacio Port",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Corsica",
+      "latitude": 41.38842,
+      "longitude": 9.15713,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRBON|"
+    },
+    {
+      "iata_code": "",
+      "name": "Bastia Port",
+      "asciiname": "Bastia Port",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Corsica",
+      "latitude": 42.70134,
+      "longitude": 9.45315,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRBIA|"
+    },
+    {
+      "iata_code": "",
+      "name": "Port de Fécamp",
+      "asciiname": "Port de Fecamp",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Normandy",
+      "latitude": 49.76203,
+      "longitude": 0.36847,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRFEC|"
+    },
+    {
+      "iata_code": "",
+      "name": "Port de Saint Tropez",
+      "asciiname": "Port de Saint Tropez",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Provence-Alpes-Cote d'Azur",
+      "latitude": 43.27236,
+      "longitude": 6.63673,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRSTP|"
+    },
+    {
+      "iata_code": "",
+      "name": "La Gare Marchande de Caronte-la-Gaffette",
+      "asciiname": "La Gare Marchande de Caronte-la-Gaffette",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Provence-Alpes-Cote d'Azur",
+      "latitude": 43.40377,
+      "longitude": 5.00642,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRCOZ|"
+    },
+    {
+      "iata_code": "",
+      "name": "Nantes",
+      "asciiname": "Nantes",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Pays de la Loire",
+      "latitude": 47.19618,
+      "longitude": -1.58904,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRNTE|"
+    },
+    {
+      "iata_code": "",
+      "name": "Boulogne-Sur-Mer",
+      "asciiname": "Boulogne-Sur-Mer",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Hauts-de-France",
+      "latitude": 50.72196,
+      "longitude": 1.60014,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRBOL|"
+    },
+    {
+      "iata_code": "",
+      "name": "Bayonne",
+      "asciiname": "Bayonne",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "New Aquitaine",
+      "latitude": 43.49419,
+      "longitude": -1.47484,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRBAY|"
+    },
+    {
+      "iata_code": "",
+      "name": "Port de Brest",
+      "asciiname": "Port de Brest",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Brittany",
+      "latitude": 48.38506,
+      "longitude": -4.46327,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRBES|"
+    },
+    {
+      "iata_code": "",
+      "name": "Terminal Port Océan",
+      "asciiname": "Terminal Port Ocean",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Normandy",
+      "latitude": 49.46061,
+      "longitude": 0.14898,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRLEH|"
+    },
+    {
+      "iata_code": "",
+      "name": "Bassin René Cotin",
+      "asciiname": "Bassin Rene Cotin",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Normandy",
+      "latitude": 49.47504,
+      "longitude": 0.15721,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRLEH|"
+    },
+    {
+      "iata_code": "",
+      "name": "Port Saint Louis du Rhône",
+      "asciiname": "Port Saint Louis du Rhone",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Provence-Alpes-Cote d'Azur",
+      "latitude": 43.40847,
+      "longitude": 4.84209,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRPSL|"
+    },
+    {
+      "iata_code": "",
+      "name": "Grand port maritime de Marseille",
+      "asciiname": "Grand port maritime de Marseille",
+      "city_name_list": "",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Provence-Alpes-Cote d'Azur",
+      "latitude": 43.31918,
+      "longitude": 5.35613,
+      "timezone": "Europe/Paris",
+      "unlc_list": "FRMRS|"
+    },
+    {
+      "iata_code": "XPZ",
+      "name": "Port-Grimaud",
+      "asciiname": "Port-Grimaud",
+      "city_name_list": "La Môle",
+      "country_code": "FR",
+      "country_name": "France",
+      "adm1_name_ascii": "Provence-Alpes-Cote d'Azur",
+      "latitude": 43.26981,
+      "longitude": 6.58096,
+      "timezone": "Europe/Paris",
+      "unlc_list": ""
+    }
+  ],
+  "meta": {
+    "title": "France — Ports - Free Download",
+    "description": "Ports and harbors in France: name, city, coordinates, timezone. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "France — Ports | ListBase",
+    "seo_description": "Download France — Ports dataset with 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records with 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

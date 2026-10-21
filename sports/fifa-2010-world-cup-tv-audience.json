@@ -1,0 +1,1388 @@
+{
+  "id": "fifa-2010-world-cup-tv-audience",
+  "name": "FIFA 2010 World Cup TV Audience by Country",
+  "title": "FIFA 2010 World Cup TV Audience by Country",
+  "description": "Per-country shares of population, TV audience, and GDP-weighted audience for the 2010 FIFA World Cup, alongside FIFA confederation, for 191 countries.",
+  "category": "sports",
+  "source": "https://github.com/fivethirtyeight/data",
+  "source_url": "https://github.com/fivethirtyeight/data",
+  "updated": "2026-04",
+  "record_count": 191,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "confederation",
+      "label": "Confederation",
+      "type": "string"
+    },
+    {
+      "key": "population_share",
+      "label": "Population Share",
+      "type": "number"
+    },
+    {
+      "key": "tv_audience_share",
+      "label": "Tv Audience Share",
+      "type": "number"
+    },
+    {
+      "key": "gdp_weighted_share",
+      "label": "Gdp Weighted Share",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country": "United States",
+      "confederation": "CONCACAF",
+      "population_share": 4.5,
+      "tv_audience_share": 4.3,
+      "gdp_weighted_share": 11.3
+    },
+    {
+      "country": "Japan",
+      "confederation": "AFC",
+      "population_share": 1.9,
+      "tv_audience_share": 4.9,
+      "gdp_weighted_share": 9.1
+    },
+    {
+      "country": "China",
+      "confederation": "AFC",
+      "population_share": 19.5,
+      "tv_audience_share": 14.8,
+      "gdp_weighted_share": 7.3
+    },
+    {
+      "country": "Germany",
+      "confederation": "UEFA",
+      "population_share": 1.2,
+      "tv_audience_share": 2.9,
+      "gdp_weighted_share": 6.3
+    },
+    {
+      "country": "Brazil",
+      "confederation": "CONMEBOL",
+      "population_share": 2.8,
+      "tv_audience_share": 7.1,
+      "gdp_weighted_share": 5.4
+    },
+    {
+      "country": "United Kingdom",
+      "confederation": "UEFA",
+      "population_share": 0.9,
+      "tv_audience_share": 2.1,
+      "gdp_weighted_share": 4.2
+    },
+    {
+      "country": "Italy",
+      "confederation": "UEFA",
+      "population_share": 0.9,
+      "tv_audience_share": 2.1,
+      "gdp_weighted_share": 4
+    },
+    {
+      "country": "France",
+      "confederation": "UEFA",
+      "population_share": 0.9,
+      "tv_audience_share": 2,
+      "gdp_weighted_share": 4
+    },
+    {
+      "country": "Russia",
+      "confederation": "UEFA",
+      "population_share": 2.1,
+      "tv_audience_share": 3.1,
+      "gdp_weighted_share": 3.5
+    },
+    {
+      "country": "Spain",
+      "confederation": "UEFA",
+      "population_share": 0.7,
+      "tv_audience_share": 1.8,
+      "gdp_weighted_share": 3.1
+    },
+    {
+      "country": "South Korea",
+      "confederation": "AFC",
+      "population_share": 0.7,
+      "tv_audience_share": 1.8,
+      "gdp_weighted_share": 3
+    },
+    {
+      "country": "Indonesia",
+      "confederation": "AFC",
+      "population_share": 3.5,
+      "tv_audience_share": 6.7,
+      "gdp_weighted_share": 2.9
+    },
+    {
+      "country": "Mexico",
+      "confederation": "CONCACAF",
+      "population_share": 1.7,
+      "tv_audience_share": 3.2,
+      "gdp_weighted_share": 2.6
+    },
+    {
+      "country": "Turkey",
+      "confederation": "UEFA",
+      "population_share": 1.1,
+      "tv_audience_share": 2.3,
+      "gdp_weighted_share": 2
+    },
+    {
+      "country": "Thailand",
+      "confederation": "AFC",
+      "population_share": 1,
+      "tv_audience_share": 2.4,
+      "gdp_weighted_share": 1.6
+    },
+    {
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "population_share": 0.6,
+      "tv_audience_share": 1.5,
+      "gdp_weighted_share": 1.6
+    },
+    {
+      "country": "Netherlands",
+      "confederation": "UEFA",
+      "population_share": 0.2,
+      "tv_audience_share": 0.6,
+      "gdp_weighted_share": 1.5
+    },
+    {
+      "country": "Poland",
+      "confederation": "UEFA",
+      "population_share": 0.6,
+      "tv_audience_share": 1.2,
+      "gdp_weighted_share": 1.3
+    },
+    {
+      "country": "Saudi Arabia",
+      "confederation": "AFC",
+      "population_share": 0.4,
+      "tv_audience_share": 0.5,
+      "gdp_weighted_share": 1.2
+    },
+    {
+      "country": "Taiwan",
+      "confederation": "AFC",
+      "population_share": 0.3,
+      "tv_audience_share": 0.5,
+      "gdp_weighted_share": 1
+    },
+    {
+      "country": "Canada",
+      "confederation": "CONCACAF",
+      "population_share": 0.5,
+      "tv_audience_share": 0.5,
+      "gdp_weighted_share": 1
+    },
+    {
+      "country": "Colombia",
+      "confederation": "CONMEBOL",
+      "population_share": 0.7,
+      "tv_audience_share": 1.6,
+      "gdp_weighted_share": 0.9
+    },
+    {
+      "country": "Venezuela",
+      "confederation": "CONMEBOL",
+      "population_share": 0.4,
+      "tv_audience_share": 1,
+      "gdp_weighted_share": 0.9
+    },
+    {
+      "country": "South Africa",
+      "confederation": "CAF",
+      "population_share": 0.7,
+      "tv_audience_share": 1.3,
+      "gdp_weighted_share": 0.8
+    },
+    {
+      "country": "Malaysia",
+      "confederation": "AFC",
+      "population_share": 0.4,
+      "tv_audience_share": 0.7,
+      "gdp_weighted_share": 0.7
+    },
+    {
+      "country": "Switzerland",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.7
+    },
+    {
+      "country": "Nigeria",
+      "confederation": "CAF",
+      "population_share": 2.3,
+      "tv_audience_share": 2.6,
+      "gdp_weighted_share": 0.7
+    },
+    {
+      "country": "Belgium",
+      "confederation": "UEFA",
+      "population_share": 0.2,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.7
+    },
+    {
+      "country": "Sweden",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.7
+    },
+    {
+      "country": "Vietnam",
+      "confederation": "AFC",
+      "population_share": 1.3,
+      "tv_audience_share": 2.6,
+      "gdp_weighted_share": 0.6
+    },
+    {
+      "country": "Iran",
+      "confederation": "AFC",
+      "population_share": 1.1,
+      "tv_audience_share": 0.7,
+      "gdp_weighted_share": 0.6
+    },
+    {
+      "country": "Chile",
+      "confederation": "CONMEBOL",
+      "population_share": 0.3,
+      "tv_audience_share": 0.6,
+      "gdp_weighted_share": 0.6
+    },
+    {
+      "country": "Romania",
+      "confederation": "UEFA",
+      "population_share": 0.3,
+      "tv_audience_share": 0.7,
+      "gdp_weighted_share": 0.6
+    },
+    {
+      "country": "Austria",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.6
+    },
+    {
+      "country": "Singapore",
+      "confederation": "AFC",
+      "population_share": 0.1,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0.6
+    },
+    {
+      "country": "Australia",
+      "confederation": "AFC",
+      "population_share": 0.3,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.5
+    },
+    {
+      "country": "Greece",
+      "confederation": "UEFA",
+      "population_share": 0.2,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.5
+    },
+    {
+      "country": "Portugal",
+      "confederation": "UEFA",
+      "population_share": 0.2,
+      "tv_audience_share": 0.4,
+      "gdp_weighted_share": 0.5
+    },
+    {
+      "country": "India",
+      "confederation": "AFC",
+      "population_share": 17.6,
+      "tv_audience_share": 2,
+      "gdp_weighted_share": 0.5
+    },
+    {
+      "country": "Czech Republic",
+      "confederation": "UEFA",
+      "population_share": 0.2,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.5
+    },
+    {
+      "country": "Egypt",
+      "confederation": "CAF",
+      "population_share": 1.1,
+      "tv_audience_share": 0.8,
+      "gdp_weighted_share": 0.5
+    },
+    {
+      "country": "Denmark",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0.5
+    },
+    {
+      "country": "Norway",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.4
+    },
+    {
+      "country": "Peru",
+      "confederation": "CONMEBOL",
+      "population_share": 0.4,
+      "tv_audience_share": 0.8,
+      "gdp_weighted_share": 0.4
+    },
+    {
+      "country": "Ukraine",
+      "confederation": "UEFA",
+      "population_share": 0.7,
+      "tv_audience_share": 0.9,
+      "gdp_weighted_share": 0.4
+    },
+    {
+      "country": "Iraq",
+      "confederation": "AFC",
+      "population_share": 0.5,
+      "tv_audience_share": 0.5,
+      "gdp_weighted_share": 0.4
+    },
+    {
+      "country": "Hungary",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.4
+    },
+    {
+      "country": "Kazakhstan",
+      "confederation": "UEFA",
+      "population_share": 0.2,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.3
+    },
+    {
+      "country": "Finland",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0.3
+    },
+    {
+      "country": "Ireland",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.3
+    },
+    {
+      "country": "Algeria",
+      "confederation": "CAF",
+      "population_share": 0.5,
+      "tv_audience_share": 0.4,
+      "gdp_weighted_share": 0.3
+    },
+    {
+      "country": "Cuba",
+      "confederation": "CONCACAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.3
+    },
+    {
+      "country": "Ecuador",
+      "confederation": "CONMEBOL",
+      "population_share": 0.2,
+      "tv_audience_share": 0.5,
+      "gdp_weighted_share": 0.3
+    },
+    {
+      "country": "Slovakia",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0.3
+    },
+    {
+      "country": "Qatar",
+      "confederation": "AFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0.2
+    },
+    {
+      "country": "Kuwait",
+      "confederation": "AFC",
+      "population_share": 0,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.2
+    },
+    {
+      "country": "Bulgaria",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0.2
+    },
+    {
+      "country": "Serbia",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.2
+    },
+    {
+      "country": "Belarus",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0.2
+    },
+    {
+      "country": "Hong Kong",
+      "confederation": "AFC",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.2
+    },
+    {
+      "country": "Croatia",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Oman",
+      "confederation": "AFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Dominica Republic",
+      "confederation": "CONCACAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Azerbaijan",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "New Zealand",
+      "confederation": "OFC",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Lithuania",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Slovenia",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "population_share": 0,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Costa Rica",
+      "confederation": "CONCACAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Uzbekistan",
+      "confederation": "AFC",
+      "population_share": 0.4,
+      "tv_audience_share": 0.5,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Yemen",
+      "confederation": "CAF",
+      "population_share": 0.3,
+      "tv_audience_share": 0.4,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Israel",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "El Salvador",
+      "confederation": "CONCACAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Syria",
+      "confederation": "AFC",
+      "population_share": 0.3,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Pakistan",
+      "confederation": "AFC",
+      "population_share": 2.5,
+      "tv_audience_share": 0.4,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Guatemala",
+      "confederation": "CONCACAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Paraguay",
+      "confederation": "CONMEBOL",
+      "population_share": 0.1,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Panama",
+      "confederation": "CONCACAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Bosnia-Herzegovina",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Cambodia",
+      "confederation": "AFC",
+      "population_share": 0.2,
+      "tv_audience_share": 0.5,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Ivory Coast",
+      "confederation": "CAF",
+      "population_share": 0.3,
+      "tv_audience_share": 0.4,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Macau",
+      "confederation": "AFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Latvia",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Lebanon",
+      "confederation": "AFC",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Jordan",
+      "confederation": "AFC",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Honduras",
+      "confederation": "CONCACAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Brunei",
+      "confederation": "AFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Albania",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Turkmenistan",
+      "confederation": "AFC",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Angola",
+      "confederation": "CAF",
+      "population_share": 0.3,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0.1
+    },
+    {
+      "country": "Estonia",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Bahrain",
+      "confederation": "AFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Nepal",
+      "confederation": "AFC",
+      "population_share": 0.4,
+      "tv_audience_share": 0.4,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Cyprus",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Ghana",
+      "confederation": "CAF",
+      "population_share": 0.4,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Mauritius",
+      "confederation": "CAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Macedonia",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Kenya",
+      "confederation": "CAF",
+      "population_share": 0.6,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Trinidad &Tobago",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Philippines",
+      "confederation": "AFC",
+      "population_share": 1.4,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Bolivia",
+      "confederation": "CONMEBOL",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Laos",
+      "confederation": "AFC",
+      "population_share": 0.1,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Armenia",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Nicaragua",
+      "confederation": "CONCACAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Afghanistan",
+      "confederation": "AFC",
+      "population_share": 0.4,
+      "tv_audience_share": 0.3,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Kosovo",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Cameroon",
+      "confederation": "CAF",
+      "population_share": 0.3,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Senegal",
+      "confederation": "CAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Jamaica",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Sri Lanka",
+      "confederation": "AFC",
+      "population_share": 0.3,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Myanmar",
+      "confederation": "AFC",
+      "population_share": 0.8,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Moldova",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Malta",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Bangladesh",
+      "confederation": "AFC",
+      "population_share": 2.2,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Zambia",
+      "confederation": "CAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Morocco",
+      "confederation": "CAF",
+      "population_share": 0.5,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "North Korea",
+      "confederation": "AFC",
+      "population_share": 0.4,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Botswana",
+      "confederation": "CAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Tajikistan",
+      "confederation": "AFC",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Iceland",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Uganda",
+      "confederation": "CAF",
+      "population_share": 0.5,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Libya",
+      "confederation": "CAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Palestine",
+      "confederation": "AFC",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Kyrgyzstan",
+      "confederation": "AFC",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Mongolia",
+      "confederation": "AFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Montenegro",
+      "confederation": "UEFA",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Tanzania",
+      "confederation": "CAF",
+      "population_share": 0.7,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Georgia",
+      "confederation": "UEFA",
+      "population_share": 0.1,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Suriname",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Sudan",
+      "confederation": "CAF",
+      "population_share": 0.5,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Gabon",
+      "confederation": "CAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Madagascar",
+      "confederation": "CAF",
+      "population_share": 0.3,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Tunisia",
+      "confederation": "AFC",
+      "population_share": 0.2,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Ethiopia",
+      "confederation": "CAF",
+      "population_share": 1.3,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Zimbabwe",
+      "confederation": "CAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Namibia",
+      "confederation": "CAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Bahamas",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Papua New Guinea",
+      "confederation": "OFC",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Guyana",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Turks & Caicos",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Congo DR",
+      "confederation": "CAF",
+      "population_share": 0.9,
+      "tv_audience_share": 0.2,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Burkina Faso",
+      "confederation": "CAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Guinea",
+      "confederation": "CAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Haiti",
+      "confederation": "CONCACAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Fiji",
+      "confederation": "OFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Barbados",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Mali",
+      "confederation": "CAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Bermuda",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "St. Maarten",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Equatorial Guinea",
+      "confederation": "CAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Mozambique",
+      "confederation": "CAF",
+      "population_share": 0.3,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Seychelles",
+      "confederation": "CAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Cape Verde",
+      "confederation": "CAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Benin",
+      "confederation": "CAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Swaziland",
+      "confederation": "CAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Cayman Islands",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Aruba",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Maldives",
+      "confederation": "AFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Niger",
+      "confederation": "CAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Curacao",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "St. Lucia",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Togo",
+      "confederation": "CAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Burundi",
+      "confederation": "CAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0.1,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Congo, Rep.",
+      "confederation": "CAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Antigua & Barbuda",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Chad",
+      "confederation": "CAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Eritrea",
+      "confederation": "CAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Grenada",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Lesotho",
+      "confederation": "CAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "St. Vincent",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Malawi",
+      "confederation": "CAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Sierra Leone",
+      "confederation": "CAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Mauritania",
+      "confederation": "CAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Solomon Islands",
+      "confederation": "OFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Dominica",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Timor",
+      "confederation": "AFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "St. Kitts",
+      "confederation": "CONCACAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Rwanda",
+      "confederation": "CAF",
+      "population_share": 0.2,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Somalia",
+      "confederation": "CAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Gambia",
+      "confederation": "CAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Samoa",
+      "confederation": "OFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Guinea-Bissau",
+      "confederation": "CAF",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Central African Republic",
+      "confederation": "CAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Vanuatu",
+      "confederation": "OFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "American Samoa",
+      "confederation": "OFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Cook Islands",
+      "confederation": "OFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Tonga",
+      "confederation": "OFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Liberia",
+      "confederation": "CAF",
+      "population_share": 0.1,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Palau",
+      "confederation": "OFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Nauru",
+      "confederation": "OFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    },
+    {
+      "country": "Niue",
+      "confederation": "OFC",
+      "population_share": 0,
+      "tv_audience_share": 0,
+      "gdp_weighted_share": 0
+    }
+  ],
+  "meta": {
+    "title": "FIFA 2010 World Cup TV Audience by Country - Free Download",
+    "description": "Per-country shares of population, TV audience, and GDP-weighted audience for the 2010 FIFA World Cup, alongside FIFA confederation, for 191 countries. Contains 191 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FIFA 2010 World Cup TV Audience by Country | ListBase",
+    "seo_description": "Download FIFA 2010 World Cup TV Audience by Country — 191 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 191 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/fivethirtyeight/data"
+    ]
+  }
+}

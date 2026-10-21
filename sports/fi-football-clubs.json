@@ -1,0 +1,277 @@
+{
+  "id": "fi-football-clubs",
+  "name": "Finland — Football Clubs",
+  "title": "Finland — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Finland's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "HJK",
+      "matches_played": 258,
+      "seasons_count": 10,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-1998, veikkausliiga-1999, veikkausliiga-2002, veikkausliiga-2008, veikkausliiga-2010, veikkausliiga-2011, veikkausliiga-2012, veikkausliiga-2013, veikkausliiga-2014, veikkausliiga-2015"
+    },
+    {
+      "name": "Jaro",
+      "matches_played": 251,
+      "seasons_count": 9,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-1998, veikkausliiga-2002, veikkausliiga-2008, veikkausliiga-2010, veikkausliiga-2011, veikkausliiga-2012, veikkausliiga-2013, veikkausliiga-2014, veikkausliiga-2015"
+    },
+    {
+      "name": "VPS",
+      "matches_played": 244,
+      "seasons_count": 8,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-1998, veikkausliiga-2008, veikkausliiga-2010, veikkausliiga-2011, veikkausliiga-2012, veikkausliiga-2013, veikkausliiga-2014, veikkausliiga-2015"
+    },
+    {
+      "name": "InterTurku",
+      "matches_played": 231,
+      "seasons_count": 9,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1999,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-1999, veikkausliiga-2002, veikkausliiga-2008, veikkausliiga-2010, veikkausliiga-2011, veikkausliiga-2012, veikkausliiga-2013, veikkausliiga-2014, veikkausliiga-2015"
+    },
+    {
+      "name": "MyPa",
+      "matches_played": 225,
+      "seasons_count": 9,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "veikkausliiga-1998, veikkausliiga-1999, veikkausliiga-2002, veikkausliiga-2008, veikkausliiga-2010, veikkausliiga-2011, veikkausliiga-2012, veikkausliiga-2013, veikkausliiga-2014"
+    },
+    {
+      "name": "KuPS",
+      "matches_played": 217,
+      "seasons_count": 7,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2008,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-2008, veikkausliiga-2010, veikkausliiga-2011, veikkausliiga-2012, veikkausliiga-2013, veikkausliiga-2014, veikkausliiga-2015"
+    },
+    {
+      "name": "Mariehamn",
+      "matches_played": 217,
+      "seasons_count": 7,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2008,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-2008, veikkausliiga-2010, veikkausliiga-2011, veikkausliiga-2012, veikkausliiga-2013, veikkausliiga-2014, veikkausliiga-2015"
+    },
+    {
+      "name": "TPS",
+      "matches_played": 211,
+      "seasons_count": 7,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "veikkausliiga-1998, veikkausliiga-2008, veikkausliiga-2010, veikkausliiga-2011, veikkausliiga-2012, veikkausliiga-2013, veikkausliiga-2014"
+    },
+    {
+      "name": "Rovaniemi",
+      "matches_played": 192,
+      "seasons_count": 7,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-1998, veikkausliiga-1999, veikkausliiga-2008, veikkausliiga-2011, veikkausliiga-2013, veikkausliiga-2014, veikkausliiga-2015"
+    },
+    {
+      "name": "Lahti",
+      "matches_played": 191,
+      "seasons_count": 7,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2002,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-2002, veikkausliiga-2008, veikkausliiga-2010, veikkausliiga-2012, veikkausliiga-2013, veikkausliiga-2014, veikkausliiga-2015"
+    },
+    {
+      "name": "Honka",
+      "matches_played": 184,
+      "seasons_count": 6,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2008,
+      "last_season_year": 2014,
+      "seasons": "veikkausliiga-2008, veikkausliiga-2010, veikkausliiga-2011, veikkausliiga-2012, veikkausliiga-2013, veikkausliiga-2014"
+    },
+    {
+      "name": "Haka",
+      "matches_played": 159,
+      "seasons_count": 7,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "veikkausliiga-1998, veikkausliiga-1999, veikkausliiga-2002, veikkausliiga-2008, veikkausliiga-2010, veikkausliiga-2011, veikkausliiga-2012"
+    },
+    {
+      "name": "JJKJyvaskyla",
+      "matches_played": 125,
+      "seasons_count": 4,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2010,
+      "last_season_year": 2013,
+      "seasons": "veikkausliiga-2010, veikkausliiga-2011, veikkausliiga-2012, veikkausliiga-2013"
+    },
+    {
+      "name": "SJK",
+      "matches_played": 66,
+      "seasons_count": 2,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2014,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-2014, veikkausliiga-2015"
+    },
+    {
+      "name": "TampereUtd",
+      "matches_played": 59,
+      "seasons_count": 3,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2002,
+      "last_season_year": 2010,
+      "seasons": "veikkausliiga-2002, veikkausliiga-2008, veikkausliiga-2010"
+    },
+    {
+      "name": "JazzPori",
+      "matches_played": 34,
+      "seasons_count": 2,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "veikkausliiga-1998, veikkausliiga-1999"
+    },
+    {
+      "name": "JokeritFC",
+      "matches_played": 34,
+      "seasons_count": 2,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "veikkausliiga-1998, veikkausliiga-1999"
+    },
+    {
+      "name": "HIFK",
+      "matches_played": 33,
+      "seasons_count": 1,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2015,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-2015"
+    },
+    {
+      "name": "Ilves",
+      "matches_played": 33,
+      "seasons_count": 1,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2015,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-2015"
+    },
+    {
+      "name": "KTP",
+      "matches_played": 33,
+      "seasons_count": 1,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2015,
+      "last_season_year": 2015,
+      "seasons": "veikkausliiga-2015"
+    },
+    {
+      "name": "KooTeePee",
+      "matches_played": 33,
+      "seasons_count": 2,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1999,
+      "last_season_year": 2008,
+      "seasons": "veikkausliiga-1999, veikkausliiga-2008"
+    },
+    {
+      "name": "FinnPaHelsinki",
+      "matches_played": 27,
+      "seasons_count": 1,
+      "leagues": "veikkausliiga",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "veikkausliiga-1998"
+    },
+    {
+      "name": "ACOulu",
+      "matches_played": 26,
+      "seasons_count": 1,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2010,
+      "last_season_year": 2010,
+      "seasons": "veikkausliiga-2010"
+    },
+    {
+      "name": "ACAllianssi",
+      "matches_played": 7,
+      "seasons_count": 1,
+      "leagues": "veikkausliiga",
+      "first_season_year": 2002,
+      "last_season_year": 2002,
+      "seasons": "veikkausliiga-2002"
+    }
+  ],
+  "meta": {
+    "title": "Finland — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Finland's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Finland — Football Clubs | ListBase",
+    "seo_description": "Download Finland — Football Clubs dataset with 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

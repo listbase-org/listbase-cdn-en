@@ -1,0 +1,386 @@
+{
+  "id": "world-cup-1962-matches",
+  "name": "FIFA World Cup 1962 Matches",
+  "title": "FIFA World Cup 1962 Matches",
+  "description": "All 32 matches from the 1962 FIFA World Cup (hosted by Chile) including teams, scores, groups, and venues.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/world-cup.json",
+  "source_url": "https://github.com/openfootball/world-cup.json",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "round",
+      "label": "Round",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "team1",
+      "label": "Team1",
+      "type": "string"
+    },
+    {
+      "key": "team2",
+      "label": "Team2",
+      "type": "string"
+    },
+    {
+      "key": "score_team1",
+      "label": "Score Team1",
+      "type": "number"
+    },
+    {
+      "key": "score_team2",
+      "label": "Score Team2",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "ground",
+      "label": "Ground",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "round": "Matchday 1",
+      "date": "1962-05-30",
+      "team1": "Uruguay",
+      "team2": "Colombia",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group 1",
+      "ground": "Estadio Carlos Dittborn, Arica"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1962-05-31",
+      "team1": "Soviet Union",
+      "team2": "Yugoslavia",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Estadio Carlos Dittborn, Arica"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1962-06-02",
+      "team1": "Yugoslavia",
+      "team2": "Uruguay",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "Group 1",
+      "ground": "Estadio Carlos Dittborn, Arica"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1962-06-03",
+      "team1": "Soviet Union",
+      "team2": "Colombia",
+      "score_team1": 4,
+      "score_team2": 4,
+      "group": "Group 1",
+      "ground": "Estadio Carlos Dittborn, Arica"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1962-06-06",
+      "team1": "Soviet Union",
+      "team2": "Uruguay",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group 1",
+      "ground": "Estadio Carlos Dittborn, Arica"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1962-06-07",
+      "team1": "Yugoslavia",
+      "team2": "Colombia",
+      "score_team1": 5,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Estadio Carlos Dittborn, Arica"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1962-05-30",
+      "team1": "Chile",
+      "team2": "Switzerland",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "Group 2",
+      "ground": "Estadio Nacional, Santiago"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1962-05-31",
+      "team1": "West Germany",
+      "team2": "Italy",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Estadio Nacional, Santiago"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1962-06-02",
+      "team1": "Chile",
+      "team2": "Italy",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Estadio Nacional, Santiago"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1962-06-03",
+      "team1": "West Germany",
+      "team2": "Switzerland",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group 2",
+      "ground": "Estadio Nacional, Santiago"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1962-06-06",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Estadio Nacional, Santiago"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1962-06-07",
+      "team1": "Italy",
+      "team2": "Switzerland",
+      "score_team1": 3,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Estadio Nacional, Santiago"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1962-05-30",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Estadio Sausalito, Viña del Mar"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1962-05-31",
+      "team1": "Czechoslovakia",
+      "team2": "Spain",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Estadio Sausalito, Viña del Mar"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1962-06-02",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Estadio Sausalito, Viña del Mar"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1962-06-03",
+      "team1": "Spain",
+      "team2": "Mexico",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Estadio Sausalito, Viña del Mar"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1962-06-06",
+      "team1": "Brazil",
+      "team2": "Spain",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group 3",
+      "ground": "Estadio Sausalito, Viña del Mar"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1962-06-07",
+      "team1": "Mexico",
+      "team2": "Czechoslovakia",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "Group 3",
+      "ground": "Estadio Sausalito, Viña del Mar"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1962-05-30",
+      "team1": "Argentina",
+      "team2": "Bulgaria",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 4",
+      "ground": "Estadio El Teniente, Rancagua"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1962-05-31",
+      "team1": "Hungary",
+      "team2": "England",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Estadio El Teniente, Rancagua"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1962-06-02",
+      "team1": "England",
+      "team2": "Argentina",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Estadio El Teniente, Rancagua"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1962-06-03",
+      "team1": "Hungary",
+      "team2": "Bulgaria",
+      "score_team1": 6,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Estadio El Teniente, Rancagua"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1962-06-06",
+      "team1": "Hungary",
+      "team2": "Argentina",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 4",
+      "ground": "Estadio El Teniente, Rancagua"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1962-06-07",
+      "team1": "England",
+      "team2": "Bulgaria",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 4",
+      "ground": "Estadio El Teniente, Rancagua"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1962-06-10",
+      "team1": "Chile",
+      "team2": "Soviet Union",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Estadio Carlos Dittborn, Arica"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1962-06-10",
+      "team1": "Yugoslavia",
+      "team2": "West Germany",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "",
+      "ground": "Estadio Nacional, Santiago"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1962-06-10",
+      "team1": "Brazil",
+      "team2": "England",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Estadio Sausalito, Viña del Mar"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1962-06-10",
+      "team1": "Czechoslovakia",
+      "team2": "Hungary",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "",
+      "ground": "Estadio El Teniente, Rancagua"
+    },
+    {
+      "round": "Semi-finals",
+      "date": "1962-06-13",
+      "team1": "Brazil",
+      "team2": "Chile",
+      "score_team1": 4,
+      "score_team2": 2,
+      "group": "",
+      "ground": "Estadio Nacional, Santiago"
+    },
+    {
+      "round": "Semi-finals",
+      "date": "1962-06-13",
+      "team1": "Czechoslovakia",
+      "team2": "Yugoslavia",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Estadio Sausalito, Viña del Mar"
+    },
+    {
+      "round": "Third-place match",
+      "date": "1962-06-16",
+      "team1": "Chile",
+      "team2": "Yugoslavia",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "",
+      "ground": "Estadio Nacional, Santiago"
+    },
+    {
+      "round": "Final",
+      "date": "1962-06-17",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Estadio Nacional, Santiago"
+    }
+  ],
+  "meta": {
+    "title": "FIFA World Cup 1962 Matches - Free Download",
+    "description": "All 32 matches from the 1962 FIFA World Cup (hosted by Chile) including teams, scores, groups, and venues. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FIFA World Cup 1962 Matches | ListBase",
+    "seo_description": "Download FIFA World Cup 1962 Matches — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/world-cup.json"
+    ]
+  }
+}

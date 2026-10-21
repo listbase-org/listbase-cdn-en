@@ -1,0 +1,142 @@
+{
+  "id": "gm-power-plants",
+  "name": "Gambia — Power Plants",
+  "title": "Gambia — Power Plants",
+  "description": "Power plants located in Gambia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Kotu",
+      "gppd_idnr": "WRI1023193",
+      "capacity_mw": 41.4,
+      "latitude": 13.4542,
+      "longitude": -16.6961,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Banjul",
+      "gppd_idnr": "WRI1023192",
+      "capacity_mw": 29,
+      "latitude": 13.4689,
+      "longitude": -16.6241,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Gambia — Power Plants - Free Download",
+    "description": "Power plants located in Gambia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gambia — Power Plants | ListBase",
+    "seo_description": "Download Gambia — Power Plants dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

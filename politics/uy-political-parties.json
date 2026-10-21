@@ -1,0 +1,346 @@
+{
+  "id": "uy-political-parties",
+  "name": "Uruguay — Political Parties",
+  "title": "Uruguay — Political Parties",
+  "description": "Political parties of Uruguay from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 1419,
+      "name_short": "PC",
+      "name": "Partido Colorado",
+      "name_english": "Colorado Party",
+      "name_other": "",
+      "year_first": 1836,
+      "year_last": "",
+      "share": 50.5,
+      "share_year": 1954,
+      "wikipedia": "https://en.wikipedia.org/wiki/Colorado_Party_%28Uruguay%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 118,
+      "name_short": "PN",
+      "name": "Partido Nacional – Blanco",
+      "name_english": "National Party",
+      "name_other": "",
+      "year_first": 1836,
+      "year_last": "",
+      "share": 49.7,
+      "share_year": 1958,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Party_%28Uruguay%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1658,
+      "name_short": "FA/EP",
+      "name": "Frente Amplio / Encuentro Progresista",
+      "name_english": "Broad Front / Progressive Encounter",
+      "name_other": "",
+      "year_first": 1971,
+      "year_last": "",
+      "share": 30.6,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/Broad_Front_%28Uruguay%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4493,
+      "name_short": "PDC",
+      "name": "Partido Demócrata Cristiano",
+      "name_english": "Christian Democratic Party",
+      "name_other": "",
+      "year_first": 1962,
+      "year_last": "",
+      "share": 18.3,
+      "share_year": 1971,
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_Democratic_Party_of_Uruguay",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8123,
+      "name_short": "CA",
+      "name": "Cabildo Abierto",
+      "name_english": "Open Cabildo",
+      "name_other": "",
+      "year_first": 2019,
+      "year_last": "",
+      "share": 11.5,
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Open_Cabildo_(Uruguay)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4434,
+      "name_short": "PGP",
+      "name": "Partido Por el Gobierno del Pueblo",
+      "name_english": "Party for the Government of the People",
+      "name_other": "",
+      "year_first": 1962,
+      "year_last": 1989,
+      "share": 9,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_for_the_Government_of_the_People",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6866,
+      "name_short": "PNI",
+      "name": "Partido Nacional Independiente",
+      "name_english": "Independent National Party",
+      "name_other": "",
+      "year_first": 1931,
+      "year_last": 1954,
+      "share": 7.6,
+      "share_year": 1950,
+      "wikipedia": "https://en.wikipedia.org/wiki/Independent_National_Party_(Uruguay)",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3671,
+      "name_short": "NE",
+      "name": "Nuevo Espacio",
+      "name_english": "New Space",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": "",
+      "share": 5.2,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Space_%28Uruguay%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4507,
+      "name_short": "UCU",
+      "name": "Unión Cívica",
+      "name_english": "Civic Union (1912)",
+      "name_other": "",
+      "year_first": 1912,
+      "year_last": 1962,
+      "share": 5,
+      "share_year": 1954,
+      "wikipedia": "https://es.wikipedia.org/wiki/Uni%C3%B3n_C%C3%ADvica_del_Uruguay",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4435,
+      "name_short": "PNI",
+      "name": "Partido Nacional Independiente",
+      "name_english": "Independent National Party",
+      "name_other": "",
+      "year_first": 1931,
+      "year_last": 1958,
+      "share": 3.7,
+      "share_year": 1954,
+      "wikipedia": "https://en.wikipedia.org/wiki/Independent_National_Party_(Uruguay)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4490,
+      "name_short": "PS",
+      "name": "Partido Socialista",
+      "name_english": "Socialist Party",
+      "name_other": "",
+      "year_first": 1910,
+      "year_last": "",
+      "share": 3.5,
+      "share_year": 1958,
+      "wikipedia": "https://en.wikipedia.org/wiki/Socialist_Party_of_Uruguay",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4492,
+      "name_short": "PCU",
+      "name": "Partido Comunista del Uruguay",
+      "name_english": "Communist Party of Uruguay",
+      "name_other": "",
+      "year_first": 1920,
+      "year_last": "",
+      "share": 2.7,
+      "share_year": 1958,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Uruguay",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 518,
+      "name_short": "PI",
+      "name": "Partido Independiente",
+      "name_english": "Independent Party",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": "",
+      "share": 2.6,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/Independent_Party_%28Uruguay%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4506,
+      "name_short": "UP",
+      "name": "Partido Unión Patriótica",
+      "name_english": "Patriotic Union Party",
+      "name_other": "",
+      "year_first": 1962,
+      "year_last": 1984,
+      "share": 2.3,
+      "share_year": 1962,
+      "wikipedia": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Patri%C3%B3tica_(Uruguay)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4794,
+      "name_short": "PU",
+      "name": "Unión Popular",
+      "name_english": "Popular Union",
+      "name_other": "",
+      "year_first": 1962,
+      "year_last": 1966,
+      "share": 2.3,
+      "share_year": 1962,
+      "wikipedia": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Popular_%28Uruguay%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4491,
+      "name_short": "UDR",
+      "name": "Unión Demócrata Reformista",
+      "name_english": "Democratic Renewal Union",
+      "name_other": "",
+      "year_first": 1958,
+      "year_last": 1958,
+      "share": 2,
+      "share_year": 1958,
+      "wikipedia": "https://en.wikipedia.org/wiki/Uruguayan_general_election,_1958",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 353,
+      "name_short": "UC",
+      "name": "Unión Cívica",
+      "name_english": "Civic Union (1980)",
+      "name_other": "",
+      "year_first": 1980,
+      "year_last": "",
+      "share": 2,
+      "share_year": 1984,
+      "wikipedia": "https://en.wikipedia.org/wiki/Civic_Union_%28Uruguay%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Uruguay — Political Parties - Free Download",
+    "description": "Political parties of Uruguay from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Uruguay — Political Parties | ListBase",
+    "seo_description": "Download Uruguay — Political Parties dataset with 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

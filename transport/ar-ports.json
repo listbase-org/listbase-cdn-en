@@ -1,0 +1,393 @@
+{
+  "id": "ar-ports",
+  "name": "Argentina — Ports",
+  "title": "Argentina — Ports",
+  "description": "Ports and harbors in Argentina: name, city, coordinates, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "asciiname",
+      "label": "Asciiname",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "unlc_list",
+      "label": "Unlc List",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "",
+      "name": "Puerto Belgrano",
+      "asciiname": "Puerto Belgrano",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Buenos Aires",
+      "latitude": -38.88333,
+      "longitude": -62.1,
+      "timezone": "America/Argentina/Buenos_Aires",
+      "unlc_list": "ARPBG|"
+    },
+    {
+      "iata_code": "",
+      "name": "Bahia Blanca",
+      "asciiname": "Bahia Blanca",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Buenos Aires",
+      "latitude": -38.78916,
+      "longitude": -62.26957,
+      "timezone": "America/Argentina/Buenos_Aires",
+      "unlc_list": "ARBHI|"
+    },
+    {
+      "iata_code": "",
+      "name": "Puerto Madryn",
+      "asciiname": "Puerto Madryn",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Chubut",
+      "latitude": -42.76667,
+      "longitude": -65.03333,
+      "timezone": "America/Argentina/Catamarca",
+      "unlc_list": "ARPMY|"
+    },
+    {
+      "iata_code": "",
+      "name": "Ushuaia",
+      "asciiname": "Ushuaia",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Tierra del Fuego",
+      "latitude": -54.81667,
+      "longitude": -68.3,
+      "timezone": "America/Argentina/Ushuaia",
+      "unlc_list": "ARUSH|"
+    },
+    {
+      "iata_code": "",
+      "name": "Mar Del Plata",
+      "asciiname": "Mar Del Plata",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Buenos Aires",
+      "latitude": -38.0469,
+      "longitude": -57.5379,
+      "timezone": "America/Argentina/Buenos_Aires",
+      "unlc_list": "ARMDQ|"
+    },
+    {
+      "iata_code": "",
+      "name": "Parana",
+      "asciiname": "Parana",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Entre Rios",
+      "latitude": -31.71667,
+      "longitude": -60.53333,
+      "timezone": "America/Argentina/Cordoba",
+      "unlc_list": "ARPNN|"
+    },
+    {
+      "iata_code": "",
+      "name": "Diamante",
+      "asciiname": "Diamante",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Entre Rios",
+      "latitude": -32.06667,
+      "longitude": -60.65,
+      "timezone": "America/Argentina/Cordoba",
+      "unlc_list": "ARDIA|"
+    },
+    {
+      "iata_code": "",
+      "name": "Puerto San Martin",
+      "asciiname": "Puerto San Martin",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Santa Fe",
+      "latitude": -32.71667,
+      "longitude": -60.73333,
+      "timezone": "America/Argentina/Cordoba",
+      "unlc_list": "ARSMA|"
+    },
+    {
+      "iata_code": "",
+      "name": "San Nicolas",
+      "asciiname": "San Nicolas",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Buenos Aires",
+      "latitude": -33.33333,
+      "longitude": -60.23333,
+      "timezone": "America/Argentina/Buenos_Aires",
+      "unlc_list": "ARSNS|"
+    },
+    {
+      "iata_code": "",
+      "name": "Ramallo",
+      "asciiname": "Ramallo",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Buenos Aires",
+      "latitude": -33.48333,
+      "longitude": -60.01667,
+      "timezone": "America/Argentina/Buenos_Aires",
+      "unlc_list": "ARRAM|"
+    },
+    {
+      "iata_code": "",
+      "name": "Zarate",
+      "asciiname": "Zarate",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Buenos Aires",
+      "latitude": -34.08333,
+      "longitude": -59.03333,
+      "timezone": "America/Argentina/Buenos_Aires",
+      "unlc_list": "ARZAE|"
+    },
+    {
+      "iata_code": "",
+      "name": "Campana",
+      "asciiname": "Campana",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Buenos Aires",
+      "latitude": -34.15289,
+      "longitude": -58.96907,
+      "timezone": "America/Argentina/Buenos_Aires",
+      "unlc_list": "ARCMP|"
+    },
+    {
+      "iata_code": "",
+      "name": "Concordia",
+      "asciiname": "Concordia",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Entre Rios",
+      "latitude": -31.4,
+      "longitude": -58.03333,
+      "timezone": "America/Argentina/Cordoba",
+      "unlc_list": "ARCOC|"
+    },
+    {
+      "iata_code": "",
+      "name": "Colon",
+      "asciiname": "Colon",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Entre Rios",
+      "latitude": -32.21667,
+      "longitude": -58.13333,
+      "timezone": "America/Argentina/Cordoba",
+      "unlc_list": "ARCOL|"
+    },
+    {
+      "iata_code": "",
+      "name": "San Sebastian Bay",
+      "asciiname": "San Sebastian Bay",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Tierra del Fuego",
+      "latitude": -53.16667,
+      "longitude": -68.5,
+      "timezone": "America/Argentina/Rio_Gallegos",
+      "unlc_list": "ARSSN|"
+    },
+    {
+      "iata_code": "",
+      "name": "Villa Constitucion",
+      "asciiname": "Villa Constitucion",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Santa Fe",
+      "latitude": -33.3,
+      "longitude": -60.33333,
+      "timezone": "America/Argentina/Cordoba",
+      "unlc_list": "ARVCN|"
+    },
+    {
+      "iata_code": "",
+      "name": "Santa Fe",
+      "asciiname": "Santa Fe",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Santa Fe",
+      "latitude": -31.65022,
+      "longitude": -60.70118,
+      "timezone": "America/Argentina/Cordoba",
+      "unlc_list": "ARSFN|"
+    },
+    {
+      "iata_code": "",
+      "name": "San Lorenzo",
+      "asciiname": "San Lorenzo",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Santa Fe",
+      "latitude": -32.75,
+      "longitude": -60.73333,
+      "timezone": "America/Argentina/Cordoba",
+      "unlc_list": "ARSLO|"
+    },
+    {
+      "iata_code": "",
+      "name": "Rosario",
+      "asciiname": "Rosario",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Santa Fe",
+      "latitude": -32.95,
+      "longitude": -60.63333,
+      "timezone": "America/Argentina/Cordoba",
+      "unlc_list": "ARROS|"
+    },
+    {
+      "iata_code": "",
+      "name": "Puerto Ibicuy",
+      "asciiname": "Puerto Ibicuy",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Entre Rios",
+      "latitude": -33.7591,
+      "longitude": -59.17797,
+      "timezone": "America/Argentina/Cordoba",
+      "unlc_list": "ARIBY|"
+    },
+    {
+      "iata_code": "",
+      "name": "Concepcion Del Uruguay",
+      "asciiname": "Concepcion Del Uruguay",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Entre Rios",
+      "latitude": -32.48758,
+      "longitude": -58.2224,
+      "timezone": "America/Argentina/Cordoba",
+      "unlc_list": "ARCOU|"
+    },
+    {
+      "iata_code": "",
+      "name": "Quequen",
+      "asciiname": "Quequen",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Buenos Aires",
+      "latitude": -38.58333,
+      "longitude": -58.7,
+      "timezone": "America/Argentina/Buenos_Aires",
+      "unlc_list": "ARNEC|"
+    },
+    {
+      "iata_code": "",
+      "name": "Puerto Rosales",
+      "asciiname": "Puerto Rosales",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Buenos Aires",
+      "latitude": -38.93333,
+      "longitude": -62.06667,
+      "timezone": "America/Argentina/Buenos_Aires",
+      "unlc_list": "ARPRS|"
+    },
+    {
+      "iata_code": "",
+      "name": "Comodoro Rivadavia",
+      "asciiname": "Comodoro Rivadavia",
+      "city_name_list": "",
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "adm1_name_ascii": "Chubut",
+      "latitude": -45.86667,
+      "longitude": -67.46667,
+      "timezone": "America/Argentina/Catamarca",
+      "unlc_list": "ARCRD|"
+    }
+  ],
+  "meta": {
+    "title": "Argentina — Ports - Free Download",
+    "description": "Ports and harbors in Argentina: name, city, coordinates, timezone. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Argentina — Ports | ListBase",
+    "seo_description": "Download Argentina — Ports dataset with 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records with 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

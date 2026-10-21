@@ -1,0 +1,301 @@
+{
+  "id": "gq-political-parties",
+  "name": "Equatorial Guinea — Political Parties",
+  "title": "Equatorial Guinea — Political Parties",
+  "description": "Political parties of Equatorial Guinea from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6367,
+      "name_short": "PUNT",
+      "name": "Partido Único Nacional de los Trabajadores",
+      "name_english": "Worker’s National United Party",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": 1979,
+      "share": 100,
+      "share_year": 1973,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_National_Workers%27_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3824,
+      "name_short": "PDGE",
+      "name": "Partido Democrático de Guinea Ecuatorial",
+      "name_english": "Democratic Party of Equatorial Guinea",
+      "name_other": "",
+      "year_first": 1987,
+      "year_last": "",
+      "share": 69.8,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_of_Equatorial_Guinea",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8039,
+      "name_short": "DO",
+      "name": "Democratic Opposition",
+      "name_english": "Democratic Opposition",
+      "name_other": "",
+      "year_first": 2004,
+      "year_last": 2008,
+      "share": 40.5,
+      "share_year": 2004,
+      "wikipedia": "",
+      "description": "in alliance with PDGE; comprising nine parties",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6249,
+      "name_short": "IPGE",
+      "name": "Idea Popular de Guinea Ecuatorial",
+      "name_english": "Popular Idea of Equatorial Guinea",
+      "name_other": "",
+      "year_first": 1959,
+      "year_last": 1979,
+      "share": 22.9,
+      "share_year": 1968,
+      "wikipedia": "https://en.wikipedia.org/wiki/Idea_Popular_de_Guinea_Ecuatorial",
+      "description": "8/35 seats won in 1968 National Assembly Election (AfricanElection)",
+      "comment": "Party is in Nohlen",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6250,
+      "name_short": "UB",
+      "name": "Unión Bubí",
+      "name_english": "Bubi Union",
+      "name_other": "",
+      "year_first": 1968,
+      "year_last": 1968,
+      "share": 20,
+      "share_year": 1968,
+      "wikipedia": "",
+      "description": "7/35 seats won in 1968 National Assembly Election (AfricanElection).\nParty included in Nohlen.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3821,
+      "name_short": "CPDS",
+      "name": "Convergencia para la Democracia Social",
+      "name_english": "Convergence for Social Democracy",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 10.3,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/Convergence_for_Social_Democracy_(Equatorial_Guinea)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6454,
+      "name_short": "CSDP",
+      "name": "Social Democratic and Popular Convergence",
+      "name_english": "Social Democratic and Popular Convergence",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 2008,
+      "share": 10.3,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/Convergence_for_Social_Democracy_(Equatorial_Guinea)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3827,
+      "name_short": "UDS",
+      "name": "Unión Demócrata Social",
+      "name_english": "Social Democratic Union",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 1993,
+      "share": 7.4,
+      "share_year": 1993,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6064,
+      "name_short": "UP",
+      "name": "Unión Popular de Guinea Ecuatorial",
+      "name_english": "Popular Union of Equatorial Guinea",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 2004,
+      "share": 6.4,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/Popular_Union_of_Equatorial_Guinea",
+      "description": "banned by the ruling party, the Democratic Party of Equatorial Guinea",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3826,
+      "name_short": "PL",
+      "name": "Partido Liberal",
+      "name_english": "Liberal Party",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 1993,
+      "share": 6.4,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Equatorial_Guinea",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8040,
+      "name_short": "CI",
+      "name": "Citizens for Innovation",
+      "name_english": "Citizens for Innovation",
+      "name_other": "",
+      "year_first": 2017,
+      "year_last": "",
+      "share": 5.8,
+      "share_year": 2017,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3825,
+      "name_short": "CLD",
+      "name": "Convención Liberal Democrática",
+      "name_english": "Liberal Democratic Convention",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 1993,
+      "share": 2.5,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Equatorial_Guinea",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6247,
+      "name_short": "MONALIGE",
+      "name": "Movimiento Nacional de Liberación de Guinea Ecuatorial",
+      "name_english": "National Liberation Movement of Equatorial Guinea",
+      "name_other": "",
+      "year_first": 1968,
+      "year_last": 1968,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "10/35 seats won in 1968 National Assembly Election (AfricanElection) - Party is in Nohlen.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6248,
+      "name_short": "MUNGE",
+      "name": "Movimiento de Unión Nacional de Guinea Ecuatorial",
+      "name_english": "National Unity Movement of Equatorial Guinea",
+      "name_other": "",
+      "year_first": 1968,
+      "year_last": 1968,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "10/35 seats won in 1968 National Assembly Election (AfricanElection)",
+      "comment": "Party is in Nohlen",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Equatorial Guinea — Political Parties - Free Download",
+    "description": "Political parties of Equatorial Guinea from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Equatorial Guinea — Political Parties | ListBase",
+    "seo_description": "Download Equatorial Guinea — Political Parties dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

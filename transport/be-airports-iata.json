@@ -1,0 +1,211 @@
+{
+  "id": "be-airports-iata",
+  "name": "Belgium — IATA Airports",
+  "title": "Belgium — IATA Airports",
+  "description": "Airports with IATA codes in Belgium: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "ANR",
+      "icao_code": "EBAW",
+      "name": "Antwerp International Airport",
+      "city_name_list": "Antwerpen",
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Flanders",
+      "latitude": 51.18944,
+      "longitude": 4.46028,
+      "elevation": 11,
+      "timezone": "Europe/Brussels",
+      "wiki_link": "https://en.wikipedia.org/wiki/Antwerp_International_Airport"
+    },
+    {
+      "iata_code": "BRU",
+      "icao_code": "EBBR",
+      "name": "Brussels Airport",
+      "city_name_list": "Brussels",
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Flanders",
+      "latitude": 50.90139,
+      "longitude": 4.48444,
+      "elevation": 56,
+      "timezone": "Europe/Brussels",
+      "wiki_link": "https://en.wikipedia.org/wiki/Brussels_Airport"
+    },
+    {
+      "iata_code": "CRL",
+      "icao_code": "EBCI",
+      "name": "Brussels South Charleroi Airport",
+      "city_name_list": "Brussels",
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Wallonia",
+      "latitude": 50.4592,
+      "longitude": 4.45382,
+      "elevation": 187,
+      "timezone": "Europe/Brussels",
+      "wiki_link": "https://en.wikipedia.org/wiki/Brussels_South_Charleroi_Airport"
+    },
+    {
+      "iata_code": "KJK",
+      "icao_code": "EBKT",
+      "name": "Wevelgem Airport",
+      "city_name_list": "Kortrijk",
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Flanders",
+      "latitude": 50.817222,
+      "longitude": 3.204722,
+      "elevation": "",
+      "timezone": "Europe/Brussels",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kortrijk-Wevelgem_International_Airport"
+    },
+    {
+      "iata_code": "LGG",
+      "icao_code": "EBLG",
+      "name": "Liège Airport",
+      "city_name_list": "Liège",
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Wallonia",
+      "latitude": 50.63742,
+      "longitude": 5.44322,
+      "elevation": 200,
+      "timezone": "Europe/Brussels",
+      "wiki_link": "https://en.wikipedia.org/wiki/Li%C3%A8ge_Airport"
+    },
+    {
+      "iata_code": "OBL",
+      "icao_code": "EBZR",
+      "name": "Oostmalle Air Base",
+      "city_name_list": "Zoersel",
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Flanders",
+      "latitude": 51.27,
+      "longitude": 4.75,
+      "elevation": "",
+      "timezone": "Europe/Brussels",
+      "wiki_link": "https://en.wikipedia.org/wiki/Oostmalle_Airfield"
+    },
+    {
+      "iata_code": "OST",
+      "icao_code": "EBOS",
+      "name": "Ostend-Bruges International Airport",
+      "city_name_list": "Ostend",
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Flanders",
+      "latitude": 51.19889,
+      "longitude": 2.86222,
+      "elevation": 3,
+      "timezone": "Europe/Brussels",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ostend%E2%80%93Bruges_International_Airport"
+    },
+    {
+      "iata_code": "QHA",
+      "icao_code": "EBZH",
+      "name": "Hasselt Airport",
+      "city_name_list": "Hasselt",
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Flanders",
+      "latitude": 50.97,
+      "longitude": 5.383,
+      "elevation": "",
+      "timezone": "Europe/Brussels",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kiewit_airfield"
+    }
+  ],
+  "meta": {
+    "title": "Belgium — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Belgium: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Belgium — IATA Airports | ListBase",
+    "seo_description": "Download Belgium — IATA Airports dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

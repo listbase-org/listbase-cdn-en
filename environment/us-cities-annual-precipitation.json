@@ -1,0 +1,6466 @@
+{
+  "id": "us-cities-annual-precipitation",
+  "name": "US Cities Annual Precipitation",
+  "title": "US Cities Annual Precipitation",
+  "description": "640 US weather stations with city, state, average annual precipitation, latitude, longitude, and 2019 total.",
+  "category": "environment",
+  "source": "https://github.com/the-pudding/data",
+  "source_url": "https://github.com/the-pudding/data",
+  "updated": "2026-04",
+  "record_count": 640,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "station",
+      "label": "Station",
+      "type": "string"
+    },
+    {
+      "key": "average",
+      "label": "Average",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "total19",
+      "label": "Total19",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "USW00021504",
+      "city": "Hilo",
+      "station": "HILO INTL AP",
+      "average": 112.9,
+      "latitude": 19.7192,
+      "longitude": -155.0531,
+      "state": "HI",
+      "total19": "100.8"
+    },
+    {
+      "id": "USW00094240",
+      "city": "Forks",
+      "station": "QUILLAYUTE STATE AP",
+      "average": 105.4,
+      "latitude": 47.9375,
+      "longitude": -124.555,
+      "state": "WA",
+      "total19": "81"
+    },
+    {
+      "id": "USS0021B01S",
+      "city": "Skykomish",
+      "station": "Stevens Pass",
+      "average": 92.9,
+      "latitude": 47.75,
+      "longitude": -121.09,
+      "state": "WA",
+      "total19": "65.6"
+    },
+    {
+      "id": "USS0022E07S",
+      "city": "Foster",
+      "station": "Jump Off Joe",
+      "average": 87,
+      "latitude": 44.39,
+      "longitude": -122.17,
+      "state": "OR",
+      "total19": "65.7"
+    },
+    {
+      "id": "USC00455840",
+      "city": "Rockport",
+      "station": "NEWHALEM",
+      "average": 80.9,
+      "latitude": 48.6758,
+      "longitude": -121.2419,
+      "state": "WA",
+      "total19": "56.9"
+    },
+    {
+      "id": "USC00084461",
+      "city": "North Palm Beach",
+      "station": "JUNO BEACH",
+      "average": 78,
+      "latitude": 26.86,
+      "longitude": -80.0553,
+      "state": "FL",
+      "total19": "89.5"
+    },
+    {
+      "id": "USC00352973",
+      "city": "Florence",
+      "station": "FLORENCE #2",
+      "average": 75.7,
+      "latitude": 44.0039,
+      "longitude": -124.0947,
+      "state": "OR",
+      "total19": "64.8"
+    },
+    {
+      "id": "USC00353705",
+      "city": "Yamhill",
+      "station": "HASKINS DAM",
+      "average": 75.1,
+      "latitude": 45.3128,
+      "longitude": -123.35,
+      "state": "OR",
+      "total19": "50.9"
+    },
+    {
+      "id": "USW00094224",
+      "city": "Warrenton",
+      "station": "ASTORIA RGNL AP",
+      "average": 73.3,
+      "latitude": 46.1569,
+      "longitude": -123.8825,
+      "state": "OR",
+      "total19": "51.5"
+    },
+    {
+      "id": "USW00025501",
+      "city": "Kodiak",
+      "station": "KODIAK AP",
+      "average": 73.2,
+      "latitude": 57.7511,
+      "longitude": -152.4856,
+      "state": "AK",
+      "total19": "73.8"
+    },
+    {
+      "id": "USC00451679",
+      "city": "Concrete",
+      "station": "CONCRETE PPL FISH STN",
+      "average": 72.8,
+      "latitude": 48.5397,
+      "longitude": -121.7422,
+      "state": "WA",
+      "total19": "52.4"
+    },
+    {
+      "id": "USC00355221",
+      "city": "Idanha",
+      "station": "MARION FORKS FISH HATCHERY",
+      "average": 72.5,
+      "latitude": 44.6125,
+      "longitude": -121.9486,
+      "state": "OR",
+      "total19": "54.9"
+    },
+    {
+      "id": "USC00097827",
+      "city": "Sautee Nacoochee",
+      "station": "SAUTEE 3W",
+      "average": 72,
+      "latitude": 34.6647,
+      "longitude": -83.7342,
+      "state": "GA",
+      "total19": "81"
+    },
+    {
+      "id": "USW00013899",
+      "city": "Pensacola",
+      "station": "PENSACOLA RGNL AP",
+      "average": 71.1,
+      "latitude": 30.4781,
+      "longitude": -87.1869,
+      "state": "FL",
+      "total19": "52.6"
+    },
+    {
+      "id": "USC00160558",
+      "city": "Baton Rouge",
+      "station": "BATON ROUGE SHERWOOD",
+      "average": 70.9,
+      "latitude": 30.4494,
+      "longitude": -91.0478,
+      "state": "LA",
+      "total19": "75.9"
+    },
+    {
+      "id": "USC00406162",
+      "city": "Monteagle",
+      "station": "MONTEAGLE",
+      "average": 70.7,
+      "latitude": 35.2242,
+      "longitude": -85.8414,
+      "state": "TN",
+      "total19": "81.9"
+    },
+    {
+      "id": "USW00094225",
+      "city": "Hoquiam",
+      "station": "HOQUIAM BOWERMAN AP",
+      "average": 69.9,
+      "latitude": 46.9728,
+      "longitude": -123.9303,
+      "state": "WA",
+      "total19": "45.2"
+    },
+    {
+      "id": "USW00012839",
+      "city": "Miami",
+      "station": "MIAMI INTL AP",
+      "average": 69,
+      "latitude": 25.7906,
+      "longitude": -80.3164,
+      "state": "FL",
+      "total19": "67.2"
+    },
+    {
+      "id": "USW00013894",
+      "city": "Mobile",
+      "station": "MOBILE",
+      "average": 67.7,
+      "latitude": 30.6794,
+      "longitude": -88.2397,
+      "state": "AL",
+      "total19": "64.7"
+    },
+    {
+      "id": "US1FLOK0029",
+      "city": "Mary Esther",
+      "station": "MARY ESTHER 0.6 E",
+      "average": 67.1,
+      "latitude": 30.4109,
+      "longitude": -86.6475,
+      "state": "FL",
+      "total19": "54.6"
+    },
+    {
+      "id": "USW00013970",
+      "city": "Baton Rouge",
+      "station": "BATON ROUGE RYAN AP",
+      "average": 66.5,
+      "latitude": 30.5372,
+      "longitude": -91.1469,
+      "state": "LA",
+      "total19": "64.1"
+    },
+    {
+      "id": "RQW00011641",
+      "city": "Carolina",
+      "station": "SAN JUAN L M MARIN AP",
+      "average": 66.3,
+      "latitude": 18.4325,
+      "longitude": -66.0108,
+      "state": "PR",
+      "total19": "47"
+    },
+    {
+      "id": "USW00025309",
+      "city": "Juneau",
+      "station": "JUNEAU INTL AP",
+      "average": 66.2,
+      "latitude": 58.3567,
+      "longitude": -134.5639,
+      "state": "AK",
+      "total19": "60.5"
+    },
+    {
+      "id": "USC00164700",
+      "city": "Jennings",
+      "station": "JENNINGS",
+      "average": 65.5,
+      "latitude": 30.2003,
+      "longitude": -92.6642,
+      "state": "LA",
+      "total19": "69"
+    },
+    {
+      "id": "US1FLMD0022",
+      "city": "Miami",
+      "station": "HAMMOCKS 0.5 SSE",
+      "average": 65.4,
+      "latitude": 25.665,
+      "longitude": -80.4395,
+      "state": "FL",
+      "total19": "63"
+    },
+    {
+      "id": "USC00400284",
+      "city": "Athens",
+      "station": "ATHENS",
+      "average": 64.8,
+      "latitude": 35.4322,
+      "longitude": -84.5833,
+      "state": "TN",
+      "total19": "75.7"
+    },
+    {
+      "id": "USW00093874",
+      "city": "Gulfport",
+      "station": "GULFPORT - BILOXI AP",
+      "average": 64.2,
+      "latitude": 30.4119,
+      "longitude": -89.0808,
+      "state": "MS",
+      "total19": "49.2"
+    },
+    {
+      "id": "USW00012916",
+      "city": "Kenner",
+      "station": "NEW ORLEANS INTL AP",
+      "average": 63.7,
+      "latitude": 29.9933,
+      "longitude": -90.2511,
+      "state": "LA",
+      "total19": "62.6"
+    },
+    {
+      "id": "USC00462211",
+      "city": "Davis",
+      "station": "DAVIS 3SE",
+      "average": 63.2,
+      "latitude": 39.0981,
+      "longitude": -79.4322,
+      "state": "WV",
+      "total19": "63.8"
+    },
+    {
+      "id": "US1FLHB0004",
+      "city": "Valrico",
+      "station": "VALRICO 2.2 SE",
+      "average": 62.7,
+      "latitude": 27.9125,
+      "longitude": -82.2261,
+      "state": "FL",
+      "total19": "68.1"
+    },
+    {
+      "id": "USW00013748",
+      "city": "Wilmington",
+      "station": "WILMINGTON INTL AP",
+      "average": 62.3,
+      "latitude": 34.2675,
+      "longitude": -77.8997,
+      "state": "NC",
+      "total19": "49.1"
+    },
+    {
+      "id": "USC00226527",
+      "city": "Olive Branch",
+      "station": "OLIVE BRANCH",
+      "average": 62.3,
+      "latitude": 34.9536,
+      "longitude": -89.8297,
+      "state": "MS",
+      "total19": "85.2"
+    },
+    {
+      "id": "USW00013833",
+      "city": "Hattiesburg",
+      "station": "HATTIESBURG CHAIN MUNI AP",
+      "average": 61.6,
+      "latitude": 31.2819,
+      "longitude": -89.2531,
+      "state": "MS",
+      "total19": "66.6"
+    },
+    {
+      "id": "USW00003937",
+      "city": "Lake Charles",
+      "station": "LAKE CHARLES",
+      "average": 61.6,
+      "latitude": 30.125,
+      "longitude": -93.2158,
+      "state": "LA",
+      "total19": "66"
+    },
+    {
+      "id": "USC00177238",
+      "city": "Robbinston",
+      "station": "ROBBINSTON",
+      "average": 61.3,
+      "latitude": 45.0853,
+      "longitude": -67.1206,
+      "state": "ME",
+      "total19": "70"
+    },
+    {
+      "id": "USW00003940",
+      "city": "Flowood",
+      "station": "JACKSON INTL AP",
+      "average": 61.1,
+      "latitude": 32.3206,
+      "longitude": -90.0778,
+      "state": "MS",
+      "total19": "64.2"
+    },
+    {
+      "id": "USC00449272",
+      "city": "Woolwine",
+      "station": "WOOLWINE 1 SE",
+      "average": 61,
+      "latitude": 36.7736,
+      "longitude": -80.2622,
+      "state": "VA",
+      "total19": "56.6"
+    },
+    {
+      "id": "US1TNHT0001",
+      "city": "Tennessee Ridge",
+      "station": "TENNESSEE RIDGE 1.4 SW",
+      "average": 60.4,
+      "latitude": 36.3087,
+      "longitude": -87.7842,
+      "state": "TN",
+      "total19": "61.6"
+    },
+    {
+      "id": "US1MSLD0008",
+      "city": "Collinsville",
+      "station": "COLLINSVILLE 4.0 NNE",
+      "average": 60.4,
+      "latitude": 32.5498,
+      "longitude": -88.8206,
+      "state": "MS",
+      "total19": "67.6"
+    },
+    {
+      "id": "USC00405956",
+      "city": "Memphis",
+      "station": "MEMPHIS WFO",
+      "average": 60.3,
+      "latitude": 35.1297,
+      "longitude": -89.8036,
+      "state": "TN",
+      "total19": "76.7"
+    },
+    {
+      "id": "USC00220656",
+      "city": "Golden",
+      "station": "BELMONT 2 SSE",
+      "average": 60.1,
+      "latitude": 34.4772,
+      "longitude": -88.1994,
+      "state": "MS",
+      "total19": "76.8"
+    },
+    {
+      "id": "US1FLBV0001",
+      "city": "Palm Bay",
+      "station": "PALM BAY 2.6 SSE",
+      "average": 59.6,
+      "latitude": 27.9512,
+      "longitude": -80.642,
+      "state": "FL",
+      "total19": "67.8"
+    },
+    {
+      "id": "USW00003847",
+      "city": "Crossville",
+      "station": "CROSSVILLE MEM AP",
+      "average": 59.6,
+      "latitude": 35.9508,
+      "longitude": -85.0814,
+      "state": "TN",
+      "total19": "68"
+    },
+    {
+      "id": "USC00030130",
+      "city": "Paron",
+      "station": "ALUM FK",
+      "average": 59.3,
+      "latitude": 34.7961,
+      "longitude": -92.8417,
+      "state": "AR",
+      "total19": "73.9"
+    },
+    {
+      "id": "USC00407184",
+      "city": "Pikeville",
+      "station": "PIKEVILLE",
+      "average": 58.6,
+      "latitude": 35.5983,
+      "longitude": -85.1939,
+      "state": "TN",
+      "total19": "70.2"
+    },
+    {
+      "id": "USC00408868",
+      "city": "Tazewell",
+      "station": "TAZEWELL",
+      "average": 58.6,
+      "latitude": 36.465,
+      "longitude": -83.5603,
+      "state": "TN",
+      "total19": "71.7"
+    },
+    {
+      "id": "USC00408160",
+      "city": "Selmer",
+      "station": "SELMER",
+      "average": 58.4,
+      "latitude": 35.1647,
+      "longitude": -88.5994,
+      "state": "TN",
+      "total19": "71.8"
+    },
+    {
+      "id": "US1MSWN0002",
+      "city": "Noxapater",
+      "station": "NOXAPATER 3.3 WSW",
+      "average": 58.3,
+      "latitude": 32.9751,
+      "longitude": -89.117,
+      "state": "MS",
+      "total19": "75.6"
+    },
+    {
+      "id": "USC00303851",
+      "city": "Constableville",
+      "station": "HIGHMARKET",
+      "average": 58.3,
+      "latitude": 43.5753,
+      "longitude": -75.5208,
+      "state": "NY",
+      "total19": "65.4"
+    },
+    {
+      "id": "USW00093805",
+      "city": "Tallahassee",
+      "station": "TALLAHASSEE",
+      "average": 57.6,
+      "latitude": 30.3975,
+      "longitude": -84.3289,
+      "state": "FL",
+      "total19": "39.1"
+    },
+    {
+      "id": "USW00013865",
+      "city": "Meridian",
+      "station": "MERIDIAN KEY FLD",
+      "average": 57.6,
+      "latitude": 32.3347,
+      "longitude": -88.7442,
+      "state": "MS",
+      "total19": "60.6"
+    },
+    {
+      "id": "USS0019K07S",
+      "city": "Reno",
+      "station": "Mt Rose Ski Area",
+      "average": 57.6,
+      "latitude": 39.32,
+      "longitude": -119.89,
+      "state": "NV",
+      "total19": "80.7"
+    },
+    {
+      "id": "USW00093862",
+      "city": "Tupelo",
+      "station": "TUPELO RGNL AP",
+      "average": 57.3,
+      "latitude": 34.2622,
+      "longitude": -88.7714,
+      "state": "MS",
+      "total19": "77"
+    },
+    {
+      "id": "US1TNMY0008",
+      "city": "Columbia",
+      "station": "COLUMBIA 1.2 SSW",
+      "average": 57.3,
+      "latitude": 35.6072,
+      "longitude": -87.0592,
+      "state": "TN",
+      "total19": "64.7"
+    },
+    {
+      "id": "USC00157215",
+      "city": "Scottsville",
+      "station": "SCOTTSVILLE",
+      "average": 57.3,
+      "latitude": 36.7461,
+      "longitude": -86.2258,
+      "state": "KY",
+      "total19": "69.5"
+    },
+    {
+      "id": "US1TNRD0001",
+      "city": "Murfreesboro",
+      "station": "MURFREESBORO 5.5 NNW",
+      "average": 57.2,
+      "latitude": 35.9247,
+      "longitude": -86.4367,
+      "state": "TN",
+      "total19": "69"
+    },
+    {
+      "id": "US1INDB0001",
+      "city": "Huntingburg",
+      "station": "HUNTINGBURG 0.4 SSW",
+      "average": 56.9,
+      "latitude": 38.2929,
+      "longitude": -86.9611,
+      "state": "IN",
+      "total19": "68.2"
+    },
+    {
+      "id": "USC00365344",
+      "city": "Mahanoy City",
+      "station": "MAHANOY CITY 2 N",
+      "average": 56.7,
+      "latitude": 40.8344,
+      "longitude": -76.1353,
+      "state": "PA",
+      "total19": "56.7"
+    },
+    {
+      "id": "USC00155097",
+      "city": "Park City",
+      "station": "MAMMOTH CAVE",
+      "average": 56.6,
+      "latitude": 37.1317,
+      "longitude": -86.1481,
+      "state": "KY",
+      "total19": "64.9"
+    },
+    {
+      "id": "US1KYTD0002",
+      "city": "Guthrie",
+      "station": "GUTHRIE 0.8 WNW",
+      "average": 56.5,
+      "latitude": 36.6534,
+      "longitude": -87.184,
+      "state": "KY",
+      "total19": "61.2"
+    },
+    {
+      "id": "US1GACW0002",
+      "city": "Sharpsburg",
+      "station": "SHARPSBURG 6.0 N",
+      "average": 56.5,
+      "latitude": 33.4273,
+      "longitude": -84.6607,
+      "state": "GA",
+      "total19": "55"
+    },
+    {
+      "id": "USW00013893",
+      "city": "Memphis",
+      "station": "MEMPHIS INTL AP",
+      "average": 56.4,
+      "latitude": 35.0564,
+      "longitude": -89.9864,
+      "state": "TN",
+      "total19": "73.7"
+    },
+    {
+      "id": "USC00154958",
+      "city": "Louisville",
+      "station": "LOUISVILLE WFO",
+      "average": 56.2,
+      "latitude": 38.115,
+      "longitude": -85.6444,
+      "state": "KY",
+      "total19": "59.2"
+    },
+    {
+      "id": "USW00013882",
+      "city": "Chattanooga",
+      "station": "CHATTANOOGA LOVELL AP",
+      "average": 56.2,
+      "latitude": 35.0311,
+      "longitude": -85.2014,
+      "state": "TN",
+      "total19": "63.2"
+    },
+    {
+      "id": "USW00003811",
+      "city": "Jackson",
+      "station": "JACKSON MCKELLAR AP",
+      "average": 56.1,
+      "latitude": 35.5931,
+      "longitude": -88.9167,
+      "state": "TN",
+      "total19": "66.2"
+    },
+    {
+      "id": "USC00414325",
+      "city": "Sugar Land",
+      "station": "HOUSTON-WESTBURY",
+      "average": 56.1,
+      "latitude": 29.66,
+      "longitude": -95.6275,
+      "state": "TX",
+      "total19": "55.2"
+    },
+    {
+      "id": "US1GACW0009",
+      "city": "Newnan",
+      "station": "NEWNAN 2.6 W",
+      "average": 55.8,
+      "latitude": 33.384,
+      "longitude": -84.8338,
+      "state": "GA",
+      "total19": "56.9"
+    },
+    {
+      "id": "USW00013876",
+      "city": "Birmingham",
+      "station": "BIRMINGHAM AP",
+      "average": 55.7,
+      "latitude": 33.5656,
+      "longitude": -86.745,
+      "state": "AL",
+      "total19": "52.6"
+    },
+    {
+      "id": "USC00178792",
+      "city": "Topsfield",
+      "station": "TOPSFIELD 2",
+      "average": 55.7,
+      "latitude": 45.4353,
+      "longitude": -67.7214,
+      "state": "ME",
+      "total19": "61"
+    },
+    {
+      "id": "USW00013942",
+      "city": "Monroe",
+      "station": "MONROE RGNL AP",
+      "average": 55.7,
+      "latitude": 32.5156,
+      "longitude": -92.0406,
+      "state": "LA",
+      "total19": "61.7"
+    },
+    {
+      "id": "USW00003952",
+      "city": "North Little Rock",
+      "station": "LITTLE ROCK",
+      "average": 55.6,
+      "latitude": 34.8364,
+      "longitude": -92.2619,
+      "state": "AR",
+      "total19": "66.2"
+    },
+    {
+      "id": "USW00003889",
+      "city": "Jackson",
+      "station": "JACKSON",
+      "average": 55.6,
+      "latitude": 37.5908,
+      "longitude": -83.3131,
+      "state": "KY",
+      "total19": "57.6"
+    },
+    {
+      "id": "USW00003856",
+      "city": "Madison",
+      "station": "HUNTSVILLE INTL AP",
+      "average": 55.4,
+      "latitude": 34.6439,
+      "longitude": -86.7861,
+      "state": "AL",
+      "total19": "61.6"
+    },
+    {
+      "id": "US1GAFT0019",
+      "city": "Atlanta",
+      "station": "EAST POINT 6.3 WNW",
+      "average": 54.8,
+      "latitude": 33.7014,
+      "longitude": -84.5722,
+      "state": "GA",
+      "total19": "55.2"
+    },
+    {
+      "id": "US1PABR0002",
+      "city": "Reading",
+      "station": "READING 3.5 SW",
+      "average": 54.7,
+      "latitude": 40.3162,
+      "longitude": -75.9887,
+      "state": "PA",
+      "total19": "66.6"
+    },
+    {
+      "id": "USC00301625",
+      "city": "Colden",
+      "station": "COLDEN 1W",
+      "average": 54.6,
+      "latitude": 42.6472,
+      "longitude": -78.7111,
+      "state": "NY",
+      "total19": "54.9"
+    },
+    {
+      "id": "USC00085359",
+      "city": "Marco Island",
+      "station": "MARCO IS",
+      "average": 54.5,
+      "latitude": 25.9492,
+      "longitude": -81.7139,
+      "state": "FL",
+      "total19": "57.1"
+    },
+    {
+      "id": "USW00013880",
+      "city": "Charleston Afb",
+      "station": "CHARLESTON INTL AP",
+      "average": 54.4,
+      "latitude": 32.8986,
+      "longitude": -80.0403,
+      "state": "SC",
+      "total19": "49.5"
+    },
+    {
+      "id": "USW00012842",
+      "city": "Tampa",
+      "station": "TAMPA INTL AP",
+      "average": 54.3,
+      "latitude": 27.9619,
+      "longitude": -82.5403,
+      "state": "FL",
+      "total19": "60.8"
+    },
+    {
+      "id": "USW00093820",
+      "city": "Lexington",
+      "station": "LEXINGTON BLUEGRASS AP",
+      "average": 54.3,
+      "latitude": 38.0408,
+      "longitude": -84.6058,
+      "state": "KY",
+      "total19": "56.1"
+    },
+    {
+      "id": "USW00013891",
+      "city": "Alcoa",
+      "station": "KNOXVILLE MCGHEE TYSON AP",
+      "average": 54.2,
+      "latitude": 35.8181,
+      "longitude": -83.9858,
+      "state": "TN",
+      "total19": "64.3"
+    },
+    {
+      "id": "US1INOW0009",
+      "city": "Spencer",
+      "station": "SPENCER 7.0 S",
+      "average": 54.1,
+      "latitude": 39.1858,
+      "longitude": -86.7782,
+      "state": "IN",
+      "total19": "65.1"
+    },
+    {
+      "id": "USC00166584",
+      "city": "Natchitoches",
+      "station": "NATCHITOCHES #2",
+      "average": 54,
+      "latitude": 31.8142,
+      "longitude": -93.0856,
+      "state": "LA",
+      "total19": "60.8"
+    },
+    {
+      "id": "USC00450482",
+      "city": "Battle Ground",
+      "station": "BATTLE GROUND",
+      "average": 53.9,
+      "latitude": 45.7717,
+      "longitude": -122.5286,
+      "state": "WA",
+      "total19": "40.6"
+    },
+    {
+      "id": "USW00003816",
+      "city": "West Paducah",
+      "station": "PADUCAH",
+      "average": 53.8,
+      "latitude": 37.0683,
+      "longitude": -88.7719,
+      "state": "KY",
+      "total19": "70.3"
+    },
+    {
+      "id": "US1INWK0005",
+      "city": "Boonville",
+      "station": "BOONVILLE 2.4 N",
+      "average": 53.8,
+      "latitude": 38.0805,
+      "longitude": -87.2758,
+      "state": "IN",
+      "total19": "66.5"
+    },
+    {
+      "id": "USC00382735",
+      "city": "Edisto Island",
+      "station": "EDISTO IS MIDDLETON PLANTATION",
+      "average": 53.8,
+      "latitude": 32.6072,
+      "longitude": -80.3258,
+      "state": "SC",
+      "total19": "58.1"
+    },
+    {
+      "id": "USW00013963",
+      "city": "Little Rock",
+      "station": "LITTLE ROCK AP ADAMS FLD",
+      "average": 53.7,
+      "latitude": 34.7272,
+      "longitude": -92.2389,
+      "state": "AR",
+      "total19": "60.5"
+    },
+    {
+      "id": "USW00003812",
+      "city": "Fletcher",
+      "station": "ASHEVILLE RGNL AP",
+      "average": 53.6,
+      "latitude": 35.4319,
+      "longitude": -82.5375,
+      "state": "NC",
+      "total19": "57.2"
+    },
+    {
+      "id": "USC00065445",
+      "city": "Norfolk",
+      "station": "NORFOLK 2 SW",
+      "average": 53.5,
+      "latitude": 41.9725,
+      "longitude": -73.2208,
+      "state": "CT",
+      "total19": "53.3"
+    },
+    {
+      "id": "USC00190736",
+      "city": "Milton",
+      "station": "BLUE HILL",
+      "average": 53.4,
+      "latitude": 42.2122,
+      "longitude": -71.1136,
+      "state": "MA",
+      "total19": "57.2"
+    },
+    {
+      "id": "USW00013897",
+      "city": "Nashville",
+      "station": "NASHVILLE INTL AP",
+      "average": 53.2,
+      "latitude": 36.1189,
+      "longitude": -86.6892,
+      "state": "TN",
+      "total19": "64.3"
+    },
+    {
+      "id": "USW00093808",
+      "city": "Bowling Green",
+      "station": "BOWLING GREEN WARREN CO AP",
+      "average": 53.1,
+      "latitude": 36.9647,
+      "longitude": -86.4239,
+      "state": "KY",
+      "total19": "62.1"
+    },
+    {
+      "id": "USW00012918",
+      "city": "Houston",
+      "station": "HOUSTON HOBBY AP",
+      "average": 52.9,
+      "latitude": 29.6381,
+      "longitude": -95.2819,
+      "state": "TX",
+      "total19": "55.1"
+    },
+    {
+      "id": "USC00195984",
+      "city": "Norton",
+      "station": "NORTON W",
+      "average": 52.8,
+      "latitude": 41.9928,
+      "longitude": -71.1667,
+      "state": "MA",
+      "total19": "58.8"
+    },
+    {
+      "id": "USW00093821",
+      "city": "Louisville",
+      "station": "LOUISVILLE INTL AP",
+      "average": 52.2,
+      "latitude": 38.1811,
+      "longitude": -85.7392,
+      "state": "KY",
+      "total19": "53.3"
+    },
+    {
+      "id": "USC00171131",
+      "city": "Cape Neddick",
+      "station": "CAPE NEDDICK",
+      "average": 52.2,
+      "latitude": 43.2242,
+      "longitude": -70.6389,
+      "state": "ME",
+      "total19": "57.8"
+    },
+    {
+      "id": "USC00443375",
+      "city": "Buena Vista",
+      "station": "GLASGOW 1 SE",
+      "average": 52.1,
+      "latitude": 37.6183,
+      "longitude": -79.4358,
+      "state": "VA",
+      "total19": "48.7"
+    },
+    {
+      "id": "USW00024227",
+      "city": "Olympia",
+      "station": "OLYMPIA AP",
+      "average": 52.1,
+      "latitude": 46.9733,
+      "longitude": -122.9033,
+      "state": "WA",
+      "total19": "37.1"
+    },
+    {
+      "id": "US1NCWK0013",
+      "city": "Raleigh",
+      "station": "RALEIGH 5.9 ENE",
+      "average": 52.1,
+      "latitude": 35.8624,
+      "longitude": -78.5665,
+      "state": "NC",
+      "total19": "50.2"
+    },
+    {
+      "id": "USC00185934",
+      "city": "Manchester",
+      "station": "MILLERS 4 NE",
+      "average": 52,
+      "latitude": 39.7194,
+      "longitude": -76.8028,
+      "state": "MD",
+      "total19": "48.2"
+    },
+    {
+      "id": "USC00193624",
+      "city": "Hingham",
+      "station": "HINGHAM",
+      "average": 52,
+      "latitude": 42.2269,
+      "longitude": -70.9125,
+      "state": "MA",
+      "total19": "62.3"
+    },
+    {
+      "id": "US1NCNS0002",
+      "city": "Nashville",
+      "station": "NASHVILLE 3.2 W",
+      "average": 51.6,
+      "latitude": 35.9713,
+      "longitude": -78.0134,
+      "state": "NC",
+      "total19": "48"
+    },
+    {
+      "id": "USC00448192",
+      "city": "Suffolk",
+      "station": "SUFFOLK LAKE KILBY",
+      "average": 51.5,
+      "latitude": 36.7297,
+      "longitude": -76.6014,
+      "state": "VA",
+      "total19": "49.8"
+    },
+    {
+      "id": "USW00003870",
+      "city": "Greer",
+      "station": "GREER",
+      "average": 51.5,
+      "latitude": 34.8831,
+      "longitude": -82.2203,
+      "state": "SC",
+      "total19": "51.9"
+    },
+    {
+      "id": "USC00173862",
+      "city": "Hollis Center",
+      "station": "HOLLIS",
+      "average": 51.3,
+      "latitude": 43.6475,
+      "longitude": -70.675,
+      "state": "ME",
+      "total19": "53.5"
+    },
+    {
+      "id": "USW00013874",
+      "city": "Atlanta",
+      "station": "ATLANTA HARTSFIELD INTL AP",
+      "average": 51.2,
+      "latitude": 33.63,
+      "longitude": -84.4417,
+      "state": "GA",
+      "total19": "43.8"
+    },
+    {
+      "id": "US1DENC0002",
+      "city": "Newark",
+      "station": "NEWARK 3.9 SSW",
+      "average": 51.1,
+      "latitude": 39.6249,
+      "longitude": -75.7861,
+      "state": "DE",
+      "total19": "51.6"
+    },
+    {
+      "id": "USW00012960",
+      "city": "Houston",
+      "station": "HOUSTON INTERCONT AP",
+      "average": 51.1,
+      "latitude": 29.98,
+      "longitude": -95.36,
+      "state": "TX",
+      "total19": "52"
+    },
+    {
+      "id": "USC00360868",
+      "city": "Bradford",
+      "station": "BRADFORD 4SW RSCH 5",
+      "average": 51,
+      "latitude": 41.8981,
+      "longitude": -78.7144,
+      "state": "PA",
+      "total19": "54.4"
+    },
+    {
+      "id": "USW00014737",
+      "city": "Catasauqua",
+      "station": "ALLENTOWN INTL AP",
+      "average": 50.9,
+      "latitude": 40.6508,
+      "longitude": -75.4492,
+      "state": "PA",
+      "total19": "60.7"
+    },
+    {
+      "id": "USW00094728",
+      "city": "New York",
+      "station": "NEW YORK CNTRL PK TWR",
+      "average": 50.8,
+      "latitude": 40.7789,
+      "longitude": -73.9692,
+      "state": "NY",
+      "total19": "53.1"
+    },
+    {
+      "id": "USW00013895",
+      "city": "Montgomery",
+      "station": "MONTGOMERY AP",
+      "average": 50.6,
+      "latitude": 32.2997,
+      "longitude": -86.4075,
+      "state": "AL",
+      "total19": "47.7"
+    },
+    {
+      "id": "USC00368361",
+      "city": "Springboro",
+      "station": "SPRINGBORO 3 WNW",
+      "average": 50.6,
+      "latitude": 41.8161,
+      "longitude": -80.425,
+      "state": "PA",
+      "total19": "51"
+    },
+    {
+      "id": "USW00094746",
+      "city": "Worcester",
+      "station": "WORCESTER RGNL AP",
+      "average": 50.6,
+      "latitude": 42.2706,
+      "longitude": -71.8731,
+      "state": "MA",
+      "total19": "54.8"
+    },
+    {
+      "id": "USW00012834",
+      "city": "Daytona Beach",
+      "station": "DAYTONA BEACH INTL AP",
+      "average": 50.4,
+      "latitude": 29.1828,
+      "longitude": -81.0483,
+      "state": "FL",
+      "total19": "59"
+    },
+    {
+      "id": "USS0022F18S",
+      "city": "Chemult",
+      "station": "Diamond Lake",
+      "average": 50.3,
+      "latitude": 43.19,
+      "longitude": -122.14,
+      "state": "OR",
+      "total19": "44.9"
+    },
+    {
+      "id": "USC00091500",
+      "city": "Camilla",
+      "station": "CAMILLA 3SE",
+      "average": 50.2,
+      "latitude": 31.1903,
+      "longitude": -84.2036,
+      "state": "GA",
+      "total19": "43"
+    },
+    {
+      "id": "USW00013873",
+      "city": "Athens",
+      "station": "ATHENS BEN EPPS AP",
+      "average": 50.1,
+      "latitude": 33.9481,
+      "longitude": -83.3275,
+      "state": "GA",
+      "total19": "46.3"
+    },
+    {
+      "id": "USC00175736",
+      "city": "New Sharon",
+      "station": "NEW SHARON",
+      "average": 50,
+      "latitude": 44.6353,
+      "longitude": -70.0003,
+      "state": "ME",
+      "total19": "51.5"
+    },
+    {
+      "id": "US1DENC0010",
+      "city": "Wilmington",
+      "station": "NEWPORT 2.4 WNW",
+      "average": 49.9,
+      "latitude": 39.7256,
+      "longitude": -75.6488,
+      "state": "DE",
+      "total19": "48.4"
+    },
+    {
+      "id": "USS0015B02S",
+      "city": "Mullan",
+      "station": "Lookout",
+      "average": 49.9,
+      "latitude": 47.46,
+      "longitude": -115.71,
+      "state": "ID",
+      "total19": "37.8"
+    },
+    {
+      "id": "USW00093718",
+      "city": "North Myrtle Beach",
+      "station": "N MYRTLE BCH AP",
+      "average": 49.9,
+      "latitude": 33.8117,
+      "longitude": -78.7239,
+      "state": "SC",
+      "total19": "56"
+    },
+    {
+      "id": "USW00012816",
+      "city": "Gainesville",
+      "station": "GAINESVILLE RGNL AP",
+      "average": 49.9,
+      "latitude": 29.6919,
+      "longitude": -82.2756,
+      "state": "FL",
+      "total19": "49.7"
+    },
+    {
+      "id": "USC00178817",
+      "city": "Turner",
+      "station": "TURNER",
+      "average": 49.8,
+      "latitude": 44.2822,
+      "longitude": -70.2561,
+      "state": "ME",
+      "total19": "51.4"
+    },
+    {
+      "id": "USC00361810",
+      "city": "Coudersport",
+      "station": "COUDERSPORT 7SE",
+      "average": 49.8,
+      "latitude": 41.7392,
+      "longitude": -77.9711,
+      "state": "PA",
+      "total19": "55.4"
+    },
+    {
+      "id": "USC00387687",
+      "city": "Pendleton",
+      "station": "SANDY SPRINGS 2 NE",
+      "average": 49.7,
+      "latitude": 34.6111,
+      "longitude": -82.7269,
+      "state": "SC",
+      "total19": "41.8"
+    },
+    {
+      "id": "USW00012815",
+      "city": "Orlando",
+      "station": "ORLANDO INTL AP",
+      "average": 49.7,
+      "latitude": 28.4339,
+      "longitude": -81.325,
+      "state": "FL",
+      "total19": "48"
+    },
+    {
+      "id": "US1FLLK0003",
+      "city": "Groveland",
+      "station": "GROVELAND 1.7 E",
+      "average": 49.7,
+      "latitude": 28.565,
+      "longitude": -81.824,
+      "state": "FL",
+      "total19": "48.6"
+    },
+    {
+      "id": "US1NHMR0006",
+      "city": "Danbury",
+      "station": "DANBURY 2.2 ESE",
+      "average": 49.7,
+      "latitude": 43.52,
+      "longitude": -71.819,
+      "state": "NH",
+      "total19": "49.9"
+    },
+    {
+      "id": "US1INDV0001",
+      "city": "Washington",
+      "station": "WASHINGTON 1.5 NW",
+      "average": 49.6,
+      "latitude": 38.6754,
+      "longitude": -87.19,
+      "state": "IN",
+      "total19": "62"
+    },
+    {
+      "id": "USC00170409",
+      "city": "Bath",
+      "station": "BATH",
+      "average": 49.6,
+      "latitude": 43.9317,
+      "longitude": -69.8564,
+      "state": "ME",
+      "total19": "54.4"
+    },
+    {
+      "id": "USW00013889",
+      "city": "Jacksonville",
+      "station": "JACKSONVILLE",
+      "average": 49.5,
+      "latitude": 30.4844,
+      "longitude": -81.7019,
+      "state": "FL",
+      "total19": "46.4"
+    },
+    {
+      "id": "USC00172048",
+      "city": "Durham",
+      "station": "DURHAM",
+      "average": 49.4,
+      "latitude": 43.9997,
+      "longitude": -70.0964,
+      "state": "ME",
+      "total19": "52.7"
+    },
+    {
+      "id": "USC00300321",
+      "city": "Auburn",
+      "station": "AUBURN",
+      "average": 49.4,
+      "latitude": 42.9328,
+      "longitude": -76.5447,
+      "state": "NY",
+      "total19": "50.5"
+    },
+    {
+      "id": "USW00014764",
+      "city": "Portland",
+      "station": "PORTLAND INTL JETPORT",
+      "average": 49.3,
+      "latitude": 43.6497,
+      "longitude": -70.3003,
+      "state": "ME",
+      "total19": "52.2"
+    },
+    {
+      "id": "USW00093814",
+      "city": "Hebron",
+      "station": "CINCINNATI NORTHERN KY AP",
+      "average": 49.3,
+      "latitude": 39.0431,
+      "longitude": -84.6717,
+      "state": "KY",
+      "total19": "52.8"
+    },
+    {
+      "id": "USC00317845",
+      "city": "Shelby",
+      "station": "SHELBY 2 NW",
+      "average": 49.2,
+      "latitude": 35.3111,
+      "longitude": -81.5708,
+      "state": "NC",
+      "total19": "52.6"
+    },
+    {
+      "id": "USW00093842",
+      "city": "Columbus",
+      "station": "COLUMBUS METRO AP",
+      "average": 49.2,
+      "latitude": 32.5161,
+      "longitude": -84.9422,
+      "state": "GA",
+      "total19": "49"
+    },
+    {
+      "id": "USW00012838",
+      "city": "Melbourne",
+      "station": "MELBOURNE INTL AP",
+      "average": 49.1,
+      "latitude": 28.1011,
+      "longitude": -80.6439,
+      "state": "FL",
+      "total19": "55.7"
+    },
+    {
+      "id": "USW00003860",
+      "city": "Huntington",
+      "station": "HUNTINGTON TRI STATE AP",
+      "average": 49.1,
+      "latitude": 38.365,
+      "longitude": -82.555,
+      "state": "WV",
+      "total19": "49.4"
+    },
+    {
+      "id": "USW00014765",
+      "city": "Warwick",
+      "station": "PROVIDENCE T F GREEN AP",
+      "average": 48.9,
+      "latitude": 41.7219,
+      "longitude": -71.4325,
+      "state": "RI",
+      "total19": "52"
+    },
+    {
+      "id": "USC00353971",
+      "city": "Sweet Home",
+      "station": "HOLLEY",
+      "average": 48.9,
+      "latitude": 44.3525,
+      "longitude": -122.7842,
+      "state": "OR",
+      "total19": "43.1"
+    },
+    {
+      "id": "USW00014711",
+      "city": "Middletown",
+      "station": "MIDDLETOWN HARRISBURG INTL AP",
+      "average": 48.7,
+      "latitude": 40.1936,
+      "longitude": -76.7633,
+      "state": "PA",
+      "total19": "47.9"
+    },
+    {
+      "id": "USC00367732",
+      "city": "Brogue",
+      "station": "SAFE HARBOR DAM",
+      "average": 48.7,
+      "latitude": 39.8958,
+      "longitude": -76.3947,
+      "state": "PA",
+      "total19": "49.1"
+    },
+    {
+      "id": "USC00317202",
+      "city": "Reidsville",
+      "station": "REIDSVILLE 2 NW",
+      "average": 48.6,
+      "latitude": 36.3797,
+      "longitude": -79.6944,
+      "state": "NC",
+      "total19": "49.7"
+    },
+    {
+      "id": "USW00014734",
+      "city": "Elizabeth",
+      "station": "NEWARK INTL AP",
+      "average": 48.5,
+      "latitude": 40.6825,
+      "longitude": -74.1694,
+      "state": "NJ",
+      "total19": "58.6"
+    },
+    {
+      "id": "USW00013722",
+      "city": "Morrisville",
+      "station": "RALEIGH DURHAM INTL AP",
+      "average": 48.5,
+      "latitude": 35.8922,
+      "longitude": -78.7819,
+      "state": "NC",
+      "total19": "43"
+    },
+    {
+      "id": "USW00053860",
+      "city": "Jacksonville",
+      "station": "JACKSONVILLE CRAIG MUNI AP",
+      "average": 48.3,
+      "latitude": 30.3361,
+      "longitude": -81.5147,
+      "state": "FL",
+      "total19": "47.6"
+    },
+    {
+      "id": "USW00014740",
+      "city": "Windsor Locks",
+      "station": "HARTFORD BRADLEY INTL AP",
+      "average": 48.3,
+      "latitude": 41.9381,
+      "longitude": -72.6825,
+      "state": "CT",
+      "total19": "52.5"
+    },
+    {
+      "id": "USC00319675",
+      "city": "Yadkinville",
+      "station": "YADKINVILLE 6 E",
+      "average": 48.2,
+      "latitude": 36.1306,
+      "longitude": -80.5481,
+      "state": "NC",
+      "total19": "47"
+    },
+    {
+      "id": "USC00235027",
+      "city": "Lockwood",
+      "station": "LOCKWOOD",
+      "average": 48.2,
+      "latitude": 37.3908,
+      "longitude": -93.9492,
+      "state": "MO",
+      "total19": "60.5"
+    },
+    {
+      "id": "USW00013866",
+      "city": "Charleston",
+      "station": "CHARLESTON YEAGER AP",
+      "average": 48.2,
+      "latitude": 38.3794,
+      "longitude": -81.59,
+      "state": "WV",
+      "total19": "46.9"
+    },
+    {
+      "id": "US1INHN0011",
+      "city": "Fortville",
+      "station": "MCCORDSVILLE 2.6 NE",
+      "average": 48.2,
+      "latitude": 39.937,
+      "longitude": -85.9,
+      "state": "IN",
+      "total19": "50.5"
+    },
+    {
+      "id": "USC00314996",
+      "city": "Lincolnton",
+      "station": "LINCOLNTON 4 W",
+      "average": 48.2,
+      "latitude": 35.4606,
+      "longitude": -81.3297,
+      "state": "NC",
+      "total19": "53.9"
+    },
+    {
+      "id": "USC00406534",
+      "city": "Newport",
+      "station": "NEWPORT 1 NW",
+      "average": 48.2,
+      "latitude": 35.9833,
+      "longitude": -83.2008,
+      "state": "TN",
+      "total19": "57.6"
+    },
+    {
+      "id": "USW00013957",
+      "city": "Shreveport",
+      "station": "SHREVEPORT",
+      "average": 48,
+      "latitude": 32.4506,
+      "longitude": -93.8411,
+      "state": "LA",
+      "total19": "42.9"
+    },
+    {
+      "id": "USW00013964",
+      "city": "Fort Smith",
+      "station": "FT SMITH RGNL AP",
+      "average": 48,
+      "latitude": 35.3331,
+      "longitude": -94.3625,
+      "state": "AR",
+      "total19": "67.5"
+    },
+    {
+      "id": "USC00446475",
+      "city": "Painter",
+      "station": "PAINTER 2 W",
+      "average": 48,
+      "latitude": 37.5844,
+      "longitude": -75.8217,
+      "state": "VA",
+      "total19": "46.4"
+    },
+    {
+      "id": "USW00003962",
+      "city": "Bismarck",
+      "station": "HOT SPRINGS ASOS",
+      "average": 47.9,
+      "latitude": 34.29,
+      "longitude": -93.06,
+      "state": "AR",
+      "total19": "52.4"
+    },
+    {
+      "id": "USS0021C28S",
+      "city": "Naches",
+      "station": "White Pass E.S.",
+      "average": 47.7,
+      "latitude": 46.64,
+      "longitude": -121.38,
+      "state": "WA",
+      "total19": "33.8"
+    },
+    {
+      "id": "USW00093987",
+      "city": "Diboll",
+      "station": "LUFKIN ANGELINA CO AP",
+      "average": 47.7,
+      "latitude": 31.2361,
+      "longitude": -94.7544,
+      "state": "TX",
+      "total19": "41.7"
+    },
+    {
+      "id": "US1NCGL0008",
+      "city": "Greensboro",
+      "station": "GREENSBORO 5.3 NNE",
+      "average": 47.6,
+      "latitude": 36.1515,
+      "longitude": -79.7968,
+      "state": "NC",
+      "total19": "51.8"
+    },
+    {
+      "id": "USW00013786",
+      "city": "Elizabeth City",
+      "station": "ELIZABETH CITY CGAS",
+      "average": 47.6,
+      "latitude": 36.2606,
+      "longitude": -76.175,
+      "state": "NC",
+      "total19": "55"
+    },
+    {
+      "id": "USW00013781",
+      "city": "New Castle",
+      "station": "WILMINGTON NEW CASTLE CO AP",
+      "average": 47.5,
+      "latitude": 39.6728,
+      "longitude": -75.6008,
+      "state": "DE",
+      "total19": "48"
+    },
+    {
+      "id": "USW00012923",
+      "city": "Galveston",
+      "station": "GALVESTON SCHOLES FLD",
+      "average": 47.4,
+      "latitude": 29.2733,
+      "longitude": -94.8592,
+      "state": "TX",
+      "total19": "59.3"
+    },
+    {
+      "id": "USW00093721",
+      "city": "Hanover",
+      "station": "BALTIMORE WASH INTL AP",
+      "average": 47.3,
+      "latitude": 39.1667,
+      "longitude": -76.6833,
+      "state": "MD",
+      "total19": "38.2"
+    },
+    {
+      "id": "US1ILSC0003",
+      "city": "Belleville",
+      "station": "BELLEVILLE 2.2 SE",
+      "average": 47.3,
+      "latitude": 38.5096,
+      "longitude": -89.9711,
+      "state": "IL",
+      "total19": "54.8"
+    },
+    {
+      "id": "USC00193276",
+      "city": "Groveland",
+      "station": "GROVELAND",
+      "average": 47.3,
+      "latitude": 42.7467,
+      "longitude": -71.0425,
+      "state": "MA",
+      "total19": "50.2"
+    },
+    {
+      "id": "USS0013A27S",
+      "city": "Cut Bank",
+      "station": "Many Glacier",
+      "average": 47.1,
+      "latitude": 48.8,
+      "longitude": -113.67,
+      "state": "MT",
+      "total19": "40.9"
+    },
+    {
+      "id": "USW00093720",
+      "city": "Salisbury",
+      "station": "SALISBURY WICOMICO RGNL AP",
+      "average": 46.9,
+      "latitude": 38.3406,
+      "longitude": -75.5103,
+      "state": "MD",
+      "total19": "36.9"
+    },
+    {
+      "id": "USC00272302",
+      "city": "Milford",
+      "station": "E MILFORD",
+      "average": 46.9,
+      "latitude": 42.8267,
+      "longitude": -71.6261,
+      "state": "NH",
+      "total19": "45.7"
+    },
+    {
+      "id": "USW00003822",
+      "city": "Savannah",
+      "station": "SAVANNAH INTL AP",
+      "average": 46.7,
+      "latitude": 32.13,
+      "longitude": -81.21,
+      "state": "GA",
+      "total19": "51.4"
+    },
+    {
+      "id": "USW00004781",
+      "city": "Ronkonkoma",
+      "station": "ISLIP LI MACARTHUR AP",
+      "average": 46.7,
+      "latitude": 40.7939,
+      "longitude": -73.1017,
+      "state": "NY",
+      "total19": "48.8"
+    },
+    {
+      "id": "USC00190120",
+      "city": "Amherst",
+      "station": "AMHERST",
+      "average": 46.6,
+      "latitude": 42.3861,
+      "longitude": -72.5375,
+      "state": "MA",
+      "total19": "45"
+    },
+    {
+      "id": "USC00351897",
+      "city": "Cottage Grove",
+      "station": "COTTAGE GROVE 2E",
+      "average": 46.5,
+      "latitude": 43.7917,
+      "longitude": -123.0275,
+      "state": "OR",
+      "total19": "42.2"
+    },
+    {
+      "id": "US1MOFSA065",
+      "city": "Salem",
+      "station": "SALEM 1.8 NW",
+      "average": 46.5,
+      "latitude": 37.6605,
+      "longitude": -91.5535,
+      "state": "MO",
+      "total19": "53.9"
+    },
+    {
+      "id": "USC00237263",
+      "city": "Rolla",
+      "station": "ROLLA MISSOURI S&T",
+      "average": 46.3,
+      "latitude": 37.9567,
+      "longitude": -91.7761,
+      "state": "MO",
+      "total19": "50.5"
+    },
+    {
+      "id": "USC00313555",
+      "city": "Graham",
+      "station": "GRAHAM 2 ENE",
+      "average": 46.3,
+      "latitude": 36.0503,
+      "longitude": -79.3728,
+      "state": "NC",
+      "total19": "52.4"
+    },
+    {
+      "id": "US1ILWL0051",
+      "city": "Plainfield",
+      "station": "PLAINFIELD 2.4 SSE",
+      "average": 46.2,
+      "latitude": 41.5819,
+      "longitude": -88.1937,
+      "state": "IL",
+      "total19": "63.7"
+    },
+    {
+      "id": "USW00013877",
+      "city": "Blountville",
+      "station": "BRISTOL TRI CITY AP",
+      "average": 46.1,
+      "latitude": 36.4731,
+      "longitude": -82.4044,
+      "state": "TN",
+      "total19": "56"
+    },
+    {
+      "id": "USW00014732",
+      "city": "East Elmhurst",
+      "station": "NEW YORK LAGUARDIA AP",
+      "average": 46.1,
+      "latitude": 40.7794,
+      "longitude": -73.8803,
+      "state": "NY",
+      "total19": "50.9"
+    },
+    {
+      "id": "USW00014778",
+      "city": "Montoursville",
+      "station": "WILLIAMSPORT",
+      "average": 46,
+      "latitude": 41.2433,
+      "longitude": -76.9217,
+      "state": "PA",
+      "total19": "48.7"
+    },
+    {
+      "id": "USW00013741",
+      "city": "Roanoke",
+      "station": "ROANOKE RGNL AP",
+      "average": 45.8,
+      "latitude": 37.3169,
+      "longitude": -79.9742,
+      "state": "VA",
+      "total19": "42.6"
+    },
+    {
+      "id": "USW00013971",
+      "city": "Harrison",
+      "station": "HARRISON BOONE CO AP",
+      "average": 45.8,
+      "latitude": 36.2667,
+      "longitude": -93.1567,
+      "state": "AR",
+      "total19": "57"
+    },
+    {
+      "id": "USC00274234",
+      "city": "Hudson",
+      "station": "HUDSON 1 SSE",
+      "average": 45.7,
+      "latitude": 42.7831,
+      "longitude": -71.4147,
+      "state": "NH",
+      "total19": "52.6"
+    },
+    {
+      "id": "USW00003813",
+      "city": "Macon",
+      "station": "MACON MIDDLE GA RGNL AP",
+      "average": 45.7,
+      "latitude": 32.6847,
+      "longitude": -83.6528,
+      "state": "GA",
+      "total19": "44.6"
+    },
+    {
+      "id": "USW00013723",
+      "city": "Greensboro",
+      "station": "PIEDMONT TRIAD INTL AP",
+      "average": 45.7,
+      "latitude": 36.0969,
+      "longitude": -79.9433,
+      "state": "NC",
+      "total19": "52"
+    },
+    {
+      "id": "USC00368469",
+      "city": "Austin",
+      "station": "STEVENSON DAM",
+      "average": 45.6,
+      "latitude": 41.4039,
+      "longitude": -78.0183,
+      "state": "PA",
+      "total19": "54.7"
+    },
+    {
+      "id": "USW00004725",
+      "city": "Johnson City",
+      "station": "BINGHAMTON",
+      "average": 45.6,
+      "latitude": 42.1997,
+      "longitude": -75.985,
+      "state": "NY",
+      "total19": "44"
+    },
+    {
+      "id": "USC00307705",
+      "city": "Sherburne",
+      "station": "SHERBURNE",
+      "average": 45.6,
+      "latitude": 42.6772,
+      "longitude": -75.5067,
+      "state": "NY",
+      "total19": "44"
+    },
+    {
+      "id": "USW00013740",
+      "city": "Richmond",
+      "station": "RICHMOND INTL AP",
+      "average": 45.6,
+      "latitude": 37.505,
+      "longitude": -77.3203,
+      "state": "VA",
+      "total19": "42.9"
+    },
+    {
+      "id": "USW00014860",
+      "city": "Erie",
+      "station": "ERIE INTL AP",
+      "average": 45.6,
+      "latitude": 42.08,
+      "longitude": -80.1825,
+      "state": "PA",
+      "total19": "40.4"
+    },
+    {
+      "id": "USC00128784",
+      "city": "Tipton",
+      "station": "TIPTON 5 SW",
+      "average": 45.5,
+      "latitude": 40.2233,
+      "longitude": -86.1086,
+      "state": "IN",
+      "total19": "40.4"
+    },
+    {
+      "id": "USS0005J37S",
+      "city": "Bellvue",
+      "station": "Joe Wright",
+      "average": 45.5,
+      "latitude": 40.53,
+      "longitude": -105.89,
+      "state": "CO",
+      "total19": "44.7"
+    },
+    {
+      "id": "USW00013883",
+      "city": "West Columbia",
+      "station": "COLUMBIA",
+      "average": 45.5,
+      "latitude": 33.9486,
+      "longitude": -81.1186,
+      "state": "SC",
+      "total19": "42.3"
+    },
+    {
+      "id": "USW00094702",
+      "city": "Stratford",
+      "station": "BRIDGEPORT SIKORSKY MEM AP",
+      "average": 45.5,
+      "latitude": 41.1583,
+      "longitude": -73.1289,
+      "state": "CT",
+      "total19": "51.1"
+    },
+    {
+      "id": "USC00441955",
+      "city": "Concord",
+      "station": "CONCORD 4 SSW",
+      "average": 45.5,
+      "latitude": 37.2819,
+      "longitude": -78.9592,
+      "state": "VA",
+      "total19": "45.9"
+    },
+    {
+      "id": "USS0015C05S",
+      "city": "Pierce",
+      "station": "Pierce R.S.",
+      "average": 45.4,
+      "latitude": 46.49,
+      "longitude": -115.8,
+      "state": "ID",
+      "total19": "41.4"
+    },
+    {
+      "id": "US1OHMD0002",
+      "city": "Brunswick",
+      "station": "BRUNSWICK 0.5 NE",
+      "average": 45.4,
+      "latitude": 41.2498,
+      "longitude": -81.8133,
+      "state": "OH",
+      "total19": "43.6"
+    },
+    {
+      "id": "USW00013736",
+      "city": "Morgantown",
+      "station": "MORGANTOWN HART FLD",
+      "average": 45.2,
+      "latitude": 39.6428,
+      "longitude": -79.9164,
+      "state": "WV",
+      "total19": "45.1"
+    },
+    {
+      "id": "USC00444148",
+      "city": "Huddleston",
+      "station": "HUDDLESTON 4 SW",
+      "average": 45.2,
+      "latitude": 37.1258,
+      "longitude": -79.525,
+      "state": "VA",
+      "total19": "47.9"
+    },
+    {
+      "id": "USW00094789",
+      "city": "Springfield Gardens",
+      "station": "NEW YORK JFK INTL AP",
+      "average": 45.1,
+      "latitude": 40.6386,
+      "longitude": -73.7622,
+      "state": "NY",
+      "total19": "52"
+    },
+    {
+      "id": "USW00013995",
+      "city": "Springfield",
+      "station": "SPRINGFIELD",
+      "average": 45.1,
+      "latitude": 37.2353,
+      "longitude": -93.4003,
+      "state": "MO",
+      "total19": "54.5"
+    },
+    {
+      "id": "USW00013881",
+      "city": "Charlotte",
+      "station": "CHARLOTTE DOUGLAS AP",
+      "average": 45.1,
+      "latitude": 35.2236,
+      "longitude": -80.9553,
+      "state": "NC",
+      "total19": "54.1"
+    },
+    {
+      "id": "USW00003872",
+      "city": "Beaver",
+      "station": "BECKLEY RALEIGH CO AP",
+      "average": 45.1,
+      "latitude": 37.7836,
+      "longitude": -81.1231,
+      "state": "WV",
+      "total19": "44.1"
+    },
+    {
+      "id": "USW00093739",
+      "city": "Horntown",
+      "station": "WALLOPS ISLAND FLIGHT FAC",
+      "average": 45.1,
+      "latitude": 37.9406,
+      "longitude": -75.4631,
+      "state": "VA",
+      "total19": "46.7"
+    },
+    {
+      "id": "USW00014852",
+      "city": "Vienna",
+      "station": "YOUNGSTOWN RGNL AP",
+      "average": 45,
+      "latitude": 41.2544,
+      "longitude": -80.6739,
+      "state": "OH",
+      "total19": "49.8"
+    },
+    {
+      "id": "USW00093846",
+      "city": "Anderson",
+      "station": "ANDERSON CO AP",
+      "average": 44.9,
+      "latitude": 34.4978,
+      "longitude": -82.7097,
+      "state": "SC",
+      "total19": "39.4"
+    },
+    {
+      "id": "USC00125407",
+      "city": "Martinsville",
+      "station": "MARTINSVILLE 2 SW",
+      "average": 44.8,
+      "latitude": 39.4039,
+      "longitude": -86.453,
+      "state": "IN",
+      "total19": "52.5"
+    },
+    {
+      "id": "US1OHFR0003",
+      "city": "Columbus",
+      "station": "GRANDVIEW HEIGHTS 0.1 N",
+      "average": 44.6,
+      "latitude": 39.981,
+      "longitude": -83.0401,
+      "state": "OH",
+      "total19": "42.2"
+    },
+    {
+      "id": "USC00369408",
+      "city": "Wellsboro",
+      "station": "WELLSBORO 4 SW",
+      "average": 44.5,
+      "latitude": 41.7003,
+      "longitude": -77.3872,
+      "state": "PA",
+      "total19": "47.8"
+    },
+    {
+      "id": "USC00330279",
+      "city": "Athens",
+      "station": "ATHENS OU",
+      "average": 44.5,
+      "latitude": 39.3225,
+      "longitude": -82.0994,
+      "state": "OH",
+      "total19": "52.1"
+    },
+    {
+      "id": "USC00367409",
+      "city": "Renovo",
+      "station": "RENOVO",
+      "average": 44.5,
+      "latitude": 41.33,
+      "longitude": -77.7381,
+      "state": "PA",
+      "total19": "47.4"
+    },
+    {
+      "id": "USW00003901",
+      "city": "Longview",
+      "station": "LONGVIEW E TX RGNL AP",
+      "average": 44.5,
+      "latitude": 32.3847,
+      "longitude": -94.7117,
+      "state": "TX",
+      "total19": "48.3"
+    },
+    {
+      "id": "USW00014895",
+      "city": "Canton",
+      "station": "AKRON CANTON RGNL AP",
+      "average": 44.4,
+      "latitude": 40.9167,
+      "longitude": -81.4333,
+      "state": "OH",
+      "total19": "44.3"
+    },
+    {
+      "id": "USW00014820",
+      "city": "Cleveland",
+      "station": "CLEVELAND",
+      "average": 44.3,
+      "latitude": 41.4131,
+      "longitude": -81.86,
+      "state": "OH",
+      "total19": "40"
+    },
+    {
+      "id": "USW00093819",
+      "city": "Indianapolis",
+      "station": "INDIANAPOLIS",
+      "average": 44.2,
+      "latitude": 39.7075,
+      "longitude": -86.2803,
+      "state": "IN",
+      "total19": "47.2"
+    },
+    {
+      "id": "USC00117457",
+      "city": "Romeoville",
+      "station": "ROMEOVILLE WFO",
+      "average": 44.2,
+      "latitude": 41.6042,
+      "longitude": -88.085,
+      "state": "IL",
+      "total19": "56.8"
+    },
+    {
+      "id": "USW00013994",
+      "city": "Bridgeton",
+      "station": "ST LOUIS LAMBERT INTL AP",
+      "average": 44.1,
+      "latitude": 38.7525,
+      "longitude": -90.3736,
+      "state": "MO",
+      "total19": "54"
+    },
+    {
+      "id": "USW00014607",
+      "city": "Caribou",
+      "station": "CARIBOU MUNI AP",
+      "average": 44,
+      "latitude": 46.8706,
+      "longitude": -68.0172,
+      "state": "ME",
+      "total19": "41.6"
+    },
+    {
+      "id": "USC00360132",
+      "city": "Duncansville",
+      "station": "ALTOONA 7 SW",
+      "average": 44,
+      "latitude": 40.4189,
+      "longitude": -78.4197,
+      "state": "PA",
+      "total19": "44.8"
+    },
+    {
+      "id": "US1OHPT0012",
+      "city": "Mogadore",
+      "station": "MOGADORE 4.7 SE",
+      "average": 43.9,
+      "latitude": 41.0085,
+      "longitude": -81.329,
+      "state": "OH",
+      "total19": "51.9"
+    },
+    {
+      "id": "USC00440766",
+      "city": "Blacksburg",
+      "station": "BLACKSBURG NWSO",
+      "average": 43.9,
+      "latitude": 37.2039,
+      "longitude": -80.4144,
+      "state": "VA",
+      "total19": "42.7"
+    },
+    {
+      "id": "USC00368449",
+      "city": "State College",
+      "station": "STATE COLLEGE",
+      "average": 43.8,
+      "latitude": 40.7933,
+      "longitude": -77.8672,
+      "state": "PA",
+      "total19": "41.5"
+    },
+    {
+      "id": "USC00441159",
+      "city": "Buena Vista",
+      "station": "BUENA VISTA",
+      "average": 43.7,
+      "latitude": 37.7267,
+      "longitude": -79.3628,
+      "state": "VA",
+      "total19": "43.2"
+    },
+    {
+      "id": "USW00014821",
+      "city": "Columbus",
+      "station": "COLUMBUS PORT COLUMBUS INTL AP",
+      "average": 43.7,
+      "latitude": 39.9914,
+      "longitude": -82.8808,
+      "state": "OH",
+      "total19": "44"
+    },
+    {
+      "id": "USC00231801",
+      "city": "Columbia",
+      "station": "COLUMBIA U OF M",
+      "average": 43.6,
+      "latitude": 38.9425,
+      "longitude": -92.3206,
+      "state": "MO",
+      "total19": "46.5"
+    },
+    {
+      "id": "USW00014891",
+      "city": "Mansfield",
+      "station": "MANSFIELD LAHM MUNI AP",
+      "average": 43.5,
+      "latitude": 40.8203,
+      "longitude": -82.5178,
+      "state": "OH",
+      "total19": "47.9"
+    },
+    {
+      "id": "USW00004751",
+      "city": "Lewis Run",
+      "station": "BRADFORD RGNL AP",
+      "average": 43.5,
+      "latitude": 41.8031,
+      "longitude": -78.6403,
+      "state": "PA",
+      "total19": "44.8"
+    },
+    {
+      "id": "US1MDAL0002",
+      "city": "Cumberland",
+      "station": "CRESAPTOWN-BEL AIR 0.9 SSE",
+      "average": 43.5,
+      "latitude": 39.5768,
+      "longitude": -78.8498,
+      "state": "MD",
+      "total19": "43"
+    },
+    {
+      "id": "USW00014745",
+      "city": "Concord",
+      "station": "CONCORD MUNI AP",
+      "average": 43.4,
+      "latitude": 43.1953,
+      "longitude": -71.5011,
+      "state": "NH",
+      "total19": "45.2"
+    },
+    {
+      "id": "US1ILGY0001",
+      "city": "Morris",
+      "station": "CARBON HILL 3.1 N",
+      "average": 43.4,
+      "latitude": 41.3414,
+      "longitude": -88.2981,
+      "state": "IL",
+      "total19": "60.3"
+    },
+    {
+      "id": "USW00013878",
+      "city": "Saint Simons Island",
+      "station": "BRUNSWICK MALCOLM MCKINNON AP",
+      "average": 43.1,
+      "latitude": 31.1522,
+      "longitude": -81.3908,
+      "state": "GA",
+      "total19": "44.4"
+    },
+    {
+      "id": "USW00013733",
+      "city": "Lynchburg",
+      "station": "LYNCHBURG RGNL AP",
+      "average": 43.1,
+      "latitude": 37.3208,
+      "longitude": -79.2067,
+      "state": "VA",
+      "total19": "39.1"
+    },
+    {
+      "id": "USC00211198",
+      "city": "Caledonia",
+      "station": "CALEDONIA",
+      "average": 42.8,
+      "latitude": 43.6308,
+      "longitude": -91.5028,
+      "state": "MN",
+      "total19": "47.9"
+    },
+    {
+      "id": "USC00315356",
+      "city": "Marshall",
+      "station": "MARSHALL",
+      "average": 42.7,
+      "latitude": 35.8033,
+      "longitude": -82.6658,
+      "state": "NC",
+      "total19": "47.3"
+    },
+    {
+      "id": "US1ILWD0005",
+      "city": "Morrison",
+      "station": "MORRISON 3.2 E",
+      "average": 42.6,
+      "latitude": 41.816,
+      "longitude": -89.904,
+      "state": "IL",
+      "total19": "56.1"
+    },
+    {
+      "id": "USW00014606",
+      "city": "Bangor",
+      "station": "BANGOR INTL AP",
+      "average": 42.6,
+      "latitude": 44.7978,
+      "longitude": -68.8186,
+      "state": "ME",
+      "total19": "52"
+    },
+    {
+      "id": "USW00003820",
+      "city": "Augusta",
+      "station": "AUGUSTA BUSH FLD AP",
+      "average": 42.5,
+      "latitude": 33.3644,
+      "longitude": -81.9633,
+      "state": "GA",
+      "total19": "50.9"
+    },
+    {
+      "id": "USW00094823",
+      "city": "Coraopolis",
+      "station": "PITTSBURGH INTL AP",
+      "average": 42.5,
+      "latitude": 40.4847,
+      "longitude": -80.2144,
+      "state": "PA",
+      "total19": "52.5"
+    },
+    {
+      "id": "USW00013743",
+      "city": "Arlington",
+      "station": "WASHINGTON REAGAN AP",
+      "average": 42.4,
+      "latitude": 38.8483,
+      "longitude": -77.0342,
+      "state": "VA",
+      "total19": "42.4"
+    },
+    {
+      "id": "USC00437054",
+      "city": "Saint Johnsbury",
+      "station": "SAINT JOHNSBURY",
+      "average": 42.4,
+      "latitude": 44.42,
+      "longitude": -72.0194,
+      "state": "VT",
+      "total19": "47.5"
+    },
+    {
+      "id": "USC00369823",
+      "city": "Bedford",
+      "station": "WOLFSBURG",
+      "average": 42.4,
+      "latitude": 40.0394,
+      "longitude": -78.5239,
+      "state": "PA",
+      "total19": "47"
+    },
+    {
+      "id": "US1ILCN0003",
+      "city": "Assumption",
+      "station": "PANA 6.2 NNE",
+      "average": 42.2,
+      "latitude": 39.4736,
+      "longitude": -89.0462,
+      "state": "IL",
+      "total19": "51.5"
+    },
+    {
+      "id": "USC00442044",
+      "city": "Covington",
+      "station": "COVINGTON FLTR PLT",
+      "average": 42.1,
+      "latitude": 37.8111,
+      "longitude": -79.9883,
+      "state": "VA",
+      "total19": "38.2"
+    },
+    {
+      "id": "USC00474790",
+      "city": "Lodi",
+      "station": "LODI",
+      "average": 42.1,
+      "latitude": 43.3217,
+      "longitude": -89.5311,
+      "state": "WI",
+      "total19": "52.8"
+    },
+    {
+      "id": "USW00024233",
+      "city": "Seattle",
+      "station": "SEATTLE TACOMA INTL AP",
+      "average": 42.1,
+      "latitude": 47.4444,
+      "longitude": -122.3139,
+      "state": "WA",
+      "total19": "33.9"
+    },
+    {
+      "id": "USC00464840",
+      "city": "Keyser",
+      "station": "KEYSER 2 SSW",
+      "average": 42,
+      "latitude": 39.4214,
+      "longitude": -79.005,
+      "state": "WV",
+      "total19": "39.5"
+    },
+    {
+      "id": "USS0020L02S",
+      "city": "Tahoma",
+      "station": "Rubicon #2",
+      "average": 41.9,
+      "latitude": 39,
+      "longitude": -120.13,
+      "state": "CA",
+      "total19": "52.6"
+    },
+    {
+      "id": "USW00014733",
+      "city": "Buffalo",
+      "station": "BUFFALO",
+      "average": 41.6,
+      "latitude": 42.9486,
+      "longitude": -78.7369,
+      "state": "NY",
+      "total19": "47.8"
+    },
+    {
+      "id": "USW00094860",
+      "city": "Grand Rapids",
+      "station": "GRAND RAPIDS",
+      "average": 41.6,
+      "latitude": 42.8939,
+      "longitude": -85.5447,
+      "state": "MI",
+      "total19": "51.4"
+    },
+    {
+      "id": "USW00093815",
+      "city": "Vandalia",
+      "station": "DAYTON INTL AP",
+      "average": 41.5,
+      "latitude": 39.9061,
+      "longitude": -84.2186,
+      "state": "OH",
+      "total19": "43"
+    },
+    {
+      "id": "USW00094908",
+      "city": "Dubuque",
+      "station": "DUBUQUE RGNL AP",
+      "average": 41.5,
+      "latitude": 42.3978,
+      "longitude": -90.7036,
+      "state": "IA",
+      "total19": "54.9"
+    },
+    {
+      "id": "USC00304996",
+      "city": "Malone",
+      "station": "MALONE",
+      "average": 41.4,
+      "latitude": 44.8419,
+      "longitude": -74.3081,
+      "state": "NY",
+      "total19": "41.4"
+    },
+    {
+      "id": "USW00094846",
+      "city": "Elk Grove Village",
+      "station": "CHICAGO OHARE INTL AP",
+      "average": 41.4,
+      "latitude": 41.995,
+      "longitude": -87.9336,
+      "state": "IL",
+      "total19": "49.6"
+    },
+    {
+      "id": "USC00115961",
+      "city": "Mundelein",
+      "station": "MUNDELEIN 4 WSW",
+      "average": 41.2,
+      "latitude": 42.2553,
+      "longitude": -88.0775,
+      "state": "IL",
+      "total19": "54.2"
+    },
+    {
+      "id": "USW00003904",
+      "city": "College Station",
+      "station": "COLLEGE STN",
+      "average": 41.2,
+      "latitude": 30.5892,
+      "longitude": -96.3647,
+      "state": "TX",
+      "total19": "36.3"
+    },
+    {
+      "id": "US1OHSN0003",
+      "city": "Tiffin",
+      "station": "TIFFIN 5.2 SE",
+      "average": 41.1,
+      "latitude": 41.0589,
+      "longitude": -83.1127,
+      "state": "OH",
+      "total19": "45.8"
+    },
+    {
+      "id": "USW00024213",
+      "city": "Eureka",
+      "station": "EUREKA WFO WOODLEY ISLAND",
+      "average": 41.1,
+      "latitude": 40.8097,
+      "longitude": -124.1603,
+      "state": "CA",
+      "total19": "44"
+    },
+    {
+      "id": "USW00003947",
+      "city": "Kansas City",
+      "station": "KANSAS CITY INTL AP",
+      "average": 41.1,
+      "latitude": 39.2972,
+      "longitude": -94.7306,
+      "state": "MO",
+      "total19": "53.2"
+    },
+    {
+      "id": "USW00014827",
+      "city": "Fort Wayne",
+      "station": "FT WAYNE INTL AP",
+      "average": 41.1,
+      "latitude": 40.9706,
+      "longitude": -85.2064,
+      "state": "IN",
+      "total19": "39.1"
+    },
+    {
+      "id": "USW00014842",
+      "city": "Peoria",
+      "station": "PEORIA GTR PEORIA AP",
+      "average": 41.1,
+      "latitude": 40.6675,
+      "longitude": -89.6839,
+      "state": "IL",
+      "total19": "50.8"
+    },
+    {
+      "id": "US1IASR0002",
+      "city": "Ames",
+      "station": "AMES 1.5 NNE",
+      "average": 41.1,
+      "latitude": 42.0448,
+      "longitude": -93.6174,
+      "state": "IA",
+      "total19": "40.1"
+    },
+    {
+      "id": "US1MIIN0001",
+      "city": "Saranac",
+      "station": "SARANAC 2.6 NE",
+      "average": 41,
+      "latitude": 42.9576,
+      "longitude": -85.1738,
+      "state": "MI",
+      "total19": "49.9"
+    },
+    {
+      "id": "USC00476827",
+      "city": "Prairie Du Chien",
+      "station": "PRAIRIE DU CHIEN",
+      "average": 40.9,
+      "latitude": 43.0514,
+      "longitude": -91.135,
+      "state": "WI",
+      "total19": "52.3"
+    },
+    {
+      "id": "USS0020K27S",
+      "city": "Tahoe City",
+      "station": "Tahoe City Cross",
+      "average": 40.9,
+      "latitude": 39.17,
+      "longitude": -120.15,
+      "state": "CA",
+      "total19": "53.9"
+    },
+    {
+      "id": "USW00014605",
+      "city": "Augusta",
+      "station": "AUGUSTA STATE AP",
+      "average": 40.9,
+      "latitude": 44.3206,
+      "longitude": -69.7972,
+      "state": "ME",
+      "total19": "42.9"
+    },
+    {
+      "id": "USC00474937",
+      "city": "Eastman",
+      "station": "LYNXVILLE DAM 9",
+      "average": 40.8,
+      "latitude": 43.2117,
+      "longitude": -91.0986,
+      "state": "WI",
+      "total19": "54.8"
+    },
+    {
+      "id": "USC00476718",
+      "city": "Portage",
+      "station": "PORTAGE",
+      "average": 40.7,
+      "latitude": 43.5278,
+      "longitude": -89.4342,
+      "state": "WI",
+      "total19": "47.3"
+    },
+    {
+      "id": "US1VASH0002",
+      "city": "Strasburg",
+      "station": "STRASBURG 3.7 N",
+      "average": 40.7,
+      "latitude": 39.0422,
+      "longitude": -78.3506,
+      "state": "VA",
+      "total19": "40.5"
+    },
+    {
+      "id": "USW00024232",
+      "city": "Salem",
+      "station": "SALEM MCNARY FLD",
+      "average": 40.7,
+      "latitude": 44.905,
+      "longitude": -123.0011,
+      "state": "OR",
+      "total19": "30.9"
+    },
+    {
+      "id": "USC00114710",
+      "city": "Kewanee",
+      "station": "KEWANEE 1 E",
+      "average": 40.6,
+      "latitude": 41.2428,
+      "longitude": -89.8997,
+      "state": "IL",
+      "total19": "50.9"
+    },
+    {
+      "id": "USW00093822",
+      "city": "Springfield",
+      "station": "SPRINGFIELD CAPITAL AP",
+      "average": 40.5,
+      "latitude": 39.8447,
+      "longitude": -89.6839,
+      "state": "IL",
+      "total19": "49.4"
+    },
+    {
+      "id": "USC00478540",
+      "city": "Beaver Dam",
+      "station": "TOWN OF WESTFORD",
+      "average": 40.5,
+      "latitude": 43.4719,
+      "longitude": -88.8825,
+      "state": "WI",
+      "total19": "48.3"
+    },
+    {
+      "id": "USW00013972",
+      "city": "Tyler",
+      "station": "TYLER POUNDS FLD",
+      "average": 40.4,
+      "latitude": 32.3542,
+      "longitude": -95.4025,
+      "state": "TX",
+      "total19": "42.6"
+    },
+    {
+      "id": "US1OHDR0001",
+      "city": "Bradford",
+      "station": "BRADFORD 2.3 NW",
+      "average": 40.4,
+      "latitude": 40.1526,
+      "longitude": -84.4613,
+      "state": "OH",
+      "total19": "42.2"
+    },
+    {
+      "id": "USC00436995",
+      "city": "Rutland",
+      "station": "RUTLAND",
+      "average": 40.4,
+      "latitude": 43.6253,
+      "longitude": -72.9781,
+      "state": "VT",
+      "total19": "45.7"
+    },
+    {
+      "id": "USC00208774",
+      "city": "Wellston",
+      "station": "WELLSTON 1N",
+      "average": 40.3,
+      "latitude": 44.2294,
+      "longitude": -85.9572,
+      "state": "MI",
+      "total19": "51.8"
+    },
+    {
+      "id": "US1OHSM0005",
+      "city": "Cuyahoga Falls",
+      "station": "CUYAHOGA FALLS 1.1 ESE",
+      "average": 40.3,
+      "latitude": 41.1623,
+      "longitude": -81.5037,
+      "state": "OH",
+      "total19": "44.8"
+    },
+    {
+      "id": "USC00231580",
+      "city": "Chillicothe",
+      "station": "CHILLICOTHE 2S",
+      "average": 40.2,
+      "latitude": 39.775,
+      "longitude": -93.5358,
+      "state": "MO",
+      "total19": "55.4"
+    },
+    {
+      "id": "USC00336405",
+      "city": "Pandora",
+      "station": "PANDORA",
+      "average": 40.2,
+      "latitude": 40.9461,
+      "longitude": -83.9614,
+      "state": "OH",
+      "total19": "44.3"
+    },
+    {
+      "id": "USS0007M33S",
+      "city": "Silverton",
+      "station": "Red Mountain Pass",
+      "average": 40.2,
+      "latitude": 37.89,
+      "longitude": -107.71,
+      "state": "CO",
+      "total19": "46.7"
+    },
+    {
+      "id": "USW00013870",
+      "city": "Alma",
+      "station": "ALMA BACON CO AP",
+      "average": 39.9,
+      "latitude": 31.5358,
+      "longitude": -82.5067,
+      "state": "GA",
+      "total19": "34.2"
+    },
+    {
+      "id": "USS0007K06S",
+      "city": "Cedaredge",
+      "station": "Park Reservoir",
+      "average": 39.9,
+      "latitude": 39.05,
+      "longitude": -107.87,
+      "state": "CO",
+      "total19": "48.3"
+    },
+    {
+      "id": "USW00094290",
+      "city": "Seattle",
+      "station": "SEATTLE SAND PT WSFO",
+      "average": 39.8,
+      "latitude": 47.6872,
+      "longitude": -122.2553,
+      "state": "WA",
+      "total19": "31.3"
+    },
+    {
+      "id": "US1INEL0008",
+      "city": "Goshen",
+      "station": "WAKARUSA 2.4 NNE",
+      "average": 39.8,
+      "latitude": 41.5655,
+      "longitude": -85.9933,
+      "state": "IN",
+      "total19": "42.9"
+    },
+    {
+      "id": "USW00014923",
+      "city": "Moline",
+      "station": "MOLINE QUAD CITY INTL AP",
+      "average": 39.8,
+      "latitude": 41.4653,
+      "longitude": -90.5233,
+      "state": "IL",
+      "total19": "49.6"
+    },
+    {
+      "id": "USW00014742",
+      "city": "South Burlington",
+      "station": "BURLINGTON INTL AP",
+      "average": 39.8,
+      "latitude": 44.4683,
+      "longitude": -73.15,
+      "state": "VT",
+      "total19": "43.5"
+    },
+    {
+      "id": "USW00012836",
+      "city": "Key West",
+      "station": "KEY WEST INTL AP",
+      "average": 39.7,
+      "latitude": 24.555,
+      "longitude": -81.7522,
+      "state": "FL",
+      "total19": "35.4"
+    },
+    {
+      "id": "USC00470124",
+      "city": "Alma",
+      "station": "ALMA DAM 4",
+      "average": 39.7,
+      "latitude": 44.3272,
+      "longitude": -91.9194,
+      "state": "WI",
+      "total19": "52.8"
+    },
+    {
+      "id": "USW00014837",
+      "city": "Madison",
+      "station": "MADISON DANE RGNL AP",
+      "average": 39.6,
+      "latitude": 43.1406,
+      "longitude": -89.3453,
+      "state": "WI",
+      "total19": "46.4"
+    },
+    {
+      "id": "USC00471078",
+      "city": "Brodhead",
+      "station": "BRODHEAD",
+      "average": 39.6,
+      "latitude": 42.6333,
+      "longitude": -89.3867,
+      "state": "WI",
+      "total19": "50.1"
+    },
+    {
+      "id": "USC00200230",
+      "city": "Ann Arbor",
+      "station": "ANN ARBOR U OF MICH",
+      "average": 39.6,
+      "latitude": 42.2981,
+      "longitude": -83.6639,
+      "state": "MI",
+      "total19": "45.5"
+    },
+    {
+      "id": "US1IAWB0005",
+      "city": "Badger",
+      "station": "BADGER 3.1 NW",
+      "average": 39.5,
+      "latitude": 42.6426,
+      "longitude": -94.1879,
+      "state": "IA",
+      "total19": "40.2"
+    },
+    {
+      "id": "USW00094822",
+      "city": "Rockford",
+      "station": "ROCKFORD GTR ROCKFORD AP",
+      "average": 39.3,
+      "latitude": 42.1928,
+      "longitude": -89.0931,
+      "state": "IL",
+      "total19": "49.4"
+    },
+    {
+      "id": "USC00472973",
+      "city": "Friendship",
+      "station": "FRIENDSHIP",
+      "average": 39.3,
+      "latitude": 43.975,
+      "longitude": -89.8308,
+      "state": "WI",
+      "total19": "50.1"
+    },
+    {
+      "id": "USC00200758",
+      "city": "Frankfort",
+      "station": "BEULAH 7SSW",
+      "average": 39.2,
+      "latitude": 44.5317,
+      "longitude": -86.1311,
+      "state": "MI",
+      "total19": "42.7"
+    },
+    {
+      "id": "USC00200228",
+      "city": "Ann Arbor",
+      "station": "ANN ARBOR SE",
+      "average": 39,
+      "latitude": 42.2417,
+      "longitude": -83.6933,
+      "state": "MI",
+      "total19": "44.9"
+    },
+    {
+      "id": "USW00014933",
+      "city": "Des Moines",
+      "station": "DES MOINES INTL AP",
+      "average": 39,
+      "latitude": 41.5339,
+      "longitude": -93.6531,
+      "state": "IA",
+      "total19": "49.4"
+    },
+    {
+      "id": "USC00115079",
+      "city": "Lincoln",
+      "station": "LINCOLN",
+      "average": 39,
+      "latitude": 40.1519,
+      "longitude": -89.3386,
+      "state": "IL",
+      "total19": "45.7"
+    },
+    {
+      "id": "USW00014840",
+      "city": "Muskegon",
+      "station": "MUSKEGON CO AP",
+      "average": 39,
+      "latitude": 43.1711,
+      "longitude": -86.2367,
+      "state": "MI",
+      "total19": "48"
+    },
+    {
+      "id": "USC00475581",
+      "city": "Montello",
+      "station": "MONTELLO",
+      "average": 38.9,
+      "latitude": 43.7806,
+      "longitude": -89.3169,
+      "state": "WI",
+      "total19": "48.4"
+    },
+    {
+      "id": "USC00470045",
+      "city": "Janesville",
+      "station": "AFTON",
+      "average": 38.9,
+      "latitude": 42.6475,
+      "longitude": -89.0644,
+      "state": "WI",
+      "total19": "49.9"
+    },
+    {
+      "id": "USC00203096",
+      "city": "Gaylord",
+      "station": "GAYLORD",
+      "average": 38.8,
+      "latitude": 45.0333,
+      "longitude": -84.7114,
+      "state": "MI",
+      "total19": "47.3"
+    },
+    {
+      "id": "USW00024152",
+      "city": "Meacham",
+      "station": "MEACHAM",
+      "average": 38.8,
+      "latitude": 45.5114,
+      "longitude": -118.4247,
+      "state": "OR",
+      "total19": "35.5"
+    },
+    {
+      "id": "USW00012935",
+      "city": "Palacios",
+      "station": "PALACIOS MUNI AP",
+      "average": 38.8,
+      "latitude": 28.7247,
+      "longitude": -96.2536,
+      "state": "TX",
+      "total19": "37.7"
+    },
+    {
+      "id": "USW00013968",
+      "city": "Tulsa",
+      "station": "TULSA INTL AP",
+      "average": 38.8,
+      "latitude": 36.1994,
+      "longitude": -95.8872,
+      "state": "OK",
+      "total19": "59.6"
+    },
+    {
+      "id": "USC00118684",
+      "city": "Tuscola",
+      "station": "TUSCOLA",
+      "average": 38.8,
+      "latitude": 39.7947,
+      "longitude": -88.2911,
+      "state": "IL",
+      "total19": "44.1"
+    },
+    {
+      "id": "USC00476200",
+      "city": "Oconomowoc",
+      "station": "OCONOMOWOC",
+      "average": 38.7,
+      "latitude": 43.1003,
+      "longitude": -88.5036,
+      "state": "WI",
+      "total19": "41.9"
+    },
+    {
+      "id": "USC00470265",
+      "city": "Appleton",
+      "station": "APPLETON",
+      "average": 38.7,
+      "latitude": 44.2769,
+      "longitude": -88.4378,
+      "state": "WI",
+      "total19": "49"
+    },
+    {
+      "id": "USC00043578",
+      "city": "Sebastopol",
+      "station": "GRATON",
+      "average": 38.6,
+      "latitude": 38.4306,
+      "longitude": -122.8647,
+      "state": "CA",
+      "total19": "45"
+    },
+    {
+      "id": "USW00013960",
+      "city": "Dallas",
+      "station": "DALLAS LOVE FLD",
+      "average": 38.5,
+      "latitude": 32.8519,
+      "longitude": -96.8556,
+      "state": "TX",
+      "total19": "39.6"
+    },
+    {
+      "id": "USW00014920",
+      "city": "La Crosse",
+      "station": "LA CROSSE MUNI AP",
+      "average": 38.5,
+      "latitude": 43.8789,
+      "longitude": -91.2528,
+      "state": "WI",
+      "total19": "44.7"
+    },
+    {
+      "id": "USW00024229",
+      "city": "Portland",
+      "station": "PORTLAND INTL AP",
+      "average": 38.4,
+      "latitude": 45.5908,
+      "longitude": -122.6003,
+      "state": "OR",
+      "total19": "26.7"
+    },
+    {
+      "id": "USC00331042",
+      "city": "Bryan",
+      "station": "BRYAN 2 SE",
+      "average": 38.4,
+      "latitude": 41.4619,
+      "longitude": -84.5272,
+      "state": "OH",
+      "total19": "47.3"
+    },
+    {
+      "id": "US1IAGT0001",
+      "city": "Jamaica",
+      "station": "JAMAICA 3.2 S",
+      "average": 38.4,
+      "latitude": 41.7991,
+      "longitude": -94.3093,
+      "state": "IA",
+      "total19": "37.2"
+    },
+    {
+      "id": "USW00014897",
+      "city": "Wausau",
+      "station": "WAUSAU DWTN AP",
+      "average": 38.2,
+      "latitude": 44.9258,
+      "longitude": -89.6256,
+      "state": "WI",
+      "total19": "48.1"
+    },
+    {
+      "id": "USC00368868",
+      "city": "Tioga",
+      "station": "TIOGA HAMMOND DAM",
+      "average": 38.1,
+      "latitude": 41.8975,
+      "longitude": -77.1419,
+      "state": "PA",
+      "total19": "39.3"
+    },
+    {
+      "id": "USC00142401",
+      "city": "El Dorado",
+      "station": "EL DORADO",
+      "average": 38,
+      "latitude": 37.8183,
+      "longitude": -96.8444,
+      "state": "KS",
+      "total19": "53.1"
+    },
+    {
+      "id": "USW00094910",
+      "city": "Waterloo",
+      "station": "WATERLOO MUNI AP",
+      "average": 38,
+      "latitude": 42.5544,
+      "longitude": -92.4011,
+      "state": "IA",
+      "total19": "41.9"
+    },
+    {
+      "id": "USW00013967",
+      "city": "Oklahoma City",
+      "station": "OKLAHOMA CITY WILL ROGERS AP",
+      "average": 38,
+      "latitude": 35.3889,
+      "longitude": -97.6006,
+      "state": "OK",
+      "total19": "45.4"
+    },
+    {
+      "id": "USS0020K13S",
+      "city": "Truckee",
+      "station": "Truckee #2",
+      "average": 38,
+      "latitude": 39.3,
+      "longitude": -120.18,
+      "state": "CA",
+      "total19": "51.5"
+    },
+    {
+      "id": "US1TXCRL003",
+      "city": "Kempner",
+      "station": "KEMPNER 6.7 ENE",
+      "average": 37.7,
+      "latitude": 31.0916,
+      "longitude": -97.89,
+      "state": "TX",
+      "total19": "38.2"
+    },
+    {
+      "id": "US1OKCV0032",
+      "city": "Norman",
+      "station": "NORMAN 2.1 SE",
+      "average": 37.7,
+      "latitude": 35.1979,
+      "longitude": -97.4182,
+      "state": "OK",
+      "total19": "40.5"
+    },
+    {
+      "id": "USC00361838",
+      "city": "Lawrenceville",
+      "station": "COWANESQUE DAM",
+      "average": 37.6,
+      "latitude": 41.9903,
+      "longitude": -77.1567,
+      "state": "PA",
+      "total19": "42.3"
+    },
+    {
+      "id": "USS0007J05S",
+      "city": "Meeker",
+      "station": "Ripple Creek",
+      "average": 37.6,
+      "latitude": 40.11,
+      "longitude": -107.29,
+      "state": "CO",
+      "total19": "47.4"
+    },
+    {
+      "id": "USW00014847",
+      "city": "Sault Sainte Marie",
+      "station": "SAULT STE MARIE SANDERSON FLD",
+      "average": 37.6,
+      "latitude": 46.4794,
+      "longitude": -84.3572,
+      "state": "MI",
+      "total19": "46.2"
+    },
+    {
+      "id": "USS0005J10S",
+      "city": "Grand Lake",
+      "station": "Lake Irene",
+      "average": 37.5,
+      "latitude": 40.41,
+      "longitude": -105.82,
+      "state": "CO",
+      "total19": "36.1"
+    },
+    {
+      "id": "USW00094830",
+      "city": "Swanton",
+      "station": "TOLEDO EXPRESS AP",
+      "average": 37.5,
+      "latitude": 41.5886,
+      "longitude": -83.8014,
+      "state": "OH",
+      "total19": "44.6"
+    },
+    {
+      "id": "USW00014925",
+      "city": "Rochester",
+      "station": "ROCHESTER INTL AP",
+      "average": 37.5,
+      "latitude": 43.9042,
+      "longitude": -92.4917,
+      "state": "MN",
+      "total19": "55.2"
+    },
+    {
+      "id": "USC00346386",
+      "city": "Norman",
+      "station": "NORMAN 3SSE",
+      "average": 37.4,
+      "latitude": 35.1808,
+      "longitude": -97.4378,
+      "state": "OK",
+      "total19": "41"
+    },
+    {
+      "id": "USC00413285",
+      "city": "Fort Worth",
+      "station": "FT WORTH WSFO",
+      "average": 37.3,
+      "latitude": 32.8339,
+      "longitude": -97.2975,
+      "state": "TX",
+      "total19": "36.6"
+    },
+    {
+      "id": "USW00014750",
+      "city": "Queensbury",
+      "station": "GLENS FALLS AP",
+      "average": 37.3,
+      "latitude": 43.35,
+      "longitude": -73.6167,
+      "state": "NY",
+      "total19": "44.1"
+    },
+    {
+      "id": "USW00013958",
+      "city": "Austin",
+      "station": "AUSTIN-CAMP MABRY",
+      "average": 37.3,
+      "latitude": 30.3208,
+      "longitude": -97.7603,
+      "state": "TX",
+      "total19": "31.9"
+    },
+    {
+      "id": "USC00130200",
+      "city": "Boone",
+      "station": "AMES 8 WSW",
+      "average": 37.2,
+      "latitude": 42.0208,
+      "longitude": -93.7742,
+      "state": "IA",
+      "total19": "36.1"
+    },
+    {
+      "id": "USC00132171",
+      "city": "Denison",
+      "station": "DENISON",
+      "average": 37.2,
+      "latitude": 42.0364,
+      "longitude": -95.3289,
+      "state": "IA",
+      "total19": "35.8"
+    },
+    {
+      "id": "USS0006H24S",
+      "city": "Laramie",
+      "station": "Cinnabar Park",
+      "average": 37.1,
+      "latitude": 41.24,
+      "longitude": -106.23,
+      "state": "WY",
+      "total19": "38.7"
+    },
+    {
+      "id": "USW00024221",
+      "city": "Eugene",
+      "station": "EUGENE MAHLON SWEET AP",
+      "average": 37.1,
+      "latitude": 44.1278,
+      "longitude": -123.2206,
+      "state": "OR",
+      "total19": "36.3"
+    },
+    {
+      "id": "USC00475364",
+      "city": "Merrill",
+      "station": "MERRILL",
+      "average": 37,
+      "latitude": 45.1786,
+      "longitude": -89.6617,
+      "state": "WI",
+      "total19": "43"
+    },
+    {
+      "id": "USS0006H13S",
+      "city": "Centennial",
+      "station": "Brooklyn Lake",
+      "average": 36.9,
+      "latitude": 41.36,
+      "longitude": -106.23,
+      "state": "WY",
+      "total19": "38.3"
+    },
+    {
+      "id": "US1KSSG0002",
+      "city": "Wichita",
+      "station": "MAIZE 5.7 S",
+      "average": 36.9,
+      "latitude": 37.6916,
+      "longitude": -97.4797,
+      "state": "KS",
+      "total19": "44.8"
+    },
+    {
+      "id": "USW00013996",
+      "city": "Topeka",
+      "station": "TOPEKA MUNI AP",
+      "average": 36.8,
+      "latitude": 39.0725,
+      "longitude": -95.6261,
+      "state": "KS",
+      "total19": "48.8"
+    },
+    {
+      "id": "USS0020L10S",
+      "city": "South Lake Tahoe",
+      "station": "Fallen Leaf",
+      "average": 36.8,
+      "latitude": 38.93,
+      "longitude": -120.05,
+      "state": "CA",
+      "total19": "42"
+    },
+    {
+      "id": "USW00014991",
+      "city": "Eau Claire",
+      "station": "EAU CLAIRE RGNL AP",
+      "average": 36.7,
+      "latitude": 44.8664,
+      "longitude": -91.4878,
+      "state": "WI",
+      "total19": "44.1"
+    },
+    {
+      "id": "USC00410433",
+      "city": "Austin",
+      "station": "AUSTIN GREAT HILLS",
+      "average": 36.7,
+      "latitude": 30.4144,
+      "longitude": -97.7664,
+      "state": "TX",
+      "total19": "28.9"
+    },
+    {
+      "id": "USW00013904",
+      "city": "Austin",
+      "station": "AUSTIN BERGSTROM AP",
+      "average": 36.6,
+      "latitude": 30.1831,
+      "longitude": -97.68,
+      "state": "TX",
+      "total19": "29.1"
+    },
+    {
+      "id": "USW00094847",
+      "city": "Romulus",
+      "station": "DETROIT METRO AP",
+      "average": 36.6,
+      "latitude": 42.2314,
+      "longitude": -83.3308,
+      "state": "MI",
+      "total19": "36.4"
+    },
+    {
+      "id": "USW00003927",
+      "city": "Irving",
+      "station": "DALLAS FT WORTH AP",
+      "average": 36.5,
+      "latitude": 32.8978,
+      "longitude": -97.0189,
+      "state": "TX",
+      "total19": "34.5"
+    },
+    {
+      "id": "USW00014768",
+      "city": "Rochester",
+      "station": "ROCHESTER GTR INTL AP",
+      "average": 36.5,
+      "latitude": 43.1167,
+      "longitude": -77.6767,
+      "state": "NY",
+      "total19": "34.5"
+    },
+    {
+      "id": "USC00471064",
+      "city": "Brillion",
+      "station": "BRILLION",
+      "average": 36.4,
+      "latitude": 44.1614,
+      "longitude": -88.0803,
+      "state": "WI",
+      "total19": "43.7"
+    },
+    {
+      "id": "US1KSSG0020",
+      "city": "Wichita",
+      "station": "WICHITA 7.9 W",
+      "average": 36.4,
+      "latitude": 37.6925,
+      "longitude": -97.4877,
+      "state": "KS",
+      "total19": "44"
+    },
+    {
+      "id": "USC00257545",
+      "city": "Salem",
+      "station": "SALEM 5SW",
+      "average": 36.2,
+      "latitude": 40.0225,
+      "longitude": -95.7883,
+      "state": "NE",
+      "total19": "49.1"
+    },
+    {
+      "id": "USW00013959",
+      "city": "Waco",
+      "station": "WACO RGNL AP",
+      "average": 36.2,
+      "latitude": 31.6189,
+      "longitude": -97.2283,
+      "state": "TX",
+      "total19": "33"
+    },
+    {
+      "id": "USS0006J01S",
+      "city": "Steamboat Springs",
+      "station": "Dry Lake",
+      "average": 36.2,
+      "latitude": 40.53,
+      "longitude": -106.78,
+      "state": "CO",
+      "total19": "40.4"
+    },
+    {
+      "id": "USC00201468",
+      "city": "Charlevoix",
+      "station": "CHARLEVOIX",
+      "average": 36.1,
+      "latitude": 45.3172,
+      "longitude": -85.2672,
+      "state": "MI",
+      "total19": "40.7"
+    },
+    {
+      "id": "USW00014898",
+      "city": "Green Bay",
+      "station": "GREEN BAY",
+      "average": 36.1,
+      "latitude": 44.4983,
+      "longitude": -88.1111,
+      "state": "WI",
+      "total19": "48.6"
+    },
+    {
+      "id": "USC00412585",
+      "city": "Austin",
+      "station": "DRIPPING SPRINGS 6 E",
+      "average": 35.9,
+      "latitude": 30.2194,
+      "longitude": -97.9878,
+      "state": "TX",
+      "total19": "34.5"
+    },
+    {
+      "id": "USC00418862",
+      "city": "Taylor",
+      "station": "TAYLOR 1NW",
+      "average": 35.8,
+      "latitude": 30.5844,
+      "longitude": -97.4156,
+      "state": "TX",
+      "total19": "34.1"
+    },
+    {
+      "id": "USC00144972",
+      "city": "Manhattan",
+      "station": "MANHATTAN",
+      "average": 35.8,
+      "latitude": 39.1972,
+      "longitude": -96.5814,
+      "state": "KS",
+      "total19": "52.8"
+    },
+    {
+      "id": "USC00253467",
+      "city": "Omaha",
+      "station": "GRETNA 4NE",
+      "average": 35.8,
+      "latitude": 41.1586,
+      "longitude": -96.1922,
+      "state": "NE",
+      "total19": "43.3"
+    },
+    {
+      "id": "USS0006M22S",
+      "city": "Antonito",
+      "station": "Cumbres Trestle",
+      "average": 35.8,
+      "latitude": 37.02,
+      "longitude": -106.45,
+      "state": "CO",
+      "total19": "47.4"
+    },
+    {
+      "id": "USW00014839",
+      "city": "Milwaukee",
+      "station": "MILWAUKEE MITCHELL AP",
+      "average": 35.8,
+      "latitude": 42.955,
+      "longitude": -87.9044,
+      "state": "WI",
+      "total19": "46"
+    },
+    {
+      "id": "USS0005J39S",
+      "city": "Estes Park",
+      "station": "Bear Lake",
+      "average": 35.7,
+      "latitude": 40.31,
+      "longitude": -105.64,
+      "state": "CO",
+      "total19": "35.2"
+    },
+    {
+      "id": "US1KSSG0003",
+      "city": "Wichita",
+      "station": "MAIZE 3.4 SSW",
+      "average": 35.7,
+      "latitude": 37.7248,
+      "longitude": -97.4786,
+      "state": "KS",
+      "total19": "41.2"
+    },
+    {
+      "id": "USC00204161",
+      "city": "Lake Linden",
+      "station": "JACOBSVILLE",
+      "average": 35.2,
+      "latitude": 47.0083,
+      "longitude": -88.4317,
+      "state": "MI",
+      "total19": "39"
+    },
+    {
+      "id": "US1SDMH0020",
+      "city": "Sioux Falls",
+      "station": "SIOUX FALLS 3.4 ESE",
+      "average": 35.1,
+      "latitude": 43.5267,
+      "longitude": -96.6658,
+      "state": "SD",
+      "total19": "44.8"
+    },
+    {
+      "id": "USW00013961",
+      "city": "Fort Worth",
+      "station": "FT WORTH MEACHAM FLD",
+      "average": 35,
+      "latitude": 32.8192,
+      "longitude": -97.3614,
+      "state": "TX",
+      "total19": "31.8"
+    },
+    {
+      "id": "USC00257800",
+      "city": "Verdon",
+      "station": "SHUBERT 2SW",
+      "average": 34.8,
+      "latitude": 40.2039,
+      "longitude": -95.7064,
+      "state": "NE",
+      "total19": "50.6"
+    },
+    {
+      "id": "USC00473930",
+      "city": "Jackson",
+      "station": "JACKSON",
+      "average": 34.7,
+      "latitude": 43.3194,
+      "longitude": -88.1681,
+      "state": "WI",
+      "total19": "48.7"
+    },
+    {
+      "id": "USC00145132",
+      "city": "Mc Farland",
+      "station": "MC FARLAND",
+      "average": 34.6,
+      "latitude": 39.0542,
+      "longitude": -96.2367,
+      "state": "KS",
+      "total19": "48.7"
+    },
+    {
+      "id": "USW00003928",
+      "city": "Wichita",
+      "station": "WICHITA",
+      "average": 34.5,
+      "latitude": 37.6544,
+      "longitude": -97.4425,
+      "state": "KS",
+      "total19": "42.1"
+    },
+    {
+      "id": "USC00258395",
+      "city": "Syracuse",
+      "station": "SYRACUSE",
+      "average": 34.4,
+      "latitude": 40.6661,
+      "longitude": -96.1892,
+      "state": "NE",
+      "total19": "38.6"
+    },
+    {
+      "id": "USW00014922",
+      "city": "Minneapolis",
+      "station": "MINNEAPOLIS/ST PAUL AP",
+      "average": 34.3,
+      "latitude": 44.8831,
+      "longitude": -93.2289,
+      "state": "MN",
+      "total19": "43.2"
+    },
+    {
+      "id": "USC00472055",
+      "city": "Denmark",
+      "station": "DENMARK WWTP",
+      "average": 34.3,
+      "latitude": 44.3514,
+      "longitude": -87.812,
+      "state": "WI",
+      "total19": "44.7"
+    },
+    {
+      "id": "RQC00663532",
+      "city": "Ensenada",
+      "station": "ENSENADA 1 W",
+      "average": 34.2,
+      "latitude": 17.9728,
+      "longitude": -66.9458,
+      "state": "PR",
+      "total19": "20.8"
+    },
+    {
+      "id": "USS0005K05S",
+      "city": "Silverthorne",
+      "station": "Loveland Basin",
+      "average": 34.1,
+      "latitude": 39.67,
+      "longitude": -105.9,
+      "state": "CO",
+      "total19": "32.2"
+    },
+    {
+      "id": "USW00023213",
+      "city": "Windsor",
+      "station": "SANTA ROSA SONOMA CO AP",
+      "average": 34.1,
+      "latitude": 38.5039,
+      "longitude": -122.8103,
+      "state": "CA",
+      "total19": "52"
+    },
+    {
+      "id": "USC00253050",
+      "city": "Fremont",
+      "station": "FREMONT",
+      "average": 33.8,
+      "latitude": 41.43,
+      "longitude": -96.4669,
+      "state": "NE",
+      "total19": "40.4"
+    },
+    {
+      "id": "USW00014942",
+      "city": "Omaha",
+      "station": "OMAHA EPPLEY AIRFIELD",
+      "average": 33.7,
+      "latitude": 41.3103,
+      "longitude": -95.8992,
+      "state": "NE",
+      "total19": "40"
+    },
+    {
+      "id": "USW00014826",
+      "city": "Flint",
+      "station": "FLINT BISHOP INTL AP",
+      "average": 33.5,
+      "latitude": 42.9667,
+      "longitude": -83.7494,
+      "state": "MI",
+      "total19": "37.4"
+    },
+    {
+      "id": "USW00012921",
+      "city": "San Antonio",
+      "station": "SAN ANTONIO INTL AP",
+      "average": 33.3,
+      "latitude": 29.5442,
+      "longitude": -98.4839,
+      "state": "TX",
+      "total19": "22.1"
+    },
+    {
+      "id": "USC00204090",
+      "city": "Kingsford",
+      "station": "IRON MTN-KINGSFORD WWTP",
+      "average": 32.8,
+      "latitude": 45.7858,
+      "longitude": -88.0842,
+      "state": "MI",
+      "total19": "39.3"
+    },
+    {
+      "id": "USS0018E05S",
+      "city": "Portland",
+      "station": "Bourne",
+      "average": 32.8,
+      "latitude": 44.83,
+      "longitude": -118.19,
+      "state": "OR",
+      "total19": "31.3"
+    },
+    {
+      "id": "USS0005J06S",
+      "city": "Red Feather Lakes",
+      "station": "Deadman Hill",
+      "average": 32.7,
+      "latitude": 40.81,
+      "longitude": -105.77,
+      "state": "CO",
+      "total19": "32.8"
+    },
+    {
+      "id": "USC00250435",
+      "city": "Brownville",
+      "station": "AUBURN 5 ESE",
+      "average": 32.7,
+      "latitude": 40.3706,
+      "longitude": -95.7469,
+      "state": "NE",
+      "total19": "38"
+    },
+    {
+      "id": "USW00094725",
+      "city": "Massena",
+      "station": "MASSENA INTL AP",
+      "average": 32.6,
+      "latitude": 44.9358,
+      "longitude": -74.8458,
+      "state": "NY",
+      "total19": "34.3"
+    },
+    {
+      "id": "USC00141467",
+      "city": "Cheney",
+      "station": "CHENEY 5N",
+      "average": 32.6,
+      "latitude": 37.7206,
+      "longitude": -97.7936,
+      "state": "KS",
+      "total19": "41.4"
+    },
+    {
+      "id": "USC00415429",
+      "city": "Luling",
+      "station": "LULING",
+      "average": 32.5,
+      "latitude": 29.6756,
+      "longitude": -97.6578,
+      "state": "TX",
+      "total19": "26.6"
+    },
+    {
+      "id": "USW00014845",
+      "city": "Freeland",
+      "station": "SAGINAW MBS INTL AP",
+      "average": 32.5,
+      "latitude": 43.5331,
+      "longitude": -84.0797,
+      "state": "MI",
+      "total19": "34.4"
+    },
+    {
+      "id": "USC00258465",
+      "city": "Tecumseh",
+      "station": "TECUMSEH 1S",
+      "average": 32.5,
+      "latitude": 40.3544,
+      "longitude": -96.1939,
+      "state": "NE",
+      "total19": "42.7"
+    },
+    {
+      "id": "USS0008M06S",
+      "city": "Dolores",
+      "station": "El Diente Peak",
+      "average": 32.5,
+      "latitude": 37.79,
+      "longitude": -108.02,
+      "state": "CO",
+      "total19": "39.3"
+    },
+    {
+      "id": "USW00014939",
+      "city": "Lincoln",
+      "station": "LINCOLN MUNI AP",
+      "average": 32.3,
+      "latitude": 40.8508,
+      "longitude": -96.7475,
+      "state": "NE",
+      "total19": "36.1"
+    },
+    {
+      "id": "USW00014913",
+      "city": "Duluth",
+      "station": "DULUTH",
+      "average": 32.3,
+      "latitude": 46.8369,
+      "longitude": -92.2097,
+      "state": "MN",
+      "total19": "34.3"
+    },
+    {
+      "id": "USC00259200",
+      "city": "West Point",
+      "station": "W PT",
+      "average": 32.3,
+      "latitude": 41.845,
+      "longitude": -96.7142,
+      "state": "NE",
+      "total19": "31.5"
+    },
+    {
+      "id": "USW00094849",
+      "city": "Alpena",
+      "station": "ALPENA CO RGNL AP",
+      "average": 32.1,
+      "latitude": 45.0717,
+      "longitude": -83.5644,
+      "state": "MI",
+      "total19": "36.6"
+    },
+    {
+      "id": "USC00340215",
+      "city": "Ames",
+      "station": "AMES",
+      "average": 32,
+      "latitude": 36.2483,
+      "longitude": -98.1883,
+      "state": "OK",
+      "total19": "41.7"
+    },
+    {
+      "id": "US1TXWO0010",
+      "city": "Adkins",
+      "station": "ELMENDORF 5.6 ENE",
+      "average": 32,
+      "latitude": 29.2829,
+      "longitude": -98.2456,
+      "state": "TX",
+      "total19": "23.6"
+    },
+    {
+      "id": "USW00014926",
+      "city": "Saint Cloud",
+      "station": "ST CLOUD RGNL AP",
+      "average": 32,
+      "latitude": 45.5433,
+      "longitude": -94.0514,
+      "state": "MN",
+      "total19": "41.9"
+    },
+    {
+      "id": "USW00024257",
+      "city": "Redding",
+      "station": "REDDING MUNI AP",
+      "average": 31.9,
+      "latitude": 40.5175,
+      "longitude": -122.2986,
+      "state": "CA",
+      "total19": "43.1"
+    },
+    {
+      "id": "USS0005J41S",
+      "city": "Nederland",
+      "station": "Lake Eldora",
+      "average": 31.9,
+      "latitude": 39.94,
+      "longitude": -105.59,
+      "state": "CO",
+      "total19": "28.4"
+    },
+    {
+      "id": "USW00094814",
+      "city": "Houghton Lake",
+      "station": "HOUGHTON LK ROSCOMMON AP",
+      "average": 31.9,
+      "latitude": 44.3592,
+      "longitude": -84.6739,
+      "state": "MI",
+      "total19": "38.1"
+    },
+    {
+      "id": "USC00259513",
+      "city": "Benedict",
+      "station": "YORK 3N",
+      "average": 31.9,
+      "latitude": 40.9153,
+      "longitude": -97.5997,
+      "state": "NE",
+      "total19": "39.6"
+    },
+    {
+      "id": "USW00014943",
+      "city": "Sioux City",
+      "station": "SIOUX CITY GATEWAY AP",
+      "average": 31.7,
+      "latitude": 42.3914,
+      "longitude": -96.3792,
+      "state": "IA",
+      "total19": "33.9"
+    },
+    {
+      "id": "USS0005J42S",
+      "city": "Nederland",
+      "station": "Niwot",
+      "average": 31.7,
+      "latitude": 40.04,
+      "longitude": -105.54,
+      "state": "CO",
+      "total19": "30.1"
+    },
+    {
+      "id": "USS0007K02S",
+      "city": "Meeker",
+      "station": "Burro Mountain",
+      "average": 31.3,
+      "latitude": 39.88,
+      "longitude": -107.6,
+      "state": "CO",
+      "total19": "33.7"
+    },
+    {
+      "id": "USS0011H07S",
+      "city": "Garden City",
+      "station": "Garden City Summit",
+      "average": 31.2,
+      "latitude": 41.92,
+      "longitude": -111.47,
+      "state": "UT",
+      "total19": "31"
+    },
+    {
+      "id": "USS0007M27S",
+      "city": "Ironton",
+      "station": "Idarado",
+      "average": 31.1,
+      "latitude": 37.93,
+      "longitude": -107.68,
+      "state": "CO",
+      "total19": "34.7"
+    },
+    {
+      "id": "USS0006K01S",
+      "city": "Alma",
+      "station": "Hoosier Pass",
+      "average": 31,
+      "latitude": 39.36,
+      "longitude": -106.06,
+      "state": "CO",
+      "total19": "35.1"
+    },
+    {
+      "id": "USS0014F12S",
+      "city": "Ketchum",
+      "station": "Galena Summit",
+      "average": 30.9,
+      "latitude": 43.87,
+      "longitude": -114.71,
+      "state": "ID",
+      "total19": "31.6"
+    },
+    {
+      "id": "USC00148950",
+      "city": "Windom",
+      "station": "WINDOM 7S",
+      "average": 30.8,
+      "latitude": 38.2936,
+      "longitude": -97.9114,
+      "state": "KS",
+      "total19": "36.8"
+    },
+    {
+      "id": "USW00094911",
+      "city": "Yankton",
+      "station": "YANKTON 2 E",
+      "average": 30.7,
+      "latitude": 42.8783,
+      "longitude": -97.3633,
+      "state": "SD",
+      "total19": "34.9"
+    },
+    {
+      "id": "USC00344019",
+      "city": "Helena",
+      "station": "HELENA 1 SSE",
+      "average": 30.6,
+      "latitude": 36.5381,
+      "longitude": -98.2661,
+      "state": "OK",
+      "total19": "40.8"
+    },
+    {
+      "id": "US1KSJW0001",
+      "city": "Webber",
+      "station": "WEBBER 2.6 ENE",
+      "average": 30.5,
+      "latitude": 39.9421,
+      "longitude": -97.9872,
+      "state": "KS",
+      "total19": "39.3"
+    },
+    {
+      "id": "USW00014944",
+      "city": "Sioux Falls",
+      "station": "SIOUX FALLS",
+      "average": 30.4,
+      "latitude": 43.5878,
+      "longitude": -96.7289,
+      "state": "SD",
+      "total19": "39.6"
+    },
+    {
+      "id": "USW00013980",
+      "city": "Anthony",
+      "station": "ANTHONY",
+      "average": 30.4,
+      "latitude": 37.155,
+      "longitude": -98.0283,
+      "state": "KS",
+      "total19": "42.4"
+    },
+    {
+      "id": "USS0007M05S",
+      "city": "Durango",
+      "station": "Cascade",
+      "average": 30.3,
+      "latitude": 37.65,
+      "longitude": -107.81,
+      "state": "CO",
+      "total19": "39.9"
+    },
+    {
+      "id": "USW00012924",
+      "city": "Corpus Christi",
+      "station": "CORPUS CHRISTI",
+      "average": 30.3,
+      "latitude": 27.7839,
+      "longitude": -97.5108,
+      "state": "TX",
+      "total19": "25.6"
+    },
+    {
+      "id": "USC00252037",
+      "city": "Crofton",
+      "station": "CROFTON",
+      "average": 30.1,
+      "latitude": 42.7364,
+      "longitude": -97.4969,
+      "state": "NE",
+      "total19": "33.2"
+    },
+    {
+      "id": "USS0006J15S",
+      "city": "Clark",
+      "station": "Elk River",
+      "average": 30,
+      "latitude": 40.85,
+      "longitude": -106.97,
+      "state": "CO",
+      "total19": "30.9"
+    },
+    {
+      "id": "USC00253065",
+      "city": "Friend",
+      "station": "FRIEND 3E",
+      "average": 30,
+      "latitude": 40.6558,
+      "longitude": -97.2208,
+      "state": "NE",
+      "total19": "41.9"
+    },
+    {
+      "id": "USC00417327",
+      "city": "Putnam",
+      "station": "PUTNAM",
+      "average": 29.8,
+      "latitude": 32.3664,
+      "longitude": -99.1925,
+      "state": "TX",
+      "total19": "31.9"
+    },
+    {
+      "id": "USC00412011",
+      "city": "Corpus Christi",
+      "station": "CORPUS CHRISTI NWS",
+      "average": 29.6,
+      "latitude": 27.7792,
+      "longitude": -97.5056,
+      "state": "TX",
+      "total19": "24.6"
+    },
+    {
+      "id": "US1MTPK0007",
+      "city": "Livingston",
+      "station": "LIVINGSTON 6.6 ESE",
+      "average": 29.3,
+      "latitude": 45.6357,
+      "longitude": -110.4331,
+      "state": "MT",
+      "total19": "33.7"
+    },
+    {
+      "id": "USS0005J18S",
+      "city": "Allenspark",
+      "station": "Copeland Lake",
+      "average": 29.2,
+      "latitude": 40.21,
+      "longitude": -105.57,
+      "state": "CO",
+      "total19": "29.1"
+    },
+    {
+      "id": "USS0006K16S",
+      "city": "Alma",
+      "station": "Buckskin Joe",
+      "average": 28.9,
+      "latitude": 39.3,
+      "longitude": -106.11,
+      "state": "CO",
+      "total19": "31.9"
+    },
+    {
+      "id": "USC00141179",
+      "city": "Burr Oak",
+      "station": "BURR OAK 1N",
+      "average": 28.9,
+      "latitude": 39.8775,
+      "longitude": -98.3036,
+      "state": "KS",
+      "total19": "38.8"
+    },
+    {
+      "id": "USC00253175",
+      "city": "Geneva",
+      "station": "GENEVA",
+      "average": 28.7,
+      "latitude": 40.5314,
+      "longitude": -97.5964,
+      "state": "NE",
+      "total19": "38.9"
+    },
+    {
+      "id": "USC00253660",
+      "city": "Hastings",
+      "station": "HASTINGS 4N",
+      "average": 28.5,
+      "latitude": 40.6472,
+      "longitude": -98.3836,
+      "state": "NE",
+      "total19": "35.5"
+    },
+    {
+      "id": "USS0006K24S",
+      "city": "Frisco",
+      "station": "Copper Mountain",
+      "average": 28.4,
+      "latitude": 39.49,
+      "longitude": -106.17,
+      "state": "CO",
+      "total19": "28.9"
+    },
+    {
+      "id": "USW00013966",
+      "city": "Sheppard Afb",
+      "station": "WICHITA FALLS MUNI AP",
+      "average": 28.1,
+      "latitude": 33.9786,
+      "longitude": -98.4928,
+      "state": "TX",
+      "total19": "27.5"
+    },
+    {
+      "id": "USC00420819",
+      "city": "Bountiful",
+      "station": "BOUNTIFUL BENCH",
+      "average": 28.1,
+      "latitude": 40.8911,
+      "longitude": -111.8503,
+      "state": "UT",
+      "total19": "32.3"
+    },
+    {
+      "id": "USC00045915",
+      "city": "Walnut Creek",
+      "station": "MT DIABLO JUNCTION",
+      "average": 28.1,
+      "latitude": 37.8792,
+      "longitude": -121.9303,
+      "state": "CA",
+      "total19": "32.7"
+    },
+    {
+      "id": "USS0006K44S",
+      "city": "Avon",
+      "station": "Mccoy Park",
+      "average": 28,
+      "latitude": 39.6,
+      "longitude": -106.54,
+      "state": "CO",
+      "total19": "32.3"
+    },
+    {
+      "id": "USS0007K13S",
+      "city": "Meeker",
+      "station": "Trapper Lake",
+      "average": 27.9,
+      "latitude": 40,
+      "longitude": -107.24,
+      "state": "CO",
+      "total19": "28.7"
+    },
+    {
+      "id": "USS0007M35S",
+      "city": "Durango",
+      "station": "Cascade #2",
+      "average": 27.9,
+      "latitude": 37.66,
+      "longitude": -107.8,
+      "state": "CO",
+      "total19": "38.1"
+    },
+    {
+      "id": "USW00003957",
+      "city": "Medicine Lodge",
+      "station": "MEDICINE LODGE",
+      "average": 27.8,
+      "latitude": 37.2839,
+      "longitude": -98.5528,
+      "state": "KS",
+      "total19": "32.5"
+    },
+    {
+      "id": "USC00395481",
+      "city": "Menno",
+      "station": "MENNO",
+      "average": 27.7,
+      "latitude": 43.2358,
+      "longitude": -97.5714,
+      "state": "SD",
+      "total19": "36.5"
+    },
+    {
+      "id": "USW00094949",
+      "city": "Hastings",
+      "station": "HASTINGS MUNI AP",
+      "average": 27.7,
+      "latitude": 40.6044,
+      "longitude": -98.4272,
+      "state": "NE",
+      "total19": "35.2"
+    },
+    {
+      "id": "USC00411920",
+      "city": "Comfort",
+      "station": "COMFORT 2",
+      "average": 27.6,
+      "latitude": 29.9614,
+      "longitude": -98.8944,
+      "state": "TX",
+      "total19": "21.3"
+    },
+    {
+      "id": "US1WASJ0003",
+      "city": "Orcas",
+      "station": "ORCAS 0.7 NNW",
+      "average": 27.3,
+      "latitude": 48.6079,
+      "longitude": -122.9466,
+      "state": "WA",
+      "total19": "24.2"
+    },
+    {
+      "id": "USW00014935",
+      "city": "Grand Island",
+      "station": "GRAND ISLAND AP",
+      "average": 27.3,
+      "latitude": 40.9611,
+      "longitude": -98.3136,
+      "state": "NE",
+      "total19": "39.7"
+    },
+    {
+      "id": "USW00012919",
+      "city": "Brownsville",
+      "station": "BROWNSVILLE",
+      "average": 27.2,
+      "latitude": 25.9156,
+      "longitude": -97.4186,
+      "state": "TX",
+      "total19": "22.9"
+    },
+    {
+      "id": "USS0011R05S",
+      "city": "Happy Jack",
+      "station": "Happy Jack",
+      "average": 27,
+      "latitude": 34.75,
+      "longitude": -111.41,
+      "state": "AZ",
+      "total19": "33.3"
+    },
+    {
+      "id": "USS0010D07S",
+      "city": "Livingston",
+      "station": "Northeast Entrance",
+      "average": 26.9,
+      "latitude": 45.01,
+      "longitude": -110.01,
+      "state": "MT",
+      "total19": "28.9"
+    },
+    {
+      "id": "USC00342944",
+      "city": "Erick",
+      "station": "ERICK",
+      "average": 26.9,
+      "latitude": 35.2164,
+      "longitude": -99.8628,
+      "state": "OK",
+      "total19": "33.4"
+    },
+    {
+      "id": "US1COBO0202",
+      "city": "Ward",
+      "station": "WARD 4.6 NE",
+      "average": 26.8,
+      "latitude": 40.1103,
+      "longitude": -105.4391,
+      "state": "CO",
+      "total19": "27.2"
+    },
+    {
+      "id": "US1SDMN0001",
+      "city": "Fulton",
+      "station": "FULTON 9.4 N",
+      "average": 26.8,
+      "latitude": 43.8624,
+      "longitude": -97.7907,
+      "state": "SD",
+      "total19": "42.1"
+    },
+    {
+      "id": "USW00014941",
+      "city": "Norfolk",
+      "station": "NORFOLK KARL STEFAN AP",
+      "average": 26.7,
+      "latitude": 41.9856,
+      "longitude": -97.4353,
+      "state": "NE",
+      "total19": "27.1"
+    },
+    {
+      "id": "US1TXTY0005",
+      "city": "Merkel",
+      "station": "MERKEL 5.8 SW",
+      "average": 26.6,
+      "latitude": 32.4096,
+      "longitude": -100.0846,
+      "state": "TX",
+      "total19": "26.8"
+    },
+    {
+      "id": "USC00147542",
+      "city": "Smith Center",
+      "station": "SMITH CTR",
+      "average": 26.6,
+      "latitude": 39.7772,
+      "longitude": -98.7783,
+      "state": "KS",
+      "total19": "26.3"
+    },
+    {
+      "id": "USC00413508",
+      "city": "George West",
+      "station": "GEORGE WEST 2 SSW",
+      "average": 26.6,
+      "latitude": 28.3064,
+      "longitude": -98.1222,
+      "state": "TX",
+      "total19": "18.6"
+    },
+    {
+      "id": "USS0005K27S",
+      "city": "Idaho Springs",
+      "station": "Echo Lake",
+      "average": 26.6,
+      "latitude": 39.66,
+      "longitude": -105.59,
+      "state": "CO",
+      "total19": "24.6"
+    },
+    {
+      "id": "USC00417873",
+      "city": "Uvalde",
+      "station": "SABINAL",
+      "average": 26.6,
+      "latitude": 29.3283,
+      "longitude": -99.4653,
+      "state": "TX",
+      "total19": "22.8"
+    },
+    {
+      "id": "USW00013962",
+      "city": "Abilene",
+      "station": "ABILENE RGNL AP",
+      "average": 26.2,
+      "latitude": 32.4106,
+      "longitude": -99.6822,
+      "state": "TX",
+      "total19": "23.2"
+    },
+    {
+      "id": "USC00480140",
+      "city": "Alta",
+      "station": "ALTA 1 NNW",
+      "average": 26.2,
+      "latitude": 43.7728,
+      "longitude": -111.0339,
+      "state": "WY",
+      "total19": "27.4"
+    },
+    {
+      "id": "USS0003E05S",
+      "city": "Lead",
+      "station": "North Rapid Creek",
+      "average": 26.1,
+      "latitude": 44.21,
+      "longitude": -103.79,
+      "state": "SD",
+      "total19": "25.3"
+    },
+    {
+      "id": "USS0005J11S",
+      "city": "Bellvue",
+      "station": "Hourglass Lake",
+      "average": 26.1,
+      "latitude": 40.58,
+      "longitude": -105.63,
+      "state": "CO",
+      "total19": "25.7"
+    },
+    {
+      "id": "USS0006K45S",
+      "city": "Avon",
+      "station": "Beaver Ck Village",
+      "average": 26,
+      "latitude": 39.6,
+      "longitude": -106.51,
+      "state": "CO",
+      "total19": "29.2"
+    },
+    {
+      "id": "USS0006K12S",
+      "city": "Parshall",
+      "station": "Middle Fork Camp",
+      "average": 25.9,
+      "latitude": 39.8,
+      "longitude": -106.03,
+      "state": "CO",
+      "total19": "26.4"
+    },
+    {
+      "id": "USS0013D10S",
+      "city": "Dillon",
+      "station": "Bloody Dick",
+      "average": 25.7,
+      "latitude": 45.17,
+      "longitude": -113.5,
+      "state": "MT",
+      "total19": "20.6"
+    },
+    {
+      "id": "USC00250050",
+      "city": "Ainsworth",
+      "station": "AINSWORTH",
+      "average": 25.5,
+      "latitude": 42.5522,
+      "longitude": -99.8556,
+      "state": "NE",
+      "total19": "37.3"
+    },
+    {
+      "id": "USC00252560",
+      "city": "Arapahoe",
+      "station": "EDISON",
+      "average": 25.3,
+      "latitude": 40.2764,
+      "longitude": -99.7836,
+      "state": "NE",
+      "total19": "28.7"
+    },
+    {
+      "id": "USS0008G03S",
+      "city": "Lander",
+      "station": "South Pass",
+      "average": 25.2,
+      "latitude": 42.57,
+      "longitude": -108.84,
+      "state": "WY",
+      "total19": "23.1"
+    },
+    {
+      "id": "USS0006G01S",
+      "city": "Casper",
+      "station": "Casper Mtn.",
+      "average": 25.1,
+      "latitude": 42.73,
+      "longitude": -106.32,
+      "state": "WY",
+      "total19": "27"
+    },
+    {
+      "id": "USC00057317",
+      "city": "Rye",
+      "station": "RYE 1SW",
+      "average": 25,
+      "latitude": 37.9136,
+      "longitude": -104.9483,
+      "state": "CO",
+      "total19": "25"
+    },
+    {
+      "id": "USC00143527",
+      "city": "Hays",
+      "station": "HAYS 1 S",
+      "average": 24.6,
+      "latitude": 38.8586,
+      "longitude": -99.3358,
+      "state": "KS",
+      "total19": "31"
+    },
+    {
+      "id": "USS0006K30S",
+      "city": "Meredith",
+      "station": "Kiln",
+      "average": 24.3,
+      "latitude": 39.32,
+      "longitude": -106.61,
+      "state": "CO",
+      "total19": "26.7"
+    },
+    {
+      "id": "US1SDPN0002",
+      "city": "Rapid City",
+      "station": "RAPID CITY 3.4 WNW",
+      "average": 24.3,
+      "latitude": 44.0886,
+      "longitude": -103.2997,
+      "state": "SD",
+      "total19": "39.1"
+    },
+    {
+      "id": "USS0006H19S",
+      "city": "Saratoga",
+      "station": "South Brush Creek",
+      "average": 24.2,
+      "latitude": 41.33,
+      "longitude": -106.5,
+      "state": "WY",
+      "total19": "21.5"
+    },
+    {
+      "id": "USS0012P02S",
+      "city": "Williams",
+      "station": "White Horse Lake",
+      "average": 23.9,
+      "latitude": 35.14,
+      "longitude": -112.15,
+      "state": "AZ",
+      "total19": "30.2"
+    },
+    {
+      "id": "USS0006K14S",
+      "city": "Silverthorne",
+      "station": "Summit Ranch",
+      "average": 23.8,
+      "latitude": 39.72,
+      "longitude": -106.16,
+      "state": "CO",
+      "total19": "25.5"
+    },
+    {
+      "id": "USW00014936",
+      "city": "Huron",
+      "station": "HURON RGNL AP",
+      "average": 23.8,
+      "latitude": 44.3981,
+      "longitude": -98.2231,
+      "state": "SD",
+      "total19": "37.4"
+    },
+    {
+      "id": "USS0005N04S",
+      "city": "Vadito",
+      "station": "Tres Ritos",
+      "average": 23.6,
+      "latitude": 36.13,
+      "longitude": -105.53,
+      "state": "NM",
+      "total19": "23.4"
+    },
+    {
+      "id": "USC00410394",
+      "city": "Aspermont",
+      "station": "ASPERMONT",
+      "average": 23.4,
+      "latitude": 33.1525,
+      "longitude": -100.2333,
+      "state": "TX",
+      "total19": "29.8"
+    },
+    {
+      "id": "USW00014914",
+      "city": "Fargo",
+      "station": "FARGO HECTOR INTL AP",
+      "average": 23.4,
+      "latitude": 46.9253,
+      "longitude": -96.8111,
+      "state": "ND",
+      "total19": "31.3"
+    },
+    {
+      "id": "USS0014F19S",
+      "city": "Rexburg",
+      "station": "Chocolate Gulch",
+      "average": 22.9,
+      "latitude": 43.77,
+      "longitude": -114.42,
+      "state": "ID",
+      "total19": "25.6"
+    },
+    {
+      "id": "USC00056205",
+      "city": "Ouray",
+      "station": "OURAY #2",
+      "average": 22.9,
+      "latitude": 38.0264,
+      "longitude": -107.6725,
+      "state": "CO",
+      "total19": "24.5"
+    },
+    {
+      "id": "USW00003103",
+      "city": "Flagstaff",
+      "station": "FLAGSTAFF PULLIAM AP",
+      "average": 22.8,
+      "latitude": 35.1442,
+      "longitude": -111.6664,
+      "state": "AZ",
+      "total19": "26.1"
+    },
+    {
+      "id": "USW00023007",
+      "city": "Childress",
+      "station": "CHILDRESS MUNI AP",
+      "average": 22.7,
+      "latitude": 34.4272,
+      "longitude": -100.2831,
+      "state": "TX",
+      "total19": "22.4"
+    },
+    {
+      "id": "USC00146637",
+      "city": "Quinter",
+      "station": "QUINTER",
+      "average": 22.7,
+      "latitude": 39.0667,
+      "longitude": -100.2389,
+      "state": "KS",
+      "total19": "26.7"
+    },
+    {
+      "id": "USW00013985",
+      "city": "Dodge City",
+      "station": "DODGE CITY",
+      "average": 22.6,
+      "latitude": 37.7608,
+      "longitude": -99.9683,
+      "state": "KS",
+      "total19": "22.9"
+    },
+    {
+      "id": "USC00140365",
+      "city": "Ashland",
+      "station": "ASHLAND",
+      "average": 22.6,
+      "latitude": 37.1942,
+      "longitude": -99.7633,
+      "state": "KS",
+      "total19": "28.4"
+    },
+    {
+      "id": "USW00024023",
+      "city": "North Platte",
+      "station": "NORTH PLATTE RGNL AP",
+      "average": 22.4,
+      "latitude": 41.1214,
+      "longitude": -100.6694,
+      "state": "NE",
+      "total19": "28.9"
+    },
+    {
+      "id": "USC00412121",
+      "city": "Crosbyton",
+      "station": "CROSBYTON",
+      "average": 22.4,
+      "latitude": 33.6517,
+      "longitude": -101.245,
+      "state": "TX",
+      "total19": "20.1"
+    },
+    {
+      "id": "USW00014916",
+      "city": "Grand Forks",
+      "station": "GRAND FORKS INTL AP",
+      "average": 22.2,
+      "latitude": 47.9428,
+      "longitude": -97.1839,
+      "state": "ND",
+      "total19": "28.1"
+    },
+    {
+      "id": "USC00418818",
+      "city": "Tahoka",
+      "station": "TAHOKA",
+      "average": 22.2,
+      "latitude": 33.1714,
+      "longitude": -101.7981,
+      "state": "TX",
+      "total19": "18.3"
+    },
+    {
+      "id": "USW00023034",
+      "city": "San Angelo",
+      "station": "SAN ANGELO",
+      "average": 22.1,
+      "latitude": 31.3711,
+      "longitude": -100.4922,
+      "state": "TX",
+      "total19": "17.7"
+    },
+    {
+      "id": "US1CACC0001",
+      "city": "Martinez",
+      "station": "MARTINEZ 0.8 SSE",
+      "average": 21.7,
+      "latitude": 37.9898,
+      "longitude": -122.1085,
+      "state": "CA",
+      "total19": "26.3"
+    },
+    {
+      "id": "USW00024020",
+      "city": "Hayes Center",
+      "station": "HAYES CENTER 1NW",
+      "average": 21.7,
+      "latitude": 40.5233,
+      "longitude": -101.0344,
+      "state": "NE",
+      "total19": "27.8"
+    },
+    {
+      "id": "USC00394516",
+      "city": "Kennebec",
+      "station": "KENNEBEC",
+      "average": 21.7,
+      "latitude": 43.9025,
+      "longitude": -99.8583,
+      "state": "SD",
+      "total19": "35.8"
+    },
+    {
+      "id": "USC00417944",
+      "city": "San Angelo",
+      "station": "SAN ANGELO WFO",
+      "average": 21.6,
+      "latitude": 31.3708,
+      "longitude": -100.4944,
+      "state": "TX",
+      "total19": "19.7"
+    },
+    {
+      "id": "USC00415821",
+      "city": "Memphis",
+      "station": "MEMPHIS",
+      "average": 21.4,
+      "latitude": 34.7261,
+      "longitude": -100.5372,
+      "state": "TX",
+      "total19": "22.5"
+    },
+    {
+      "id": "USC00020678",
+      "city": "",
+      "station": "BELLEMONT WFO",
+      "average": 21.2,
+      "latitude": 35.2303,
+      "longitude": -111.8222,
+      "state": "AZ",
+      "total19": "24.1"
+    },
+    {
+      "id": "USW00022010",
+      "city": "Del Rio",
+      "station": "DEL RIO INTL AP",
+      "average": 21.1,
+      "latitude": 29.3783,
+      "longitude": -100.9269,
+      "state": "TX",
+      "total19": "14.8"
+    },
+    {
+      "id": "USW00014929",
+      "city": "Aberdeen",
+      "station": "ABERDEEN",
+      "average": 21,
+      "latitude": 45.4558,
+      "longitude": -98.4131,
+      "state": "SD",
+      "total19": "30.4"
+    },
+    {
+      "id": "USW00024025",
+      "city": "Pierre",
+      "station": "PIERRE RGNL AP",
+      "average": 21,
+      "latitude": 44.3814,
+      "longitude": -100.2856,
+      "state": "SD",
+      "total19": "31"
+    },
+    {
+      "id": "USC00397277",
+      "city": "Roscoe",
+      "station": "ROSCOE",
+      "average": 21,
+      "latitude": 45.4528,
+      "longitude": -99.3358,
+      "state": "SD",
+      "total19": "29.5"
+    },
+    {
+      "id": "US1COBO0072",
+      "city": "Boulder",
+      "station": "BOULDER 1.3 NW",
+      "average": 21,
+      "latitude": 40.0242,
+      "longitude": -105.2689,
+      "state": "CO",
+      "total19": "20.7"
+    },
+    {
+      "id": "USS0010F17S",
+      "city": "Bondurant",
+      "station": "East Rim Divide",
+      "average": 20.9,
+      "latitude": 43.13,
+      "longitude": -110.2,
+      "state": "WY",
+      "total19": "21.1"
+    },
+    {
+      "id": "USC00325638",
+      "city": "Max",
+      "station": "MAX",
+      "average": 20.7,
+      "latitude": 47.8214,
+      "longitude": -101.2922,
+      "state": "ND",
+      "total19": "24.2"
+    },
+    {
+      "id": "USC00254455",
+      "city": "Ogallala",
+      "station": "KINGSLEY DAM",
+      "average": 20.6,
+      "latitude": 41.2097,
+      "longitude": -101.6706,
+      "state": "NE",
+      "total19": "24.4"
+    },
+    {
+      "id": "USW00024011",
+      "city": "Bismarck",
+      "station": "BISMARCK",
+      "average": 20.5,
+      "latitude": 46.7708,
+      "longitude": -100.7603,
+      "state": "ND",
+      "total19": "29.6"
+    },
+    {
+      "id": "USS0009S06S",
+      "city": "Morenci",
+      "station": "Beaver Head",
+      "average": 20.5,
+      "latitude": 33.69,
+      "longitude": -109.22,
+      "state": "AZ",
+      "total19": "25.9"
+    },
+    {
+      "id": "USS0006K06S",
+      "city": "Meredith",
+      "station": "Nast Lake",
+      "average": 20.1,
+      "latitude": 39.3,
+      "longitude": -106.61,
+      "state": "CO",
+      "total19": "23.7"
+    },
+    {
+      "id": "USS0012P01S",
+      "city": "Williams",
+      "station": "Chalender",
+      "average": 20.1,
+      "latitude": 35.26,
+      "longitude": -112.06,
+      "state": "AZ",
+      "total19": "29.4"
+    },
+    {
+      "id": "USC00325002",
+      "city": "Lansford",
+      "station": "LANSFORD",
+      "average": 20,
+      "latitude": 48.6272,
+      "longitude": -101.3764,
+      "state": "ND",
+      "total19": "23.5"
+    },
+    {
+      "id": "USW00026615",
+      "city": "Bethel Airport",
+      "station": "BETHEL AP",
+      "average": 20,
+      "latitude": 60.785,
+      "longitude": -161.8292,
+      "state": "AK",
+      "total19": "24.2"
+    },
+    {
+      "id": "USW00023047",
+      "city": "Amarillo",
+      "station": "AMARILLO",
+      "average": 19.8,
+      "latitude": 35.2333,
+      "longitude": -101.7089,
+      "state": "TX",
+      "total19": "25.9"
+    },
+    {
+      "id": "US1COEP0055",
+      "city": "Monument",
+      "station": "MONUMENT 2.9 N",
+      "average": 19.8,
+      "latitude": 39.1125,
+      "longitude": -104.859,
+      "state": "CO",
+      "total19": "21.8"
+    },
+    {
+      "id": "USC00100803",
+      "city": "Bern",
+      "station": "BERN",
+      "average": 19.7,
+      "latitude": 42.3353,
+      "longitude": -111.385,
+      "state": "ID",
+      "total19": "22.2"
+    },
+    {
+      "id": "US1MTDL0001",
+      "city": "Anaconda",
+      "station": "ANACONDA 7.4 NW",
+      "average": 19.7,
+      "latitude": 46.1661,
+      "longitude": -113.0853,
+      "state": "MT",
+      "total19": "18.5"
+    },
+    {
+      "id": "USC00048587",
+      "city": "Elk Creek",
+      "station": "STONY GORGE RSVR",
+      "average": 19.7,
+      "latitude": 39.5861,
+      "longitude": -122.5342,
+      "state": "CA",
+      "total19": "32"
+    },
+    {
+      "id": "USC00418232",
+      "city": "Shallowater",
+      "station": "SHALLOWATER",
+      "average": 19.4,
+      "latitude": 33.6878,
+      "longitude": -101.9853,
+      "state": "TX",
+      "total19": "20.6"
+    },
+    {
+      "id": "USC00047851",
+      "city": "San Luis Obispo",
+      "station": "SAN LUIS OBISPO POLY",
+      "average": 19.4,
+      "latitude": 35.3056,
+      "longitude": -120.6619,
+      "state": "CA",
+      "total19": "29.1"
+    },
+    {
+      "id": "USC00058793",
+      "city": "Walsh",
+      "station": "WALSH 1 W",
+      "average": 19.3,
+      "latitude": 37.3822,
+      "longitude": -102.2986,
+      "state": "CO",
+      "total19": "20"
+    },
+    {
+      "id": "USS0011P02S",
+      "city": "Flagstaff",
+      "station": "Fort Valley",
+      "average": 19.2,
+      "latitude": 35.27,
+      "longitude": -111.74,
+      "state": "AZ",
+      "total19": "20"
+    },
+    {
+      "id": "US1TXLK0007",
+      "city": "Lubbock",
+      "station": "LUBBOCK 6.7 SW",
+      "average": 19.1,
+      "latitude": 33.5172,
+      "longitude": -101.9681,
+      "state": "TX",
+      "total19": "22.8"
+    },
+    {
+      "id": "USW00023065",
+      "city": "Goodland",
+      "station": "GOODLAND",
+      "average": 19,
+      "latitude": 39.3669,
+      "longitude": -101.7,
+      "state": "KS",
+      "total19": "22.8"
+    },
+    {
+      "id": "USC00417079",
+      "city": "Plainview",
+      "station": "PLAINVIEW",
+      "average": 18.8,
+      "latitude": 34.1892,
+      "longitude": -101.7022,
+      "state": "TX",
+      "total19": "18.1"
+    },
+    {
+      "id": "USC00148287",
+      "city": "Ulysses",
+      "station": "ULYSSES 3NE",
+      "average": 18.8,
+      "latitude": 37.5983,
+      "longitude": -101.2908,
+      "state": "KS",
+      "total19": "16.1"
+    },
+    {
+      "id": "USC00417081",
+      "city": "Plainview",
+      "station": "PLAINVIEW WTR PRODUCTN",
+      "average": 18.8,
+      "latitude": 34.1981,
+      "longitude": -101.7461,
+      "state": "TX",
+      "total19": "16.8"
+    },
+    {
+      "id": "USC00414967",
+      "city": "Justiceburg",
+      "station": "LAKE ALAN HENRY",
+      "average": 18.8,
+      "latitude": 33.0642,
+      "longitude": -101.0489,
+      "state": "TX",
+      "total19": "21.4"
+    },
+    {
+      "id": "USC00411000",
+      "city": "Boys Ranch",
+      "station": "BOYS RCH",
+      "average": 18.7,
+      "latitude": 35.5303,
+      "longitude": -102.2564,
+      "state": "TX",
+      "total19": "27.5"
+    },
+    {
+      "id": "USC00053652",
+      "city": "Canon City",
+      "station": "GUFFEY 9SE",
+      "average": 18.7,
+      "latitude": 38.6867,
+      "longitude": -105.3925,
+      "state": "CO",
+      "total19": "18.8"
+    },
+    {
+      "id": "USW00023232",
+      "city": "Sacramento",
+      "station": "SACRAMENTO EXECUTIVE AP",
+      "average": 18.6,
+      "latitude": 38.5069,
+      "longitude": -121.495,
+      "state": "CA",
+      "total19": "24.9"
+    },
+    {
+      "id": "USC00142980",
+      "city": "Garden City",
+      "station": "GARDEN CITY EXP STN",
+      "average": 18.5,
+      "latitude": 37.9931,
+      "longitude": -100.8122,
+      "state": "KS",
+      "total19": "17.5"
+    },
+    {
+      "id": "USW00024225",
+      "city": "Central Point",
+      "station": "MEDFORD ROGUE VLY AP",
+      "average": 18.4,
+      "latitude": 42.3811,
+      "longitude": -122.8722,
+      "state": "OR",
+      "total19": "20.4"
+    },
+    {
+      "id": "USW00023042",
+      "city": "Lubbock",
+      "station": "LUBBOCK",
+      "average": 18.4,
+      "latitude": 33.6542,
+      "longitude": -101.8136,
+      "state": "TX",
+      "total19": "24.4"
+    },
+    {
+      "id": "USC00411128",
+      "city": "Brownfield",
+      "station": "BROWNFIELD #2",
+      "average": 18.3,
+      "latitude": 33.1908,
+      "longitude": -102.2681,
+      "state": "TX",
+      "total19": "17"
+    },
+    {
+      "id": "USC00252645",
+      "city": "Ellsworth",
+      "station": "ELLSWORTH 2W",
+      "average": 18.2,
+      "latitude": 42.0628,
+      "longitude": -102.3172,
+      "state": "NE",
+      "total19": "19.7"
+    },
+    {
+      "id": "USW00026451",
+      "city": "Anchorage",
+      "station": "ANCHORAGE INTL AP",
+      "average": 18.2,
+      "latitude": 61.1689,
+      "longitude": -150.0278,
+      "state": "AK",
+      "total19": "14.6"
+    },
+    {
+      "id": "US1COLR0259",
+      "city": "Fort Collins",
+      "station": "FCL 2.5 W",
+      "average": 17.9,
+      "latitude": 40.5857,
+      "longitude": -105.1317,
+      "state": "CO",
+      "total19": "18.5"
+    },
+    {
+      "id": "USC00413972",
+      "city": "Hart",
+      "station": "HART",
+      "average": 17.9,
+      "latitude": 34.3697,
+      "longitude": -102.1175,
+      "state": "TX",
+      "total19": "17.6"
+    },
+    {
+      "id": "USC00415183",
+      "city": "Levelland",
+      "station": "LEVELLAND",
+      "average": 17.7,
+      "latitude": 33.55,
+      "longitude": -102.3758,
+      "state": "TX",
+      "total19": "13.1"
+    },
+    {
+      "id": "USC00291963",
+      "city": "Clovis",
+      "station": "CLOVIS 13 N",
+      "average": 17.7,
+      "latitude": 34.5989,
+      "longitude": -103.2161,
+      "state": "NM",
+      "total19": "24.8"
+    },
+    {
+      "id": "USC00416074",
+      "city": "Morton",
+      "station": "MORTON",
+      "average": 17.6,
+      "latitude": 33.7186,
+      "longitude": -102.7586,
+      "state": "TX",
+      "total19": "17.3"
+    },
+    {
+      "id": "USC00244715",
+      "city": "Ekalaka",
+      "station": "KNOBS 4 SW",
+      "average": 17.5,
+      "latitude": 45.8728,
+      "longitude": -104.1583,
+      "state": "MT",
+      "total19": "21.4"
+    },
+    {
+      "id": "USC00244558",
+      "city": "Kalispell",
+      "station": "KALISPELL GLACIER AP",
+      "average": 17.5,
+      "latitude": 48.3042,
+      "longitude": -114.2636,
+      "state": "MT",
+      "total19": "16.5"
+    },
+    {
+      "id": "US1WYSH0014",
+      "city": "Sheridan",
+      "station": "SHERIDAN 1.7 NW",
+      "average": 17.5,
+      "latitude": 44.8122,
+      "longitude": -106.9763,
+      "state": "WY",
+      "total19": "19.6"
+    },
+    {
+      "id": "US1COLR0509",
+      "city": "Loveland",
+      "station": "LOV 4.0 W",
+      "average": 17.2,
+      "latitude": 40.3926,
+      "longitude": -105.1587,
+      "state": "CO",
+      "total19": "18.2"
+    },
+    {
+      "id": "US1WYLM0036",
+      "city": "Cheyenne",
+      "station": "CHEYENNE 2.0 E",
+      "average": 17.2,
+      "latitude": 41.1449,
+      "longitude": -104.7547,
+      "state": "WY",
+      "total19": "18.6"
+    },
+    {
+      "id": "US1CASM0006",
+      "city": "San Mateo",
+      "station": "FOSTER CITY 1.3 SW",
+      "average": 17.1,
+      "latitude": 37.5488,
+      "longitude": -122.2587,
+      "state": "CA",
+      "total19": "20.6"
+    },
+    {
+      "id": "USW00022521",
+      "city": "Honolulu",
+      "station": "HONOLULU INTL AP",
+      "average": 17,
+      "latitude": 21.3239,
+      "longitude": -157.9294,
+      "state": "HI",
+      "total19": "16.7"
+    },
+    {
+      "id": "USC00481676",
+      "city": "Cheyenne",
+      "station": "CHEYENNE WFO",
+      "average": 16.9,
+      "latitude": 41.1517,
+      "longitude": -104.8061,
+      "state": "WY",
+      "total19": "18.4"
+    },
+    {
+      "id": "USW00024157",
+      "city": "Spokane",
+      "station": "SPOKANE INTL AP",
+      "average": 16.9,
+      "latitude": 47.6217,
+      "longitude": -117.5281,
+      "state": "WA",
+      "total19": "15.5"
+    },
+    {
+      "id": "USW00024028",
+      "city": "Scottsbluff",
+      "station": "SCOTTSBLUFF HEILIG AP",
+      "average": 16.8,
+      "latitude": 41.8706,
+      "longitude": -103.5931,
+      "state": "NE",
+      "total19": "19.6"
+    },
+    {
+      "id": "US1TXMDL006",
+      "city": "Midland",
+      "station": "MIDLAND 3.0 WSW",
+      "average": 16.7,
+      "latitude": 32.0063,
+      "longitude": -102.1463,
+      "state": "TX",
+      "total19": "17.8"
+    },
+    {
+      "id": "USW00023051",
+      "city": "Clayton",
+      "station": "CLAYTON MUNI AIR PK",
+      "average": 16.7,
+      "latitude": 36.4486,
+      "longitude": -103.1539,
+      "state": "NM",
+      "total19": "13.5"
+    },
+    {
+      "id": "USC00459376",
+      "city": "Winthrop",
+      "station": "WINTHROP 1 WSW",
+      "average": 16.5,
+      "latitude": 48.4742,
+      "longitude": -120.1886,
+      "state": "WA",
+      "total19": "12.2"
+    },
+    {
+      "id": "USC00241938",
+      "city": "Columbus",
+      "station": "COLUMBUS",
+      "average": 16.5,
+      "latitude": 45.6444,
+      "longitude": -109.2675,
+      "state": "MT",
+      "total19": "22.6"
+    },
+    {
+      "id": "USC00058781",
+      "city": "Walsenburg",
+      "station": "WALSENBURG 1 NW",
+      "average": 16.4,
+      "latitude": 37.6303,
+      "longitude": -104.7956,
+      "state": "CO",
+      "total19": "16.2"
+    },
+    {
+      "id": "USC00418964",
+      "city": "Texline",
+      "station": "TEXLINE",
+      "average": 16.4,
+      "latitude": 36.3786,
+      "longitude": -103.0244,
+      "state": "TX",
+      "total19": "17.5"
+    },
+    {
+      "id": "USC00054546",
+      "city": "Kim",
+      "station": "KIM 10SSE",
+      "average": 16.3,
+      "latitude": 37.115,
+      "longitude": -103.2986,
+      "state": "CO",
+      "total19": "16"
+    },
+    {
+      "id": "USW00024029",
+      "city": "Sheridan",
+      "station": "SHERIDAN CO AP",
+      "average": 16.3,
+      "latitude": 44.7694,
+      "longitude": -106.9689,
+      "state": "WY",
+      "total19": "18.1"
+    },
+    {
+      "id": "USW00024018",
+      "city": "Cheyenne",
+      "station": "CHEYENNE",
+      "average": 16.2,
+      "latitude": 41.1519,
+      "longitude": -104.8061,
+      "state": "WY",
+      "total19": "18.1"
+    },
+    {
+      "id": "USC00055236",
+      "city": "Loveland",
+      "station": "LOVELAND 2N",
+      "average": 16.2,
+      "latitude": 40.435,
+      "longitude": -105.085,
+      "state": "CO",
+      "total19": "15.1"
+    },
+    {
+      "id": "USW00024033",
+      "city": "Billings",
+      "station": "BILLINGS LOGAN INTL AP",
+      "average": 16,
+      "latitude": 45.8069,
+      "longitude": -108.5422,
+      "state": "MT",
+      "total19": "19.1"
+    },
+    {
+      "id": "USW00023254",
+      "city": "Concord",
+      "station": "CONCORD BUCHANAN FLD",
+      "average": 16,
+      "latitude": 37.9917,
+      "longitude": -122.055,
+      "state": "CA",
+      "total19": "20.2"
+    },
+    {
+      "id": "USW00094055",
+      "city": "Baker",
+      "station": "BAKER MUNI AP",
+      "average": 15.7,
+      "latitude": 46.3583,
+      "longitude": -104.25,
+      "state": "MT",
+      "total19": "21.4"
+    },
+    {
+      "id": "USW00024127",
+      "city": "Salt Lake City",
+      "station": "SALT LAKE CITY INTL AP",
+      "average": 15.7,
+      "latitude": 40.7781,
+      "longitude": -111.9694,
+      "state": "UT",
+      "total19": "20.1"
+    },
+    {
+      "id": "USW00093037",
+      "city": "Colorado Springs",
+      "station": "COLORADO SPRINGS MUNI AP",
+      "average": 15.5,
+      "latitude": 38.81,
+      "longitude": -104.6883,
+      "state": "CO",
+      "total19": "11.8"
+    },
+    {
+      "id": "USW00023062",
+      "city": "Denver",
+      "station": "DENVER-STAPLETON",
+      "average": 15.5,
+      "latitude": 39.7633,
+      "longitude": -104.8694,
+      "state": "CO",
+      "total19": "12.7"
+    },
+    {
+      "id": "USW00094008",
+      "city": "Glasgow",
+      "station": "GLASGOW INTL AP",
+      "average": 15.5,
+      "latitude": 48.2138,
+      "longitude": -106.6213,
+      "state": "MT",
+      "total19": "17.8"
+    },
+    {
+      "id": "US1AZCH0017",
+      "city": "Sierra Vista",
+      "station": "SIERRA VISTA 1.3 E",
+      "average": 15.5,
+      "latitude": 31.549,
+      "longitude": -110.2776,
+      "state": "AZ",
+      "total19": "16.7"
+    },
+    {
+      "id": "US1CASD0012",
+      "city": "Poway",
+      "station": "POWAY 3.2NE",
+      "average": 15.3,
+      "latitude": 32.9956,
+      "longitude": -117.0044,
+      "state": "CA",
+      "total19": "25.5"
+    },
+    {
+      "id": "USS0009S04S",
+      "city": "McNary",
+      "station": "Nutrioso",
+      "average": 15.3,
+      "latitude": 33.9,
+      "longitude": -109.16,
+      "state": "AZ",
+      "total19": "16.6"
+    },
+    {
+      "id": "USW00023190",
+      "city": "Goleta",
+      "station": "SANTA BARBARA MUNI AP",
+      "average": 15,
+      "latitude": 34.4258,
+      "longitude": -119.8425,
+      "state": "CA",
+      "total19": "24.1"
+    },
+    {
+      "id": "USC00040029",
+      "city": "Adin",
+      "station": "ADIN RS",
+      "average": 14.9,
+      "latitude": 41.1936,
+      "longitude": -120.9447,
+      "state": "CA",
+      "total19": "18.9"
+    },
+    {
+      "id": "US1COLR0662",
+      "city": "Loveland",
+      "station": "LOVELAND 2.0 SSE",
+      "average": 14.8,
+      "latitude": 40.3922,
+      "longitude": -105.0539,
+      "state": "CO",
+      "total19": "12.7"
+    },
+    {
+      "id": "USC00051743",
+      "city": "Collbran",
+      "station": "COLLBRAN 1WSW",
+      "average": 14.6,
+      "latitude": 39.2367,
+      "longitude": -107.9797,
+      "state": "CO",
+      "total19": "14.1"
+    },
+    {
+      "id": "USW00003017",
+      "city": "Denver",
+      "station": "DENVER INTL AP",
+      "average": 14.3,
+      "latitude": 39.8328,
+      "longitude": -104.6575,
+      "state": "CO",
+      "total19": "15.5"
+    },
+    {
+      "id": "USW00024153",
+      "city": "Missoula",
+      "station": "MISSOULA INTL AP",
+      "average": 14.2,
+      "latitude": 46.9208,
+      "longitude": -114.0925,
+      "state": "MT",
+      "total19": "15.2"
+    },
+    {
+      "id": "US1IDBV0006",
+      "city": "Idaho Falls",
+      "station": "IDAHO FALLS 11.7 NE",
+      "average": 14.2,
+      "latitude": 43.6176,
+      "longitude": -111.884,
+      "state": "ID",
+      "total19": "14.7"
+    },
+    {
+      "id": "US1UTML0001",
+      "city": "Oak City",
+      "station": "OAK CITY 0.3 SSE",
+      "average": 14.1,
+      "latitude": 39.3723,
+      "longitude": -112.3339,
+      "state": "UT",
+      "total19": "17.4"
+    },
+    {
+      "id": "USC00044997",
+      "city": "Livermore",
+      "station": "LIVERMORE",
+      "average": 14,
+      "latitude": 37.6922,
+      "longitude": -121.7692,
+      "state": "CA",
+      "total19": "17.6"
+    },
+    {
+      "id": "USW00023023",
+      "city": "Midland",
+      "station": "MIDLAND ODESSA",
+      "average": 13.8,
+      "latitude": 31.9433,
+      "longitude": -102.1889,
+      "state": "TX",
+      "total19": "14.3"
+    },
+    {
+      "id": "US1NMGR0027",
+      "city": "Cliff",
+      "station": "CLIFF 5.7 NE",
+      "average": 13.8,
+      "latitude": 33.023,
+      "longitude": -108.5441,
+      "state": "NM",
+      "total19": "14.5"
+    },
+    {
+      "id": "US1COBO0143",
+      "city": "Longmont",
+      "station": "LONGMONT 2.1 N",
+      "average": 13.7,
+      "latitude": 40.2001,
+      "longitude": -105.1087,
+      "state": "CO",
+      "total19": "16.4"
+    },
+    {
+      "id": "USW00023237",
+      "city": "Stockton",
+      "station": "STOCKTON METRO AP",
+      "average": 13.5,
+      "latitude": 37.8892,
+      "longitude": -121.2258,
+      "state": "CA",
+      "total19": "17.1"
+    },
+    {
+      "id": "US1CALA0001",
+      "city": "Glendale",
+      "station": "GLENDALE 2.4 WSW",
+      "average": 13.5,
+      "latitude": 34.1689,
+      "longitude": -118.2947,
+      "state": "CA",
+      "total19": "25.3"
+    },
+    {
+      "id": "USW00026411",
+      "city": "Fairbanks",
+      "station": "FAIRBANKS INTL AP",
+      "average": 13.4,
+      "latitude": 64.8039,
+      "longitude": -147.8761,
+      "state": "AK",
+      "total19": "16.4"
+    },
+    {
+      "id": "USW00024149",
+      "city": "Lewiston",
+      "station": "LEWISTON NEZ PERCE CO AP",
+      "average": 13.3,
+      "latitude": 46.3747,
+      "longitude": -117.0156,
+      "state": "ID",
+      "total19": "13.4"
+    },
+    {
+      "id": "USW00094012",
+      "city": "Havre",
+      "station": "HAVRE CITY CO AP",
+      "average": 13.3,
+      "latitude": 48.5428,
+      "longitude": -109.7633,
+      "state": "MT",
+      "total19": "12.4"
+    },
+    {
+      "id": "US1CARV0008",
+      "city": "Corona",
+      "station": "CORONA 12.8 SE",
+      "average": 13.2,
+      "latitude": 33.7307,
+      "longitude": -117.4276,
+      "state": "CA",
+      "total19": "22.5"
+    },
+    {
+      "id": "USW00024089",
+      "city": "Casper",
+      "station": "CASPER NATRONA CO AP",
+      "average": 13.2,
+      "latitude": 42.8975,
+      "longitude": -106.4636,
+      "state": "WY",
+      "total19": "14.5"
+    },
+    {
+      "id": "US1AZPM0111",
+      "city": "Tucson",
+      "station": "TUCSON 10.5 ESE",
+      "average": 13.2,
+      "latitude": 32.139,
+      "longitude": -110.7674,
+      "state": "AZ",
+      "total19": "16.6"
+    },
+    {
+      "id": "USC00051294",
+      "city": "Canon City",
+      "station": "CANON CITY",
+      "average": 13.1,
+      "latitude": 38.46,
+      "longitude": -105.2256,
+      "state": "CO",
+      "total19": "12.7"
+    },
+    {
+      "id": "USW00024155",
+      "city": "Pendleton",
+      "station": "PENDLETON",
+      "average": 13.1,
+      "latitude": 45.6906,
+      "longitude": -118.8528,
+      "state": "OR",
+      "total19": "12.4"
+    },
+    {
+      "id": "USC00054254",
+      "city": "Ignacio",
+      "station": "IGNACIO 6ESE",
+      "average": 13,
+      "latitude": 37.0856,
+      "longitude": -107.5333,
+      "state": "CO",
+      "total19": "14.4"
+    },
+    {
+      "id": "USW00093026",
+      "city": "McNeal",
+      "station": "DOUGLAS BISBEE INL AP",
+      "average": 12.8,
+      "latitude": 31.4583,
+      "longitude": -109.6061,
+      "state": "AZ",
+      "total19": "16.3"
+    },
+    {
+      "id": "USW00023293",
+      "city": "San Jose",
+      "station": "SAN JOSE",
+      "average": 12.7,
+      "latitude": 37.3592,
+      "longitude": -121.9239,
+      "state": "CA",
+      "total19": "16.1"
+    },
+    {
+      "id": "USC00057033",
+      "city": "Rifle",
+      "station": "RIFLE 3ENE",
+      "average": 12.6,
+      "latitude": 39.5572,
+      "longitude": -107.7261,
+      "state": "CO",
+      "total19": "14.4"
+    },
+    {
+      "id": "USC00051964",
+      "city": "Crestone",
+      "station": "CRESTONE 2 SE",
+      "average": 12.4,
+      "latitude": 37.9806,
+      "longitude": -105.6897,
+      "state": "CO",
+      "total19": "12.1"
+    },
+    {
+      "id": "USW00024131",
+      "city": "Boise",
+      "station": "BOISE AIR TERMINAL",
+      "average": 12.3,
+      "latitude": 43.5667,
+      "longitude": -116.2406,
+      "state": "ID",
+      "total19": "14.6"
+    },
+    {
+      "id": "USW00023233",
+      "city": "Salinas",
+      "station": "SALINAS MUNICIPAL AP",
+      "average": 12.1,
+      "latitude": 36.6636,
+      "longitude": -121.6081,
+      "state": "CA",
+      "total19": "14.3"
+    },
+    {
+      "id": "USW00093134",
+      "city": "Los Angeles",
+      "station": "LOS ANGELES DWTN USC CAMPUS",
+      "average": 12,
+      "latitude": 34.0511,
+      "longitude": -118.2353,
+      "state": "CA",
+      "total19": "21.6"
+    },
+    {
+      "id": "USC00422592",
+      "city": "Escalante",
+      "station": "ESCALANTE",
+      "average": 12,
+      "latitude": 37.7686,
+      "longitude": -111.5978,
+      "state": "UT",
+      "total19": "12.9"
+    },
+    {
+      "id": "USW00024156",
+      "city": "Pocatello",
+      "station": "POCATELLO RGNL AP",
+      "average": 12,
+      "latitude": 42.9203,
+      "longitude": -112.5711,
+      "state": "ID",
+      "total19": "12.4"
+    },
+    {
+      "id": "USW00023273",
+      "city": "Santa Maria",
+      "station": "SANTA MARIA PUBLIC AP",
+      "average": 11.8,
+      "latitude": 34.8994,
+      "longitude": -120.4486,
+      "state": "CA",
+      "total19": "17.1"
+    },
+    {
+      "id": "USW00023009",
+      "city": "Roswell",
+      "station": "ROSWELL IND AIR PK",
+      "average": 11.5,
+      "latitude": 33.3075,
+      "longitude": -104.5083,
+      "state": "NM",
+      "total19": "11.3"
+    },
+    {
+      "id": "USW00023129",
+      "city": "Long Beach",
+      "station": "LONG BEACH DAUGHERTY FLD",
+      "average": 11.4,
+      "latitude": 33.8117,
+      "longitude": -118.1464,
+      "state": "CA",
+      "total19": "21.5"
+    },
+    {
+      "id": "USW00023160",
+      "city": "Tucson",
+      "station": "TUCSON INTL AP",
+      "average": 11.3,
+      "latitude": 32.1314,
+      "longitude": -110.9553,
+      "state": "AZ",
+      "total19": "13.6"
+    },
+    {
+      "id": "USW00093058",
+      "city": "Pueblo",
+      "station": "PUEBLO MEM AP",
+      "average": 11.3,
+      "latitude": 38.29,
+      "longitude": -104.4983,
+      "state": "CO",
+      "total19": "13.1"
+    },
+    {
+      "id": "USC00262570",
+      "city": "Elko",
+      "station": "ELKO NWS OFFICE",
+      "average": 11.2,
+      "latitude": 40.8603,
+      "longitude": -115.7425,
+      "state": "NV",
+      "total19": "15.8"
+    },
+    {
+      "id": "USW00093209",
+      "city": "Paso Robles",
+      "station": "PASO ROBLES MUNI AP",
+      "average": 11.1,
+      "latitude": 35.6697,
+      "longitude": -120.6283,
+      "state": "CA",
+      "total19": "17.3"
+    },
+    {
+      "id": "USC00042805",
+      "city": "Lake Elsinore",
+      "station": "ELSINORE",
+      "average": 11,
+      "latitude": 33.6861,
+      "longitude": -117.3458,
+      "state": "CA",
+      "total19": "19"
+    },
+    {
+      "id": "USC00487105",
+      "city": "Casper",
+      "station": "PATHFINDER DAM",
+      "average": 11,
+      "latitude": 42.4717,
+      "longitude": -106.8528,
+      "state": "WY",
+      "total19": "13.2"
+    },
+    {
+      "id": "US1NVWH0011",
+      "city": "Reno",
+      "station": "RENO 2.4 SSW",
+      "average": 10.8,
+      "latitude": 39.5084,
+      "longitude": -119.8442,
+      "state": "NV",
+      "total19": "14.5"
+    },
+    {
+      "id": "USW00094185",
+      "city": "Burns",
+      "station": "BURNS MUNI AP",
+      "average": 10.6,
+      "latitude": 43.595,
+      "longitude": -118.9564,
+      "state": "OR",
+      "total19": "14.7"
+    },
+    {
+      "id": "US1NVWH0002",
+      "city": "Reno",
+      "station": "RENO 1.4 NNE",
+      "average": 10.6,
+      "latitude": 39.5573,
+      "longitude": -119.8144,
+      "state": "NV",
+      "total19": "14.4"
+    },
+    {
+      "id": "USW00023174",
+      "city": "Los Angeles",
+      "station": "LOS ANGELES INTL AP",
+      "average": 10.6,
+      "latitude": 33.9381,
+      "longitude": -118.3889,
+      "state": "CA",
+      "total19": "18.7"
+    },
+    {
+      "id": "USW00024121",
+      "city": "Elko",
+      "station": "ELKO RGNL AP",
+      "average": 10.6,
+      "latitude": 40.8289,
+      "longitude": -115.7886,
+      "state": "NV",
+      "total19": "14.8"
+    },
+    {
+      "id": "USW00093193",
+      "city": "Fresno",
+      "station": "FRESNO YOSEMITE INTL AP",
+      "average": 10.5,
+      "latitude": 36.78,
+      "longitude": -119.7194,
+      "state": "CA",
+      "total19": "12.4"
+    },
+    {
+      "id": "USC00487760",
+      "city": "Riverton",
+      "station": "RIVERTON",
+      "average": 10.5,
+      "latitude": 43.0306,
+      "longitude": -108.3744,
+      "state": "WY",
+      "total19": "11.2"
+    },
+    {
+      "id": "US1NMBR0034",
+      "city": "Albuquerque",
+      "station": "ALBUQUERQUE 4.6 E",
+      "average": 10,
+      "latitude": 35.1278,
+      "longitude": -106.5437,
+      "state": "NM",
+      "total19": "11.9"
+    },
+    {
+      "id": "USW00003170",
+      "city": "Eureka",
+      "station": "EUREKA AIRPORT",
+      "average": 9.9,
+      "latitude": 39.6014,
+      "longitude": -116.0056,
+      "state": "NV",
+      "total19": "13.7"
+    },
+    {
+      "id": "USW00023188",
+      "city": "San Diego",
+      "station": "SAN DIEGO LINDBERGH FLD",
+      "average": 9.6,
+      "latitude": 32.7336,
+      "longitude": -117.1831,
+      "state": "CA",
+      "total19": "15.3"
+    },
+    {
+      "id": "USW00024138",
+      "city": "Dillon",
+      "station": "DILLON AP",
+      "average": 9.6,
+      "latitude": 45.2575,
+      "longitude": -112.5545,
+      "state": "MT",
+      "total19": "8.8"
+    },
+    {
+      "id": "USC00029464",
+      "city": "Wittmann",
+      "station": "WITTMANN 1SE",
+      "average": 9.6,
+      "latitude": 33.7775,
+      "longitude": -112.5231,
+      "state": "AZ",
+      "total19": "14.7"
+    },
+    {
+      "id": "US1NMBR0148",
+      "city": "Albuquerque",
+      "station": "ALBUQUERQUE 1.7 SSE",
+      "average": 9.6,
+      "latitude": 35.0944,
+      "longitude": -106.6123,
+      "state": "NM",
+      "total19": "11"
+    },
+    {
+      "id": "USC00290231",
+      "city": "Albuquerque",
+      "station": "ALBUQUERQUE VALLEY",
+      "average": 9.3,
+      "latitude": 35.0217,
+      "longitude": -106.6939,
+      "state": "NM",
+      "total19": "8.5"
+    },
+    {
+      "id": "USC00297477",
+      "city": "Rio Rancho",
+      "station": "RIO RANCHO #1",
+      "average": 9.2,
+      "latitude": 35.2836,
+      "longitude": -106.6194,
+      "state": "NM",
+      "total19": "10.2"
+    },
+    {
+      "id": "USW00023066",
+      "city": "Grand Junction",
+      "station": "GRAND JUNCTION WALKER FLD",
+      "average": 9.2,
+      "latitude": 39.1342,
+      "longitude": -108.54,
+      "state": "CO",
+      "total19": "8.6"
+    },
+    {
+      "id": "USW00024128",
+      "city": "Winnemucca",
+      "station": "WINNEMUCCA MUNI AP",
+      "average": 9,
+      "latitude": 40.9017,
+      "longitude": -117.8081,
+      "state": "NV",
+      "total19": "10.2"
+    },
+    {
+      "id": "US1NMDA0116",
+      "city": "Las Cruces",
+      "station": "MESILLA 2.3 E",
+      "average": 9,
+      "latitude": 32.2718,
+      "longitude": -106.7668,
+      "state": "NM",
+      "total19": "8.4"
+    },
+    {
+      "id": "USC00052184",
+      "city": "Monte Vista",
+      "station": "DEL NORTE 3ENE",
+      "average": 8.8,
+      "latitude": 37.6911,
+      "longitude": -106.3078,
+      "state": "CO",
+      "total19": "12.2"
+    },
+    {
+      "id": "USW00023044",
+      "city": "El Paso",
+      "station": "EL PASO INTL AP",
+      "average": 8.4,
+      "latitude": 31.8111,
+      "longitude": -106.3758,
+      "state": "TX",
+      "total19": "8.1"
+    },
+    {
+      "id": "USW00024243",
+      "city": "Yakima",
+      "station": "YAKIMA AIR TERMINAL",
+      "average": 8.3,
+      "latitude": 46.5683,
+      "longitude": -120.5428,
+      "state": "WA",
+      "total19": "8.6"
+    },
+    {
+      "id": "USC00483396",
+      "city": "Kemmerer",
+      "station": "FONTENELLE DAM",
+      "average": 8.2,
+      "latitude": 41.9861,
+      "longitude": -110.0611,
+      "state": "WY",
+      "total19": "8.5"
+    },
+    {
+      "id": "USC00483031",
+      "city": "Greybull",
+      "station": "EMBLEM",
+      "average": 8.1,
+      "latitude": 44.4972,
+      "longitude": -108.3906,
+      "state": "WY",
+      "total19": "11.4"
+    },
+    {
+      "id": "USW00023185",
+      "city": "Reno",
+      "station": "RENO TAHOE INTL AP",
+      "average": 8.1,
+      "latitude": 39.4839,
+      "longitude": -119.7711,
+      "state": "NV",
+      "total19": "11.2"
+    },
+    {
+      "id": "USW00023050",
+      "city": "Albuquerque",
+      "station": "ALBUQUERQUE INTL AP",
+      "average": 8.1,
+      "latitude": 35.0419,
+      "longitude": -106.6156,
+      "state": "NM",
+      "total19": "8.8"
+    },
+    {
+      "id": "USC00027187",
+      "city": "Eloy",
+      "station": "ROBSON RCH",
+      "average": 8,
+      "latitude": 32.8117,
+      "longitude": -111.6314,
+      "state": "AZ",
+      "total19": "11.3"
+    },
+    {
+      "id": "USC00297481",
+      "city": "Rio Rancho",
+      "station": "RIO RANCHO #2",
+      "average": 7.9,
+      "latitude": 35.2522,
+      "longitude": -106.6347,
+      "state": "NM",
+      "total19": "8.3"
+    },
+    {
+      "id": "USW00023194",
+      "city": "Winslow",
+      "station": "WINSLOW MUNI AP",
+      "average": 7.5,
+      "latitude": 35.0281,
+      "longitude": -110.7208,
+      "state": "AZ",
+      "total19": "7"
+    },
+    {
+      "id": "USW00023183",
+      "city": "Phoenix",
+      "station": "PHOENIX SKY HARBOR INTL AP",
+      "average": 6.9,
+      "latitude": 33.4278,
+      "longitude": -112.0039,
+      "state": "AZ",
+      "total19": "5.9"
+    },
+    {
+      "id": "USW00023155",
+      "city": "Bakersfield",
+      "station": "BAKERSFIELD AP",
+      "average": 6,
+      "latitude": 35.4344,
+      "longitude": -119.0542,
+      "state": "CA",
+      "total19": "9.1"
+    },
+    {
+      "id": "USW00023179",
+      "city": "Needles",
+      "station": "NEEDLES AP",
+      "average": 4.6,
+      "latitude": 34.7675,
+      "longitude": -114.6189,
+      "state": "CA",
+      "total19": "8.5"
+    },
+    {
+      "id": "USW00023169",
+      "city": "Las Vegas",
+      "station": "LAS VEGAS MCCARRAN AP",
+      "average": 4,
+      "latitude": 36.0719,
+      "longitude": -115.1633,
+      "state": "NV",
+      "total19": "6.9"
+    }
+  ],
+  "meta": {
+    "title": "US Cities Annual Precipitation - Free Download",
+    "description": "640 US weather stations with city, state, average annual precipitation, latitude, longitude, and 2019 total. Contains 640 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US Cities Annual Precipitation | ListBase",
+    "seo_description": "Download US Cities Annual Precipitation — 640 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 640 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/the-pudding/data"
+    ]
+  }
+}

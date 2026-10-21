@@ -1,0 +1,301 @@
+{
+  "id": "ch-airports-iata",
+  "name": "Switzerland — IATA Airports",
+  "title": "Switzerland — IATA Airports",
+  "description": "Airports with IATA codes in Switzerland: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "ACH",
+      "icao_code": "LSZR",
+      "name": "St. Gallen-Altenrhein Airport",
+      "city_name_list": "Altenrhein",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Saint Gallen",
+      "latitude": 47.485033,
+      "longitude": 9.560775,
+      "elevation": 398,
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/St._Gallen%E2%80%93Altenrhein_Airport"
+    },
+    {
+      "iata_code": "ACO",
+      "icao_code": "LSZD",
+      "name": "Locarno Airport",
+      "city_name_list": "Locarno",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Ticino",
+      "latitude": 46.17,
+      "longitude": 8.8,
+      "elevation": "",
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Locarno_Airport"
+    },
+    {
+      "iata_code": "BRN",
+      "icao_code": "LSZB",
+      "name": "Bern Airport",
+      "city_name_list": "Bern",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Bern",
+      "latitude": 46.9141,
+      "longitude": 7.49715,
+      "elevation": 510,
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bern_Airport"
+    },
+    {
+      "iata_code": "BXO",
+      "icao_code": "LSZC",
+      "name": "Buochs Airport",
+      "city_name_list": "Buochs",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Nidwalden",
+      "latitude": 46.97,
+      "longitude": 8.433,
+      "elevation": "",
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Buochs_Airport"
+    },
+    {
+      "iata_code": "GVA",
+      "icao_code": "LSGG",
+      "name": "Aéroport Genève-Cointrin",
+      "city_name_list": "Genève",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Geneva",
+      "latitude": 46.238064,
+      "longitude": 6.10895,
+      "elevation": 430,
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Geneva_Airport"
+    },
+    {
+      "iata_code": "LUG",
+      "icao_code": "LSZA",
+      "name": "Lugano Airport",
+      "city_name_list": "Lugano",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Ticino",
+      "latitude": 46.004275,
+      "longitude": 8.910578,
+      "elevation": 278,
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lugano_Airport"
+    },
+    {
+      "iata_code": "QLS",
+      "icao_code": "LSGL",
+      "name": "Lausanne",
+      "city_name_list": "Lausanne",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Vaud",
+      "latitude": 46.53,
+      "longitude": 6.65,
+      "elevation": 616,
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lausanne_Airport"
+    },
+    {
+      "iata_code": "SIR",
+      "icao_code": "LSGS",
+      "name": "Sion Airport",
+      "city_name_list": "Sitten",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Valais",
+      "latitude": 46.219592,
+      "longitude": 7.326764,
+      "elevation": 483,
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sion_Airport"
+    },
+    {
+      "iata_code": "SMV",
+      "icao_code": "LSZS",
+      "name": "Samedan Airport",
+      "city_name_list": "St. Moritz",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Grisons",
+      "latitude": 46.5341,
+      "longitude": 9.88411,
+      "elevation": "",
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Samedan_Airport"
+    },
+    {
+      "iata_code": "VIP",
+      "icao_code": "LSMP",
+      "name": "Payerne Airport",
+      "city_name_list": "Payerne",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Vaud",
+      "latitude": 46.84321,
+      "longitude": 6.91506,
+      "elevation": "",
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Payerne_Airport"
+    },
+    {
+      "iata_code": "ZHI",
+      "icao_code": "LSZG",
+      "name": "Grenchen Flughafen",
+      "city_name_list": "Grenchen",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Solothurn",
+      "latitude": 47.18,
+      "longitude": 7.4168,
+      "elevation": 430,
+      "timezone": "Europe/Zurich",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "ZHV",
+      "icao_code": "LSGC",
+      "name": "Les Eplatures",
+      "city_name_list": "La Chaux-de-Fonds",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Neuchatel",
+      "latitude": 47.1333,
+      "longitude": 6.85,
+      "elevation": 1027,
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Les_Eplatures_Airport"
+    },
+    {
+      "iata_code": "ZJI",
+      "icao_code": "LSZL",
+      "name": "Locarno Airport",
+      "city_name_list": "Locarno",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Ticino",
+      "latitude": 46.17,
+      "longitude": 8.8,
+      "elevation": "",
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Locarno_Airport"
+    },
+    {
+      "iata_code": "ZRH",
+      "icao_code": "LSZH",
+      "name": "Zurich Airport",
+      "city_name_list": "Zürich",
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Zurich",
+      "latitude": 47.45264,
+      "longitude": 8.5605,
+      "elevation": 431,
+      "timezone": "Europe/Zurich",
+      "wiki_link": "https://en.wikipedia.org/wiki/Z%C3%BCrich_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Switzerland — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Switzerland: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Switzerland — IATA Airports | ListBase",
+    "seo_description": "Download Switzerland — IATA Airports dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

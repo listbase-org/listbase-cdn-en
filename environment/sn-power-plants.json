@@ -1,0 +1,286 @@
+{
+  "id": "sn-power-plants",
+  "name": "Senegal — Power Plants",
+  "title": "Senegal — Power Plants",
+  "description": "Power plants located in Senegal from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Cap Des Biches",
+      "gppd_idnr": "WRI1023158",
+      "capacity_mw": 327,
+      "latitude": 17.7197,
+      "longitude": -17.2996,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1298.18",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sambangalou",
+      "gppd_idnr": "WRI1023161",
+      "capacity_mw": 120,
+      "latitude": 12.3664,
+      "longitude": -12.1901,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 368.84; 2014: 455.5; 2015: 466.26; 2016: 369.85; 2017: 467.71",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Bel-Air",
+      "gppd_idnr": "WRI1023157",
+      "capacity_mw": 98.6,
+      "latitude": 14.717,
+      "longitude": -17.478,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 391.43",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Mérina Dakhar",
+      "gppd_idnr": "WKS0069752",
+      "capacity_mw": 34.4,
+      "latitude": 15.155,
+      "longitude": -16.593,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 86.51; 2014: 90.57; 2015: 81.69; 2016: 70.9; 2017: 80.15",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ten Merina",
+      "gppd_idnr": "WKS0067472",
+      "capacity_mw": 34.4,
+      "latitude": 15.13,
+      "longitude": -16.676,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 88.43; 2014: 90.42; 2015: 80.47; 2016: 77.38; 2017: 79.56",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kahone 1",
+      "gppd_idnr": "WKS0072742",
+      "capacity_mw": 21.2,
+      "latitude": 14.178,
+      "longitude": -16.027,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 48.4; 2014: 49.37; 2015: 44.52; 2016: 40.86; 2017: 44.61",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Boutoute",
+      "gppd_idnr": "WRI1023162",
+      "capacity_mw": 19,
+      "latitude": 12.5819,
+      "longitude": -16.2782,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 75.42",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Bokhol",
+      "gppd_idnr": "WKS0067471",
+      "capacity_mw": 15.7,
+      "latitude": 16.515,
+      "longitude": -15.465,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 35.23; 2014: 34.36; 2015: 33.24; 2016: 29.77; 2017: 32.02",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kaolack",
+      "gppd_idnr": "WRI1023159",
+      "capacity_mw": 15.36,
+      "latitude": 14.15,
+      "longitude": -16.0667,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 60.97",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Saint-Louis",
+      "gppd_idnr": "WRI1023160",
+      "capacity_mw": 10.5,
+      "latitude": 16.0333,
+      "longitude": -16.5,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 41.68",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Senegal — Power Plants - Free Download",
+    "description": "Power plants located in Senegal from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Senegal — Power Plants | ListBase",
+    "seo_description": "Download Senegal — Power Plants dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "ly-political-parties",
+  "name": "Libya — Political Parties",
+  "title": "Libya — Political Parties",
+  "description": "Political parties of Libya from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3639,
+      "name_short": "NFC",
+      "name": "Taḥaalof al-qiwaa al-wataniyya",
+      "name_english": "National Forces Alliance",
+      "name_other": "Arabic: تحالف القوى الوطنية‎",
+      "year_first": 2012,
+      "year_last": "",
+      "share": 48.1,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Forces_Alliance",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3638,
+      "name_short": "JCP",
+      "name": "Hizb Al-Adala Wal-Bina",
+      "name_english": "Justice and Construction Party",
+      "name_other": "Arabic: حزب العدالة والبناء‎",
+      "year_first": 2012,
+      "year_last": "",
+      "share": 10.3,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Justice_and_Construction_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8435,
+      "name_short": "NFP",
+      "name": "Hizb Al-Jabha Al-Wataniyya",
+      "name_english": "National Front Party",
+      "name_other": "",
+      "year_first": 2012,
+      "year_last": "",
+      "share": 4.1,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Front_Party_(Libya)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8068,
+      "name_short": "ASU",
+      "name": "Arab Socialist Union of Libya",
+      "name_english": "Arab Socialist Union of Libya",
+      "name_other": "Arabic: الاتحاد الاشتراكي العربي الليبي",
+      "year_first": 1971,
+      "year_last": 1977,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Libyan_Arab_Socialist_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Libya — Political Parties - Free Download",
+    "description": "Political parties of Libya from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 4 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Libya — Political Parties | ListBase",
+    "seo_description": "Download Libya — Political Parties dataset with 4 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 4 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

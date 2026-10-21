@@ -1,0 +1,358 @@
+{
+  "id": "ao-power-plants",
+  "name": "Angola — Power Plants",
+  "title": "Angola — Power Plants",
+  "description": "Power plants located in Angola from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Capanda",
+      "gppd_idnr": "WRI1023004",
+      "capacity_mw": 520,
+      "latitude": -9.7955,
+      "longitude": 15.4672,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1450.81; 2014: 1919.52; 2015: 1853.98; 2016: 1538.35; 2017: 1746.62",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Cambambe",
+      "gppd_idnr": "WRI1023003",
+      "capacity_mw": 180,
+      "latitude": -9.7523,
+      "longitude": 14.4809,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 573.81; 2014: 732.53; 2015: 709.84; 2016: 604.31; 2017: 678.19",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Cazenga",
+      "gppd_idnr": "WRI1023005",
+      "capacity_mw": 132,
+      "latitude": -8.8383,
+      "longitude": 13.2344,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Luanda Diesel",
+      "gppd_idnr": "WRI1023008",
+      "capacity_mw": 58,
+      "latitude": -8.8383,
+      "longitude": 13.2344,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 165.16",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Matala",
+      "gppd_idnr": "WRI1023011",
+      "capacity_mw": 40,
+      "latitude": -14.7333,
+      "longitude": 15.0333,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 165.92; 2014: 138.23; 2015: 128.15; 2016: 152.57; 2017: 125.42",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Biopio",
+      "gppd_idnr": "WRI1023002",
+      "capacity_mw": 22.8,
+      "latitude": -12.4706,
+      "longitude": 13.7319,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 64.92",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Lobito",
+      "gppd_idnr": "WRI1023007",
+      "capacity_mw": 20,
+      "latitude": -12.37,
+      "longitude": 13.57,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Luanda Refinery",
+      "gppd_idnr": "WRI1023009",
+      "capacity_mw": 18.5,
+      "latitude": -8.8383,
+      "longitude": 13.2344,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 52.68",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Huambo",
+      "gppd_idnr": "WRI1023006",
+      "capacity_mw": 16.26,
+      "latitude": -12.76,
+      "longitude": 15.75,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 46.3",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Rio Luachimo",
+      "gppd_idnr": "WRI1023013",
+      "capacity_mw": 16,
+      "latitude": -7.3,
+      "longitude": 20.85,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 79.25; 2014: 66.06; 2015: 67.94; 2016: 82.2; 2017: 66.01",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Biopio (hydro)",
+      "gppd_idnr": "WRI1023001",
+      "capacity_mw": 14.6,
+      "latitude": -12.4706,
+      "longitude": 13.7319,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 60.76; 2014: 50.79; 2015: 49.87; 2016: 80.7; 2017: 48.53",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Namibe",
+      "gppd_idnr": "WRI1023012",
+      "capacity_mw": 11.68,
+      "latitude": -15.1961,
+      "longitude": 12.1522,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Xitoto",
+      "gppd_idnr": "WRI1023014",
+      "capacity_mw": 11.34,
+      "latitude": -15.3333,
+      "longitude": 15,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 32.29",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Malongo",
+      "gppd_idnr": "WRI1023010",
+      "capacity_mw": 10,
+      "latitude": -5.55,
+      "longitude": 12.2,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 28.47",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Angola — Power Plants - Free Download",
+    "description": "Power plants located in Angola from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Angola — Power Plants | ListBase",
+    "seo_description": "Download Angola — Power Plants dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

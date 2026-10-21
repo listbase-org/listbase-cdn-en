@@ -1,0 +1,301 @@
+{
+  "id": "ma-political-parties",
+  "name": "Morocco — Political Parties",
+  "title": "Morocco — Political Parties",
+  "description": "Political parties of Morocco from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5324,
+      "name_short": "FDIC",
+      "name": "Front for the Defence of Constitutional Institutions",
+      "name_english": "Front for the Defence of Constitutional Institutions",
+      "name_other": "Arabic: جبهة الدفاع عن المؤسسات الدستورية‎‎, French: Front pour la défense des institutions constitutionnelles",
+      "year_first": 1963,
+      "year_last": 1970,
+      "share": 34.8,
+      "share_year": 1963,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2479,
+      "name_short": "PJD",
+      "name": "Parti de la Justice et du Développement",
+      "name_english": "Justice and Development Party",
+      "name_other": "",
+      "year_first": 1998,
+      "year_last": "",
+      "share": 32.9,
+      "share_year": 2011,
+      "wikipedia": "https://en.wikipedia.org/wiki/Justice_and_Development_Party_%28Morocco%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2482,
+      "name_short": "I",
+      "name": "Istiqlal / Independence Party",
+      "name_english": "Istiqlal / Independence Party",
+      "name_other": "Arabic: حزب الإستقلال Ḥizb Al-Istiqlāl, French: Parti de l'Istiqlal",
+      "year_first": 1937,
+      "year_last": "",
+      "share": 30,
+      "share_year": 1963,
+      "wikipedia": "https://en.wikipedia.org/wiki/Istiqlal_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2481,
+      "name_short": "MP",
+      "name": "Mouvement Populaire",
+      "name_english": "Popular Movement",
+      "name_other": "Arabic: الحركة الشعبية‎ Al-Haraket Al-Sha'ebiya",
+      "year_first": 1957,
+      "year_last": "",
+      "share": 25,
+      "share_year": 1970,
+      "wikipedia": "https://en.wikipedia.org/wiki/Popular_Movement_(Morocco)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5323,
+      "name_short": "UC",
+      "name": "Union constitutionelle",
+      "name_english": "Constitutional Union",
+      "name_other": "Arabic: الاتحاد الدستوري‎‎ Al-Etihad Al-Dosturi",
+      "year_first": 1983,
+      "year_last": "",
+      "share": 24.8,
+      "share_year": 1984,
+      "wikipedia": "https://en.wikipedia.org/wiki/Constitutional_Union_%28Morocco%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5322,
+      "name_short": "UNFP",
+      "name": "Union Nationale des Forces Populaires",
+      "name_english": "National Union of Popular Forces",
+      "name_other": "",
+      "year_first": 1959,
+      "year_last": 2005,
+      "share": 22.5,
+      "share_year": 1963,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Union_of_Popular_Forces",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2480,
+      "name_short": "RNI",
+      "name": "Rassemblement National des Indépendents",
+      "name_english": "National Rally of Independents",
+      "name_other": "Arabic: التجمع الوطني للأحرار‎, Berber: Agraw anamur n ilelliyen",
+      "year_first": 1977,
+      "year_last": "",
+      "share": 17.2,
+      "share_year": 1984,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Rally_of_Independents",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2324,
+      "name_short": "USFP",
+      "name": "Socialiste des Forces Populaires -- Al-Ittihad Al-Ishtirakiy Lilqawat Al-Sha'abiyah -- الاتحاد الاشتراكي للقوات الشعبية",
+      "name_english": "Socialist Union of Popular Forces",
+      "name_other": "",
+      "year_first": 1975,
+      "year_last": "",
+      "share": 14.7,
+      "share_year": 1984,
+      "wikipedia": "https://en.wikipedia.org/wiki/Socialist_Union_of_Popular_Forces",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5325,
+      "name_short": "AMP",
+      "name": "Authenticity and Modernity Party",
+      "name_english": "Authenticity and Modernity Party",
+      "name_other": "Arabic: حزب الأصالة والحداثة‎‎ Hizb Al-Asaleh Wal-Hadatheh; French: Parti Authenticité et Modernité",
+      "year_first": 2008,
+      "year_last": "",
+      "share": 11.1,
+      "share_year": 2011,
+      "wikipedia": "https://en.wikipedia.org/wiki/Authenticity_and_Modernity_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5706,
+      "name_short": "PND",
+      "name": "Parti National-Démocrate",
+      "name_english": "National Democratic Party",
+      "name_other": "",
+      "year_first": 1981,
+      "year_last": "",
+      "share": 9.8,
+      "share_year": 1984,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Democratic_Party_(Morocco)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5705,
+      "name_short": "MDS",
+      "name": "Mouvement Démocratique et Social",
+      "name_english": "Democratic and Social Movement",
+      "name_other": "",
+      "year_first": 1996,
+      "year_last": "",
+      "share": 9.8,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_and_Social_Movement_(Morocco)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6203,
+      "name_short": "MNP",
+      "name": "Mouvement National Populaire",
+      "name_english": "National Popular Movement",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 6.8,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Popular_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6220,
+      "name_short": "PPS",
+      "name": "Parti du Progrès et du Socialisme",
+      "name_english": "Progress and Socialism",
+      "name_other": "Arabic: حزب التقدم والاشتراكية‎ Hizb Al-Taqadoum Wal-Ishtirakiyeh",
+      "year_first": 1974,
+      "year_last": 2012,
+      "share": 5.5,
+      "share_year": 2011,
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_of_Progress_and_Socialism",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7889,
+      "name_short": "AA",
+      "name": "Al Ahd",
+      "name_english": "Covenant Party",
+      "name_other": "Arabic: حزب العهد",
+      "year_first": 2002,
+      "year_last": 2009,
+      "share": 1.3,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Al_%27Ahd_(Morocco)",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Morocco — Political Parties - Free Download",
+    "description": "Political parties of Morocco from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Morocco — Political Parties | ListBase",
+    "seo_description": "Download Morocco — Political Parties dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

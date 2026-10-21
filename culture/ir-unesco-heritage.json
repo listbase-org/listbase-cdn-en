@@ -1,0 +1,324 @@
+{
+  "id": "ir-unesco-heritage",
+  "name": "Iran — UNESCO World Heritage Sites",
+  "title": "Iran — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Iran, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "number"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 113,
+      "name": "Tchogha Zanbil",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c3, c4",
+      "lat": 32.0833,
+      "lon": 48.53333333,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 114,
+      "name": "Persepolis",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c1, c3, c6",
+      "lat": 29.93444,
+      "lon": 52.89028,
+      "area_hectares": 12.5,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 115,
+      "name": "Meidan Emam, Esfahan",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c1, c5, c6",
+      "lat": 32.65745,
+      "lon": 51.67777778,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1077,
+      "name": "Takht-e Soleyman",
+      "category": "cultural",
+      "date_inscribed": 2003,
+      "criteria": "c1, c2, c3, c4, c6",
+      "lat": 36.60388889,
+      "lon": 47.235,
+      "area_hectares": 10,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1106,
+      "name": "Pasargadae",
+      "category": "cultural",
+      "date_inscribed": 2004,
+      "criteria": "c1, c2, c3, c4",
+      "lat": 30.19383,
+      "lon": 53.16729,
+      "area_hectares": 159.65,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1208,
+      "name": "Bam and its Cultural Landscape",
+      "category": "cultural",
+      "date_inscribed": 2004,
+      "criteria": "c2, c3, c4, c5",
+      "lat": 29.11683,
+      "lon": 58.36666667,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1188,
+      "name": "Soltaniyeh",
+      "category": "cultural",
+      "date_inscribed": 2005,
+      "criteria": "c2, c3, c4",
+      "lat": 36.43528,
+      "lon": 48.79667,
+      "area_hectares": 790.14,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1222,
+      "name": "Bisotun",
+      "category": "cultural",
+      "date_inscribed": 2006,
+      "criteria": "c2, c3",
+      "lat": 34.38833333,
+      "lon": 47.43666667,
+      "area_hectares": 187,
+      "danger_list": "0",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1262,
+      "name": "Armenian Monastic Ensembles of Iran",
+      "category": "cultural",
+      "date_inscribed": 2008,
+      "criteria": "c2, c3, c6",
+      "lat": 38.97888889,
+      "lon": 45.47333333,
+      "area_hectares": 129.2819,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1315,
+      "name": "Shushtar Historical Hydraulic System",
+      "category": "cultural",
+      "date_inscribed": 2009,
+      "criteria": "c1, c2, c5",
+      "lat": 32.01861111,
+      "lon": 48.83583333,
+      "area_hectares": 240.4152,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1345,
+      "name": "Sheikh Safi al-din Khanegah and Shrine Ensemble in Ardabil",
+      "category": "cultural",
+      "date_inscribed": 2010,
+      "criteria": "c1, c2, c4",
+      "lat": 38.24861111,
+      "lon": 48.29138889,
+      "area_hectares": 2.1353,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1346,
+      "name": "Tabriz Historic Bazaar Complex",
+      "category": "cultural",
+      "date_inscribed": 2010,
+      "criteria": "c2, c3, c4",
+      "lat": 38.08138889,
+      "lon": 46.29305556,
+      "area_hectares": 28.9733,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1372,
+      "name": "The Persian Garden",
+      "category": "cultural",
+      "date_inscribed": 2011,
+      "criteria": "c1, c2, c3, c4, c6",
+      "lat": 30.16666667,
+      "lon": 53.16666667,
+      "area_hectares": 716.35,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1397,
+      "name": "Masjed-e Jame of Isfahan",
+      "category": "cultural",
+      "date_inscribed": 2012,
+      "criteria": "c2",
+      "lat": 32.66972222,
+      "lon": 51.68527778,
+      "area_hectares": 2.0756,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1398,
+      "name": "Gonbad-e Qabus",
+      "category": "cultural",
+      "date_inscribed": 2012,
+      "criteria": "c1, c2, c3, c4",
+      "lat": 37.25802778,
+      "lon": 55.169,
+      "area_hectares": 1.4754,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1422,
+      "name": "Golestan Palace",
+      "category": "cultural",
+      "date_inscribed": 2013,
+      "criteria": "c1, c2, c3, c4",
+      "lat": 35.68036667,
+      "lon": 51.42051111,
+      "area_hectares": 5.3,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1456,
+      "name": "Shahr-i Sokhta",
+      "category": "cultural",
+      "date_inscribed": 2014,
+      "criteria": "c2, c3, c4",
+      "lat": 30.59388889,
+      "lon": 61.32777778,
+      "area_hectares": 275,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ir",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Iran — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Iran, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Iran — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Iran — UNESCO World Heritage Sites dataset with 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "id": "science-amino-acids",
+  "name": "Comprehensive Amino Acids Properties Dataset",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "three_letter",
+      "label": "3-Letter Code",
+      "type": "string"
+    },
+    {
+      "key": "one_letter",
+      "label": "1-Letter Code",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "side_chain",
+      "label": "Side Chain",
+      "type": "string"
+    },
+    {
+      "key": "polarity",
+      "label": "Polarity",
+      "type": "string"
+    },
+    {
+      "key": "charge_ph7",
+      "label": "Charge at pH 7",
+      "type": "string"
+    },
+    {
+      "key": "molecular_weight",
+      "label": "Molecular Weight (Da)",
+      "type": "number"
+    },
+    {
+      "key": "codons",
+      "label": "Codons",
+      "type": "string"
+    },
+    {
+      "key": "pI",
+      "label": "Isoelectric Point (pI)",
+      "type": "number"
+    },
+    {
+      "key": "hydropathy",
+      "label": "Hydropathy Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Histidine",
+      "three_letter": "His",
+      "one_letter": "H",
+      "type": "Essential",
+      "side_chain": "Basic",
+      "polarity": "Polar",
+      "charge_ph7": "Positive",
+      "molecular_weight": 155.16,
+      "codons": "CAU, CAC",
+      "pI": 7.59,
+      "hydropathy": -3.2
+    },
+    {
+      "name": "Isoleucine",
+      "three_letter": "Ile",
+      "one_letter": "I",
+      "type": "Essential",
+      "side_chain": "Aliphatic",
+      "polarity": "Nonpolar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 131.18,
+      "codons": "AUU, AUC, AUA",
+      "pI": 6.02,
+      "hydropathy": 4.5
+    },
+    {
+      "name": "Leucine",
+      "three_letter": "Leu",
+      "one_letter": "L",
+      "type": "Essential",
+      "side_chain": "Aliphatic",
+      "polarity": "Nonpolar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 131.18,
+      "codons": "UUA, UUG, CUU, CUC, CUA, CUG",
+      "pI": 5.98,
+      "hydropathy": 3.8
+    },
+    {
+      "name": "Lysine",
+      "three_letter": "Lys",
+      "one_letter": "K",
+      "type": "Essential",
+      "side_chain": "Basic",
+      "polarity": "Polar",
+      "charge_ph7": "Positive",
+      "molecular_weight": 146.19,
+      "codons": "AAA, AAG",
+      "pI": 9.74,
+      "hydropathy": -3.9
+    },
+    {
+      "name": "Methionine",
+      "three_letter": "Met",
+      "one_letter": "M",
+      "type": "Essential",
+      "side_chain": "Sulfur-containing",
+      "polarity": "Nonpolar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 149.21,
+      "codons": "AUG",
+      "pI": 5.74,
+      "hydropathy": 1.9
+    },
+    {
+      "name": "Phenylalanine",
+      "three_letter": "Phe",
+      "one_letter": "F",
+      "type": "Essential",
+      "side_chain": "Aromatic",
+      "polarity": "Nonpolar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 165.19,
+      "codons": "UUU, UUC",
+      "pI": 5.48,
+      "hydropathy": 2.8
+    },
+    {
+      "name": "Threonine",
+      "three_letter": "Thr",
+      "one_letter": "T",
+      "type": "Essential",
+      "side_chain": "Hydroxyl",
+      "polarity": "Polar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 119.12,
+      "codons": "ACU, ACC, ACA, ACG",
+      "pI": 5.6,
+      "hydropathy": -0.7
+    },
+    {
+      "name": "Tryptophan",
+      "three_letter": "Trp",
+      "one_letter": "W",
+      "type": "Essential",
+      "side_chain": "Aromatic",
+      "polarity": "Nonpolar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 204.23,
+      "codons": "UGG",
+      "pI": 5.89,
+      "hydropathy": -0.9
+    },
+    {
+      "name": "Valine",
+      "three_letter": "Val",
+      "one_letter": "V",
+      "type": "Essential",
+      "side_chain": "Aliphatic",
+      "polarity": "Nonpolar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 117.15,
+      "codons": "GUU, GUC, GUA, GUG",
+      "pI": 5.96,
+      "hydropathy": 4.2
+    },
+    {
+      "name": "Arginine",
+      "three_letter": "Arg",
+      "one_letter": "R",
+      "type": "Conditionally Essential",
+      "side_chain": "Basic",
+      "polarity": "Polar",
+      "charge_ph7": "Positive",
+      "molecular_weight": 174.2,
+      "codons": "CGU, CGC, CGA, CGG, AGA, AGG",
+      "pI": 10.76,
+      "hydropathy": -4.5
+    },
+    {
+      "name": "Cysteine",
+      "three_letter": "Cys",
+      "one_letter": "C",
+      "type": "Conditionally Essential",
+      "side_chain": "Sulfur-containing",
+      "polarity": "Polar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 121.16,
+      "codons": "UGU, UGC",
+      "pI": 5.07,
+      "hydropathy": 2.5
+    },
+    {
+      "name": "Glutamine",
+      "three_letter": "Gln",
+      "one_letter": "Q",
+      "type": "Conditionally Essential",
+      "side_chain": "Amide",
+      "polarity": "Polar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 146.15,
+      "codons": "CAA, CAG",
+      "pI": 5.65,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Glycine",
+      "three_letter": "Gly",
+      "one_letter": "G",
+      "type": "Conditionally Essential",
+      "side_chain": "Aliphatic",
+      "polarity": "Nonpolar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 75.07,
+      "codons": "GGU, GGC, GGA, GGG",
+      "pI": 5.97,
+      "hydropathy": -0.4
+    },
+    {
+      "name": "Proline",
+      "three_letter": "Pro",
+      "one_letter": "P",
+      "type": "Conditionally Essential",
+      "side_chain": "Cyclic",
+      "polarity": "Nonpolar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 115.13,
+      "codons": "CCU, CCC, CCA, CCG",
+      "pI": 6.3,
+      "hydropathy": -1.6
+    },
+    {
+      "name": "Tyrosine",
+      "three_letter": "Tyr",
+      "one_letter": "Y",
+      "type": "Conditionally Essential",
+      "side_chain": "Aromatic",
+      "polarity": "Polar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 181.19,
+      "codons": "UAU, UAC",
+      "pI": 5.66,
+      "hydropathy": -1.3
+    },
+    {
+      "name": "Alanine",
+      "three_letter": "Ala",
+      "one_letter": "A",
+      "type": "Non-Essential",
+      "side_chain": "Aliphatic",
+      "polarity": "Nonpolar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 89.09,
+      "codons": "GCU, GCC, GCA, GCG",
+      "pI": 6,
+      "hydropathy": 1.8
+    },
+    {
+      "name": "Asparagine",
+      "three_letter": "Asn",
+      "one_letter": "N",
+      "type": "Non-Essential",
+      "side_chain": "Amide",
+      "polarity": "Polar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 132.12,
+      "codons": "AAU, AAC",
+      "pI": 5.41,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Aspartic Acid",
+      "three_letter": "Asp",
+      "one_letter": "D",
+      "type": "Non-Essential",
+      "side_chain": "Acidic",
+      "polarity": "Polar",
+      "charge_ph7": "Negative",
+      "molecular_weight": 133.1,
+      "codons": "GAU, GAC",
+      "pI": 2.77,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Glutamic Acid",
+      "three_letter": "Glu",
+      "one_letter": "E",
+      "type": "Non-Essential",
+      "side_chain": "Acidic",
+      "polarity": "Polar",
+      "charge_ph7": "Negative",
+      "molecular_weight": 147.13,
+      "codons": "GAA, GAG",
+      "pI": 3.22,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Serine",
+      "three_letter": "Ser",
+      "one_letter": "S",
+      "type": "Non-Essential",
+      "side_chain": "Hydroxyl",
+      "polarity": "Polar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 105.09,
+      "codons": "UCU, UCC, UCA, UCG, AGU, AGC",
+      "pI": 5.68,
+      "hydropathy": -0.8
+    },
+    {
+      "name": "Selenocysteine",
+      "three_letter": "Sec",
+      "one_letter": "U",
+      "type": "Special",
+      "side_chain": "Selenium-containing",
+      "polarity": "Polar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 168.05,
+      "codons": "UGA (context)",
+      "pI": 5.47,
+      "hydropathy": "-"
+    },
+    {
+      "name": "Pyrrolysine",
+      "three_letter": "Pyl",
+      "one_letter": "O",
+      "type": "Special",
+      "side_chain": "Pyrrolysine",
+      "polarity": "Polar",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 255.31,
+      "codons": "UAG (context)",
+      "pI": "-",
+      "hydropathy": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "Amino Acids Table Data & Properties - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download a comprehensive table of 22 amino acids, including codes, types, polarity, molecular weight, and codons. Free in Excel, CSV, PDF.",
+    "title": "Comprehensive Amino Acids Properties Dataset",
+    "description": "This dataset provides a detailed table of 22 common amino acids, including their one-letter, three-letter codes, types, side-chain properties, polarity, charge at pH 7, molecular weight, codons, isoelectric point (pI), and hydropathy index.",
+    "key_takeaways": [
+      "Access critical biochemical data for all 22 common amino acids.",
+      "Explore essential properties like molecular weight, polarity, and pI for protein studies.",
+      "Download genetic codon information for each amino acid for bioinformatics projects.",
+      "Utilize diverse data points to enhance research in biology and chemistry."
+    ],
+    "keywords": [
+      "amino acids table",
+      "amino acid properties",
+      "genetic codons list",
+      "protein building blocks",
+      "biochemistry data",
+      "amino acid data download csv"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or Python scripts for bioinformatics applications and genetic sequence analysis.",
+      "Use the **Excel** file to filter, sort, and analyze amino acid properties for educational assignments or detailed research reports.",
+      "Print the **PDF** version for a quick, handy reference guide in a laboratory, classroom, or for offline study.",
+      "Leverage this dataset to develop educational tools or interactive dashboards showcasing amino acid characteristics and their roles in proteins."
+    ]
+  },
+  "record_count": 22,
+  "title": "Comprehensive Amino Acids Properties Dataset"
+}

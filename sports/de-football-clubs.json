@@ -1,0 +1,691 @@
+{
+  "id": "de-football-clubs",
+  "name": "Germany — Football Clubs",
+  "title": "Germany — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Germany's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "GreutherFurth",
+      "matches_played": 600,
+      "seasons_count": 18,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-1998-1999, 2-bundesliga-1999-2000, 2-bundesliga-2000-2001, 2-bundesliga-2001-2002, 2-bundesliga-2002-2003, 2-bundesliga-2003-2004, 2-bundesliga-2004-2005, 2-bundesliga-2005-…"
+    },
+    {
+      "name": "Mainz",
+      "matches_played": 600,
+      "seasons_count": 18,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-1998-1999, 2-bundesliga-1999-2000, 2-bundesliga-2000-2001, 2-bundesliga-2001-2002, 2-bundesliga-2002-2003, 2-bundesliga-2003-2004, 2-bundesliga-2007-2008, 2-bundesliga-2008-2009, bundesli…"
+    },
+    {
+      "name": "EintrachtFrankfurt",
+      "matches_played": 566,
+      "seasons_count": 17,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-2001-2002, 2-bundesliga-2002-2003, 2-bundesliga-2004-2005, 2-bundesliga-2011-2012, bundesliga, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004, bundesliga-2005-2006, bund…"
+    },
+    {
+      "name": "Hannover",
+      "matches_played": 566,
+      "seasons_count": 17,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-1998-1999, 2-bundesliga-1999-2000, 2-bundesliga-2000-2001, 2-bundesliga-2001-2002, bundesliga, bundesliga-2003-2004, bundesliga-2004-2005, bundesliga-2005-2006, bundesliga-2006-2007, bund…"
+    },
+    {
+      "name": "B.Monchengladbach",
+      "matches_played": 532,
+      "seasons_count": 16,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-1999-2000, 2-bundesliga-2000-2001, 2-bundesliga-2007-2008, bundesliga, bundesliga-1998-1999, bundesliga-2003-2004, bundesliga-2004-2005, bundesliga-2005-2006, bundesliga-2006-2007, bundes…"
+    },
+    {
+      "name": "Bochum",
+      "matches_played": 532,
+      "seasons_count": 16,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-1999-2000, 2-bundesliga-2001-2002, 2-bundesliga-2005-2006, 2-bundesliga-2010-2011, 2-bundesliga-2011-2012, 2-bundesliga-2012-2013, 2-bundesliga-2013-2014, 2-bundesliga-2014-…"
+    },
+    {
+      "name": "Duisburg",
+      "matches_played": 532,
+      "seasons_count": 16,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "2-bundesliga, 2-bundesliga-2000-2001, 2-bundesliga-2001-2002, 2-bundesliga-2002-2003, 2-bundesliga-2003-2004, 2-bundesliga-2004-2005, 2-bundesliga-2006-2007, 2-bundesliga-2008-2009, 2-bundesliga-2009-…"
+    },
+    {
+      "name": "Freiburg",
+      "matches_played": 532,
+      "seasons_count": 16,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-2002-2003, 2-bundesliga-2005-2006, 2-bundesliga-2006-2007, 2-bundesliga-2007-2008, 2-bundesliga-2008-2009, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004,…"
+    },
+    {
+      "name": "Karlsruher",
+      "matches_played": 532,
+      "seasons_count": 16,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-1998-1999, 2-bundesliga-1999-2000, 2-bundesliga-2001-2002, 2-bundesliga-2002-2003, 2-bundesliga-2003-2004, 2-bundesliga-2004-2005, 2-bundesliga-2005-2006, 2-bundesliga-2006-…"
+    },
+    {
+      "name": "Koln",
+      "matches_played": 532,
+      "seasons_count": 16,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-1998-1999, 2-bundesliga-1999-2000, 2-bundesliga-2002-2003, 2-bundesliga-2004-2005, 2-bundesliga-2006-2007, 2-bundesliga-2007-2008, 2-bundesliga-2012-2013, 2-bundesliga-2013-2014, bundesli…"
+    },
+    {
+      "name": "Nurnberg",
+      "matches_played": 532,
+      "seasons_count": 16,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-1999-2000, 2-bundesliga-2000-2001, 2-bundesliga-2003-2004, 2-bundesliga-2008-2009, 2-bundesliga-2014-2015, bundesliga-1998-1999, bundesliga-2004-2005, bundesliga-2005-2006,…"
+    },
+    {
+      "name": "BayerLeverkusen",
+      "matches_played": 498,
+      "seasons_count": 15,
+      "leagues": "bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "bundesliga, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004, bundesliga-2004-2005, bundesliga-2005-2006, bundesliga-2006-2007, bundesliga-2007-2008, bundesliga-2008-2009, bundesliga-2…"
+    },
+    {
+      "name": "BayernMunich",
+      "matches_played": 498,
+      "seasons_count": 15,
+      "leagues": "bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "bundesliga, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004, bundesliga-2004-2005, bundesliga-2005-2006, bundesliga-2006-2007, bundesliga-2007-2008, bundesliga-2008-2009, bundesliga-2…"
+    },
+    {
+      "name": "Dortmund",
+      "matches_played": 498,
+      "seasons_count": 15,
+      "leagues": "bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "bundesliga, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004, bundesliga-2004-2005, bundesliga-2005-2006, bundesliga-2006-2007, bundesliga-2007-2008, bundesliga-2008-2009, bundesliga-2…"
+    },
+    {
+      "name": "HamburgerSV",
+      "matches_played": 498,
+      "seasons_count": 15,
+      "leagues": "bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "bundesliga, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004, bundesliga-2004-2005, bundesliga-2005-2006, bundesliga-2006-2007, bundesliga-2007-2008, bundesliga-2008-2009, bundesliga-2…"
+    },
+    {
+      "name": "HerthaBerlin",
+      "matches_played": 498,
+      "seasons_count": 15,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-2010-2011, 2-bundesliga-2012-2013, bundesliga, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004, bundesliga-2004-2005, bundesliga-2005-2006, bundesliga-2006-2007, bundesli…"
+    },
+    {
+      "name": "Kaiserslautern",
+      "matches_played": 498,
+      "seasons_count": 15,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-2006-2007, 2-bundesliga-2007-2008, 2-bundesliga-2008-2009, 2-bundesliga-2009-2010, 2-bundesliga-2012-2013, 2-bundesliga-2013-2014, 2-bundesliga-2014-2015, bundesliga-1998-19…"
+    },
+    {
+      "name": "Munich1860",
+      "matches_played": 498,
+      "seasons_count": 15,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-2004-2005, 2-bundesliga-2005-2006, 2-bundesliga-2006-2007, 2-bundesliga-2007-2008, 2-bundesliga-2008-2009, 2-bundesliga-2009-2010, 2-bundesliga-2010-2011, 2-bundesliga-2011-…"
+    },
+    {
+      "name": "Schalke",
+      "matches_played": 498,
+      "seasons_count": 15,
+      "leagues": "bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "bundesliga, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004, bundesliga-2004-2005, bundesliga-2005-2006, bundesliga-2006-2007, bundesliga-2007-2008, bundesliga-2008-2009, bundesliga-2…"
+    },
+    {
+      "name": "VfBStuttgart",
+      "matches_played": 498,
+      "seasons_count": 15,
+      "leagues": "bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "bundesliga, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004, bundesliga-2004-2005, bundesliga-2005-2006, bundesliga-2006-2007, bundesliga-2007-2008, bundesliga-2008-2009, bundesliga-2…"
+    },
+    {
+      "name": "WerderBremen",
+      "matches_played": 498,
+      "seasons_count": 15,
+      "leagues": "bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "bundesliga, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004, bundesliga-2004-2005, bundesliga-2005-2006, bundesliga-2006-2007, bundesliga-2007-2008, bundesliga-2008-2009, bundesliga-2…"
+    },
+    {
+      "name": "Wolfsburg",
+      "matches_played": 498,
+      "seasons_count": 15,
+      "leagues": "bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "bundesliga, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004, bundesliga-2004-2005, bundesliga-2005-2006, bundesliga-2006-2007, bundesliga-2007-2008, bundesliga-2008-2009, bundesliga-2…"
+    },
+    {
+      "name": "ArminiaBielefeld",
+      "matches_played": 464,
+      "seasons_count": 14,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "2-bundesliga, 2-bundesliga-1998-1999, 2-bundesliga-2000-2001, 2-bundesliga-2001-2002, 2-bundesliga-2003-2004, 2-bundesliga-2009-2010, 2-bundesliga-2010-2011, 2-bundesliga-2013-2014, bundesliga-1999-20…"
+    },
+    {
+      "name": "AlemanniaAachen",
+      "matches_played": 442,
+      "seasons_count": 13,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1999,
+      "last_season_year": 2011,
+      "seasons": "2-bundesliga-1999-2000, 2-bundesliga-2000-2001, 2-bundesliga-2001-2002, 2-bundesliga-2002-2003, 2-bundesliga-2003-2004, 2-bundesliga-2004-2005, 2-bundesliga-2005-2006, 2-bundesliga-2007-2008, 2-bundes…"
+    },
+    {
+      "name": "EnergieCottbus",
+      "matches_played": 442,
+      "seasons_count": 13,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "2-bundesliga-1998-1999, 2-bundesliga-1999-2000, 2-bundesliga-2003-2004, 2-bundesliga-2004-2005, 2-bundesliga-2005-2006, 2-bundesliga-2009-2010, 2-bundesliga-2010-2011, 2-bundesliga-2011-2012, 2-bundes…"
+    },
+    {
+      "name": "St.Pauli",
+      "matches_played": 430,
+      "seasons_count": 13,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-1998-1999, 2-bundesliga-1999-2000, 2-bundesliga-2000-2001, 2-bundesliga-2002-2003, 2-bundesliga-2007-2008, 2-bundesliga-2008-2009, 2-bundesliga-2009-2010, 2-bundesliga-2011-…"
+    },
+    {
+      "name": "Aue",
+      "matches_played": 340,
+      "seasons_count": 10,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2003,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-2003-2004, 2-bundesliga-2004-2005, 2-bundesliga-2005-2006, 2-bundesliga-2006-2007, 2-bundesliga-2007-2008, 2-bundesliga-2010-2011, 2-bundesliga-2011-2012, 2-bundesliga-2012-2013, 2-bundes…"
+    },
+    {
+      "name": "HansaRostock",
+      "matches_played": 340,
+      "seasons_count": 10,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2011,
+      "seasons": "2-bundesliga-2005-2006, 2-bundesliga-2006-2007, 2-bundesliga-2008-2009, 2-bundesliga-2009-2010, 2-bundesliga-2011-2012, bundesliga-1998-1999, bundesliga-1999-2000, bundesliga-2003-2004, bundesliga-200…"
+    },
+    {
+      "name": "Oberhausen",
+      "matches_played": 340,
+      "seasons_count": 10,
+      "leagues": "2-bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2010,
+      "seasons": "2-bundesliga-1998-1999, 2-bundesliga-1999-2000, 2-bundesliga-2000-2001, 2-bundesliga-2001-2002, 2-bundesliga-2002-2003, 2-bundesliga-2003-2004, 2-bundesliga-2004-2005, 2-bundesliga-2008-2009, 2-bundes…"
+    },
+    {
+      "name": "Augsburg",
+      "matches_played": 328,
+      "seasons_count": 10,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 2006,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-2006-2007, 2-bundesliga-2007-2008, 2-bundesliga-2008-2009, 2-bundesliga-2009-2010, 2-bundesliga-2010-2011, bundesliga, bundesliga-2011-2012, bundesliga-2012-2013, bundesliga-2013-2014, bu…"
+    },
+    {
+      "name": "Paderborn",
+      "matches_played": 328,
+      "seasons_count": 10,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 2005,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-2005-2006, 2-bundesliga-2006-2007, 2-bundesliga-2007-2008, 2-bundesliga-2009-2010, 2-bundesliga-2010-2011, 2-bundesliga-2011-2012, 2-bundesliga-2012-2013, 2-bundesliga-2013-…"
+    },
+    {
+      "name": "UnionBerlin",
+      "matches_played": 328,
+      "seasons_count": 10,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2001,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-2001-2002, 2-bundesliga-2002-2003, 2-bundesliga-2003-2004, 2-bundesliga-2009-2010, 2-bundesliga-2010-2011, 2-bundesliga-2011-2012, 2-bundesliga-2012-2013, 2-bundesliga-2013-…"
+    },
+    {
+      "name": "Hoffenheim",
+      "matches_played": 294,
+      "seasons_count": 9,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 2007,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-2007-2008, bundesliga, bundesliga-2008-2009, bundesliga-2009-2010, bundesliga-2010-2011, bundesliga-2011-2012, bundesliga-2012-2013, bundesliga-2013-2014, bundesliga-2014-2015"
+    },
+    {
+      "name": "Ahlen",
+      "matches_played": 272,
+      "seasons_count": 8,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2000,
+      "last_season_year": 2009,
+      "seasons": "2-bundesliga-2000-2001, 2-bundesliga-2001-2002, 2-bundesliga-2002-2003, 2-bundesliga-2003-2004, 2-bundesliga-2004-2005, 2-bundesliga-2005-2006, 2-bundesliga-2008-2009, 2-bundesliga-2009-2010"
+    },
+    {
+      "name": "Braunschweig",
+      "matches_played": 260,
+      "seasons_count": 8,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 2002,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-2002-2003, 2-bundesliga-2005-2006, 2-bundesliga-2006-2007, 2-bundesliga-2011-2012, 2-bundesliga-2012-2013, 2-bundesliga-2014-2015, bundesliga-2013-2014"
+    },
+    {
+      "name": "Dusseldorf",
+      "matches_played": 260,
+      "seasons_count": 8,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-1998-1999, 2-bundesliga-2009-2010, 2-bundesliga-2010-2011, 2-bundesliga-2011-2012, 2-bundesliga-2013-2014, 2-bundesliga-2014-2015, bundesliga-2012-2013"
+    },
+    {
+      "name": "FSVFrankfurt",
+      "matches_played": 260,
+      "seasons_count": 8,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2008,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-2008-2009, 2-bundesliga-2009-2010, 2-bundesliga-2010-2011, 2-bundesliga-2011-2012, 2-bundesliga-2012-2013, 2-bundesliga-2013-2014, 2-bundesliga-2014-2015"
+    },
+    {
+      "name": "Unterhaching",
+      "matches_played": 238,
+      "seasons_count": 7,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2006,
+      "seasons": "2-bundesliga-1998-1999, 2-bundesliga-2001-2002, 2-bundesliga-2003-2004, 2-bundesliga-2004-2005, 2-bundesliga-2005-2006, 2-bundesliga-2006-2007, bundesliga-1999-2000"
+    },
+    {
+      "name": "Ingolstadt",
+      "matches_played": 226,
+      "seasons_count": 7,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 2008,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-2008-2009, 2-bundesliga-2010-2011, 2-bundesliga-2011-2012, 2-bundesliga-2012-2013, 2-bundesliga-2013-2014, 2-bundesliga-2014-2015, bundesliga"
+    },
+    {
+      "name": "Burghausen",
+      "matches_played": 170,
+      "seasons_count": 5,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2002,
+      "last_season_year": 2006,
+      "seasons": "2-bundesliga-2002-2003, 2-bundesliga-2003-2004, 2-bundesliga-2004-2005, 2-bundesliga-2005-2006, 2-bundesliga-2006-2007"
+    },
+    {
+      "name": "Dresden",
+      "matches_played": 170,
+      "seasons_count": 5,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2004,
+      "last_season_year": 2013,
+      "seasons": "2-bundesliga-2004-2005, 2-bundesliga-2005-2006, 2-bundesliga-2011-2012, 2-bundesliga-2012-2013, 2-bundesliga-2013-2014"
+    },
+    {
+      "name": "VfLOsnabruck",
+      "matches_played": 170,
+      "seasons_count": 5,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2000,
+      "last_season_year": 2010,
+      "seasons": "2-bundesliga-2000-2001, 2-bundesliga-2003-2004, 2-bundesliga-2007-2008, 2-bundesliga-2008-2009, 2-bundesliga-2010-2011"
+    },
+    {
+      "name": "KickersOffenbach",
+      "matches_played": 136,
+      "seasons_count": 4,
+      "leagues": "2-bundesliga",
+      "first_season_year": 1999,
+      "last_season_year": 2007,
+      "seasons": "2-bundesliga-1999-2000, 2-bundesliga-2005-2006, 2-bundesliga-2006-2007, 2-bundesliga-2007-2008"
+    },
+    {
+      "name": "Mannheim",
+      "matches_played": 136,
+      "seasons_count": 4,
+      "leagues": "2-bundesliga",
+      "first_season_year": 1999,
+      "last_season_year": 2002,
+      "seasons": "2-bundesliga-1999-2000, 2-bundesliga-2000-2001, 2-bundesliga-2001-2002, 2-bundesliga-2002-2003"
+    },
+    {
+      "name": "Saarbrucken",
+      "matches_played": 136,
+      "seasons_count": 4,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2000,
+      "last_season_year": 2005,
+      "seasons": "2-bundesliga-2000-2001, 2-bundesliga-2001-2002, 2-bundesliga-2004-2005, 2-bundesliga-2005-2006"
+    },
+    {
+      "name": "TuSKoblenz",
+      "matches_played": 136,
+      "seasons_count": 4,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2006,
+      "last_season_year": 2009,
+      "seasons": "2-bundesliga-2006-2007, 2-bundesliga-2007-2008, 2-bundesliga-2008-2009, 2-bundesliga-2009-2010"
+    },
+    {
+      "name": "Sandhausen",
+      "matches_played": 124,
+      "seasons_count": 4,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2012,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-2012-2013, 2-bundesliga-2013-2014, 2-bundesliga-2014-2015"
+    },
+    {
+      "name": "Aalen",
+      "matches_played": 102,
+      "seasons_count": 3,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2012,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-2012-2013, 2-bundesliga-2013-2014, 2-bundesliga-2014-2015"
+    },
+    {
+      "name": "EintrachtTrier",
+      "matches_played": 102,
+      "seasons_count": 3,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2002,
+      "last_season_year": 2004,
+      "seasons": "2-bundesliga-2002-2003, 2-bundesliga-2003-2004, 2-bundesliga-2004-2005"
+    },
+    {
+      "name": "Reutlingen",
+      "matches_played": 102,
+      "seasons_count": 3,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2000,
+      "last_season_year": 2002,
+      "seasons": "2-bundesliga-2000-2001, 2-bundesliga-2001-2002, 2-bundesliga-2002-2003"
+    },
+    {
+      "name": "Stutt.Kickers",
+      "matches_played": 102,
+      "seasons_count": 3,
+      "leagues": "2-bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2000,
+      "seasons": "2-bundesliga-1998-1999, 2-bundesliga-1999-2000, 2-bundesliga-2000-2001"
+    },
+    {
+      "name": "Ulm",
+      "matches_played": 102,
+      "seasons_count": 3,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 2000,
+      "seasons": "2-bundesliga-1998-1999, 2-bundesliga-2000-2001, bundesliga-1999-2000"
+    },
+    {
+      "name": "Chemnitzer",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "2-bundesliga",
+      "first_season_year": 1999,
+      "last_season_year": 2000,
+      "seasons": "2-bundesliga-1999-2000, 2-bundesliga-2000-2001"
+    },
+    {
+      "name": "FortunaKoln",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "2-bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "2-bundesliga-1998-1999, 2-bundesliga-1999-2000"
+    },
+    {
+      "name": "Jena",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2006,
+      "last_season_year": 2007,
+      "seasons": "2-bundesliga-2006-2007, 2-bundesliga-2007-2008"
+    },
+    {
+      "name": "Lubeck",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2002,
+      "last_season_year": 2003,
+      "seasons": "2-bundesliga-2002-2003, 2-bundesliga-2003-2004"
+    },
+    {
+      "name": "RWEssen",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2004,
+      "last_season_year": 2006,
+      "seasons": "2-bundesliga-2004-2005, 2-bundesliga-2006-2007"
+    },
+    {
+      "name": "Regensburg",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2003,
+      "last_season_year": 2012,
+      "seasons": "2-bundesliga-2003-2004, 2-bundesliga-2012-2013"
+    },
+    {
+      "name": "TBBerlin",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "2-bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "2-bundesliga-1998-1999, 2-bundesliga-1999-2000"
+    },
+    {
+      "name": "Wehen",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2007,
+      "last_season_year": 2008,
+      "seasons": "2-bundesliga-2007-2008, 2-bundesliga-2008-2009"
+    },
+    {
+      "name": "Darmstadt",
+      "matches_played": 56,
+      "seasons_count": 2,
+      "leagues": "2-bundesliga, bundesliga",
+      "first_season_year": 2014,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga-2014-2015, bundesliga"
+    },
+    {
+      "name": "Heidenheim",
+      "matches_played": 56,
+      "seasons_count": 2,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2014,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-2014-2015"
+    },
+    {
+      "name": "RBLeipzig",
+      "matches_played": 56,
+      "seasons_count": 2,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2014,
+      "last_season_year": 2014,
+      "seasons": "2-bundesliga, 2-bundesliga-2014-2015"
+    },
+    {
+      "name": "Babelsberg",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2001,
+      "last_season_year": 2001,
+      "seasons": "2-bundesliga-2001-2002"
+    },
+    {
+      "name": "Erfurt",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2004,
+      "last_season_year": 2004,
+      "seasons": "2-bundesliga-2004-2005"
+    },
+    {
+      "name": "Gutersloh",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "2-bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "2-bundesliga-1998-1999"
+    },
+    {
+      "name": "Schweinfurt",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2001,
+      "last_season_year": 2001,
+      "seasons": "2-bundesliga-2001-2002"
+    },
+    {
+      "name": "Siegen",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "2-bundesliga",
+      "first_season_year": 2005,
+      "last_season_year": 2005,
+      "seasons": "2-bundesliga-2005-2006"
+    },
+    {
+      "name": "Uerdingen",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "2-bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "2-bundesliga-1998-1999"
+    },
+    {
+      "name": "Wattenscheid",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "2-bundesliga",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "2-bundesliga-1998-1999"
+    }
+  ],
+  "meta": {
+    "title": "Germany — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Germany's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Germany — Football Clubs | ListBase",
+    "seo_description": "Download Germany — Football Clubs dataset with 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

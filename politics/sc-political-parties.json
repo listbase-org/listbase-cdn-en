@@ -1,0 +1,166 @@
+{
+  "id": "sc-political-parties",
+  "name": "Seychelles — Political Parties",
+  "title": "Seychelles — Political Parties",
+  "description": "Political parties of Seychelles from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "string"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3847,
+      "name_short": "SPPF/PL",
+      "name": "Front Progressiste du Peuple Seychellois /  Parti Lepep",
+      "name_english": "Seychelles People's Progressive Front / People's Party / Seychelles People's United Party",
+      "name_other": "",
+      "year_first": 1964,
+      "year_last": "",
+      "share": 56.2,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Party_(Seychelles)",
+      "description": "",
+      "comment": "renamed into People's Party - PL in 2009",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5956,
+      "name_short": "LDS",
+      "name": "Linyon Demokratik Seselwa",
+      "name_english": "Linyon Demokratik Seselwa",
+      "name_other": "",
+      "year_first": 2016,
+      "year_last": "",
+      "share": 49.6,
+      "share_year": 2016,
+      "wikipedia": "https://en.wikipedia.org/wiki/Linyon_Demokratik_Seselwa",
+      "description": "consists of 4117 &  Seychellois Alliance, Seychelles Party for Social Justice and Democracy, Seychelles United Party",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4117,
+      "name_short": "SNP/UO",
+      "name": "Seychelles National Party",
+      "name_english": "Seychelles National Party / United Opposition",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": "",
+      "share": 43.8,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Seychelles_National_Party",
+      "description": "runs 1993 under the name 'United Opposition' as a coalition, merged 1994 to the party with the same name and was renamed 1998 to Seychelles National Party",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5485,
+      "name_short": "SDP",
+      "name": "Seychelles Democratic Party",
+      "name_english": "Seychelles Democratic Party",
+      "name_other": "",
+      "year_first": 1964,
+      "year_last": "",
+      "share": 34.8,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/Seychelles_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5541,
+      "name_short": "PDM",
+      "name": "Popular Democratic Movement",
+      "name_english": "Popular Democratic Movement",
+      "name_other": "",
+      "year_first": 2011,
+      "year_last": "",
+      "share": 10.9,
+      "share_year": 2011,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Seychelles — Political Parties - Free Download",
+    "description": "Political parties of Seychelles from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Seychelles — Political Parties | ListBase",
+    "seo_description": "Download Seychelles — Political Parties dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

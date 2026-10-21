@@ -1,0 +1,241 @@
+{
+  "id": "sl-political-parties",
+  "name": "Sierra Leone — Political Parties",
+  "title": "Sierra Leone — Political Parties",
+  "description": "Political parties of Sierra Leone from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6514,
+      "name_short": "NC",
+      "name": "National Council of Sierra Leone",
+      "name_english": "National Council of Sierra Leone",
+      "name_other": "",
+      "year_first": 1950,
+      "year_last": 1957,
+      "share": 42.9,
+      "share_year": 1951,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Council_of_Sierra_Leone",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4047,
+      "name_short": "SLPP",
+      "name": "Sierra Leone People's Party",
+      "name_english": "Sierra Leone People's Party",
+      "name_other": "",
+      "year_first": 1961,
+      "year_last": 2012,
+      "share": 38.4,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sierra_Leone_People%27s_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4045,
+      "name_short": "APC",
+      "name": "All People's Congress",
+      "name_english": "All People's Congress",
+      "name_other": "",
+      "year_first": 1962,
+      "year_last": "",
+      "share": 38.2,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/All_People%27s_Congress",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4046,
+      "name_short": "UNPP",
+      "name": "United National People's Party",
+      "name_english": "United National People's Party",
+      "name_other": "",
+      "year_first": 1996,
+      "year_last": 2007,
+      "share": 21.6,
+      "share_year": 1996,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_National_People%27s_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4048,
+      "name_short": "PMDC",
+      "name": "People's Movement for Democratic Change",
+      "name_english": "People's Movement for Democratic Change",
+      "name_other": "",
+      "year_first": 2007,
+      "year_last": 2007,
+      "share": 15.4,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Movement_for_Democratic_Change",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5895,
+      "name_short": "PDP",
+      "name": "People's Democratic Party",
+      "name_english": "People's Democratic Party",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": 2002,
+      "share": 15.2,
+      "share_year": 1996,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Democratic_Party_(Sierra_Leone)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6444,
+      "name_short": "UPP",
+      "name": "United Progressive Party",
+      "name_english": "United Progressive Party",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1962,
+      "share": 12.6,
+      "share_year": 1957,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6081,
+      "name_short": "NUP",
+      "name": "National Unity Party",
+      "name_english": "National Unity Party",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": 2002,
+      "share": 5.2,
+      "share_year": 1996,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7649,
+      "name_short": "C4C",
+      "name": "Coalition for Change Party",
+      "name_english": "Coalition for Change Party",
+      "name_other": "",
+      "year_first": 2017,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://de.wikipedia.org/wiki/Coalition_for_Change_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7651,
+      "name_short": "NGC",
+      "name": "National Grand Coalition Party",
+      "name_english": "National Grand Coalition Party",
+      "name_other": "",
+      "year_first": 2018,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "There is no available information on Wikipedia for the items above",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Sierra Leone — Political Parties - Free Download",
+    "description": "Political parties of Sierra Leone from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sierra Leone — Political Parties | ListBase",
+    "seo_description": "Download Sierra Leone — Political Parties dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "id": "ve-ports",
+  "name": "Venezuela — Ports",
+  "title": "Venezuela — Ports",
+  "description": "Ports and harbors in Venezuela: name, city, coordinates, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "asciiname",
+      "label": "Asciiname",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "unlc_list",
+      "label": "Unlc List",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "",
+      "name": "Puerto Cumarebo",
+      "asciiname": "Puerto Cumarebo",
+      "city_name_list": "",
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "adm1_name_ascii": "Falcon",
+      "latitude": 11.48611,
+      "longitude": -69.35,
+      "timezone": "America/Caracas",
+      "unlc_list": "VECMR|"
+    },
+    {
+      "iata_code": "",
+      "name": "Amuay",
+      "asciiname": "Amuay",
+      "city_name_list": "",
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "adm1_name_ascii": "Falcon",
+      "latitude": 11.75,
+      "longitude": -70.23333,
+      "timezone": "America/Caracas",
+      "unlc_list": "VEAMY|"
+    },
+    {
+      "iata_code": "",
+      "name": "La Guaira Port",
+      "asciiname": "La Guaira Port",
+      "city_name_list": "",
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "adm1_name_ascii": "Vargas",
+      "latitude": 10.60093,
+      "longitude": -66.9417,
+      "timezone": "America/Caracas",
+      "unlc_list": "VELAG|"
+    },
+    {
+      "iata_code": "",
+      "name": "Pertigalete",
+      "asciiname": "Pertigalete",
+      "city_name_list": "",
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "adm1_name_ascii": "Anzoategui",
+      "latitude": 10.24305,
+      "longitude": -64.55828,
+      "timezone": "America/Caracas",
+      "unlc_list": "VEPRG|"
+    },
+    {
+      "iata_code": "",
+      "name": "Carúpano Port",
+      "asciiname": "Carupano Port",
+      "city_name_list": "",
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "adm1_name_ascii": "Sucre",
+      "latitude": 10.67525,
+      "longitude": -63.24369,
+      "timezone": "America/Caracas",
+      "unlc_list": "VECUP|"
+    },
+    {
+      "iata_code": "",
+      "name": "Puerto de Hierro",
+      "asciiname": "Puerto de Hierro",
+      "city_name_list": "",
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "adm1_name_ascii": "Sucre",
+      "latitude": 10.63364,
+      "longitude": -62.09052,
+      "timezone": "America/Caracas",
+      "unlc_list": "VEPHO|"
+    },
+    {
+      "iata_code": "",
+      "name": "Caripito",
+      "asciiname": "Caripito",
+      "city_name_list": "",
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "adm1_name_ascii": "Monagas",
+      "latitude": 10.15,
+      "longitude": -63.03333,
+      "timezone": "America/Caracas",
+      "unlc_list": "VECAR|"
+    },
+    {
+      "iata_code": "",
+      "name": "Puerto Chichiriviche",
+      "asciiname": "Puerto Chichiriviche",
+      "city_name_list": "",
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "adm1_name_ascii": "Falcon",
+      "latitude": 10.91667,
+      "longitude": -68.26667,
+      "timezone": "America/Caracas",
+      "unlc_list": "VECHV|"
+    },
+    {
+      "iata_code": "",
+      "name": "Las Piedras",
+      "asciiname": "Las Piedras",
+      "city_name_list": "",
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "adm1_name_ascii": "Falcon",
+      "latitude": 11.7,
+      "longitude": -70.21667,
+      "timezone": "America/Caracas",
+      "unlc_list": "VELSP|"
+    },
+    {
+      "iata_code": "",
+      "name": "La Salina",
+      "asciiname": "La Salina",
+      "city_name_list": "",
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "adm1_name_ascii": "Zulia",
+      "latitude": 10.36667,
+      "longitude": -71.46667,
+      "timezone": "America/Caracas",
+      "unlc_list": "VELSV|"
+    },
+    {
+      "iata_code": "",
+      "name": "Guaranao Port",
+      "asciiname": "Guaranao Port",
+      "city_name_list": "",
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "adm1_name_ascii": "Falcon",
+      "latitude": 11.67146,
+      "longitude": -70.2145,
+      "timezone": "America/Caracas",
+      "unlc_list": "VEGUB|"
+    }
+  ],
+  "meta": {
+    "title": "Venezuela — Ports - Free Download",
+    "description": "Ports and harbors in Venezuela: name, city, coordinates, timezone. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Venezuela — Ports | ListBase",
+    "seo_description": "Download Venezuela — Ports dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

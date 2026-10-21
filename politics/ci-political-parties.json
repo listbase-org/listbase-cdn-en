@@ -1,0 +1,211 @@
+{
+  "id": "ci-political-parties",
+  "name": "Côte d'Ivoire — Political Parties",
+  "title": "Côte d'Ivoire — Political Parties",
+  "description": "Political parties of Côte d'Ivoire from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5098,
+      "name_short": "PDCI-RDA",
+      "name": "Parti Démocratique de la Côte d'Ivoire — Rassemblement Démocratique Africain",
+      "name_english": "Democratic Party of Côte d'Ivoire — African Democratic Rally",
+      "name_other": "",
+      "year_first": 1946,
+      "year_last": "",
+      "share": 100,
+      "share_year": 1959,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_of_C%C3%B4te_d%27Ivoire_%E2%80%93_African_Democratic_Rally",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5097,
+      "name_short": "RDR",
+      "name": "Rassemblement des Républicains",
+      "name_english": "Rally of the Republicans",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": "",
+      "share": 47.8,
+      "share_year": 2011,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rally_of_the_Republicans",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5096,
+      "name_short": "FPI",
+      "name": "Front populaire ivoirien",
+      "name_english": "Ivorian Popular Front",
+      "name_other": "",
+      "year_first": 1982,
+      "year_last": "",
+      "share": 43,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ivorian_Popular_Front",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7335,
+      "name_short": "PUFCI",
+      "name": "Parti de l'Union française de Côte d'Ivoire",
+      "name_english": "Party of the French Union of Côte d'Ivoire",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": 1951,
+      "share": 12.5,
+      "share_year": 1952,
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_of_the_French_Union_of_Côte_d%27Ivoire",
+      "description": "4 of 32 seats in 1952 Ivorian Territorial Assembly election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5628,
+      "name_short": "UDPCI",
+      "name": "Union pour la Démocratie et la Paix en Côte d'Ivoire",
+      "name_english": "Union for Democracy and Peace in Côte d'Ivoire",
+      "name_other": "",
+      "year_first": 2011,
+      "year_last": "",
+      "share": 2.8,
+      "share_year": 2011,
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_for_Democracy_and_Peace_in_C%C3%B4te_d%27Ivoire",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7860,
+      "name_short": "MFA",
+      "name": "Mouvement des Forces de l'Avenir",
+      "name_english": "Movement of the Forces of the Future",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Movement_of_the_Forces_of_the_Future",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7607,
+      "name_short": "RHDP",
+      "name": "Rassemblement des houphouëtistes pour la démocratie et la paix",
+      "name_english": "Rally of Houphouëtists for Democracy and Peace",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rally_of_Houphou%C3%ABtists_for_Democracy_and_Peace",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7861,
+      "name_short": "UPCI",
+      "name": "Union pour la Côte d’Ivoire",
+      "name_english": "Union for Ivory Coast",
+      "name_other": "",
+      "year_first": 2016,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_for_Ivory_Coast",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Côte d'Ivoire — Political Parties - Free Download",
+    "description": "Political parties of Côte d'Ivoire from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Côte d'Ivoire — Political Parties | ListBase",
+    "seo_description": "Download Côte d'Ivoire — Political Parties dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

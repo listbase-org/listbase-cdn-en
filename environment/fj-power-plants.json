@@ -1,0 +1,322 @@
+{
+  "id": "fj-power-plants",
+  "name": "Fiji — Power Plants",
+  "title": "Fiji — Power Plants",
+  "description": "Power plants located in Fiji from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Wailoa",
+      "gppd_idnr": "WRI1061469",
+      "capacity_mw": 160,
+      "latitude": -17.7569,
+      "longitude": 178.0498,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1983,
+      "owner": "Fiji Electricity Authority",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 599.41; 2014: 377.45; 2015: 377.45; 2016: 352.82; 2017: 351.86",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kinoya",
+      "gppd_idnr": "WRI1061458",
+      "capacity_mw": 48,
+      "latitude": -18.1127,
+      "longitude": 178.4799,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 2015,
+      "owner": "Fiji Electricity Authority",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Nadarivatu",
+      "gppd_idnr": "WRI1061476",
+      "capacity_mw": 40,
+      "latitude": -17.6671,
+      "longitude": 177.9413,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2012,
+      "owner": "Fiji Electricity Authority",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 154.91; 2014: 86.53; 2015: 86.53; 2016: 100.53; 2017: 100.26",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Vuda",
+      "gppd_idnr": "WRI1061457",
+      "capacity_mw": 20,
+      "latitude": -17.6806,
+      "longitude": 177.4304,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1999,
+      "owner": "Fiji Electricity Authority",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Butoni",
+      "gppd_idnr": "WRI1061467",
+      "capacity_mw": 10.1,
+      "latitude": -18.1129,
+      "longitude": 177.5057,
+      "primary_fuel": "Wind",
+      "other_fuels": "",
+      "commissioning_year": 2008,
+      "owner": "Fiji Electricity Authority",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 26.25; 2014: 24.54; 2015: 21.45; 2016: 22.64; 2017: 24.52",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Labasa Sugar Mill",
+      "gppd_idnr": "WRI1061474",
+      "capacity_mw": 10,
+      "latitude": -16.4299,
+      "longitude": 179.3887,
+      "primary_fuel": "Biomass",
+      "other_fuels": "",
+      "commissioning_year": 2015,
+      "owner": "Fiji Sugar Corporation",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tropik Woods IPP (Viti Levu)",
+      "gppd_idnr": "WRI1061475",
+      "capacity_mw": 9.3,
+      "latitude": -17.5893,
+      "longitude": 177.5355,
+      "primary_fuel": "Biomass",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Tropik  Woods",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Wainikasaou",
+      "gppd_idnr": "WRI1061468",
+      "capacity_mw": 6,
+      "latitude": -17.8331,
+      "longitude": 178.027,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2004,
+      "owner": "Fiji Electricity Authority",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 19.08; 2014: 12.27; 2015: 12.27; 2016: 11.55; 2017: 11.52",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Rarawai Mill",
+      "gppd_idnr": "WRI1061478",
+      "capacity_mw": 5,
+      "latitude": -17.5442,
+      "longitude": 177.682,
+      "primary_fuel": "Biomass",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Fiji Sugar Corporation",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Vaturu",
+      "gppd_idnr": "WRI1061465",
+      "capacity_mw": 3,
+      "latitude": -17.7401,
+      "longitude": 177.5469,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2005,
+      "owner": "Fiji Electricity Authority",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 8.94; 2014: 4.89; 2015: 4.89; 2016: 5.24; 2017: 5.22",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Waiyevo",
+      "gppd_idnr": "WRI1061477",
+      "capacity_mw": 3,
+      "latitude": -16.7844,
+      "longitude": -179.9777,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Fiji Electricity Authority",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Levuka Power Station",
+      "gppd_idnr": "WRI1061473",
+      "capacity_mw": 2.98,
+      "latitude": -17.6845,
+      "longitude": 178.8359,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Fiji Electricity Authority",
+      "source": "Fiji Electricity Authority",
+      "url": "http://www.energyandinfrastructure.com/sections/profiles1/408-fiji-electricity-authority",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Fiji — Power Plants - Free Download",
+    "description": "Power plants located in Fiji from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fiji — Power Plants | ListBase",
+    "seo_description": "Download Fiji — Power Plants dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "id": "ga-power-plants",
+  "name": "Gabon — Power Plants",
+  "title": "Gabon — Power Plants",
+  "description": "Power plants located in Gabon from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Poubara",
+      "gppd_idnr": "WRI1023075",
+      "capacity_mw": 160,
+      "latitude": -1.7733,
+      "longitude": 13.552,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 474.54; 2014: 540.13; 2015: 536.07; 2016: 539.92; 2017: 521.35",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Owendo",
+      "gppd_idnr": "WRI1023073",
+      "capacity_mw": 77,
+      "latitude": 0.3433,
+      "longitude": 9.4784,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tchimbele",
+      "gppd_idnr": "WRI1023077",
+      "capacity_mw": 68.4,
+      "latitude": 0.621,
+      "longitude": 10.407,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 205.46; 2014: 225.76; 2015: 224.77; 2016: 226.38; 2017: 225.76",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Port-Gentil",
+      "gppd_idnr": "WRI1023074",
+      "capacity_mw": 68.3,
+      "latitude": -0.7539,
+      "longitude": 8.7536,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kinguele",
+      "gppd_idnr": "WRI1023072",
+      "capacity_mw": 57.6,
+      "latitude": 0.455,
+      "longitude": 10.281,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 174.6; 2014: 190.96; 2015: 190.7; 2016: 191.48; 2017: 190.96",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Rabi",
+      "gppd_idnr": "WRI1023076",
+      "capacity_mw": 15.51,
+      "latitude": -1.9,
+      "longitude": 9.4833,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 17.51",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Gabon — Power Plants - Free Download",
+    "description": "Power plants located in Gabon from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gabon — Power Plants | ListBase",
+    "seo_description": "Download Gabon — Power Plants dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

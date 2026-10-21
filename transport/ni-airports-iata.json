@@ -1,0 +1,256 @@
+{
+  "id": "ni-airports-iata",
+  "name": "Nicaragua — IATA Airports",
+  "title": "Nicaragua — IATA Airports",
+  "description": "Airports with IATA codes in Nicaragua: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BEF",
+      "icao_code": "MNBL",
+      "name": "Bluefields Airport",
+      "city_name_list": "Bluefields",
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "continent_name": "North America",
+      "adm1_name_ascii": "South Caribbean Coast",
+      "latitude": 11.99096,
+      "longitude": -83.77409,
+      "elevation": 12,
+      "timezone": "America/Managua",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bluefields_Airport"
+    },
+    {
+      "iata_code": "BZA",
+      "icao_code": "MNBZ",
+      "name": "San Pedro Airport",
+      "city_name_list": "Bonanza",
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "continent_name": "North America",
+      "adm1_name_ascii": "North Caribbean Coast",
+      "latitude": 13.95,
+      "longitude": -84.6,
+      "elevation": "",
+      "timezone": "America/Managua",
+      "wiki_link": "https://en.wikipedia.org/wiki/San_Pedro_Airport_%28Nicaragua%29"
+    },
+    {
+      "iata_code": "ECI",
+      "icao_code": "MNCE",
+      "name": "Emerald Coast Airport",
+      "city_name_list": "Rivas",
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Rivas Department",
+      "latitude": 11.4314,
+      "longitude": -86.03072,
+      "elevation": "",
+      "timezone": "America/Managua",
+      "wiki_link": "https://en.wikipedia.org/wiki/Costa_Esmeralda_Airport"
+    },
+    {
+      "iata_code": "MGA",
+      "icao_code": "MNMG",
+      "name": "Augusto César Sandino International Airport",
+      "city_name_list": "Managua",
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Managua Department",
+      "latitude": 12.14149,
+      "longitude": -86.16818,
+      "elevation": 59,
+      "timezone": "America/Managua",
+      "wiki_link": "https://en.wikipedia.org/wiki/Augusto_C._Sandino_International_Airport"
+    },
+    {
+      "iata_code": "NCR",
+      "icao_code": "MNSC",
+      "name": "San Carlos",
+      "city_name_list": "San Carlos",
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Rio San Juan Department",
+      "latitude": 8.483,
+      "longitude": -79.95,
+      "elevation": "",
+      "timezone": "America/Managua",
+      "wiki_link": "https://en.wikipedia.org/wiki/San_Carlos_Airport_%28Nicaragua%29"
+    },
+    {
+      "iata_code": "NVG",
+      "icao_code": "MNNG",
+      "name": "Nueva Guinea Airport",
+      "city_name_list": "Nueva Guinea",
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "continent_name": "North America",
+      "adm1_name_ascii": "South Caribbean Coast",
+      "latitude": 11.67,
+      "longitude": -84.45,
+      "elevation": "",
+      "timezone": "America/Managua",
+      "wiki_link": "https://en.wikipedia.org/wiki/Nueva_Guinea_Airport"
+    },
+    {
+      "iata_code": "PUZ",
+      "icao_code": "MNPC",
+      "name": "Bilwi Airport",
+      "city_name_list": "Puerto Cabezas",
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "continent_name": "North America",
+      "adm1_name_ascii": "North Caribbean Coast",
+      "latitude": 14.047194,
+      "longitude": -83.386722,
+      "elevation": 21,
+      "timezone": "America/Managua",
+      "wiki_link": "https://en.wikipedia.org/wiki/Puerto_Cabezas_Airport"
+    },
+    {
+      "iata_code": "RFS",
+      "icao_code": "MNRT",
+      "name": "Rosita Airport",
+      "city_name_list": "Rosita",
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "continent_name": "North America",
+      "adm1_name_ascii": "North Caribbean Coast",
+      "latitude": 13.8897,
+      "longitude": -84.4089,
+      "elevation": "",
+      "timezone": "America/Managua",
+      "wiki_link": "https://en.wikipedia.org/wiki/Rosita_Airport"
+    },
+    {
+      "iata_code": "RNI",
+      "icao_code": "MNCI",
+      "name": "Corn Island Airport",
+      "city_name_list": "South End",
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 12.08,
+      "longitude": -83.07,
+      "elevation": "",
+      "timezone": "America/Managua",
+      "wiki_link": "https://en.wikipedia.org/wiki/Corn_Island_Airport"
+    },
+    {
+      "iata_code": "SIU",
+      "icao_code": "MNSI",
+      "name": "Siuna",
+      "city_name_list": "Siuna",
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "continent_name": "North America",
+      "adm1_name_ascii": "North Caribbean Coast",
+      "latitude": 13.58,
+      "longitude": -84.37,
+      "elevation": "",
+      "timezone": "America/Managua",
+      "wiki_link": "https://en.wikipedia.org/wiki/Siuna_Airport"
+    },
+    {
+      "iata_code": "WSP",
+      "icao_code": "MNWP",
+      "name": "Waspam Airport",
+      "city_name_list": "Waspán",
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "continent_name": "North America",
+      "adm1_name_ascii": "North Caribbean Coast",
+      "latitude": 14.58,
+      "longitude": -84.08,
+      "elevation": "",
+      "timezone": "America/Managua",
+      "wiki_link": "https://en.wikipedia.org/wiki/Waspam_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Nicaragua — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Nicaragua: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nicaragua — IATA Airports | ListBase",
+    "seo_description": "Download Nicaragua — IATA Airports dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

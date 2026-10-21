@@ -1,0 +1,3016 @@
+{
+  "id": "us-house-prices-timeseries",
+  "name": "United States — House Prices Timeseries (Case-Shiller)",
+  "title": "United States — House Prices Timeseries (Case-Shiller)",
+  "description": "Monthly S&P/Case-Shiller National Home Price Index for the United States (1975–present). 'national_us_index' is the raw index; 'national_us_sa_index' is seasonally adjusted.",
+  "category": "economy",
+  "source": "https://github.com/datasets/house-prices-us",
+  "source_url": "https://github.com/datasets/house-prices-us",
+  "updated": "2026-04",
+  "record_count": 595,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "national_us_index",
+      "label": "National Us Index",
+      "type": "number"
+    },
+    {
+      "key": "national_us_sa_index",
+      "label": "National Us Sa Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "date": "1975-01-01",
+      "national_us_index": 25.34,
+      "national_us_sa_index": 25.25
+    },
+    {
+      "date": "1975-02-01",
+      "national_us_index": 25.4,
+      "national_us_sa_index": 25.29
+    },
+    {
+      "date": "1975-03-01",
+      "national_us_index": 25.42,
+      "national_us_sa_index": 25.36
+    },
+    {
+      "date": "1975-04-01",
+      "national_us_index": 25.39,
+      "national_us_sa_index": 25.4
+    },
+    {
+      "date": "1975-05-01",
+      "national_us_index": 25.4,
+      "national_us_sa_index": 25.48
+    },
+    {
+      "date": "1975-06-01",
+      "national_us_index": 25.43,
+      "national_us_sa_index": 25.47
+    },
+    {
+      "date": "1975-07-01",
+      "national_us_index": 25.55,
+      "national_us_sa_index": 25.6
+    },
+    {
+      "date": "1975-08-01",
+      "national_us_index": 25.73,
+      "national_us_sa_index": 25.76
+    },
+    {
+      "date": "1975-09-01",
+      "national_us_index": 25.97,
+      "national_us_sa_index": 26.03
+    },
+    {
+      "date": "1975-10-01",
+      "national_us_index": 26.2,
+      "national_us_sa_index": 26.23
+    },
+    {
+      "date": "1975-11-01",
+      "national_us_index": 26.43,
+      "national_us_sa_index": 26.42
+    },
+    {
+      "date": "1975-12-01",
+      "national_us_index": 26.54,
+      "national_us_sa_index": 26.49
+    },
+    {
+      "date": "1976-01-01",
+      "national_us_index": 26.67,
+      "national_us_sa_index": 26.58
+    },
+    {
+      "date": "1976-02-01",
+      "national_us_index": 26.73,
+      "national_us_sa_index": 26.62
+    },
+    {
+      "date": "1976-03-01",
+      "national_us_index": 26.91,
+      "national_us_sa_index": 26.85
+    },
+    {
+      "date": "1976-04-01",
+      "national_us_index": 27.1,
+      "national_us_sa_index": 27.11
+    },
+    {
+      "date": "1976-05-01",
+      "national_us_index": 27.35,
+      "national_us_sa_index": 27.44
+    },
+    {
+      "date": "1976-06-01",
+      "national_us_index": 27.48,
+      "national_us_sa_index": 27.52
+    },
+    {
+      "date": "1976-07-01",
+      "national_us_index": 27.7,
+      "national_us_sa_index": 27.76
+    },
+    {
+      "date": "1976-08-01",
+      "national_us_index": 27.89,
+      "national_us_sa_index": 27.94
+    },
+    {
+      "date": "1976-09-01",
+      "national_us_index": 28.07,
+      "national_us_sa_index": 28.14
+    },
+    {
+      "date": "1976-10-01",
+      "national_us_index": 28.2,
+      "national_us_sa_index": 28.24
+    },
+    {
+      "date": "1976-11-01",
+      "national_us_index": 28.41,
+      "national_us_sa_index": 28.4
+    },
+    {
+      "date": "1976-12-01",
+      "national_us_index": 28.7,
+      "national_us_sa_index": 28.64
+    },
+    {
+      "date": "1977-01-01",
+      "national_us_index": 28.98,
+      "national_us_sa_index": 28.88
+    },
+    {
+      "date": "1977-02-01",
+      "national_us_index": 29.34,
+      "national_us_sa_index": 29.21
+    },
+    {
+      "date": "1977-03-01",
+      "national_us_index": 29.7,
+      "national_us_sa_index": 29.63
+    },
+    {
+      "date": "1977-04-01",
+      "national_us_index": 30.16,
+      "national_us_sa_index": 30.16
+    },
+    {
+      "date": "1977-05-01",
+      "national_us_index": 30.45,
+      "national_us_sa_index": 30.53
+    },
+    {
+      "date": "1977-06-01",
+      "national_us_index": 30.7,
+      "national_us_sa_index": 30.76
+    },
+    {
+      "date": "1977-07-01",
+      "national_us_index": 31,
+      "national_us_sa_index": 31.08
+    },
+    {
+      "date": "1977-08-01",
+      "national_us_index": 31.33,
+      "national_us_sa_index": 31.39
+    },
+    {
+      "date": "1977-09-01",
+      "national_us_index": 31.73,
+      "national_us_sa_index": 31.8
+    },
+    {
+      "date": "1977-10-01",
+      "national_us_index": 32.17,
+      "national_us_sa_index": 32.2
+    },
+    {
+      "date": "1977-11-01",
+      "national_us_index": 32.55,
+      "national_us_sa_index": 32.53
+    },
+    {
+      "date": "1977-12-01",
+      "national_us_index": 32.89,
+      "national_us_sa_index": 32.82
+    },
+    {
+      "date": "1978-01-01",
+      "national_us_index": 33.26,
+      "national_us_sa_index": 33.15
+    },
+    {
+      "date": "1978-02-01",
+      "national_us_index": 33.65,
+      "national_us_sa_index": 33.51
+    },
+    {
+      "date": "1978-03-01",
+      "national_us_index": 34.06,
+      "national_us_sa_index": 33.98
+    },
+    {
+      "date": "1978-04-01",
+      "national_us_index": 34.43,
+      "national_us_sa_index": 34.43
+    },
+    {
+      "date": "1978-05-01",
+      "national_us_index": 34.83,
+      "national_us_sa_index": 34.91
+    },
+    {
+      "date": "1978-06-01",
+      "national_us_index": 35.36,
+      "national_us_sa_index": 35.43
+    },
+    {
+      "date": "1978-07-01",
+      "national_us_index": 35.84,
+      "national_us_sa_index": 35.93
+    },
+    {
+      "date": "1978-08-01",
+      "national_us_index": 36.32,
+      "national_us_sa_index": 36.41
+    },
+    {
+      "date": "1978-09-01",
+      "national_us_index": 36.71,
+      "national_us_sa_index": 36.79
+    },
+    {
+      "date": "1978-10-01",
+      "national_us_index": 37.11,
+      "national_us_sa_index": 37.15
+    },
+    {
+      "date": "1978-11-01",
+      "national_us_index": 37.56,
+      "national_us_sa_index": 37.54
+    },
+    {
+      "date": "1978-12-01",
+      "national_us_index": 38.07,
+      "national_us_sa_index": 37.99
+    },
+    {
+      "date": "1979-01-01",
+      "national_us_index": 38.63,
+      "national_us_sa_index": 38.5
+    },
+    {
+      "date": "1979-02-01",
+      "national_us_index": 39.14,
+      "national_us_sa_index": 38.98
+    },
+    {
+      "date": "1979-03-01",
+      "national_us_index": 39.6,
+      "national_us_sa_index": 39.5
+    },
+    {
+      "date": "1979-04-01",
+      "national_us_index": 40.02,
+      "national_us_sa_index": 40.01
+    },
+    {
+      "date": "1979-05-01",
+      "national_us_index": 40.46,
+      "national_us_sa_index": 40.53
+    },
+    {
+      "date": "1979-06-01",
+      "national_us_index": 40.96,
+      "national_us_sa_index": 41.05
+    },
+    {
+      "date": "1979-07-01",
+      "national_us_index": 41.39,
+      "national_us_sa_index": 41.51
+    },
+    {
+      "date": "1979-08-01",
+      "national_us_index": 41.8,
+      "national_us_sa_index": 41.93
+    },
+    {
+      "date": "1979-09-01",
+      "national_us_index": 42.19,
+      "national_us_sa_index": 42.28
+    },
+    {
+      "date": "1979-10-01",
+      "national_us_index": 42.6,
+      "national_us_sa_index": 42.64
+    },
+    {
+      "date": "1979-11-01",
+      "national_us_index": 42.98,
+      "national_us_sa_index": 42.95
+    },
+    {
+      "date": "1979-12-01",
+      "national_us_index": 43.3,
+      "national_us_sa_index": 43.21
+    },
+    {
+      "date": "1980-01-01",
+      "national_us_index": 43.58,
+      "national_us_sa_index": 43.43
+    },
+    {
+      "date": "1980-02-01",
+      "national_us_index": 43.86,
+      "national_us_sa_index": 43.69
+    },
+    {
+      "date": "1980-03-01",
+      "national_us_index": 44.18,
+      "national_us_sa_index": 44.06
+    },
+    {
+      "date": "1980-04-01",
+      "national_us_index": 44.49,
+      "national_us_sa_index": 44.47
+    },
+    {
+      "date": "1980-05-01",
+      "national_us_index": 44.72,
+      "national_us_sa_index": 44.78
+    },
+    {
+      "date": "1980-06-01",
+      "national_us_index": 44.95,
+      "national_us_sa_index": 45.06
+    },
+    {
+      "date": "1980-07-01",
+      "national_us_index": 45.23,
+      "national_us_sa_index": 45.37
+    },
+    {
+      "date": "1980-08-01",
+      "national_us_index": 45.49,
+      "national_us_sa_index": 45.64
+    },
+    {
+      "date": "1980-09-01",
+      "national_us_index": 45.76,
+      "national_us_sa_index": 45.86
+    },
+    {
+      "date": "1980-10-01",
+      "national_us_index": 46,
+      "national_us_sa_index": 46.05
+    },
+    {
+      "date": "1980-11-01",
+      "national_us_index": 46.27,
+      "national_us_sa_index": 46.23
+    },
+    {
+      "date": "1980-12-01",
+      "national_us_index": 46.51,
+      "national_us_sa_index": 46.42
+    },
+    {
+      "date": "1981-01-01",
+      "national_us_index": 46.71,
+      "national_us_sa_index": 46.56
+    },
+    {
+      "date": "1981-02-01",
+      "national_us_index": 46.93,
+      "national_us_sa_index": 46.75
+    },
+    {
+      "date": "1981-03-01",
+      "national_us_index": 47.15,
+      "national_us_sa_index": 47.02
+    },
+    {
+      "date": "1981-04-01",
+      "national_us_index": 47.46,
+      "national_us_sa_index": 47.44
+    },
+    {
+      "date": "1981-05-01",
+      "national_us_index": 47.72,
+      "national_us_sa_index": 47.77
+    },
+    {
+      "date": "1981-06-01",
+      "national_us_index": 47.98,
+      "national_us_sa_index": 48.08
+    },
+    {
+      "date": "1981-07-01",
+      "national_us_index": 48.18,
+      "national_us_sa_index": 48.33
+    },
+    {
+      "date": "1981-08-01",
+      "national_us_index": 48.41,
+      "national_us_sa_index": 48.58
+    },
+    {
+      "date": "1981-09-01",
+      "national_us_index": 48.55,
+      "national_us_sa_index": 48.67
+    },
+    {
+      "date": "1981-10-01",
+      "national_us_index": 48.69,
+      "national_us_sa_index": 48.74
+    },
+    {
+      "date": "1981-11-01",
+      "national_us_index": 48.79,
+      "national_us_sa_index": 48.74
+    },
+    {
+      "date": "1981-12-01",
+      "national_us_index": 48.88,
+      "national_us_sa_index": 48.78
+    },
+    {
+      "date": "1982-01-01",
+      "national_us_index": 48.96,
+      "national_us_sa_index": 48.81
+    },
+    {
+      "date": "1982-02-01",
+      "national_us_index": 49.07,
+      "national_us_sa_index": 48.89
+    },
+    {
+      "date": "1982-03-01",
+      "national_us_index": 49,
+      "national_us_sa_index": 48.86
+    },
+    {
+      "date": "1982-04-01",
+      "national_us_index": 48.96,
+      "national_us_sa_index": 48.93
+    },
+    {
+      "date": "1982-05-01",
+      "national_us_index": 48.95,
+      "national_us_sa_index": 49
+    },
+    {
+      "date": "1982-06-01",
+      "national_us_index": 48.89,
+      "national_us_sa_index": 49
+    },
+    {
+      "date": "1982-07-01",
+      "national_us_index": 48.83,
+      "national_us_sa_index": 48.98
+    },
+    {
+      "date": "1982-08-01",
+      "national_us_index": 48.78,
+      "national_us_sa_index": 48.96
+    },
+    {
+      "date": "1982-09-01",
+      "national_us_index": 48.85,
+      "national_us_sa_index": 48.98
+    },
+    {
+      "date": "1982-10-01",
+      "national_us_index": 48.93,
+      "national_us_sa_index": 48.98
+    },
+    {
+      "date": "1982-11-01",
+      "national_us_index": 49.03,
+      "national_us_sa_index": 48.99
+    },
+    {
+      "date": "1982-12-01",
+      "national_us_index": 49.18,
+      "national_us_sa_index": 49.07
+    },
+    {
+      "date": "1983-01-01",
+      "national_us_index": 49.39,
+      "national_us_sa_index": 49.23
+    },
+    {
+      "date": "1983-02-01",
+      "national_us_index": 49.67,
+      "national_us_sa_index": 49.49
+    },
+    {
+      "date": "1983-03-01",
+      "national_us_index": 49.83,
+      "national_us_sa_index": 49.69
+    },
+    {
+      "date": "1983-04-01",
+      "national_us_index": 50,
+      "national_us_sa_index": 49.95
+    },
+    {
+      "date": "1983-05-01",
+      "national_us_index": 50.16,
+      "national_us_sa_index": 50.2
+    },
+    {
+      "date": "1983-06-01",
+      "national_us_index": 50.34,
+      "national_us_sa_index": 50.44
+    },
+    {
+      "date": "1983-07-01",
+      "national_us_index": 50.57,
+      "national_us_sa_index": 50.73
+    },
+    {
+      "date": "1983-08-01",
+      "national_us_index": 50.76,
+      "national_us_sa_index": 50.96
+    },
+    {
+      "date": "1983-09-01",
+      "national_us_index": 50.94,
+      "national_us_sa_index": 51.09
+    },
+    {
+      "date": "1983-10-01",
+      "national_us_index": 51.11,
+      "national_us_sa_index": 51.18
+    },
+    {
+      "date": "1983-11-01",
+      "national_us_index": 51.3,
+      "national_us_sa_index": 51.25
+    },
+    {
+      "date": "1983-12-01",
+      "national_us_index": 51.5,
+      "national_us_sa_index": 51.39
+    },
+    {
+      "date": "1984-01-01",
+      "national_us_index": 51.7,
+      "national_us_sa_index": 51.54
+    },
+    {
+      "date": "1984-02-01",
+      "national_us_index": 51.9,
+      "national_us_sa_index": 51.71
+    },
+    {
+      "date": "1984-03-01",
+      "national_us_index": 52.11,
+      "national_us_sa_index": 51.94
+    },
+    {
+      "date": "1984-04-01",
+      "national_us_index": 52.31,
+      "national_us_sa_index": 52.23
+    },
+    {
+      "date": "1984-05-01",
+      "national_us_index": 52.54,
+      "national_us_sa_index": 52.56
+    },
+    {
+      "date": "1984-06-01",
+      "national_us_index": 52.76,
+      "national_us_sa_index": 52.86
+    },
+    {
+      "date": "1984-07-01",
+      "national_us_index": 52.98,
+      "national_us_sa_index": 53.16
+    },
+    {
+      "date": "1984-08-01",
+      "national_us_index": 53.19,
+      "national_us_sa_index": 53.41
+    },
+    {
+      "date": "1984-09-01",
+      "national_us_index": 53.39,
+      "national_us_sa_index": 53.57
+    },
+    {
+      "date": "1984-10-01",
+      "national_us_index": 53.58,
+      "national_us_sa_index": 53.67
+    },
+    {
+      "date": "1984-11-01",
+      "national_us_index": 53.72,
+      "national_us_sa_index": 53.68
+    },
+    {
+      "date": "1984-12-01",
+      "national_us_index": 53.91,
+      "national_us_sa_index": 53.79
+    },
+    {
+      "date": "1985-01-01",
+      "national_us_index": 54.15,
+      "national_us_sa_index": 53.97
+    },
+    {
+      "date": "1985-02-01",
+      "national_us_index": 54.43,
+      "national_us_sa_index": 54.22
+    },
+    {
+      "date": "1985-03-01",
+      "national_us_index": 54.72,
+      "national_us_sa_index": 54.53
+    },
+    {
+      "date": "1985-04-01",
+      "national_us_index": 55,
+      "national_us_sa_index": 54.9
+    },
+    {
+      "date": "1985-05-01",
+      "national_us_index": 55.31,
+      "national_us_sa_index": 55.32
+    },
+    {
+      "date": "1985-06-01",
+      "national_us_index": 55.61,
+      "national_us_sa_index": 55.72
+    },
+    {
+      "date": "1985-07-01",
+      "national_us_index": 55.92,
+      "national_us_sa_index": 56.12
+    },
+    {
+      "date": "1985-08-01",
+      "national_us_index": 56.26,
+      "national_us_sa_index": 56.51
+    },
+    {
+      "date": "1985-09-01",
+      "national_us_index": 56.66,
+      "national_us_sa_index": 56.87
+    },
+    {
+      "date": "1985-10-01",
+      "national_us_index": 57.08,
+      "national_us_sa_index": 57.19
+    },
+    {
+      "date": "1985-11-01",
+      "national_us_index": 57.54,
+      "national_us_sa_index": 57.51
+    },
+    {
+      "date": "1985-12-01",
+      "national_us_index": 57.94,
+      "national_us_sa_index": 57.81
+    },
+    {
+      "date": "1986-01-01",
+      "national_us_index": 58.36,
+      "national_us_sa_index": 58.16
+    },
+    {
+      "date": "1986-02-01",
+      "national_us_index": 58.75,
+      "national_us_sa_index": 58.5
+    },
+    {
+      "date": "1986-03-01",
+      "national_us_index": 59.17,
+      "national_us_sa_index": 58.94
+    },
+    {
+      "date": "1986-04-01",
+      "national_us_index": 59.62,
+      "national_us_sa_index": 59.49
+    },
+    {
+      "date": "1986-05-01",
+      "national_us_index": 60.06,
+      "national_us_sa_index": 60.05
+    },
+    {
+      "date": "1986-06-01",
+      "national_us_index": 60.53,
+      "national_us_sa_index": 60.65
+    },
+    {
+      "date": "1986-07-01",
+      "national_us_index": 61.02,
+      "national_us_sa_index": 61.25
+    },
+    {
+      "date": "1986-08-01",
+      "national_us_index": 61.5,
+      "national_us_sa_index": 61.78
+    },
+    {
+      "date": "1986-09-01",
+      "national_us_index": 61.99,
+      "national_us_sa_index": 62.24
+    },
+    {
+      "date": "1986-10-01",
+      "national_us_index": 62.45,
+      "national_us_sa_index": 62.59
+    },
+    {
+      "date": "1986-11-01",
+      "national_us_index": 62.92,
+      "national_us_sa_index": 62.9
+    },
+    {
+      "date": "1986-12-01",
+      "national_us_index": 63.51,
+      "national_us_sa_index": 63.37
+    },
+    {
+      "date": "1987-01-01",
+      "national_us_index": 63.964,
+      "national_us_sa_index": 63.734
+    },
+    {
+      "date": "1987-02-01",
+      "national_us_index": 64.422,
+      "national_us_sa_index": 64.133
+    },
+    {
+      "date": "1987-03-01",
+      "national_us_index": 64.734,
+      "national_us_sa_index": 64.468
+    },
+    {
+      "date": "1987-04-01",
+      "national_us_index": 65.129,
+      "national_us_sa_index": 64.971
+    },
+    {
+      "date": "1987-05-01",
+      "national_us_index": 65.562,
+      "national_us_sa_index": 65.545
+    },
+    {
+      "date": "1987-06-01",
+      "national_us_index": 66.07,
+      "national_us_sa_index": 66.217
+    },
+    {
+      "date": "1987-07-01",
+      "national_us_index": 66.507,
+      "national_us_sa_index": 66.785
+    },
+    {
+      "date": "1987-08-01",
+      "national_us_index": 66.937,
+      "national_us_sa_index": 67.269
+    },
+    {
+      "date": "1987-09-01",
+      "national_us_index": 67.33,
+      "national_us_sa_index": 67.623
+    },
+    {
+      "date": "1987-10-01",
+      "national_us_index": 67.737,
+      "national_us_sa_index": 67.901
+    },
+    {
+      "date": "1987-11-01",
+      "national_us_index": 68.105,
+      "national_us_sa_index": 68.091
+    },
+    {
+      "date": "1987-12-01",
+      "national_us_index": 68.504,
+      "national_us_sa_index": 68.342
+    },
+    {
+      "date": "1988-01-01",
+      "national_us_index": 68.856,
+      "national_us_sa_index": 68.581
+    },
+    {
+      "date": "1988-02-01",
+      "national_us_index": 69.261,
+      "national_us_sa_index": 68.914
+    },
+    {
+      "date": "1988-03-01",
+      "national_us_index": 69.637,
+      "national_us_sa_index": 69.322
+    },
+    {
+      "date": "1988-04-01",
+      "national_us_index": 69.974,
+      "national_us_sa_index": 69.787
+    },
+    {
+      "date": "1988-05-01",
+      "national_us_index": 70.426,
+      "national_us_sa_index": 70.408
+    },
+    {
+      "date": "1988-06-01",
+      "national_us_index": 70.888,
+      "national_us_sa_index": 71.067
+    },
+    {
+      "date": "1988-07-01",
+      "national_us_index": 71.354,
+      "national_us_sa_index": 71.685
+    },
+    {
+      "date": "1988-08-01",
+      "national_us_index": 71.799,
+      "national_us_sa_index": 72.185
+    },
+    {
+      "date": "1988-09-01",
+      "national_us_index": 72.24,
+      "national_us_sa_index": 72.574
+    },
+    {
+      "date": "1988-10-01",
+      "national_us_index": 72.635,
+      "national_us_sa_index": 72.822
+    },
+    {
+      "date": "1988-11-01",
+      "national_us_index": 73.071,
+      "national_us_sa_index": 73.064
+    },
+    {
+      "date": "1988-12-01",
+      "national_us_index": 73.464,
+      "national_us_sa_index": 73.278
+    },
+    {
+      "date": "1989-01-01",
+      "national_us_index": 73.946,
+      "national_us_sa_index": 73.617
+    },
+    {
+      "date": "1989-02-01",
+      "national_us_index": 74.382,
+      "national_us_sa_index": 73.968
+    },
+    {
+      "date": "1989-03-01",
+      "national_us_index": 74.778,
+      "national_us_sa_index": 74.41
+    },
+    {
+      "date": "1989-04-01",
+      "national_us_index": 75.084,
+      "national_us_sa_index": 74.867
+    },
+    {
+      "date": "1989-05-01",
+      "national_us_index": 75.305,
+      "national_us_sa_index": 75.295
+    },
+    {
+      "date": "1989-06-01",
+      "national_us_index": 75.478,
+      "national_us_sa_index": 75.695
+    },
+    {
+      "date": "1989-07-01",
+      "national_us_index": 75.655,
+      "national_us_sa_index": 76.04
+    },
+    {
+      "date": "1989-08-01",
+      "national_us_index": 75.833,
+      "national_us_sa_index": 76.271
+    },
+    {
+      "date": "1989-09-01",
+      "national_us_index": 76.055,
+      "national_us_sa_index": 76.421
+    },
+    {
+      "date": "1989-10-01",
+      "national_us_index": 76.282,
+      "national_us_sa_index": 76.488
+    },
+    {
+      "date": "1989-11-01",
+      "national_us_index": 76.52,
+      "national_us_sa_index": 76.521
+    },
+    {
+      "date": "1989-12-01",
+      "national_us_index": 76.704,
+      "national_us_sa_index": 76.498
+    },
+    {
+      "date": "1990-01-01",
+      "national_us_index": 76.897,
+      "national_us_sa_index": 76.527
+    },
+    {
+      "date": "1990-02-01",
+      "national_us_index": 77.053,
+      "national_us_sa_index": 76.587
+    },
+    {
+      "date": "1990-03-01",
+      "national_us_index": 77.201,
+      "national_us_sa_index": 76.79
+    },
+    {
+      "date": "1990-04-01",
+      "national_us_index": 77.278,
+      "national_us_sa_index": 77.038
+    },
+    {
+      "date": "1990-05-01",
+      "national_us_index": 77.297,
+      "national_us_sa_index": 77.296
+    },
+    {
+      "date": "1990-06-01",
+      "national_us_index": 77.258,
+      "national_us_sa_index": 77.504
+    },
+    {
+      "date": "1990-07-01",
+      "national_us_index": 77.139,
+      "national_us_sa_index": 77.56
+    },
+    {
+      "date": "1990-08-01",
+      "national_us_index": 77.009,
+      "national_us_sa_index": 77.479
+    },
+    {
+      "date": "1990-09-01",
+      "national_us_index": 76.849,
+      "national_us_sa_index": 77.228
+    },
+    {
+      "date": "1990-10-01",
+      "national_us_index": 76.699,
+      "national_us_sa_index": 76.912
+    },
+    {
+      "date": "1990-11-01",
+      "national_us_index": 76.37,
+      "national_us_sa_index": 76.381
+    },
+    {
+      "date": "1990-12-01",
+      "national_us_index": 76.184,
+      "national_us_sa_index": 75.972
+    },
+    {
+      "date": "1991-01-01",
+      "national_us_index": 75.915,
+      "national_us_sa_index": 75.533
+    },
+    {
+      "date": "1991-02-01",
+      "national_us_index": 75.733,
+      "national_us_sa_index": 75.248
+    },
+    {
+      "date": "1991-03-01",
+      "national_us_index": 75.569,
+      "national_us_sa_index": 75.136
+    },
+    {
+      "date": "1991-04-01",
+      "national_us_index": 75.565,
+      "national_us_sa_index": 75.315
+    },
+    {
+      "date": "1991-05-01",
+      "national_us_index": 75.764,
+      "national_us_sa_index": 75.767
+    },
+    {
+      "date": "1991-06-01",
+      "national_us_index": 75.991,
+      "national_us_sa_index": 76.251
+    },
+    {
+      "date": "1991-07-01",
+      "national_us_index": 76.081,
+      "national_us_sa_index": 76.516
+    },
+    {
+      "date": "1991-08-01",
+      "national_us_index": 76.108,
+      "national_us_sa_index": 76.593
+    },
+    {
+      "date": "1991-09-01",
+      "national_us_index": 76.192,
+      "national_us_sa_index": 76.574
+    },
+    {
+      "date": "1991-10-01",
+      "national_us_index": 76.074,
+      "national_us_sa_index": 76.29
+    },
+    {
+      "date": "1991-11-01",
+      "national_us_index": 76.013,
+      "national_us_sa_index": 76.03
+    },
+    {
+      "date": "1991-12-01",
+      "national_us_index": 76.056,
+      "national_us_sa_index": 75.844
+    },
+    {
+      "date": "1992-01-01",
+      "national_us_index": 76.086,
+      "national_us_sa_index": 75.699
+    },
+    {
+      "date": "1992-02-01",
+      "national_us_index": 76.155,
+      "national_us_sa_index": 75.654
+    },
+    {
+      "date": "1992-03-01",
+      "national_us_index": 76.276,
+      "national_us_sa_index": 75.813
+    },
+    {
+      "date": "1992-04-01",
+      "national_us_index": 76.345,
+      "national_us_sa_index": 76.079
+    },
+    {
+      "date": "1992-05-01",
+      "national_us_index": 76.398,
+      "national_us_sa_index": 76.397
+    },
+    {
+      "date": "1992-06-01",
+      "national_us_index": 76.332,
+      "national_us_sa_index": 76.601
+    },
+    {
+      "date": "1992-07-01",
+      "national_us_index": 76.263,
+      "national_us_sa_index": 76.71
+    },
+    {
+      "date": "1992-08-01",
+      "national_us_index": 76.23,
+      "national_us_sa_index": 76.731
+    },
+    {
+      "date": "1992-09-01",
+      "national_us_index": 76.238,
+      "national_us_sa_index": 76.627
+    },
+    {
+      "date": "1992-10-01",
+      "national_us_index": 76.375,
+      "national_us_sa_index": 76.597
+    },
+    {
+      "date": "1992-11-01",
+      "national_us_index": 76.558,
+      "national_us_sa_index": 76.578
+    },
+    {
+      "date": "1992-12-01",
+      "national_us_index": 76.674,
+      "national_us_sa_index": 76.464
+    },
+    {
+      "date": "1993-01-01",
+      "national_us_index": 76.784,
+      "national_us_sa_index": 76.395
+    },
+    {
+      "date": "1993-02-01",
+      "national_us_index": 76.837,
+      "national_us_sa_index": 76.327
+    },
+    {
+      "date": "1993-03-01",
+      "national_us_index": 76.867,
+      "national_us_sa_index": 76.382
+    },
+    {
+      "date": "1993-04-01",
+      "national_us_index": 76.936,
+      "national_us_sa_index": 76.66
+    },
+    {
+      "date": "1993-05-01",
+      "national_us_index": 77.036,
+      "national_us_sa_index": 77.029
+    },
+    {
+      "date": "1993-06-01",
+      "national_us_index": 77.242,
+      "national_us_sa_index": 77.515
+    },
+    {
+      "date": "1993-07-01",
+      "national_us_index": 77.429,
+      "national_us_sa_index": 77.884
+    },
+    {
+      "date": "1993-08-01",
+      "national_us_index": 77.612,
+      "national_us_sa_index": 78.13
+    },
+    {
+      "date": "1993-09-01",
+      "national_us_index": 77.794,
+      "national_us_sa_index": 78.197
+    },
+    {
+      "date": "1993-10-01",
+      "national_us_index": 77.941,
+      "national_us_sa_index": 78.171
+    },
+    {
+      "date": "1993-11-01",
+      "national_us_index": 78.148,
+      "national_us_sa_index": 78.169
+    },
+    {
+      "date": "1993-12-01",
+      "national_us_index": 78.325,
+      "national_us_sa_index": 78.113
+    },
+    {
+      "date": "1994-01-01",
+      "national_us_index": 78.591,
+      "national_us_sa_index": 78.198
+    },
+    {
+      "date": "1994-02-01",
+      "national_us_index": 78.727,
+      "national_us_sa_index": 78.204
+    },
+    {
+      "date": "1994-03-01",
+      "national_us_index": 78.855,
+      "national_us_sa_index": 78.348
+    },
+    {
+      "date": "1994-04-01",
+      "national_us_index": 78.987,
+      "national_us_sa_index": 78.7
+    },
+    {
+      "date": "1994-05-01",
+      "national_us_index": 79.221,
+      "national_us_sa_index": 79.207
+    },
+    {
+      "date": "1994-06-01",
+      "national_us_index": 79.421,
+      "national_us_sa_index": 79.699
+    },
+    {
+      "date": "1994-07-01",
+      "national_us_index": 79.593,
+      "national_us_sa_index": 80.061
+    },
+    {
+      "date": "1994-08-01",
+      "national_us_index": 79.78,
+      "national_us_sa_index": 80.315
+    },
+    {
+      "date": "1994-09-01",
+      "national_us_index": 79.918,
+      "national_us_sa_index": 80.339
+    },
+    {
+      "date": "1994-10-01",
+      "national_us_index": 80.065,
+      "national_us_sa_index": 80.304
+    },
+    {
+      "date": "1994-11-01",
+      "national_us_index": 80.149,
+      "national_us_sa_index": 80.169
+    },
+    {
+      "date": "1994-12-01",
+      "national_us_index": 80.296,
+      "national_us_sa_index": 80.078
+    },
+    {
+      "date": "1995-01-01",
+      "national_us_index": 80.426,
+      "national_us_sa_index": 80.026
+    },
+    {
+      "date": "1995-02-01",
+      "national_us_index": 80.527,
+      "national_us_sa_index": 79.991
+    },
+    {
+      "date": "1995-03-01",
+      "national_us_index": 80.597,
+      "national_us_sa_index": 80.077
+    },
+    {
+      "date": "1995-04-01",
+      "national_us_index": 80.66,
+      "national_us_sa_index": 80.368
+    },
+    {
+      "date": "1995-05-01",
+      "national_us_index": 80.703,
+      "national_us_sa_index": 80.69
+    },
+    {
+      "date": "1995-06-01",
+      "national_us_index": 80.783,
+      "national_us_sa_index": 81.067
+    },
+    {
+      "date": "1995-07-01",
+      "national_us_index": 80.936,
+      "national_us_sa_index": 81.411
+    },
+    {
+      "date": "1995-08-01",
+      "national_us_index": 81.109,
+      "national_us_sa_index": 81.654
+    },
+    {
+      "date": "1995-09-01",
+      "national_us_index": 81.306,
+      "national_us_sa_index": 81.738
+    },
+    {
+      "date": "1995-10-01",
+      "national_us_index": 81.481,
+      "national_us_sa_index": 81.726
+    },
+    {
+      "date": "1995-11-01",
+      "national_us_index": 81.618,
+      "national_us_sa_index": 81.63
+    },
+    {
+      "date": "1995-12-01",
+      "national_us_index": 81.735,
+      "national_us_sa_index": 81.512
+    },
+    {
+      "date": "1996-01-01",
+      "national_us_index": 81.833,
+      "national_us_sa_index": 81.426
+    },
+    {
+      "date": "1996-02-01",
+      "national_us_index": 81.953,
+      "national_us_sa_index": 81.399
+    },
+    {
+      "date": "1996-03-01",
+      "national_us_index": 82.194,
+      "national_us_sa_index": 81.665
+    },
+    {
+      "date": "1996-04-01",
+      "national_us_index": 82.42,
+      "national_us_sa_index": 82.124
+    },
+    {
+      "date": "1996-05-01",
+      "national_us_index": 82.609,
+      "national_us_sa_index": 82.601
+    },
+    {
+      "date": "1996-06-01",
+      "national_us_index": 82.751,
+      "national_us_sa_index": 83.048
+    },
+    {
+      "date": "1996-07-01",
+      "national_us_index": 82.928,
+      "national_us_sa_index": 83.418
+    },
+    {
+      "date": "1996-08-01",
+      "national_us_index": 83.085,
+      "national_us_sa_index": 83.644
+    },
+    {
+      "date": "1996-09-01",
+      "national_us_index": 83.255,
+      "national_us_sa_index": 83.701
+    },
+    {
+      "date": "1996-10-01",
+      "national_us_index": 83.376,
+      "national_us_sa_index": 83.628
+    },
+    {
+      "date": "1996-11-01",
+      "national_us_index": 83.551,
+      "national_us_sa_index": 83.555
+    },
+    {
+      "date": "1996-12-01",
+      "national_us_index": 83.72,
+      "national_us_sa_index": 83.489
+    },
+    {
+      "date": "1997-01-01",
+      "national_us_index": 83.955,
+      "national_us_sa_index": 83.53
+    },
+    {
+      "date": "1997-02-01",
+      "national_us_index": 84.18,
+      "national_us_sa_index": 83.596
+    },
+    {
+      "date": "1997-03-01",
+      "national_us_index": 84.452,
+      "national_us_sa_index": 83.911
+    },
+    {
+      "date": "1997-04-01",
+      "national_us_index": 84.622,
+      "national_us_sa_index": 84.32
+    },
+    {
+      "date": "1997-05-01",
+      "national_us_index": 84.861,
+      "national_us_sa_index": 84.864
+    },
+    {
+      "date": "1997-06-01",
+      "national_us_index": 85.08,
+      "national_us_sa_index": 85.398
+    },
+    {
+      "date": "1997-07-01",
+      "national_us_index": 85.33,
+      "national_us_sa_index": 85.84
+    },
+    {
+      "date": "1997-08-01",
+      "national_us_index": 85.573,
+      "national_us_sa_index": 86.15
+    },
+    {
+      "date": "1997-09-01",
+      "national_us_index": 85.85,
+      "national_us_sa_index": 86.31
+    },
+    {
+      "date": "1997-10-01",
+      "national_us_index": 86.146,
+      "national_us_sa_index": 86.407
+    },
+    {
+      "date": "1997-11-01",
+      "national_us_index": 86.632,
+      "national_us_sa_index": 86.631
+    },
+    {
+      "date": "1997-12-01",
+      "national_us_index": 87.092,
+      "national_us_sa_index": 86.847
+    },
+    {
+      "date": "1998-01-01",
+      "national_us_index": 87.614,
+      "national_us_sa_index": 87.162
+    },
+    {
+      "date": "1998-02-01",
+      "national_us_index": 88.002,
+      "national_us_sa_index": 87.372
+    },
+    {
+      "date": "1998-03-01",
+      "national_us_index": 88.441,
+      "national_us_sa_index": 87.876
+    },
+    {
+      "date": "1998-04-01",
+      "national_us_index": 88.878,
+      "national_us_sa_index": 88.557
+    },
+    {
+      "date": "1998-05-01",
+      "national_us_index": 89.363,
+      "national_us_sa_index": 89.373
+    },
+    {
+      "date": "1998-06-01",
+      "national_us_index": 89.844,
+      "national_us_sa_index": 90.194
+    },
+    {
+      "date": "1998-07-01",
+      "national_us_index": 90.31,
+      "national_us_sa_index": 90.859
+    },
+    {
+      "date": "1998-08-01",
+      "national_us_index": 90.785,
+      "national_us_sa_index": 91.406
+    },
+    {
+      "date": "1998-09-01",
+      "national_us_index": 91.258,
+      "national_us_sa_index": 91.751
+    },
+    {
+      "date": "1998-10-01",
+      "national_us_index": 91.716,
+      "national_us_sa_index": 91.998
+    },
+    {
+      "date": "1998-11-01",
+      "national_us_index": 92.199,
+      "national_us_sa_index": 92.196
+    },
+    {
+      "date": "1998-12-01",
+      "national_us_index": 92.712,
+      "national_us_sa_index": 92.443
+    },
+    {
+      "date": "1999-01-01",
+      "national_us_index": 93.207,
+      "national_us_sa_index": 92.713
+    },
+    {
+      "date": "1999-02-01",
+      "national_us_index": 93.671,
+      "national_us_sa_index": 92.98
+    },
+    {
+      "date": "1999-03-01",
+      "national_us_index": 94.217,
+      "national_us_sa_index": 93.61
+    },
+    {
+      "date": "1999-04-01",
+      "national_us_index": 94.784,
+      "national_us_sa_index": 94.435
+    },
+    {
+      "date": "1999-05-01",
+      "national_us_index": 95.344,
+      "national_us_sa_index": 95.36
+    },
+    {
+      "date": "1999-06-01",
+      "national_us_index": 95.974,
+      "national_us_sa_index": 96.363
+    },
+    {
+      "date": "1999-07-01",
+      "national_us_index": 96.591,
+      "national_us_sa_index": 97.192
+    },
+    {
+      "date": "1999-08-01",
+      "national_us_index": 97.219,
+      "national_us_sa_index": 97.897
+    },
+    {
+      "date": "1999-09-01",
+      "national_us_index": 97.862,
+      "national_us_sa_index": 98.399
+    },
+    {
+      "date": "1999-10-01",
+      "national_us_index": 98.522,
+      "national_us_sa_index": 98.831
+    },
+    {
+      "date": "1999-11-01",
+      "national_us_index": 99.154,
+      "national_us_sa_index": 99.148
+    },
+    {
+      "date": "1999-12-01",
+      "national_us_index": 99.844,
+      "national_us_sa_index": 99.542
+    },
+    {
+      "date": "2000-01-01",
+      "national_us_index": 100.552,
+      "national_us_sa_index": 100
+    },
+    {
+      "date": "2000-02-01",
+      "national_us_index": 101.339,
+      "national_us_sa_index": 100.571
+    },
+    {
+      "date": "2000-03-01",
+      "national_us_index": 102.127,
+      "national_us_sa_index": 101.466
+    },
+    {
+      "date": "2000-04-01",
+      "national_us_index": 102.923,
+      "national_us_sa_index": 102.541
+    },
+    {
+      "date": "2000-05-01",
+      "national_us_index": 103.678,
+      "national_us_sa_index": 103.702
+    },
+    {
+      "date": "2000-06-01",
+      "national_us_index": 104.425,
+      "national_us_sa_index": 104.856
+    },
+    {
+      "date": "2000-07-01",
+      "national_us_index": 105.054,
+      "national_us_sa_index": 105.722
+    },
+    {
+      "date": "2000-08-01",
+      "national_us_index": 105.768,
+      "national_us_sa_index": 106.522
+    },
+    {
+      "date": "2000-09-01",
+      "national_us_index": 106.538,
+      "national_us_sa_index": 107.136
+    },
+    {
+      "date": "2000-10-01",
+      "national_us_index": 107.384,
+      "national_us_sa_index": 107.729
+    },
+    {
+      "date": "2000-11-01",
+      "national_us_index": 108.303,
+      "national_us_sa_index": 108.292
+    },
+    {
+      "date": "2000-12-01",
+      "national_us_index": 109.141,
+      "national_us_sa_index": 108.792
+    },
+    {
+      "date": "2001-01-01",
+      "national_us_index": 109.847,
+      "national_us_sa_index": 109.215
+    },
+    {
+      "date": "2001-02-01",
+      "national_us_index": 110.502,
+      "national_us_sa_index": 109.643
+    },
+    {
+      "date": "2001-03-01",
+      "national_us_index": 111.11,
+      "national_us_sa_index": 110.395
+    },
+    {
+      "date": "2001-04-01",
+      "national_us_index": 111.652,
+      "national_us_sa_index": 111.248
+    },
+    {
+      "date": "2001-05-01",
+      "national_us_index": 112.164,
+      "national_us_sa_index": 112.203
+    },
+    {
+      "date": "2001-06-01",
+      "national_us_index": 112.797,
+      "national_us_sa_index": 113.273
+    },
+    {
+      "date": "2001-07-01",
+      "national_us_index": 113.492,
+      "national_us_sa_index": 114.227
+    },
+    {
+      "date": "2001-08-01",
+      "national_us_index": 114.168,
+      "national_us_sa_index": 114.989
+    },
+    {
+      "date": "2001-09-01",
+      "national_us_index": 114.813,
+      "national_us_sa_index": 115.466
+    },
+    {
+      "date": "2001-10-01",
+      "national_us_index": 115.31,
+      "national_us_sa_index": 115.681
+    },
+    {
+      "date": "2001-11-01",
+      "national_us_index": 115.857,
+      "national_us_sa_index": 115.838
+    },
+    {
+      "date": "2001-12-01",
+      "national_us_index": 116.454,
+      "national_us_sa_index": 116.055
+    },
+    {
+      "date": "2002-01-01",
+      "national_us_index": 117.144,
+      "national_us_sa_index": 116.437
+    },
+    {
+      "date": "2002-02-01",
+      "national_us_index": 117.845,
+      "national_us_sa_index": 116.917
+    },
+    {
+      "date": "2002-03-01",
+      "national_us_index": 118.687,
+      "national_us_sa_index": 117.929
+    },
+    {
+      "date": "2002-04-01",
+      "national_us_index": 119.611,
+      "national_us_sa_index": 119.209
+    },
+    {
+      "date": "2002-05-01",
+      "national_us_index": 120.724,
+      "national_us_sa_index": 120.788
+    },
+    {
+      "date": "2002-06-01",
+      "national_us_index": 121.814,
+      "national_us_sa_index": 122.334
+    },
+    {
+      "date": "2002-07-01",
+      "national_us_index": 122.889,
+      "national_us_sa_index": 123.688
+    },
+    {
+      "date": "2002-08-01",
+      "national_us_index": 123.832,
+      "national_us_sa_index": 124.731
+    },
+    {
+      "date": "2002-09-01",
+      "national_us_index": 124.781,
+      "national_us_sa_index": 125.495
+    },
+    {
+      "date": "2002-10-01",
+      "national_us_index": 125.736,
+      "national_us_sa_index": 126.138
+    },
+    {
+      "date": "2002-11-01",
+      "national_us_index": 126.67,
+      "national_us_sa_index": 126.643
+    },
+    {
+      "date": "2002-12-01",
+      "national_us_index": 127.624,
+      "national_us_sa_index": 127.151
+    },
+    {
+      "date": "2003-01-01",
+      "national_us_index": 128.461,
+      "national_us_sa_index": 127.652
+    },
+    {
+      "date": "2003-02-01",
+      "national_us_index": 129.356,
+      "national_us_sa_index": 128.326
+    },
+    {
+      "date": "2003-03-01",
+      "national_us_index": 130.149,
+      "national_us_sa_index": 129.309
+    },
+    {
+      "date": "2003-04-01",
+      "national_us_index": 130.885,
+      "national_us_sa_index": 130.489
+    },
+    {
+      "date": "2003-05-01",
+      "national_us_index": 131.736,
+      "national_us_sa_index": 131.84
+    },
+    {
+      "date": "2003-06-01",
+      "national_us_index": 132.65,
+      "national_us_sa_index": 133.226
+    },
+    {
+      "date": "2003-07-01",
+      "national_us_index": 133.777,
+      "national_us_sa_index": 134.647
+    },
+    {
+      "date": "2003-08-01",
+      "national_us_index": 134.968,
+      "national_us_sa_index": 135.966
+    },
+    {
+      "date": "2003-09-01",
+      "national_us_index": 136.295,
+      "national_us_sa_index": 137.077
+    },
+    {
+      "date": "2003-10-01",
+      "national_us_index": 137.533,
+      "national_us_sa_index": 137.977
+    },
+    {
+      "date": "2003-11-01",
+      "national_us_index": 138.796,
+      "national_us_sa_index": 138.767
+    },
+    {
+      "date": "2003-12-01",
+      "national_us_index": 140.181,
+      "national_us_sa_index": 139.629
+    },
+    {
+      "date": "2004-01-01",
+      "national_us_index": 141.647,
+      "national_us_sa_index": 140.706
+    },
+    {
+      "date": "2004-02-01",
+      "national_us_index": 143.192,
+      "national_us_sa_index": 142.028
+    },
+    {
+      "date": "2004-03-01",
+      "national_us_index": 145.059,
+      "national_us_sa_index": 144.08
+    },
+    {
+      "date": "2004-04-01",
+      "national_us_index": 146.593,
+      "national_us_sa_index": 146.18
+    },
+    {
+      "date": "2004-05-01",
+      "national_us_index": 148.187,
+      "national_us_sa_index": 148.336
+    },
+    {
+      "date": "2004-06-01",
+      "national_us_index": 149.852,
+      "national_us_sa_index": 150.52
+    },
+    {
+      "date": "2004-07-01",
+      "national_us_index": 151.34,
+      "national_us_sa_index": 152.339
+    },
+    {
+      "date": "2004-08-01",
+      "national_us_index": 152.635,
+      "national_us_sa_index": 153.816
+    },
+    {
+      "date": "2004-09-01",
+      "national_us_index": 154.181,
+      "national_us_sa_index": 155.11
+    },
+    {
+      "date": "2004-10-01",
+      "national_us_index": 155.752,
+      "national_us_sa_index": 156.3
+    },
+    {
+      "date": "2004-11-01",
+      "national_us_index": 157.529,
+      "national_us_sa_index": 157.498
+    },
+    {
+      "date": "2004-12-01",
+      "national_us_index": 159.332,
+      "national_us_sa_index": 158.672
+    },
+    {
+      "date": "2005-01-01",
+      "national_us_index": 161.289,
+      "national_us_sa_index": 160.131
+    },
+    {
+      "date": "2005-02-01",
+      "national_us_index": 163.346,
+      "national_us_sa_index": 161.925
+    },
+    {
+      "date": "2005-03-01",
+      "national_us_index": 165.814,
+      "national_us_sa_index": 164.577
+    },
+    {
+      "date": "2005-04-01",
+      "national_us_index": 167.503,
+      "national_us_sa_index": 167.001
+    },
+    {
+      "date": "2005-05-01",
+      "national_us_index": 169.352,
+      "national_us_sa_index": 169.546
+    },
+    {
+      "date": "2005-06-01",
+      "national_us_index": 171.192,
+      "national_us_sa_index": 172.017
+    },
+    {
+      "date": "2005-07-01",
+      "national_us_index": 172.861,
+      "national_us_sa_index": 174.099
+    },
+    {
+      "date": "2005-08-01",
+      "national_us_index": 174.443,
+      "national_us_sa_index": 175.924
+    },
+    {
+      "date": "2005-09-01",
+      "national_us_index": 176.439,
+      "national_us_sa_index": 177.612
+    },
+    {
+      "date": "2005-10-01",
+      "national_us_index": 178.028,
+      "national_us_sa_index": 178.753
+    },
+    {
+      "date": "2005-11-01",
+      "national_us_index": 179.682,
+      "national_us_sa_index": 179.675
+    },
+    {
+      "date": "2005-12-01",
+      "national_us_index": 180.911,
+      "national_us_sa_index": 180.108
+    },
+    {
+      "date": "2006-01-01",
+      "national_us_index": 182.322,
+      "national_us_sa_index": 180.829
+    },
+    {
+      "date": "2006-02-01",
+      "national_us_index": 183.289,
+      "national_us_sa_index": 181.501
+    },
+    {
+      "date": "2006-03-01",
+      "national_us_index": 184.365,
+      "national_us_sa_index": 182.75
+    },
+    {
+      "date": "2006-04-01",
+      "national_us_index": 184.33,
+      "national_us_sa_index": 183.649
+    },
+    {
+      "date": "2006-05-01",
+      "national_us_index": 184.156,
+      "national_us_sa_index": 184.38
+    },
+    {
+      "date": "2006-06-01",
+      "national_us_index": 183.507,
+      "national_us_sa_index": 184.547
+    },
+    {
+      "date": "2006-07-01",
+      "national_us_index": 183.067,
+      "national_us_sa_index": 184.608
+    },
+    {
+      "date": "2006-08-01",
+      "national_us_index": 182.594,
+      "national_us_sa_index": 184.405
+    },
+    {
+      "date": "2006-09-01",
+      "national_us_index": 182.798,
+      "national_us_sa_index": 184.198
+    },
+    {
+      "date": "2006-10-01",
+      "national_us_index": 183.198,
+      "national_us_sa_index": 184.054
+    },
+    {
+      "date": "2006-11-01",
+      "national_us_index": 183.609,
+      "national_us_sa_index": 183.632
+    },
+    {
+      "date": "2006-12-01",
+      "national_us_index": 184.14,
+      "national_us_sa_index": 183.23
+    },
+    {
+      "date": "2007-01-01",
+      "national_us_index": 184.518,
+      "national_us_sa_index": 182.719
+    },
+    {
+      "date": "2007-02-01",
+      "national_us_index": 184.599,
+      "national_us_sa_index": 182.471
+    },
+    {
+      "date": "2007-03-01",
+      "national_us_index": 184.151,
+      "national_us_sa_index": 182.194
+    },
+    {
+      "date": "2007-04-01",
+      "national_us_index": 183.011,
+      "national_us_sa_index": 182.132
+    },
+    {
+      "date": "2007-05-01",
+      "national_us_index": 181.602,
+      "national_us_sa_index": 181.886
+    },
+    {
+      "date": "2007-06-01",
+      "national_us_index": 180.255,
+      "national_us_sa_index": 181.541
+    },
+    {
+      "date": "2007-07-01",
+      "national_us_index": 179.111,
+      "national_us_sa_index": 180.994
+    },
+    {
+      "date": "2007-08-01",
+      "national_us_index": 178.117,
+      "national_us_sa_index": 180.235
+    },
+    {
+      "date": "2007-09-01",
+      "national_us_index": 177.558,
+      "national_us_sa_index": 179.122
+    },
+    {
+      "date": "2007-10-01",
+      "national_us_index": 176.624,
+      "national_us_sa_index": 177.53
+    },
+    {
+      "date": "2007-11-01",
+      "national_us_index": 175.147,
+      "national_us_sa_index": 175.162
+    },
+    {
+      "date": "2007-12-01",
+      "national_us_index": 174.342,
+      "national_us_sa_index": 173.338
+    },
+    {
+      "date": "2008-01-01",
+      "national_us_index": 173.132,
+      "national_us_sa_index": 171.077
+    },
+    {
+      "date": "2008-02-01",
+      "national_us_index": 171.54,
+      "national_us_sa_index": 169.19
+    },
+    {
+      "date": "2008-03-01",
+      "national_us_index": 170.052,
+      "national_us_sa_index": 167.903
+    },
+    {
+      "date": "2008-04-01",
+      "national_us_index": 168.337,
+      "national_us_sa_index": 167.323
+    },
+    {
+      "date": "2008-05-01",
+      "national_us_index": 166.659,
+      "national_us_sa_index": 167.021
+    },
+    {
+      "date": "2008-06-01",
+      "national_us_index": 165.018,
+      "national_us_sa_index": 166.538
+    },
+    {
+      "date": "2008-07-01",
+      "national_us_index": 163.566,
+      "national_us_sa_index": 165.714
+    },
+    {
+      "date": "2008-08-01",
+      "national_us_index": 161.989,
+      "national_us_sa_index": 164.279
+    },
+    {
+      "date": "2008-09-01",
+      "national_us_index": 160.309,
+      "national_us_sa_index": 161.913
+    },
+    {
+      "date": "2008-10-01",
+      "national_us_index": 158.328,
+      "national_us_sa_index": 159.164
+    },
+    {
+      "date": "2008-11-01",
+      "national_us_index": 156.142,
+      "national_us_sa_index": 156.072
+    },
+    {
+      "date": "2008-12-01",
+      "national_us_index": 153.619,
+      "national_us_sa_index": 152.545
+    },
+    {
+      "date": "2009-01-01",
+      "national_us_index": 151.507,
+      "national_us_sa_index": 149.362
+    },
+    {
+      "date": "2009-02-01",
+      "national_us_index": 150.015,
+      "national_us_sa_index": 147.618
+    },
+    {
+      "date": "2009-03-01",
+      "national_us_index": 148.66,
+      "national_us_sa_index": 146.515
+    },
+    {
+      "date": "2009-04-01",
+      "national_us_index": 147.949,
+      "national_us_sa_index": 146.943
+    },
+    {
+      "date": "2009-05-01",
+      "national_us_index": 147.694,
+      "national_us_sa_index": 148.17
+    },
+    {
+      "date": "2009-06-01",
+      "national_us_index": 148.09,
+      "national_us_sa_index": 149.797
+    },
+    {
+      "date": "2009-07-01",
+      "national_us_index": 148.409,
+      "national_us_sa_index": 150.749
+    },
+    {
+      "date": "2009-08-01",
+      "national_us_index": 148.278,
+      "national_us_sa_index": 150.669
+    },
+    {
+      "date": "2009-09-01",
+      "national_us_index": 148.026,
+      "national_us_sa_index": 149.629
+    },
+    {
+      "date": "2009-10-01",
+      "national_us_index": 147.851,
+      "national_us_sa_index": 148.586
+    },
+    {
+      "date": "2009-11-01",
+      "national_us_index": 148.137,
+      "national_us_sa_index": 147.941
+    },
+    {
+      "date": "2009-12-01",
+      "national_us_index": 147.931,
+      "national_us_sa_index": 146.666
+    },
+    {
+      "date": "2010-01-01",
+      "national_us_index": 147.396,
+      "national_us_sa_index": 145.003
+    },
+    {
+      "date": "2010-02-01",
+      "national_us_index": 145.632,
+      "national_us_sa_index": 143.054
+    },
+    {
+      "date": "2010-03-01",
+      "national_us_index": 145.858,
+      "national_us_sa_index": 143.596
+    },
+    {
+      "date": "2010-04-01",
+      "national_us_index": 146.401,
+      "national_us_sa_index": 145.402
+    },
+    {
+      "date": "2010-05-01",
+      "national_us_index": 146.392,
+      "national_us_sa_index": 147.038
+    },
+    {
+      "date": "2010-06-01",
+      "national_us_index": 145.718,
+      "national_us_sa_index": 147.703
+    },
+    {
+      "date": "2010-07-01",
+      "national_us_index": 144.987,
+      "national_us_sa_index": 147.563
+    },
+    {
+      "date": "2010-08-01",
+      "national_us_index": 143.911,
+      "national_us_sa_index": 146.427
+    },
+    {
+      "date": "2010-09-01",
+      "national_us_index": 143.014,
+      "national_us_sa_index": 144.607
+    },
+    {
+      "date": "2010-10-01",
+      "national_us_index": 142.526,
+      "national_us_sa_index": 143.128
+    },
+    {
+      "date": "2010-11-01",
+      "national_us_index": 142.168,
+      "national_us_sa_index": 141.818
+    },
+    {
+      "date": "2010-12-01",
+      "national_us_index": 142.055,
+      "national_us_sa_index": 140.627
+    },
+    {
+      "date": "2011-01-01",
+      "national_us_index": 141.517,
+      "national_us_sa_index": 139.035
+    },
+    {
+      "date": "2011-02-01",
+      "national_us_index": 140.344,
+      "national_us_sa_index": 137.73
+    },
+    {
+      "date": "2011-03-01",
+      "national_us_index": 139.976,
+      "national_us_sa_index": 137.784
+    },
+    {
+      "date": "2011-04-01",
+      "national_us_index": 140.007,
+      "national_us_sa_index": 139.157
+    },
+    {
+      "date": "2011-05-01",
+      "national_us_index": 139.902,
+      "national_us_sa_index": 140.691
+    },
+    {
+      "date": "2011-06-01",
+      "national_us_index": 139.859,
+      "national_us_sa_index": 141.944
+    },
+    {
+      "date": "2011-07-01",
+      "national_us_index": 139.727,
+      "national_us_sa_index": 142.341
+    },
+    {
+      "date": "2011-08-01",
+      "national_us_index": 139.306,
+      "national_us_sa_index": 141.784
+    },
+    {
+      "date": "2011-09-01",
+      "national_us_index": 138.665,
+      "national_us_sa_index": 140.166
+    },
+    {
+      "date": "2011-10-01",
+      "national_us_index": 137.948,
+      "national_us_sa_index": 138.407
+    },
+    {
+      "date": "2011-11-01",
+      "national_us_index": 137.147,
+      "national_us_sa_index": 136.662
+    },
+    {
+      "date": "2011-12-01",
+      "national_us_index": 136.67,
+      "national_us_sa_index": 135.164
+    },
+    {
+      "date": "2012-01-01",
+      "national_us_index": 136.605,
+      "national_us_sa_index": 134.165
+    },
+    {
+      "date": "2012-02-01",
+      "national_us_index": 136.529,
+      "national_us_sa_index": 133.994
+    },
+    {
+      "date": "2012-03-01",
+      "national_us_index": 137.9,
+      "national_us_sa_index": 135.862
+    },
+    {
+      "date": "2012-04-01",
+      "national_us_index": 139.149,
+      "national_us_sa_index": 138.467
+    },
+    {
+      "date": "2012-05-01",
+      "national_us_index": 140.151,
+      "national_us_sa_index": 141.044
+    },
+    {
+      "date": "2012-06-01",
+      "national_us_index": 141.027,
+      "national_us_sa_index": 143.166
+    },
+    {
+      "date": "2012-07-01",
+      "national_us_index": 141.668,
+      "national_us_sa_index": 144.281
+    },
+    {
+      "date": "2012-08-01",
+      "national_us_index": 142.278,
+      "national_us_sa_index": 144.704
+    },
+    {
+      "date": "2012-09-01",
+      "national_us_index": 142.906,
+      "national_us_sa_index": 144.355
+    },
+    {
+      "date": "2012-10-01",
+      "national_us_index": 143.596,
+      "national_us_sa_index": 143.963
+    },
+    {
+      "date": "2012-11-01",
+      "national_us_index": 144.579,
+      "national_us_sa_index": 143.955
+    },
+    {
+      "date": "2012-12-01",
+      "national_us_index": 145.496,
+      "national_us_sa_index": 143.862
+    },
+    {
+      "date": "2013-01-01",
+      "national_us_index": 146.822,
+      "national_us_sa_index": 144.308
+    },
+    {
+      "date": "2013-02-01",
+      "national_us_index": 147.781,
+      "national_us_sa_index": 145.16
+    },
+    {
+      "date": "2013-03-01",
+      "national_us_index": 149.96,
+      "national_us_sa_index": 147.96
+    },
+    {
+      "date": "2013-04-01",
+      "national_us_index": 151.517,
+      "national_us_sa_index": 150.969
+    },
+    {
+      "date": "2013-05-01",
+      "national_us_index": 152.847,
+      "national_us_sa_index": 153.858
+    },
+    {
+      "date": "2013-06-01",
+      "national_us_index": 154.198,
+      "national_us_sa_index": 156.425
+    },
+    {
+      "date": "2013-07-01",
+      "national_us_index": 155.603,
+      "national_us_sa_index": 158.284
+    },
+    {
+      "date": "2013-08-01",
+      "national_us_index": 156.96,
+      "national_us_sa_index": 159.391
+    },
+    {
+      "date": "2013-09-01",
+      "national_us_index": 158.221,
+      "national_us_sa_index": 159.669
+    },
+    {
+      "date": "2013-10-01",
+      "national_us_index": 159.238,
+      "national_us_sa_index": 159.554
+    },
+    {
+      "date": "2013-11-01",
+      "national_us_index": 160.071,
+      "national_us_sa_index": 159.362
+    },
+    {
+      "date": "2013-12-01",
+      "national_us_index": 160.991,
+      "national_us_sa_index": 159.279
+    },
+    {
+      "date": "2014-01-01",
+      "national_us_index": 161.921,
+      "national_us_sa_index": 159.365
+    },
+    {
+      "date": "2014-02-01",
+      "national_us_index": 162.519,
+      "national_us_sa_index": 159.867
+    },
+    {
+      "date": "2014-03-01",
+      "national_us_index": 163.079,
+      "national_us_sa_index": 161.184
+    },
+    {
+      "date": "2014-04-01",
+      "national_us_index": 163.386,
+      "national_us_sa_index": 162.965
+    },
+    {
+      "date": "2014-05-01",
+      "national_us_index": 163.654,
+      "national_us_sa_index": 164.68
+    },
+    {
+      "date": "2014-06-01",
+      "national_us_index": 164.062,
+      "national_us_sa_index": 166.209
+    },
+    {
+      "date": "2014-07-01",
+      "national_us_index": 164.581,
+      "national_us_sa_index": 167.132
+    },
+    {
+      "date": "2014-08-01",
+      "national_us_index": 165.208,
+      "national_us_sa_index": 167.446
+    },
+    {
+      "date": "2014-09-01",
+      "national_us_index": 165.899,
+      "national_us_sa_index": 167.237
+    },
+    {
+      "date": "2014-10-01",
+      "national_us_index": 166.636,
+      "national_us_sa_index": 166.906
+    },
+    {
+      "date": "2014-11-01",
+      "national_us_index": 167.33,
+      "national_us_sa_index": 166.654
+    },
+    {
+      "date": "2014-12-01",
+      "national_us_index": 168.044,
+      "national_us_sa_index": 166.455
+    },
+    {
+      "date": "2015-01-01",
+      "national_us_index": 168.623,
+      "national_us_sa_index": 166.244
+    },
+    {
+      "date": "2015-02-01",
+      "national_us_index": 169.121,
+      "national_us_sa_index": 166.625
+    },
+    {
+      "date": "2015-03-01",
+      "national_us_index": 169.791,
+      "national_us_sa_index": 168.083
+    },
+    {
+      "date": "2015-04-01",
+      "national_us_index": 170.29,
+      "national_us_sa_index": 169.965
+    },
+    {
+      "date": "2015-05-01",
+      "national_us_index": 170.872,
+      "national_us_sa_index": 171.846
+    },
+    {
+      "date": "2015-06-01",
+      "national_us_index": 171.471,
+      "national_us_sa_index": 173.446
+    },
+    {
+      "date": "2015-07-01",
+      "national_us_index": 172.143,
+      "national_us_sa_index": 174.492
+    },
+    {
+      "date": "2015-08-01",
+      "national_us_index": 172.927,
+      "national_us_sa_index": 174.933
+    },
+    {
+      "date": "2015-09-01",
+      "national_us_index": 173.82,
+      "national_us_sa_index": 175.039
+    },
+    {
+      "date": "2015-10-01",
+      "national_us_index": 174.784,
+      "national_us_sa_index": 175.044
+    },
+    {
+      "date": "2015-11-01",
+      "national_us_index": 175.73,
+      "national_us_sa_index": 175.135
+    },
+    {
+      "date": "2015-12-01",
+      "national_us_index": 176.533,
+      "national_us_sa_index": 175.107
+    },
+    {
+      "date": "2016-01-01",
+      "national_us_index": 177.257,
+      "national_us_sa_index": 175.027
+    },
+    {
+      "date": "2016-02-01",
+      "national_us_index": 177.638,
+      "national_us_sa_index": 175.271
+    },
+    {
+      "date": "2016-03-01",
+      "national_us_index": 178.155,
+      "national_us_sa_index": 176.594
+    },
+    {
+      "date": "2016-04-01",
+      "national_us_index": 178.757,
+      "national_us_sa_index": 178.491
+    },
+    {
+      "date": "2016-05-01",
+      "national_us_index": 179.418,
+      "national_us_sa_index": 180.34
+    },
+    {
+      "date": "2016-06-01",
+      "national_us_index": 180.082,
+      "national_us_sa_index": 181.91
+    },
+    {
+      "date": "2016-07-01",
+      "national_us_index": 180.842,
+      "national_us_sa_index": 183.011
+    },
+    {
+      "date": "2016-08-01",
+      "national_us_index": 181.834,
+      "national_us_sa_index": 183.648
+    },
+    {
+      "date": "2016-09-01",
+      "national_us_index": 182.808,
+      "national_us_sa_index": 183.936
+    },
+    {
+      "date": "2016-10-01",
+      "national_us_index": 183.736,
+      "national_us_sa_index": 184.009
+    },
+    {
+      "date": "2016-11-01",
+      "national_us_index": 184.746,
+      "national_us_sa_index": 184.221
+    },
+    {
+      "date": "2016-12-01",
+      "national_us_index": 185.709,
+      "national_us_sa_index": 184.393
+    },
+    {
+      "date": "2017-01-01",
+      "national_us_index": 186.788,
+      "national_us_sa_index": 184.646
+    },
+    {
+      "date": "2017-02-01",
+      "national_us_index": 187.309,
+      "national_us_sa_index": 185.014
+    },
+    {
+      "date": "2017-03-01",
+      "national_us_index": 187.985,
+      "national_us_sa_index": 186.522
+    },
+    {
+      "date": "2017-04-01",
+      "national_us_index": 188.714,
+      "national_us_sa_index": 188.535
+    },
+    {
+      "date": "2017-05-01",
+      "national_us_index": 189.601,
+      "national_us_sa_index": 190.531
+    },
+    {
+      "date": "2017-06-01",
+      "national_us_index": 190.502,
+      "national_us_sa_index": 192.258
+    },
+    {
+      "date": "2017-07-01",
+      "national_us_index": 191.449,
+      "national_us_sa_index": 193.504
+    },
+    {
+      "date": "2017-08-01",
+      "national_us_index": 192.644,
+      "national_us_sa_index": 194.339
+    },
+    {
+      "date": "2017-09-01",
+      "national_us_index": 193.739,
+      "national_us_sa_index": 194.809
+    },
+    {
+      "date": "2017-10-01",
+      "national_us_index": 194.786,
+      "national_us_sa_index": 195.075
+    },
+    {
+      "date": "2017-11-01",
+      "national_us_index": 195.937,
+      "national_us_sa_index": 195.441
+    },
+    {
+      "date": "2017-12-01",
+      "national_us_index": 197.158,
+      "national_us_sa_index": 195.838
+    },
+    {
+      "date": "2018-01-01",
+      "national_us_index": 198.297,
+      "national_us_sa_index": 196.106
+    },
+    {
+      "date": "2018-02-01",
+      "national_us_index": 199.229,
+      "national_us_sa_index": 196.896
+    },
+    {
+      "date": "2018-03-01",
+      "national_us_index": 199.966,
+      "national_us_sa_index": 198.564
+    },
+    {
+      "date": "2018-04-01",
+      "national_us_index": 200.656,
+      "national_us_sa_index": 200.605
+    },
+    {
+      "date": "2018-05-01",
+      "national_us_index": 201.414,
+      "national_us_sa_index": 202.442
+    },
+    {
+      "date": "2018-06-01",
+      "national_us_index": 202.219,
+      "national_us_sa_index": 204.033
+    },
+    {
+      "date": "2018-07-01",
+      "national_us_index": 202.89,
+      "national_us_sa_index": 204.94
+    },
+    {
+      "date": "2018-08-01",
+      "national_us_index": 203.66,
+      "national_us_sa_index": 205.318
+    },
+    {
+      "date": "2018-09-01",
+      "national_us_index": 204.32,
+      "national_us_sa_index": 205.365
+    },
+    {
+      "date": "2018-10-01",
+      "national_us_index": 205.084,
+      "national_us_sa_index": 205.361
+    },
+    {
+      "date": "2018-11-01",
+      "national_us_index": 205.653,
+      "national_us_sa_index": 205.099
+    },
+    {
+      "date": "2018-12-01",
+      "national_us_index": 206.14,
+      "national_us_sa_index": 204.689
+    },
+    {
+      "date": "2019-01-01",
+      "national_us_index": 206.531,
+      "national_us_sa_index": 204.191
+    },
+    {
+      "date": "2019-02-01",
+      "national_us_index": 206.862,
+      "national_us_sa_index": 204.417
+    },
+    {
+      "date": "2019-03-01",
+      "national_us_index": 207.082,
+      "national_us_sa_index": 205.765
+    },
+    {
+      "date": "2019-04-01",
+      "national_us_index": 207.533,
+      "national_us_sa_index": 207.679
+    },
+    {
+      "date": "2019-05-01",
+      "national_us_index": 208.131,
+      "national_us_sa_index": 209.343
+    },
+    {
+      "date": "2019-06-01",
+      "national_us_index": 208.62,
+      "national_us_sa_index": 210.578
+    },
+    {
+      "date": "2019-07-01",
+      "national_us_index": 209.208,
+      "national_us_sa_index": 211.328
+    },
+    {
+      "date": "2019-08-01",
+      "national_us_index": 210.032,
+      "national_us_sa_index": 211.687
+    },
+    {
+      "date": "2019-09-01",
+      "national_us_index": 210.868,
+      "national_us_sa_index": 211.865
+    },
+    {
+      "date": "2019-10-01",
+      "national_us_index": 211.724,
+      "national_us_sa_index": 211.958
+    },
+    {
+      "date": "2019-11-01",
+      "national_us_index": 212.757,
+      "national_us_sa_index": 212.096
+    },
+    {
+      "date": "2019-12-01",
+      "national_us_index": 213.925,
+      "national_us_sa_index": 212.229
+    },
+    {
+      "date": "2020-01-01",
+      "national_us_index": 215.025,
+      "national_us_sa_index": 212.391
+    },
+    {
+      "date": "2020-02-01",
+      "national_us_index": 215.9,
+      "national_us_sa_index": 213.212
+    },
+    {
+      "date": "2020-03-01",
+      "national_us_index": 216.459,
+      "national_us_sa_index": 215.186
+    },
+    {
+      "date": "2020-04-01",
+      "national_us_index": 216.859,
+      "national_us_sa_index": 217.229
+    },
+    {
+      "date": "2020-05-01",
+      "national_us_index": 216.961,
+      "national_us_sa_index": 218.476
+    },
+    {
+      "date": "2020-06-01",
+      "national_us_index": 217.545,
+      "national_us_sa_index": 219.804
+    },
+    {
+      "date": "2020-07-01",
+      "national_us_index": 219.224,
+      "national_us_sa_index": 221.564
+    },
+    {
+      "date": "2020-08-01",
+      "national_us_index": 222.271,
+      "national_us_sa_index": 224.047
+    },
+    {
+      "date": "2020-09-01",
+      "national_us_index": 225.786,
+      "national_us_sa_index": 226.8
+    },
+    {
+      "date": "2020-10-01",
+      "national_us_index": 229.65,
+      "national_us_sa_index": 229.812
+    },
+    {
+      "date": "2020-11-01",
+      "national_us_index": 233.216,
+      "national_us_sa_index": 232.316
+    },
+    {
+      "date": "2020-12-01",
+      "national_us_index": 236.524,
+      "national_us_sa_index": 234.364
+    },
+    {
+      "date": "2021-01-01",
+      "national_us_index": 239.672,
+      "national_us_sa_index": 236.434
+    },
+    {
+      "date": "2021-02-01",
+      "national_us_index": 242.456,
+      "national_us_sa_index": 239.211
+    },
+    {
+      "date": "2021-03-01",
+      "national_us_index": 245.558,
+      "national_us_sa_index": 244.205
+    },
+    {
+      "date": "2021-04-01",
+      "national_us_index": 249.126,
+      "national_us_sa_index": 249.811
+    },
+    {
+      "date": "2021-05-01",
+      "national_us_index": 253.321,
+      "national_us_sa_index": 255.435
+    },
+    {
+      "date": "2021-06-01",
+      "national_us_index": 258.177,
+      "national_us_sa_index": 261.161
+    },
+    {
+      "date": "2021-07-01",
+      "national_us_index": 262.489,
+      "national_us_sa_index": 265.5
+    },
+    {
+      "date": "2021-08-01",
+      "national_us_index": 266.601,
+      "national_us_sa_index": 268.776
+    },
+    {
+      "date": "2021-09-01",
+      "national_us_index": 270.283,
+      "national_us_sa_index": 271.43
+    },
+    {
+      "date": "2021-10-01",
+      "national_us_index": 273.553,
+      "national_us_sa_index": 273.639
+    },
+    {
+      "date": "2021-11-01",
+      "national_us_index": 277.275,
+      "national_us_sa_index": 276.009
+    },
+    {
+      "date": "2021-12-01",
+      "national_us_index": 281.459,
+      "national_us_sa_index": 278.58
+    },
+    {
+      "date": "2022-01-01",
+      "national_us_index": 286.165,
+      "national_us_sa_index": 281.952
+    },
+    {
+      "date": "2022-02-01",
+      "national_us_index": 291.322,
+      "national_us_sa_index": 287.169
+    },
+    {
+      "date": "2022-03-01",
+      "national_us_index": 296.556,
+      "national_us_sa_index": 294.977
+    },
+    {
+      "date": "2022-04-01",
+      "national_us_index": 300.578,
+      "national_us_sa_index": 301.617
+    },
+    {
+      "date": "2022-05-01",
+      "national_us_index": 303.507,
+      "national_us_sa_index": 306.391
+    },
+    {
+      "date": "2022-06-01",
+      "national_us_index": 304.322,
+      "national_us_sa_index": 308.184
+    },
+    {
+      "date": "2022-07-01",
+      "national_us_index": 303.294,
+      "national_us_sa_index": 307.017
+    },
+    {
+      "date": "2022-08-01",
+      "national_us_index": 301.048,
+      "national_us_sa_index": 303.569
+    },
+    {
+      "date": "2022-09-01",
+      "national_us_index": 299.157,
+      "national_us_sa_index": 300.395
+    },
+    {
+      "date": "2022-10-01",
+      "national_us_index": 298.642,
+      "national_us_sa_index": 298.628
+    },
+    {
+      "date": "2022-11-01",
+      "national_us_index": 298.38,
+      "national_us_sa_index": 296.819
+    },
+    {
+      "date": "2022-12-01",
+      "national_us_index": 297.596,
+      "national_us_sa_index": 294.306
+    },
+    {
+      "date": "2023-01-01",
+      "national_us_index": 297.452,
+      "national_us_sa_index": 292.8
+    },
+    {
+      "date": "2023-02-01",
+      "national_us_index": 298.014,
+      "national_us_sa_index": 293.57
+    },
+    {
+      "date": "2023-03-01",
+      "national_us_index": 299.073,
+      "national_us_sa_index": 297.515
+    },
+    {
+      "date": "2023-04-01",
+      "national_us_index": 300.469,
+      "national_us_sa_index": 301.652
+    },
+    {
+      "date": "2023-05-01",
+      "national_us_index": 302.402,
+      "national_us_sa_index": 305.527
+    },
+    {
+      "date": "2023-06-01",
+      "national_us_index": 304.375,
+      "national_us_sa_index": 308.475
+    },
+    {
+      "date": "2023-07-01",
+      "national_us_index": 306.446,
+      "national_us_sa_index": 310.39
+    },
+    {
+      "date": "2023-08-01",
+      "national_us_index": 309.15,
+      "national_us_sa_index": 311.755
+    },
+    {
+      "date": "2023-09-01",
+      "national_us_index": 311.365,
+      "national_us_sa_index": 312.608
+    },
+    {
+      "date": "2023-10-01",
+      "national_us_index": 313.056,
+      "national_us_sa_index": 312.968
+    },
+    {
+      "date": "2023-11-01",
+      "national_us_index": 313.952,
+      "national_us_sa_index": 312.209
+    },
+    {
+      "date": "2023-12-01",
+      "national_us_index": 314.636,
+      "national_us_sa_index": 311.024
+    },
+    {
+      "date": "2024-01-01",
+      "national_us_index": 315.944,
+      "national_us_sa_index": 310.853
+    },
+    {
+      "date": "2024-02-01",
+      "national_us_index": 317.61,
+      "national_us_sa_index": 312.775
+    },
+    {
+      "date": "2024-03-01",
+      "national_us_index": 318.598,
+      "national_us_sa_index": 316.954
+    },
+    {
+      "date": "2024-04-01",
+      "national_us_index": 319.537,
+      "national_us_sa_index": 320.862
+    },
+    {
+      "date": "2024-05-01",
+      "national_us_index": 320.406,
+      "national_us_sa_index": 323.856
+    },
+    {
+      "date": "2024-06-01",
+      "national_us_index": 320.987,
+      "national_us_sa_index": 325.435
+    },
+    {
+      "date": "2024-07-01",
+      "national_us_index": 321.556,
+      "national_us_sa_index": 325.784
+    }
+  ],
+  "meta": {
+    "title": "United States — House Prices Timeseries (Case-Shiller) - Free Download",
+    "description": "Monthly S&P/Case-Shiller National Home Price Index for the United States (1975–present). 'national_us_index' is the raw index; 'national_us_sa_index' is seasonally adjusted. Contains 595 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "United States — House Prices Timeseries (Case-Shiller) | ListBase",
+    "seo_description": "Download United States — House Prices Timeseries (Case-Shiller) dataset with 595 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 595 records with 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/datasets/house-prices-us"
+    ]
+  }
+}

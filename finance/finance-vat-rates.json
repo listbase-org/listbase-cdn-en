@@ -1,0 +1,749 @@
+{
+  "id": "finance-vat-rates",
+  "name": "Comprehensive VAT/GST Rates by Country Dataset",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "standard_rate",
+      "label": "Standard Rate (%)",
+      "type": "number"
+    },
+    {
+      "key": "reduced_rates",
+      "label": "Reduced Rates (%)",
+      "type": "string"
+    },
+    {
+      "key": "tax_name",
+      "label": "Tax Name",
+      "type": "string"
+    },
+    {
+      "key": "local_name",
+      "label": "Local Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Argentina",
+      "iso_code": "AR",
+      "standard_rate": 21,
+      "reduced_rates": "10.5, 27",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Americas"
+    },
+    {
+      "country": "Australia",
+      "iso_code": "AU",
+      "standard_rate": 10,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Austria",
+      "iso_code": "AT",
+      "standard_rate": 20,
+      "reduced_rates": "10, 13",
+      "tax_name": "VAT",
+      "local_name": "USt (Umsatzsteuer)",
+      "region": "EU"
+    },
+    {
+      "country": "Bahrain",
+      "iso_code": "BH",
+      "standard_rate": 10,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Middle East"
+    },
+    {
+      "country": "Bangladesh",
+      "iso_code": "BD",
+      "standard_rate": 15,
+      "reduced_rates": "5, 7.5",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Belgium",
+      "iso_code": "BE",
+      "standard_rate": 21,
+      "reduced_rates": "6, 12",
+      "tax_name": "VAT",
+      "local_name": "BTW/TVA",
+      "region": "EU"
+    },
+    {
+      "country": "Brazil",
+      "iso_code": "BR",
+      "standard_rate": 17,
+      "reduced_rates": "7, 12",
+      "tax_name": "ICMS",
+      "local_name": "ICMS",
+      "region": "Americas"
+    },
+    {
+      "country": "Bulgaria",
+      "iso_code": "BG",
+      "standard_rate": 20,
+      "reduced_rates": "9",
+      "tax_name": "VAT",
+      "local_name": "ДДС (DDS)",
+      "region": "EU"
+    },
+    {
+      "country": "Canada",
+      "iso_code": "CA",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST/TPS",
+      "region": "Americas"
+    },
+    {
+      "country": "Chile",
+      "iso_code": "CL",
+      "standard_rate": 19,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Americas"
+    },
+    {
+      "country": "China",
+      "iso_code": "CN",
+      "standard_rate": 13,
+      "reduced_rates": "6, 9",
+      "tax_name": "VAT",
+      "local_name": "增值税",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Colombia",
+      "iso_code": "CO",
+      "standard_rate": 19,
+      "reduced_rates": "5",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Americas"
+    },
+    {
+      "country": "Costa Rica",
+      "iso_code": "CR",
+      "standard_rate": 13,
+      "reduced_rates": "1, 2, 4",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Americas"
+    },
+    {
+      "country": "Croatia",
+      "iso_code": "HR",
+      "standard_rate": 25,
+      "reduced_rates": "5, 13",
+      "tax_name": "VAT",
+      "local_name": "PDV",
+      "region": "EU"
+    },
+    {
+      "country": "Cyprus",
+      "iso_code": "CY",
+      "standard_rate": 19,
+      "reduced_rates": "5, 9",
+      "tax_name": "VAT",
+      "local_name": "ΦΠΑ",
+      "region": "EU"
+    },
+    {
+      "country": "Czech Republic",
+      "iso_code": "CZ",
+      "standard_rate": 21,
+      "reduced_rates": "12, 15",
+      "tax_name": "VAT",
+      "local_name": "DPH",
+      "region": "EU"
+    },
+    {
+      "country": "Denmark",
+      "iso_code": "DK",
+      "standard_rate": 25,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "moms",
+      "region": "EU"
+    },
+    {
+      "country": "Ecuador",
+      "iso_code": "EC",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Americas"
+    },
+    {
+      "country": "Egypt",
+      "iso_code": "EG",
+      "standard_rate": 14,
+      "reduced_rates": "5",
+      "tax_name": "VAT",
+      "local_name": "ضريبة القيمة المضافة",
+      "region": "Middle East"
+    },
+    {
+      "country": "Estonia",
+      "iso_code": "EE",
+      "standard_rate": 22,
+      "reduced_rates": "9",
+      "tax_name": "VAT",
+      "local_name": "käibemaks",
+      "region": "EU"
+    },
+    {
+      "country": "Finland",
+      "iso_code": "FI",
+      "standard_rate": 24,
+      "reduced_rates": "10, 14",
+      "tax_name": "VAT",
+      "local_name": "ALV",
+      "region": "EU"
+    },
+    {
+      "country": "France",
+      "iso_code": "FR",
+      "standard_rate": 20,
+      "reduced_rates": "5.5, 10",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "EU"
+    },
+    {
+      "country": "Germany",
+      "iso_code": "DE",
+      "standard_rate": 19,
+      "reduced_rates": "7",
+      "tax_name": "VAT",
+      "local_name": "MwSt",
+      "region": "EU"
+    },
+    {
+      "country": "Greece",
+      "iso_code": "GR",
+      "standard_rate": 24,
+      "reduced_rates": "6, 13",
+      "tax_name": "VAT",
+      "local_name": "ΦΠΑ",
+      "region": "EU"
+    },
+    {
+      "country": "Hong Kong",
+      "iso_code": "HK",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "None",
+      "local_name": "-",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Hungary",
+      "iso_code": "HU",
+      "standard_rate": 27,
+      "reduced_rates": "5, 18",
+      "tax_name": "VAT",
+      "local_name": "ÁFA",
+      "region": "EU"
+    },
+    {
+      "country": "Iceland",
+      "iso_code": "IS",
+      "standard_rate": 24,
+      "reduced_rates": "11",
+      "tax_name": "VAT",
+      "local_name": "VSK",
+      "region": "Europe"
+    },
+    {
+      "country": "India",
+      "iso_code": "IN",
+      "standard_rate": 18,
+      "reduced_rates": "5, 12, 28",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Indonesia",
+      "iso_code": "ID",
+      "standard_rate": 11,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "PPN",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Ireland",
+      "iso_code": "IE",
+      "standard_rate": 23,
+      "reduced_rates": "9, 13.5",
+      "tax_name": "VAT",
+      "local_name": "VAT/CBL",
+      "region": "EU"
+    },
+    {
+      "country": "Israel",
+      "iso_code": "IL",
+      "standard_rate": 17,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "מע\"מ",
+      "region": "Middle East"
+    },
+    {
+      "country": "Italy",
+      "iso_code": "IT",
+      "standard_rate": 22,
+      "reduced_rates": "4, 5, 10",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "EU"
+    },
+    {
+      "country": "Japan",
+      "iso_code": "JP",
+      "standard_rate": 10,
+      "reduced_rates": "8",
+      "tax_name": "Consumption Tax",
+      "local_name": "消費税",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Kenya",
+      "iso_code": "KE",
+      "standard_rate": 16,
+      "reduced_rates": "8",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Africa"
+    },
+    {
+      "country": "Kuwait",
+      "iso_code": "KW",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "None",
+      "local_name": "-",
+      "region": "Middle East"
+    },
+    {
+      "country": "Latvia",
+      "iso_code": "LV",
+      "standard_rate": 21,
+      "reduced_rates": "5, 12",
+      "tax_name": "VAT",
+      "local_name": "PVN",
+      "region": "EU"
+    },
+    {
+      "country": "Lithuania",
+      "iso_code": "LT",
+      "standard_rate": 21,
+      "reduced_rates": "5, 9",
+      "tax_name": "VAT",
+      "local_name": "PVM",
+      "region": "EU"
+    },
+    {
+      "country": "Luxembourg",
+      "iso_code": "LU",
+      "standard_rate": 17,
+      "reduced_rates": "3, 8",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "EU"
+    },
+    {
+      "country": "Malaysia",
+      "iso_code": "MY",
+      "standard_rate": 10,
+      "reduced_rates": "5",
+      "tax_name": "SST",
+      "local_name": "SST",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Malta",
+      "iso_code": "MT",
+      "standard_rate": 18,
+      "reduced_rates": "5, 7",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "EU"
+    },
+    {
+      "country": "Mexico",
+      "iso_code": "MX",
+      "standard_rate": 16,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Americas"
+    },
+    {
+      "country": "Morocco",
+      "iso_code": "MA",
+      "standard_rate": 20,
+      "reduced_rates": "7, 10, 14",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "Africa"
+    },
+    {
+      "country": "Netherlands",
+      "iso_code": "NL",
+      "standard_rate": 21,
+      "reduced_rates": "9",
+      "tax_name": "VAT",
+      "local_name": "BTW",
+      "region": "EU"
+    },
+    {
+      "country": "New Zealand",
+      "iso_code": "NZ",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Nigeria",
+      "iso_code": "NG",
+      "standard_rate": 7.5,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Africa"
+    },
+    {
+      "country": "Norway",
+      "iso_code": "NO",
+      "standard_rate": 25,
+      "reduced_rates": "12, 15",
+      "tax_name": "VAT",
+      "local_name": "MVA",
+      "region": "Europe"
+    },
+    {
+      "country": "Oman",
+      "iso_code": "OM",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Middle East"
+    },
+    {
+      "country": "Pakistan",
+      "iso_code": "PK",
+      "standard_rate": 18,
+      "reduced_rates": "10",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Panama",
+      "iso_code": "PA",
+      "standard_rate": 7,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "ITBMS",
+      "region": "Americas"
+    },
+    {
+      "country": "Peru",
+      "iso_code": "PE",
+      "standard_rate": 18,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IGV",
+      "region": "Americas"
+    },
+    {
+      "country": "Philippines",
+      "iso_code": "PH",
+      "standard_rate": 12,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Poland",
+      "iso_code": "PL",
+      "standard_rate": 23,
+      "reduced_rates": "5, 8",
+      "tax_name": "VAT",
+      "local_name": "PTU/VAT",
+      "region": "EU"
+    },
+    {
+      "country": "Portugal",
+      "iso_code": "PT",
+      "standard_rate": 23,
+      "reduced_rates": "6, 13",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "EU"
+    },
+    {
+      "country": "Qatar",
+      "iso_code": "QA",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "None",
+      "local_name": "-",
+      "region": "Middle East"
+    },
+    {
+      "country": "Romania",
+      "iso_code": "RO",
+      "standard_rate": 19,
+      "reduced_rates": "5, 9",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "EU"
+    },
+    {
+      "country": "Russia",
+      "iso_code": "RU",
+      "standard_rate": 20,
+      "reduced_rates": "10",
+      "tax_name": "VAT",
+      "local_name": "НДС",
+      "region": "Europe"
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_code": "SA",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "ضريبة القيمة المضافة",
+      "region": "Middle East"
+    },
+    {
+      "country": "Serbia",
+      "iso_code": "RS",
+      "standard_rate": 20,
+      "reduced_rates": "10",
+      "tax_name": "VAT",
+      "local_name": "PDV",
+      "region": "Europe"
+    },
+    {
+      "country": "Singapore",
+      "iso_code": "SG",
+      "standard_rate": 9,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Slovakia",
+      "iso_code": "SK",
+      "standard_rate": 20,
+      "reduced_rates": "10",
+      "tax_name": "VAT",
+      "local_name": "DPH",
+      "region": "EU"
+    },
+    {
+      "country": "Slovenia",
+      "iso_code": "SI",
+      "standard_rate": 22,
+      "reduced_rates": "5, 9.5",
+      "tax_name": "VAT",
+      "local_name": "DDV",
+      "region": "EU"
+    },
+    {
+      "country": "South Africa",
+      "iso_code": "ZA",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Africa"
+    },
+    {
+      "country": "South Korea",
+      "iso_code": "KR",
+      "standard_rate": 10,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "부가가치세",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Spain",
+      "iso_code": "ES",
+      "standard_rate": 21,
+      "reduced_rates": "4, 10",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "EU"
+    },
+    {
+      "country": "Sweden",
+      "iso_code": "SE",
+      "standard_rate": 25,
+      "reduced_rates": "6, 12",
+      "tax_name": "VAT",
+      "local_name": "moms",
+      "region": "EU"
+    },
+    {
+      "country": "Switzerland",
+      "iso_code": "CH",
+      "standard_rate": 8.1,
+      "reduced_rates": "2.6, 3.8",
+      "tax_name": "VAT",
+      "local_name": "MWST/TVA/IVA",
+      "region": "Europe"
+    },
+    {
+      "country": "Taiwan",
+      "iso_code": "TW",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "營業稅",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Thailand",
+      "iso_code": "TH",
+      "standard_rate": 7,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "ภาษีมูลค่าเพิ่ม",
+      "region": "Asia-Pacific"
+    },
+    {
+      "country": "Turkey",
+      "iso_code": "TR",
+      "standard_rate": 20,
+      "reduced_rates": "1, 10",
+      "tax_name": "VAT",
+      "local_name": "KDV",
+      "region": "Europe"
+    },
+    {
+      "country": "Ukraine",
+      "iso_code": "UA",
+      "standard_rate": 20,
+      "reduced_rates": "7",
+      "tax_name": "VAT",
+      "local_name": "ПДВ",
+      "region": "Europe"
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_code": "AE",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Middle East"
+    },
+    {
+      "country": "United Kingdom",
+      "iso_code": "GB",
+      "standard_rate": 20,
+      "reduced_rates": "5",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Europe"
+    },
+    {
+      "country": "United States",
+      "iso_code": "US",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "Sales Tax",
+      "local_name": "Sales Tax (state/local)",
+      "region": "Americas"
+    },
+    {
+      "country": "Uruguay",
+      "iso_code": "UY",
+      "standard_rate": 22,
+      "reduced_rates": "10",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Americas"
+    },
+    {
+      "country": "Vietnam",
+      "iso_code": "VN",
+      "standard_rate": 10,
+      "reduced_rates": "5",
+      "tax_name": "VAT",
+      "local_name": "GTGT",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "meta": {
+    "seo_title": "Global VAT/GST Rates - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Get VAT/GST rates for 75 countries, including standard and reduced rates. Free download available in Excel, CSV, and PDF formats for tax analysis.",
+    "title": "Comprehensive VAT/GST Rates by Country Dataset",
+    "description": "This dataset provides value-added tax (VAT) and goods and services tax (GST) rates for 75 countries globally. It includes standard, reduced rates, local tax names, and regional information.",
+    "key_takeaways": [
+      "Access current VAT and GST rates for 75 countries worldwide.",
+      "Explore standard and reduced tax percentages along with local tax names.",
+      "Download comprehensive tax data in multiple convenient formats.",
+      "Leverage country-specific tax information for financial analysis and compliance."
+    ],
+    "keywords": [
+      "VAT rates by country",
+      "GST rates global",
+      "sales tax data excel",
+      "country tax rates csv",
+      "global VAT list",
+      "reduced VAT rates"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or Python script for automated tax compliance checks and API integrations.",
+      "Use the **Excel** file to create Pivot Tables, filter countries by region, and perform financial analysis on tax impacts.",
+      "Print the **PDF** version for quick reference, internal presentations, or classroom discussions on international taxation.",
+      "Analyze global tax trends and compare VAT/GST rates across different economic regions for business planning and market entry strategies."
+    ]
+  },
+  "record_count": 75,
+  "title": "Comprehensive VAT/GST Rates by Country Dataset"
+}

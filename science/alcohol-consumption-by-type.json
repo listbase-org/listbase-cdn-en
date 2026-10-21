@@ -1,0 +1,513 @@
+{
+  "id": "alcohol-consumption-by-type",
+  "name": "Alcohol Consumption by Type",
+  "title": "Alcohol Consumption by Type",
+  "description": "66 records of alcohol consumption split by wine, beer, and spirits, by country from 1890 to 2000.",
+  "category": "science",
+  "source": "https://github.com/owid/owid-datasets",
+  "source_url": "https://github.com/owid/owid-datasets",
+  "updated": "2026-04",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "wine",
+      "label": "Wine",
+      "type": "number"
+    },
+    {
+      "key": "beer",
+      "label": "Beer",
+      "type": "number"
+    },
+    {
+      "key": "spirits",
+      "label": "Spirits",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Australia",
+      "year": 1890,
+      "wine": 10,
+      "beer": 47,
+      "spirits": 43
+    },
+    {
+      "country": "Australia",
+      "year": 1929,
+      "wine": 19,
+      "beer": 62,
+      "spirits": 20
+    },
+    {
+      "country": "Australia",
+      "year": 1964,
+      "wine": 12,
+      "beer": 75,
+      "spirits": 13
+    },
+    {
+      "country": "Australia",
+      "year": 1984,
+      "wine": 24,
+      "beer": 64,
+      "spirits": 12
+    },
+    {
+      "country": "Australia",
+      "year": 2014,
+      "wine": 40,
+      "beer": 46,
+      "spirits": 14
+    },
+    {
+      "country": "Austria",
+      "year": 1964,
+      "wine": 30,
+      "beer": 55,
+      "spirits": 15
+    },
+    {
+      "country": "Austria",
+      "year": 1984,
+      "wine": 37,
+      "beer": 49,
+      "spirits": 14
+    },
+    {
+      "country": "Austria",
+      "year": 2014,
+      "wine": 35,
+      "beer": 51,
+      "spirits": 14
+    },
+    {
+      "country": "Belgium",
+      "year": 1890,
+      "wine": 3,
+      "beer": 62,
+      "spirits": 35
+    },
+    {
+      "country": "Belgium",
+      "year": 1929,
+      "wine": 8,
+      "beer": 81,
+      "spirits": 12
+    },
+    {
+      "country": "Belgium",
+      "year": 1964,
+      "wine": 13,
+      "beer": 77,
+      "spirits": 11
+    },
+    {
+      "country": "Belgium",
+      "year": 1984,
+      "wine": 21,
+      "beer": 61,
+      "spirits": 18
+    },
+    {
+      "country": "Belgium",
+      "year": 2014,
+      "wine": 35,
+      "beer": 51,
+      "spirits": 14
+    },
+    {
+      "country": "Canada",
+      "year": 1964,
+      "wine": 6,
+      "beer": 60,
+      "spirits": 34
+    },
+    {
+      "country": "Canada",
+      "year": 1984,
+      "wine": 14,
+      "beer": 48,
+      "spirits": 38
+    },
+    {
+      "country": "Canada",
+      "year": 2014,
+      "wine": 25,
+      "beer": 49,
+      "spirits": 26
+    },
+    {
+      "country": "Denmark",
+      "year": 1929,
+      "wine": 4,
+      "beer": 55,
+      "spirits": 42
+    },
+    {
+      "country": "Denmark",
+      "year": 1964,
+      "wine": 8,
+      "beer": 77,
+      "spirits": 15
+    },
+    {
+      "country": "Denmark",
+      "year": 1984,
+      "wine": 19,
+      "beer": 65,
+      "spirits": 16
+    },
+    {
+      "country": "Denmark",
+      "year": 2014,
+      "wine": 47,
+      "beer": 38,
+      "spirits": 16
+    },
+    {
+      "country": "Finland",
+      "year": 1964,
+      "wine": 13,
+      "beer": 21,
+      "spirits": 66
+    },
+    {
+      "country": "Finland",
+      "year": 1984,
+      "wine": 12,
+      "beer": 42,
+      "spirits": 46
+    },
+    {
+      "country": "Finland",
+      "year": 2014,
+      "wine": 21,
+      "beer": 53,
+      "spirits": 26
+    },
+    {
+      "country": "France",
+      "year": 1890,
+      "wine": 68,
+      "beer": 6,
+      "spirits": 26
+    },
+    {
+      "country": "France",
+      "year": 1929,
+      "wine": 82,
+      "beer": 6,
+      "spirits": 12
+    },
+    {
+      "country": "France",
+      "year": 1964,
+      "wine": 78,
+      "beer": 10,
+      "spirits": 13
+    },
+    {
+      "country": "France",
+      "year": 1984,
+      "wine": 69,
+      "beer": 16,
+      "spirits": 16
+    },
+    {
+      "country": "France",
+      "year": 2014,
+      "wine": 59,
+      "beer": 19,
+      "spirits": 23
+    },
+    {
+      "country": "Italy",
+      "year": 1890,
+      "wine": 95,
+      "beer": 0,
+      "spirits": 5
+    },
+    {
+      "country": "Italy",
+      "year": 1929,
+      "wine": 95,
+      "beer": 1,
+      "spirits": 4
+    },
+    {
+      "country": "Italy",
+      "year": 1964,
+      "wine": 87,
+      "beer": 3,
+      "spirits": 10
+    },
+    {
+      "country": "Italy",
+      "year": 1984,
+      "wine": 80,
+      "beer": 8,
+      "spirits": 12
+    },
+    {
+      "country": "Italy",
+      "year": 2014,
+      "wine": 65,
+      "beer": 23,
+      "spirits": 11
+    },
+    {
+      "country": "Japan",
+      "year": 1964,
+      "wine": 2,
+      "beer": 20,
+      "spirits": 78
+    },
+    {
+      "country": "Japan",
+      "year": 1984,
+      "wine": 4,
+      "beer": 29,
+      "spirits": 67
+    },
+    {
+      "country": "Japan",
+      "year": 2014,
+      "wine": 5,
+      "beer": 21,
+      "spirits": 74
+    },
+    {
+      "country": "Netherlands",
+      "year": 1890,
+      "wine": 4,
+      "beer": 25,
+      "spirits": 71
+    },
+    {
+      "country": "Netherlands",
+      "year": 1929,
+      "wine": 8,
+      "beer": 47,
+      "spirits": 45
+    },
+    {
+      "country": "Netherlands",
+      "year": 1964,
+      "wine": 9,
+      "beer": 48,
+      "spirits": 43
+    },
+    {
+      "country": "Netherlands",
+      "year": 1984,
+      "wine": 22,
+      "beer": 49,
+      "spirits": 29
+    },
+    {
+      "country": "Netherlands",
+      "year": 2014,
+      "wine": 35,
+      "beer": 48,
+      "spirits": 17
+    },
+    {
+      "country": "New Zealand",
+      "year": 1890,
+      "wine": 2,
+      "beer": 32,
+      "spirits": 66
+    },
+    {
+      "country": "New Zealand",
+      "year": 1964,
+      "wine": 4,
+      "beer": 78,
+      "spirits": 18
+    },
+    {
+      "country": "New Zealand",
+      "year": 1984,
+      "wine": 17,
+      "beer": 64,
+      "spirits": 20
+    },
+    {
+      "country": "New Zealand",
+      "year": 2014,
+      "wine": 38,
+      "beer": 43,
+      "spirits": 19
+    },
+    {
+      "country": "Norway",
+      "year": 1964,
+      "wine": 4,
+      "beer": 27,
+      "spirits": 69
+    },
+    {
+      "country": "Norway",
+      "year": 1984,
+      "wine": 9,
+      "beer": 34,
+      "spirits": 58
+    },
+    {
+      "country": "Norway",
+      "year": 2014,
+      "wine": 29,
+      "beer": 35,
+      "spirits": 36
+    },
+    {
+      "country": "Sweden",
+      "year": 1964,
+      "wine": 9,
+      "beer": 39,
+      "spirits": 52
+    },
+    {
+      "country": "Sweden",
+      "year": 1984,
+      "wine": 20,
+      "beer": 39,
+      "spirits": 41
+    },
+    {
+      "country": "Sweden",
+      "year": 2014,
+      "wine": 48,
+      "beer": 37,
+      "spirits": 15
+    },
+    {
+      "country": "Switzerland",
+      "year": 1890,
+      "wine": 63,
+      "beer": 17,
+      "spirits": 20
+    },
+    {
+      "country": "Switzerland",
+      "year": 1929,
+      "wine": 49,
+      "beer": 25,
+      "spirits": 27
+    },
+    {
+      "country": "Switzerland",
+      "year": 1964,
+      "wine": 42,
+      "beer": 38,
+      "spirits": 20
+    },
+    {
+      "country": "Switzerland",
+      "year": 1984,
+      "wine": 49,
+      "beer": 31,
+      "spirits": 20
+    },
+    {
+      "country": "Switzerland",
+      "year": 2014,
+      "wine": 47,
+      "beer": 34,
+      "spirits": 19
+    },
+    {
+      "country": "United Kingdom",
+      "year": 1890,
+      "wine": 2,
+      "beer": 68,
+      "spirits": 30
+    },
+    {
+      "country": "United Kingdom",
+      "year": 1929,
+      "wine": 4,
+      "beer": 78,
+      "spirits": 17
+    },
+    {
+      "country": "United Kingdom",
+      "year": 1964,
+      "wine": 4,
+      "beer": 81,
+      "spirits": 15
+    },
+    {
+      "country": "United Kingdom",
+      "year": 1984,
+      "wine": 11,
+      "beer": 69,
+      "spirits": 20
+    },
+    {
+      "country": "United Kingdom",
+      "year": 2014,
+      "wine": 41,
+      "beer": 37,
+      "spirits": 22
+    },
+    {
+      "country": "United States",
+      "year": 1890,
+      "wine": 4,
+      "beer": 47,
+      "spirits": 49
+    },
+    {
+      "country": "United States",
+      "year": 1929,
+      "wine": 0,
+      "beer": 0,
+      "spirits": 0
+    },
+    {
+      "country": "United States",
+      "year": 1964,
+      "wine": 8,
+      "beer": 48,
+      "spirits": 44
+    },
+    {
+      "country": "United States",
+      "year": 1984,
+      "wine": 13,
+      "beer": 51,
+      "spirits": 36
+    },
+    {
+      "country": "United States",
+      "year": 2014,
+      "wine": 18,
+      "beer": 49,
+      "spirits": 34
+    }
+  ],
+  "meta": {
+    "title": "Alcohol Consumption by Type - Free Download",
+    "description": "66 records of alcohol consumption split by wine, beer, and spirits, by country from 1890 to 2000. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Alcohol Consumption by Type | ListBase",
+    "seo_description": "Download Alcohol Consumption by Type — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/owid/owid-datasets"
+    ]
+  }
+}

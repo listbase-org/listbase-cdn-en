@@ -1,0 +1,256 @@
+{
+  "id": "aw-political-parties",
+  "name": "Aruba — Political Parties",
+  "title": "Aruba — Political Parties",
+  "description": "Political parties of Aruba from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5516,
+      "name_short": "AVP",
+      "name": "Arubaanse Volkspartij",
+      "name_english": "Aruban People's Party",
+      "name_other": "",
+      "year_first": 1942,
+      "year_last": "",
+      "share": 58.8,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Aruban_People%27s_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5518,
+      "name_short": "MEP",
+      "name": "Movimiento Electoral di Pueblo",
+      "name_english": "People's Electoral Movement",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": "",
+      "share": 43,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Electoral_Movement_(Aruba)",
+      "description": "Centre-left, Socialist International",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6941,
+      "name_short": "UNA",
+      "name": "Union Nacional Arubana",
+      "name_english": "Aruba National Union",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": 1967,
+      "share": 14.3,
+      "share_year": 1955,
+      "wikipedia": "",
+      "description": "3 of 21 seats in 1955 Aruban general election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6937,
+      "name_short": "PPA",
+      "name": "Partido Patriótico Arubano",
+      "name_english": "Aruban Patriotic Party",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": "",
+      "share": 12.3,
+      "share_year": 1985,
+      "wikipedia": "https://en.wikipedia.org/wiki/Aruban_Patriotic_Party",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6938,
+      "name_short": "PDA",
+      "name": "Acción Democratico Nacional",
+      "name_english": "Aruban Democratic Party",
+      "name_other": "",
+      "year_first": 1985,
+      "year_last": 1994,
+      "share": 10,
+      "share_year": 1985,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6921,
+      "name_short": "MPA",
+      "name": "Movimento Patriótico Arubano",
+      "name_english": "Aruban Patriotic Movement",
+      "name_other": "",
+      "year_first": 2001,
+      "year_last": 2009,
+      "share": 9.6,
+      "share_year": 2001,
+      "wikipedia": "https://en.wikipedia.org/wiki/Aruban_Patriotic_Movement",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6939,
+      "name_short": "ADN",
+      "name": "Acción Democratico Nacional",
+      "name_english": "National Democratic Alliance",
+      "name_other": "",
+      "year_first": 1985,
+      "year_last": 2001,
+      "share": 8.8,
+      "share_year": 1985,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Democratic_Alliance_(Aruba)",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5519,
+      "name_short": "DR",
+      "name": "Democracia Real",
+      "name_english": "Real Democracy",
+      "name_other": "",
+      "year_first": 2001,
+      "year_last": "",
+      "share": 8,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Real_Democracy",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5517,
+      "name_short": "RED",
+      "name": "Red Eternal Democratico",
+      "name_english": "Network of Eternal Democracy",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": 2013,
+      "share": 7,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Network_of_Electoral_Democracy",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6940,
+      "name_short": "PPN",
+      "name": "Partido Patriotico Nobo",
+      "name_english": "New Patriotic Party",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": 1993,
+      "share": 5.2,
+      "share_year": 1989,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5520,
+      "name_short": "OLA",
+      "name": "Organisacion Liberal Arubano",
+      "name_english": "Aruban Liberal Organization",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": "",
+      "share": 3.6,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Aruban_Liberal_Organization",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Aruba — Political Parties - Free Download",
+    "description": "Political parties of Aruba from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Aruba — Political Parties | ListBase",
+    "seo_description": "Download Aruba — Political Parties dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

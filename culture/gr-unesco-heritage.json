@@ -1,0 +1,324 @@
+{
+  "id": "gr-unesco-heritage",
+  "name": "Greece — UNESCO World Heritage Sites",
+  "title": "Greece — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Greece, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 392,
+      "name": "Temple of Apollo Epicurius at Bassae",
+      "category": "cultural",
+      "date_inscribed": 1986,
+      "criteria": "c1, c2, c3",
+      "lat": 37.43498,
+      "lon": 21.89694,
+      "area_hectares": 20.46,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 393,
+      "name": "Archaeological Site of Delphi",
+      "category": "cultural",
+      "date_inscribed": 1987,
+      "criteria": "c1, c2, c3, c4, c6",
+      "lat": 38.48149,
+      "lon": 22.49617,
+      "area_hectares": 51.04,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 404,
+      "name": "Acropolis, Athens",
+      "category": "cultural",
+      "date_inscribed": 1987,
+      "criteria": "c1, c2, c3, c4, c6",
+      "lat": 37.97087,
+      "lon": 23.72618,
+      "area_hectares": 3.04,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 454,
+      "name": "Mount Athos",
+      "category": "mixed",
+      "date_inscribed": 1988,
+      "criteria": "c1, c2, c4, c5, c6, n7",
+      "lat": 40.26667,
+      "lon": 24.21667,
+      "area_hectares": 33042.3,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 455,
+      "name": "Meteora",
+      "category": "mixed",
+      "date_inscribed": 1988,
+      "criteria": "c1, c2, c4, c5, n7",
+      "lat": 39.71667,
+      "lon": 21.63333,
+      "area_hectares": 271.87,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 456,
+      "name": "Paleochristian and Byzantine Monuments of Thessalonika",
+      "category": "cultural",
+      "date_inscribed": 1988,
+      "criteria": "c1, c2, c4",
+      "lat": 40.63833,
+      "lon": 22.965,
+      "area_hectares": 5.327,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 491,
+      "name": "Sanctuary of Asklepios at Epidaurus",
+      "category": "cultural",
+      "date_inscribed": 1988,
+      "criteria": "c1, c2, c3, c4, c6",
+      "lat": 37.66666667,
+      "lon": 23.11666667,
+      "area_hectares": 1393.8,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 493,
+      "name": "Medieval City of Rhodes",
+      "category": "cultural",
+      "date_inscribed": 1988,
+      "criteria": "c2, c4, c5",
+      "lat": 36.44722,
+      "lon": 28.22778,
+      "area_hectares": 65.85,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 511,
+      "name": "Archaeological Site of Mystras",
+      "category": "cultural",
+      "date_inscribed": 1989,
+      "criteria": "c2, c3, c4",
+      "lat": 37.08056,
+      "lon": 22.36667,
+      "area_hectares": 54.43,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 517,
+      "name": "Archaeological Site of Olympia",
+      "category": "cultural",
+      "date_inscribed": 1989,
+      "criteria": "c1, c2, c3, c4, c6",
+      "lat": 37.65,
+      "lon": 21.66666667,
+      "area_hectares": 105.6,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 530,
+      "name": "Delos",
+      "category": "cultural",
+      "date_inscribed": 1990,
+      "criteria": "c2, c3, c4, c6",
+      "lat": 37.4,
+      "lon": 25.26667,
+      "area_hectares": 350.64,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 537,
+      "name": "Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios",
+      "category": "cultural",
+      "date_inscribed": 1990,
+      "criteria": "c1, c4",
+      "lat": 38.4,
+      "lon": 22.75,
+      "area_hectares": 3.7,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 595,
+      "name": "Pythagoreion and Heraion of Samos",
+      "category": "cultural",
+      "date_inscribed": 1992,
+      "criteria": "c2, c3",
+      "lat": 37.69083,
+      "lon": 26.94333,
+      "area_hectares": 668.35,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 780,
+      "name": "Archaeological Site of Aigai (modern name Vergina)",
+      "category": "cultural",
+      "date_inscribed": 1996,
+      "criteria": "c1, c3",
+      "lat": 40.47139,
+      "lon": 22.31833,
+      "area_hectares": 1420.81,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 941,
+      "name": "Archaeological Sites of Mycenae and Tiryns",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c1, c2, c3, c4, c6",
+      "lat": 37.73333333,
+      "lon": 22.75,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 942,
+      "name": "The Historic Centre (Chora) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Patmos",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c3, c4, c6",
+      "lat": 37.3,
+      "lon": 26.55,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 978,
+      "name": "Old Town of Corfu",
+      "category": "cultural",
+      "date_inscribed": 2007,
+      "criteria": "c4",
+      "lat": 39.62394139,
+      "lon": 19.9275,
+      "area_hectares": 70,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "gr",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Greece — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Greece, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Greece — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Greece — UNESCO World Heritage Sites dataset with 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

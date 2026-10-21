@@ -1,0 +1,286 @@
+{
+  "id": "zw-airports-iata",
+  "name": "Zimbabwe — IATA Airports",
+  "title": "Zimbabwe — IATA Airports",
+  "description": "Airports with IATA codes in Zimbabwe: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BFO",
+      "icao_code": "FVCZ",
+      "name": "Buffalo Range Airport",
+      "city_name_list": "Chiredzi",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Masvingo Province",
+      "latitude": -21.00808,
+      "longitude": 31.57855,
+      "elevation": 433,
+      "timezone": "Africa/Harare",
+      "wiki_link": "https://en.wikipedia.org/wiki/Buffalo_Range_Airport"
+    },
+    {
+      "iata_code": "BUQ",
+      "icao_code": "FVJN",
+      "name": "Bulawayo Airport",
+      "city_name_list": "Bulawayo",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Matabeleland North",
+      "latitude": -20.017431,
+      "longitude": 28.617869,
+      "elevation": 1328,
+      "timezone": "Africa/Harare",
+      "wiki_link": "https://en.wikipedia.org/wiki/Joshua_Mqabuko_Nkomo_International_Airport"
+    },
+    {
+      "iata_code": "BZH",
+      "icao_code": "FVBM",
+      "name": "Bumi Hills Airport",
+      "city_name_list": "Bumi Hills",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Mashonaland West",
+      "latitude": -16.81674,
+      "longitude": 28.34576,
+      "elevation": "",
+      "timezone": "Africa/Harare",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "CHJ",
+      "icao_code": "FVCH",
+      "name": "Chipinge",
+      "city_name_list": "Chipinge",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Manicaland",
+      "latitude": -20.2,
+      "longitude": 32.63,
+      "elevation": 1131,
+      "timezone": "Africa/Harare",
+      "wiki_link": "https://en.wikipedia.org/wiki/Chipinge_District"
+    },
+    {
+      "iata_code": "GWE",
+      "icao_code": "FVTL",
+      "name": "Gweru-Thornhill Air Base",
+      "city_name_list": "Gweru",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Midlands Province",
+      "latitude": -19.43639,
+      "longitude": 29.86191,
+      "elevation": 1426,
+      "timezone": "Africa/Harare",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gweru-Thornhill_Air_Base"
+    },
+    {
+      "iata_code": "HRE",
+      "icao_code": "FVRG",
+      "name": "Robert Gabriel Mugabe International Airport",
+      "city_name_list": "Harare",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Harare",
+      "latitude": -17.931806,
+      "longitude": 31.092847,
+      "elevation": 1489,
+      "timezone": "Africa/Harare",
+      "wiki_link": "https://en.wikipedia.org/wiki/Robert_Gabriel_Mugabe_International_Airport"
+    },
+    {
+      "iata_code": "HWN",
+      "icao_code": "FVWN",
+      "name": "Hwange National Park Airport",
+      "city_name_list": "Hwange National Park Airport",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Matabeleland North",
+      "latitude": -18.37,
+      "longitude": 26.52,
+      "elevation": 1079,
+      "timezone": "Africa/Harare",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hwange_National_Park_Airport"
+    },
+    {
+      "iata_code": "KAB",
+      "icao_code": "FVKB",
+      "name": "Kariba Airport",
+      "city_name_list": "Kariba",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Mashonaland West",
+      "latitude": -16.51976,
+      "longitude": 28.88498,
+      "elevation": 519,
+      "timezone": "Africa/Harare",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kariba_Airport"
+    },
+    {
+      "iata_code": "MJW",
+      "icao_code": "FVMH",
+      "name": "Mahenye Airport",
+      "city_name_list": "Mahenye Airport",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Manicaland",
+      "latitude": -21.23,
+      "longitude": 32.33,
+      "elevation": "",
+      "timezone": "Africa/Harare",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "MVZ",
+      "icao_code": "FVMV",
+      "name": "Masvingo Airport",
+      "city_name_list": "Masvingo",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Masvingo Province",
+      "latitude": -20.055333,
+      "longitude": 30.859111,
+      "elevation": 1095,
+      "timezone": "Africa/Harare",
+      "wiki_link": "https://en.wikipedia.org/wiki/Masvingo_Airport"
+    },
+    {
+      "iata_code": "UTA",
+      "icao_code": "FVMU",
+      "name": "Mutare Airport",
+      "city_name_list": "Mutare",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Manicaland",
+      "latitude": -18.9975,
+      "longitude": 32.6272,
+      "elevation": "",
+      "timezone": "Africa/Harare",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mutare_Airport"
+    },
+    {
+      "iata_code": "VFA",
+      "icao_code": "FVFA",
+      "name": "Victoria Falls Airport",
+      "city_name_list": "Victoria Falls",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Matabeleland North",
+      "latitude": -18.095881,
+      "longitude": 25.839006,
+      "elevation": 1063,
+      "timezone": "Africa/Harare",
+      "wiki_link": "https://en.wikipedia.org/wiki/Victoria_Falls_Airport"
+    },
+    {
+      "iata_code": "WKI",
+      "icao_code": "FVWT",
+      "name": "Hwange Town Airport",
+      "city_name_list": "Hwange",
+      "country_code": "ZW",
+      "country_name": "Zimbabwe",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Matabeleland North",
+      "latitude": -17.83,
+      "longitude": 31.17,
+      "elevation": "",
+      "timezone": "Africa/Harare",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hwange_Town_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Zimbabwe — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Zimbabwe: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Zimbabwe — IATA Airports | ListBase",
+    "seo_description": "Download Zimbabwe — IATA Airports dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

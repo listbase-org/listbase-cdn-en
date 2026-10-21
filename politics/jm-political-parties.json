@@ -1,0 +1,181 @@
+{
+  "id": "jm-political-parties",
+  "name": "Jamaica — Political Parties",
+  "title": "Jamaica — Political Parties",
+  "description": "Political parties of Jamaica from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 2308,
+      "name_short": "JLP",
+      "name": "Jamaica Labour Party",
+      "name_english": "Jamaica Labour Party",
+      "name_other": "",
+      "year_first": 1943,
+      "year_last": "",
+      "share": 89.7,
+      "share_year": 1983,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jamaica_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2309,
+      "name_short": "PNP",
+      "name": "People's National Party",
+      "name_english": "People's National Party",
+      "name_other": "",
+      "year_first": 1938,
+      "year_last": "",
+      "share": 60.1,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_National_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3636,
+      "name_short": "NDM",
+      "name": "National Democratic Movement",
+      "name_english": "National Democratic Movement",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": "",
+      "share": 4.8,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Democratic_Movement_%28Jamaica%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2532,
+      "name_short": "JDP",
+      "name": "Jamaica Democratic Party",
+      "name_english": "Jamaica Democratic Party",
+      "name_other": "",
+      "year_first": 1944,
+      "year_last": 1944,
+      "share": 4.1,
+      "share_year": 1944,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jamaica_Democratic_Party",
+      "description": "4% votes in 1944",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3634,
+      "name_short": "FP",
+      "name": "Farmers' Party",
+      "name_english": "Farmers' Party",
+      "name_other": "",
+      "year_first": 1955,
+      "year_last": 1955,
+      "share": 3.9,
+      "share_year": 1955,
+      "wikipedia": "https://en.wikipedia.org/wiki/Farmers%27_Party_%28Jamaica%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3635,
+      "name_short": "CCM",
+      "name": "Christian Conscience Movement",
+      "name_english": "Christian Conscience Movement",
+      "name_other": "",
+      "year_first": 1983,
+      "year_last": 1983,
+      "share": 2.7,
+      "share_year": 1983,
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_Conscience_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Jamaica — Political Parties - Free Download",
+    "description": "Political parties of Jamaica from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Jamaica — Political Parties | ListBase",
+    "seo_description": "Download Jamaica — Political Parties dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

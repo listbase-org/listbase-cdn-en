@@ -1,0 +1,256 @@
+{
+  "id": "fj-embassies-abroad",
+  "name": "Fiji — Embassies and Consulates Abroad",
+  "title": "Fiji — Embassies and Consulates Abroad",
+  "description": "Diplomatic missions operated by Fiji in foreign countries. Sourced from Wikidata via the database-of-embassies project; each record includes the host country, mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Fiji",
+      "operator_cc": "fj",
+      "host_country": "Australia",
+      "host_cc": "au",
+      "city": "Canberra",
+      "address": "",
+      "type": "high commission",
+      "latitude": -35.32507,
+      "longitude": 149.09129,
+      "jurisdictions": "Australia",
+      "phone": "",
+      "email": "",
+      "website": "https://www.fijihighcommission.com.au/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106463113"
+    },
+    {
+      "operator": "Fiji",
+      "operator_cc": "fj",
+      "host_country": "Belgium",
+      "host_cc": "be",
+      "city": "Schaerbeek",
+      "address": "",
+      "type": "embassy",
+      "latitude": 50.8513,
+      "longitude": 4.396,
+      "jurisdictions": "Spain, Belgium, Luxembourg, Italy, Greece, Portugal, Netherlands, France, Germany, Georgia, Monaco",
+      "phone": "",
+      "email": "",
+      "website": "http://www.fijiembassy.be/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q25047637"
+    },
+    {
+      "operator": "Fiji",
+      "operator_cc": "fj",
+      "host_country": "India",
+      "host_cc": "in",
+      "city": "New Delhi",
+      "address": "",
+      "type": "high commission",
+      "latitude": 28.5797,
+      "longitude": 77.1692,
+      "jurisdictions": "India",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q112118234"
+    },
+    {
+      "operator": "Fiji",
+      "operator_cc": "fj",
+      "host_country": "Indonesia",
+      "host_cc": "id",
+      "city": "Jakarta",
+      "address": "",
+      "type": "embassy",
+      "latitude": -6.2131,
+      "longitude": 106.8205,
+      "jurisdictions": "Indonesia, Singapore",
+      "phone": "",
+      "email": "",
+      "website": "http://www.fijiembajak.com",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q107568281"
+    },
+    {
+      "operator": "Fiji",
+      "operator_cc": "fj",
+      "host_country": "Japan",
+      "host_cc": "jp",
+      "city": "Azabudai",
+      "address": "",
+      "type": "embassy",
+      "latitude": 35.659341111,
+      "longitude": 139.742515,
+      "jurisdictions": "Japan, Russia",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q61786637"
+    },
+    {
+      "operator": "Fiji",
+      "operator_cc": "fj",
+      "host_country": "New Zealand",
+      "host_cc": "nz",
+      "city": "Wellington City",
+      "address": "",
+      "type": "high commission",
+      "latitude": -41.275697,
+      "longitude": 174.779539,
+      "jurisdictions": "New Zealand",
+      "phone": "",
+      "email": "",
+      "website": "http://www.fiji.org.nz/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q101426113"
+    },
+    {
+      "operator": "Fiji",
+      "operator_cc": "fj",
+      "host_country": "United Kingdom",
+      "host_cc": "gb",
+      "city": "London",
+      "address": "",
+      "type": "high commission",
+      "latitude": 51.5008,
+      "longitude": -0.181667,
+      "jurisdictions": "Ireland, Denmark, United Kingdom, Vatican City, Israel",
+      "phone": "",
+      "email": "",
+      "website": "http://www.fijihighcommission.org.uk/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q16842974"
+    }
+  ],
+  "meta": {
+    "title": "Fiji — Embassies and Consulates Abroad - Free Download",
+    "description": "Diplomatic missions operated by Fiji in foreign countries. Sourced from Wikidata via the database-of-embassies project; each record includes the host country, mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fiji — Embassies and Consulates Abroad | ListBase",
+    "seo_description": "Download Fiji — Embassies and Consulates Abroad — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

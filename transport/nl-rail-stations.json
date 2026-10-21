@@ -1,0 +1,268 @@
+{
+  "id": "nl-rail-stations",
+  "name": "The Netherlands — Rail Stations",
+  "title": "The Netherlands — Rail Stations",
+  "description": "Railway stations in The Netherlands: name, city, state/province, coordinates, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "asciiname",
+      "label": "Asciiname",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "uic_list",
+      "label": "Uic List",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ede-Wageningen Railway Station",
+      "asciiname": "Ede-Wageningen Railway Station",
+      "city_name_list": "Wageningen=Ede",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "Gelderland",
+      "latitude": 52.02787,
+      "longitude": 5.67143,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Nijmegen Railway Station",
+      "asciiname": "Nijmegen Railway Station",
+      "city_name_list": "Nijmegen",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "Gelderland",
+      "latitude": 51.8425,
+      "longitude": 5.85278,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Rotterdam Centraal railway station",
+      "asciiname": "Rotterdam Centraal railway station",
+      "city_name_list": "Rotterdam",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "South Holland",
+      "latitude": 51.92508,
+      "longitude": 4.46946,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Breda Railway Station",
+      "asciiname": "Breda Railway Station",
+      "city_name_list": "Breda",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "North Brabant",
+      "latitude": 51.59533,
+      "longitude": 4.78021,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Enschede Railway Station",
+      "asciiname": "Enschede Railway Station",
+      "city_name_list": "Enschede",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "Overijssel",
+      "latitude": 52.22231,
+      "longitude": 6.88921,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Hengelo Railway Station",
+      "asciiname": "Hengelo Railway Station",
+      "city_name_list": "Hengelo",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "Overijssel",
+      "latitude": 52.26175,
+      "longitude": 6.7941,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Schiphol Railway Station",
+      "asciiname": "Schiphol Railway Station",
+      "city_name_list": "Schiphol Railway Station",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "North Holland",
+      "latitude": 52.30683,
+      "longitude": 4.75927,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Venlo Railway Station",
+      "asciiname": "Venlo Railway Station",
+      "city_name_list": "Venlo",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "Limburg",
+      "latitude": 51.36473,
+      "longitude": 6.17127,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Gouda Railway Station",
+      "asciiname": "Gouda Railway Station",
+      "city_name_list": "Gouda Railway Station",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "South Holland",
+      "latitude": 52.01735,
+      "longitude": 4.70421,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Den Haag Hollands Spoor Railway Station",
+      "asciiname": "Den Haag Hollands Spoor Railway Station",
+      "city_name_list": "The Hague",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "South Holland",
+      "latitude": 52.06938,
+      "longitude": 4.32183,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Amsterdam Centraal Railway Station",
+      "asciiname": "Amsterdam Centraal Railway Station",
+      "city_name_list": "Amsterdam=Schiphol",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "North Holland",
+      "latitude": 52.37895,
+      "longitude": 4.90016,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Eindhoven NL Railway Station",
+      "asciiname": "Eindhoven NL Railway Station",
+      "city_name_list": "Eindhoven",
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "adm1_name_ascii": "",
+      "latitude": 51.45,
+      "longitude": 5.383,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "The Hague Central Railway Station",
+      "asciiname": "The Hague Central Railway Station",
+      "city_name_list": "The Hague",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "South Holland",
+      "latitude": 52.08019,
+      "longitude": 4.32535,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Arnhem Centraal Railway Station",
+      "asciiname": "Arnhem Centraal Railway Station",
+      "city_name_list": "Arnhem",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "Gelderland",
+      "latitude": 51.98499,
+      "longitude": 5.89966,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Maastricht Railway Station",
+      "asciiname": "Maastricht Railway Station",
+      "city_name_list": "Maastricht",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "Limburg",
+      "latitude": 50.85088,
+      "longitude": 5.70482,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    },
+    {
+      "name": "Utrecht Centraal Railway Station",
+      "asciiname": "Utrecht Centraal Railway Station",
+      "city_name_list": "Utrecht",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "adm1_name_ascii": "Utrecht",
+      "latitude": 52.08934,
+      "longitude": 5.11006,
+      "timezone": "Europe/Amsterdam",
+      "uic_list": ""
+    }
+  ],
+  "meta": {
+    "title": "The Netherlands — Rail Stations - Free Download",
+    "description": "Railway stations in The Netherlands: name, city, state/province, coordinates, timezone. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "The Netherlands — Rail Stations | ListBase",
+    "seo_description": "Download The Netherlands — Rail Stations dataset with 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records with 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

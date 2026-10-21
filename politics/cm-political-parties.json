@@ -1,0 +1,346 @@
+{
+  "id": "cm-political-parties",
+  "name": "Cameroon — Political Parties",
+  "title": "Cameroon — Political Parties",
+  "description": "Political parties of Cameroon from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5791,
+      "name_short": "UNC",
+      "name": "Union nationale camérounaise",
+      "name_english": "Cameroonian National Union",
+      "name_other": "",
+      "year_first": 1966,
+      "year_last": 1985,
+      "share": 100,
+      "share_year": 1979,
+      "wikipedia": "https://en.wikipedia.org/wiki/Cameroonian_National_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5410,
+      "name_short": "UC",
+      "name": "Union Camerounaise",
+      "name_english": "Cameroon Union",
+      "name_other": "",
+      "year_first": 1958,
+      "year_last": 1966,
+      "share": 80,
+      "share_year": 1964,
+      "wikipedia": "https://en.wikipedia.org/wiki/Cameroonian_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6338,
+      "name_short": "KNDP",
+      "name": "Kamerun National Democratic Party",
+      "name_english": "Kamerun National Democratic Party",
+      "name_other": "",
+      "year_first": 1955,
+      "year_last": 1966,
+      "share": 76.1,
+      "share_year": 1964,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kamerun_National_Democratic_Party",
+      "description": "",
+      "comment": "Election result of 1964 received in the West District",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3774,
+      "name_short": "RDPC",
+      "name": "Rassemblement Démocratique du Peuple Camerounais",
+      "name_english": "Cameroon People’s Democratic Movement",
+      "name_other": "",
+      "year_first": 1960,
+      "year_last": "",
+      "share": 64.8,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/Cameroon_People%27s_Democratic_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6572,
+      "name_short": "KNC",
+      "name": "Kamerun National Congress",
+      "name_english": "Kamerun National Congress",
+      "name_other": "",
+      "year_first": 1952,
+      "year_last": 1960,
+      "share": 30.8,
+      "share_year": 1959,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kamerun_National_Congress",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5409,
+      "name_short": "CPNC",
+      "name": "Cameroon People's National Convention",
+      "name_english": "Cameroon People's National Convention",
+      "name_other": "",
+      "year_first": 1960,
+      "year_last": 1966,
+      "share": 24,
+      "share_year": 1964,
+      "wikipedia": "https://en.wikipedia.org/wiki/Cameroon_People's_National_Convention",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3682,
+      "name_short": "SDF",
+      "name": "Social Democratic Front",
+      "name_english": "Social Democratic Front",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 23.5,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_Democratic_Front_%28Cameroon%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5411,
+      "name_short": "UPC",
+      "name": "Union des Populations du Cameroun",
+      "name_english": "Union of the Peoples of Cameroon",
+      "name_other": "",
+      "year_first": 1947,
+      "year_last": "",
+      "share": 20.8,
+      "share_year": 1960,
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_of_the_Peoples_of_Cameroon",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6574,
+      "name_short": "KPP",
+      "name": "Kamerun People's Party",
+      "name_english": "Kamerun People's Party",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1960,
+      "share": 20,
+      "share_year": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kamerun_People%27s_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3775,
+      "name_short": "UNDP",
+      "name": "Union Nationale pour la Démocratie et le Progrès",
+      "name_english": "National Union for Democracy and Progress",
+      "name_other": "",
+      "year_first": 1997,
+      "year_last": 2002,
+      "share": 13.3,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Union_for_Democracy_and_Progress_(Cameroon)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6575,
+      "name_short": "MANC",
+      "name": "Mouvement d'Action Nationale Camerounaise",
+      "name_english": "Cameroonian National Action Movement",
+      "name_other": "",
+      "year_first": 1956,
+      "year_last": 1960,
+      "share": 11.4,
+      "share_year": 1956,
+      "wikipedia": "https://en.wikipedia.org/wiki/Cameroonian_National_Action_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6458,
+      "name_short": "FPUP",
+      "name": "Front Populaire de l'Unite et la Paix",
+      "name_english": "Popular Front for Unity and Peace",
+      "name_other": "",
+      "year_first": 1960,
+      "year_last": 1961,
+      "share": 10.8,
+      "share_year": 1960,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Front_for_Unity_and_Peace",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5412,
+      "name_short": "PDC",
+      "name": "Parti des Démocrates Camerounais",
+      "name_english": "Cameroonian Party of Democrats",
+      "name_other": "",
+      "year_first": 1958,
+      "year_last": 1964,
+      "share": 10.4,
+      "share_year": 1960,
+      "wikipedia": "https://en.wikipedia.org/wiki/Cameroonian_Party_of_Democrats",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7218,
+      "name_short": "PI",
+      "name": "Paysans Indépendants",
+      "name_english": "Independent Peasants",
+      "name_other": "",
+      "year_first": 1956,
+      "year_last": 1956,
+      "share": 9.6,
+      "share_year": 1956,
+      "wikipedia": "https://en.wikipedia.org/wiki/Independent_Peasants",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6573,
+      "name_short": "OK",
+      "name": "One Kamerun",
+      "name_english": "One Kamerun",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1961,
+      "share": 6.9,
+      "share_year": 1961,
+      "wikipedia": "https://en.wikipedia.org/wiki/One_Kamerun",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5878,
+      "name_short": "MDR",
+      "name": "Mouvement pour la Défense de la République",
+      "name_english": "Movement for the Defense of the Republic",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 2007,
+      "share": 4.1,
+      "share_year": 1992,
+      "wikipedia": "https://en.wikipedia.org/wiki/Movement_for_the_Defence_of_the_Republic",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3773,
+      "name_short": "UDC",
+      "name": "Union Démocratique du Cameroun",
+      "name_english": "Cameroon Democratic Union",
+      "name_other": "",
+      "year_first": 1997,
+      "year_last": 2002,
+      "share": 2.1,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Cameroon_Democratic_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Cameroon — Political Parties - Free Download",
+    "description": "Political parties of Cameroon from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cameroon — Political Parties | ListBase",
+    "seo_description": "Download Cameroon — Political Parties dataset with 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

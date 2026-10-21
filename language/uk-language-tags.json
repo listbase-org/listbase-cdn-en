@@ -1,0 +1,112 @@
+{
+  "id": "uk-language-tags",
+  "name": "United Kingdom — IETF Language Tags (CLDR)",
+  "title": "United Kingdom — IETF Language Tags (CLDR)",
+  "description": "IETF BCP-47 language tags associated with United Kingdom (territory GB) in Unicode CLDR, including primary languages and minority/indigenous languages with locale definitions.",
+  "category": "language",
+  "source": "https://github.com/datasets/language-codes",
+  "source_url": "https://github.com/datasets/language-codes",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "ietf_tag",
+      "label": "Ietf Tag",
+      "type": "string"
+    },
+    {
+      "key": "language_code",
+      "label": "Language Code",
+      "type": "string"
+    },
+    {
+      "key": "territory",
+      "label": "Territory",
+      "type": "string"
+    },
+    {
+      "key": "definitions",
+      "label": "Definitions",
+      "type": "number"
+    },
+    {
+      "key": "is_default",
+      "label": "Is Default",
+      "type": "boolean"
+    },
+    {
+      "key": "cldr_file",
+      "label": "Cldr File",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ietf_tag": "cy-GB",
+      "language_code": "cy",
+      "territory": "GB",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "cy_GB.xml"
+    },
+    {
+      "ietf_tag": "en-GB",
+      "language_code": "en",
+      "territory": "GB",
+      "definitions": 4,
+      "is_default": false,
+      "cldr_file": "en_GB.xml"
+    },
+    {
+      "ietf_tag": "en-Shaw-GB",
+      "language_code": "en",
+      "territory": "GB",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "en_Shaw_GB.xml"
+    },
+    {
+      "ietf_tag": "ga-GB",
+      "language_code": "ga",
+      "territory": "GB",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "ga_GB.xml"
+    },
+    {
+      "ietf_tag": "gd-GB",
+      "language_code": "gd",
+      "territory": "GB",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "gd_GB.xml"
+    },
+    {
+      "ietf_tag": "kw-GB",
+      "language_code": "kw",
+      "territory": "GB",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "kw_GB.xml"
+    },
+    {
+      "ietf_tag": "pi-Latn-GB",
+      "language_code": "pi",
+      "territory": "GB",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "pi_Latn_GB.xml"
+    }
+  ],
+  "meta": {
+    "title": "United Kingdom — IETF Language Tags (CLDR) - Free Download",
+    "description": "IETF BCP-47 language tags associated with United Kingdom (territory GB) in Unicode CLDR, including primary languages and minority/indigenous languages with locale definitions. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "United Kingdom — IETF Language Tags (CLDR) | ListBase",
+    "seo_description": "Download United Kingdom — IETF Language Tags (CLDR) dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/datasets/language-codes"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "mk-airports-iata",
+  "name": "North Macedonia — IATA Airports",
+  "title": "North Macedonia — IATA Airports",
+  "description": "Airports with IATA codes in North Macedonia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "OHD",
+      "icao_code": "LWOH",
+      "name": "Ohrid \"St. Paul the Apostle\" Airport",
+      "city_name_list": "Ohrid",
+      "country_code": "MK",
+      "country_name": "North Macedonia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Debarca",
+      "latitude": 41.17996,
+      "longitude": 20.74232,
+      "elevation": 705,
+      "timezone": "Europe/Skopje",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ohrid_%22St._Paul_the_Apostle%22_Airport"
+    },
+    {
+      "iata_code": "SKP",
+      "icao_code": "LWSK",
+      "name": "Skopje International Airport",
+      "city_name_list": "Skopje",
+      "country_code": "MK",
+      "country_name": "North Macedonia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Ilinden",
+      "latitude": 41.96162,
+      "longitude": 21.62138,
+      "elevation": 238,
+      "timezone": "Europe/Skopje",
+      "wiki_link": "https://en.wikipedia.org/wiki/International_Airport_Skopje"
+    }
+  ],
+  "meta": {
+    "title": "North Macedonia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in North Macedonia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "North Macedonia — IATA Airports | ListBase",
+    "seo_description": "Download North Macedonia — IATA Airports dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

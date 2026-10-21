@@ -1,0 +1,196 @@
+{
+  "id": "tm-airports-iata",
+  "name": "Turkmenistan — IATA Airports",
+  "title": "Turkmenistan — IATA Airports",
+  "description": "Airports with IATA codes in Turkmenistan: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "ASB",
+      "icao_code": "UTAA",
+      "name": "Ashgabat International Airport",
+      "city_name_list": "Ashgabat",
+      "country_code": "TM",
+      "country_name": "Turkmenistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Ashgabat",
+      "latitude": 37.98681,
+      "longitude": 58.36097,
+      "elevation": 210,
+      "timezone": "Asia/Ashgabat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport"
+    },
+    {
+      "iata_code": "BKN",
+      "icao_code": "",
+      "name": "Balkanabat International Airport",
+      "city_name_list": "Jebel",
+      "country_code": "TM",
+      "country_name": "Turkmenistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Balkan",
+      "latitude": 39.68069,
+      "longitude": 54.20544,
+      "elevation": "",
+      "timezone": "Asia/Ashgabat",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "CRZ",
+      "icao_code": "UTAV",
+      "name": "Turkmenabat Airport",
+      "city_name_list": "Türkmenabat",
+      "country_code": "TM",
+      "country_name": "Turkmenistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Lebap",
+      "latitude": 39.0833,
+      "longitude": 63.6133,
+      "elevation": "",
+      "timezone": "Asia/Ashgabat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Turkmenabat_Airport"
+    },
+    {
+      "iata_code": "KEA",
+      "icao_code": "UTAE",
+      "name": "Kerki Airport",
+      "city_name_list": "Kerki",
+      "country_code": "TM",
+      "country_name": "Turkmenistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Lebap",
+      "latitude": 37.80898,
+      "longitude": 65.2125,
+      "elevation": "",
+      "timezone": "Asia/Ashgabat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kerki_Airport"
+    },
+    {
+      "iata_code": "KRW",
+      "icao_code": "UTAK",
+      "name": "Turkmenbashi Airport",
+      "city_name_list": "Türkmenbaşy",
+      "country_code": "TM",
+      "country_name": "Turkmenistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Balkan",
+      "latitude": 40.0633,
+      "longitude": 53.0072,
+      "elevation": "",
+      "timezone": "Asia/Ashgabat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Turkmenbashi_Airport"
+    },
+    {
+      "iata_code": "MYP",
+      "icao_code": "UTAM",
+      "name": "Mary Airport",
+      "city_name_list": "Mary",
+      "country_code": "TM",
+      "country_name": "Turkmenistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Mary",
+      "latitude": 37.619444,
+      "longitude": 61.896667,
+      "elevation": "",
+      "timezone": "Asia/Ashgabat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mary_Airport"
+    },
+    {
+      "iata_code": "TAZ",
+      "icao_code": "UTAT",
+      "name": "Daşoguz Airport",
+      "city_name_list": "Daşoguz",
+      "country_code": "TM",
+      "country_name": "Turkmenistan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Dasoguz",
+      "latitude": 41.7611,
+      "longitude": 59.8267,
+      "elevation": "",
+      "timezone": "Asia/Ashgabat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Da%C5%9Foguz_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Turkmenistan — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Turkmenistan: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Turkmenistan — IATA Airports | ListBase",
+    "seo_description": "Download Turkmenistan — IATA Airports dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

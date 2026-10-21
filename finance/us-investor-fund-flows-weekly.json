@@ -1,0 +1,877 @@
+{
+  "id": "us-investor-fund-flows-weekly",
+  "name": "US Investor Fund Flows Weekly",
+  "title": "US Investor Fund Flows Weekly",
+  "description": "118 weekly records of US mutual fund investor flows by asset class (equity, bond, hybrid), providing finer-grained tracking of capital movements into and out of fund categories.",
+  "category": "finance",
+  "source": "https://github.com/datasets/investor-flow-of-funds-us",
+  "source_url": "https://github.com/datasets/investor-flow-of-funds-us",
+  "updated": "2026-04",
+  "record_count": 118,
+  "columns": [
+    {
+      "key": "Date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "Total Equity",
+      "label": "Total Equity",
+      "type": "number"
+    },
+    {
+      "key": "World Equity",
+      "label": "World Equity",
+      "type": "number"
+    },
+    {
+      "key": "Total Bond",
+      "label": "Total Bond",
+      "type": "number"
+    },
+    {
+      "key": "Municipal Bond",
+      "label": "Municipal Bond",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "Date": "2022-07-06",
+      "Total Equity": "10167",
+      "World Equity": "3058",
+      "Total Bond": "842",
+      "Municipal Bond": "2216"
+    },
+    {
+      "Date": "2022-07-13",
+      "Total Equity": "7409",
+      "World Equity": "2808",
+      "Total Bond": "2067",
+      "Municipal Bond": "741"
+    },
+    {
+      "Date": "2022-07-20",
+      "Total Equity": "3468",
+      "World Equity": "102",
+      "Total Bond": "-417",
+      "Municipal Bond": "519"
+    },
+    {
+      "Date": "2022-07-27",
+      "Total Equity": "14213",
+      "World Equity": "9667",
+      "Total Bond": "8598",
+      "Municipal Bond": "1069"
+    },
+    {
+      "Date": "2022-08-03",
+      "Total Equity": "9786",
+      "World Equity": "4016",
+      "Total Bond": "3079",
+      "Municipal Bond": "937"
+    },
+    {
+      "Date": "2022-08-10",
+      "Total Equity": "19451",
+      "World Equity": "11106",
+      "Total Bond": "11532",
+      "Municipal Bond": "-426"
+    },
+    {
+      "Date": "2022-08-17",
+      "Total Equity": "20743",
+      "World Equity": "15969",
+      "Total Bond": "17094",
+      "Municipal Bond": "-1125"
+    },
+    {
+      "Date": "2022-08-24",
+      "Total Equity": "3908",
+      "World Equity": "6602",
+      "Total Bond": "7281",
+      "Municipal Bond": "-679"
+    },
+    {
+      "Date": "2022-08-31",
+      "Total Equity": "-5292",
+      "World Equity": "-5345",
+      "Total Bond": "-5281",
+      "Municipal Bond": "-64"
+    },
+    {
+      "Date": "2022-09-07",
+      "Total Equity": "-5058",
+      "World Equity": "-7067",
+      "Total Bond": "-5688",
+      "Municipal Bond": "-1379"
+    },
+    {
+      "Date": "2022-09-14",
+      "Total Equity": "20797",
+      "World Equity": "15104",
+      "Total Bond": "15639",
+      "Municipal Bond": "-535"
+    },
+    {
+      "Date": "2022-09-21",
+      "Total Equity": "-4290",
+      "World Equity": "-3367",
+      "Total Bond": "-2269",
+      "Municipal Bond": "-1098"
+    },
+    {
+      "Date": "2022-09-28",
+      "Total Equity": "2326",
+      "World Equity": "5654",
+      "Total Bond": "3947",
+      "Municipal Bond": "1707"
+    },
+    {
+      "Date": "2022-10-05",
+      "Total Equity": "21289",
+      "World Equity": "10472",
+      "Total Bond": "7344",
+      "Municipal Bond": "3128"
+    },
+    {
+      "Date": "2022-10-12",
+      "Total Equity": "12781",
+      "World Equity": "9106",
+      "Total Bond": "8080",
+      "Municipal Bond": "1026"
+    },
+    {
+      "Date": "2022-10-19",
+      "Total Equity": "17887",
+      "World Equity": "14550",
+      "Total Bond": "13107",
+      "Municipal Bond": "1443"
+    },
+    {
+      "Date": "2022-10-26",
+      "Total Equity": "30922",
+      "World Equity": "21516",
+      "Total Bond": "18904",
+      "Municipal Bond": "2612"
+    },
+    {
+      "Date": "2022-11-02",
+      "Total Equity": "22494",
+      "World Equity": "19505",
+      "Total Bond": "16727",
+      "Municipal Bond": "2778"
+    },
+    {
+      "Date": "2022-11-09",
+      "Total Equity": "8832",
+      "World Equity": "3613",
+      "Total Bond": "242",
+      "Municipal Bond": "3371"
+    },
+    {
+      "Date": "2022-11-16",
+      "Total Equity": "39995",
+      "World Equity": "28388",
+      "Total Bond": "23164",
+      "Municipal Bond": "5225"
+    },
+    {
+      "Date": "2022-11-22",
+      "Total Equity": "12341",
+      "World Equity": "3437",
+      "Total Bond": "785",
+      "Municipal Bond": "2652"
+    },
+    {
+      "Date": "2022-11-30",
+      "Total Equity": "-931",
+      "World Equity": "-629",
+      "Total Bond": "-3570",
+      "Municipal Bond": "2941"
+    },
+    {
+      "Date": "2022-12-07",
+      "Total Equity": "-88",
+      "World Equity": "-4661",
+      "Total Bond": "-6750",
+      "Municipal Bond": "2089"
+    },
+    {
+      "Date": "2022-12-14",
+      "Total Equity": "47630",
+      "World Equity": "41257",
+      "Total Bond": "35465",
+      "Municipal Bond": "5791"
+    },
+    {
+      "Date": "2022-12-21",
+      "Total Equity": "-20900",
+      "World Equity": "-16192",
+      "Total Bond": "-17891",
+      "Municipal Bond": "1698"
+    },
+    {
+      "Date": "2022-12-28",
+      "Total Equity": "13809",
+      "World Equity": "8720",
+      "Total Bond": "7449",
+      "Municipal Bond": "1271"
+    },
+    {
+      "Date": "2023-01-04",
+      "Total Equity": "1108",
+      "World Equity": "-4212",
+      "Total Bond": "-5352",
+      "Municipal Bond": "1140"
+    },
+    {
+      "Date": "2023-01-11",
+      "Total Equity": "15566",
+      "World Equity": "4259",
+      "Total Bond": "-651",
+      "Municipal Bond": "4910"
+    },
+    {
+      "Date": "2023-01-18",
+      "Total Equity": "8870",
+      "World Equity": "3871",
+      "Total Bond": "-512",
+      "Municipal Bond": "4383"
+    },
+    {
+      "Date": "2023-01-25",
+      "Total Equity": "9347",
+      "World Equity": "3931",
+      "Total Bond": "-3481",
+      "Municipal Bond": "7412"
+    },
+    {
+      "Date": "2023-02-01",
+      "Total Equity": "6019",
+      "World Equity": "8703",
+      "Total Bond": "4668",
+      "Municipal Bond": "4034"
+    },
+    {
+      "Date": "2023-02-08",
+      "Total Equity": "6957",
+      "World Equity": "5626",
+      "Total Bond": "3118",
+      "Municipal Bond": "2508"
+    },
+    {
+      "Date": "2023-02-15",
+      "Total Equity": "2480",
+      "World Equity": "4084",
+      "Total Bond": "2006",
+      "Municipal Bond": "2078"
+    },
+    {
+      "Date": "2023-02-22",
+      "Total Equity": "-2172",
+      "World Equity": "-1905",
+      "Total Bond": "-3549",
+      "Municipal Bond": "1644"
+    },
+    {
+      "Date": "2023-03-01",
+      "Total Equity": "-241",
+      "World Equity": "-4107",
+      "Total Bond": "-6014",
+      "Municipal Bond": "1907"
+    },
+    {
+      "Date": "2023-03-08",
+      "Total Equity": "7766",
+      "World Equity": "2885",
+      "Total Bond": "2715",
+      "Municipal Bond": "170"
+    },
+    {
+      "Date": "2023-03-15",
+      "Total Equity": "5032",
+      "World Equity": "2945",
+      "Total Bond": "4240",
+      "Municipal Bond": "-1295"
+    },
+    {
+      "Date": "2023-03-22",
+      "Total Equity": "17364",
+      "World Equity": "7317",
+      "Total Bond": "7026",
+      "Municipal Bond": "291"
+    },
+    {
+      "Date": "2023-03-29",
+      "Total Equity": "-1060",
+      "World Equity": "-5327",
+      "Total Bond": "-5467",
+      "Municipal Bond": "140"
+    },
+    {
+      "Date": "2023-04-05",
+      "Total Equity": "9395",
+      "World Equity": "-1781",
+      "Total Bond": "-3385",
+      "Municipal Bond": "1604"
+    },
+    {
+      "Date": "2023-04-12",
+      "Total Equity": "11470",
+      "World Equity": "6781",
+      "Total Bond": "6155",
+      "Municipal Bond": "626"
+    },
+    {
+      "Date": "2023-04-19",
+      "Total Equity": "9132",
+      "World Equity": "6712",
+      "Total Bond": "4780",
+      "Municipal Bond": "1932"
+    },
+    {
+      "Date": "2023-04-26",
+      "Total Equity": "9726",
+      "World Equity": "7346",
+      "Total Bond": "6876",
+      "Municipal Bond": "470"
+    },
+    {
+      "Date": "2023-05-03",
+      "Total Equity": "-5207",
+      "World Equity": "-6552",
+      "Total Bond": "-5669",
+      "Municipal Bond": "-883"
+    },
+    {
+      "Date": "2023-05-10",
+      "Total Equity": "5619",
+      "World Equity": "1355",
+      "Total Bond": "-7",
+      "Municipal Bond": "1363"
+    },
+    {
+      "Date": "2023-05-17",
+      "Total Equity": "1871",
+      "World Equity": "-2971",
+      "Total Bond": "-4210",
+      "Municipal Bond": "1239"
+    },
+    {
+      "Date": "2023-05-24",
+      "Total Equity": "14971",
+      "World Equity": "8226",
+      "Total Bond": "6493",
+      "Municipal Bond": "1733"
+    },
+    {
+      "Date": "2023-05-31",
+      "Total Equity": "6535",
+      "World Equity": "6319",
+      "Total Bond": "5413",
+      "Municipal Bond": "906"
+    },
+    {
+      "Date": "2023-06-07",
+      "Total Equity": "12933",
+      "World Equity": "9312",
+      "Total Bond": "7660",
+      "Municipal Bond": "1651"
+    },
+    {
+      "Date": "2023-06-14",
+      "Total Equity": "40456",
+      "World Equity": "36430",
+      "Total Bond": "29088",
+      "Municipal Bond": "7341"
+    },
+    {
+      "Date": "2023-06-21",
+      "Total Equity": "-3540",
+      "World Equity": "-7915",
+      "Total Bond": "-11058",
+      "Municipal Bond": "3142"
+    },
+    {
+      "Date": "2023-06-28",
+      "Total Equity": "12541",
+      "World Equity": "12838",
+      "Total Bond": "13564",
+      "Municipal Bond": "-726"
+    },
+    {
+      "Date": "2023-07-05",
+      "Total Equity": "22545",
+      "World Equity": "19017",
+      "Total Bond": "18476",
+      "Municipal Bond": "541"
+    },
+    {
+      "Date": "2023-07-12",
+      "Total Equity": "9789",
+      "World Equity": "5601",
+      "Total Bond": "3729",
+      "Municipal Bond": "1872"
+    },
+    {
+      "Date": "2023-07-19",
+      "Total Equity": "13759",
+      "World Equity": "10945",
+      "Total Bond": "7877",
+      "Municipal Bond": "3068"
+    },
+    {
+      "Date": "2023-07-26",
+      "Total Equity": "17071",
+      "World Equity": "10456",
+      "Total Bond": "8397",
+      "Municipal Bond": "2058"
+    },
+    {
+      "Date": "2023-08-02",
+      "Total Equity": "8089",
+      "World Equity": "7292",
+      "Total Bond": "7266",
+      "Municipal Bond": "26"
+    },
+    {
+      "Date": "2023-08-09",
+      "Total Equity": "2132",
+      "World Equity": "-45",
+      "Total Bond": "-773",
+      "Municipal Bond": "728"
+    },
+    {
+      "Date": "2023-08-16",
+      "Total Equity": "2020",
+      "World Equity": "3971",
+      "Total Bond": "4092",
+      "Municipal Bond": "-120"
+    },
+    {
+      "Date": "2023-08-23",
+      "Total Equity": "-4127",
+      "World Equity": "-5909",
+      "Total Bond": "-6392",
+      "Municipal Bond": "484"
+    },
+    {
+      "Date": "2023-08-30",
+      "Total Equity": "10616",
+      "World Equity": "6658",
+      "Total Bond": "6687",
+      "Municipal Bond": "-29"
+    },
+    {
+      "Date": "2023-09-06",
+      "Total Equity": "5238",
+      "World Equity": "4303",
+      "Total Bond": "3664",
+      "Municipal Bond": "639"
+    },
+    {
+      "Date": "2023-09-13",
+      "Total Equity": "27062",
+      "World Equity": "23078",
+      "Total Bond": "23324",
+      "Municipal Bond": "-246"
+    },
+    {
+      "Date": "2023-09-20",
+      "Total Equity": "360",
+      "World Equity": "-3378",
+      "Total Bond": "-4092",
+      "Municipal Bond": "714"
+    },
+    {
+      "Date": "2023-09-27",
+      "Total Equity": "5215",
+      "World Equity": "5960",
+      "Total Bond": "6934",
+      "Municipal Bond": "-974"
+    },
+    {
+      "Date": "2023-10-04",
+      "Total Equity": "8649",
+      "World Equity": "5436",
+      "Total Bond": "4949",
+      "Municipal Bond": "487"
+    },
+    {
+      "Date": "2023-10-11",
+      "Total Equity": "6162",
+      "World Equity": "217",
+      "Total Bond": "334",
+      "Municipal Bond": "-118"
+    },
+    {
+      "Date": "2023-10-18",
+      "Total Equity": "4532",
+      "World Equity": "4503",
+      "Total Bond": "4147",
+      "Municipal Bond": "355"
+    },
+    {
+      "Date": "2023-10-25",
+      "Total Equity": "8229",
+      "World Equity": "3791",
+      "Total Bond": "4945",
+      "Municipal Bond": "-1153"
+    },
+    {
+      "Date": "2023-11-01",
+      "Total Equity": "11651",
+      "World Equity": "4052",
+      "Total Bond": "5714",
+      "Municipal Bond": "-1662"
+    },
+    {
+      "Date": "2023-11-08",
+      "Total Equity": "27713",
+      "World Equity": "14756",
+      "Total Bond": "13767",
+      "Municipal Bond": "989"
+    },
+    {
+      "Date": "2023-11-15",
+      "Total Equity": "29726",
+      "World Equity": "20456",
+      "Total Bond": "19339",
+      "Municipal Bond": "1117"
+    },
+    {
+      "Date": "2023-11-21",
+      "Total Equity": "27892",
+      "World Equity": "23355",
+      "Total Bond": "19609",
+      "Municipal Bond": "3747"
+    },
+    {
+      "Date": "2023-11-29",
+      "Total Equity": "17404",
+      "World Equity": "16224",
+      "Total Bond": "14982",
+      "Municipal Bond": "1242"
+    },
+    {
+      "Date": "2023-12-06",
+      "Total Equity": "16544",
+      "World Equity": "14314",
+      "Total Bond": "12377",
+      "Municipal Bond": "1937"
+    },
+    {
+      "Date": "2023-12-13",
+      "Total Equity": "31026",
+      "World Equity": "28179",
+      "Total Bond": "25856",
+      "Municipal Bond": "2323"
+    },
+    {
+      "Date": "2023-12-20",
+      "Total Equity": "31394",
+      "World Equity": "29220",
+      "Total Bond": "22085",
+      "Municipal Bond": "7135"
+    },
+    {
+      "Date": "2023-12-27",
+      "Total Equity": "33594",
+      "World Equity": "27384",
+      "Total Bond": "20050",
+      "Municipal Bond": "7334"
+    },
+    {
+      "Date": "2024-01-03",
+      "Total Equity": "13604",
+      "World Equity": "7688",
+      "Total Bond": "5922",
+      "Municipal Bond": "1765"
+    },
+    {
+      "Date": "2024-01-10",
+      "Total Equity": "5696",
+      "World Equity": "1896",
+      "Total Bond": "1506",
+      "Municipal Bond": "390"
+    },
+    {
+      "Date": "2024-01-17",
+      "Total Equity": "6796",
+      "World Equity": "-284",
+      "Total Bond": "-699",
+      "Municipal Bond": "415"
+    },
+    {
+      "Date": "2024-01-24",
+      "Total Equity": "11768",
+      "World Equity": "8246",
+      "Total Bond": "7116",
+      "Municipal Bond": "1130"
+    },
+    {
+      "Date": "2024-01-31",
+      "Total Equity": "21078",
+      "World Equity": "19256",
+      "Total Bond": "16935",
+      "Municipal Bond": "2322"
+    },
+    {
+      "Date": "2024-02-07",
+      "Total Equity": "-5419",
+      "World Equity": "-7514",
+      "Total Bond": "-10354",
+      "Municipal Bond": "2840"
+    },
+    {
+      "Date": "2024-02-14",
+      "Total Equity": "23114",
+      "World Equity": "19192",
+      "Total Bond": "17406",
+      "Municipal Bond": "1786"
+    },
+    {
+      "Date": "2024-02-21",
+      "Total Equity": "6125",
+      "World Equity": "4474",
+      "Total Bond": "2666",
+      "Municipal Bond": "1809"
+    },
+    {
+      "Date": "2024-02-28",
+      "Total Equity": "20441",
+      "World Equity": "19917",
+      "Total Bond": "17534",
+      "Municipal Bond": "2383"
+    },
+    {
+      "Date": "2024-03-06",
+      "Total Equity": "22040",
+      "World Equity": "14510",
+      "Total Bond": "11817",
+      "Municipal Bond": "2693"
+    },
+    {
+      "Date": "2024-03-13",
+      "Total Equity": "46974",
+      "World Equity": "41572",
+      "Total Bond": "40408",
+      "Municipal Bond": "1164"
+    },
+    {
+      "Date": "2024-03-20",
+      "Total Equity": "10161",
+      "World Equity": "10301",
+      "Total Bond": "4466",
+      "Municipal Bond": "5835"
+    },
+    {
+      "Date": "2024-03-27",
+      "Total Equity": "26403",
+      "World Equity": "21283",
+      "Total Bond": "19927",
+      "Municipal Bond": "1355"
+    },
+    {
+      "Date": "2024-05-01",
+      "Total Equity": "5323",
+      "World Equity": "2227",
+      "Total Bond": "1860",
+      "Municipal Bond": "367"
+    },
+    {
+      "Date": "2024-05-08",
+      "Total Equity": "25306",
+      "World Equity": "12511",
+      "Total Bond": "10050",
+      "Municipal Bond": "2461"
+    },
+    {
+      "Date": "2024-05-15",
+      "Total Equity": "23383",
+      "World Equity": "17777",
+      "Total Bond": "14775",
+      "Municipal Bond": "3001"
+    },
+    {
+      "Date": "2024-05-22",
+      "Total Equity": "24775",
+      "World Equity": "19002",
+      "Total Bond": "15451",
+      "Municipal Bond": "3551"
+    },
+    {
+      "Date": "2024-05-29",
+      "Total Equity": "557",
+      "World Equity": "421",
+      "Total Bond": "217",
+      "Municipal Bond": "204"
+    },
+    {
+      "Date": "2024-06-05",
+      "Total Equity": "22916",
+      "World Equity": "14401",
+      "Total Bond": "13383",
+      "Municipal Bond": "1018"
+    },
+    {
+      "Date": "2024-06-12",
+      "Total Equity": "20345",
+      "World Equity": "11773",
+      "Total Bond": "6829",
+      "Municipal Bond": "4944"
+    },
+    {
+      "Date": "2024-06-18",
+      "Total Equity": "-4556",
+      "World Equity": "-8164",
+      "Total Bond": "-8269",
+      "Municipal Bond": "105"
+    },
+    {
+      "Date": "2024-06-26",
+      "Total Equity": "40433",
+      "World Equity": "33862",
+      "Total Bond": "27798",
+      "Municipal Bond": "6064"
+    },
+    {
+      "Date": "2024-07-02",
+      "Total Equity": "26228",
+      "World Equity": "22045",
+      "Total Bond": "20722",
+      "Municipal Bond": "1323"
+    },
+    {
+      "Date": "2024-07-10",
+      "Total Equity": "16561",
+      "World Equity": "7425",
+      "Total Bond": "5803",
+      "Municipal Bond": "1621"
+    },
+    {
+      "Date": "2024-07-17",
+      "Total Equity": "54173",
+      "World Equity": "40066",
+      "Total Bond": "39112",
+      "Municipal Bond": "954"
+    },
+    {
+      "Date": "2024-07-24",
+      "Total Equity": "37116",
+      "World Equity": "28749",
+      "Total Bond": "30049",
+      "Municipal Bond": "-1300"
+    },
+    {
+      "Date": "2025-09-03",
+      "Total Equity": "29697",
+      "World Equity": "17960",
+      "Total Bond": "14774",
+      "Municipal Bond": "3186"
+    },
+    {
+      "Date": "2025-09-10",
+      "Total Equity": "22223",
+      "World Equity": "10297",
+      "Total Bond": "2203",
+      "Municipal Bond": "8094"
+    },
+    {
+      "Date": "2025-09-17",
+      "Total Equity": "28570",
+      "World Equity": "19899",
+      "Total Bond": "10266",
+      "Municipal Bond": "9632"
+    },
+    {
+      "Date": "2025-09-24",
+      "Total Equity": "44515",
+      "World Equity": "24730",
+      "Total Bond": "21360",
+      "Municipal Bond": "3370"
+    },
+    {
+      "Date": "2025-10-01",
+      "Total Equity": "39906",
+      "World Equity": "31554",
+      "Total Bond": "25348",
+      "Municipal Bond": "6206"
+    },
+    {
+      "Date": "2025-10-08",
+      "Total Equity": "39554",
+      "World Equity": "22338",
+      "Total Bond": "16964",
+      "Municipal Bond": "5374"
+    },
+    {
+      "Date": "2026-02-04",
+      "Total Equity": "43067",
+      "World Equity": "29738",
+      "Total Bond": "13666",
+      "Municipal Bond": "16072"
+    },
+    {
+      "Date": "2026-02-11",
+      "Total Equity": "41371",
+      "World Equity": "24759",
+      "Total Bond": "13603",
+      "Municipal Bond": "11156"
+    },
+    {
+      "Date": "2026-02-18",
+      "Total Equity": "36832",
+      "World Equity": "26552",
+      "Total Bond": "14060",
+      "Municipal Bond": "12492"
+    },
+    {
+      "Date": "2026-02-25",
+      "Total Equity": "62363",
+      "World Equity": "27334",
+      "Total Bond": "8279",
+      "Municipal Bond": "19054"
+    },
+    {
+      "Date": "2026-03-04",
+      "Total Equity": "24299",
+      "World Equity": "12227",
+      "Total Bond": "-652",
+      "Municipal Bond": "12879"
+    },
+    {
+      "Date": "2026-03-11",
+      "Total Equity": "22797",
+      "World Equity": "11869",
+      "Total Bond": "4291",
+      "Municipal Bond": "7578"
+    },
+    {
+      "Date": "2026-03-18",
+      "Total Equity": "25057",
+      "World Equity": "12807",
+      "Total Bond": "2823",
+      "Municipal Bond": "9984"
+    },
+    {
+      "Date": "2026-03-25",
+      "Total Equity": "40513",
+      "World Equity": "31891",
+      "Total Bond": "29748",
+      "Municipal Bond": "2143"
+    }
+  ],
+  "meta": {
+    "title": "US Investor Fund Flows Weekly - Free Download",
+    "description": "118 weekly records of US mutual fund investor flows by asset class (equity, bond, hybrid), providing finer-grained tracking of capital movements into and out of fund categories. Contains 118 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US Investor Fund Flows Weekly | ListBase",
+    "seo_description": "Download US Investor Fund Flows Weekly — 118 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 118 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/investor-flow-of-funds-us"
+    ]
+  }
+}

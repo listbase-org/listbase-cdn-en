@@ -1,0 +1,376 @@
+{
+  "id": "kh-airports-iata",
+  "name": "Cambodia — IATA Airports",
+  "title": "Cambodia — IATA Airports",
+  "description": "Airports with IATA codes in Cambodia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BBM",
+      "icao_code": "VDBG",
+      "name": "Battambang Airport",
+      "city_name_list": "Battambang",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Battambang",
+      "latitude": 13.0957,
+      "longitude": 103.22462,
+      "elevation": 18,
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Battambang_Airport"
+    },
+    {
+      "iata_code": "DSY",
+      "icao_code": "",
+      "name": "Dara Sakor International Airport",
+      "city_name_list": "Dara Sakor International Airport",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Koh Kong",
+      "latitude": 10.90803,
+      "longitude": 103.22836,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "HPP",
+      "icao_code": "",
+      "name": "Poipet",
+      "city_name_list": "Poipet",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 13.65,
+      "longitude": 102.7,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "KKZ",
+      "icao_code": "VDKK",
+      "name": "Kaoh Kong Airport",
+      "city_name_list": "Kaoh Kong Airport",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Koh Kong",
+      "latitude": 11.62,
+      "longitude": 103,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Koh_Kong_Airport"
+    },
+    {
+      "iata_code": "KMT",
+      "icao_code": "",
+      "name": "Kampot Airport",
+      "city_name_list": "Kampot Airport",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Kampot",
+      "latitude": 10.63,
+      "longitude": 104.2,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kampot_Airport"
+    },
+    {
+      "iata_code": "KOS",
+      "icao_code": "VDSV",
+      "name": "Sihanoukville International Airport",
+      "city_name_list": "Sihanoukville",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Kampot",
+      "latitude": 10.5797,
+      "longitude": 103.637,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sihanouk_International_Airport"
+    },
+    {
+      "iata_code": "KTI",
+      "icao_code": "VDKT",
+      "name": "Kratie Airport",
+      "city_name_list": "Kratie Airport",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Kratie",
+      "latitude": 12.48,
+      "longitude": 106.1,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Krati%C3%A9_Airport"
+    },
+    {
+      "iata_code": "KTI",
+      "icao_code": "VDTI",
+      "name": "Techo International Airport",
+      "city_name_list": "Ta Khmau",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Kandal",
+      "latitude": 11.35955,
+      "longitude": 104.92077,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Techo_International_Airport_(Cambodia)"
+    },
+    {
+      "iata_code": "KZC",
+      "icao_code": "VDKH",
+      "name": "Kampong Chhnang Airport",
+      "city_name_list": "Kampong Chhnang",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Kampong Chhnang",
+      "latitude": 12.2552,
+      "longitude": 104.564,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kampong_Chhnang_Airport"
+    },
+    {
+      "iata_code": "KZD",
+      "icao_code": "VDSY",
+      "name": "Krakor",
+      "city_name_list": "Krakor",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Pursat",
+      "latitude": 12.53,
+      "longitude": 104.2,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Krakor_Airport"
+    },
+    {
+      "iata_code": "KZK",
+      "icao_code": "",
+      "name": "Kompong Thom",
+      "city_name_list": "Kompong Thom",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Kompong Thom",
+      "latitude": 12.72,
+      "longitude": 104.9,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "MWV",
+      "icao_code": "VDMK",
+      "name": "Môndól Kiri Airport",
+      "city_name_list": "Môndól Kiri Airport",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Mondolkiri",
+      "latitude": 12.45,
+      "longitude": 107.2,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mondulkiri_Airport"
+    },
+    {
+      "iata_code": "OMY",
+      "icao_code": "",
+      "name": "Thbeng Meanchey Airport",
+      "city_name_list": "Thbeng Meanchey Airport",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Preah Vihear",
+      "latitude": 13.82,
+      "longitude": 105,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Thbeng_Meanchey_Airport"
+    },
+    {
+      "iata_code": "PNH",
+      "icao_code": "VDPP",
+      "name": "Phnom Penh International Airport",
+      "city_name_list": "Phnom Penh",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Phnom Penh",
+      "latitude": 11.54656,
+      "longitude": 104.84414,
+      "elevation": 12,
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Phnom_Penh_International_Airport"
+    },
+    {
+      "iata_code": "RBE",
+      "icao_code": "VDRK",
+      "name": "Ratanakiri Airport",
+      "city_name_list": "Ratanakiri Airport",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Ratanakiri",
+      "latitude": 13.07,
+      "longitude": 107,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ratanakiri_Airport"
+    },
+    {
+      "iata_code": "REP",
+      "icao_code": "VDSR",
+      "name": "Siem Reap International Airport",
+      "city_name_list": "Siem Reap",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Siem Reap",
+      "latitude": 13.41067,
+      "longitude": 103.81284,
+      "elevation": 18,
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Siem_Reap_International_Airport"
+    },
+    {
+      "iata_code": "SAI",
+      "icao_code": "VDSA",
+      "name": "Siem Reap–Angkor International Airport",
+      "city_name_list": "Siem Reap",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Siem Reap",
+      "latitude": 13.37501,
+      "longitude": 104.22008,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Siem_Reap%E2%80%93Angkor_International_Airport"
+    },
+    {
+      "iata_code": "SVR",
+      "icao_code": "",
+      "name": "Svay Rieng",
+      "city_name_list": "Svay Rieng",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Svay Rieng",
+      "latitude": 11.08785,
+      "longitude": 105.79935,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Svay_Rieng_City"
+    },
+    {
+      "iata_code": "TNX",
+      "icao_code": "VDST",
+      "name": "Stung Treng Airport",
+      "city_name_list": "Stung Treng",
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Stung Treng",
+      "latitude": 13.5319,
+      "longitude": 106.015,
+      "elevation": "",
+      "timezone": "Asia/Phnom_Penh",
+      "wiki_link": "https://en.wikipedia.org/wiki/Stung_Treng_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Cambodia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Cambodia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cambodia — IATA Airports | ListBase",
+    "seo_description": "Download Cambodia — IATA Airports dataset with 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

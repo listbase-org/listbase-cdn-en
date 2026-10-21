@@ -1,0 +1,286 @@
+{
+  "id": "na-political-parties",
+  "name": "Namibia — Political Parties",
+  "title": "Namibia — Political Parties",
+  "description": "Political parties of Namibia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 2331,
+      "name_short": "SWAPO",
+      "name": "South West Africa People's Organization",
+      "name_english": "South West Africa People's Organization",
+      "name_other": "",
+      "year_first": 1960,
+      "year_last": "",
+      "share": 80,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/SWAPO",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6601,
+      "name_short": "NPSWA",
+      "name": "Nasionale Party van Suidwes-Afrika",
+      "name_english": "National Party of South West Africa",
+      "name_other": "German: Nationale Partei Südwestafrikas",
+      "year_first": 1924,
+      "year_last": 1991,
+      "share": 67.8,
+      "share_year": 1965,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Party_of_South_West_Africa",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6600,
+      "name_short": "UNSWP",
+      "name": "Verenigde Nasionale Suidwes Party",
+      "name_english": "United National South West Party",
+      "name_other": "German: Vereinigte Nationale Südwestpartei",
+      "year_first": 1926,
+      "year_last": 1966,
+      "share": 60.3,
+      "share_year": 1945,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_National_South_West_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2356,
+      "name_short": "DTA",
+      "name": "Democratic Turnhalle Alliance",
+      "name_english": "Democratic Turnhalle Alliance",
+      "name_other": "",
+      "year_first": 1977,
+      "year_last": "",
+      "share": 28.6,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Turnhalle_Alliance",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6602,
+      "name_short": "DB",
+      "name": "German League in South West Africa",
+      "name_english": "German League in South West Africa",
+      "name_other": "German: Deutsche Liga in Südwestafrika",
+      "year_first": 1929,
+      "year_last": 1929,
+      "share": 22.8,
+      "share_year": 1929,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6447,
+      "name_short": "ACTUR",
+      "name": "Action Front for the Retention of Turnhalle Principles",
+      "name_english": "Action Front for the Retention of Turnhalle Principles",
+      "name_other": "",
+      "year_first": 1978,
+      "year_last": 1978,
+      "share": 11.9,
+      "share_year": 1978,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4895,
+      "name_short": "RDP",
+      "name": "Rally for Democracy and Progress",
+      "name_english": "Rally for Democracy and Progress",
+      "name_other": "",
+      "year_first": 2007,
+      "year_last": "",
+      "share": 10.9,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rally_for_Democracy_and_Progress_%28Namibia%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2358,
+      "name_short": "CD",
+      "name": "Congress of Democrats",
+      "name_english": "Congress of Democrats",
+      "name_other": "",
+      "year_first": 1999,
+      "year_last": "",
+      "share": 9.7,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/Congress_of_Democrats",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2355,
+      "name_short": "UDF",
+      "name": "United Democratic Front",
+      "name_english": "United Democratic Front",
+      "name_other": "",
+      "year_first": 1998,
+      "year_last": "",
+      "share": 5.6,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Democratic_Front_%28Namibia%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2357,
+      "name_short": "NUDO",
+      "name": "National Unity Democratic Organisation",
+      "name_english": "National Unity Democratic Organisation",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": "",
+      "share": 4.3,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Unity_Democratic_Organisation",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5643,
+      "name_short": "ACN",
+      "name": "Action Christian National",
+      "name_english": "Action Christian National",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": "",
+      "share": 3.5,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/Action_Christian_National",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5642,
+      "name_short": "APP",
+      "name": "All People’s Party",
+      "name_english": "All People’s Party",
+      "name_other": "",
+      "year_first": 2008,
+      "year_last": "",
+      "share": 2.3,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/All_People%27s_Party_(Namibia)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5641,
+      "name_short": "RP",
+      "name": "Republican Party",
+      "name_english": "Republican Party",
+      "name_other": "",
+      "year_first": 1977,
+      "year_last": "",
+      "share": 2,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/Republican_Party_(Namibia)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Namibia — Political Parties - Free Download",
+    "description": "Political parties of Namibia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Namibia — Political Parties | ListBase",
+    "seo_description": "Download Namibia — Political Parties dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

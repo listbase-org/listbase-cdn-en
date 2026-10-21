@@ -1,0 +1,271 @@
+{
+  "id": "az-airports-iata",
+  "name": "Azerbaijan — IATA Airports",
+  "title": "Azerbaijan — IATA Airports",
+  "description": "Airports with IATA codes in Azerbaijan: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "FZL",
+      "icao_code": "UBBF",
+      "name": "Fuzuli International Airport",
+      "city_name_list": "Fizuli",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Fuzuli District",
+      "latitude": 39.59456,
+      "longitude": 47.19571,
+      "elevation": "",
+      "timezone": "Asia/Baku",
+      "wiki_link": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport"
+    },
+    {
+      "iata_code": "GBB",
+      "icao_code": "UBBQ",
+      "name": "Gabala International Airport",
+      "city_name_list": "Gabala",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Qabala District",
+      "latitude": 40.82667,
+      "longitude": 47.71276,
+      "elevation": "",
+      "timezone": "Asia/Baku",
+      "wiki_link": "https://en.wikipedia.org/wiki/Qabala_Airport"
+    },
+    {
+      "iata_code": "GNJ",
+      "icao_code": "UBBG",
+      "name": "Ganja International Airport",
+      "city_name_list": "Ganja",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Goygol Rayon",
+      "latitude": 40.737678,
+      "longitude": 46.317581,
+      "elevation": 330,
+      "timezone": "Asia/Baku",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ganja_International_Airport"
+    },
+    {
+      "iata_code": "GYD",
+      "icao_code": "UBBB",
+      "name": "Heydar Aliyev International Airport",
+      "city_name_list": "Baku",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Baki",
+      "latitude": 40.46075,
+      "longitude": 50.05154,
+      "elevation": 3,
+      "timezone": "Asia/Baku",
+      "wiki_link": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport"
+    },
+    {
+      "iata_code": "LHL",
+      "icao_code": "",
+      "name": "Lachin International Airport",
+      "city_name_list": "Lachin International Airport",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Lachin Rayon",
+      "latitude": 39.89161,
+      "longitude": 46.35146,
+      "elevation": "",
+      "timezone": "Asia/Baku",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lachin_International_Airport"
+    },
+    {
+      "iata_code": "LLK",
+      "icao_code": "UBBL",
+      "name": "Lankaran International Airport",
+      "city_name_list": "Lankaran",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Lankaran",
+      "latitude": 38.74997,
+      "longitude": 48.81243,
+      "elevation": "",
+      "timezone": "Asia/Baku",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lankaran_International_Airport"
+    },
+    {
+      "iata_code": "NAJ",
+      "icao_code": "UBBN",
+      "name": "Nakhchivan International Airport",
+      "city_name_list": "Naxçıvan",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Nakhchivan",
+      "latitude": 39.1888,
+      "longitude": 45.4584,
+      "elevation": "",
+      "timezone": "Asia/Baku",
+      "wiki_link": "https://en.wikipedia.org/wiki/Nakhchivan_Airport"
+    },
+    {
+      "iata_code": "SWZ",
+      "icao_code": "",
+      "name": "Alat Airport",
+      "city_name_list": "Baku",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 39.87607,
+      "longitude": 49.36731,
+      "elevation": "",
+      "timezone": "Asia/Baku",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "YLV",
+      "icao_code": "UBEE",
+      "name": "Yevlakh Airport",
+      "city_name_list": "Yevlakh",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Yevlax City",
+      "latitude": 40.63421,
+      "longitude": 47.13924,
+      "elevation": "",
+      "timezone": "Asia/Baku",
+      "wiki_link": "https://en.wikipedia.org/wiki/Yevlakh_Airport"
+    },
+    {
+      "iata_code": "ZTU",
+      "icao_code": "UBBY",
+      "name": "Zaqatala International Airport",
+      "city_name_list": "Zaqatala",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Zaqatala District",
+      "latitude": 41.5622,
+      "longitude": 46.6672,
+      "elevation": "",
+      "timezone": "Asia/Baku",
+      "wiki_link": "https://en.wikipedia.org/wiki/Zaqatala_International_Airport"
+    },
+    {
+      "iata_code": "ZXT",
+      "icao_code": "UBTT",
+      "name": "Zabrat Airport",
+      "city_name_list": "Baku",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Baki",
+      "latitude": 40.49683,
+      "longitude": 49.97286,
+      "elevation": "",
+      "timezone": "Asia/Baku",
+      "wiki_link": "https://en.wikipedia.org/wiki/Zabrat_Airport"
+    },
+    {
+      "iata_code": "ZZE",
+      "icao_code": "UBBZ",
+      "name": "Zangilan International Airport",
+      "city_name_list": "Zangilan",
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Zangilan District",
+      "latitude": 39.09437,
+      "longitude": 46.73421,
+      "elevation": "",
+      "timezone": "Asia/Baku",
+      "wiki_link": "https://en.wikipedia.org/wiki/Zangilan_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Azerbaijan — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Azerbaijan: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Azerbaijan — IATA Airports | ListBase",
+    "seo_description": "Download Azerbaijan — IATA Airports dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

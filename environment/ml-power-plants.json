@@ -1,0 +1,178 @@
+{
+  "id": "ml-power-plants",
+  "name": "Mali — Power Plants",
+  "title": "Mali — Power Plants",
+  "description": "Power plants located in Mali from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "number"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Manantali Hydroelectric Power Plant Mali",
+      "gppd_idnr": "GEODB0042546",
+      "capacity_mw": 200,
+      "latitude": 13.1956,
+      "longitude": -10.4289,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1007.42; 2014: 702.69; 2015: 939.21; 2016: 889.38; 2017: 1007.42",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Felou Hydroelectric Power Plant Mali",
+      "gppd_idnr": "GEODB0043693",
+      "capacity_mw": 62.3,
+      "latitude": 14.3582,
+      "longitude": -11.3492,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 285.23; 2014: 284.17; 2015: 258.62; 2016: 262.01; 2017: 285.23",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Selingue Hydroelectric Power Plant Mali",
+      "gppd_idnr": "GEODB0042549",
+      "capacity_mw": 44,
+      "latitude": 11.6383,
+      "longitude": -8.23,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 251.31; 2014: 251.31; 2015: 199.21; 2016: 199.76; 2017: 211.22",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sotuba Hydroelectric Power Plant Mali",
+      "gppd_idnr": "GEODB0042550",
+      "capacity_mw": 5.2,
+      "latitude": 12.6379,
+      "longitude": -7.9254,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 24.78; 2014: 24.28; 2015: 22.7; 2016: 22.97; 2017: 22.01",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Mali — Power Plants - Free Download",
+    "description": "Power plants located in Mali from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 4 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mali — Power Plants | ListBase",
+    "seo_description": "Download Mali — Power Plants dataset with 4 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 4 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

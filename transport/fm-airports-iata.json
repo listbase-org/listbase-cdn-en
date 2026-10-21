@@ -1,0 +1,166 @@
+{
+  "id": "fm-airports-iata",
+  "name": "Micronesia — IATA Airports",
+  "title": "Micronesia — IATA Airports",
+  "description": "Airports with IATA codes in Micronesia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "KSA",
+      "icao_code": "PTSA",
+      "name": "Kosrae International Airport",
+      "city_name_list": "Kosrae Island",
+      "country_code": "FM",
+      "country_name": "Micronesia",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Kosrae",
+      "latitude": 5.35698,
+      "longitude": 162.95839,
+      "elevation": 3,
+      "timezone": "Pacific/Kosrae",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kosrae_International_Airport"
+    },
+    {
+      "iata_code": "PNI",
+      "icao_code": "PTPN",
+      "name": "Pohnpei International Airport",
+      "city_name_list": "Pohnpei Island",
+      "country_code": "FM",
+      "country_name": "Micronesia",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Pohnpei State",
+      "latitude": 6.9851,
+      "longitude": 158.20899,
+      "elevation": 3,
+      "timezone": "Pacific/Pohnpei",
+      "wiki_link": "https://en.wikipedia.org/wiki/Pohnpei_International_Airport"
+    },
+    {
+      "iata_code": "TKK",
+      "icao_code": "PTKK",
+      "name": "Chuuk International Airport",
+      "city_name_list": "Weno",
+      "country_code": "FM",
+      "country_name": "Micronesia",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Chuuk",
+      "latitude": 7.46102,
+      "longitude": 151.84231,
+      "elevation": 2,
+      "timezone": "Pacific/Chuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Chuuk_International_Airport"
+    },
+    {
+      "iata_code": "ULI",
+      "icao_code": "",
+      "name": "Ulithi Airport",
+      "city_name_list": "Ulithi Airport",
+      "country_code": "FM",
+      "country_name": "Micronesia",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Yap State",
+      "latitude": 9.967,
+      "longitude": 139.7,
+      "elevation": "",
+      "timezone": "Pacific/Chuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ulithi_Airport"
+    },
+    {
+      "iata_code": "YAP",
+      "icao_code": "PTYA",
+      "name": "Yap International Airport",
+      "city_name_list": "Yap Island",
+      "country_code": "FM",
+      "country_name": "Micronesia",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Yap State",
+      "latitude": 9.49995,
+      "longitude": 138.08595,
+      "elevation": 27,
+      "timezone": "Pacific/Chuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Yap_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Micronesia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Micronesia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Micronesia — IATA Airports | ListBase",
+    "seo_description": "Download Micronesia — IATA Airports dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

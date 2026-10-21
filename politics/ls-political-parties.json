@@ -1,0 +1,316 @@
+{
+  "id": "ls-political-parties",
+  "name": "Lesotho — Political Parties",
+  "title": "Lesotho — Political Parties",
+  "description": "Political parties of Lesotho from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 4167,
+      "name_short": "BCP",
+      "name": "Basotho Congress Party / Basutoland Congress Party",
+      "name_english": "Basotho Congress Party / Basutoland Congress Party",
+      "name_other": "",
+      "year_first": 1965,
+      "year_last": 2012,
+      "share": 73.4,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/Basutoland_Congress_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3771,
+      "name_short": "LCD",
+      "name": "Lesotho Congress for Democracy",
+      "name_english": "Lesotho Congress for Democracy",
+      "name_other": "",
+      "year_first": 1998,
+      "year_last": 2012,
+      "share": 60.9,
+      "share_year": 1998,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lesotho_Congress_for_Democracy",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4171,
+      "name_short": "BNP",
+      "name": "Basotho National Party",
+      "name_english": "Basotho National Party",
+      "name_other": "",
+      "year_first": 1965,
+      "year_last": "",
+      "share": 42.3,
+      "share_year": 1970,
+      "wikipedia": "https://en.wikipedia.org/wiki/Basotho_National_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4166,
+      "name_short": "DC",
+      "name": "Democratic Congress",
+      "name_english": "Democratic Congress",
+      "name_other": "",
+      "year_first": 2011,
+      "year_last": "",
+      "share": 39.4,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Congress",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4170,
+      "name_short": "NIP",
+      "name": "National Independent Party",
+      "name_english": "National Independent Party",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 2012,
+      "share": 25.7,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Independent_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3766,
+      "name_short": "ABC",
+      "name": "All Basotho Convention/Kobo Tata ea Basotho",
+      "name_english": "All Basotho Convention",
+      "name_other": "",
+      "year_first": 2007,
+      "year_last": 2012,
+      "share": 25,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/All_Basotho_Convention",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4172,
+      "name_short": "MFP",
+      "name": "Marematlou Freedom Party",
+      "name_english": "Marematlou Freedom Party",
+      "name_other": "",
+      "year_first": 1965,
+      "year_last": 2012,
+      "share": 16.7,
+      "share_year": 1965,
+      "wikipedia": "https://en.wikipedia.org/wiki/Marematlou_Freedom_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3769,
+      "name_short": "LWP",
+      "name": "Lesotho Workers Party",
+      "name_english": "Lesotho Workers Party",
+      "name_other": "",
+      "year_first": 2002,
+      "year_last": 2012,
+      "share": 12.4,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lesotho_Workers%27_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5980,
+      "name_short": "AD",
+      "name": "Alliance of Democrats",
+      "name_english": "Alliance of Democrats",
+      "name_other": "Sesotho: Pele-Feela",
+      "year_first": 2016,
+      "year_last": "",
+      "share": 7.4,
+      "share_year": 2017,
+      "wikipedia": "https://en.wikipedia.org/wiki/Alliance_of_Democrats_(Lesotho)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5982,
+      "name_short": "MEC",
+      "name": "Movement for Economic Change",
+      "name_english": "Movement for Economic Change",
+      "name_other": "Sesotho: Sethala sa Kholiso ea Moruo",
+      "year_first": 2017,
+      "year_last": "",
+      "share": 5.1,
+      "share_year": 2017,
+      "wikipedia": "https://en.wikipedia.org/wiki/Movement_for_Economic_Change",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3768,
+      "name_short": "LPC",
+      "name": "Lesotho People’s Congress",
+      "name_english": "Lesotho People’s Congress",
+      "name_other": "",
+      "year_first": 2002,
+      "year_last": 2012,
+      "share": 3.1,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lesotho_People%27s_Congress",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4169,
+      "name_short": "BAC",
+      "name": "Basutoland African Congress",
+      "name_english": "Basutoland African Congress",
+      "name_other": "",
+      "year_first": 2002,
+      "year_last": "",
+      "share": 3,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/Basutoland_African_Congress",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4381,
+      "name_short": "MML",
+      "name": "Mokhatio oa Makomonisi a Lesotho",
+      "name_english": "Communist Party of Lesotho",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": 2002,
+      "share": 2.9,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Lesotho",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4168,
+      "name_short": "MT",
+      "name": "Marema-Tlou/Marematlou Party",
+      "name_english": "Marema-Tlou/Marematlou Party",
+      "name_other": "",
+      "year_first": 1965,
+      "year_last": 1965,
+      "share": 2.2,
+      "share_year": 1965,
+      "wikipedia": "https://en.wikipedia.org/wiki/Basutoland_general_election,_1965",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4173,
+      "name_short": "PFD",
+      "name": "Popular Front for Democracy",
+      "name_english": "Popular Front for Democracy",
+      "name_other": "Khoeetsa ea Sechaba",
+      "year_first": 1993,
+      "year_last": 2012,
+      "share": 2,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Popular_Front_for_Democracy",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Lesotho — Political Parties - Free Download",
+    "description": "Political parties of Lesotho from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lesotho — Political Parties | ListBase",
+    "seo_description": "Download Lesotho — Political Parties dataset with 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

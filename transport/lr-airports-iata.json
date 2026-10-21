@@ -1,0 +1,286 @@
+{
+  "id": "lr-airports-iata",
+  "name": "Liberia — IATA Airports",
+  "title": "Liberia — IATA Airports",
+  "description": "Airports with IATA codes in Liberia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "CPA",
+      "icao_code": "GLCP",
+      "name": "Cape Palmas",
+      "city_name_list": "Harper",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Maryland County",
+      "latitude": 4.383,
+      "longitude": -7.7,
+      "elevation": "",
+      "timezone": "Africa/Monrovia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Cape_Palmas_Airport"
+    },
+    {
+      "iata_code": "FOY",
+      "icao_code": "",
+      "name": "Foya",
+      "city_name_list": "Foya Kamara",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Lofa County",
+      "latitude": 8.352,
+      "longitude": -10.226,
+      "elevation": "",
+      "timezone": "Africa/Monrovia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Foya_Airport"
+    },
+    {
+      "iata_code": "MLW",
+      "icao_code": "GLMR",
+      "name": "James Spriggs Payne Airfield",
+      "city_name_list": "Monrovia",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Montserrado County",
+      "latitude": 6.289061,
+      "longitude": -10.758722,
+      "elevation": 8,
+      "timezone": "Africa/Monrovia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Spriggs_Payne_Airport"
+    },
+    {
+      "iata_code": "NIA",
+      "icao_code": "GLNA",
+      "name": "Nimba",
+      "city_name_list": "Nimba",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Nimba",
+      "latitude": 7.5,
+      "longitude": -8.583,
+      "elevation": "",
+      "timezone": "Africa/Monrovia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Nimba_Airport"
+    },
+    {
+      "iata_code": "ROB",
+      "icao_code": "GLRB",
+      "name": "Roberts International Airport",
+      "city_name_list": "Monrovia",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Margibi County",
+      "latitude": 6.233789,
+      "longitude": -10.362311,
+      "elevation": 9,
+      "timezone": "Africa/Monrovia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Roberts_International_Airport"
+    },
+    {
+      "iata_code": "SAZ",
+      "icao_code": "GLST",
+      "name": "Sasstown Airport",
+      "city_name_list": "Sasstown",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sinoe County",
+      "latitude": 4.66724,
+      "longitude": -8.42699,
+      "elevation": "",
+      "timezone": "Africa/Monrovia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sasstown_Airport"
+    },
+    {
+      "iata_code": "SNI",
+      "icao_code": "GLGE",
+      "name": "Greenville/Sinoe Airport",
+      "city_name_list": "Greenville",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sinoe County",
+      "latitude": 5.0325,
+      "longitude": -9.06417,
+      "elevation": "",
+      "timezone": "Africa/Monrovia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Greenville%2FSinoe_Airport"
+    },
+    {
+      "iata_code": "THC",
+      "icao_code": "GLTN",
+      "name": "Tchien Airport",
+      "city_name_list": "Tchien",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Grand Gedeh County",
+      "latitude": 6.06639,
+      "longitude": -8.13667,
+      "elevation": "",
+      "timezone": "Africa/Monrovia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tchien_Airport"
+    },
+    {
+      "iata_code": "TPT",
+      "icao_code": "",
+      "name": "Tappita Airfield",
+      "city_name_list": "Tappita City",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Nimba",
+      "latitude": 6.49444,
+      "longitude": -8.87194,
+      "elevation": "",
+      "timezone": "Africa/Monrovia",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "UCN",
+      "icao_code": "GLBU",
+      "name": "Buchanan Airport",
+      "city_name_list": "Buchanan",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sinoe County",
+      "latitude": 5.90411,
+      "longitude": -10.05772,
+      "elevation": "",
+      "timezone": "Africa/Monrovia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Buchanan_Airport"
+    },
+    {
+      "iata_code": "VOI",
+      "icao_code": "GLVA",
+      "name": "Voinjama Airport",
+      "city_name_list": "Voinjama",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Lofa County",
+      "latitude": 8.417,
+      "longitude": -9.75,
+      "elevation": "",
+      "timezone": "Africa/Monrovia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Voinjama_Airport"
+    },
+    {
+      "iata_code": "WOI",
+      "icao_code": "",
+      "name": "Wologissi Airport",
+      "city_name_list": "Wologissi",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Lofa",
+      "latitude": 8.267,
+      "longitude": -9.75,
+      "elevation": "",
+      "timezone": "Africa/Monrovia",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "XSA",
+      "icao_code": "",
+      "name": "Sinoe AFC",
+      "city_name_list": "Greenville",
+      "country_code": "LR",
+      "country_name": "Liberia",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sinoe",
+      "latitude": 5.036,
+      "longitude": -9.052,
+      "elevation": "",
+      "timezone": "Africa/Monrovia",
+      "wiki_link": ""
+    }
+  ],
+  "meta": {
+    "title": "Liberia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Liberia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Liberia — IATA Airports | ListBase",
+    "seo_description": "Download Liberia — IATA Airports dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

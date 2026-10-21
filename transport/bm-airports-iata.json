@@ -1,0 +1,121 @@
+{
+  "id": "bm-airports-iata",
+  "name": "Bermuda — IATA Airports",
+  "title": "Bermuda — IATA Airports",
+  "description": "Airports with IATA codes in Bermuda: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BDA",
+      "icao_code": "TXKF",
+      "name": "L.F. Wade International Airport",
+      "city_name_list": "Bermuda",
+      "country_code": "BM",
+      "country_name": "Bermuda",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Saint George's Parish",
+      "latitude": 32.36404,
+      "longitude": -64.6787,
+      "elevation": 3,
+      "timezone": "Atlantic/Bermuda",
+      "wiki_link": "https://en.wikipedia.org/wiki/L.F._Wade_International_Airport"
+    },
+    {
+      "iata_code": "NWU",
+      "icao_code": "",
+      "name": "Naval Air Station Bermuda",
+      "city_name_list": "Bermuda",
+      "country_code": "BM",
+      "country_name": "Bermuda",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Saint George's Parish",
+      "latitude": 32.36556,
+      "longitude": -64.68028,
+      "elevation": 3,
+      "timezone": "Atlantic/Bermuda",
+      "wiki_link": "https://en.wikipedia.org/wiki/Naval_Air_Station_Bermuda"
+    }
+  ],
+  "meta": {
+    "title": "Bermuda — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Bermuda: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bermuda — IATA Airports | ListBase",
+    "seo_description": "Download Bermuda — IATA Airports dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "id": "lang-greek-alphabet",
+  "name": "Complete Greek Alphabet Characters Dataset",
+  "category": "language",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "uppercase",
+      "label": "Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "lowercase",
+      "label": "Lowercase",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "transliteration",
+      "label": "Transliteration",
+      "type": "string"
+    },
+    {
+      "key": "code_point_upper",
+      "label": "Code Point (Upper)",
+      "type": "string"
+    },
+    {
+      "key": "code_point_lower",
+      "label": "Code Point (Lower)",
+      "type": "string"
+    },
+    {
+      "key": "numeric_value",
+      "label": "Numeric Value",
+      "type": "number"
+    },
+    {
+      "key": "usage",
+      "label": "Common Usage in Science/Math",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uppercase": "Α",
+      "lowercase": "α",
+      "name": "Alpha",
+      "transliteration": "a",
+      "code_point_upper": "U+0391",
+      "code_point_lower": "U+03B1",
+      "numeric_value": 1,
+      "usage": "Angles, angular acceleration, fine-structure constant"
+    },
+    {
+      "uppercase": "Β",
+      "lowercase": "β",
+      "name": "Beta",
+      "transliteration": "b",
+      "code_point_upper": "U+0392",
+      "code_point_lower": "U+03B2",
+      "numeric_value": 2,
+      "usage": "Beta coefficient, beta particles, angles"
+    },
+    {
+      "uppercase": "Γ",
+      "lowercase": "γ",
+      "name": "Gamma",
+      "transliteration": "g",
+      "code_point_upper": "U+0393",
+      "code_point_lower": "U+03B3",
+      "numeric_value": 3,
+      "usage": "Gamma function, gamma rays, surface tension"
+    },
+    {
+      "uppercase": "Δ",
+      "lowercase": "δ",
+      "name": "Delta",
+      "transliteration": "d",
+      "code_point_upper": "U+0394",
+      "code_point_lower": "U+03B4",
+      "numeric_value": 4,
+      "usage": "Change/difference, Dirac delta function, angles"
+    },
+    {
+      "uppercase": "Ε",
+      "lowercase": "ε",
+      "name": "Epsilon",
+      "transliteration": "e",
+      "code_point_upper": "U+0395",
+      "code_point_lower": "U+03B5",
+      "numeric_value": 5,
+      "usage": "Small positive quantity, permittivity, strain"
+    },
+    {
+      "uppercase": "Ζ",
+      "lowercase": "ζ",
+      "name": "Zeta",
+      "transliteration": "z",
+      "code_point_upper": "U+0396",
+      "code_point_lower": "U+03B6",
+      "numeric_value": 7,
+      "usage": "Riemann zeta function, damping ratio"
+    },
+    {
+      "uppercase": "Η",
+      "lowercase": "η",
+      "name": "Eta",
+      "transliteration": "ē",
+      "code_point_upper": "U+0397",
+      "code_point_lower": "U+03B7",
+      "numeric_value": 8,
+      "usage": "Efficiency, viscosity, Dirichlet eta function"
+    },
+    {
+      "uppercase": "Θ",
+      "lowercase": "θ",
+      "name": "Theta",
+      "transliteration": "th",
+      "code_point_upper": "U+0398",
+      "code_point_lower": "U+03B8",
+      "numeric_value": 9,
+      "usage": "Angles, temperature, big O notation variant"
+    },
+    {
+      "uppercase": "Ι",
+      "lowercase": "ι",
+      "name": "Iota",
+      "transliteration": "i",
+      "code_point_upper": "U+0399",
+      "code_point_lower": "U+03B9",
+      "numeric_value": 10,
+      "usage": "Index, inclusion map, smallest positive"
+    },
+    {
+      "uppercase": "Κ",
+      "lowercase": "κ",
+      "name": "Kappa",
+      "transliteration": "k",
+      "code_point_upper": "U+039A",
+      "code_point_lower": "U+03BA",
+      "numeric_value": 20,
+      "usage": "Curvature, thermal conductivity, connectivity"
+    },
+    {
+      "uppercase": "Λ",
+      "lowercase": "λ",
+      "name": "Lambda",
+      "transliteration": "l",
+      "code_point_upper": "U+039B",
+      "code_point_lower": "U+03BB",
+      "numeric_value": 30,
+      "usage": "Wavelength, eigenvalue, lambda calculus"
+    },
+    {
+      "uppercase": "Μ",
+      "lowercase": "μ",
+      "name": "Mu",
+      "transliteration": "m",
+      "code_point_upper": "U+039C",
+      "code_point_lower": "U+03BC",
+      "numeric_value": 40,
+      "usage": "Micro- prefix, mean, coefficient of friction"
+    },
+    {
+      "uppercase": "Ν",
+      "lowercase": "ν",
+      "name": "Nu",
+      "transliteration": "n",
+      "code_point_upper": "U+039D",
+      "code_point_lower": "U+03BD",
+      "numeric_value": 50,
+      "usage": "Frequency, kinematic viscosity, Poisson ratio"
+    },
+    {
+      "uppercase": "Ξ",
+      "lowercase": "ξ",
+      "name": "Xi",
+      "transliteration": "x",
+      "code_point_upper": "U+039E",
+      "code_point_lower": "U+03BE",
+      "numeric_value": 60,
+      "usage": "Random variable, extent of reaction"
+    },
+    {
+      "uppercase": "Ο",
+      "lowercase": "ο",
+      "name": "Omicron",
+      "transliteration": "o",
+      "code_point_upper": "U+039F",
+      "code_point_lower": "U+03BF",
+      "numeric_value": 70,
+      "usage": "Big O notation (rarely used due to confusion with 0)"
+    },
+    {
+      "uppercase": "Π",
+      "lowercase": "π",
+      "name": "Pi",
+      "transliteration": "p",
+      "code_point_upper": "U+03A0",
+      "code_point_lower": "U+03C0",
+      "numeric_value": 80,
+      "usage": "Pi constant (3.14159...), product notation, profit"
+    },
+    {
+      "uppercase": "Ρ",
+      "lowercase": "ρ",
+      "name": "Rho",
+      "transliteration": "r",
+      "code_point_upper": "U+03A1",
+      "code_point_lower": "U+03C1",
+      "numeric_value": 100,
+      "usage": "Density, resistivity, correlation coefficient"
+    },
+    {
+      "uppercase": "Σ",
+      "lowercase": "σ/ς",
+      "name": "Sigma",
+      "transliteration": "s",
+      "code_point_upper": "U+03A3",
+      "code_point_lower": "U+03C3",
+      "numeric_value": 200,
+      "usage": "Summation, standard deviation, stress"
+    },
+    {
+      "uppercase": "Τ",
+      "lowercase": "τ",
+      "name": "Tau",
+      "transliteration": "t",
+      "code_point_upper": "U+03A4",
+      "code_point_lower": "U+03C4",
+      "numeric_value": 300,
+      "usage": "Torque, shear stress, time constant, tau (2π)"
+    },
+    {
+      "uppercase": "Υ",
+      "lowercase": "υ",
+      "name": "Upsilon",
+      "transliteration": "u/y",
+      "code_point_upper": "U+03A5",
+      "code_point_lower": "U+03C5",
+      "numeric_value": 400,
+      "usage": "Upsilon meson, specific volume"
+    },
+    {
+      "uppercase": "Φ",
+      "lowercase": "φ",
+      "name": "Phi",
+      "transliteration": "ph",
+      "code_point_upper": "U+03A6",
+      "code_point_lower": "U+03C6",
+      "numeric_value": 500,
+      "usage": "Golden ratio, magnetic flux, angles, wave function"
+    },
+    {
+      "uppercase": "Χ",
+      "lowercase": "χ",
+      "name": "Chi",
+      "transliteration": "ch",
+      "code_point_upper": "U+03A7",
+      "code_point_lower": "U+03C7",
+      "numeric_value": 600,
+      "usage": "Chi-squared distribution, electronegativity"
+    },
+    {
+      "uppercase": "Ψ",
+      "lowercase": "ψ",
+      "name": "Psi",
+      "transliteration": "ps",
+      "code_point_upper": "U+03A8",
+      "code_point_lower": "U+03C8",
+      "numeric_value": 700,
+      "usage": "Wave function, digamma function, angles"
+    },
+    {
+      "uppercase": "Ω",
+      "lowercase": "ω",
+      "name": "Omega",
+      "transliteration": "ō",
+      "code_point_upper": "U+03A9",
+      "code_point_lower": "U+03C9",
+      "numeric_value": 800,
+      "usage": "Ohm (electrical resistance), angular velocity, solid angle"
+    }
+  ],
+  "meta": {
+    "seo_title": "Greek Alphabet Chart - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download the complete Greek alphabet with 24 characters, transliteration, numeric values, and scientific usage. Free in Excel, CSV, PDF.",
+    "title": "Complete Greek Alphabet Characters Dataset",
+    "description": "This dataset provides a comprehensive list of the 24 characters of the Greek alphabet, including their uppercase, lowercase, name, transliteration, Unicode code points, numeric values, and common scientific/mathematical usages.",
+    "key_takeaways": [
+      "Access all 24 Greek alphabet characters with detailed attributes.",
+      "Explore Unicode code points and common scientific/mathematical applications.",
+      "Download ready-to-use data for linguistic or STEM projects.",
+      "Get a complete reference for ancient Greek and modern scientific notation."
+    ],
+    "keywords": [
+      "greek alphabet excel",
+      "greek letters unicode",
+      "alpha beta gamma dataset",
+      "scientific symbols csv",
+      "greek alphabet usage pdf",
+      "download greek characters"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your Python scripts or SQL databases for linguistic analysis or character mapping.",
+      "Use the **Excel** file to filter characters by numeric value or common usage, creating quick reference tables for study.",
+      "Print the **PDF** version for a clear, offline reference chart in classrooms, laboratories, or personal study.",
+      "Leverage this data to build educational applications, quizzes, or tools for learning the Greek alphabet and its applications."
+    ]
+  },
+  "record_count": 24,
+  "title": "Complete Greek Alphabet Characters Dataset"
+}

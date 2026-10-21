@@ -1,0 +1,196 @@
+{
+  "id": "vn-political-parties",
+  "name": "Vietnam — Political Parties",
+  "title": "Vietnam — Political Parties",
+  "description": "Political parties of Vietnam from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 4898,
+      "name_short": "DCVN",
+      "name": "Dang Cong san Viet Nam",
+      "name_english": "Communist Party of Vietnam",
+      "name_other": "Vietnamese: Đảng Cộng sản Việt Nam",
+      "year_first": 1930,
+      "year_last": "",
+      "share": 100,
+      "share_year": 1959,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Vietnam",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6899,
+      "name_short": "VFF",
+      "name": "Vietnamese Fatherland Front of North Vietnam",
+      "name_english": "Vietnamese Fatherland Front of North Vietnam",
+      "name_other": "Vietnamese: Mặt Trận Tổ Quốc Việt Nam",
+      "year_first": 1960,
+      "year_last": 1977,
+      "share": 100,
+      "share_year": 1971,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6900,
+      "name_short": "VFF",
+      "name": "Vietnamese Fatherland Front",
+      "name_english": "Vietnamese Fatherland Front",
+      "name_other": "Vietnamese: Mặt Trận Tổ Quốc Việt Nam",
+      "year_first": 1977,
+      "year_last": "",
+      "share": 100,
+      "share_year": 1976,
+      "wikipedia": "https://en.wikipedia.org/wiki/Vietnamese_Fatherland_Front",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6901,
+      "name_short": "VDP",
+      "name": "Vietnam Democratic Party",
+      "name_english": "Vietnam Democratic Party",
+      "name_other": "Vietnamese: Đảng Dân chủ Việt Nam",
+      "year_first": 1944,
+      "year_last": 1988,
+      "share": 14.9,
+      "share_year": 1946,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_of_Vietnam",
+      "description": "45 of 302 seats in 1946 North Vietnamese legislative election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6903,
+      "name_short": "VSP",
+      "name": "Vietnam Socialist Party",
+      "name_english": "Vietnam Socialist Party",
+      "name_other": "Vietnamese: Đảng Xã hội Việt Nam",
+      "year_first": 1946,
+      "year_last": 1988,
+      "share": 8.9,
+      "share_year": 1946,
+      "wikipedia": "https://en.wikipedia.org/wiki/Socialist_Party_of_Vietnam",
+      "description": "27 of 302 seats in 1946 North Vietnamese legislative election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6902,
+      "name_short": "VNQDD",
+      "name": "Viet Nam Quoc Dan Dang",
+      "name_english": "Vietnamese Nationalist Party",
+      "name_other": "Vietnamese: Việt Nam Quốc Dân Đảng",
+      "year_first": 1927,
+      "year_last": 1975,
+      "share": 8.6,
+      "share_year": 1946,
+      "wikipedia": "https://en.wikipedia.org/wiki/Việt_Nam_Quốc_Dân_Đảng",
+      "description": "26 of 302 seats in 1946 North Vietnamese legislative election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6904,
+      "name_short": "DMH",
+      "name": "Dong Minh Hoi",
+      "name_english": "Vietnamese Revolutionary League",
+      "name_other": "",
+      "year_first": 1946,
+      "year_last": 1946,
+      "share": 7.3,
+      "share_year": 1946,
+      "wikipedia": "",
+      "description": "22 of 302 seats in 1946 North Vietnamese legislative election",
+      "comment": "ParIS",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Vietnam — Political Parties - Free Download",
+    "description": "Political parties of Vietnam from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vietnam — Political Parties | ListBase",
+    "seo_description": "Download Vietnam — Political Parties dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

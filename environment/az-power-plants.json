@@ -1,0 +1,358 @@
+{
+  "id": "az-power-plants",
+  "name": "Azerbaijan — Power Plants",
+  "title": "Azerbaijan — Power Plants",
+  "description": "Power plants located in Azerbaijan from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Azerbaijan TPP",
+      "gppd_idnr": "WRI1002179",
+      "capacity_mw": 2400,
+      "latitude": 40.78,
+      "longitude": 46.9901,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1260.9",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Janub",
+      "gppd_idnr": "WRI1002188",
+      "capacity_mw": 780,
+      "latitude": 39.8943,
+      "longitude": 48.9173,
+      "primary_fuel": "Gas",
+      "other_fuels": "Oil",
+      "commissioning_year": 2013,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 5966.72",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sumqayit",
+      "gppd_idnr": "WRI1002199",
+      "capacity_mw": 525,
+      "latitude": 40.6036,
+      "longitude": 49.6332,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2009,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 4016.06",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Shamkir",
+      "gppd_idnr": "WRI1002197",
+      "capacity_mw": 405,
+      "latitude": 40.9487,
+      "longitude": 46.168,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 793.23; 2014: 964.05; 2015: 972.37; 2016: 988.17; 2017: 814.65",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Mingechevir",
+      "gppd_idnr": "WRI1002190",
+      "capacity_mw": 402,
+      "latitude": 40.79,
+      "longitude": 47.0287,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1953,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 963.73; 2014: 1190.36; 2015: 1196.2; 2016: 1193.56; 2017: 984.99",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Shimal",
+      "gppd_idnr": "WRI1002198",
+      "capacity_mw": 400,
+      "latitude": 40.4995,
+      "longitude": 50.2077,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2002,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 3059.85",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sangachal ES",
+      "gppd_idnr": "WRI1002192",
+      "capacity_mw": 299,
+      "latitude": 40.1794,
+      "longitude": 49.47,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2008,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 2287.24",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Yenikend",
+      "gppd_idnr": "WRI1002203",
+      "capacity_mw": 150,
+      "latitude": 40.9193,
+      "longitude": 46.2829,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2000,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 385.47; 2014: 387.32; 2015: 393.41; 2016: 475.73; 2017: 334.99",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Baku TEC",
+      "gppd_idnr": "WRI1002182",
+      "capacity_mw": 107,
+      "latitude": 40.3734,
+      "longitude": 49.9192,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2000,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 818.51",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Baku ES",
+      "gppd_idnr": "WRI1002181",
+      "capacity_mw": 105,
+      "latitude": 40.3734,
+      "longitude": 49.9192,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2007,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 803.21",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Astara ES",
+      "gppd_idnr": "WRI1002178",
+      "capacity_mw": 87,
+      "latitude": 38.456,
+      "longitude": 48.875,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2006,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "CARMA",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 665.51",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Khachmaz ES",
+      "gppd_idnr": "WRI1002189",
+      "capacity_mw": 87,
+      "latitude": 41.4635,
+      "longitude": 48.806,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2006,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "CARMA",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 665.51",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Varvara",
+      "gppd_idnr": "WRI1002201",
+      "capacity_mw": 16,
+      "latitude": 40.6837,
+      "longitude": 47.0926,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1957,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 72.11; 2014: 69.4; 2015: 72.28; 2016: 70.06; 2017: 72.58",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Gusar",
+      "gppd_idnr": "WRI1002186",
+      "capacity_mw": 1,
+      "latitude": 41.3979,
+      "longitude": 48.3308,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2012,
+      "owner": "AzerEnerji",
+      "source": "AzerEnerji",
+      "url": "http://www.azerenerji.gov.az/index.php?option=com_content&view=article&id=91&Itemid=112&lang=az",
+      "geolocation_source": "CARMA",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 2.24; 2014: 2.24; 2015: 2.38; 2016: 2.39; 2017: 2.38",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Azerbaijan — Power Plants - Free Download",
+    "description": "Power plants located in Azerbaijan from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Azerbaijan — Power Plants | ListBase",
+    "seo_description": "Download Azerbaijan — Power Plants dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

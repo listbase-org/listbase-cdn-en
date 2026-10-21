@@ -1,0 +1,142 @@
+{
+  "id": "by-unesco-heritage",
+  "name": "Belarus — UNESCO World Heritage Sites",
+  "title": "Belarus — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Belarus, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 33,
+      "name": "Bialowieza Forest",
+      "category": "natural",
+      "date_inscribed": 1979,
+      "criteria": "n9, n10",
+      "lat": 52.7275,
+      "lon": 23.98111111,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "by, pl",
+      "transboundary": true
+    },
+    {
+      "ref_no": 625,
+      "name": "Mir Castle Complex",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c2, c4",
+      "lat": 53.45108333,
+      "lon": 26.47272222,
+      "area_hectares": 27,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "by",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1187,
+      "name": "Struve Geodetic Arc",
+      "category": "cultural",
+      "date_inscribed": 2005,
+      "criteria": "c2, c3, c6",
+      "lat": 59.05777778,
+      "lon": 26.33777778,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "by, ee, fi, lv, lt, no, md, ru, se, ua",
+      "transboundary": true
+    },
+    {
+      "ref_no": 1196,
+      "name": "Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh",
+      "category": "cultural",
+      "date_inscribed": 2005,
+      "criteria": "c2, c4, c6",
+      "lat": 53.22278,
+      "lon": 26.69139,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "by",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Belarus — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Belarus, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 4 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Belarus — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Belarus — UNESCO World Heritage Sites dataset with 4 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 4 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

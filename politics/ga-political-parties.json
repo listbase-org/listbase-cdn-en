@@ -1,0 +1,376 @@
+{
+  "id": "ga-political-parties",
+  "name": "Gabon — Political Parties",
+  "title": "Gabon — Political Parties",
+  "description": "Political parties of Gabon from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5200,
+      "name_short": "BDG/PDG",
+      "name": "Bloc Démocratique Gabonais / Parti Démocratique Gabonais",
+      "name_english": "Gabonese Democratic Bloc / Gabonese Democratic Party",
+      "name_other": "",
+      "year_first": 1953,
+      "year_last": "",
+      "share": 100,
+      "share_year": 1967,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gabonese_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5383,
+      "name_short": "APRC",
+      "name": "Alliance for Patriotic Reorientation and Construction",
+      "name_english": "Alliance for Patriotic Reorientation and Construction",
+      "name_other": "",
+      "year_first": 1996,
+      "year_last": "",
+      "share": 67.3,
+      "share_year": 2006,
+      "wikipedia": "https://en.wikipedia.org/wiki/Alliance_for_Patriotic_Reorientation_and_Construction",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5763,
+      "name_short": "UN",
+      "name": "Union Nationale",
+      "name_english": "National Union",
+      "name_other": "",
+      "year_first": 2010,
+      "year_last": "",
+      "share": 28.6,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Union_(Gabon)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6592,
+      "name_short": "EDIG",
+      "name": "Entente pour la défense des intérêts gabonais",
+      "name_english": "Entente for the Defense of Gabonese Interests",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1957,
+      "share": 20,
+      "share_year": 1957,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5290,
+      "name_short": "PGP",
+      "name": "Parti gabonais du progrès",
+      "name_english": "Gabonese Progress Party",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 17.3,
+      "share_year": 1990,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gabonese_Progress_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5293,
+      "name_short": "UDSG",
+      "name": "Union Démocratique et Sociale Gabonaise",
+      "name_english": "Gabonese Social and Democratic Union",
+      "name_other": "",
+      "year_first": 1947,
+      "year_last": 1967,
+      "share": 17,
+      "share_year": 1964,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gabonese_Democratic_and_Social_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5292,
+      "name_short": "DOD",
+      "name": "Defense of Democracy",
+      "name_english": "Defense of Democracy",
+      "name_other": "",
+      "year_first": 1964,
+      "year_last": 1967,
+      "share": 17,
+      "share_year": 1964,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5294,
+      "name_short": "MORENA",
+      "name": "Mouvement de redressement national",
+      "name_english": "National Regeneration Movement",
+      "name_other": "",
+      "year_first": 1981,
+      "year_last": 2011,
+      "share": 15.5,
+      "share_year": 1990,
+      "wikipedia": "https://en.wikipedia.org/wiki/Movement_for_National_Rectification",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7247,
+      "name_short": "CMG",
+      "name": "Comité mixte gabonais",
+      "name_english": "Gabonese Mixed Committee",
+      "name_other": "",
+      "year_first": 1946,
+      "year_last": 1953,
+      "share": 8.3,
+      "share_year": 1952,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gabonese_Mixed_Committee",
+      "description": "2 of 24 seats in 1952 Gabonese Territorial Assembly election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6590,
+      "name_short": "DIG",
+      "name": "Défense des intérêts gabonais",
+      "name_english": "Defense of Gabonese Interests",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1957,
+      "share": 7.5,
+      "share_year": 1957,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5591,
+      "name_short": "UPG",
+      "name": "Union du Peuple Gabonais",
+      "name_english": "Union of the Gabonese People",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": "",
+      "share": 6.7,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_of_the_Gabonese_People",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5592,
+      "name_short": "RNB–RPG",
+      "name": "Rassemblement National des Bûcherons – Rassemblement pour le Gabon,",
+      "name_english": "National Woodcutters (Lumberjacks) Rally – Rally for Gabon",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 6.7,
+      "share_year": 2006,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Woodcutters%27_Rally_%E2%80%93_Rally_for_Gabon",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6591,
+      "name_short": "APSG",
+      "name": "Association pour le socialisme au Gabon",
+      "name_english": "Association for Socialism in Gabon",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": 1993,
+      "share": 5,
+      "share_year": 1990,
+      "wikipedia": "https://en.wikipedia.org/wiki/Association_for_Socialism_in_Gabon",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6065,
+      "name_short": "USG",
+      "name": "Union socialiste gabonaise",
+      "name_english": "Gabonese Socialist Union",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": 2011,
+      "share": 3.7,
+      "share_year": 1990,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gabonese_Socialist_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7553,
+      "name_short": "PSD",
+      "name": "Parti Social-Démocrate",
+      "name_english": "Social Democratic Party",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 1.3,
+      "share_year": 2018,
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_Democratic_Party_(Gabon)",
+      "description": "2 of 143 seat in 2018 Gabonese legislative election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7550,
+      "name_short": "CLR",
+      "name": "Centre des Libéraux Réformateurs",
+      "name_english": "Centre of Liberal Reformers",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Centre_of_Liberal_Reformers",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7555,
+      "name_short": "UPNR",
+      "name": "Union pour la nouvelle république",
+      "name_english": "Union for the New Republic",
+      "name_other": "",
+      "year_first": 2007,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_for_the_New_Republic_(Gabon)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7552,
+      "name_short": "UN",
+      "name": "Union Nationale",
+      "name_english": "National Union",
+      "name_other": "",
+      "year_first": 2010,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Union_(Gabon)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7554,
+      "name_short": "LD",
+      "name": "Les Democrats",
+      "name_english": "The Democrats",
+      "name_other": "",
+      "year_first": 2017,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Democrats_(Gabon)",
+      "description": "",
+      "comment": "It won 11 seats in 2018",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Gabon — Political Parties - Free Download",
+    "description": "Political parties of Gabon from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gabon — Political Parties | ListBase",
+    "seo_description": "Download Gabon — Political Parties dataset with 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

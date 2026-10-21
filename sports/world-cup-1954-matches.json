@@ -1,0 +1,326 @@
+{
+  "id": "world-cup-1954-matches",
+  "name": "FIFA World Cup 1954 Matches",
+  "title": "FIFA World Cup 1954 Matches",
+  "description": "All 26 matches from the 1954 FIFA World Cup (hosted by Switzerland) including teams, scores, groups, and venues.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/world-cup.json",
+  "source_url": "https://github.com/openfootball/world-cup.json",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "round",
+      "label": "Round",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "team1",
+      "label": "Team1",
+      "type": "string"
+    },
+    {
+      "key": "team2",
+      "label": "Team2",
+      "type": "string"
+    },
+    {
+      "key": "score_team1",
+      "label": "Score Team1",
+      "type": "number"
+    },
+    {
+      "key": "score_team2",
+      "label": "Score Team2",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "ground",
+      "label": "Ground",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "round": "Matchday 1",
+      "date": "1954-06-16",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "score_team1": 5,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Charmilles Stadium, Geneva"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1954-06-16",
+      "team1": "Yugoslavia",
+      "team2": "France",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Stade Olympique de la Pontaise, Lausanne"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1954-06-19",
+      "team1": "Brazil",
+      "team2": "Yugoslavia",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 1",
+      "ground": "Stade Olympique de la Pontaise, Lausanne"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1954-06-19",
+      "team1": "France",
+      "team2": "Mexico",
+      "score_team1": 3,
+      "score_team2": 2,
+      "group": "Group 1",
+      "ground": "Charmilles Stadium, Geneva"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1954-06-17",
+      "team1": "West Germany",
+      "team2": "Turkey",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "Group 2",
+      "ground": "Wankdorf Stadium, Bern"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1954-06-17",
+      "team1": "Hungary",
+      "team2": "South Korea",
+      "score_team1": 9,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Hardturm Stadium, Zürich"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1954-06-20",
+      "team1": "Hungary",
+      "team2": "West Germany",
+      "score_team1": 8,
+      "score_team2": 3,
+      "group": "Group 2",
+      "ground": "St. Jakob Stadium, Basel"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1954-06-20",
+      "team1": "Turkey",
+      "team2": "South Korea",
+      "score_team1": 7,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Charmilles Stadium, Geneva"
+    },
+    {
+      "round": "Group 2 Play-off",
+      "date": "1954-06-23",
+      "team1": "West Germany",
+      "team2": "Turkey",
+      "score_team1": 7,
+      "score_team2": 2,
+      "group": "",
+      "ground": "Hardturm Stadium, Zürich"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1954-06-16",
+      "team1": "Uruguay",
+      "team2": "Czechoslovakia",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Wankdorf Stadium, Bern"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1954-06-16",
+      "team1": "Austria",
+      "team2": "Scotland",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Hardturm Stadium, Zürich"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1954-06-19",
+      "team1": "Austria",
+      "team2": "Czechoslovakia",
+      "score_team1": 5,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Hardturm Stadium, Zürich"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1954-06-19",
+      "team1": "Uruguay",
+      "team2": "Scotland",
+      "score_team1": 7,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "St. Jakob Stadium, Basel"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1954-06-17",
+      "team1": "England",
+      "team2": "Belgium",
+      "score_team1": 3,
+      "score_team2": 3,
+      "group": "Group 4",
+      "ground": "St. Jakob Stadium, Basel"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1954-06-17",
+      "team1": "Switzerland",
+      "team2": "Italy",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Stade Olympique de la Pontaise, Lausanne"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1954-06-20",
+      "team1": "England",
+      "team2": "Switzerland",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group 4",
+      "ground": "Wankdorf Stadium, Bern"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1954-06-20",
+      "team1": "Italy",
+      "team2": "Belgium",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Cornaredo Stadium, Lugano"
+    },
+    {
+      "round": "Group 4 Play-off",
+      "date": "1954-06-23",
+      "team1": "Switzerland",
+      "team2": "Italy",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "",
+      "ground": "St. Jakob Stadium, Basel"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1954-06-26",
+      "team1": "Austria",
+      "team2": "Switzerland",
+      "score_team1": 7,
+      "score_team2": 5,
+      "group": "",
+      "ground": "Stade Olympique de la Pontaise, Lausanne"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1954-06-26",
+      "team1": "Uruguay",
+      "team2": "England",
+      "score_team1": 4,
+      "score_team2": 2,
+      "group": "",
+      "ground": "St. Jakob Stadium, Basel"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1954-06-27",
+      "team1": "Yugoslavia",
+      "team2": "West Germany",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "",
+      "ground": "Charmilles Stadium, Geneva"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1954-06-27",
+      "team1": "Brazil",
+      "team2": "Hungary",
+      "score_team1": 2,
+      "score_team2": 4,
+      "group": "",
+      "ground": "Wankdorf Stadium, Bern"
+    },
+    {
+      "round": "Semi-finals",
+      "date": "1954-06-30",
+      "team1": "West Germany",
+      "team2": "Austria",
+      "score_team1": 6,
+      "score_team2": 1,
+      "group": "",
+      "ground": "St. Jakob Stadium, Basel"
+    },
+    {
+      "round": "Semi-finals",
+      "date": "1954-06-30",
+      "team1": "Hungary",
+      "team2": "Uruguay",
+      "score_team1": 2,
+      "score_team2": 2,
+      "group": "",
+      "ground": "Stade Olympique de la Pontaise, Lausanne"
+    },
+    {
+      "round": "Third-place match",
+      "date": "1954-07-03",
+      "team1": "Uruguay",
+      "team2": "Austria",
+      "score_team1": 1,
+      "score_team2": 3,
+      "group": "",
+      "ground": "Hardturm Stadium, Zürich"
+    },
+    {
+      "round": "Final",
+      "date": "1954-07-04",
+      "team1": "Hungary",
+      "team2": "West Germany",
+      "score_team1": 2,
+      "score_team2": 3,
+      "group": "",
+      "ground": "Wankdorf Stadium, Bern"
+    }
+  ],
+  "meta": {
+    "title": "FIFA World Cup 1954 Matches - Free Download",
+    "description": "All 26 matches from the 1954 FIFA World Cup (hosted by Switzerland) including teams, scores, groups, and venues. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FIFA World Cup 1954 Matches | ListBase",
+    "seo_description": "Download FIFA World Cup 1954 Matches — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/world-cup.json"
+    ]
+  }
+}

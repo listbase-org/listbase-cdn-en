@@ -1,0 +1,236 @@
+{
+  "id": "sb-foreign-embassies",
+  "name": "Solomon Islands — Foreign Embassies and Consulates",
+  "title": "Solomon Islands — Foreign Embassies and Consulates",
+  "description": "Diplomatic missions of foreign countries and territories hosted in Solomon Islands. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Australia",
+      "operator_cc": "au",
+      "host_country": "Solomon Islands",
+      "host_cc": "sb",
+      "city": "Honiara",
+      "address": "",
+      "type": "high commission",
+      "latitude": -9.4317,
+      "longitude": 159.95282,
+      "jurisdictions": "Solomon Islands",
+      "phone": "",
+      "email": "",
+      "website": "https://solomonislands.embassy.gov.au",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106562927"
+    },
+    {
+      "operator": "Japan",
+      "operator_cc": "jp",
+      "host_country": "Solomon Islands",
+      "host_cc": "sb",
+      "city": "Honiara",
+      "address": "",
+      "type": "embassy",
+      "latitude": -9.431833333,
+      "longitude": 159.957361111,
+      "jurisdictions": "Solomon Islands",
+      "phone": "",
+      "email": "",
+      "website": "https://www.sb.emb-japan.go.jp/itprtop_ja/",
+      "facebook": "japanemb.solomon",
+      "twitter": "JapanEmb_SI",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q63981493"
+    },
+    {
+      "operator": "New Zealand",
+      "operator_cc": "nz",
+      "host_country": "Solomon Islands",
+      "host_cc": "sb",
+      "city": "Honiara",
+      "address": "",
+      "type": "high commission",
+      "latitude": -9.42972,
+      "longitude": 159.94732,
+      "jurisdictions": "Solomon Islands",
+      "phone": "+677-21502",
+      "email": "mailto:nzhicom@nzhicom.com.sb",
+      "website": "https://www.mfat.govt.nz/en/countries-and-regions/pacific/solomon-islands/new-zealand-high-commission/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q76390489"
+    },
+    {
+      "operator": "People's Republic of China",
+      "operator_cc": "cn",
+      "host_country": "Solomon Islands",
+      "host_cc": "sb",
+      "city": "Honiara",
+      "address": "",
+      "type": "embassy",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Solomon Islands",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q116042059"
+    },
+    {
+      "operator": "United Kingdom",
+      "operator_cc": "gb",
+      "host_country": "Solomon Islands",
+      "host_cc": "sb",
+      "city": "Honiara",
+      "address": "",
+      "type": "high commission",
+      "latitude": -9.4293,
+      "longitude": 159.9484,
+      "jurisdictions": "Solomon Islands, Nauru",
+      "phone": "",
+      "email": "",
+      "website": "https://www.gov.uk/world/organisations/british-high-commission-honiara",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q59290314"
+    },
+    {
+      "operator": "Vatican",
+      "operator_cc": "va",
+      "host_country": "Solomon Islands",
+      "host_cc": "sb",
+      "city": "",
+      "address": "",
+      "type": "apostolic nunciature",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Solomon Islands",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q19932597"
+    }
+  ],
+  "meta": {
+    "title": "Solomon Islands — Foreign Embassies and Consulates - Free Download",
+    "description": "Diplomatic missions of foreign countries and territories hosted in Solomon Islands. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Solomon Islands — Foreign Embassies and Consulates | ListBase",
+    "seo_description": "Download Solomon Islands — Foreign Embassies and Consulates — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

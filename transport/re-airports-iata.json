@@ -1,0 +1,121 @@
+{
+  "id": "re-airports-iata",
+  "name": "Reunion — IATA Airports",
+  "title": "Reunion — IATA Airports",
+  "description": "Airports with IATA codes in Reunion: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "RUN",
+      "icao_code": "FMEE",
+      "name": "Roland Garros Airport",
+      "city_name_list": "Les cocos",
+      "country_code": "RE",
+      "country_name": "Reunion",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Reunion",
+      "latitude": -20.8871,
+      "longitude": 55.51031,
+      "elevation": 20,
+      "timezone": "Indian/Reunion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Roland_Garros_Airport"
+    },
+    {
+      "iata_code": "ZSE",
+      "icao_code": "FMEP",
+      "name": "Saint-Pierre - Pierrefonds Airport",
+      "city_name_list": "Saint-Pierre",
+      "country_code": "RE",
+      "country_name": "Reunion",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Reunion",
+      "latitude": -21.320039,
+      "longitude": 55.423581,
+      "elevation": 17,
+      "timezone": "Indian/Reunion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Pierrefonds_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Reunion — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Reunion: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Reunion — IATA Airports | ListBase",
+    "seo_description": "Download Reunion — IATA Airports dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

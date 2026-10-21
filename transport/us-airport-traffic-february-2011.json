@@ -1,0 +1,2276 @@
+{
+  "id": "us-airport-traffic-february-2011",
+  "name": "US Airport Traffic February 2011",
+  "title": "US Airport Traffic February 2011",
+  "description": "Traffic counts for 221 US airports in February 2011 with IATA codes, airport name, city, state, and coordinates.",
+  "category": "transport",
+  "source": "https://github.com/plotly/datasets",
+  "source_url": "https://github.com/plotly/datasets",
+  "updated": "2026-04",
+  "record_count": 221,
+  "columns": [
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "airport",
+      "label": "Airport",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "long",
+      "label": "Long",
+      "type": "number"
+    },
+    {
+      "key": "cnt",
+      "label": "Cnt",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "iata": "ORD",
+      "airport": "Chicago O'Hare International",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "lat": "41.979595",
+      "long": "-87.90446417",
+      "cnt": "25129"
+    },
+    {
+      "iata": "ATL",
+      "airport": "William B Hartsfield-Atlanta Intl",
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA",
+      "lat": "33.64044444",
+      "long": "-84.42694444",
+      "cnt": "21925"
+    },
+    {
+      "iata": "DFW",
+      "airport": "Dallas-Fort Worth International",
+      "city": "Dallas-Fort Worth",
+      "state": "TX",
+      "country": "USA",
+      "lat": "32.89595056",
+      "long": "-97.0372",
+      "cnt": "20662"
+    },
+    {
+      "iata": "PHX",
+      "airport": "Phoenix Sky Harbor International",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA",
+      "lat": "33.43416667",
+      "long": "-112.0080556",
+      "cnt": "17290"
+    },
+    {
+      "iata": "DEN",
+      "airport": "Denver Intl",
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "lat": "39.85840806",
+      "long": "-104.6670019",
+      "cnt": "13781"
+    },
+    {
+      "iata": "IAH",
+      "airport": "George Bush Intercontinental",
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA",
+      "lat": "29.98047222",
+      "long": "-95.33972222",
+      "cnt": "13223"
+    },
+    {
+      "iata": "SFO",
+      "airport": "San Francisco International",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "lat": "37.61900194",
+      "long": "-122.3748433",
+      "cnt": "12016"
+    },
+    {
+      "iata": "LAX",
+      "airport": "Los Angeles International",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA",
+      "lat": "33.94253611",
+      "long": "-118.4080744",
+      "cnt": "11797"
+    },
+    {
+      "iata": "MCO",
+      "airport": "Orlando International",
+      "city": "Orlando",
+      "state": "FL",
+      "country": "USA",
+      "lat": "28.42888889",
+      "long": "-81.31602778",
+      "cnt": "10536"
+    },
+    {
+      "iata": "CLT",
+      "airport": "Charlotte/Douglas International",
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA",
+      "lat": "35.21401111",
+      "long": "-80.94312583",
+      "cnt": "10490"
+    },
+    {
+      "iata": "SLC",
+      "airport": "Salt Lake City Intl",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "country": "USA",
+      "lat": "40.78838778",
+      "long": "-111.9777731",
+      "cnt": "9898"
+    },
+    {
+      "iata": "TPA",
+      "airport": "Tampa International ",
+      "city": "Tampa",
+      "state": "FL",
+      "country": "USA",
+      "lat": "27.97547222",
+      "long": "-82.53325",
+      "cnt": "9182"
+    },
+    {
+      "iata": "EWR",
+      "airport": "Newark Intl",
+      "city": "Newark",
+      "state": "NJ",
+      "country": "USA",
+      "lat": "40.69249722",
+      "long": "-74.16866056",
+      "cnt": "8678"
+    },
+    {
+      "iata": "LAS",
+      "airport": "McCarran International",
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "USA",
+      "lat": "36.08036111",
+      "long": "-115.1523333",
+      "cnt": "8523"
+    },
+    {
+      "iata": "PHL",
+      "airport": "Philadelphia Intl",
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA",
+      "lat": "39.87195278",
+      "long": "-75.24114083",
+      "cnt": "7965"
+    },
+    {
+      "iata": "MSP",
+      "airport": "Minneapolis-St Paul Intl",
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA",
+      "lat": "44.88054694",
+      "long": "-93.2169225",
+      "cnt": "7690"
+    },
+    {
+      "iata": "SEA",
+      "airport": "Seattle-Tacoma Intl",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "lat": "47.44898194",
+      "long": "-122.3093131",
+      "cnt": "7541"
+    },
+    {
+      "iata": "LGA",
+      "airport": "LaGuardia",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "lat": "40.77724306",
+      "long": "-73.87260917",
+      "cnt": "7392"
+    },
+    {
+      "iata": "MDW",
+      "airport": "Chicago Midway",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "lat": "41.7859825",
+      "long": "-87.75242444",
+      "cnt": "6979"
+    },
+    {
+      "iata": "IAD",
+      "airport": "Washington Dulles International",
+      "city": "Chantilly",
+      "state": "VA",
+      "country": "USA",
+      "lat": "38.94453194",
+      "long": "-77.45580972",
+      "cnt": "6779"
+    },
+    {
+      "iata": "SAN",
+      "airport": "San Diego International-Lindbergh ",
+      "city": "San Diego",
+      "state": "CA",
+      "country": "USA",
+      "lat": "32.73355611",
+      "long": "-117.1896567",
+      "cnt": "6233"
+    },
+    {
+      "iata": "STL",
+      "airport": "Lambert-St Louis International",
+      "city": "St Louis",
+      "state": "MO",
+      "country": "USA",
+      "lat": "38.74768694",
+      "long": "-90.35998972",
+      "cnt": "6204"
+    },
+    {
+      "iata": "DTW",
+      "airport": "Detroit Metropolitan-Wayne County",
+      "city": "Detroit",
+      "state": "MI",
+      "country": "USA",
+      "lat": "42.21205889",
+      "long": "-83.34883583",
+      "cnt": "6044"
+    },
+    {
+      "iata": "JFK",
+      "airport": "John F Kennedy Intl",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "lat": "40.63975111",
+      "long": "-73.77892556",
+      "cnt": "5945"
+    },
+    {
+      "iata": "MIA",
+      "airport": "Miami International",
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA",
+      "lat": "25.79325",
+      "long": "-80.29055556",
+      "cnt": "5907"
+    },
+    {
+      "iata": "BOS",
+      "airport": "Gen Edw L Logan Intl",
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA",
+      "lat": "42.3643475",
+      "long": "-71.00517917",
+      "cnt": "5627"
+    },
+    {
+      "iata": "SMF",
+      "airport": "Sacramento International",
+      "city": "Sacramento",
+      "state": "CA",
+      "country": "USA",
+      "lat": "38.69542167",
+      "long": "-121.5907669",
+      "cnt": "4943"
+    },
+    {
+      "iata": "BWI",
+      "airport": "Baltimore-Washington International",
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "USA",
+      "lat": "39.17540167",
+      "long": "-76.66819833",
+      "cnt": "4749"
+    },
+    {
+      "iata": "SNA",
+      "airport": "John Wayne /Orange Co",
+      "city": "Santa Ana",
+      "state": "CA",
+      "country": "USA",
+      "lat": "33.67565861",
+      "long": "-117.8682225",
+      "cnt": "4616"
+    },
+    {
+      "iata": "MSY",
+      "airport": "New Orleans International ",
+      "city": "New Orleans",
+      "state": "LA",
+      "country": "USA",
+      "lat": "29.99338889",
+      "long": "-90.25802778",
+      "cnt": "4432"
+    },
+    {
+      "iata": "SJC",
+      "airport": "San Jose International",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA",
+      "lat": "37.36186194",
+      "long": "-121.9290089",
+      "cnt": "4367"
+    },
+    {
+      "iata": "DCA",
+      "airport": "Ronald Reagan Washington National",
+      "city": "Arlington",
+      "state": "VA",
+      "country": "USA",
+      "lat": "38.85208333",
+      "long": "-77.03772222",
+      "cnt": "4332"
+    },
+    {
+      "iata": "PDX",
+      "airport": "Portland Intl",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "lat": "45.58872222",
+      "long": "-122.5975",
+      "cnt": "4071"
+    },
+    {
+      "iata": "RSW",
+      "airport": "Southwest Florida International",
+      "city": "Ft. Myers",
+      "state": "FL",
+      "country": "USA",
+      "lat": "26.53616667",
+      "long": "-81.75516667",
+      "cnt": "4057"
+    },
+    {
+      "iata": "PBI",
+      "airport": "Palm Beach International",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "country": "USA",
+      "lat": "26.68316194",
+      "long": "-80.09559417",
+      "cnt": "3972"
+    },
+    {
+      "iata": "RDU",
+      "airport": "Raleigh-Durham International",
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "USA",
+      "lat": "35.87763889",
+      "long": "-78.78747222",
+      "cnt": "3896"
+    },
+    {
+      "iata": "HOU",
+      "airport": "William P Hobby",
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA",
+      "lat": "29.64541861",
+      "long": "-95.27888889",
+      "cnt": "3824"
+    },
+    {
+      "iata": "SAT",
+      "airport": "San Antonio International",
+      "city": "San Antonio",
+      "state": "TX",
+      "country": "USA",
+      "lat": "29.53369444",
+      "long": "-98.46977778",
+      "cnt": "3654"
+    },
+    {
+      "iata": "FLL",
+      "airport": "Fort Lauderdale-Hollywood Int'l",
+      "city": "Ft. Lauderdale",
+      "state": "FL",
+      "country": "USA",
+      "lat": "26.07258333",
+      "long": "-80.15275",
+      "cnt": "3616"
+    },
+    {
+      "iata": "MCI",
+      "airport": "Kansas City International",
+      "city": "Kansas City",
+      "state": "MO",
+      "country": "USA",
+      "lat": "39.29760528",
+      "long": "-94.71390556",
+      "cnt": "3403"
+    },
+    {
+      "iata": "OAK",
+      "airport": "Metropolitan Oakland International",
+      "city": "Oakland",
+      "state": "CA",
+      "country": "USA",
+      "lat": "37.72129083",
+      "long": "-122.2207167",
+      "cnt": "3386"
+    },
+    {
+      "iata": "PIT",
+      "airport": "Pittsburgh International",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA",
+      "lat": "40.49146583",
+      "long": "-80.23287083",
+      "cnt": "3180"
+    },
+    {
+      "iata": "MEM",
+      "airport": "Memphis International",
+      "city": "Memphis",
+      "state": "TN",
+      "country": "USA",
+      "lat": "35.04241667",
+      "long": "-89.97666667",
+      "cnt": "3058"
+    },
+    {
+      "iata": "MKE",
+      "airport": "General Mitchell International",
+      "city": "Milwaukee",
+      "state": "WI",
+      "country": "USA",
+      "lat": "42.94722222",
+      "long": "-87.89658333",
+      "cnt": "3030"
+    },
+    {
+      "iata": "CLE",
+      "airport": "Cleveland-Hopkins Intl",
+      "city": "Cleveland",
+      "state": "OH",
+      "country": "USA",
+      "lat": "41.41089417",
+      "long": "-81.84939667",
+      "cnt": "3015"
+    },
+    {
+      "iata": "JAX",
+      "airport": "Jacksonville International",
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "USA",
+      "lat": "30.49405556",
+      "long": "-81.68786111",
+      "cnt": "3005"
+    },
+    {
+      "iata": "TUS",
+      "airport": "Tucson International",
+      "city": "Tucson",
+      "state": "AZ",
+      "country": "USA",
+      "lat": "32.11608333",
+      "long": "-110.9410278",
+      "cnt": "2786"
+    },
+    {
+      "iata": "IND",
+      "airport": "Indianapolis International",
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "USA",
+      "lat": "39.71732917",
+      "long": "-86.29438417",
+      "cnt": "2136"
+    },
+    {
+      "iata": "RNO",
+      "airport": "Reno/Tahoe International",
+      "city": "Reno",
+      "state": "NV",
+      "country": "USA",
+      "lat": "39.49857611",
+      "long": "-119.7680647",
+      "cnt": "2104"
+    },
+    {
+      "iata": "OKC",
+      "airport": "Will Rogers World",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "country": "USA",
+      "lat": "35.39308833",
+      "long": "-97.60073389",
+      "cnt": "2104"
+    },
+    {
+      "iata": "PVD",
+      "airport": "Theodore F Green State",
+      "city": "Providence",
+      "state": "RI",
+      "country": "USA",
+      "lat": "41.72399917",
+      "long": "-71.42822111",
+      "cnt": "2044"
+    },
+    {
+      "iata": "TUL",
+      "airport": "Tulsa International",
+      "city": "Tulsa",
+      "state": "OK",
+      "country": "USA",
+      "lat": "36.19837222",
+      "long": "-95.88824167",
+      "cnt": "2003"
+    },
+    {
+      "iata": "CVG",
+      "airport": "Cincinnati Northern Kentucky Intl",
+      "city": "Covington",
+      "state": "KY",
+      "country": "USA",
+      "lat": "39.04614278",
+      "long": "-84.6621725",
+      "cnt": "1986"
+    },
+    {
+      "iata": "CMH",
+      "airport": "Port Columbus Intl",
+      "city": "Columbus",
+      "state": "OH",
+      "country": "USA",
+      "lat": "39.99798528",
+      "long": "-82.89188278",
+      "cnt": "1752"
+    },
+    {
+      "iata": "SDF",
+      "airport": "Louisville International-Standiford ",
+      "city": "Louisville",
+      "state": "KY",
+      "country": "USA",
+      "lat": "38.17438889",
+      "long": "-85.736",
+      "cnt": "1716"
+    },
+    {
+      "iata": "ONT",
+      "airport": "Ontario International",
+      "city": "Ontario",
+      "state": "CA",
+      "country": "USA",
+      "lat": "34.056",
+      "long": "-117.6011944",
+      "cnt": "1622"
+    },
+    {
+      "iata": "LIT",
+      "airport": "Adams ",
+      "city": "Little Rock",
+      "state": "AR",
+      "country": "USA",
+      "lat": "34.72939611",
+      "long": "-92.22424556",
+      "cnt": "1620"
+    },
+    {
+      "iata": "DAL",
+      "airport": "Dallas Love ",
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA",
+      "lat": "32.84711389",
+      "long": "-96.85177222",
+      "cnt": "1502"
+    },
+    {
+      "iata": "OMA",
+      "airport": "Eppley Airfield",
+      "city": "Omaha",
+      "state": "NE",
+      "country": "USA",
+      "lat": "41.30251861",
+      "long": "-95.89417306",
+      "cnt": "1474"
+    },
+    {
+      "iata": "ORF",
+      "airport": "Norfolk International",
+      "city": "Norfolk",
+      "state": "VA",
+      "country": "USA",
+      "lat": "36.89461111",
+      "long": "-76.20122222",
+      "cnt": "1439"
+    },
+    {
+      "iata": "DAY",
+      "airport": "James M Cox Dayton Intl",
+      "city": "Dayton",
+      "state": "OH",
+      "country": "USA",
+      "lat": "39.90237583",
+      "long": "-84.219375",
+      "cnt": "1337"
+    },
+    {
+      "iata": "ROC",
+      "airport": "Greater Rochester Int'l",
+      "city": "Rochester",
+      "state": "NY",
+      "country": "USA",
+      "lat": "43.11886611",
+      "long": "-77.67238389",
+      "cnt": "1327"
+    },
+    {
+      "iata": "XNA",
+      "airport": "Northwest Arkansas Regional",
+      "city": "Fayetteville/Springdale/Rogers",
+      "state": "AR",
+      "country": "USA",
+      "lat": "36.28186944",
+      "long": "-94.30681111",
+      "cnt": "1310"
+    },
+    {
+      "iata": "BNA",
+      "airport": "Nashville International",
+      "city": "Nashville",
+      "state": "TN",
+      "country": "USA",
+      "lat": "36.12447667",
+      "long": "-86.67818222",
+      "cnt": "1299"
+    },
+    {
+      "iata": "ABQ",
+      "airport": "Albuquerque International",
+      "city": "Albuquerque",
+      "state": "NM",
+      "country": "USA",
+      "lat": "35.04022222",
+      "long": "-106.6091944",
+      "cnt": "1258"
+    },
+    {
+      "iata": "JAN",
+      "airport": "Jackson International",
+      "city": "Jackson",
+      "state": "MS",
+      "country": "USA",
+      "lat": "32.31116667",
+      "long": "-90.07588889",
+      "cnt": "1224"
+    },
+    {
+      "iata": "ELP",
+      "airport": "El Paso International",
+      "city": "El Paso",
+      "state": "TX",
+      "country": "USA",
+      "lat": "31.80666667",
+      "long": "-106.3778056",
+      "cnt": "1206"
+    },
+    {
+      "iata": "RIC",
+      "airport": "Richmond International",
+      "city": "Richmond",
+      "state": "VA",
+      "country": "USA",
+      "lat": "37.50516667",
+      "long": "-77.31966667",
+      "cnt": "1199"
+    },
+    {
+      "iata": "BDL",
+      "airport": "Bradley International",
+      "city": "Windsor Locks",
+      "state": "CT",
+      "country": "USA",
+      "lat": "41.93887417",
+      "long": "-72.68322833",
+      "cnt": "1162"
+    },
+    {
+      "iata": "MAF",
+      "airport": "Midland International",
+      "city": "Midland",
+      "state": "TX",
+      "country": "USA",
+      "lat": "31.94252778",
+      "long": "-102.2019139",
+      "cnt": "1103"
+    },
+    {
+      "iata": "BTR",
+      "airport": "Baton Rouge Metropolitan, Ryan ",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "country": "USA",
+      "lat": "30.53316083",
+      "long": "-91.14963444",
+      "cnt": "1095"
+    },
+    {
+      "iata": "TYS",
+      "airport": "McGhee-Tyson",
+      "city": "Knoxville",
+      "state": "TN",
+      "country": "USA",
+      "lat": "35.81248722",
+      "long": "-83.99285583",
+      "cnt": "1052"
+    },
+    {
+      "iata": "COS",
+      "airport": "City of Colorado Springs Muni",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "country": "USA",
+      "lat": "38.80580556",
+      "long": "-104.70025",
+      "cnt": "1040"
+    },
+    {
+      "iata": "PNS",
+      "airport": "Pensacola Regional",
+      "city": "Pensacola",
+      "state": "FL",
+      "country": "USA",
+      "lat": "30.47330556",
+      "long": "-87.18744444",
+      "cnt": "1035"
+    },
+    {
+      "iata": "SYR",
+      "airport": "Syracuse-Hancock Intl",
+      "city": "Syracuse",
+      "state": "NY",
+      "country": "USA",
+      "lat": "43.11118694",
+      "long": "-76.10631056",
+      "cnt": "1006"
+    },
+    {
+      "iata": "BHM",
+      "airport": "Birmingham International",
+      "city": "Birmingham",
+      "state": "AL",
+      "country": "USA",
+      "lat": "33.56294306",
+      "long": "-86.75354972",
+      "cnt": "956"
+    },
+    {
+      "iata": "MHT",
+      "airport": "Manchester",
+      "city": "Manchester",
+      "state": "NH",
+      "country": "USA",
+      "lat": "42.93451639",
+      "long": "-71.43705583",
+      "cnt": "953"
+    },
+    {
+      "iata": "PSP",
+      "airport": "Palm Springs International",
+      "city": "Palm Springs",
+      "state": "CA",
+      "country": "USA",
+      "lat": "33.82921556",
+      "long": "-116.5062531",
+      "cnt": "949"
+    },
+    {
+      "iata": "SRQ",
+      "airport": "Sarasota Bradenton International",
+      "city": "Sarasota",
+      "state": "FL",
+      "country": "USA",
+      "lat": "27.39533333",
+      "long": "-82.55411111",
+      "cnt": "932"
+    },
+    {
+      "iata": "CRP",
+      "airport": "Corpus Christi International",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "country": "USA",
+      "lat": "27.77036083",
+      "long": "-97.50121528",
+      "cnt": "926"
+    },
+    {
+      "iata": "HSV",
+      "airport": "Huntsville International ",
+      "city": "Huntsville",
+      "state": "AL",
+      "country": "USA",
+      "lat": "34.6404475",
+      "long": "-86.77310944",
+      "cnt": "880"
+    },
+    {
+      "iata": "CAE",
+      "airport": "Columbia Metropolitan",
+      "city": "Columbia",
+      "state": "SC",
+      "country": "USA",
+      "lat": "33.93884",
+      "long": "-81.11953944",
+      "cnt": "840"
+    },
+    {
+      "iata": "LFT",
+      "airport": "Lafayette Regional",
+      "city": "Lafayette",
+      "state": "LA",
+      "country": "USA",
+      "lat": "30.20527972",
+      "long": "-91.987655",
+      "cnt": "818"
+    },
+    {
+      "iata": "SBA",
+      "airport": "Santa Barbara Municipal",
+      "city": "Santa Barbara",
+      "state": "CA",
+      "country": "USA",
+      "lat": "34.42621194",
+      "long": "-119.8403733",
+      "cnt": "800"
+    },
+    {
+      "iata": "GEG",
+      "airport": "Spokane Intl",
+      "city": "Spokane",
+      "state": "WA",
+      "country": "USA",
+      "lat": "47.61985556",
+      "long": "-117.5338425",
+      "cnt": "785"
+    },
+    {
+      "iata": "MOB",
+      "airport": "Mobile Regional",
+      "city": "Mobile",
+      "state": "AL",
+      "country": "USA",
+      "lat": "30.69141667",
+      "long": "-88.24283333",
+      "cnt": "768"
+    },
+    {
+      "iata": "ICT",
+      "airport": "Wichita Mid-Continent",
+      "city": "Wichita",
+      "state": "KS",
+      "country": "USA",
+      "lat": "37.64995889",
+      "long": "-97.43304583",
+      "cnt": "747"
+    },
+    {
+      "iata": "BUF",
+      "airport": "Buffalo Niagara Intl",
+      "city": "Buffalo",
+      "state": "NY",
+      "country": "USA",
+      "lat": "42.94052472",
+      "long": "-78.73216667",
+      "cnt": "711"
+    },
+    {
+      "iata": "DSM",
+      "airport": "Des Moines International",
+      "city": "Des Moines",
+      "state": "IA",
+      "country": "USA",
+      "lat": "41.53493306",
+      "long": "-93.66068222",
+      "cnt": "708"
+    },
+    {
+      "iata": "MDT",
+      "airport": "Harrisburg Intl",
+      "city": "Harrisburg",
+      "state": "PA",
+      "country": "USA",
+      "lat": "40.19349528",
+      "long": "-76.76340361",
+      "cnt": "702"
+    },
+    {
+      "iata": "PWM",
+      "airport": "Portland International Jetport",
+      "city": "Portland",
+      "state": "ME",
+      "country": "USA",
+      "lat": "43.64616667",
+      "long": "-70.30875",
+      "cnt": "686"
+    },
+    {
+      "iata": "MGM",
+      "airport": "Montgomery Regional Apt",
+      "city": "Montgomery",
+      "state": "AL",
+      "country": "USA",
+      "lat": "32.30064417",
+      "long": "-86.39397611",
+      "cnt": "686"
+    },
+    {
+      "iata": "PHF",
+      "airport": "Newport News/Williamsburg International",
+      "city": "Newport News",
+      "state": "VA",
+      "country": "USA",
+      "lat": "37.13189556",
+      "long": "-76.4929875",
+      "cnt": "675"
+    },
+    {
+      "iata": "HPN",
+      "airport": "Westchester Cty",
+      "city": "White Plains",
+      "state": "NY",
+      "country": "USA",
+      "lat": "41.06695778",
+      "long": "-73.70757444",
+      "cnt": "664"
+    },
+    {
+      "iata": "MRY",
+      "airport": "Monterey Peninsula",
+      "city": "Monterey",
+      "state": "CA",
+      "country": "USA",
+      "lat": "36.5869825",
+      "long": "-121.8429478",
+      "cnt": "658"
+    },
+    {
+      "iata": "GRR",
+      "airport": "Kent County International",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "country": "USA",
+      "lat": "42.88081972",
+      "long": "-85.52276778",
+      "cnt": "656"
+    },
+    {
+      "iata": "ECP",
+      "airport": "Florida Beach",
+      "city": "Beaches",
+      "state": "FL",
+      "country": "USA",
+      "lat": "30.448674",
+      "long": "-84.550781",
+      "cnt": "653"
+    },
+    {
+      "iata": "YUM",
+      "airport": "Yuma MCAS-Yuma International",
+      "city": "Yuma",
+      "state": "AZ",
+      "country": "USA",
+      "lat": "32.65658333",
+      "long": "-114.6059722",
+      "cnt": "627"
+    },
+    {
+      "iata": "ASE",
+      "airport": "Aspen-Pitkin Co/Sardy ",
+      "city": "Aspen",
+      "state": "CO",
+      "country": "USA",
+      "lat": "39.22316",
+      "long": "-106.868845",
+      "cnt": "611"
+    },
+    {
+      "iata": "TLH",
+      "airport": "Tallahassee Regional",
+      "city": "Tallahassee",
+      "state": "FL",
+      "country": "USA",
+      "lat": "30.39652778",
+      "long": "-84.35033333",
+      "cnt": "608"
+    },
+    {
+      "iata": "GPT",
+      "airport": "Gulfport-Biloxi Regional",
+      "city": "Gulfport-Biloxi",
+      "state": "MS",
+      "country": "USA",
+      "lat": "30.40728028",
+      "long": "-89.07009278",
+      "cnt": "582"
+    },
+    {
+      "iata": "RAP",
+      "airport": "Rapid City Regional",
+      "city": "Rapid City",
+      "state": "SD",
+      "country": "USA",
+      "lat": "44.04532139",
+      "long": "-103.0573708",
+      "cnt": "572"
+    },
+    {
+      "iata": "LGB",
+      "airport": "Long Beach (Daugherty )",
+      "city": "Long Beach",
+      "state": "CA",
+      "country": "USA",
+      "lat": "33.81772222",
+      "long": "-118.1516111",
+      "cnt": "562"
+    },
+    {
+      "iata": "ILM",
+      "airport": "Wilmington International",
+      "city": "Wilmington",
+      "state": "NC",
+      "country": "USA",
+      "lat": "34.27061111",
+      "long": "-77.90255556",
+      "cnt": "553"
+    },
+    {
+      "iata": "LEX",
+      "airport": "Blue Grass ",
+      "city": "Lexington",
+      "state": "KY",
+      "country": "USA",
+      "lat": "38.03697222",
+      "long": "-84.60538889",
+      "cnt": "540"
+    },
+    {
+      "iata": "MSN",
+      "airport": "Dane County Regional",
+      "city": "Madison",
+      "state": "WI",
+      "country": "USA",
+      "lat": "43.13985778",
+      "long": "-89.33751361",
+      "cnt": "538"
+    },
+    {
+      "iata": "EUG",
+      "airport": "Mahlon Sweet ",
+      "city": "Eugene",
+      "state": "OR",
+      "country": "USA",
+      "lat": "44.12326",
+      "long": "-123.2186856",
+      "cnt": "529"
+    },
+    {
+      "iata": "SAV",
+      "airport": "Savannah International",
+      "city": "Savannah",
+      "state": "GA",
+      "country": "USA",
+      "lat": "32.12758333",
+      "long": "-81.20213889",
+      "cnt": "524"
+    },
+    {
+      "iata": "LBB",
+      "airport": "Lubbock International",
+      "city": "Lubbock",
+      "state": "TX",
+      "country": "USA",
+      "lat": "33.66363889",
+      "long": "-101.8227778",
+      "cnt": "518"
+    },
+    {
+      "iata": "CID",
+      "airport": "Eastern Iowa ",
+      "city": "Cedar Rapids",
+      "state": "IA",
+      "country": "USA",
+      "lat": "41.88458833",
+      "long": "-91.71087222",
+      "cnt": "516"
+    },
+    {
+      "iata": "GSP",
+      "airport": "Greenville-Spartanburg",
+      "city": "Greer",
+      "state": "SC",
+      "country": "USA",
+      "lat": "34.89566722",
+      "long": "-82.21885833",
+      "cnt": "479"
+    },
+    {
+      "iata": "GSO",
+      "airport": "Piedmont Triad International",
+      "city": "Greensboro",
+      "state": "NC",
+      "country": "USA",
+      "lat": "36.09774694",
+      "long": "-79.9372975",
+      "cnt": "472"
+    },
+    {
+      "iata": "ISP",
+      "airport": "Long Island - MacArthur",
+      "city": "Islip",
+      "state": "NY",
+      "country": "USA",
+      "lat": "40.7952425",
+      "long": "-73.10021194",
+      "cnt": "460"
+    },
+    {
+      "iata": "MLI",
+      "airport": "Quad City",
+      "city": "Moline",
+      "state": "IL",
+      "country": "USA",
+      "lat": "41.44852639",
+      "long": "-90.50753917",
+      "cnt": "451"
+    },
+    {
+      "iata": "AVL",
+      "airport": "Asheville Regional",
+      "city": "Asheville",
+      "state": "NC",
+      "country": "USA",
+      "lat": "35.43619444",
+      "long": "-82.54180556",
+      "cnt": "448"
+    },
+    {
+      "iata": "CAK",
+      "airport": "Akron-Canton Regional",
+      "city": "Akron",
+      "state": "OH",
+      "country": "USA",
+      "lat": "40.91631194",
+      "long": "-81.44246556",
+      "cnt": "445"
+    },
+    {
+      "iata": "BMI",
+      "airport": "Central Illinois Regional",
+      "city": "Bloomington",
+      "state": "IL",
+      "country": "USA",
+      "lat": "40.47798556",
+      "long": "-88.91595278",
+      "cnt": "426"
+    },
+    {
+      "iata": "HRL",
+      "airport": "Valley International",
+      "city": "Harlingen",
+      "state": "TX",
+      "country": "USA",
+      "lat": "26.22850611",
+      "long": "-97.65439389",
+      "cnt": "414"
+    },
+    {
+      "iata": "VPS",
+      "airport": "Eglin Air Force Base",
+      "city": "Valparaiso",
+      "state": "FL",
+      "country": "USA",
+      "lat": "30.48325",
+      "long": "-86.5254",
+      "cnt": "410"
+    },
+    {
+      "iata": "SHV",
+      "airport": "Shreveport Regional",
+      "city": "Shreveport",
+      "state": "LA",
+      "country": "USA",
+      "lat": "32.4466275",
+      "long": "-93.82559833",
+      "cnt": "410"
+    },
+    {
+      "iata": "FAR",
+      "airport": "Hector International",
+      "city": "Fargo",
+      "state": "ND",
+      "country": "USA",
+      "lat": "46.91934889",
+      "long": "-96.81498889",
+      "cnt": "409"
+    },
+    {
+      "iata": "HDN",
+      "airport": "Yampa Valley",
+      "city": "Hayden",
+      "state": "CO",
+      "country": "USA",
+      "lat": "40.48118028",
+      "long": "-107.2176597",
+      "cnt": "408"
+    },
+    {
+      "iata": "MFR",
+      "airport": "Rogue Valley International",
+      "city": "Medford",
+      "state": "OR",
+      "country": "USA",
+      "lat": "42.37422778",
+      "long": "-122.8734978",
+      "cnt": "404"
+    },
+    {
+      "iata": "PIA",
+      "airport": "Greater Peoria Regional",
+      "city": "Peoria",
+      "state": "IL",
+      "country": "USA",
+      "lat": "40.66424333",
+      "long": "-89.69330556",
+      "cnt": "404"
+    },
+    {
+      "iata": "LRD",
+      "airport": "Laredo International",
+      "city": "Laredo",
+      "state": "TX",
+      "country": "USA",
+      "lat": "27.54373861",
+      "long": "-99.46154361",
+      "cnt": "396"
+    },
+    {
+      "iata": "AUS",
+      "airport": "Austin-Bergstrom International",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "lat": "30.19453278",
+      "long": "-97.66987194",
+      "cnt": "393"
+    },
+    {
+      "iata": "ABI",
+      "airport": "Abilene Regional",
+      "city": "Abilene",
+      "state": "TX",
+      "country": "USA",
+      "lat": "32.41132",
+      "long": "-99.68189722",
+      "cnt": "382"
+    },
+    {
+      "iata": "SGF",
+      "airport": "Springfield-Branson Regional",
+      "city": "Springfield",
+      "state": "MO",
+      "country": "USA",
+      "lat": "37.24432611",
+      "long": "-93.38685806",
+      "cnt": "381"
+    },
+    {
+      "iata": "FNT",
+      "airport": "Bishop",
+      "city": "Flint",
+      "state": "MI",
+      "country": "USA",
+      "lat": "42.96550333",
+      "long": "-83.74345639",
+      "cnt": "379"
+    },
+    {
+      "iata": "TRI",
+      "airport": "Tri-Cities Regional",
+      "city": "Bristol",
+      "state": "TN",
+      "country": "USA",
+      "lat": "36.47521417",
+      "long": "-82.40742056",
+      "cnt": "347"
+    },
+    {
+      "iata": "GRK",
+      "airport": "Robert Gray AAF",
+      "city": "Killeen",
+      "state": "TX",
+      "country": "USA",
+      "lat": "31.06489778",
+      "long": "-97.82779778",
+      "cnt": "346"
+    },
+    {
+      "iata": "CHS",
+      "airport": "Charleston AFB/International",
+      "city": "Charleston",
+      "state": "SC",
+      "country": "USA",
+      "lat": "32.89864639",
+      "long": "-80.04050583",
+      "cnt": "338"
+    },
+    {
+      "iata": "GRB",
+      "airport": "Austin Straubel International",
+      "city": "Green Bay",
+      "state": "WI",
+      "country": "USA",
+      "lat": "44.48507333",
+      "long": "-88.12959",
+      "cnt": "333"
+    },
+    {
+      "iata": "RDM",
+      "airport": "Roberts ",
+      "city": "Redmond",
+      "state": "OR",
+      "country": "USA",
+      "lat": "44.25406722",
+      "long": "-121.1499633",
+      "cnt": "328"
+    },
+    {
+      "iata": "CSG",
+      "airport": "Columbus Metropolitan",
+      "city": "Columbus",
+      "state": "GA",
+      "country": "USA",
+      "lat": "32.51633333",
+      "long": "-84.93886111",
+      "cnt": "324"
+    },
+    {
+      "iata": "SBN",
+      "airport": "South Bend Regional",
+      "city": "South Bend",
+      "state": "IN",
+      "country": "USA",
+      "lat": "41.70895361",
+      "long": "-86.31847417",
+      "cnt": "324"
+    },
+    {
+      "iata": "BOI",
+      "airport": "Boise Air Terminal",
+      "city": "Boise",
+      "state": "ID",
+      "country": "USA",
+      "lat": "43.56444444",
+      "long": "-116.2227778",
+      "cnt": "319"
+    },
+    {
+      "iata": "MYR",
+      "airport": "Myrtle Beach International",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "country": "USA",
+      "lat": "33.67975",
+      "long": "-78.92833333",
+      "cnt": "314"
+    },
+    {
+      "iata": "MOT",
+      "airport": "Minot International",
+      "city": "Minot",
+      "state": "ND",
+      "country": "USA",
+      "lat": "48.25937778",
+      "long": "-101.2803339",
+      "cnt": "310"
+    },
+    {
+      "iata": "CMI",
+      "airport": "University of Illinois-Willard",
+      "city": "Champaign/Urbana",
+      "state": "IL",
+      "country": "USA",
+      "lat": "40.03925",
+      "long": "-88.27805556",
+      "cnt": "306"
+    },
+    {
+      "iata": "ROA",
+      "airport": "Roanoke Regional/ Woodrum ",
+      "city": "Roanoke",
+      "state": "VA",
+      "country": "USA",
+      "lat": "37.32546833",
+      "long": "-79.97542833",
+      "cnt": "301"
+    },
+    {
+      "iata": "EGE",
+      "airport": "Eagle County Regional",
+      "city": "Eagle",
+      "state": "CO",
+      "country": "USA",
+      "lat": "39.64256778",
+      "long": "-106.9176953",
+      "cnt": "296"
+    },
+    {
+      "iata": "JAC",
+      "airport": "Jackson Hole",
+      "city": "Jackson",
+      "state": "WY",
+      "country": "USA",
+      "lat": "43.60732417",
+      "long": "-110.7377389",
+      "cnt": "295"
+    },
+    {
+      "iata": "BZN",
+      "airport": "Gallatin ",
+      "city": "Bozeman",
+      "state": "MT",
+      "country": "USA",
+      "lat": "45.77690139",
+      "long": "-111.1530072",
+      "cnt": "288"
+    },
+    {
+      "iata": "GJT",
+      "airport": "Walker ",
+      "city": "Grand Junction",
+      "state": "CO",
+      "country": "USA",
+      "lat": "39.1224125",
+      "long": "-108.5267347",
+      "cnt": "285"
+    },
+    {
+      "iata": "BUR",
+      "airport": "Burbank-Glendale-Pasadena",
+      "city": "Burbank",
+      "state": "CA",
+      "country": "USA",
+      "lat": "34.20061917",
+      "long": "-118.3584969",
+      "cnt": "280"
+    },
+    {
+      "iata": "EVV",
+      "airport": "Evansville Regional",
+      "city": "Evansville",
+      "state": "IN",
+      "country": "USA",
+      "lat": "38.03799139",
+      "long": "-87.53062667",
+      "cnt": "270"
+    },
+    {
+      "iata": "GUC",
+      "airport": "Gunnison County",
+      "city": "Gunnison",
+      "state": "CO",
+      "country": "USA",
+      "lat": "38.53396333",
+      "long": "-106.9331817",
+      "cnt": "270"
+    },
+    {
+      "iata": "IDA",
+      "airport": "Idaho Falls Regional",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "country": "USA",
+      "lat": "43.51455556",
+      "long": "-112.0701667",
+      "cnt": "264"
+    },
+    {
+      "iata": "FAT",
+      "airport": "Fresno Yosemite International",
+      "city": "Fresno",
+      "state": "CA",
+      "country": "USA",
+      "lat": "36.77619444",
+      "long": "-119.7181389",
+      "cnt": "264"
+    },
+    {
+      "iata": "SPI",
+      "airport": "Capital",
+      "city": "Springfield",
+      "state": "IL",
+      "country": "USA",
+      "lat": "39.84395194",
+      "long": "-89.67761861",
+      "cnt": "258"
+    },
+    {
+      "iata": "MFE",
+      "airport": "McAllen Miller International",
+      "city": "McAllen",
+      "state": "TX",
+      "country": "USA",
+      "lat": "26.17583333",
+      "long": "-98.23861111",
+      "cnt": "248"
+    },
+    {
+      "iata": "RDD",
+      "airport": "Redding Municipal",
+      "city": "Redding",
+      "state": "CA",
+      "country": "USA",
+      "lat": "40.50898361",
+      "long": "-122.2934019",
+      "cnt": "248"
+    },
+    {
+      "iata": "GFK",
+      "airport": "Grand Forks International",
+      "city": "Grand Forks",
+      "state": "ND",
+      "country": "USA",
+      "lat": "47.949255",
+      "long": "-97.17611111",
+      "cnt": "246"
+    },
+    {
+      "iata": "FSD",
+      "airport": "Joe Foss ",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "country": "USA",
+      "lat": "43.58135111",
+      "long": "-96.74170028",
+      "cnt": "245"
+    },
+    {
+      "iata": "TWF",
+      "airport": "Joslin Field - Magic Valley",
+      "city": "Twin Falls",
+      "state": "ID",
+      "country": "USA",
+      "lat": "42.48180389",
+      "long": "-114.4877356",
+      "cnt": "225"
+    },
+    {
+      "iata": "SMX",
+      "airport": "Santa Maria Pub/Capt G Allan Hancock ",
+      "city": "Santa Maria",
+      "state": "CA",
+      "country": "USA",
+      "lat": "34.89924833",
+      "long": "-120.4575825",
+      "cnt": "216"
+    },
+    {
+      "iata": "PIH",
+      "airport": "Pocatello Regional",
+      "city": "Pocatello",
+      "state": "ID",
+      "country": "USA",
+      "lat": "42.91130556",
+      "long": "-112.5958611",
+      "cnt": "216"
+    },
+    {
+      "iata": "DHN",
+      "airport": "Dothan ",
+      "city": "Dothan",
+      "state": "AL",
+      "country": "USA",
+      "lat": "31.32133917",
+      "long": "-85.44962889",
+      "cnt": "214"
+    },
+    {
+      "iata": "OAJ",
+      "airport": "Albert J Ellis",
+      "city": "Jacksonville",
+      "state": "NC",
+      "country": "USA",
+      "lat": "34.82916444",
+      "long": "-77.61213778",
+      "cnt": "212"
+    },
+    {
+      "iata": "MTJ",
+      "airport": "Montrose Regional",
+      "city": "Montrose",
+      "state": "CO",
+      "country": "USA",
+      "lat": "38.50886722",
+      "long": "-107.8938333",
+      "cnt": "210"
+    },
+    {
+      "iata": "BIS",
+      "airport": "Bismarck Municipal",
+      "city": "Bismarck",
+      "state": "ND",
+      "country": "USA",
+      "lat": "46.77411111",
+      "long": "-100.7467222",
+      "cnt": "208"
+    },
+    {
+      "iata": "CPR",
+      "airport": "Natrona County Intl",
+      "city": "Casper",
+      "state": "WY",
+      "country": "USA",
+      "lat": "42.90835556",
+      "long": "-106.4644661",
+      "cnt": "208"
+    },
+    {
+      "iata": "TVC",
+      "airport": "Cherry Capital",
+      "city": "Traverse City",
+      "state": "MI",
+      "country": "USA",
+      "lat": "44.74144472",
+      "long": "-85.582235",
+      "cnt": "201"
+    },
+    {
+      "iata": "MLU",
+      "airport": "Monroe Regional",
+      "city": "Monroe",
+      "state": "LA",
+      "country": "USA",
+      "lat": "32.51086556",
+      "long": "-92.03768778",
+      "cnt": "199"
+    },
+    {
+      "iata": "PSC",
+      "airport": "Tri-Cities",
+      "city": "Pasco",
+      "state": "WA",
+      "country": "USA",
+      "lat": "46.26468028",
+      "long": "-119.1190292",
+      "cnt": "168"
+    },
+    {
+      "iata": "MHK",
+      "airport": "Manhattan Regional",
+      "city": "Manhattan",
+      "state": "KS",
+      "country": "USA",
+      "lat": "39.14096722",
+      "long": "-96.67083278",
+      "cnt": "168"
+    },
+    {
+      "iata": "AEX",
+      "airport": "Alexandria International",
+      "city": "Alexandria",
+      "state": "LA",
+      "country": "USA",
+      "lat": "31.32737167",
+      "long": "-92.54855611",
+      "cnt": "168"
+    },
+    {
+      "iata": "OTH",
+      "airport": "North Bend Muni",
+      "city": "North Bend",
+      "state": "OR",
+      "country": "USA",
+      "lat": "43.41713889",
+      "long": "-124.2460278",
+      "cnt": "168"
+    },
+    {
+      "iata": "SAF",
+      "airport": "Santa Fe Municipal",
+      "city": "Santa Fe",
+      "state": "NM",
+      "country": "USA",
+      "lat": "35.61677778",
+      "long": "-106.0881389",
+      "cnt": "168"
+    },
+    {
+      "iata": "LMT",
+      "airport": "Klamath Falls International",
+      "city": "Klamath Falls",
+      "state": "OR",
+      "country": "USA",
+      "lat": "42.15614361",
+      "long": "-121.7332081",
+      "cnt": "168"
+    },
+    {
+      "iata": "SWF",
+      "airport": "Stewart",
+      "city": "Newburgh",
+      "state": "NY",
+      "country": "USA",
+      "lat": "41.50409361",
+      "long": "-74.10483833",
+      "cnt": "159"
+    },
+    {
+      "iata": "CHO",
+      "airport": "Charlottesville-Albermarle",
+      "city": "Charlottesville",
+      "state": "VA",
+      "country": "USA",
+      "lat": "38.13863889",
+      "long": "-78.45286111",
+      "cnt": "158"
+    },
+    {
+      "iata": "VLD",
+      "airport": "Valdosta Regional",
+      "city": "Valdosta",
+      "state": "GA",
+      "country": "USA",
+      "lat": "30.7825",
+      "long": "-83.27672222",
+      "cnt": "158"
+    },
+    {
+      "iata": "CWA",
+      "airport": "Central Wisconsin",
+      "city": "Mosinee",
+      "state": "WI",
+      "country": "USA",
+      "lat": "44.77761917",
+      "long": "-89.66677944",
+      "cnt": "156"
+    },
+    {
+      "iata": "IYK",
+      "airport": "Inyokern",
+      "city": "Inyokern",
+      "state": "CA",
+      "country": "USA",
+      "lat": "35.65884306",
+      "long": "-117.8295122",
+      "cnt": "146"
+    },
+    {
+      "iata": "ACV",
+      "airport": "Arcata",
+      "city": "Arcata/Eureka",
+      "state": "CA",
+      "country": "USA",
+      "lat": "40.97811528",
+      "long": "-124.1086189",
+      "cnt": "144"
+    },
+    {
+      "iata": "BQK",
+      "airport": "Glynco Jetport",
+      "city": "Brunswick",
+      "state": "GA",
+      "country": "USA",
+      "lat": "31.25902778",
+      "long": "-81.46630556",
+      "cnt": "140"
+    },
+    {
+      "iata": "LNK",
+      "airport": "Lincoln Municipal",
+      "city": "Lincoln",
+      "state": "NE",
+      "country": "USA",
+      "lat": "40.85097222",
+      "long": "-96.75925",
+      "cnt": "127"
+    },
+    {
+      "iata": "FWA",
+      "airport": "Fort Wayne International",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "country": "USA",
+      "lat": "40.97846583",
+      "long": "-85.19514639",
+      "cnt": "114"
+    },
+    {
+      "iata": "COD",
+      "airport": "Yellowstone Regional",
+      "city": "Cody",
+      "state": "WY",
+      "country": "USA",
+      "lat": "44.52019417",
+      "long": "-109.0237961",
+      "cnt": "112"
+    },
+    {
+      "iata": "PAH",
+      "airport": "Barkley Regional",
+      "city": "Paducah",
+      "state": "KY",
+      "country": "USA",
+      "lat": "37.06083333",
+      "long": "-88.77375",
+      "cnt": "112"
+    },
+    {
+      "iata": "SBP",
+      "airport": "San Luis Obispo Co-McChesney ",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "country": "USA",
+      "lat": "35.23705806",
+      "long": "-120.6423931",
+      "cnt": "112"
+    },
+    {
+      "iata": "AVP",
+      "airport": "Wilkes-Barre/Scranton Intl",
+      "city": "Wilkes-Barre/Scranton",
+      "state": "PA",
+      "country": "USA",
+      "lat": "41.33814944",
+      "long": "-75.7242675",
+      "cnt": "112"
+    },
+    {
+      "iata": "GTR",
+      "airport": "Golden Triangle Regional",
+      "city": "Columbus-Starkville-West Point",
+      "state": "MS",
+      "country": "USA",
+      "lat": "33.45033444",
+      "long": "-88.59136861",
+      "cnt": "112"
+    },
+    {
+      "iata": "GCC",
+      "airport": "Gillette-Campbell County",
+      "city": "Gillette",
+      "state": "WY",
+      "country": "USA",
+      "lat": "44.34889806",
+      "long": "-105.5393614",
+      "cnt": "112"
+    },
+    {
+      "iata": "EWN",
+      "airport": "Craven County Regional",
+      "city": "New Bern",
+      "state": "NC",
+      "country": "USA",
+      "lat": "35.07297222",
+      "long": "-77.04294444",
+      "cnt": "112"
+    },
+    {
+      "iata": "AGS",
+      "airport": "Bush ",
+      "city": "Augusta",
+      "state": "GA",
+      "country": "USA",
+      "lat": "33.369955",
+      "long": "-81.96449611",
+      "cnt": "112"
+    },
+    {
+      "iata": "FSM",
+      "airport": "Fort Smith Regional",
+      "city": "Fort Smith",
+      "state": "AR",
+      "country": "USA",
+      "lat": "35.33659028",
+      "long": "-94.36744111",
+      "cnt": "112"
+    },
+    {
+      "iata": "TYR",
+      "airport": "Tyler Pounds ",
+      "city": "Tyler",
+      "state": "TX",
+      "country": "USA",
+      "lat": "32.35413889",
+      "long": "-95.40238611",
+      "cnt": "110"
+    },
+    {
+      "iata": "HLN",
+      "airport": "Helena Regional",
+      "city": "Helena",
+      "state": "MT",
+      "country": "USA",
+      "lat": "46.60681806",
+      "long": "-111.9827503",
+      "cnt": "108"
+    },
+    {
+      "iata": "GTF",
+      "airport": "Great Falls Intl",
+      "city": "Great Falls",
+      "state": "MT",
+      "country": "USA",
+      "lat": "47.48200194",
+      "long": "-111.3706853",
+      "cnt": "108"
+    },
+    {
+      "iata": "MEI",
+      "airport": "Key ",
+      "city": "Meridian",
+      "state": "MS",
+      "country": "USA",
+      "lat": "32.33313333",
+      "long": "-88.75120556",
+      "cnt": "104"
+    },
+    {
+      "iata": "MQT",
+      "airport": "Marquette County Airport",
+      "city": "",
+      "state": "",
+      "country": "USA",
+      "lat": "46.353639",
+      "long": "-87.395361",
+      "cnt": "104"
+    },
+    {
+      "iata": "TEX",
+      "airport": "Telluride Regional",
+      "city": "Telluride",
+      "state": "CO",
+      "country": "USA",
+      "lat": "37.95375861",
+      "long": "-107.90848",
+      "cnt": "104"
+    },
+    {
+      "iata": "CHA",
+      "airport": "Lovell ",
+      "city": "Chattanooga",
+      "state": "TN",
+      "country": "USA",
+      "lat": "35.03526833",
+      "long": "-85.20378778",
+      "cnt": "104"
+    },
+    {
+      "iata": "LWS",
+      "airport": "Lewiston-Nez Perce County",
+      "city": "Lewiston",
+      "state": "ID",
+      "country": "USA",
+      "lat": "46.37449806",
+      "long": "-117.0153944",
+      "cnt": "102"
+    },
+    {
+      "iata": "CDC",
+      "airport": "Cedar City Muni",
+      "city": "Cedar City",
+      "state": "UT",
+      "country": "USA",
+      "lat": "37.70097028",
+      "long": "-113.098575",
+      "cnt": "96"
+    },
+    {
+      "iata": "ALB",
+      "airport": "Albany Cty",
+      "city": "Albany",
+      "state": "NY",
+      "country": "USA",
+      "lat": "42.74811944",
+      "long": "-73.80297861",
+      "cnt": "93"
+    },
+    {
+      "iata": "BTV",
+      "airport": "Burlington International",
+      "city": "Burlington",
+      "state": "VT",
+      "country": "USA",
+      "lat": "44.47300361",
+      "long": "-73.1503125",
+      "cnt": "91"
+    },
+    {
+      "iata": "FCA",
+      "airport": "Glacier Park Intl",
+      "city": "Kalispell",
+      "state": "MT",
+      "country": "USA",
+      "lat": "48.31140472",
+      "long": "-114.2550694",
+      "cnt": "90"
+    },
+    {
+      "iata": "MLB",
+      "airport": "Melbourne International ",
+      "city": "Melbourne",
+      "state": "FL",
+      "country": "USA",
+      "lat": "28.10275",
+      "long": "-80.64580556",
+      "cnt": "74"
+    },
+    {
+      "iata": "DAB",
+      "airport": "Daytona Beach International",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "country": "USA",
+      "lat": "29.17991667",
+      "long": "-81.05805556",
+      "cnt": "72"
+    },
+    {
+      "iata": "ABE",
+      "airport": "Lehigh Valley International",
+      "city": "Allentown",
+      "state": "PA",
+      "country": "USA",
+      "lat": "40.65236278",
+      "long": "-75.44040167",
+      "cnt": "60"
+    },
+    {
+      "iata": "DLH",
+      "airport": "Duluth International",
+      "city": "Duluth",
+      "state": "MN",
+      "country": "USA",
+      "lat": "46.84209028",
+      "long": "-92.19364861",
+      "cnt": "58"
+    },
+    {
+      "iata": "CYS",
+      "airport": "Cheyenne",
+      "city": "Cheyenne",
+      "state": "WY",
+      "country": "USA",
+      "lat": "41.1557225",
+      "long": "-104.8118381",
+      "cnt": "56"
+    },
+    {
+      "iata": "RKS",
+      "airport": "Rock Springs-Sweetwater County",
+      "city": "Rock Springs",
+      "state": "WY",
+      "country": "USA",
+      "lat": "41.5942175",
+      "long": "-109.0651928",
+      "cnt": "56"
+    },
+    {
+      "iata": "LWB",
+      "airport": "Greenbrier Valley",
+      "city": "Lewisburg",
+      "state": "WV",
+      "country": "USA",
+      "lat": "37.85830556",
+      "long": "-80.39947222",
+      "cnt": "56"
+    },
+    {
+      "iata": "CRW",
+      "airport": "Yeager",
+      "city": "Charleston",
+      "state": "WV",
+      "country": "USA",
+      "lat": "38.37315083",
+      "long": "-81.59318972",
+      "cnt": "56"
+    },
+    {
+      "iata": "BLI",
+      "airport": "Bellingham Intl",
+      "city": "Bellingham",
+      "state": "WA",
+      "country": "USA",
+      "lat": "48.79275",
+      "long": "-122.5375278",
+      "cnt": "56"
+    },
+    {
+      "iata": "MMH",
+      "airport": "Mammoth Yosemite",
+      "city": "Mammoth Lakes",
+      "state": "CA",
+      "country": "USA",
+      "lat": "37.62404861",
+      "long": "-118.8377722",
+      "cnt": "56"
+    },
+    {
+      "iata": "ATW",
+      "airport": "Outagamie County Regional",
+      "city": "Appleton",
+      "state": "WI",
+      "country": "USA",
+      "lat": "44.25740806",
+      "long": "-88.51947556",
+      "cnt": "56"
+    },
+    {
+      "iata": "BKG",
+      "airport": "Branson Airport",
+      "city": "Hollister",
+      "state": "MO",
+      "country": "USA",
+      "lat": "36.385913",
+      "long": "-92.548828",
+      "cnt": "56"
+    },
+    {
+      "iata": "PIE",
+      "airport": "St. Petersburg-Clearwater International",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "country": "USA",
+      "lat": "27.91076333",
+      "long": "-82.68743944",
+      "cnt": "52"
+    },
+    {
+      "iata": "SPS",
+      "airport": "Sheppard AFB/Wichita Falls Municipal",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "country": "USA",
+      "lat": "33.98879611",
+      "long": "-98.49189333",
+      "cnt": "50"
+    },
+    {
+      "iata": "FAY",
+      "airport": "Fayetteville Municipal",
+      "city": "Fayetteville",
+      "state": "NC",
+      "country": "USA",
+      "lat": "34.99147222",
+      "long": "-78.88",
+      "cnt": "50"
+    },
+    {
+      "iata": "EAU",
+      "airport": "Chippewa Valley Regional",
+      "city": "Eau Claire",
+      "state": "WI",
+      "country": "USA",
+      "lat": "44.86525722",
+      "long": "-91.48507194",
+      "cnt": "48"
+    },
+    {
+      "iata": "DBQ",
+      "airport": "Dubuque Municipal",
+      "city": "Dubuque",
+      "state": "IA",
+      "country": "USA",
+      "lat": "42.40295944",
+      "long": "-90.70916722",
+      "cnt": "48"
+    },
+    {
+      "iata": "RST",
+      "airport": "Rochester International",
+      "city": "Rochester",
+      "state": "MN",
+      "country": "USA",
+      "lat": "43.90882639",
+      "long": "-92.49798722",
+      "cnt": "37"
+    },
+    {
+      "iata": "UTM",
+      "airport": "Tunica Municipal Airport",
+      "city": "Tunica",
+      "state": "MS",
+      "country": "USA",
+      "lat": "34.681499",
+      "long": "-90.348816",
+      "cnt": "32"
+    },
+    {
+      "iata": "BIL",
+      "airport": "Billings Logan Intl",
+      "city": "Billings",
+      "state": "MT",
+      "country": "USA",
+      "lat": "45.8076625",
+      "long": "-108.5428611",
+      "cnt": "23"
+    }
+  ],
+  "meta": {
+    "title": "US Airport Traffic February 2011 - Free Download",
+    "description": "Traffic counts for 221 US airports in February 2011 with IATA codes, airport name, city, state, and coordinates. Contains 221 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US Airport Traffic February 2011 | ListBase",
+    "seo_description": "Download US Airport Traffic February 2011 — 221 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 221 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/plotly/datasets"
+    ]
+  }
+}

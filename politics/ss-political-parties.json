@@ -1,0 +1,121 @@
+{
+  "id": "ss-political-parties",
+  "name": "South Sudan — Political Parties",
+  "title": "South Sudan — Political Parties",
+  "description": "Political parties of South Sudan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "string"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5554,
+      "name_short": "SPLM",
+      "name": "Sudan People's Liberation Movement",
+      "name_english": "Sudan People's Liberation Movement",
+      "name_other": "Arabic: الحركة الشعبية لتحرير السودان‎‎, Al-Ḥarakat ash-Shaʿbiyyat liTaḥrīr as-Sūdān",
+      "year_first": 1983,
+      "year_last": "",
+      "share": 93,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sudan_People%27s_Liberation_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5555,
+      "name_short": "DC",
+      "name": "Democratic Change",
+      "name_english": "Democratic Change",
+      "name_other": "Arabic: التغيير الديمقراطي",
+      "year_first": 2009,
+      "year_last": "",
+      "share": 7,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/South_Sudanese_general_election,_2010",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "South Sudan — Political Parties - Free Download",
+    "description": "Political parties of South Sudan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "South Sudan — Political Parties | ListBase",
+    "seo_description": "Download South Sudan — Political Parties dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

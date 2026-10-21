@@ -1,0 +1,184 @@
+{
+  "id": "ro-unesco-heritage",
+  "name": "Romania — UNESCO World Heritage Sites",
+  "title": "Romania — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Romania, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 588,
+      "name": "Danube Delta",
+      "category": "natural",
+      "date_inscribed": 1991,
+      "criteria": "n7, n10",
+      "lat": 45.08333,
+      "lon": 29.5,
+      "area_hectares": 312440,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ro",
+      "transboundary": false
+    },
+    {
+      "ref_no": 596,
+      "name": "Villages with Fortified Churches in Transylvania",
+      "category": "cultural",
+      "date_inscribed": 1993,
+      "criteria": "c4",
+      "lat": 46.13583333,
+      "lon": 24.77305556,
+      "area_hectares": 553,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ro",
+      "transboundary": false
+    },
+    {
+      "ref_no": 597,
+      "name": "Monastery of Horezu",
+      "category": "cultural",
+      "date_inscribed": 1993,
+      "criteria": "c2",
+      "lat": 45.18333333,
+      "lon": 24.01666667,
+      "area_hectares": 22.48,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ro",
+      "transboundary": false
+    },
+    {
+      "ref_no": 598,
+      "name": "Churches of Moldavia",
+      "category": "cultural",
+      "date_inscribed": 1993,
+      "criteria": "c1, c4",
+      "lat": 47.77833333,
+      "lon": 25.71277778,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ro",
+      "transboundary": false
+    },
+    {
+      "ref_no": 902,
+      "name": "Historic Centre of Sighisoara",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c3, c5",
+      "lat": 46.21777778,
+      "lon": 24.79222222,
+      "area_hectares": 33,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ro",
+      "transboundary": false
+    },
+    {
+      "ref_no": 904,
+      "name": "Wooden Churches of Maramures",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c4",
+      "lat": 47.82083333,
+      "lon": 24.05583333,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ro",
+      "transboundary": false
+    },
+    {
+      "ref_no": 906,
+      "name": "Dacian Fortresses of the Orastie Mountains",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c2, c3, c4",
+      "lat": 45.62305556,
+      "lon": 23.31194444,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ro",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Romania — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Romania, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Romania — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Romania — UNESCO World Heritage Sites dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

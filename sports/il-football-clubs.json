@@ -1,0 +1,322 @@
+{
+  "id": "il-football-clubs",
+  "name": "Israel — Football Clubs",
+  "title": "Israel — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Israel's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "MaccabiTelAviv",
+      "matches_played": 400,
+      "seasons_count": 18,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "ligat-ha-al, ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2000-2001, ligat-ha-al-2001-2002, ligat-ha-al-2002-2003, ligat-ha-al-2003-2004, ligat-ha-al-2004-2005, ligat-ha-al-2005-2006, lig…"
+    },
+    {
+      "name": "MaccabiHaifa",
+      "matches_played": 399,
+      "seasons_count": 18,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "ligat-ha-al, ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2000-2001, ligat-ha-al-2001-2002, ligat-ha-al-2002-2003, ligat-ha-al-2003-2004, ligat-ha-al-2004-2005, ligat-ha-al-2005-2006, lig…"
+    },
+    {
+      "name": "HapoelTelAviv",
+      "matches_played": 390,
+      "seasons_count": 17,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "ligat-ha-al, ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2000-2001, ligat-ha-al-2001-2002, ligat-ha-al-2002-2003, ligat-ha-al-2003-2004, ligat-ha-al-2004-2005, ligat-ha-al-2005-2006, lig…"
+    },
+    {
+      "name": "BeitarJerusalem",
+      "matches_played": 368,
+      "seasons_count": 14,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "ligat-ha-al, ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2000-2001, ligat-ha-al-2001-2002, ligat-ha-al-2002-2003, ligat-ha-al-2003-2004, ligat-ha-al-2004-2005, ligat-ha-al-2005-2006, lig…"
+    },
+    {
+      "name": "MaccabiPetahTikva",
+      "matches_played": 358,
+      "seasons_count": 12,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "ligat-ha-al, ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2001-2002, ligat-ha-al-2002-2003, ligat-ha-al-2003-2004, ligat-ha-al-2004-2005, ligat-ha-al-2005-2006, ligat-ha-al-2006-2007, lig…"
+    },
+    {
+      "name": "Yehuda",
+      "matches_played": 341,
+      "seasons_count": 14,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "ligat-ha-al, ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2002-2003, ligat-ha-al-2003-2004, ligat-ha-al-2004-2005, ligat-ha-al-2005-2006, ligat-ha-al-2006-2007, ligat-ha-al-2007-2008, lig…"
+    },
+    {
+      "name": "HapoelPetahTikva",
+      "matches_played": 299,
+      "seasons_count": 10,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2008,
+      "seasons": "ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2000-2001, ligat-ha-al-2001-2002, ligat-ha-al-2002-2003, ligat-ha-al-2003-2004, ligat-ha-al-2004-2005, ligat-ha-al-2005-2006, ligat-ha-al-2006…"
+    },
+    {
+      "name": "Netanya",
+      "matches_played": 298,
+      "seasons_count": 11,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1999,
+      "last_season_year": 2011,
+      "seasons": "ligat-ha-al, ligat-ha-al-1999-2000, ligat-ha-al-2001-2002, ligat-ha-al-2002-2003, ligat-ha-al-2003-2004, ligat-ha-al-2005-2006, ligat-ha-al-2006-2007, ligat-ha-al-2007-2008, ligat-ha-al-2008-2009, lig…"
+    },
+    {
+      "name": "MoadonSportAshdod",
+      "matches_played": 270,
+      "seasons_count": 10,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 2001,
+      "last_season_year": 2011,
+      "seasons": "ligat-ha-al-2001-2002, ligat-ha-al-2002-2003, ligat-ha-al-2003-2004, ligat-ha-al-2004-2005, ligat-ha-al-2005-2006, ligat-ha-al-2006-2007, ligat-ha-al-2007-2008, ligat-ha-al-2008-2009, ligat-ha-al-2009…"
+    },
+    {
+      "name": "HapoelKfar",
+      "matches_played": 225,
+      "seasons_count": 7,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2007,
+      "seasons": "ligat-ha-al, ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2002-2003, ligat-ha-al-2005-2006, ligat-ha-al-2006-2007, ligat-ha-al-2007-2008"
+    },
+    {
+      "name": "Sakhnin",
+      "matches_played": 202,
+      "seasons_count": 8,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 2003,
+      "last_season_year": 2013,
+      "seasons": "ligat-ha-al, ligat-ha-al-2003-2004, ligat-ha-al-2004-2005, ligat-ha-al-2005-2006, ligat-ha-al-2007-2008, ligat-ha-al-2008-2009, ligat-ha-al-2011-2012, ligat-ha-al-2013-2014"
+    },
+    {
+      "name": "H.BeerSheva",
+      "matches_played": 174,
+      "seasons_count": 7,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 2001,
+      "last_season_year": 2014,
+      "seasons": "ligat-ha-al, ligat-ha-al-2001-2002, ligat-ha-al-2002-2003, ligat-ha-al-2003-2004, ligat-ha-al-2004-2005, ligat-ha-al-2013-2014, ligat-ha-al-2014-2015"
+    },
+    {
+      "name": "HapoelHaifa",
+      "matches_played": 160,
+      "seasons_count": 6,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2004,
+      "seasons": "ligat-ha-al, ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2000-2001, ligat-ha-al-2001-2002, ligat-ha-al-2004-2005"
+    },
+    {
+      "name": "H.IroniRishon",
+      "matches_played": 131,
+      "seasons_count": 4,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2002,
+      "seasons": "ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2001-2002, ligat-ha-al-2002-2003"
+    },
+    {
+      "name": "M.Herzliya",
+      "matches_played": 130,
+      "seasons_count": 4,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2007,
+      "seasons": "ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2006-2007, ligat-ha-al-2007-2008"
+    },
+    {
+      "name": "Shmona",
+      "matches_played": 129,
+      "seasons_count": 8,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 2007,
+      "last_season_year": 2014,
+      "seasons": "ligat-ha-al, ligat-ha-al-2007-2008, ligat-ha-al-2008-2009, ligat-ha-al-2010-2011, ligat-ha-al-2011-2012, ligat-ha-al-2012-2013, ligat-ha-al-2013-2014, ligat-ha-al-2014-2015"
+    },
+    {
+      "name": "Saba",
+      "matches_played": 111,
+      "seasons_count": 7,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 2007,
+      "seasons": "ligat-ha-al, ligat-ha-al-1998-1999, ligat-ha-al-1999-2000, ligat-ha-al-2002-2003, ligat-ha-al-2005-2006, ligat-ha-al-2006-2007, ligat-ha-al-2007-2008"
+    },
+    {
+      "name": "HapoelJerusalem",
+      "matches_played": 67,
+      "seasons_count": 2,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "ligat-ha-al-1998-1999, ligat-ha-al-1999-2000"
+    },
+    {
+      "name": "M.IroniAshdod",
+      "matches_played": 67,
+      "seasons_count": 2,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "ligat-ha-al-1998-1999, ligat-ha-al-1999-2000"
+    },
+    {
+      "name": "H.Nazareth",
+      "matches_played": 64,
+      "seasons_count": 2,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 2004,
+      "last_season_year": 2005,
+      "seasons": "ligat-ha-al-2004-2005, ligat-ha-al-2005-2006"
+    },
+    {
+      "name": "Hak.RamatGan",
+      "matches_played": 64,
+      "seasons_count": 2,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 2006,
+      "last_season_year": 2008,
+      "seasons": "ligat-ha-al-2006-2007, ligat-ha-al-2008-2009"
+    },
+    {
+      "name": "KiryatGat",
+      "matches_played": 33,
+      "seasons_count": 1,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 2001,
+      "last_season_year": 2001,
+      "seasons": "ligat-ha-al-2001-2002"
+    },
+    {
+      "name": "M.Nazareth",
+      "matches_played": 33,
+      "seasons_count": 1,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 2003,
+      "last_season_year": 2003,
+      "seasons": "ligat-ha-al-2003-2004"
+    },
+    {
+      "name": "BeitShean",
+      "matches_played": 29,
+      "seasons_count": 1,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "ligat-ha-al-1998-1999"
+    },
+    {
+      "name": "H.TzafririmHolon",
+      "matches_played": 29,
+      "seasons_count": 1,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "ligat-ha-al-1998-1999"
+    },
+    {
+      "name": "MaccabiJaffa",
+      "matches_played": 29,
+      "seasons_count": 1,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "ligat-ha-al-1998-1999"
+    },
+    {
+      "name": "H.Akko",
+      "matches_played": 23,
+      "seasons_count": 1,
+      "leagues": "ligat-ha-al",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "ligat-ha-al"
+    },
+    {
+      "name": "H.Raanana",
+      "matches_played": 23,
+      "seasons_count": 1,
+      "leagues": "ligat-ha-al",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "ligat-ha-al"
+    },
+    {
+      "name": "RamatHasharon",
+      "matches_played": 10,
+      "seasons_count": 1,
+      "leagues": "ligat-ha-al",
+      "first_season_year": 2012,
+      "last_season_year": 2012,
+      "seasons": "ligat-ha-al-2012-2013"
+    }
+  ],
+  "meta": {
+    "title": "Israel — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Israel's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Israel — Football Clubs | ListBase",
+    "seo_description": "Download Israel — Football Clubs dataset with 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

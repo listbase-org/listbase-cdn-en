@@ -1,0 +1,128 @@
+{
+  "id": "ug-unesco-heritage",
+  "name": "Uganda — UNESCO World Heritage Sites",
+  "title": "Uganda — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Uganda, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 682,
+      "name": "Bwindi Impenetrable National Park",
+      "category": "natural",
+      "date_inscribed": 1994,
+      "criteria": "n7, n10",
+      "lat": -1.080555556,
+      "lon": 29.66138889,
+      "area_hectares": 32092,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "ug",
+      "transboundary": false
+    },
+    {
+      "ref_no": 684,
+      "name": "Rwenzori Mountains National Park",
+      "category": "natural",
+      "date_inscribed": 1994,
+      "criteria": "n7, n10",
+      "lat": 0.223611111,
+      "lon": 29.92416667,
+      "area_hectares": 99600,
+      "danger_list": "P 1999-2004",
+      "unesco_region": "Africa",
+      "countries": "ug",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1022,
+      "name": "Tombs of Buganda Kings at Kasubi",
+      "category": "cultural",
+      "date_inscribed": 2001,
+      "criteria": "c1, c3, c4, c6",
+      "lat": 0.348611111,
+      "lon": 32.55138889,
+      "area_hectares": 26.8,
+      "danger_list": "Y 2010",
+      "unesco_region": "Africa",
+      "countries": "ug",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Uganda — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Uganda, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 3 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Uganda — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Uganda — UNESCO World Heritage Sites dataset with 3 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 3 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

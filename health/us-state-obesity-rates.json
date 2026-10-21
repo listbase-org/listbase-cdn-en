@@ -1,0 +1,346 @@
+{
+  "id": "us-state-obesity-rates",
+  "name": "US State Adult Obesity Rates",
+  "title": "US State Adult Obesity Rates",
+  "description": "Adult obesity rate (as a fraction) for each US state. Source: CDC/Behavioral Risk Factor Surveillance System, via Vega datasets.",
+  "category": "health",
+  "source": "https://github.com/vega/vega-datasets",
+  "source_url": "https://github.com/vega/vega-datasets",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "rate",
+      "label": "Rate",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_name",
+      "label": "State Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "rate": 0.187,
+      "state": "AL",
+      "state_name": "Alabama"
+    },
+    {
+      "id": 2,
+      "rate": 0.198,
+      "state": "AK",
+      "state_name": "Alaska"
+    },
+    {
+      "id": 4,
+      "rate": 0.133,
+      "state": "AZ",
+      "state_name": "Arizona"
+    },
+    {
+      "id": 5,
+      "rate": 0.175,
+      "state": "AR",
+      "state_name": "Arkansas"
+    },
+    {
+      "id": 6,
+      "rate": 0.151,
+      "state": "CA",
+      "state_name": "California"
+    },
+    {
+      "id": 8,
+      "rate": 0.1,
+      "state": "CO",
+      "state_name": "Colorado"
+    },
+    {
+      "id": 9,
+      "rate": 0.125,
+      "state": "CT",
+      "state_name": "Connecticut"
+    },
+    {
+      "id": 10,
+      "rate": 0.171,
+      "state": "DE",
+      "state_name": "Delaware"
+    },
+    {
+      "id": 12,
+      "rate": 0.172,
+      "state": "FL",
+      "state_name": "Florida"
+    },
+    {
+      "id": 13,
+      "rate": 0.133,
+      "state": "GA",
+      "state_name": "Georgia"
+    },
+    {
+      "id": 15,
+      "rate": 0.108,
+      "state": "HI",
+      "state_name": "Hawaii"
+    },
+    {
+      "id": 16,
+      "rate": 0.142,
+      "state": "ID",
+      "state_name": "Idaho"
+    },
+    {
+      "id": 17,
+      "rate": 0.167,
+      "state": "IL",
+      "state_name": "Illinois"
+    },
+    {
+      "id": 18,
+      "rate": 0.201,
+      "state": "IN",
+      "state_name": "Indiana"
+    },
+    {
+      "id": 19,
+      "rate": 0.175,
+      "state": "IA",
+      "state_name": "Iowa"
+    },
+    {
+      "id": 20,
+      "rate": 0.159,
+      "state": "KS",
+      "state_name": "Kansas"
+    },
+    {
+      "id": 21,
+      "rate": 0.169,
+      "state": "KY",
+      "state_name": "Kentucky"
+    },
+    {
+      "id": 22,
+      "rate": 0.177,
+      "state": "LA",
+      "state_name": "Louisiana"
+    },
+    {
+      "id": 23,
+      "rate": 0.141,
+      "state": "ME",
+      "state_name": "Maine"
+    },
+    {
+      "id": 24,
+      "rate": 0.163,
+      "state": "MD",
+      "state_name": "Maryland"
+    },
+    {
+      "id": 25,
+      "rate": 0.117,
+      "state": "MA",
+      "state_name": "Massachusetts"
+    },
+    {
+      "id": 26,
+      "rate": 0.182,
+      "state": "MI",
+      "state_name": "Michigan"
+    },
+    {
+      "id": 27,
+      "rate": 0.153,
+      "state": "MN",
+      "state_name": "Minnesota"
+    },
+    {
+      "id": 28,
+      "rate": 0.195,
+      "state": "MS",
+      "state_name": "Mississippi"
+    },
+    {
+      "id": 29,
+      "rate": 0.189,
+      "state": "MO",
+      "state_name": "Missouri"
+    },
+    {
+      "id": 30,
+      "rate": 0.134,
+      "state": "MT",
+      "state_name": "Montana"
+    },
+    {
+      "id": 31,
+      "rate": 0.163,
+      "state": "NE",
+      "state_name": "Nebraska"
+    },
+    {
+      "id": 32,
+      "rate": 0.133,
+      "state": "NV",
+      "state_name": "Nevada"
+    },
+    {
+      "id": 33,
+      "rate": 0.151,
+      "state": "NH",
+      "state_name": "New Hampshire"
+    },
+    {
+      "id": 34,
+      "rate": 0.145,
+      "state": "NJ",
+      "state_name": "New Jersey"
+    },
+    {
+      "id": 35,
+      "rate": 0.13,
+      "state": "NM",
+      "state_name": "New Mexico"
+    },
+    {
+      "id": 36,
+      "rate": 0.139,
+      "state": "NY",
+      "state_name": "New York"
+    },
+    {
+      "id": 37,
+      "rate": 0.169,
+      "state": "NC",
+      "state_name": "North Carolina"
+    },
+    {
+      "id": 38,
+      "rate": 0.164,
+      "state": "ND",
+      "state_name": "North Dakota"
+    },
+    {
+      "id": 39,
+      "rate": 0.175,
+      "state": "OH",
+      "state_name": "Ohio"
+    },
+    {
+      "id": 40,
+      "rate": 0.135,
+      "state": "OK",
+      "state_name": "Oklahoma"
+    },
+    {
+      "id": 41,
+      "rate": 0.152,
+      "state": "OR",
+      "state_name": "Oregon"
+    },
+    {
+      "id": 42,
+      "rate": 0.169,
+      "state": "PA",
+      "state_name": "Pennsylvania"
+    },
+    {
+      "id": 44,
+      "rate": 0.132,
+      "state": "RI",
+      "state_name": "Rhode Island"
+    },
+    {
+      "id": 45,
+      "rate": 0.167,
+      "state": "SC",
+      "state_name": "South Carolina"
+    },
+    {
+      "id": 46,
+      "rate": 0.139,
+      "state": "SD",
+      "state_name": "South Dakota"
+    },
+    {
+      "id": 47,
+      "rate": 0.184,
+      "state": "TN",
+      "state_name": "Tennessee"
+    },
+    {
+      "id": 48,
+      "rate": 0.159,
+      "state": "TX",
+      "state_name": "Texas"
+    },
+    {
+      "id": 49,
+      "rate": 0.14,
+      "state": "UT",
+      "state_name": "Utah"
+    },
+    {
+      "id": 50,
+      "rate": 0.146,
+      "state": "VT",
+      "state_name": "Vermont"
+    },
+    {
+      "id": 51,
+      "rate": 0.157,
+      "state": "VA",
+      "state_name": "Virginia"
+    },
+    {
+      "id": 53,
+      "rate": 0.139,
+      "state": "WA",
+      "state_name": "Washington"
+    },
+    {
+      "id": 54,
+      "rate": 0.183,
+      "state": "WV",
+      "state_name": "West Virginia"
+    },
+    {
+      "id": 55,
+      "rate": 0.16,
+      "state": "WI",
+      "state_name": "Wisconsin"
+    },
+    {
+      "id": 56,
+      "rate": 0.143,
+      "state": "WY",
+      "state_name": "Wyoming"
+    }
+  ],
+  "meta": {
+    "title": "US State Adult Obesity Rates - Free Download",
+    "description": "Adult obesity rate (as a fraction) for each US state. Source: CDC/Behavioral Risk Factor Surveillance System, via Vega datasets. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US State Adult Obesity Rates | ListBase",
+    "seo_description": "Download US State Adult Obesity Rates — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/vega/vega-datasets"
+    ]
+  }
+}

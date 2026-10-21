@@ -1,0 +1,114 @@
+{
+  "id": "ps-unesco-heritage",
+  "name": "Palestine — UNESCO World Heritage Sites",
+  "title": "Palestine — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Palestine, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 1433,
+      "name": "Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem",
+      "category": "cultural",
+      "date_inscribed": 2012,
+      "criteria": "c4, c6",
+      "lat": 31.70435278,
+      "lon": 35.2075,
+      "area_hectares": 2.98,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "ps",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1492,
+      "name": "Palestine: Land of Olives and Vines - Cultural Landscape of Southern Jerusalem, Battir",
+      "category": "cultural",
+      "date_inscribed": 2014,
+      "criteria": "c4, c5",
+      "lat": 31.71972222,
+      "lon": 35.13055556,
+      "area_hectares": 348.83,
+      "danger_list": "Y 2014",
+      "unesco_region": "Arab States",
+      "countries": "ps",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Palestine — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Palestine, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Palestine — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Palestine — UNESCO World Heritage Sites dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

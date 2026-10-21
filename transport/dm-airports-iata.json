@@ -1,0 +1,121 @@
+{
+  "id": "dm-airports-iata",
+  "name": "Dominica — IATA Airports",
+  "title": "Dominica — IATA Airports",
+  "description": "Airports with IATA codes in Dominica: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "DCF",
+      "icao_code": "TDCF",
+      "name": "Canefield Airport",
+      "city_name_list": "Dominica",
+      "country_code": "DM",
+      "country_name": "Dominica",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Saint Paul Parish",
+      "latitude": 15.33841,
+      "longitude": -61.39186,
+      "elevation": "",
+      "timezone": "America/Dominica",
+      "wiki_link": "https://en.wikipedia.org/wiki/Canefield_Airport"
+    },
+    {
+      "iata_code": "DOM",
+      "icao_code": "TDPD",
+      "name": "Melville Hall Airport",
+      "city_name_list": "Dominica",
+      "country_code": "DM",
+      "country_name": "Dominica",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Saint Andrew Parish",
+      "latitude": 15.54703,
+      "longitude": -61.3,
+      "elevation": 22,
+      "timezone": "America/Dominica",
+      "wiki_link": "https://en.wikipedia.org/wiki/Douglas%E2%80%93Charles_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Dominica — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Dominica: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Dominica — IATA Airports | ListBase",
+    "seo_description": "Download Dominica — IATA Airports dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

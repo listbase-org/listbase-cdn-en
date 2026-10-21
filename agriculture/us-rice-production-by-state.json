@@ -1,0 +1,4018 @@
+{
+  "id": "us-rice-production-by-state",
+  "name": "US Rice Production by State 1895–2011",
+  "title": "US Rice Production by State 1895–2011",
+  "description": "USDA NASS agricultural data on rice production across US states from 1895 to 2011, including acres harvested and yield per acre.",
+  "category": "agriculture",
+  "source": "https://github.com/vincentarelbundock/Rdatasets",
+  "source_url": "https://github.com/vincentarelbundock/Rdatasets",
+  "updated": "2026-04",
+  "record_count": 662,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "acres",
+      "label": "Acres",
+      "type": "number"
+    },
+    {
+      "key": "yield",
+      "label": "Yield",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1895",
+      "state": "Florida",
+      "acres": "2000",
+      "yield": "675"
+    },
+    {
+      "year": "1895",
+      "state": "Georgia",
+      "acres": "25000",
+      "yield": "945"
+    },
+    {
+      "year": "1895",
+      "state": "Louisiana",
+      "acres": "170000",
+      "yield": "1260"
+    },
+    {
+      "year": "1895",
+      "state": "North Carolina",
+      "acres": "20000",
+      "yield": "518"
+    },
+    {
+      "year": "1895",
+      "state": "South Carolina",
+      "acres": "70000",
+      "yield": "1080"
+    },
+    {
+      "year": "1895",
+      "state": "Texas",
+      "acres": "5000",
+      "yield": "1800"
+    },
+    {
+      "year": "1896",
+      "state": "Florida",
+      "acres": "3000",
+      "yield": "690"
+    },
+    {
+      "year": "1896",
+      "state": "Georgia",
+      "acres": "23000",
+      "yield": "855"
+    },
+    {
+      "year": "1896",
+      "state": "Louisiana",
+      "acres": "148000",
+      "yield": "855"
+    },
+    {
+      "year": "1896",
+      "state": "North Carolina",
+      "acres": "19000",
+      "yield": "495"
+    },
+    {
+      "year": "1896",
+      "state": "South Carolina",
+      "acres": "71000",
+      "yield": "990"
+    },
+    {
+      "year": "1896",
+      "state": "Texas",
+      "acres": "6000",
+      "yield": "1012"
+    },
+    {
+      "year": "1897",
+      "state": "Florida",
+      "acres": "3000",
+      "yield": "690"
+    },
+    {
+      "year": "1897",
+      "state": "Georgia",
+      "acres": "21000",
+      "yield": "900"
+    },
+    {
+      "year": "1897",
+      "state": "Louisiana",
+      "acres": "170000",
+      "yield": "1148"
+    },
+    {
+      "year": "1897",
+      "state": "North Carolina",
+      "acres": "19000",
+      "yield": "495"
+    },
+    {
+      "year": "1897",
+      "state": "South Carolina",
+      "acres": "70000",
+      "yield": "1035"
+    },
+    {
+      "year": "1897",
+      "state": "Texas",
+      "acres": "7000",
+      "yield": "1504"
+    },
+    {
+      "year": "1898",
+      "state": "Florida",
+      "acres": "4000",
+      "yield": "630"
+    },
+    {
+      "year": "1898",
+      "state": "Georgia",
+      "acres": "21000",
+      "yield": "789"
+    },
+    {
+      "year": "1898",
+      "state": "Louisiana",
+      "acres": "184000",
+      "yield": "1305"
+    },
+    {
+      "year": "1898",
+      "state": "North Carolina",
+      "acres": "22000",
+      "yield": "720"
+    },
+    {
+      "year": "1898",
+      "state": "South Carolina",
+      "acres": "74000",
+      "yield": "1125"
+    },
+    {
+      "year": "1898",
+      "state": "Texas",
+      "acres": "9000",
+      "yield": "1710"
+    },
+    {
+      "year": "1899",
+      "state": "Florida",
+      "acres": "5000",
+      "yield": "675"
+    },
+    {
+      "year": "1899",
+      "state": "Georgia",
+      "acres": "22000",
+      "yield": "824"
+    },
+    {
+      "year": "1899",
+      "state": "Louisiana",
+      "acres": "202000",
+      "yield": "1386"
+    },
+    {
+      "year": "1899",
+      "state": "North Carolina",
+      "acres": "22000",
+      "yield": "571"
+    },
+    {
+      "year": "1899",
+      "state": "South Carolina",
+      "acres": "78000",
+      "yield": "985"
+    },
+    {
+      "year": "1899",
+      "state": "Texas",
+      "acres": "9000",
+      "yield": "1335"
+    },
+    {
+      "year": "1900",
+      "state": "Florida",
+      "acres": "5000",
+      "yield": "675"
+    },
+    {
+      "year": "1900",
+      "state": "Georgia",
+      "acres": "22000",
+      "yield": "810"
+    },
+    {
+      "year": "1900",
+      "state": "Louisiana",
+      "acres": "215000",
+      "yield": "1440"
+    },
+    {
+      "year": "1900",
+      "state": "North Carolina",
+      "acres": "19000",
+      "yield": "336"
+    },
+    {
+      "year": "1900",
+      "state": "South Carolina",
+      "acres": "70000",
+      "yield": "765"
+    },
+    {
+      "year": "1900",
+      "state": "Texas",
+      "acres": "30000",
+      "yield": "1665"
+    },
+    {
+      "year": "1901",
+      "state": "Florida",
+      "acres": "4000",
+      "yield": "720"
+    },
+    {
+      "year": "1901",
+      "state": "Georgia",
+      "acres": "21000",
+      "yield": "945"
+    },
+    {
+      "year": "1901",
+      "state": "Louisiana",
+      "acres": "245000",
+      "yield": "1440"
+    },
+    {
+      "year": "1901",
+      "state": "North Carolina",
+      "acres": "16000",
+      "yield": "630"
+    },
+    {
+      "year": "1901",
+      "state": "South Carolina",
+      "acres": "62000",
+      "yield": "990"
+    },
+    {
+      "year": "1901",
+      "state": "Texas",
+      "acres": "75000",
+      "yield": "1643"
+    },
+    {
+      "year": "1902",
+      "state": "Florida",
+      "acres": "3000",
+      "yield": "690"
+    },
+    {
+      "year": "1902",
+      "state": "Georgia",
+      "acres": "20000",
+      "yield": "922"
+    },
+    {
+      "year": "1902",
+      "state": "Louisiana",
+      "acres": "310000",
+      "yield": "1035"
+    },
+    {
+      "year": "1902",
+      "state": "North Carolina",
+      "acres": "13000",
+      "yield": "561"
+    },
+    {
+      "year": "1902",
+      "state": "South Carolina",
+      "acres": "59000",
+      "yield": "1013"
+    },
+    {
+      "year": "1902",
+      "state": "Texas",
+      "acres": "140000",
+      "yield": "1755"
+    },
+    {
+      "year": "1903",
+      "state": "Florida",
+      "acres": "3000",
+      "yield": "720"
+    },
+    {
+      "year": "1903",
+      "state": "Georgia",
+      "acres": "19000",
+      "yield": "990"
+    },
+    {
+      "year": "1903",
+      "state": "Louisiana",
+      "acres": "315000",
+      "yield": "1530"
+    },
+    {
+      "year": "1903",
+      "state": "North Carolina",
+      "acres": "11000",
+      "yield": "655"
+    },
+    {
+      "year": "1903",
+      "state": "South Carolina",
+      "acres": "49000",
+      "yield": "1058"
+    },
+    {
+      "year": "1903",
+      "state": "Texas",
+      "acres": "150000",
+      "yield": "1980"
+    },
+    {
+      "year": "1904",
+      "state": "Florida",
+      "acres": "2000",
+      "yield": "765"
+    },
+    {
+      "year": "1904",
+      "state": "Georgia",
+      "acres": "18000",
+      "yield": "1012"
+    },
+    {
+      "year": "1904",
+      "state": "Louisiana",
+      "acres": "300000",
+      "yield": "1395"
+    },
+    {
+      "year": "1904",
+      "state": "North Carolina",
+      "acres": "10000",
+      "yield": "742"
+    },
+    {
+      "year": "1904",
+      "state": "South Carolina",
+      "acres": "48000",
+      "yield": "1012"
+    },
+    {
+      "year": "1904",
+      "state": "Texas",
+      "acres": "196000",
+      "yield": "1890"
+    },
+    {
+      "year": "1905",
+      "state": "Arkansas",
+      "acres": "1000",
+      "yield": "1440"
+    },
+    {
+      "year": "1905",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "810"
+    },
+    {
+      "year": "1905",
+      "state": "Georgia",
+      "acres": "14000",
+      "yield": "990"
+    },
+    {
+      "year": "1905",
+      "state": "Louisiana",
+      "acres": "250000",
+      "yield": "1485"
+    },
+    {
+      "year": "1905",
+      "state": "North Carolina",
+      "acres": "6000",
+      "yield": "765"
+    },
+    {
+      "year": "1905",
+      "state": "South Carolina",
+      "acres": "20000",
+      "yield": "1080"
+    },
+    {
+      "year": "1905",
+      "state": "Texas",
+      "acres": "165000",
+      "yield": "1868"
+    },
+    {
+      "year": "1906",
+      "state": "Arkansas",
+      "acres": "4000",
+      "yield": "1710"
+    },
+    {
+      "year": "1906",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "810"
+    },
+    {
+      "year": "1906",
+      "state": "Georgia",
+      "acres": "13000",
+      "yield": "990"
+    },
+    {
+      "year": "1906",
+      "state": "Louisiana",
+      "acres": "270000",
+      "yield": "1530"
+    },
+    {
+      "year": "1906",
+      "state": "North Carolina",
+      "acres": "5000",
+      "yield": "855"
+    },
+    {
+      "year": "1906",
+      "state": "South Carolina",
+      "acres": "22000",
+      "yield": "1102"
+    },
+    {
+      "year": "1906",
+      "state": "Texas",
+      "acres": "190000",
+      "yield": "1778"
+    },
+    {
+      "year": "1907",
+      "state": "Arkansas",
+      "acres": "6000",
+      "yield": "1688"
+    },
+    {
+      "year": "1907",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "810"
+    },
+    {
+      "year": "1907",
+      "state": "Georgia",
+      "acres": "8000",
+      "yield": "1058"
+    },
+    {
+      "year": "1907",
+      "state": "Louisiana",
+      "acres": "295000",
+      "yield": "1575"
+    },
+    {
+      "year": "1907",
+      "state": "North Carolina",
+      "acres": "4000",
+      "yield": "900"
+    },
+    {
+      "year": "1907",
+      "state": "South Carolina",
+      "acres": "21000",
+      "yield": "1215"
+    },
+    {
+      "year": "1907",
+      "state": "Texas",
+      "acres": "228000",
+      "yield": "1845"
+    },
+    {
+      "year": "1908",
+      "state": "Arkansas",
+      "acres": "11000",
+      "yield": "1915"
+    },
+    {
+      "year": "1908",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "810"
+    },
+    {
+      "year": "1908",
+      "state": "Georgia",
+      "acres": "7000",
+      "yield": "1016"
+    },
+    {
+      "year": "1908",
+      "state": "Louisiana",
+      "acres": "330000",
+      "yield": "1642"
+    },
+    {
+      "year": "1908",
+      "state": "North Carolina",
+      "acres": "2000",
+      "yield": "922"
+    },
+    {
+      "year": "1908",
+      "state": "South Carolina",
+      "acres": "21000",
+      "yield": "1035"
+    },
+    {
+      "year": "1908",
+      "state": "Texas",
+      "acres": "224000",
+      "yield": "1845"
+    },
+    {
+      "year": "1909",
+      "state": "Arkansas",
+      "acres": "27000",
+      "yield": "2107"
+    },
+    {
+      "year": "1909",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "900"
+    },
+    {
+      "year": "1909",
+      "state": "Georgia",
+      "acres": "6000",
+      "yield": "1042"
+    },
+    {
+      "year": "1909",
+      "state": "Louisiana",
+      "acres": "370000",
+      "yield": "1534"
+    },
+    {
+      "year": "1909",
+      "state": "North Carolina",
+      "acres": "1000",
+      "yield": "990"
+    },
+    {
+      "year": "1909",
+      "state": "South Carolina",
+      "acres": "19000",
+      "yield": "1251"
+    },
+    {
+      "year": "1909",
+      "state": "Texas",
+      "acres": "238000",
+      "yield": "1701"
+    },
+    {
+      "year": "1910",
+      "state": "Arkansas",
+      "acres": "60000",
+      "yield": "2025"
+    },
+    {
+      "year": "1910",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "945"
+    },
+    {
+      "year": "1910",
+      "state": "Georgia",
+      "acres": "6000",
+      "yield": "1035"
+    },
+    {
+      "year": "1910",
+      "state": "Louisiana",
+      "acres": "360000",
+      "yield": "1665"
+    },
+    {
+      "year": "1910",
+      "state": "South Carolina",
+      "acres": "19000",
+      "yield": "1236"
+    },
+    {
+      "year": "1910",
+      "state": "Texas",
+      "acres": "220000",
+      "yield": "1642"
+    },
+    {
+      "year": "1911",
+      "state": "Arkansas",
+      "acres": "72000",
+      "yield": "1980"
+    },
+    {
+      "year": "1911",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "900"
+    },
+    {
+      "year": "1911",
+      "state": "Georgia",
+      "acres": "4000",
+      "yield": "900"
+    },
+    {
+      "year": "1911",
+      "state": "Louisiana",
+      "acres": "350000",
+      "yield": "1508"
+    },
+    {
+      "year": "1911",
+      "state": "South Carolina",
+      "acres": "14000",
+      "yield": "518"
+    },
+    {
+      "year": "1911",
+      "state": "Texas",
+      "acres": "195000",
+      "yield": "1733"
+    },
+    {
+      "year": "1912",
+      "state": "Arkansas",
+      "acres": "91000",
+      "yield": "1957"
+    },
+    {
+      "year": "1912",
+      "state": "California",
+      "acres": "1000",
+      "yield": "2565"
+    },
+    {
+      "year": "1912",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "945"
+    },
+    {
+      "year": "1912",
+      "state": "Georgia",
+      "acres": "3000",
+      "yield": "990"
+    },
+    {
+      "year": "1912",
+      "state": "Louisiana",
+      "acres": "315000",
+      "yield": "1597"
+    },
+    {
+      "year": "1912",
+      "state": "South Carolina",
+      "acres": "12000",
+      "yield": "1035"
+    },
+    {
+      "year": "1912",
+      "state": "Texas",
+      "acres": "220000",
+      "yield": "1665"
+    },
+    {
+      "year": "1913",
+      "state": "Arkansas",
+      "acres": "105000",
+      "yield": "1890"
+    },
+    {
+      "year": "1913",
+      "state": "California",
+      "acres": "6000",
+      "yield": "2700"
+    },
+    {
+      "year": "1913",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "900"
+    },
+    {
+      "year": "1913",
+      "state": "Georgia",
+      "acres": "2000",
+      "yield": "990"
+    },
+    {
+      "year": "1913",
+      "state": "Louisiana",
+      "acres": "350000",
+      "yield": "1440"
+    },
+    {
+      "year": "1913",
+      "state": "South Carolina",
+      "acres": "8000",
+      "yield": "990"
+    },
+    {
+      "year": "1913",
+      "state": "Texas",
+      "acres": "250000",
+      "yield": "1440"
+    },
+    {
+      "year": "1914",
+      "state": "Arkansas",
+      "acres": "93000",
+      "yield": "1912"
+    },
+    {
+      "year": "1914",
+      "state": "California",
+      "acres": "15000",
+      "yield": "2700"
+    },
+    {
+      "year": "1914",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "810"
+    },
+    {
+      "year": "1914",
+      "state": "Georgia",
+      "acres": "5000",
+      "yield": "1008"
+    },
+    {
+      "year": "1914",
+      "state": "Louisiana",
+      "acres": "320000",
+      "yield": "1620"
+    },
+    {
+      "year": "1914",
+      "state": "South Carolina",
+      "acres": "12000",
+      "yield": "1035"
+    },
+    {
+      "year": "1914",
+      "state": "Texas",
+      "acres": "200000",
+      "yield": "1508"
+    },
+    {
+      "year": "1915",
+      "state": "Arkansas",
+      "acres": "100000",
+      "yield": "2070"
+    },
+    {
+      "year": "1915",
+      "state": "California",
+      "acres": "30000",
+      "yield": "2790"
+    },
+    {
+      "year": "1915",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "810"
+    },
+    {
+      "year": "1915",
+      "state": "Georgia",
+      "acres": "4000",
+      "yield": "990"
+    },
+    {
+      "year": "1915",
+      "state": "Louisiana",
+      "acres": "385000",
+      "yield": "1508"
+    },
+    {
+      "year": "1915",
+      "state": "South Carolina",
+      "acres": "7000",
+      "yield": "945"
+    },
+    {
+      "year": "1915",
+      "state": "Texas",
+      "acres": "213000",
+      "yield": "1372"
+    },
+    {
+      "year": "1916",
+      "state": "Arkansas",
+      "acres": "125000",
+      "yield": "2272"
+    },
+    {
+      "year": "1916",
+      "state": "California",
+      "acres": "59000",
+      "yield": "2700"
+    },
+    {
+      "year": "1916",
+      "state": "Florida",
+      "acres": "1000",
+      "yield": "810"
+    },
+    {
+      "year": "1916",
+      "state": "Georgia",
+      "acres": "4000",
+      "yield": "900"
+    },
+    {
+      "year": "1916",
+      "state": "Louisiana",
+      "acres": "435000",
+      "yield": "2070"
+    },
+    {
+      "year": "1916",
+      "state": "South Carolina",
+      "acres": "7000",
+      "yield": "964"
+    },
+    {
+      "year": "1916",
+      "state": "Texas",
+      "acres": "212000",
+      "yield": "2002"
+    },
+    {
+      "year": "1917",
+      "state": "Arkansas",
+      "acres": "152000",
+      "yield": "2048"
+    },
+    {
+      "year": "1917",
+      "state": "California",
+      "acres": "88000",
+      "yield": "2700"
+    },
+    {
+      "year": "1917",
+      "state": "Florida",
+      "acres": "2000",
+      "yield": "855"
+    },
+    {
+      "year": "1917",
+      "state": "Georgia",
+      "acres": "4000",
+      "yield": "990"
+    },
+    {
+      "year": "1917",
+      "state": "Louisiana",
+      "acres": "485000",
+      "yield": "1485"
+    },
+    {
+      "year": "1917",
+      "state": "South Carolina",
+      "acres": "6000",
+      "yield": "922"
+    },
+    {
+      "year": "1917",
+      "state": "Texas",
+      "acres": "216000",
+      "yield": "1305"
+    },
+    {
+      "year": "1918",
+      "state": "Arkansas",
+      "acres": "170000",
+      "yield": "1890"
+    },
+    {
+      "year": "1918",
+      "state": "California",
+      "acres": "120000",
+      "yield": "2588"
+    },
+    {
+      "year": "1918",
+      "state": "Florida",
+      "acres": "2000",
+      "yield": "765"
+    },
+    {
+      "year": "1918",
+      "state": "Georgia",
+      "acres": "5000",
+      "yield": "792"
+    },
+    {
+      "year": "1918",
+      "state": "Louisiana",
+      "acres": "565000",
+      "yield": "1440"
+    },
+    {
+      "year": "1918",
+      "state": "South Carolina",
+      "acres": "9000",
+      "yield": "830"
+    },
+    {
+      "year": "1918",
+      "state": "Texas",
+      "acres": "230000",
+      "yield": "1485"
+    },
+    {
+      "year": "1919",
+      "state": "Arkansas",
+      "acres": "160000",
+      "yield": "2138"
+    },
+    {
+      "year": "1919",
+      "state": "California",
+      "acres": "155000",
+      "yield": "2700"
+    },
+    {
+      "year": "1919",
+      "state": "Florida",
+      "acres": "2000",
+      "yield": "742"
+    },
+    {
+      "year": "1919",
+      "state": "Georgia",
+      "acres": "4000",
+      "yield": "652"
+    },
+    {
+      "year": "1919",
+      "state": "Louisiana",
+      "acres": "543000",
+      "yield": "1575"
+    },
+    {
+      "year": "1919",
+      "state": "South Carolina",
+      "acres": "7000",
+      "yield": "842"
+    },
+    {
+      "year": "1919",
+      "state": "Texas",
+      "acres": "212000",
+      "yield": "1440"
+    },
+    {
+      "year": "1920",
+      "state": "Arkansas",
+      "acres": "180000",
+      "yield": "2205"
+    },
+    {
+      "year": "1920",
+      "state": "California",
+      "acres": "162000",
+      "yield": "2295"
+    },
+    {
+      "year": "1920",
+      "state": "Louisiana",
+      "acres": "676000",
+      "yield": "1665"
+    },
+    {
+      "year": "1920",
+      "state": "Texas",
+      "acres": "281000",
+      "yield": "1530"
+    },
+    {
+      "year": "1921",
+      "state": "Arkansas",
+      "acres": "140000",
+      "yield": "2408"
+    },
+    {
+      "year": "1921",
+      "state": "California",
+      "acres": "135000",
+      "yield": "2430"
+    },
+    {
+      "year": "1921",
+      "state": "Louisiana",
+      "acres": "549000",
+      "yield": "1516"
+    },
+    {
+      "year": "1921",
+      "state": "Texas",
+      "acres": "166000",
+      "yield": "1625"
+    },
+    {
+      "year": "1922",
+      "state": "Arkansas",
+      "acres": "163000",
+      "yield": "2160"
+    },
+    {
+      "year": "1922",
+      "state": "California",
+      "acres": "140000",
+      "yield": "2475"
+    },
+    {
+      "year": "1922",
+      "state": "Louisiana",
+      "acres": "555000",
+      "yield": "1566"
+    },
+    {
+      "year": "1922",
+      "state": "Texas",
+      "acres": "195000",
+      "yield": "1575"
+    },
+    {
+      "year": "1923",
+      "state": "Arkansas",
+      "acres": "143000",
+      "yield": "1777"
+    },
+    {
+      "year": "1923",
+      "state": "California",
+      "acres": "106000",
+      "yield": "2408"
+    },
+    {
+      "year": "1923",
+      "state": "Louisiana",
+      "acres": "474000",
+      "yield": "1508"
+    },
+    {
+      "year": "1923",
+      "state": "Texas",
+      "acres": "151000",
+      "yield": "1800"
+    },
+    {
+      "year": "1924",
+      "state": "Arkansas",
+      "acres": "166000",
+      "yield": "1935"
+    },
+    {
+      "year": "1924",
+      "state": "California",
+      "acres": "90000",
+      "yield": "2182"
+    },
+    {
+      "year": "1924",
+      "state": "Louisiana",
+      "acres": "430000",
+      "yield": "1575"
+    },
+    {
+      "year": "1924",
+      "state": "Missouri",
+      "acres": "1000",
+      "yield": "2250"
+    },
+    {
+      "year": "1924",
+      "state": "Texas",
+      "acres": "151000",
+      "yield": "1800"
+    },
+    {
+      "year": "1925",
+      "state": "Arkansas",
+      "acres": "176000",
+      "yield": "1935"
+    },
+    {
+      "year": "1925",
+      "state": "California",
+      "acres": "103000",
+      "yield": "2097"
+    },
+    {
+      "year": "1925",
+      "state": "Louisiana",
+      "acres": "414000",
+      "yield": "1539"
+    },
+    {
+      "year": "1925",
+      "state": "Missouri",
+      "acres": "4000",
+      "yield": "3375"
+    },
+    {
+      "year": "1925",
+      "state": "Texas",
+      "acres": "156000",
+      "yield": "1791"
+    },
+    {
+      "year": "1926",
+      "state": "Arkansas",
+      "acres": "196000",
+      "yield": "2376"
+    },
+    {
+      "year": "1926",
+      "state": "California",
+      "acres": "149000",
+      "yield": "2412"
+    },
+    {
+      "year": "1926",
+      "state": "Louisiana",
+      "acres": "492000",
+      "yield": "1485"
+    },
+    {
+      "year": "1926",
+      "state": "Missouri",
+      "acres": "10000",
+      "yield": "2745"
+    },
+    {
+      "year": "1926",
+      "state": "Texas",
+      "acres": "169000",
+      "yield": "1822"
+    },
+    {
+      "year": "1927",
+      "state": "Arkansas",
+      "acres": "179000",
+      "yield": "1935"
+    },
+    {
+      "year": "1927",
+      "state": "California",
+      "acres": "160000",
+      "yield": "2520"
+    },
+    {
+      "year": "1927",
+      "state": "Louisiana",
+      "acres": "520000",
+      "yield": "1714"
+    },
+    {
+      "year": "1927",
+      "state": "Missouri",
+      "acres": "3000",
+      "yield": "1125"
+    },
+    {
+      "year": "1927",
+      "state": "Texas",
+      "acres": "165000",
+      "yield": "2169"
+    },
+    {
+      "year": "1928",
+      "state": "Arkansas",
+      "acres": "173000",
+      "yield": "2156"
+    },
+    {
+      "year": "1928",
+      "state": "California",
+      "acres": "132000",
+      "yield": "2786"
+    },
+    {
+      "year": "1928",
+      "state": "Louisiana",
+      "acres": "495000",
+      "yield": "1715"
+    },
+    {
+      "year": "1928",
+      "state": "Missouri",
+      "acres": "10000",
+      "yield": "1800"
+    },
+    {
+      "year": "1928",
+      "state": "Texas",
+      "acres": "162000",
+      "yield": "2254"
+    },
+    {
+      "year": "1929",
+      "state": "Arkansas",
+      "acres": "156000",
+      "yield": "2295"
+    },
+    {
+      "year": "1929",
+      "state": "California",
+      "acres": "95000",
+      "yield": "2709"
+    },
+    {
+      "year": "1929",
+      "state": "Louisiana",
+      "acres": "465000",
+      "yield": "1822"
+    },
+    {
+      "year": "1929",
+      "state": "Texas",
+      "acres": "144000",
+      "yield": "2196"
+    },
+    {
+      "year": "1930",
+      "state": "Arkansas",
+      "acres": "173000",
+      "yield": "2138"
+    },
+    {
+      "year": "1930",
+      "state": "California",
+      "acres": "110000",
+      "yield": "2974"
+    },
+    {
+      "year": "1930",
+      "state": "Louisiana",
+      "acres": "491000",
+      "yield": "1755"
+    },
+    {
+      "year": "1930",
+      "state": "Texas",
+      "acres": "192000",
+      "yield": "2412"
+    },
+    {
+      "year": "1931",
+      "state": "Arkansas",
+      "acres": "177000",
+      "yield": "2475"
+    },
+    {
+      "year": "1931",
+      "state": "California",
+      "acres": "125000",
+      "yield": "2970"
+    },
+    {
+      "year": "1931",
+      "state": "Louisiana",
+      "acres": "458000",
+      "yield": "1575"
+    },
+    {
+      "year": "1931",
+      "state": "Texas",
+      "acres": "205000",
+      "yield": "2326"
+    },
+    {
+      "year": "1932",
+      "state": "Arkansas",
+      "acres": "163000",
+      "yield": "2295"
+    },
+    {
+      "year": "1932",
+      "state": "California",
+      "acres": "110000",
+      "yield": "3191"
+    },
+    {
+      "year": "1932",
+      "state": "Louisiana",
+      "acres": "415000",
+      "yield": "1777"
+    },
+    {
+      "year": "1932",
+      "state": "Texas",
+      "acres": "186000",
+      "yield": "2205"
+    },
+    {
+      "year": "1933",
+      "state": "Arkansas",
+      "acres": "147000",
+      "yield": "2205"
+    },
+    {
+      "year": "1933",
+      "state": "California",
+      "acres": "108000",
+      "yield": "2880"
+    },
+    {
+      "year": "1933",
+      "state": "Louisiana",
+      "acres": "395000",
+      "yield": "1845"
+    },
+    {
+      "year": "1933",
+      "state": "Texas",
+      "acres": "148000",
+      "yield": "2232"
+    },
+    {
+      "year": "1934",
+      "state": "Arkansas",
+      "acres": "141000",
+      "yield": "2124"
+    },
+    {
+      "year": "1934",
+      "state": "California",
+      "acres": "108000",
+      "yield": "3440"
+    },
+    {
+      "year": "1934",
+      "state": "Louisiana",
+      "acres": "415000",
+      "yield": "1818"
+    },
+    {
+      "year": "1934",
+      "state": "Texas",
+      "acres": "148000",
+      "yield": "2241"
+    },
+    {
+      "year": "1935",
+      "state": "Arkansas",
+      "acres": "138000",
+      "yield": "1980"
+    },
+    {
+      "year": "1935",
+      "state": "California",
+      "acres": "100000",
+      "yield": "3330"
+    },
+    {
+      "year": "1935",
+      "state": "Louisiana",
+      "acres": "412000",
+      "yield": "1889"
+    },
+    {
+      "year": "1935",
+      "state": "Texas",
+      "acres": "167000",
+      "yield": "2340"
+    },
+    {
+      "year": "1936",
+      "state": "Arkansas",
+      "acres": "160000",
+      "yield": "2462"
+    },
+    {
+      "year": "1936",
+      "state": "California",
+      "acres": "138000",
+      "yield": "3060"
+    },
+    {
+      "year": "1936",
+      "state": "Louisiana",
+      "acres": "479000",
+      "yield": "1980"
+    },
+    {
+      "year": "1936",
+      "state": "Texas",
+      "acres": "204000",
+      "yield": "2340"
+    },
+    {
+      "year": "1937",
+      "state": "Arkansas",
+      "acres": "189000",
+      "yield": "2520"
+    },
+    {
+      "year": "1937",
+      "state": "California",
+      "acres": "132000",
+      "yield": "3105"
+    },
+    {
+      "year": "1937",
+      "state": "Louisiana",
+      "acres": "517000",
+      "yield": "1800"
+    },
+    {
+      "year": "1937",
+      "state": "Texas",
+      "acres": "261000",
+      "yield": "2250"
+    },
+    {
+      "year": "1938",
+      "state": "Arkansas",
+      "acres": "189000",
+      "yield": "2313"
+    },
+    {
+      "year": "1938",
+      "state": "California",
+      "acres": "125000",
+      "yield": "3015"
+    },
+    {
+      "year": "1938",
+      "state": "Louisiana",
+      "acres": "494000",
+      "yield": "1890"
+    },
+    {
+      "year": "1938",
+      "state": "Texas",
+      "acres": "268000",
+      "yield": "2295"
+    },
+    {
+      "year": "1939",
+      "state": "Arkansas",
+      "acres": "171000",
+      "yield": "2250"
+    },
+    {
+      "year": "1939",
+      "state": "California",
+      "acres": "120000",
+      "yield": "3375"
+    },
+    {
+      "year": "1939",
+      "state": "Louisiana",
+      "acres": "485000",
+      "yield": "1980"
+    },
+    {
+      "year": "1939",
+      "state": "Texas",
+      "acres": "269000",
+      "yield": "2538"
+    },
+    {
+      "year": "1940",
+      "state": "Arkansas",
+      "acres": "191000",
+      "yield": "2259"
+    },
+    {
+      "year": "1940",
+      "state": "California",
+      "acres": "118000",
+      "yield": "3600"
+    },
+    {
+      "year": "1940",
+      "state": "Louisiana",
+      "acres": "469000",
+      "yield": "1800"
+    },
+    {
+      "year": "1940",
+      "state": "Texas",
+      "acres": "291000",
+      "yield": "2574"
+    },
+    {
+      "year": "1941",
+      "state": "Arkansas",
+      "acres": "212000",
+      "yield": "2318"
+    },
+    {
+      "year": "1941",
+      "state": "California",
+      "acres": "153000",
+      "yield": "2475"
+    },
+    {
+      "year": "1941",
+      "state": "Louisiana",
+      "acres": "544000",
+      "yield": "1688"
+    },
+    {
+      "year": "1941",
+      "state": "Texas",
+      "acres": "305000",
+      "yield": "1710"
+    },
+    {
+      "year": "1942",
+      "state": "Arkansas",
+      "acres": "265000",
+      "yield": "2160"
+    },
+    {
+      "year": "1942",
+      "state": "California",
+      "acres": "207000",
+      "yield": "2745"
+    },
+    {
+      "year": "1942",
+      "state": "Louisiana",
+      "acres": "615000",
+      "yield": "1710"
+    },
+    {
+      "year": "1942",
+      "state": "Texas",
+      "acres": "370000",
+      "yield": "1935"
+    },
+    {
+      "year": "1943",
+      "state": "Arkansas",
+      "acres": "257000",
+      "yield": "2115"
+    },
+    {
+      "year": "1943",
+      "state": "California",
+      "acres": "224000",
+      "yield": "2925"
+    },
+    {
+      "year": "1943",
+      "state": "Louisiana",
+      "acres": "603000",
+      "yield": "1620"
+    },
+    {
+      "year": "1943",
+      "state": "Texas",
+      "acres": "388000",
+      "yield": "1935"
+    },
+    {
+      "year": "1944",
+      "state": "Arkansas",
+      "acres": "287000",
+      "yield": "2363"
+    },
+    {
+      "year": "1944",
+      "state": "California",
+      "acres": "240000",
+      "yield": "2812"
+    },
+    {
+      "year": "1944",
+      "state": "Louisiana",
+      "acres": "561000",
+      "yield": "1710"
+    },
+    {
+      "year": "1944",
+      "state": "Texas",
+      "acres": "392000",
+      "yield": "2002"
+    },
+    {
+      "year": "1945",
+      "state": "Arkansas",
+      "acres": "281000",
+      "yield": "2115"
+    },
+    {
+      "year": "1945",
+      "state": "California",
+      "acres": "235000",
+      "yield": "2665"
+    },
+    {
+      "year": "1945",
+      "state": "Louisiana",
+      "acres": "583000",
+      "yield": "1777"
+    },
+    {
+      "year": "1945",
+      "state": "Texas",
+      "acres": "400000",
+      "yield": "2025"
+    },
+    {
+      "year": "1946",
+      "state": "Arkansas",
+      "acres": "320000",
+      "yield": "2002"
+    },
+    {
+      "year": "1946",
+      "state": "California",
+      "acres": "261000",
+      "yield": "3032"
+    },
+    {
+      "year": "1946",
+      "state": "Louisiana",
+      "acres": "589000",
+      "yield": "1732"
+    },
+    {
+      "year": "1946",
+      "state": "Texas",
+      "acres": "412000",
+      "yield": "1935"
+    },
+    {
+      "year": "1947",
+      "state": "Arkansas",
+      "acres": "365000",
+      "yield": "2096"
+    },
+    {
+      "year": "1947",
+      "state": "California",
+      "acres": "256000",
+      "yield": "3139"
+    },
+    {
+      "year": "1947",
+      "state": "Louisiana",
+      "acres": "613000",
+      "yield": "1620"
+    },
+    {
+      "year": "1947",
+      "state": "Texas",
+      "acres": "474000",
+      "yield": "2025"
+    },
+    {
+      "year": "1948",
+      "state": "Arkansas",
+      "acres": "391000",
+      "yield": "2358"
+    },
+    {
+      "year": "1948",
+      "state": "California",
+      "acres": "256000",
+      "yield": "2669"
+    },
+    {
+      "year": "1948",
+      "state": "Louisiana",
+      "acres": "631000",
+      "yield": "1777"
+    },
+    {
+      "year": "1948",
+      "state": "Texas",
+      "acres": "526000",
+      "yield": "2092"
+    },
+    {
+      "year": "1949",
+      "state": "Arkansas",
+      "acres": "412000",
+      "yield": "2150"
+    },
+    {
+      "year": "1949",
+      "state": "California",
+      "acres": "305000",
+      "yield": "3350"
+    },
+    {
+      "year": "1949",
+      "state": "Louisiana",
+      "acres": "593000",
+      "yield": "1825"
+    },
+    {
+      "year": "1949",
+      "state": "Mississippi",
+      "acres": "5000",
+      "yield": "2700"
+    },
+    {
+      "year": "1949",
+      "state": "Missouri",
+      "acres": "1300",
+      "yield": "2450"
+    },
+    {
+      "year": "1949",
+      "state": "Texas",
+      "acres": "542000",
+      "yield": "1975"
+    },
+    {
+      "year": "1950",
+      "state": "Arkansas",
+      "acres": "346000",
+      "yield": "2250"
+    },
+    {
+      "year": "1950",
+      "state": "California",
+      "acres": "238000",
+      "yield": "3475"
+    },
+    {
+      "year": "1950",
+      "state": "Louisiana",
+      "acres": "563000",
+      "yield": "1950"
+    },
+    {
+      "year": "1950",
+      "state": "Mississippi",
+      "acres": "7000",
+      "yield": "2700"
+    },
+    {
+      "year": "1950",
+      "state": "Missouri",
+      "acres": "1200",
+      "yield": "2500"
+    },
+    {
+      "year": "1950",
+      "state": "Texas",
+      "acres": "482000",
+      "yield": "2400"
+    },
+    {
+      "year": "1951",
+      "state": "Arkansas",
+      "acres": "457000",
+      "yield": "2000"
+    },
+    {
+      "year": "1951",
+      "state": "California",
+      "acres": "324000",
+      "yield": "3300"
+    },
+    {
+      "year": "1951",
+      "state": "Louisiana",
+      "acres": "619000",
+      "yield": "1950"
+    },
+    {
+      "year": "1951",
+      "state": "Mississippi",
+      "acres": "26000",
+      "yield": "2450"
+    },
+    {
+      "year": "1951",
+      "state": "Missouri",
+      "acres": "1400",
+      "yield": "2575"
+    },
+    {
+      "year": "1951",
+      "state": "Texas",
+      "acres": "569000",
+      "yield": "2375"
+    },
+    {
+      "year": "1952",
+      "state": "Arkansas",
+      "acres": "466000",
+      "yield": "2050"
+    },
+    {
+      "year": "1952",
+      "state": "California",
+      "acres": "337000",
+      "yield": "3475"
+    },
+    {
+      "year": "1952",
+      "state": "Louisiana",
+      "acres": "600000",
+      "yield": "2025"
+    },
+    {
+      "year": "1952",
+      "state": "Mississippi",
+      "acres": "40000",
+      "yield": "2325"
+    },
+    {
+      "year": "1952",
+      "state": "Missouri",
+      "acres": "2000",
+      "yield": "2450"
+    },
+    {
+      "year": "1952",
+      "state": "Texas",
+      "acres": "552000",
+      "yield": "2500"
+    },
+    {
+      "year": "1953",
+      "state": "Arkansas",
+      "acres": "494000",
+      "yield": "2300"
+    },
+    {
+      "year": "1953",
+      "state": "California",
+      "acres": "425000",
+      "yield": "2900"
+    },
+    {
+      "year": "1953",
+      "state": "Louisiana",
+      "acres": "612000",
+      "yield": "2075"
+    },
+    {
+      "year": "1953",
+      "state": "Mississippi",
+      "acres": "51000",
+      "yield": "2550"
+    },
+    {
+      "year": "1953",
+      "state": "Missouri",
+      "acres": "3200",
+      "yield": "2500"
+    },
+    {
+      "year": "1953",
+      "state": "Texas",
+      "acres": "574000",
+      "yield": "2625"
+    },
+    {
+      "year": "1954",
+      "state": "Arkansas",
+      "acres": "672000",
+      "yield": "2500"
+    },
+    {
+      "year": "1954",
+      "state": "California",
+      "acres": "477000",
+      "yield": "2550"
+    },
+    {
+      "year": "1954",
+      "state": "Louisiana",
+      "acres": "679000",
+      "yield": "2350"
+    },
+    {
+      "year": "1954",
+      "state": "Mississippi",
+      "acres": "77000",
+      "yield": "2625"
+    },
+    {
+      "year": "1954",
+      "state": "Missouri",
+      "acres": "8000",
+      "yield": "2650"
+    },
+    {
+      "year": "1954",
+      "state": "Texas",
+      "acres": "637000",
+      "yield": "2675"
+    },
+    {
+      "year": "1955",
+      "state": "Arkansas",
+      "acres": "434000",
+      "yield": "3125"
+    },
+    {
+      "year": "1955",
+      "state": "California",
+      "acres": "329000",
+      "yield": "3450"
+    },
+    {
+      "year": "1955",
+      "state": "Louisiana",
+      "acres": "526000",
+      "yield": "2800"
+    },
+    {
+      "year": "1955",
+      "state": "Mississippi",
+      "acres": "52000",
+      "yield": "2850"
+    },
+    {
+      "year": "1955",
+      "state": "Missouri",
+      "acres": "5400",
+      "yield": "2600"
+    },
+    {
+      "year": "1955",
+      "state": "Texas",
+      "acres": "480000",
+      "yield": "3050"
+    },
+    {
+      "year": "1956",
+      "state": "Arkansas",
+      "acres": "382000",
+      "yield": "3200"
+    },
+    {
+      "year": "1956",
+      "state": "California",
+      "acres": "286000",
+      "yield": "4200"
+    },
+    {
+      "year": "1956",
+      "state": "Louisiana",
+      "acres": "450000",
+      "yield": "2700"
+    },
+    {
+      "year": "1956",
+      "state": "Mississippi",
+      "acres": "44000",
+      "yield": "2850"
+    },
+    {
+      "year": "1956",
+      "state": "Missouri",
+      "acres": "4400",
+      "yield": "3000"
+    },
+    {
+      "year": "1956",
+      "state": "Texas",
+      "acres": "403000",
+      "yield": "2900"
+    },
+    {
+      "year": "1957",
+      "state": "Arkansas",
+      "acres": "332000",
+      "yield": "3100"
+    },
+    {
+      "year": "1957",
+      "state": "California",
+      "acres": "226000",
+      "yield": "4300"
+    },
+    {
+      "year": "1957",
+      "state": "Louisiana",
+      "acres": "400000",
+      "yield": "2675"
+    },
+    {
+      "year": "1957",
+      "state": "Mississippi",
+      "acres": "31000",
+      "yield": "3200"
+    },
+    {
+      "year": "1957",
+      "state": "Missouri",
+      "acres": "3900",
+      "yield": "3300"
+    },
+    {
+      "year": "1957",
+      "state": "Texas",
+      "acres": "347000",
+      "yield": "3200"
+    },
+    {
+      "year": "1958",
+      "state": "Arkansas",
+      "acres": "336000",
+      "yield": "2950"
+    },
+    {
+      "year": "1958",
+      "state": "California",
+      "acres": "249000",
+      "yield": "4450"
+    },
+    {
+      "year": "1958",
+      "state": "Louisiana",
+      "acres": "408000",
+      "yield": "2650"
+    },
+    {
+      "year": "1958",
+      "state": "Mississippi",
+      "acres": "39000",
+      "yield": "2800"
+    },
+    {
+      "year": "1958",
+      "state": "Missouri",
+      "acres": "3700",
+      "yield": "3100"
+    },
+    {
+      "year": "1958",
+      "state": "Texas",
+      "acres": "379000",
+      "yield": "3100"
+    },
+    {
+      "year": "1959",
+      "state": "Arkansas",
+      "acres": "383000",
+      "yield": "3400"
+    },
+    {
+      "year": "1959",
+      "state": "California",
+      "acres": "285000",
+      "yield": "4650"
+    },
+    {
+      "year": "1959",
+      "state": "Louisiana",
+      "acres": "453000",
+      "yield": "2850"
+    },
+    {
+      "year": "1959",
+      "state": "Mississippi",
+      "acres": "44000",
+      "yield": "2700"
+    },
+    {
+      "year": "1959",
+      "state": "Missouri",
+      "acres": "4100",
+      "yield": "3400"
+    },
+    {
+      "year": "1959",
+      "state": "Texas",
+      "acres": "417000",
+      "yield": "3150"
+    },
+    {
+      "year": "1960",
+      "state": "Arkansas",
+      "acres": "384000",
+      "yield": "3525"
+    },
+    {
+      "year": "1960",
+      "state": "California",
+      "acres": "288000",
+      "yield": "4775"
+    },
+    {
+      "year": "1960",
+      "state": "Louisiana",
+      "acres": "458000",
+      "yield": "2850"
+    },
+    {
+      "year": "1960",
+      "state": "Mississippi",
+      "acres": "44000",
+      "yield": "2950"
+    },
+    {
+      "year": "1960",
+      "state": "Missouri",
+      "acres": "3800",
+      "yield": "3400"
+    },
+    {
+      "year": "1960",
+      "state": "Texas",
+      "acres": "417000",
+      "yield": "3075"
+    },
+    {
+      "year": "1961",
+      "state": "Arkansas",
+      "acres": "384000",
+      "yield": "3500"
+    },
+    {
+      "year": "1961",
+      "state": "California",
+      "acres": "290000",
+      "yield": "4800"
+    },
+    {
+      "year": "1961",
+      "state": "Louisiana",
+      "acres": "458000",
+      "yield": "2925"
+    },
+    {
+      "year": "1961",
+      "state": "Mississippi",
+      "acres": "44000",
+      "yield": "3300"
+    },
+    {
+      "year": "1961",
+      "state": "Missouri",
+      "acres": "3900",
+      "yield": "3300"
+    },
+    {
+      "year": "1961",
+      "state": "Texas",
+      "acres": "409000",
+      "yield": "2900"
+    },
+    {
+      "year": "1962",
+      "state": "Arkansas",
+      "acres": "426000",
+      "yield": "3850"
+    },
+    {
+      "year": "1962",
+      "state": "California",
+      "acres": "323000",
+      "yield": "4950"
+    },
+    {
+      "year": "1962",
+      "state": "Louisiana",
+      "acres": "508000",
+      "yield": "3050"
+    },
+    {
+      "year": "1962",
+      "state": "Mississippi",
+      "acres": "49000",
+      "yield": "3200"
+    },
+    {
+      "year": "1962",
+      "state": "Missouri",
+      "acres": "4600",
+      "yield": "4200"
+    },
+    {
+      "year": "1962",
+      "state": "Texas",
+      "acres": "462000",
+      "yield": "3550"
+    },
+    {
+      "year": "1963",
+      "state": "Arkansas",
+      "acres": "426000",
+      "yield": "4300"
+    },
+    {
+      "year": "1963",
+      "state": "California",
+      "acres": "324000",
+      "yield": "4325"
+    },
+    {
+      "year": "1963",
+      "state": "Louisiana",
+      "acres": "508000",
+      "yield": "3325"
+    },
+    {
+      "year": "1963",
+      "state": "Mississippi",
+      "acres": "49000",
+      "yield": "3900"
+    },
+    {
+      "year": "1963",
+      "state": "Missouri",
+      "acres": "4800",
+      "yield": "4200"
+    },
+    {
+      "year": "1963",
+      "state": "Texas",
+      "acres": "459000",
+      "yield": "4125"
+    },
+    {
+      "year": "1964",
+      "state": "Arkansas",
+      "acres": "430000",
+      "yield": "4300"
+    },
+    {
+      "year": "1964",
+      "state": "California",
+      "acres": "327000",
+      "yield": "5050"
+    },
+    {
+      "year": "1964",
+      "state": "Louisiana",
+      "acres": "513000",
+      "yield": "3300"
+    },
+    {
+      "year": "1964",
+      "state": "Mississippi",
+      "acres": "49000",
+      "yield": "3800"
+    },
+    {
+      "year": "1964",
+      "state": "Missouri",
+      "acres": "4600",
+      "yield": "4300"
+    },
+    {
+      "year": "1964",
+      "state": "Texas",
+      "acres": "462000",
+      "yield": "4150"
+    },
+    {
+      "year": "1965",
+      "state": "Arkansas",
+      "acres": "434000",
+      "yield": "4300"
+    },
+    {
+      "year": "1965",
+      "state": "California",
+      "acres": "327000",
+      "yield": "4900"
+    },
+    {
+      "year": "1965",
+      "state": "Louisiana",
+      "acres": "515000",
+      "yield": "3550"
+    },
+    {
+      "year": "1965",
+      "state": "Mississippi",
+      "acres": "50000",
+      "yield": "3700"
+    },
+    {
+      "year": "1965",
+      "state": "Missouri",
+      "acres": "4700",
+      "yield": "4500"
+    },
+    {
+      "year": "1965",
+      "state": "Texas",
+      "acres": "462000",
+      "yield": "4600"
+    },
+    {
+      "year": "1966",
+      "state": "Arkansas",
+      "acres": "477000",
+      "yield": "4300"
+    },
+    {
+      "year": "1966",
+      "state": "California",
+      "acres": "360000",
+      "yield": "5500"
+    },
+    {
+      "year": "1966",
+      "state": "Louisiana",
+      "acres": "565000",
+      "yield": "3700"
+    },
+    {
+      "year": "1966",
+      "state": "Mississippi",
+      "acres": "55000",
+      "yield": "4300"
+    },
+    {
+      "year": "1966",
+      "state": "Missouri",
+      "acres": "5200",
+      "yield": "4400"
+    },
+    {
+      "year": "1966",
+      "state": "Texas",
+      "acres": "505000",
+      "yield": "4200"
+    },
+    {
+      "year": "1967",
+      "state": "Arkansas",
+      "acres": "477000",
+      "yield": "4550"
+    },
+    {
+      "year": "1967",
+      "state": "California",
+      "acres": "360000",
+      "yield": "4900"
+    },
+    {
+      "year": "1967",
+      "state": "Louisiana",
+      "acres": "565000",
+      "yield": "3900"
+    },
+    {
+      "year": "1967",
+      "state": "Mississippi",
+      "acres": "55000",
+      "yield": "4300"
+    },
+    {
+      "year": "1967",
+      "state": "Missouri",
+      "acres": "5100",
+      "yield": "4600"
+    },
+    {
+      "year": "1967",
+      "state": "Texas",
+      "acres": "508000",
+      "yield": "5000"
+    },
+    {
+      "year": "1968",
+      "state": "Arkansas",
+      "acres": "572000",
+      "yield": "4300"
+    },
+    {
+      "year": "1968",
+      "state": "California",
+      "acres": "432000",
+      "yield": "5325"
+    },
+    {
+      "year": "1968",
+      "state": "Louisiana",
+      "acres": "679000",
+      "yield": "3850"
+    },
+    {
+      "year": "1968",
+      "state": "Mississippi",
+      "acres": "67000",
+      "yield": "4400"
+    },
+    {
+      "year": "1968",
+      "state": "Missouri",
+      "acres": "6400",
+      "yield": "4500"
+    },
+    {
+      "year": "1968",
+      "state": "Texas",
+      "acres": "597000",
+      "yield": "4550"
+    },
+    {
+      "year": "1969",
+      "state": "Arkansas",
+      "acres": "515000",
+      "yield": "4750"
+    },
+    {
+      "year": "1969",
+      "state": "California",
+      "acres": "389000",
+      "yield": "5525"
+    },
+    {
+      "year": "1969",
+      "state": "Louisiana",
+      "acres": "611000",
+      "yield": "3500"
+    },
+    {
+      "year": "1969",
+      "state": "Mississippi",
+      "acres": "60000",
+      "yield": "4450"
+    },
+    {
+      "year": "1969",
+      "state": "Missouri",
+      "acres": "5400",
+      "yield": "4600"
+    },
+    {
+      "year": "1969",
+      "state": "Texas",
+      "acres": "548000",
+      "yield": "3950"
+    },
+    {
+      "year": "1970",
+      "state": "Arkansas",
+      "acres": "438000",
+      "yield": "4800"
+    },
+    {
+      "year": "1970",
+      "state": "California",
+      "acres": "331000",
+      "yield": "5700"
+    },
+    {
+      "year": "1970",
+      "state": "Louisiana",
+      "acres": "523000",
+      "yield": "3900"
+    },
+    {
+      "year": "1970",
+      "state": "Mississippi",
+      "acres": "51000",
+      "yield": "4500"
+    },
+    {
+      "year": "1970",
+      "state": "Missouri",
+      "acres": "4700",
+      "yield": "4400"
+    },
+    {
+      "year": "1970",
+      "state": "Texas",
+      "acres": "467000",
+      "yield": "4500"
+    },
+    {
+      "year": "1971",
+      "state": "Arkansas",
+      "acres": "441000",
+      "yield": "5050"
+    },
+    {
+      "year": "1971",
+      "state": "California",
+      "acres": "331000",
+      "yield": "5200"
+    },
+    {
+      "year": "1971",
+      "state": "Louisiana",
+      "acres": "522000",
+      "yield": "3800"
+    },
+    {
+      "year": "1971",
+      "state": "Mississippi",
+      "acres": "51000",
+      "yield": "4600"
+    },
+    {
+      "year": "1971",
+      "state": "Missouri",
+      "acres": "4900",
+      "yield": "4800"
+    },
+    {
+      "year": "1971",
+      "state": "Texas",
+      "acres": "468000",
+      "yield": "5100"
+    },
+    {
+      "year": "1972",
+      "state": "Arkansas",
+      "acres": "441000",
+      "yield": "4975"
+    },
+    {
+      "year": "1972",
+      "state": "California",
+      "acres": "331000",
+      "yield": "5700"
+    },
+    {
+      "year": "1972",
+      "state": "Louisiana",
+      "acres": "522000",
+      "yield": "3825"
+    },
+    {
+      "year": "1972",
+      "state": "Mississippi",
+      "acres": "51000",
+      "yield": "4559"
+    },
+    {
+      "year": "1972",
+      "state": "Missouri",
+      "acres": "4900",
+      "yield": "4449"
+    },
+    {
+      "year": "1972",
+      "state": "Texas",
+      "acres": "468000",
+      "yield": "4727"
+    },
+    {
+      "year": "1973",
+      "state": "Arkansas",
+      "acres": "533000",
+      "yield": "4770"
+    },
+    {
+      "year": "1973",
+      "state": "California",
+      "acres": "401000",
+      "yield": "5616"
+    },
+    {
+      "year": "1973",
+      "state": "Louisiana",
+      "acres": "620000",
+      "yield": "3451"
+    },
+    {
+      "year": "1973",
+      "state": "Mississippi",
+      "acres": "62000",
+      "yield": "4306"
+    },
+    {
+      "year": "1973",
+      "state": "Missouri",
+      "acres": "5200",
+      "yield": "4346"
+    },
+    {
+      "year": "1973",
+      "state": "Texas",
+      "acres": "549000",
+      "yield": "3740"
+    },
+    {
+      "year": "1974",
+      "state": "Arkansas",
+      "acres": "710000",
+      "yield": "4610"
+    },
+    {
+      "year": "1974",
+      "state": "California",
+      "acres": "477000",
+      "yield": "5290"
+    },
+    {
+      "year": "1974",
+      "state": "Louisiana",
+      "acres": "660000",
+      "yield": "3650"
+    },
+    {
+      "year": "1974",
+      "state": "Mississippi",
+      "acres": "108000",
+      "yield": "4180"
+    },
+    {
+      "year": "1974",
+      "state": "Missouri",
+      "acres": "14000",
+      "yield": "3886"
+    },
+    {
+      "year": "1974",
+      "state": "Texas",
+      "acres": "562000",
+      "yield": "4494"
+    },
+    {
+      "year": "1975",
+      "state": "Arkansas",
+      "acres": "898000",
+      "yield": "4540"
+    },
+    {
+      "year": "1975",
+      "state": "California",
+      "acres": "525000",
+      "yield": "5750"
+    },
+    {
+      "year": "1975",
+      "state": "Louisiana",
+      "acres": "658000",
+      "yield": "3810"
+    },
+    {
+      "year": "1975",
+      "state": "Mississippi",
+      "acres": "171000",
+      "yield": "3900"
+    },
+    {
+      "year": "1975",
+      "state": "Missouri",
+      "acres": "18000",
+      "yield": "4210"
+    },
+    {
+      "year": "1975",
+      "state": "Texas",
+      "acres": "548000",
+      "yield": "4560"
+    },
+    {
+      "year": "1976",
+      "state": "Arkansas",
+      "acres": "847000",
+      "yield": "4770"
+    },
+    {
+      "year": "1976",
+      "state": "California",
+      "acres": "399000",
+      "yield": "5520"
+    },
+    {
+      "year": "1976",
+      "state": "Louisiana",
+      "acres": "568000",
+      "yield": "3910"
+    },
+    {
+      "year": "1976",
+      "state": "Mississippi",
+      "acres": "144000",
+      "yield": "4200"
+    },
+    {
+      "year": "1976",
+      "state": "Missouri",
+      "acres": "14000",
+      "yield": "4200"
+    },
+    {
+      "year": "1976",
+      "state": "Texas",
+      "acres": "508000",
+      "yield": "4810"
+    },
+    {
+      "year": "1977",
+      "state": "Arkansas",
+      "acres": "837000",
+      "yield": "4230"
+    },
+    {
+      "year": "1977",
+      "state": "California",
+      "acres": "308000",
+      "yield": "5810"
+    },
+    {
+      "year": "1977",
+      "state": "Louisiana",
+      "acres": "475000",
+      "yield": "3670"
+    },
+    {
+      "year": "1977",
+      "state": "Mississippi",
+      "acres": "111000",
+      "yield": "4000"
+    },
+    {
+      "year": "1977",
+      "state": "Missouri",
+      "acres": "17000",
+      "yield": "3700"
+    },
+    {
+      "year": "1977",
+      "state": "Texas",
+      "acres": "501000",
+      "yield": "4670"
+    },
+    {
+      "year": "1978",
+      "state": "Arkansas",
+      "acres": "1090000",
+      "yield": "4450"
+    },
+    {
+      "year": "1978",
+      "state": "California",
+      "acres": "490000",
+      "yield": "5220"
+    },
+    {
+      "year": "1978",
+      "state": "Louisiana",
+      "acres": "587000",
+      "yield": "3820"
+    },
+    {
+      "year": "1978",
+      "state": "Mississippi",
+      "acres": "215000",
+      "yield": "4250"
+    },
+    {
+      "year": "1978",
+      "state": "Missouri",
+      "acres": "30000",
+      "yield": "4330"
+    },
+    {
+      "year": "1978",
+      "state": "Texas",
+      "acres": "558000",
+      "yield": "4700"
+    },
+    {
+      "year": "1979",
+      "state": "Arkansas",
+      "acres": "1020000",
+      "yield": "4320"
+    },
+    {
+      "year": "1979",
+      "state": "California",
+      "acres": "522000",
+      "yield": "6520"
+    },
+    {
+      "year": "1979",
+      "state": "Louisiana",
+      "acres": "528000",
+      "yield": "3910"
+    },
+    {
+      "year": "1979",
+      "state": "Mississippi",
+      "acres": "207000",
+      "yield": "4050"
+    },
+    {
+      "year": "1979",
+      "state": "Missouri",
+      "acres": "35000",
+      "yield": "3810"
+    },
+    {
+      "year": "1979",
+      "state": "Texas",
+      "acres": "557000",
+      "yield": "4220"
+    },
+    {
+      "year": "1980",
+      "state": "Arkansas",
+      "acres": "1280000",
+      "yield": "4110"
+    },
+    {
+      "year": "1980",
+      "state": "California",
+      "acres": "565000",
+      "yield": "6440"
+    },
+    {
+      "year": "1980",
+      "state": "Louisiana",
+      "acres": "585000",
+      "yield": "3550"
+    },
+    {
+      "year": "1980",
+      "state": "Mississippi",
+      "acres": "240000",
+      "yield": "3840"
+    },
+    {
+      "year": "1980",
+      "state": "Missouri",
+      "acres": "56000",
+      "yield": "4180"
+    },
+    {
+      "year": "1980",
+      "state": "Texas",
+      "acres": "586000",
+      "yield": "4230"
+    },
+    {
+      "year": "1981",
+      "state": "Arkansas",
+      "acres": "1540000",
+      "yield": "4520"
+    },
+    {
+      "year": "1981",
+      "state": "California",
+      "acres": "593000",
+      "yield": "6900"
+    },
+    {
+      "year": "1981",
+      "state": "Louisiana",
+      "acres": "667000",
+      "yield": "4060"
+    },
+    {
+      "year": "1981",
+      "state": "Mississippi",
+      "acres": "337000",
+      "yield": "4390"
+    },
+    {
+      "year": "1981",
+      "state": "Missouri",
+      "acres": "76000",
+      "yield": "4080"
+    },
+    {
+      "year": "1981",
+      "state": "Texas",
+      "acres": "579000",
+      "yield": "4700"
+    },
+    {
+      "year": "1982",
+      "state": "Arkansas",
+      "acres": "1330000",
+      "yield": "4290"
+    },
+    {
+      "year": "1982",
+      "state": "California",
+      "acres": "535000",
+      "yield": "6700"
+    },
+    {
+      "year": "1982",
+      "state": "Louisiana",
+      "acres": "598000",
+      "yield": "4160"
+    },
+    {
+      "year": "1982",
+      "state": "Mississippi",
+      "acres": "245000",
+      "yield": "4120"
+    },
+    {
+      "year": "1982",
+      "state": "Missouri",
+      "acres": "80000",
+      "yield": "4480"
+    },
+    {
+      "year": "1982",
+      "state": "Texas",
+      "acres": "474000",
+      "yield": "4690"
+    },
+    {
+      "year": "1983",
+      "state": "Arkansas",
+      "acres": "915000",
+      "yield": "4280"
+    },
+    {
+      "year": "1983",
+      "state": "California",
+      "acres": "328000",
+      "yield": "7040"
+    },
+    {
+      "year": "1983",
+      "state": "Louisiana",
+      "acres": "385000",
+      "yield": "3820"
+    },
+    {
+      "year": "1983",
+      "state": "Mississippi",
+      "acres": "161000",
+      "yield": "4000"
+    },
+    {
+      "year": "1983",
+      "state": "Missouri",
+      "acres": "62000",
+      "yield": "4090"
+    },
+    {
+      "year": "1983",
+      "state": "Texas",
+      "acres": "318000",
+      "yield": "4340"
+    },
+    {
+      "year": "1984",
+      "state": "Arkansas",
+      "acres": "1150000",
+      "yield": "4600"
+    },
+    {
+      "year": "1984",
+      "state": "California",
+      "acres": "450000",
+      "yield": "7120"
+    },
+    {
+      "year": "1984",
+      "state": "Louisiana",
+      "acres": "528000",
+      "yield": "4150"
+    },
+    {
+      "year": "1984",
+      "state": "Mississippi",
+      "acres": "190000",
+      "yield": "4350"
+    },
+    {
+      "year": "1984",
+      "state": "Missouri",
+      "acres": "76000",
+      "yield": "4600"
+    },
+    {
+      "year": "1984",
+      "state": "Texas",
+      "acres": "408000",
+      "yield": "4940"
+    },
+    {
+      "year": "1985",
+      "state": "Arkansas",
+      "acres": "1050000",
+      "yield": "5200"
+    },
+    {
+      "year": "1985",
+      "state": "California",
+      "acres": "390000",
+      "yield": "7300"
+    },
+    {
+      "year": "1985",
+      "state": "Louisiana",
+      "acres": "463000",
+      "yield": "4370"
+    },
+    {
+      "year": "1985",
+      "state": "Mississippi",
+      "acres": "188000",
+      "yield": "5350"
+    },
+    {
+      "year": "1985",
+      "state": "Missouri",
+      "acres": "72000",
+      "yield": "4810"
+    },
+    {
+      "year": "1985",
+      "state": "Texas",
+      "acres": "329000",
+      "yield": "5490"
+    },
+    {
+      "year": "1986",
+      "state": "Arkansas",
+      "acres": "1020000",
+      "yield": "5300"
+    },
+    {
+      "year": "1986",
+      "state": "California",
+      "acres": "360000",
+      "yield": "7700"
+    },
+    {
+      "year": "1986",
+      "state": "Louisiana",
+      "acres": "426000",
+      "yield": "4550"
+    },
+    {
+      "year": "1986",
+      "state": "Mississippi",
+      "acres": "198000",
+      "yield": "5400"
+    },
+    {
+      "year": "1986",
+      "state": "Missouri",
+      "acres": "67000",
+      "yield": "5120"
+    },
+    {
+      "year": "1986",
+      "state": "Texas",
+      "acres": "289000",
+      "yield": "6250"
+    },
+    {
+      "year": "1987",
+      "state": "Arkansas",
+      "acres": "1010000",
+      "yield": "5250"
+    },
+    {
+      "year": "1987",
+      "state": "California",
+      "acres": "370000",
+      "yield": "7550"
+    },
+    {
+      "year": "1987",
+      "state": "Louisiana",
+      "acres": "420000",
+      "yield": "4550"
+    },
+    {
+      "year": "1987",
+      "state": "Mississippi",
+      "acres": "198000",
+      "yield": "5100"
+    },
+    {
+      "year": "1987",
+      "state": "Missouri",
+      "acres": "66000",
+      "yield": "5400"
+    },
+    {
+      "year": "1987",
+      "state": "Texas",
+      "acres": "269000",
+      "yield": "5900"
+    },
+    {
+      "year": "1988",
+      "state": "Arkansas",
+      "acres": "1210000",
+      "yield": "5350"
+    },
+    {
+      "year": "1988",
+      "state": "California",
+      "acres": "425000",
+      "yield": "7020"
+    },
+    {
+      "year": "1988",
+      "state": "Louisiana",
+      "acres": "535000",
+      "yield": "4500"
+    },
+    {
+      "year": "1988",
+      "state": "Mississippi",
+      "acres": "260000",
+      "yield": "5300"
+    },
+    {
+      "year": "1988",
+      "state": "Missouri",
+      "acres": "82000",
+      "yield": "5100"
+    },
+    {
+      "year": "1988",
+      "state": "Texas",
+      "acres": "388000",
+      "yield": "6000"
+    },
+    {
+      "year": "1989",
+      "state": "Arkansas",
+      "acres": "1140000",
+      "yield": "5600"
+    },
+    {
+      "year": "1989",
+      "state": "California",
+      "acres": "410000",
+      "yield": "7900"
+    },
+    {
+      "year": "1989",
+      "state": "Louisiana",
+      "acres": "485000",
+      "yield": "4430"
+    },
+    {
+      "year": "1989",
+      "state": "Mississippi",
+      "acres": "235000",
+      "yield": "5700"
+    },
+    {
+      "year": "1989",
+      "state": "Missouri",
+      "acres": "79000",
+      "yield": "5200"
+    },
+    {
+      "year": "1989",
+      "state": "Texas",
+      "acres": "338000",
+      "yield": "5700"
+    },
+    {
+      "year": "1990",
+      "state": "Arkansas",
+      "acres": "1200000",
+      "yield": "5000"
+    },
+    {
+      "year": "1990",
+      "state": "California",
+      "acres": "395000",
+      "yield": "7700"
+    },
+    {
+      "year": "1990",
+      "state": "Louisiana",
+      "acres": "545000",
+      "yield": "4860"
+    },
+    {
+      "year": "1990",
+      "state": "Mississippi",
+      "acres": "250000",
+      "yield": "5700"
+    },
+    {
+      "year": "1990",
+      "state": "Missouri",
+      "acres": "80000",
+      "yield": "4700"
+    },
+    {
+      "year": "1990",
+      "state": "Texas",
+      "acres": "353000",
+      "yield": "6000"
+    },
+    {
+      "year": "1991",
+      "state": "Arkansas",
+      "acres": "1260000",
+      "yield": "5300"
+    },
+    {
+      "year": "1991",
+      "state": "California",
+      "acres": "356000",
+      "yield": "8500"
+    },
+    {
+      "year": "1991",
+      "state": "Louisiana",
+      "acres": "510000",
+      "yield": "4850"
+    },
+    {
+      "year": "1991",
+      "state": "Mississippi",
+      "acres": "220000",
+      "yield": "5600"
+    },
+    {
+      "year": "1991",
+      "state": "Missouri",
+      "acres": "92000",
+      "yield": "5100"
+    },
+    {
+      "year": "1991",
+      "state": "Texas",
+      "acres": "343000",
+      "yield": "6000"
+    },
+    {
+      "year": "1992",
+      "state": "Arkansas",
+      "acres": "1380000",
+      "yield": "5500"
+    },
+    {
+      "year": "1992",
+      "state": "California",
+      "acres": "394000",
+      "yield": "8500"
+    },
+    {
+      "year": "1992",
+      "state": "Louisiana",
+      "acres": "620000",
+      "yield": "4650"
+    },
+    {
+      "year": "1992",
+      "state": "Mississippi",
+      "acres": "275000",
+      "yield": "5700"
+    },
+    {
+      "year": "1992",
+      "state": "Missouri",
+      "acres": "112000",
+      "yield": "4800"
+    },
+    {
+      "year": "1992",
+      "state": "Texas",
+      "acres": "351000",
+      "yield": "5800"
+    },
+    {
+      "year": "1993",
+      "state": "Arkansas",
+      "acres": "1230000",
+      "yield": "5050"
+    },
+    {
+      "year": "1993",
+      "state": "California",
+      "acres": "437000",
+      "yield": "8300"
+    },
+    {
+      "year": "1993",
+      "state": "Louisiana",
+      "acres": "530000",
+      "yield": "4550"
+    },
+    {
+      "year": "1993",
+      "state": "Mississippi",
+      "acres": "245000",
+      "yield": "5300"
+    },
+    {
+      "year": "1993",
+      "state": "Missouri",
+      "acres": "93000",
+      "yield": "4900"
+    },
+    {
+      "year": "1993",
+      "state": "Texas",
+      "acres": "298000",
+      "yield": "5400"
+    },
+    {
+      "year": "1994",
+      "state": "Arkansas",
+      "acres": "1420000",
+      "yield": "5700"
+    },
+    {
+      "year": "1994",
+      "state": "California",
+      "acres": "485000",
+      "yield": "8500"
+    },
+    {
+      "year": "1994",
+      "state": "Louisiana",
+      "acres": "620000",
+      "yield": "4750"
+    },
+    {
+      "year": "1994",
+      "state": "Mississippi",
+      "acres": "313000",
+      "yield": "5900"
+    },
+    {
+      "year": "1994",
+      "state": "Missouri",
+      "acres": "124000",
+      "yield": "5200"
+    },
+    {
+      "year": "1994",
+      "state": "Texas",
+      "acres": "354000",
+      "yield": "6000"
+    },
+    {
+      "year": "1995",
+      "state": "Arkansas",
+      "acres": "1340000",
+      "yield": "5450"
+    },
+    {
+      "year": "1995",
+      "state": "California",
+      "acres": "465000",
+      "yield": "7600"
+    },
+    {
+      "year": "1995",
+      "state": "Louisiana",
+      "acres": "570000",
+      "yield": "4600"
+    },
+    {
+      "year": "1995",
+      "state": "Mississippi",
+      "acres": "288000",
+      "yield": "5400"
+    },
+    {
+      "year": "1995",
+      "state": "Missouri",
+      "acres": "112000",
+      "yield": "5300"
+    },
+    {
+      "year": "1995",
+      "state": "Texas",
+      "acres": "318000",
+      "yield": "5600"
+    },
+    {
+      "year": "1996",
+      "state": "Arkansas",
+      "acres": "1170000",
+      "yield": "6150"
+    },
+    {
+      "year": "1996",
+      "state": "California",
+      "acres": "500000",
+      "yield": "7490"
+    },
+    {
+      "year": "1996",
+      "state": "Louisiana",
+      "acres": "533000",
+      "yield": "4870"
+    },
+    {
+      "year": "1996",
+      "state": "Mississippi",
+      "acres": "208000",
+      "yield": "6000"
+    },
+    {
+      "year": "1996",
+      "state": "Missouri",
+      "acres": "95000",
+      "yield": "5550"
+    },
+    {
+      "year": "1996",
+      "state": "Texas",
+      "acres": "298000",
+      "yield": "6200"
+    },
+    {
+      "year": "1997",
+      "state": "Arkansas",
+      "acres": "1390000",
+      "yield": "5700"
+    },
+    {
+      "year": "1997",
+      "state": "California",
+      "acres": "516000",
+      "yield": "8250"
+    },
+    {
+      "year": "1997",
+      "state": "Louisiana",
+      "acres": "583000",
+      "yield": "4630"
+    },
+    {
+      "year": "1997",
+      "state": "Mississippi",
+      "acres": "238000",
+      "yield": "5800"
+    },
+    {
+      "year": "1997",
+      "state": "Missouri",
+      "acres": "117000",
+      "yield": "5300"
+    },
+    {
+      "year": "1997",
+      "state": "Texas",
+      "acres": "259000",
+      "yield": "5500"
+    },
+    {
+      "year": "1998",
+      "state": "Arkansas",
+      "acres": "1485000",
+      "yield": "5800"
+    },
+    {
+      "year": "1998",
+      "state": "California",
+      "acres": "458000",
+      "yield": "6850"
+    },
+    {
+      "year": "1998",
+      "state": "Louisiana",
+      "acres": "620000",
+      "yield": "4530"
+    },
+    {
+      "year": "1998",
+      "state": "Mississippi",
+      "acres": "268000",
+      "yield": "5800"
+    },
+    {
+      "year": "1998",
+      "state": "Missouri",
+      "acres": "143000",
+      "yield": "5200"
+    },
+    {
+      "year": "1998",
+      "state": "Texas",
+      "acres": "283000",
+      "yield": "5600"
+    },
+    {
+      "year": "1999",
+      "state": "Arkansas",
+      "acres": "1625000",
+      "yield": "5850"
+    },
+    {
+      "year": "1999",
+      "state": "California",
+      "acres": "505000",
+      "yield": "7270"
+    },
+    {
+      "year": "1999",
+      "state": "Louisiana",
+      "acres": "616000",
+      "yield": "5000"
+    },
+    {
+      "year": "1999",
+      "state": "Mississippi",
+      "acres": "323000",
+      "yield": "5650"
+    },
+    {
+      "year": "1999",
+      "state": "Missouri",
+      "acres": "184000",
+      "yield": "5400"
+    },
+    {
+      "year": "1999",
+      "state": "Texas",
+      "acres": "259000",
+      "yield": "5900"
+    },
+    {
+      "year": "2000",
+      "state": "Arkansas",
+      "acres": "1410000",
+      "yield": "6110"
+    },
+    {
+      "year": "2000",
+      "state": "California",
+      "acres": "548000",
+      "yield": "7940"
+    },
+    {
+      "year": "2000",
+      "state": "Louisiana",
+      "acres": "480000",
+      "yield": "5080"
+    },
+    {
+      "year": "2000",
+      "state": "Mississippi",
+      "acres": "218000",
+      "yield": "5900"
+    },
+    {
+      "year": "2000",
+      "state": "Missouri",
+      "acres": "169000",
+      "yield": "5700"
+    },
+    {
+      "year": "2000",
+      "state": "Texas",
+      "acres": "214000",
+      "yield": "6700"
+    },
+    {
+      "year": "2001",
+      "state": "Arkansas",
+      "acres": "1621000",
+      "yield": "6350"
+    },
+    {
+      "year": "2001",
+      "state": "California",
+      "acres": "471000",
+      "yield": "8170"
+    },
+    {
+      "year": "2001",
+      "state": "Louisiana",
+      "acres": "546000",
+      "yield": "5500"
+    },
+    {
+      "year": "2001",
+      "state": "Mississippi",
+      "acres": "253000",
+      "yield": "6600"
+    },
+    {
+      "year": "2001",
+      "state": "Missouri",
+      "acres": "207000",
+      "yield": "6000"
+    },
+    {
+      "year": "2001",
+      "state": "Texas",
+      "acres": "216000",
+      "yield": "6850"
+    },
+    {
+      "year": "2002",
+      "state": "Arkansas",
+      "acres": "1503000",
+      "yield": "6440"
+    },
+    {
+      "year": "2002",
+      "state": "California",
+      "acres": "528000",
+      "yield": "8140"
+    },
+    {
+      "year": "2002",
+      "state": "Louisiana",
+      "acres": "535000",
+      "yield": "5500"
+    },
+    {
+      "year": "2002",
+      "state": "Mississippi",
+      "acres": "253000",
+      "yield": "6400"
+    },
+    {
+      "year": "2002",
+      "state": "Missouri",
+      "acres": "182000",
+      "yield": "6050"
+    },
+    {
+      "year": "2002",
+      "state": "Texas",
+      "acres": "206000",
+      "yield": "7100"
+    },
+    {
+      "year": "2003",
+      "state": "Arkansas",
+      "acres": "1455000",
+      "yield": "6610"
+    },
+    {
+      "year": "2003",
+      "state": "California",
+      "acres": "507000",
+      "yield": "7700"
+    },
+    {
+      "year": "2003",
+      "state": "Louisiana",
+      "acres": "450000",
+      "yield": "5870"
+    },
+    {
+      "year": "2003",
+      "state": "Mississippi",
+      "acres": "234000",
+      "yield": "6800"
+    },
+    {
+      "year": "2003",
+      "state": "Missouri",
+      "acres": "171000",
+      "yield": "6130"
+    },
+    {
+      "year": "2003",
+      "state": "Texas",
+      "acres": "180000",
+      "yield": "6600"
+    },
+    {
+      "year": "2004",
+      "state": "Arkansas",
+      "acres": "1555000",
+      "yield": "6980"
+    },
+    {
+      "year": "2004",
+      "state": "California",
+      "acres": "590000",
+      "yield": "8600"
+    },
+    {
+      "year": "2004",
+      "state": "Louisiana",
+      "acres": "533000",
+      "yield": "5390"
+    },
+    {
+      "year": "2004",
+      "state": "Mississippi",
+      "acres": "234000",
+      "yield": "6900"
+    },
+    {
+      "year": "2004",
+      "state": "Missouri",
+      "acres": "195000",
+      "yield": "6800"
+    },
+    {
+      "year": "2004",
+      "state": "Texas",
+      "acres": "218000",
+      "yield": "6840"
+    },
+    {
+      "year": "2005",
+      "state": "Arkansas",
+      "acres": "1635000",
+      "yield": "6650"
+    },
+    {
+      "year": "2005",
+      "state": "California",
+      "acres": "526000",
+      "yield": "7380"
+    },
+    {
+      "year": "2005",
+      "state": "Louisiana",
+      "acres": "525000",
+      "yield": "5900"
+    },
+    {
+      "year": "2005",
+      "state": "Mississippi",
+      "acres": "263000",
+      "yield": "6400"
+    },
+    {
+      "year": "2005",
+      "state": "Missouri",
+      "acres": "214000",
+      "yield": "6600"
+    },
+    {
+      "year": "2005",
+      "state": "Texas",
+      "acres": "201000",
+      "yield": "6600"
+    },
+    {
+      "year": "2006",
+      "state": "Arkansas",
+      "acres": "1400000",
+      "yield": "6900"
+    },
+    {
+      "year": "2006",
+      "state": "California",
+      "acres": "523000",
+      "yield": "7660"
+    },
+    {
+      "year": "2006",
+      "state": "Louisiana",
+      "acres": "345000",
+      "yield": "5880"
+    },
+    {
+      "year": "2006",
+      "state": "Mississippi",
+      "acres": "189000",
+      "yield": "7000"
+    },
+    {
+      "year": "2006",
+      "state": "Missouri",
+      "acres": "214000",
+      "yield": "6400"
+    },
+    {
+      "year": "2006",
+      "state": "Texas",
+      "acres": "150000",
+      "yield": "7170"
+    },
+    {
+      "year": "2007",
+      "state": "Arkansas",
+      "acres": "1325000",
+      "yield": "7230"
+    },
+    {
+      "year": "2007",
+      "state": "California",
+      "acres": "533000",
+      "yield": "8200"
+    },
+    {
+      "year": "2007",
+      "state": "Louisiana",
+      "acres": "378000",
+      "yield": "6140"
+    },
+    {
+      "year": "2007",
+      "state": "Mississippi",
+      "acres": "189000",
+      "yield": "7350"
+    },
+    {
+      "year": "2007",
+      "state": "Missouri",
+      "acres": "178000",
+      "yield": "6900"
+    },
+    {
+      "year": "2007",
+      "state": "Texas",
+      "acres": "145000",
+      "yield": "6550"
+    },
+    {
+      "year": "2008",
+      "state": "Arkansas",
+      "acres": "1395000",
+      "yield": "6660"
+    },
+    {
+      "year": "2008",
+      "state": "California",
+      "acres": "517000",
+      "yield": "8320"
+    },
+    {
+      "year": "2008",
+      "state": "Louisiana",
+      "acres": "464000",
+      "yield": "5830"
+    },
+    {
+      "year": "2008",
+      "state": "Mississippi",
+      "acres": "229000",
+      "yield": "6850"
+    },
+    {
+      "year": "2008",
+      "state": "Missouri",
+      "acres": "199000",
+      "yield": "6620"
+    },
+    {
+      "year": "2008",
+      "state": "Texas",
+      "acres": "172000",
+      "yield": "6900"
+    },
+    {
+      "year": "2009",
+      "state": "Arkansas",
+      "acres": "1470000",
+      "yield": "6800"
+    },
+    {
+      "year": "2009",
+      "state": "California",
+      "acres": "556000",
+      "yield": "8600"
+    },
+    {
+      "year": "2009",
+      "state": "Louisiana",
+      "acres": "464000",
+      "yield": "6300"
+    },
+    {
+      "year": "2009",
+      "state": "Mississippi",
+      "acres": "243000",
+      "yield": "6700"
+    },
+    {
+      "year": "2009",
+      "state": "Missouri",
+      "acres": "200000",
+      "yield": "6710"
+    },
+    {
+      "year": "2009",
+      "state": "Texas",
+      "acres": "170000",
+      "yield": "7770"
+    },
+    {
+      "year": "2010",
+      "state": "Arkansas",
+      "acres": "1785000",
+      "yield": "6480"
+    },
+    {
+      "year": "2010",
+      "state": "California",
+      "acres": "553000",
+      "yield": "8020"
+    },
+    {
+      "year": "2010",
+      "state": "Louisiana",
+      "acres": "535000",
+      "yield": "6100"
+    },
+    {
+      "year": "2010",
+      "state": "Mississippi",
+      "acres": "303000",
+      "yield": "6850"
+    },
+    {
+      "year": "2010",
+      "state": "Missouri",
+      "acres": "251000",
+      "yield": "6480"
+    },
+    {
+      "year": "2010",
+      "state": "Texas",
+      "acres": "188000",
+      "yield": "7160"
+    },
+    {
+      "year": "2011",
+      "state": "Arkansas",
+      "acres": "1154000",
+      "yield": "6770"
+    },
+    {
+      "year": "2011",
+      "state": "California",
+      "acres": "580000",
+      "yield": "8350"
+    },
+    {
+      "year": "2011",
+      "state": "Louisiana",
+      "acres": "418000",
+      "yield": "6320"
+    },
+    {
+      "year": "2011",
+      "state": "Mississippi",
+      "acres": "158000",
+      "yield": "6850"
+    },
+    {
+      "year": "2011",
+      "state": "Missouri",
+      "acres": "128000",
+      "yield": "6490"
+    },
+    {
+      "year": "2011",
+      "state": "Texas",
+      "acres": "180000",
+      "yield": "7190"
+    }
+  ],
+  "meta": {
+    "title": "US Rice Production by State 1895–2011 - Free Download",
+    "description": "USDA NASS agricultural data on rice production across US states from 1895 to 2011, including acres harvested and yield per acre. Contains 662 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US Rice Production by State 1895–2011 | ListBase",
+    "seo_description": "Download US Rice Production by State 1895–2011 — 662 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 662 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/vincentarelbundock/Rdatasets"
+    ]
+  }
+}

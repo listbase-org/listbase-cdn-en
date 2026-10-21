@@ -1,0 +1,226 @@
+{
+  "id": "hr-airports-iata",
+  "name": "Croatia — IATA Airports",
+  "title": "Croatia — IATA Airports",
+  "description": "Airports with IATA codes in Croatia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BWK",
+      "icao_code": "LDSB",
+      "name": "Brac",
+      "city_name_list": "Otok Brač",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Split-Dalmatia",
+      "latitude": 43.28583,
+      "longitude": 16.67972,
+      "elevation": 541,
+      "timezone": "Europe/Zagreb",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bra%C4%8D_Airport"
+    },
+    {
+      "iata_code": "DBV",
+      "icao_code": "LDDU",
+      "name": "Dubrovnik Airport",
+      "city_name_list": "Dubrovnik",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Dubrovnik-Neretva",
+      "latitude": 42.561353,
+      "longitude": 18.268244,
+      "elevation": 160,
+      "timezone": "Europe/Zagreb",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dubrovnik_Airport"
+    },
+    {
+      "iata_code": "LSZ",
+      "icao_code": "LDLO",
+      "name": "Lošinj Airport",
+      "city_name_list": "Mali Lošinj",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Primorje-Gorski Kotar",
+      "latitude": 44.5687,
+      "longitude": 14.39385,
+      "elevation": 15,
+      "timezone": "Europe/Zagreb",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lo%C5%A1inj_Airport"
+    },
+    {
+      "iata_code": "OSI",
+      "icao_code": "LDOS",
+      "name": "Osijek Airport",
+      "city_name_list": "Osijek",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Vukovar-Srijem",
+      "latitude": 45.462667,
+      "longitude": 18.810156,
+      "elevation": 88,
+      "timezone": "Europe/Zagreb",
+      "wiki_link": "https://en.wikipedia.org/wiki/Osijek_Airport"
+    },
+    {
+      "iata_code": "PUY",
+      "icao_code": "LDPL",
+      "name": "Pula Airport",
+      "city_name_list": "Pula",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Istria",
+      "latitude": 44.893533,
+      "longitude": 13.922192,
+      "elevation": 83,
+      "timezone": "Europe/Zagreb",
+      "wiki_link": "https://en.wikipedia.org/wiki/Pula_Airport"
+    },
+    {
+      "iata_code": "RJK",
+      "icao_code": "LDRI",
+      "name": "Rijeka/Krk Airport",
+      "city_name_list": "Rijeka=Krk",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Primorje-Gorski Kotar",
+      "latitude": 45.21689,
+      "longitude": 14.57027,
+      "elevation": 84,
+      "timezone": "Europe/Zagreb",
+      "wiki_link": "https://en.wikipedia.org/wiki/Rijeka_Airport"
+    },
+    {
+      "iata_code": "SPU",
+      "icao_code": "LDSP",
+      "name": "Split Airport",
+      "city_name_list": "Split",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Split-Dalmatia",
+      "latitude": 43.538944,
+      "longitude": 16.297964,
+      "elevation": 24,
+      "timezone": "Europe/Zagreb",
+      "wiki_link": "https://en.wikipedia.org/wiki/Split_Airport"
+    },
+    {
+      "iata_code": "ZAD",
+      "icao_code": "LDZD",
+      "name": "Zadar Airport",
+      "city_name_list": "Zadar",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Zadar",
+      "latitude": 44.108269,
+      "longitude": 15.346697,
+      "elevation": 88,
+      "timezone": "Europe/Zagreb",
+      "wiki_link": "https://en.wikipedia.org/wiki/Zadar_Airport"
+    },
+    {
+      "iata_code": "ZAG",
+      "icao_code": "LDZA",
+      "name": "Zagreb Franjo Tuđman Airport",
+      "city_name_list": "Zagreb",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Zagreb County",
+      "latitude": 45.74056,
+      "longitude": 16.06833,
+      "elevation": 107,
+      "timezone": "Europe/Zagreb",
+      "wiki_link": "https://en.wikipedia.org/wiki/Zagreb_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Croatia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Croatia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Croatia — IATA Airports | ListBase",
+    "seo_description": "Download Croatia — IATA Airports dataset with 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

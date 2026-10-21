@@ -1,0 +1,446 @@
+{
+  "id": "world-cup-1974-matches",
+  "name": "FIFA World Cup 1974 Matches",
+  "title": "FIFA World Cup 1974 Matches",
+  "description": "All 38 matches from the 1974 FIFA World Cup (hosted by West Germany) including teams, scores, groups, and venues.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/world-cup.json",
+  "source_url": "https://github.com/openfootball/world-cup.json",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "round",
+      "label": "Round",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "team1",
+      "label": "Team1",
+      "type": "string"
+    },
+    {
+      "key": "team2",
+      "label": "Team2",
+      "type": "string"
+    },
+    {
+      "key": "score_team1",
+      "label": "Score Team1",
+      "type": "number"
+    },
+    {
+      "key": "score_team2",
+      "label": "Score Team2",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "ground",
+      "label": "Ground",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "round": "Matchday 1",
+      "date": "1974-06-14",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Olympiastadion, West Berlin"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1974-06-14",
+      "team1": "East Germany",
+      "team2": "Australia",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Volksparkstadion, Hamburg"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1974-06-18",
+      "team1": "Chile",
+      "team2": "East Germany",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 1",
+      "ground": "Olympiastadion, West Berlin"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1974-06-18",
+      "team1": "Australia",
+      "team2": "West Germany",
+      "score_team1": 0,
+      "score_team2": 3,
+      "group": "Group 1",
+      "ground": "Volksparkstadion, Hamburg"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1974-06-22",
+      "team1": "Australia",
+      "team2": "Chile",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Olympiastadion, West Berlin"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1974-06-22",
+      "team1": "East Germany",
+      "team2": "West Germany",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Volksparkstadion, Hamburg"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1974-06-13",
+      "team1": "Brazil",
+      "team2": "Yugoslavia",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Waldstadion, Frankfurt"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1974-06-14",
+      "team1": "Zaire",
+      "team2": "Scotland",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "Group 2",
+      "ground": "Westfalenstadion, Dortmund"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1974-06-18",
+      "team1": "Yugoslavia",
+      "team2": "Zaire",
+      "score_team1": 9,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Parkstadion, Gelsenkirchen"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1974-06-18",
+      "team1": "Scotland",
+      "team2": "Brazil",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Waldstadion, Frankfurt"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1974-06-22",
+      "team1": "Scotland",
+      "team2": "Yugoslavia",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 2",
+      "ground": "Waldstadion, Frankfurt"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1974-06-22",
+      "team1": "Zaire",
+      "team2": "Brazil",
+      "score_team1": 0,
+      "score_team2": 3,
+      "group": "Group 2",
+      "ground": "Parkstadion, Gelsenkirchen"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1974-06-15",
+      "team1": "Uruguay",
+      "team2": "Netherlands",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "Group 3",
+      "ground": "Niedersachsenstadion, Hanover"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1974-06-15",
+      "team1": "Sweden",
+      "team2": "Bulgaria",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Rheinstadion, Düsseldorf"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1974-06-19",
+      "team1": "Netherlands",
+      "team2": "Sweden",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Westfalenstadion, Dortmund"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1974-06-19",
+      "team1": "Uruguay",
+      "team2": "Bulgaria",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 3",
+      "ground": "Niedersachsenstadion, Hanover"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1974-06-23",
+      "team1": "Netherlands",
+      "team2": "Bulgaria",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "Group 3",
+      "ground": "Westfalenstadion, Dortmund"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1974-06-23",
+      "team1": "Sweden",
+      "team2": "Uruguay",
+      "score_team1": 3,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Rheinstadion, Düsseldorf"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1974-06-15",
+      "team1": "Italy",
+      "team2": "Haiti",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Olympiastadion, München"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1974-06-15",
+      "team1": "Poland",
+      "team2": "Argentina",
+      "score_team1": 3,
+      "score_team2": 2,
+      "group": "Group 4",
+      "ground": "Neckarstadion, Stuttgart"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1974-06-19",
+      "team1": "Haiti",
+      "team2": "Poland",
+      "score_team1": 0,
+      "score_team2": 7,
+      "group": "Group 4",
+      "ground": "Olympiastadion, München"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1974-06-19",
+      "team1": "Argentina",
+      "team2": "Italy",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Neckarstadion, Stuttgart"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1974-06-23",
+      "team1": "Argentina",
+      "team2": "Haiti",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Olympiastadion, München"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1974-06-23",
+      "team1": "Poland",
+      "team2": "Italy",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Neckarstadion, Stuttgart"
+    },
+    {
+      "round": "Matchday 4",
+      "date": "1974-06-26",
+      "team1": "Brazil",
+      "team2": "East Germany",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group A",
+      "ground": "Niedersachsenstadion, Hanover"
+    },
+    {
+      "round": "Matchday 4",
+      "date": "1974-06-26",
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "score_team1": 4,
+      "score_team2": 0,
+      "group": "Group A",
+      "ground": "Parkstadion, Gelsenkirchen"
+    },
+    {
+      "round": "Matchday 5",
+      "date": "1974-06-30",
+      "team1": "East Germany",
+      "team2": "Netherlands",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "Group A",
+      "ground": "Parkstadion, Gelsenkirchen"
+    },
+    {
+      "round": "Matchday 5",
+      "date": "1974-06-30",
+      "team1": "Argentina",
+      "team2": "Brazil",
+      "score_team1": 1,
+      "score_team2": 2,
+      "group": "Group A",
+      "ground": "Niedersachsenstadion, Hanover"
+    },
+    {
+      "round": "Matchday 6",
+      "date": "1974-07-03",
+      "team1": "Argentina",
+      "team2": "East Germany",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group A",
+      "ground": "Parkstadion, Gelsenkirchen"
+    },
+    {
+      "round": "Matchday 6",
+      "date": "1974-07-03",
+      "team1": "Netherlands",
+      "team2": "Brazil",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group A",
+      "ground": "Westfalenstadion, Dortmund"
+    },
+    {
+      "round": "Matchday 4",
+      "date": "1974-06-26",
+      "team1": "Yugoslavia",
+      "team2": "West Germany",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "Group B",
+      "ground": "Rheinstadion, Düsseldorf"
+    },
+    {
+      "round": "Matchday 4",
+      "date": "1974-06-26",
+      "team1": "Sweden",
+      "team2": "Poland",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group B",
+      "ground": "Neckarstadion, Stuttgart"
+    },
+    {
+      "round": "Matchday 5",
+      "date": "1974-06-30",
+      "team1": "West Germany",
+      "team2": "Sweden",
+      "score_team1": 4,
+      "score_team2": 2,
+      "group": "Group B",
+      "ground": "Rheinstadion, Düsseldorf"
+    },
+    {
+      "round": "Matchday 5",
+      "date": "1974-06-30",
+      "team1": "Poland",
+      "team2": "Yugoslavia",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group B",
+      "ground": "Waldstadion, Frankfurt"
+    },
+    {
+      "round": "Matchday 6",
+      "date": "1974-07-03",
+      "team1": "Poland",
+      "team2": "West Germany",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group B",
+      "ground": "Waldstadion, Frankfurt"
+    },
+    {
+      "round": "Matchday 6",
+      "date": "1974-07-03",
+      "team1": "Sweden",
+      "team2": "Yugoslavia",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group B",
+      "ground": "Rheinstadion, Düsseldorf"
+    },
+    {
+      "round": "Match for third place",
+      "date": "1974-07-06",
+      "team1": "Brazil",
+      "team2": "Poland",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Olympiastadion, München"
+    },
+    {
+      "round": "Final",
+      "date": "1974-07-07",
+      "team1": "Netherlands",
+      "team2": "West Germany",
+      "score_team1": 1,
+      "score_team2": 2,
+      "group": "",
+      "ground": "Olympiastadion, München"
+    }
+  ],
+  "meta": {
+    "title": "FIFA World Cup 1974 Matches - Free Download",
+    "description": "All 38 matches from the 1974 FIFA World Cup (hosted by West Germany) including teams, scores, groups, and venues. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FIFA World Cup 1974 Matches | ListBase",
+    "seo_description": "Download FIFA World Cup 1974 Matches — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/world-cup.json"
+    ]
+  }
+}

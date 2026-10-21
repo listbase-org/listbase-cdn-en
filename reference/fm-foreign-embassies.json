@@ -1,0 +1,216 @@
+{
+  "id": "fm-foreign-embassies",
+  "name": "Federated States of Micronesia — Foreign Embassies and Consulates",
+  "title": "Federated States of Micronesia — Foreign Embassies and Consulates",
+  "description": "Diplomatic missions of foreign countries and territories hosted in Federated States of Micronesia. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Australia",
+      "operator_cc": "au",
+      "host_country": "Federated States of Micronesia",
+      "host_cc": "fm",
+      "city": "Kolonia",
+      "address": "",
+      "type": "embassy",
+      "latitude": 6.96713,
+      "longitude": 158.21343,
+      "jurisdictions": "Palau, Federated States of Micronesia, Marshall Islands",
+      "phone": "",
+      "email": "",
+      "website": "https://fsm.embassy.gov.au",
+      "facebook": "AustralianEmbassyPNI",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q105620979"
+    },
+    {
+      "operator": "Japan",
+      "operator_cc": "jp",
+      "host_country": "Federated States of Micronesia",
+      "host_cc": "fm",
+      "city": "Kolonia",
+      "address": "",
+      "type": "embassy",
+      "latitude": 6.96585,
+      "longitude": 158.21455,
+      "jurisdictions": "Federated States of Micronesia",
+      "phone": "",
+      "email": "",
+      "website": "https://www.micronesia.emb-japan.go.jp",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q79760999"
+    },
+    {
+      "operator": "Ministry of Foreign Affairs of the People's Republic of China",
+      "operator_cc": "cn",
+      "host_country": "Federated States of Micronesia",
+      "host_cc": "fm",
+      "city": "Palikir",
+      "address": "",
+      "type": "embassy",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Palau, Federated States of Micronesia, Marshall Islands",
+      "phone": "+691-3205575",
+      "email": "mailto:chinaemb_fm@mfa.gov.cn",
+      "website": "http://fm.china-embassy.gov.cn/chn/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q115965676"
+    },
+    {
+      "operator": "United States of America",
+      "operator_cc": "us",
+      "host_country": "Federated States of Micronesia",
+      "host_cc": "fm",
+      "city": "Kolonia",
+      "address": "",
+      "type": "embassy",
+      "latitude": 6.95784,
+      "longitude": 158.21637,
+      "jurisdictions": "Federated States of Micronesia",
+      "phone": "",
+      "email": "",
+      "website": "https://fm.usembassy.gov",
+      "facebook": "USembassyKolonia",
+      "twitter": "USEmbassyFSM",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q105620795"
+    },
+    {
+      "operator": "Vatican",
+      "operator_cc": "va",
+      "host_country": "Federated States of Micronesia",
+      "host_cc": "fm",
+      "city": "",
+      "address": "",
+      "type": "apostolic nunciature",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Federated States of Micronesia",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q19932617"
+    }
+  ],
+  "meta": {
+    "title": "Federated States of Micronesia — Foreign Embassies and Consulates - Free Download",
+    "description": "Diplomatic missions of foreign countries and territories hosted in Federated States of Micronesia. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Federated States of Micronesia — Foreign Embassies and Consulates | ListBase",
+    "seo_description": "Download Federated States of Micronesia — Foreign Embassies and Consulates — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "id": "ls-airports-iata",
+  "name": "Lesotho — IATA Airports",
+  "title": "Lesotho — IATA Airports",
+  "description": "Airports with IATA codes in Lesotho: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "LEF",
+      "icao_code": "FXLK",
+      "name": "Lebakeng Airport",
+      "city_name_list": "Lebakeng Airport",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Thaba-Tseka",
+      "latitude": -29.78,
+      "longitude": 28.58,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lebakeng_Airport"
+    },
+    {
+      "iata_code": "LES",
+      "icao_code": "FXLS",
+      "name": "Lesobeng Airport",
+      "city_name_list": "Lesobeng",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Thaba-Tseka",
+      "latitude": -29.8,
+      "longitude": 28.13,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lesobeng_Airport"
+    },
+    {
+      "iata_code": "LRB",
+      "icao_code": "FXLR",
+      "name": "Leribe Airport",
+      "city_name_list": "Hlotse",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Leribe",
+      "latitude": -28.97,
+      "longitude": 28,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Leribe_Airport"
+    },
+    {
+      "iata_code": "MFC",
+      "icao_code": "FXMF",
+      "name": "Mafeteng Airport",
+      "city_name_list": "Mafeteng",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Mafeteng District",
+      "latitude": -29.8,
+      "longitude": 27.25,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mafeteng_Airport"
+    },
+    {
+      "iata_code": "MKH",
+      "icao_code": "FXMK",
+      "name": "Mokhotlong Airport",
+      "city_name_list": "Mokhotlong",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Mokhotlong District",
+      "latitude": -29.37,
+      "longitude": 29.03,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mokhotlong_Airport"
+    },
+    {
+      "iata_code": "MSU",
+      "icao_code": "FXMM",
+      "name": "Maseru / Moshoeshoe",
+      "city_name_list": "Maseru",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Maseru District",
+      "latitude": -29.462256,
+      "longitude": 27.552503,
+      "elevation": 1630,
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Moshoeshoe_I_International_Airport"
+    },
+    {
+      "iata_code": "NKU",
+      "icao_code": "FXNK",
+      "name": "Nkaus Airport",
+      "city_name_list": "Nkaus",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Mohale's Hoek District",
+      "latitude": -30.0217,
+      "longitude": 28.1969,
+      "elevation": 1713,
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Nkaus_Airport"
+    },
+    {
+      "iata_code": "PEL",
+      "icao_code": "FXPG",
+      "name": "Pelaneng Airport",
+      "city_name_list": "Pelaneng Airport",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Leribe",
+      "latitude": -30.55,
+      "longitude": 27.92,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Pelaneng_Airport"
+    },
+    {
+      "iata_code": "SHK",
+      "icao_code": "FXSH",
+      "name": "Sehonghong Airport",
+      "city_name_list": "Sehonghong",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Thaba-Tseka",
+      "latitude": -29.9,
+      "longitude": 28.25,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sehonghong_Airport"
+    },
+    {
+      "iata_code": "SHZ",
+      "icao_code": "FXSS",
+      "name": "Seshutes Airport",
+      "city_name_list": "Seshote Community",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Leribe",
+      "latitude": -29.2671,
+      "longitude": 28.55331,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Seshutes_Airport"
+    },
+    {
+      "iata_code": "SKQ",
+      "icao_code": "FXSK",
+      "name": "Sekakes Airport",
+      "city_name_list": "Sekake",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Mohale's Hoek District",
+      "latitude": -29.97,
+      "longitude": 28.45,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "SOK",
+      "icao_code": "FXSM",
+      "name": "Semonkong Airport",
+      "city_name_list": "Semonkong Airport",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Maseru District",
+      "latitude": -29.8386,
+      "longitude": 28.06,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Semonkong_Airport"
+    },
+    {
+      "iata_code": "THB",
+      "icao_code": "FXTA",
+      "name": "Thaba-Tseka Airport",
+      "city_name_list": "Thaba-Tseka",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Thaba-Tseka",
+      "latitude": -29.87,
+      "longitude": 28.17,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "TKO",
+      "icao_code": "FXTK",
+      "name": "Tlokoeng Airport",
+      "city_name_list": "Mokoeng",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Mokhotlong District",
+      "latitude": -29.233,
+      "longitude": 28.883,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tlokoeng_Airport"
+    },
+    {
+      "iata_code": "UNE",
+      "icao_code": "FXQN",
+      "name": "Qacha's Nek Airport",
+      "city_name_list": "Qacha’s Nek",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Qacha's Nek District",
+      "latitude": -30.1117,
+      "longitude": 28.6719,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Qacha%27s_Nek_Airport"
+    },
+    {
+      "iata_code": "UTG",
+      "icao_code": "FXQG",
+      "name": "Quthing Airport",
+      "city_name_list": "Quthing",
+      "country_code": "LS",
+      "country_name": "Lesotho",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Quthing",
+      "latitude": -30.5,
+      "longitude": 27.6,
+      "elevation": "",
+      "timezone": "Africa/Maseru",
+      "wiki_link": "https://en.wikipedia.org/wiki/Quthing_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Lesotho — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Lesotho: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lesotho — IATA Airports | ListBase",
+    "seo_description": "Download Lesotho — IATA Airports dataset with 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

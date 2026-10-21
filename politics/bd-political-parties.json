@@ -1,0 +1,361 @@
+{
+  "id": "bd-political-parties",
+  "name": "Bangladesh — Political Parties",
+  "title": "Bangladesh — Political Parties",
+  "description": "Political parties of Bangladesh from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5790,
+      "name_short": "BaKSAL",
+      "name": "Bangladesh Krishak Sramik Awami League",
+      "name_english": "Bangladesh Worker-Peasant's People's League",
+      "name_other": "Bengali: বাংলাদেশ কৃষক শ্রমিক আওয়ামী লীগ",
+      "year_first": 1975,
+      "year_last": 1975,
+      "share": 100,
+      "share_year": 1975,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bangladesh_Krishak_Sramik_Awami_League",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2299,
+      "name_short": "BAL",
+      "name": "Bangladesh Awami League",
+      "name_english": "Bangladesh People's League",
+      "name_other": "",
+      "year_first": 1949,
+      "year_last": "",
+      "share": 73,
+      "share_year": 1973,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bangladesh_Awami_League",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3782,
+      "name_short": "BNP",
+      "name": "Bangladesh Nationalist Party",
+      "name_english": "Bangladesh Nationalist Party",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": 2008,
+      "share": 41.4,
+      "share_year": 2001,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2341,
+      "name_short": "JD",
+      "name": "Jatiya Party (Ershad)",
+      "name_english": "National Party (Ershad)",
+      "name_other": "",
+      "year_first": 1986,
+      "year_last": "",
+      "share": 11.9,
+      "share_year": 1991,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jatiya_Party_(Ershad)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3779,
+      "name_short": "NAP-M",
+      "name": "National Awami Party (Muzaffar)",
+      "name_english": "National Awami Party (Muzaffar)",
+      "name_other": "",
+      "year_first": 1973,
+      "year_last": 1991,
+      "share": 8.5,
+      "share_year": 1973,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bangladeshi_general_election,_1973",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3777,
+      "name_short": "JSD",
+      "name": "Jatiya Samajtantric Dal – Jasad",
+      "name_english": "National Socialist Party",
+      "name_other": "",
+      "year_first": 1973,
+      "year_last": 2008,
+      "share": 6.7,
+      "share_year": 1973,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jatiyo_Samajtantrik_Dal",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6188,
+      "name_short": "COP",
+      "name": "Combined Opposition Party",
+      "name_english": "Combined Opposition Party",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": 1991,
+      "share": 6.3,
+      "share_year": 1988,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6182,
+      "name_short": "BML",
+      "name": "Bangladesh Muslim League",
+      "name_english": "Bangladesh Muslim League",
+      "name_other": "Bengali: বাংলাদেশ মুসলিম লীগ",
+      "year_first": 1980,
+      "year_last": 1982,
+      "share": 6,
+      "share_year": 1979,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bangladesh_Muslim_League",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3781,
+      "name_short": "NAP",
+      "name": "Bangladesh National Awami Party - Bangladesh NAP",
+      "name_english": "National Awami Party (Bhashani)",
+      "name_other": "",
+      "year_first": 1973,
+      "year_last": 2008,
+      "share": 5.3,
+      "share_year": 1973,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bangladeshi_general_election,_1973",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2340,
+      "name_short": "JEB",
+      "name": "Bangladesh Jamaat-e-Islami",
+      "name_english": "Islam Conference Bangladesh",
+      "name_other": "Bengali: বাংলাদেশ জামায়াতে ইসলামী",
+      "year_first": 1941,
+      "year_last": "",
+      "share": 4.7,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jamaat-e-Islami_Bangladesh",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7519,
+      "name_short": "WPB",
+      "name": "Workers Party of Bangladesh",
+      "name_english": "Workers Party of Bangladesh",
+      "name_other": "Bengali: বাংলাদেশের ওয়ার্কার্স পার্টি",
+      "year_first": 1980,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Workers_Party_of_Bangladesh",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7517,
+      "name_short": "GF",
+      "name": "Gano Forum",
+      "name_english": "People's Forum",
+      "name_other": "Bengali: গণফোরাম",
+      "year_first": 1992,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gano_Forum",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7673,
+      "name_short": "JP",
+      "name": "Jatiya Party (Manju)",
+      "name_english": "Jatiya Party (Manju)",
+      "name_other": "",
+      "year_first": 1999,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jatiya_Party_(Manju)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6300,
+      "name_short": "OIJ",
+      "name": "Islami Oikko Joţ",
+      "name_english": "Islamic Unity Front",
+      "name_other": "",
+      "year_first": 2001,
+      "year_last": 2001,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Islami_Oikya_Jote",
+      "description": "leader support 2001-06 Khaleda Zia [BJD/Jammat/JP/OIJ] –  see CHISOLS",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7516,
+      "name_short": "BDB",
+      "name": "Bikalpa Dhara Bangladesh",
+      "name_english": "Alternative for Bangladesh",
+      "name_other": "বিকল্প ধারা বাংলাদেশ",
+      "year_first": 2004,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bikalpa_Dhara_Bangladesh",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7515,
+      "name_short": "BTF",
+      "name": "Bangladesh Tarikat Federation",
+      "name_english": "Bangladesh Tarikat Federation",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bangladesh_Tarikat_Federation",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7759,
+      "name_short": "GA",
+      "name": "Grand Alliance",
+      "name_english": "Grand Alliance",
+      "name_other": "Bengali: মহাজোট",
+      "year_first": 2008,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Grand_Alliance_(Bangladesh)#Members",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7760,
+      "name_short": "BNF",
+      "name": "Bangladesh Nationalist Front",
+      "name_english": "Bangladesh Nationalist Front",
+      "name_other": "",
+      "year_first": 2012,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bangladesh_Nationalist_Front",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Bangladesh — Political Parties - Free Download",
+    "description": "Political parties of Bangladesh from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bangladesh — Political Parties | ListBase",
+    "seo_description": "Download Bangladesh — Political Parties dataset with 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

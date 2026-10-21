@@ -1,0 +1,772 @@
+{
+  "id": "it-football-clubs",
+  "name": "Italy — Football Clubs",
+  "title": "Italy — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Italy's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Cagliari",
+      "matches_played": 673,
+      "seasons_count": 18,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a-1998-1999, serie-a-1999-2000, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, serie-a-2011-2012, serie-a-20…"
+    },
+    {
+      "name": "Bari",
+      "matches_played": 671,
+      "seasons_count": 17,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a-1998-1999, serie-a-1999-2000, serie-a-2009-2010, serie-a-2010-2011, serie-b, serie-b-2001-2002, serie-b-2002-2003, serie-b-2003-2004, serie-b-2004-2005, serie-b-2005-2006, serie-b-2006-2007, s…"
+    },
+    {
+      "name": "Sampdoria",
+      "matches_played": 668,
+      "seasons_count": 18,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1998-1999, serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, serie-a-2012-2013, s…"
+    },
+    {
+      "name": "Empoli",
+      "matches_played": 654,
+      "seasons_count": 17,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1998-1999, serie-a-2003-2004, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2014-2015, serie-b-1999-2000, serie-b-2000-2001, serie-b-2001-2002, serie-b-2004-2005, s…"
+    },
+    {
+      "name": "Genoa",
+      "matches_played": 650,
+      "seasons_count": 17,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, serie-a-2011-2012, serie-a-2012-2013, serie-a-2013-2014, serie-a-2014-2015, serie-b-1998-1999, serie-b-1999-2000, s…"
+    },
+    {
+      "name": "Vicenza",
+      "matches_played": 641,
+      "seasons_count": 16,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a-1998-1999, serie-b, serie-b-1999-2000, serie-b-2001-2002, serie-b-2002-2003, serie-b-2003-2004, serie-b-2004-2005, serie-b-2005-2006, serie-b-2006-2007, serie-b-2007-2008, serie-b-2008-2009, s…"
+    },
+    {
+      "name": "Torino",
+      "matches_played": 620,
+      "seasons_count": 16,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1999-2000, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2012-2013, serie-a-2013-2014, serie-a-2014-2015, serie-b-1998-1999, serie-b-2000-2001, serie-b-2003-2004, s…"
+    },
+    {
+      "name": "Chievo",
+      "matches_played": 596,
+      "seasons_count": 16,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, serie-a-2011-2012, serie-a-2012-2013, serie-a-2013-2014, s…"
+    },
+    {
+      "name": "Brescia",
+      "matches_played": 591,
+      "seasons_count": 15,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a-2003-2004, serie-a-2004-2005, serie-a-2010-2011, serie-b, serie-b-1998-1999, serie-b-1999-2000, serie-b-2005-2006, serie-b-2006-2007, serie-b-2007-2008, serie-b-2008-2009, serie-b-2009-2010, s…"
+    },
+    {
+      "name": "Atalanta",
+      "matches_played": 574,
+      "seasons_count": 15,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-2004-2005, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2011-2012, serie-a-2012-2013, serie-a-2013-2014, serie-a-2014-2015, serie-b-1998-1999, s…"
+    },
+    {
+      "name": "Napoli",
+      "matches_played": 570,
+      "seasons_count": 15,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, serie-a-2011-2012, serie-a-2012-2013, serie-a-2013-2014, serie-a-2014-2015, serie-b-1998-1999, serie-b-1999-2000, s…"
+    },
+    {
+      "name": "Palermo",
+      "matches_played": 570,
+      "seasons_count": 15,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2001,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, serie-a-2011-2012, serie-a-2012-2013, serie-a-2014-2015, s…"
+    },
+    {
+      "name": "Bologna",
+      "matches_played": 562,
+      "seasons_count": 15,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1998-1999, serie-a-1999-2000, serie-a-2003-2004, serie-a-2004-2005, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, serie-a-2011-2012, serie-a-2012-2013, serie-a-2013-2014, s…"
+    },
+    {
+      "name": "Modena",
+      "matches_played": 561,
+      "seasons_count": 14,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2001,
+      "last_season_year": 2014,
+      "seasons": "serie-a-2003-2004, serie-b, serie-b-2001-2002, serie-b-2004-2005, serie-b-2005-2006, serie-b-2006-2007, serie-b-2007-2008, serie-b-2008-2009, serie-b-2009-2010, serie-b-2010-2011, serie-b-2011-2012, s…"
+    },
+    {
+      "name": "Fiorentina",
+      "matches_played": 558,
+      "seasons_count": 15,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1998-1999, serie-a-1999-2000, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, serie-a-2011-2012, s…"
+    },
+    {
+      "name": "Juventus",
+      "matches_played": 550,
+      "seasons_count": 15,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1998-1999, serie-a-1999-2000, serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, serie-a-2011-2012, s…"
+    },
+    {
+      "name": "Livorno",
+      "matches_played": 549,
+      "seasons_count": 14,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2002,
+      "last_season_year": 2014,
+      "seasons": "serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2009-2010, serie-a-2013-2014, serie-b, serie-b-2002-2003, serie-b-2003-2004, serie-b-2008-2009, serie-b-2010-2011, s…"
+    },
+    {
+      "name": "ACMilan",
+      "matches_played": 546,
+      "seasons_count": 15,
+      "leagues": "serie-a",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1998-1999, serie-a-1999-2000, serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, s…"
+    },
+    {
+      "name": "ASRoma",
+      "matches_played": 546,
+      "seasons_count": 15,
+      "leagues": "serie-a",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1998-1999, serie-a-1999-2000, serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, s…"
+    },
+    {
+      "name": "Inter",
+      "matches_played": 546,
+      "seasons_count": 15,
+      "leagues": "serie-a",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1998-1999, serie-a-1999-2000, serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, s…"
+    },
+    {
+      "name": "Lazio",
+      "matches_played": 546,
+      "seasons_count": 15,
+      "leagues": "serie-a",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1998-1999, serie-a-1999-2000, serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, s…"
+    },
+    {
+      "name": "Udinese",
+      "matches_played": 546,
+      "seasons_count": 15,
+      "leagues": "serie-a",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1998-1999, serie-a-1999-2000, serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, s…"
+    },
+    {
+      "name": "ReggioCalabria",
+      "matches_played": 544,
+      "seasons_count": 14,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "serie-a-1999-2000, serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-b-1998-1999, serie-b-2001-2002, serie-b-2009-2010, serie-b-20…"
+    },
+    {
+      "name": "Siena",
+      "matches_played": 536,
+      "seasons_count": 14,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2000,
+      "last_season_year": 2013,
+      "seasons": "serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2011-2012, serie-a-2012-2013, serie-b-2000-2001, serie-b-20…"
+    },
+    {
+      "name": "Parma",
+      "matches_played": 524,
+      "seasons_count": 14,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a-1998-1999, serie-a-1999-2000, serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-a-2007-2008, serie-a-2009-2010, serie-a-2010-2011, serie-a-2011-2012, serie-a-20…"
+    },
+    {
+      "name": "Pescara",
+      "matches_played": 519,
+      "seasons_count": 13,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a-2012-2013, serie-b, serie-b-1998-1999, serie-b-1999-2000, serie-b-2000-2001, serie-b-2003-2004, serie-b-2004-2005, serie-b-2005-2006, serie-b-2006-2007, serie-b-2010-2011, serie-b-2011-2012, s…"
+    },
+    {
+      "name": "Catania",
+      "matches_played": 514,
+      "seasons_count": 13,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2002,
+      "last_season_year": 2014,
+      "seasons": "serie-a-2006-2007, serie-a-2007-2008, serie-a-2008-2009, serie-a-2009-2010, serie-a-2010-2011, serie-a-2011-2012, serie-a-2012-2013, serie-a-2013-2014, serie-b-2002-2003, serie-b-2003-2004, serie-b-20…"
+    },
+    {
+      "name": "Cesena",
+      "matches_played": 511,
+      "seasons_count": 13,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a-2010-2011, serie-a-2011-2012, serie-a-2014-2015, serie-b, serie-b-1998-1999, serie-b-1999-2000, serie-b-2004-2005, serie-b-2005-2006, serie-b-2006-2007, serie-b-2007-2008, serie-b-2009-2010, s…"
+    },
+    {
+      "name": "Ascoli",
+      "matches_played": 481,
+      "seasons_count": 12,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2002,
+      "last_season_year": 2012,
+      "seasons": "serie-a-2005-2006, serie-a-2006-2007, serie-b, serie-b-2002-2003, serie-b-2003-2004, serie-b-2004-2005, serie-b-2007-2008, serie-b-2008-2009, serie-b-2009-2010, serie-b-2010-2011, serie-b-2011-2012, s…"
+    },
+    {
+      "name": "Crotone",
+      "matches_played": 481,
+      "seasons_count": 12,
+      "leagues": "serie-b",
+      "first_season_year": 2000,
+      "last_season_year": 2014,
+      "seasons": "serie-b, serie-b-2000-2001, serie-b-2001-2002, serie-b-2004-2005, serie-b-2005-2006, serie-b-2006-2007, serie-b-2009-2010, serie-b-2010-2011, serie-b-2011-2012, serie-b-2012-2013, serie-b-2013-2014, s…"
+    },
+    {
+      "name": "Ternana",
+      "matches_played": 473,
+      "seasons_count": 12,
+      "leagues": "serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-b, serie-b-1998-1999, serie-b-1999-2000, serie-b-2000-2001, serie-b-2001-2002, serie-b-2002-2003, serie-b-2003-2004, serie-b-2004-2005, serie-b-2005-2006, serie-b-2012-2013, serie-b-2013-2014, s…"
+    },
+    {
+      "name": "Verona",
+      "matches_played": 468,
+      "seasons_count": 12,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-1999-2000, serie-a-2013-2014, serie-a-2014-2015, serie-b-1998-1999, serie-b-2002-2003, serie-b-2003-2004, serie-b-2004-2005, serie-b-2005-2006, serie-b-2006-2007, serie-b-2011-2012, s…"
+    },
+    {
+      "name": "Lecce",
+      "matches_played": 460,
+      "seasons_count": 12,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2011,
+      "seasons": "serie-a-1999-2000, serie-a-2003-2004, serie-a-2004-2005, serie-a-2005-2006, serie-a-2008-2009, serie-a-2010-2011, serie-a-2011-2012, serie-b-1998-1999, serie-b-2002-2003, serie-b-2006-2007, serie-b-20…"
+    },
+    {
+      "name": "Piacenza",
+      "matches_played": 446,
+      "seasons_count": 11,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2010,
+      "seasons": "serie-a-1998-1999, serie-a-1999-2000, serie-b-2000-2001, serie-b-2003-2004, serie-b-2004-2005, serie-b-2005-2006, serie-b-2006-2007, serie-b-2007-2008, serie-b-2008-2009, serie-b-2009-2010, serie-b-20…"
+    },
+    {
+      "name": "Salernitana",
+      "matches_played": 385,
+      "seasons_count": 10,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2009,
+      "seasons": "serie-a-1998-1999, serie-b, serie-b-1999-2000, serie-b-2000-2001, serie-b-2001-2002, serie-b-2002-2003, serie-b-2003-2004, serie-b-2004-2005, serie-b-2008-2009, serie-b-2009-2010"
+    },
+    {
+      "name": "AlbinoLeffe",
+      "matches_played": 382,
+      "seasons_count": 9,
+      "leagues": "serie-b",
+      "first_season_year": 2003,
+      "last_season_year": 2011,
+      "seasons": "serie-b-2003-2004, serie-b-2004-2005, serie-b-2005-2006, serie-b-2006-2007, serie-b-2007-2008, serie-b-2008-2009, serie-b-2009-2010, serie-b-2010-2011, serie-b-2011-2012"
+    },
+    {
+      "name": "Triestina",
+      "matches_played": 378,
+      "seasons_count": 9,
+      "leagues": "serie-b",
+      "first_season_year": 2002,
+      "last_season_year": 2010,
+      "seasons": "serie-b-2002-2003, serie-b-2003-2004, serie-b-2004-2005, serie-b-2005-2006, serie-b-2006-2007, serie-b-2007-2008, serie-b-2008-2009, serie-b-2009-2010, serie-b-2010-2011"
+    },
+    {
+      "name": "Cittadella",
+      "matches_played": 370,
+      "seasons_count": 9,
+      "leagues": "serie-b",
+      "first_season_year": 2000,
+      "last_season_year": 2014,
+      "seasons": "serie-b-2000-2001, serie-b-2001-2002, serie-b-2008-2009, serie-b-2009-2010, serie-b-2010-2011, serie-b-2011-2012, serie-b-2012-2013, serie-b-2013-2014, serie-b-2014-2015"
+    },
+    {
+      "name": "Treviso",
+      "matches_played": 366,
+      "seasons_count": 9,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2008,
+      "seasons": "serie-a-2005-2006, serie-b-1998-1999, serie-b-1999-2000, serie-b-2000-2001, serie-b-2003-2004, serie-b-2004-2005, serie-b-2006-2007, serie-b-2007-2008, serie-b-2008-2009"
+    },
+    {
+      "name": "Sassuolo",
+      "matches_played": 312,
+      "seasons_count": 8,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2008,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-a-2013-2014, serie-a-2014-2015, serie-b-2008-2009, serie-b-2009-2010, serie-b-2010-2011, serie-b-2011-2012, serie-b-2012-2013"
+    },
+    {
+      "name": "Avellino",
+      "matches_played": 283,
+      "seasons_count": 7,
+      "leagues": "serie-b",
+      "first_season_year": 2003,
+      "last_season_year": 2014,
+      "seasons": "serie-b, serie-b-2003-2004, serie-b-2005-2006, serie-b-2007-2008, serie-b-2008-2009, serie-b-2013-2014, serie-b-2014-2015"
+    },
+    {
+      "name": "Frosinone",
+      "matches_played": 278,
+      "seasons_count": 7,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2006,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-b-2006-2007, serie-b-2007-2008, serie-b-2008-2009, serie-b-2009-2010, serie-b-2010-2011, serie-b-2014-2015"
+    },
+    {
+      "name": "Messina",
+      "matches_played": 278,
+      "seasons_count": 7,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2001,
+      "last_season_year": 2007,
+      "seasons": "serie-a-2004-2005, serie-a-2005-2006, serie-a-2006-2007, serie-b-2001-2002, serie-b-2002-2003, serie-b-2003-2004, serie-b-2007-2008"
+    },
+    {
+      "name": "Grosseto",
+      "matches_played": 252,
+      "seasons_count": 6,
+      "leagues": "serie-b",
+      "first_season_year": 2007,
+      "last_season_year": 2012,
+      "seasons": "serie-b-2007-2008, serie-b-2008-2009, serie-b-2009-2010, serie-b-2010-2011, serie-b-2011-2012, serie-b-2012-2013"
+    },
+    {
+      "name": "Spezia",
+      "matches_played": 237,
+      "seasons_count": 6,
+      "leagues": "serie-b",
+      "first_season_year": 2006,
+      "last_season_year": 2014,
+      "seasons": "serie-b, serie-b-2006-2007, serie-b-2007-2008, serie-b-2012-2013, serie-b-2013-2014, serie-b-2014-2015"
+    },
+    {
+      "name": "Ancona",
+      "matches_played": 232,
+      "seasons_count": 6,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2000,
+      "last_season_year": 2009,
+      "seasons": "serie-a-2003-2004, serie-b-2000-2001, serie-b-2001-2002, serie-b-2002-2003, serie-b-2008-2009, serie-b-2009-2010"
+    },
+    {
+      "name": "Venezia",
+      "matches_played": 232,
+      "seasons_count": 6,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2004,
+      "seasons": "serie-a-1998-1999, serie-a-1999-2000, serie-b-2000-2001, serie-b-2002-2003, serie-b-2003-2004, serie-b-2004-2005"
+    },
+    {
+      "name": "Perugia",
+      "matches_played": 213,
+      "seasons_count": 6,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "serie-a-1998-1999, serie-a-1999-2000, serie-a-2003-2004, serie-b, serie-b-2004-2005, serie-b-2014-2015"
+    },
+    {
+      "name": "Mantova",
+      "matches_played": 210,
+      "seasons_count": 5,
+      "leagues": "serie-b",
+      "first_season_year": 2005,
+      "last_season_year": 2009,
+      "seasons": "serie-b-2005-2006, serie-b-2006-2007, serie-b-2007-2008, serie-b-2008-2009, serie-b-2009-2010"
+    },
+    {
+      "name": "Padova",
+      "matches_played": 210,
+      "seasons_count": 5,
+      "leagues": "serie-b",
+      "first_season_year": 2009,
+      "last_season_year": 2013,
+      "seasons": "serie-b-2009-2010, serie-b-2010-2011, serie-b-2011-2012, serie-b-2012-2013, serie-b-2013-2014"
+    },
+    {
+      "name": "Varese",
+      "matches_played": 210,
+      "seasons_count": 5,
+      "leagues": "serie-b",
+      "first_season_year": 2010,
+      "last_season_year": 2014,
+      "seasons": "serie-b-2010-2011, serie-b-2011-2012, serie-b-2012-2013, serie-b-2013-2014, serie-b-2014-2015"
+    },
+    {
+      "name": "Novara",
+      "matches_played": 191,
+      "seasons_count": 5,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2010,
+      "last_season_year": 2013,
+      "seasons": "serie-a-2011-2012, serie-b, serie-b-2010-2011, serie-b-2012-2013, serie-b-2013-2014"
+    },
+    {
+      "name": "Cosenza",
+      "matches_played": 190,
+      "seasons_count": 5,
+      "leagues": "serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2002,
+      "seasons": "serie-b-1998-1999, serie-b-1999-2000, serie-b-2000-2001, serie-b-2001-2002, serie-b-2002-2003"
+    },
+    {
+      "name": "Rimini",
+      "matches_played": 168,
+      "seasons_count": 4,
+      "leagues": "serie-b",
+      "first_season_year": 2005,
+      "last_season_year": 2008,
+      "seasons": "serie-b-2005-2006, serie-b-2006-2007, serie-b-2007-2008, serie-b-2008-2009"
+    },
+    {
+      "name": "Ravenna",
+      "matches_played": 156,
+      "seasons_count": 4,
+      "leagues": "serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2007,
+      "seasons": "serie-b-1998-1999, serie-b-1999-2000, serie-b-2000-2001, serie-b-2007-2008"
+    },
+    {
+      "name": "Lanciano",
+      "matches_played": 153,
+      "seasons_count": 4,
+      "leagues": "serie-b",
+      "first_season_year": 2012,
+      "last_season_year": 2014,
+      "seasons": "serie-b, serie-b-2012-2013, serie-b-2013-2014, serie-b-2014-2015"
+    },
+    {
+      "name": "Arezzo",
+      "matches_played": 126,
+      "seasons_count": 3,
+      "leagues": "serie-b",
+      "first_season_year": 2004,
+      "last_season_year": 2006,
+      "seasons": "serie-b-2004-2005, serie-b-2005-2006, serie-b-2006-2007"
+    },
+    {
+      "name": "JuveStabia",
+      "matches_played": 126,
+      "seasons_count": 3,
+      "leagues": "serie-b",
+      "first_season_year": 2011,
+      "last_season_year": 2013,
+      "seasons": "serie-b-2011-2012, serie-b-2012-2013, serie-b-2013-2014"
+    },
+    {
+      "name": "Monza",
+      "matches_played": 114,
+      "seasons_count": 3,
+      "leagues": "serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2000,
+      "seasons": "serie-b-1998-1999, serie-b-1999-2000, serie-b-2000-2001"
+    },
+    {
+      "name": "Pistoiese",
+      "matches_played": 114,
+      "seasons_count": 3,
+      "leagues": "serie-b",
+      "first_season_year": 1999,
+      "last_season_year": 2001,
+      "seasons": "serie-b-1999-2000, serie-b-2000-2001, serie-b-2001-2002"
+    },
+    {
+      "name": "Como",
+      "matches_played": 111,
+      "seasons_count": 3,
+      "leagues": "serie-b",
+      "first_season_year": 2001,
+      "last_season_year": 2003,
+      "seasons": "serie-b, serie-b-2001-2002, serie-b-2003-2004"
+    },
+    {
+      "name": "Latina",
+      "matches_played": 111,
+      "seasons_count": 3,
+      "leagues": "serie-b",
+      "first_season_year": 2013,
+      "last_season_year": 2014,
+      "seasons": "serie-b, serie-b-2013-2014, serie-b-2014-2015"
+    },
+    {
+      "name": "ProVercelli",
+      "matches_played": 111,
+      "seasons_count": 3,
+      "leagues": "serie-b",
+      "first_season_year": 2012,
+      "last_season_year": 2014,
+      "seasons": "serie-b, serie-b-2012-2013, serie-b-2014-2015"
+    },
+    {
+      "name": "Trapani",
+      "matches_played": 111,
+      "seasons_count": 3,
+      "leagues": "serie-b",
+      "first_season_year": 2013,
+      "last_season_year": 2014,
+      "seasons": "serie-b, serie-b-2013-2014, serie-b-2014-2015"
+    },
+    {
+      "name": "Carpi",
+      "matches_played": 110,
+      "seasons_count": 3,
+      "leagues": "serie-a, serie-b",
+      "first_season_year": 2013,
+      "last_season_year": 2014,
+      "seasons": "serie-a, serie-b-2013-2014, serie-b-2014-2015"
+    },
+    {
+      "name": "Catanzaro",
+      "matches_played": 84,
+      "seasons_count": 2,
+      "leagues": "serie-b",
+      "first_season_year": 2004,
+      "last_season_year": 2005,
+      "seasons": "serie-b-2004-2005, serie-b-2005-2006"
+    },
+    {
+      "name": "Pisa",
+      "matches_played": 84,
+      "seasons_count": 2,
+      "leagues": "serie-b",
+      "first_season_year": 2007,
+      "last_season_year": 2008,
+      "seasons": "serie-b-2007-2008, serie-b-2008-2009"
+    },
+    {
+      "name": "Cremonese",
+      "matches_played": 80,
+      "seasons_count": 2,
+      "leagues": "serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 2005,
+      "seasons": "serie-b-1998-1999, serie-b-2005-2006"
+    },
+    {
+      "name": "Entella",
+      "matches_played": 69,
+      "seasons_count": 2,
+      "leagues": "serie-b",
+      "first_season_year": 2014,
+      "last_season_year": 2014,
+      "seasons": "serie-b, serie-b-2014-2015"
+    },
+    {
+      "name": "Gallipoli",
+      "matches_played": 42,
+      "seasons_count": 1,
+      "leagues": "serie-b",
+      "first_season_year": 2009,
+      "last_season_year": 2009,
+      "seasons": "serie-b-2009-2010"
+    },
+    {
+      "name": "Gubbio",
+      "matches_played": 42,
+      "seasons_count": 1,
+      "leagues": "serie-b",
+      "first_season_year": 2011,
+      "last_season_year": 2011,
+      "seasons": "serie-b-2011-2012"
+    },
+    {
+      "name": "Nocerina",
+      "matches_played": 42,
+      "seasons_count": 1,
+      "leagues": "serie-b",
+      "first_season_year": 2011,
+      "last_season_year": 2011,
+      "seasons": "serie-b-2011-2012"
+    },
+    {
+      "name": "Portogruaro",
+      "matches_played": 42,
+      "seasons_count": 1,
+      "leagues": "serie-b",
+      "first_season_year": 2010,
+      "last_season_year": 2010,
+      "seasons": "serie-b-2010-2011"
+    },
+    {
+      "name": "AlzanoCene",
+      "matches_played": 38,
+      "seasons_count": 1,
+      "leagues": "serie-b",
+      "first_season_year": 1999,
+      "last_season_year": 1999,
+      "seasons": "serie-b-1999-2000"
+    },
+    {
+      "name": "Andria",
+      "matches_played": 38,
+      "seasons_count": 1,
+      "leagues": "serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "serie-b-1998-1999"
+    },
+    {
+      "name": "Fermana",
+      "matches_played": 38,
+      "seasons_count": 1,
+      "leagues": "serie-b",
+      "first_season_year": 1999,
+      "last_season_year": 1999,
+      "seasons": "serie-b-1999-2000"
+    },
+    {
+      "name": "Lucchese",
+      "matches_played": 38,
+      "seasons_count": 1,
+      "leagues": "serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "serie-b-1998-1999"
+    },
+    {
+      "name": "Reggiana",
+      "matches_played": 38,
+      "seasons_count": 1,
+      "leagues": "serie-b",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "serie-b-1998-1999"
+    },
+    {
+      "name": "Savoia",
+      "matches_played": 38,
+      "seasons_count": 1,
+      "leagues": "serie-b",
+      "first_season_year": 1999,
+      "last_season_year": 1999,
+      "seasons": "serie-b-1999-2000"
+    }
+  ],
+  "meta": {
+    "title": "Italy — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Italy's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Italy — Football Clubs | ListBase",
+    "seo_description": "Download Italy — Football Clubs dataset with 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

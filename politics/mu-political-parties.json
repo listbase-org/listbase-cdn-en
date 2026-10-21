@@ -1,0 +1,391 @@
+{
+  "id": "mu-political-parties",
+  "name": "Mauritius — Political Parties",
+  "title": "Mauritius — Political Parties",
+  "description": "Political parties of Mauritius from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6410,
+      "name_short": "PSM",
+      "name": "Parti Socialiste Mauricien",
+      "name_english": "Mauritian Socialist Party",
+      "name_other": "",
+      "year_first": 1982,
+      "year_last": 1982,
+      "share": 63,
+      "share_year": 1982,
+      "wikipedia": "",
+      "description": "63% vote share in 1982 in alliance with Mauritian Militant Movement",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2320,
+      "name_short": "PT",
+      "name": "Parti Travailliste",
+      "name_english": "Labour Party",
+      "name_other": "",
+      "year_first": 1936,
+      "year_last": "",
+      "share": 60,
+      "share_year": 1983,
+      "wikipedia": "https://en.wikipedia.org/wiki/Labour_Party_%28Mauritius%29",
+      "description": "member of 5375",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7143,
+      "name_short": "MR",
+      "name": "Mouvement Républicain",
+      "name_english": "Republican Movement",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 60,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Republican_Movement_(Mauritius)",
+      "description": "2005 in alliance Alliance Sociale",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7144,
+      "name_short": "MMSM",
+      "name": "Mouvement Militant Socialiste Mauricien",
+      "name_english": "Mauritian Militant Socialist Movement",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": 2008,
+      "share": 60,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mauritian_Militant_Socialist_Movement",
+      "description": "2005 in alliance Alliance Sociale",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2460,
+      "name_short": "MMM",
+      "name": "Mouvement Militant Mauricien",
+      "name_english": "Mauritian Militant Movement",
+      "name_other": "",
+      "year_first": 1969,
+      "year_last": "",
+      "share": 46,
+      "share_year": 1983,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mauritian_Militant_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3800,
+      "name_short": "PMSD",
+      "name": "Parti Mauricien Social Democrate",
+      "name_english": "Mauritian Social Democrat Party",
+      "name_other": "",
+      "year_first": 1955,
+      "year_last": "",
+      "share": 43.2,
+      "share_year": 1967,
+      "wikipedia": "https://en.wikipedia.org/wiki/Parti_Mauricien_Social_D%C3%A9mocrate",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3798,
+      "name_short": "MSM",
+      "name": "Mouvement Socialiste Militant",
+      "name_english": "Militiant Socialist Movement",
+      "name_other": "",
+      "year_first": 1983,
+      "year_last": "",
+      "share": 42.1,
+      "share_year": 1983,
+      "wikipedia": "https://en.wikipedia.org/wiki/Militant_Socialist_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5375,
+      "name_short": "IP",
+      "name": "Independence Party",
+      "name_english": "Independence Party",
+      "name_other": "",
+      "year_first": 1968,
+      "year_last": 1983,
+      "share": 40,
+      "share_year": 1976,
+      "wikipedia": "",
+      "description": "consists of 2320 6599 5702",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6599,
+      "name_short": "IFB",
+      "name": "Independent Forward Bloc",
+      "name_english": "Independent Forward Bloc",
+      "name_other": "",
+      "year_first": 1959,
+      "year_last": 1967,
+      "share": 17.5,
+      "share_year": 1963,
+      "wikipedia": "",
+      "description": "member of 5375",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2461,
+      "name_short": "PMXD",
+      "name": "Parti Mauricien Xavier-Luc Duval",
+      "name_english": "Mauritian Party of Xavier-Luc Duval",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": "",
+      "share": 11.4,
+      "share_year": 2001,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mauritian_Party_of_Xavier-Luc_Duval",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5702,
+      "name_short": "MCA",
+      "name": "Muslim Committee of Action",
+      "name_english": "Muslim Committee of Action",
+      "name_other": "",
+      "year_first": 1968,
+      "year_last": 1976,
+      "share": 7.1,
+      "share_year": 1967,
+      "wikipedia": "",
+      "description": "member of 5375",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7300,
+      "name_short": "RM",
+      "name": "Ralliement Mauricien",
+      "name_english": "Mauritian Rallye",
+      "name_other": "",
+      "year_first": 1953,
+      "year_last": 1953,
+      "share": 6.5,
+      "share_year": 1953,
+      "wikipedia": "",
+      "description": "2 of 31 seats in 1953 Mauritian general election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3801,
+      "name_short": "PaGaDu",
+      "name": "Parti Gaetan Duval",
+      "name_english": "Gaetan Duval Party",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": 1995,
+      "share": 6.3,
+      "share_year": 1995,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mauritian_general_election,_1995",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2463,
+      "name_short": "OPR",
+      "name": "Organisation du Peuple Rodriguais",
+      "name_english": "Organisation of the People of Rodrigues",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": "",
+      "share": 5.7,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rodrigues_People%27s_Organisation",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2464,
+      "name_short": "MR",
+      "name": "Mouvement Rodriguais",
+      "name_english": "Rodrigues Movement",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": "",
+      "share": 5.6,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rodrigues_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3799,
+      "name_short": "Hi",
+      "name": "Hizbullah",
+      "name_english": "Party of God",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": 2000,
+      "share": 3.3,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mauritian_Solidarity_Front",
+      "description": "",
+      "comment": "predecessor of Mauritian Solidarity Front (FSM)",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6456,
+      "name_short": "MTD",
+      "name": "Mouvement des Travaillistes Democrates",
+      "name_english": "Democratic Labour Movement",
+      "name_other": "",
+      "year_first": 1982,
+      "year_last": 1991,
+      "share": 3,
+      "share_year": 1991,
+      "wikipedia": "",
+      "description": "participated 1987 in the union coalition",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4043,
+      "name_short": "MDN-RD",
+      "name": "Mouvement Démocratique National Raj Dayal",
+      "name_english": "National Democratic Movement Raj Dayal",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": 2005,
+      "share": 3,
+      "share_year": 2000,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5415,
+      "name_short": "H/FSM",
+      "name": "Hizbullah / Front Solidarité Mauricienne",
+      "name_english": "Party of God / Mauritian Solidarity Front",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 2,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mauritian_Solidarity_Front",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6457,
+      "name_short": "Verts",
+      "name": "Les Verts Fraternels",
+      "name_english": "The Greens",
+      "name_other": "",
+      "year_first": 2002,
+      "year_last": "",
+      "share": 0.5,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/Les_Verts_Fraternels",
+      "description": "part of Alliance Sociale, which won 42 of 70 seats in the election 2005",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Mauritius — Political Parties - Free Download",
+    "description": "Political parties of Mauritius from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mauritius — Political Parties | ListBase",
+    "seo_description": "Download Mauritius — Political Parties dataset with 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

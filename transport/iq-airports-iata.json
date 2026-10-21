@@ -1,0 +1,271 @@
+{
+  "id": "iq-airports-iata",
+  "name": "Iraq — IATA Airports",
+  "title": "Iraq — IATA Airports",
+  "description": "Airports with IATA codes in Iraq: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BGW",
+      "icao_code": "ORBI",
+      "name": "Baghdad International Airport",
+      "city_name_list": "Baghdad",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Baghdad",
+      "latitude": 33.2585,
+      "longitude": 44.23285,
+      "elevation": 35,
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Baghdad_International_Airport"
+    },
+    {
+      "iata_code": "BMN",
+      "icao_code": "",
+      "name": "Bamarni",
+      "city_name_list": "Bamarni",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Duhok",
+      "latitude": 37.1,
+      "longitude": 43.27,
+      "elevation": "",
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bamarni_Base"
+    },
+    {
+      "iata_code": "BSR",
+      "icao_code": "ORMM",
+      "name": "Basra International Airport",
+      "city_name_list": "Basrah",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Basra",
+      "latitude": 30.55218,
+      "longitude": 47.66386,
+      "elevation": "",
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Basra_International_Airport"
+    },
+    {
+      "iata_code": "EBL",
+      "icao_code": "ORER",
+      "name": "Erbil International Airport",
+      "city_name_list": "Erbil",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Erbil",
+      "latitude": 36.23,
+      "longitude": 43.97,
+      "elevation": "",
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Erbil_International_Airport"
+    },
+    {
+      "iata_code": "IQA",
+      "icao_code": "ORAA",
+      "name": "Al Asad Airbase",
+      "city_name_list": "Al Asad Airbase",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Anbar",
+      "latitude": 33.7856,
+      "longitude": 42.4411,
+      "elevation": 188,
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Al_Asad_Airbase"
+    },
+    {
+      "iata_code": "ISU",
+      "icao_code": "ORSU",
+      "name": "Sulaymaniyah International Airport",
+      "city_name_list": "Sulaymaniyah",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Sulaymaniyah",
+      "latitude": 35.56175,
+      "longitude": 45.31674,
+      "elevation": "",
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sulaimaniyah_International_Airport"
+    },
+    {
+      "iata_code": "KIK",
+      "icao_code": "ORKK",
+      "name": "Kirkuk Air Base",
+      "city_name_list": "Kirkuk",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Kirkuk",
+      "latitude": 35.52,
+      "longitude": 44.3,
+      "elevation": "",
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kirkuk_Air_Base"
+    },
+    {
+      "iata_code": "NJF",
+      "icao_code": "ORNI",
+      "name": "Al Najaf International Airport",
+      "city_name_list": "Najaf",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Najaf",
+      "latitude": 31.99152,
+      "longitude": 44.39622,
+      "elevation": "",
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Al_Najaf_International_Airport"
+    },
+    {
+      "iata_code": "OSM",
+      "icao_code": "ORBM",
+      "name": "Mosul International Airport",
+      "city_name_list": "Mosul",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Nineveh",
+      "latitude": 36.30576,
+      "longitude": 43.1474,
+      "elevation": 216,
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mosul_International_Airport"
+    },
+    {
+      "iata_code": "RQW",
+      "icao_code": "ORQW",
+      "name": "Qayyarah West",
+      "city_name_list": "Qayyarah West",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Nineveh",
+      "latitude": 35.7669,
+      "longitude": 43.125,
+      "elevation": "",
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Qayyarah_Airfield_West"
+    },
+    {
+      "iata_code": "SDA",
+      "icao_code": "ORBS",
+      "name": "Baghdad International Airport",
+      "city_name_list": "Baghdad",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Mayorality of Baghdad",
+      "latitude": 33.2585,
+      "longitude": 44.23285,
+      "elevation": 35,
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Baghdad_International_Airport"
+    },
+    {
+      "iata_code": "TQD",
+      "icao_code": "ORAT",
+      "name": "Al Fallujah",
+      "city_name_list": "Al Fallūjah",
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Anbar",
+      "latitude": 33.3381,
+      "longitude": 43.5969,
+      "elevation": "",
+      "timezone": "Asia/Baghdad",
+      "wiki_link": "https://en.wikipedia.org/wiki/Al-Taqaddum_Air_Base"
+    }
+  ],
+  "meta": {
+    "title": "Iraq — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Iraq: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Iraq — IATA Airports | ListBase",
+    "seo_description": "Download Iraq — IATA Airports dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

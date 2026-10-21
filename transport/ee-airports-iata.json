@@ -1,0 +1,166 @@
+{
+  "id": "ee-airports-iata",
+  "name": "Estonia — IATA Airports",
+  "title": "Estonia — IATA Airports",
+  "description": "Airports with IATA codes in Estonia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "EPU",
+      "icao_code": "EEPU",
+      "name": "Pärnu Airport",
+      "city_name_list": "Pärnu",
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Paernumaa",
+      "latitude": 58.41904,
+      "longitude": 24.47282,
+      "elevation": 14,
+      "timezone": "Europe/Tallinn",
+      "wiki_link": "https://en.wikipedia.org/wiki/P%C3%A4rnu_Airport"
+    },
+    {
+      "iata_code": "KDL",
+      "icao_code": "EEKA",
+      "name": "Kärdla Airport",
+      "city_name_list": "Kärdla",
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Hiiumaa",
+      "latitude": 58.99076,
+      "longitude": 22.83073,
+      "elevation": 5,
+      "timezone": "Europe/Tallinn",
+      "wiki_link": "https://en.wikipedia.org/wiki/K%C3%A4rdla_Airport"
+    },
+    {
+      "iata_code": "TAY",
+      "icao_code": "EETU",
+      "name": "Tartu Ülenurme Airport",
+      "city_name_list": "Ülenurme=Tartu",
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Tartu",
+      "latitude": 58.30746,
+      "longitude": 26.69043,
+      "elevation": 66,
+      "timezone": "Europe/Tallinn",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tartu_Airport"
+    },
+    {
+      "iata_code": "TLL",
+      "icao_code": "EETN",
+      "name": "Tallinn Airport",
+      "city_name_list": "Tallinn",
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Harjumaa",
+      "latitude": 59.41651,
+      "longitude": 24.7994,
+      "elevation": 39,
+      "timezone": "Europe/Tallinn",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tallinn_Airport"
+    },
+    {
+      "iata_code": "URE",
+      "icao_code": "EEKE",
+      "name": "Kuressaare Airport",
+      "city_name_list": "Kuressaare",
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Saare",
+      "latitude": 58.229883,
+      "longitude": 22.509494,
+      "elevation": 4,
+      "timezone": "Europe/Tallinn",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kuressaare_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Estonia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Estonia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Estonia — IATA Airports | ListBase",
+    "seo_description": "Download Estonia — IATA Airports dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

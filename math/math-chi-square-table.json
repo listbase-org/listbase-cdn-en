@@ -1,0 +1,491 @@
+{
+  "id": "math-chi-square-table",
+  "name": "Chi-Square Distribution Table for Statistical Analysis",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "degrees_of_freedom",
+      "label": "Degrees of Freedom (df)",
+      "type": "number"
+    },
+    {
+      "key": "chi2_p995",
+      "label": "χ² (p=0.995)",
+      "type": "number"
+    },
+    {
+      "key": "chi2_p990",
+      "label": "χ² (p=0.990)",
+      "type": "number"
+    },
+    {
+      "key": "chi2_p975",
+      "label": "χ² (p=0.975)",
+      "type": "number"
+    },
+    {
+      "key": "chi2_p950",
+      "label": "χ² (p=0.950)",
+      "type": "number"
+    },
+    {
+      "key": "chi2_p050",
+      "label": "χ² (p=0.050)",
+      "type": "number"
+    },
+    {
+      "key": "chi2_p025",
+      "label": "χ² (p=0.025)",
+      "type": "number"
+    },
+    {
+      "key": "chi2_p010",
+      "label": "χ² (p=0.010)",
+      "type": "number"
+    },
+    {
+      "key": "chi2_p005",
+      "label": "χ² (p=0.005)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "degrees_of_freedom": 1,
+      "chi2_p995": 0,
+      "chi2_p990": 0,
+      "chi2_p975": 0.001,
+      "chi2_p950": 0.004,
+      "chi2_p050": 3.841,
+      "chi2_p025": 5.024,
+      "chi2_p010": 6.635,
+      "chi2_p005": 7.879
+    },
+    {
+      "degrees_of_freedom": 2,
+      "chi2_p995": 0.01,
+      "chi2_p990": 0.02,
+      "chi2_p975": 0.051,
+      "chi2_p950": 0.103,
+      "chi2_p050": 5.991,
+      "chi2_p025": 7.378,
+      "chi2_p010": 9.21,
+      "chi2_p005": 10.597
+    },
+    {
+      "degrees_of_freedom": 3,
+      "chi2_p995": 0.072,
+      "chi2_p990": 0.115,
+      "chi2_p975": 0.216,
+      "chi2_p950": 0.352,
+      "chi2_p050": 7.815,
+      "chi2_p025": 9.348,
+      "chi2_p010": 11.345,
+      "chi2_p005": 12.838
+    },
+    {
+      "degrees_of_freedom": 4,
+      "chi2_p995": 0.207,
+      "chi2_p990": 0.297,
+      "chi2_p975": 0.484,
+      "chi2_p950": 0.711,
+      "chi2_p050": 9.488,
+      "chi2_p025": 11.143,
+      "chi2_p010": 13.277,
+      "chi2_p005": 14.86
+    },
+    {
+      "degrees_of_freedom": 5,
+      "chi2_p995": 0.412,
+      "chi2_p990": 0.554,
+      "chi2_p975": 0.831,
+      "chi2_p950": 1.145,
+      "chi2_p050": 11.07,
+      "chi2_p025": 12.833,
+      "chi2_p010": 15.086,
+      "chi2_p005": 16.75
+    },
+    {
+      "degrees_of_freedom": 6,
+      "chi2_p995": 0.676,
+      "chi2_p990": 0.872,
+      "chi2_p975": 1.237,
+      "chi2_p950": 1.635,
+      "chi2_p050": 12.592,
+      "chi2_p025": 14.449,
+      "chi2_p010": 16.812,
+      "chi2_p005": 18.548
+    },
+    {
+      "degrees_of_freedom": 7,
+      "chi2_p995": 0.989,
+      "chi2_p990": 1.239,
+      "chi2_p975": 1.69,
+      "chi2_p950": 2.167,
+      "chi2_p050": 14.067,
+      "chi2_p025": 16.013,
+      "chi2_p010": 18.475,
+      "chi2_p005": 20.278
+    },
+    {
+      "degrees_of_freedom": 8,
+      "chi2_p995": 1.344,
+      "chi2_p990": 1.646,
+      "chi2_p975": 2.18,
+      "chi2_p950": 2.733,
+      "chi2_p050": 15.507,
+      "chi2_p025": 17.535,
+      "chi2_p010": 20.09,
+      "chi2_p005": 21.955
+    },
+    {
+      "degrees_of_freedom": 9,
+      "chi2_p995": 1.735,
+      "chi2_p990": 2.088,
+      "chi2_p975": 2.7,
+      "chi2_p950": 3.325,
+      "chi2_p050": 16.919,
+      "chi2_p025": 19.023,
+      "chi2_p010": 21.666,
+      "chi2_p005": 23.589
+    },
+    {
+      "degrees_of_freedom": 10,
+      "chi2_p995": 2.156,
+      "chi2_p990": 2.558,
+      "chi2_p975": 3.247,
+      "chi2_p950": 3.94,
+      "chi2_p050": 18.307,
+      "chi2_p025": 20.483,
+      "chi2_p010": 23.209,
+      "chi2_p005": 25.188
+    },
+    {
+      "degrees_of_freedom": 11,
+      "chi2_p995": 2.603,
+      "chi2_p990": 3.053,
+      "chi2_p975": 3.816,
+      "chi2_p950": 4.575,
+      "chi2_p050": 19.675,
+      "chi2_p025": 21.92,
+      "chi2_p010": 24.725,
+      "chi2_p005": 26.757
+    },
+    {
+      "degrees_of_freedom": 12,
+      "chi2_p995": 3.074,
+      "chi2_p990": 3.571,
+      "chi2_p975": 4.404,
+      "chi2_p950": 5.226,
+      "chi2_p050": 21.026,
+      "chi2_p025": 23.337,
+      "chi2_p010": 26.217,
+      "chi2_p005": 28.3
+    },
+    {
+      "degrees_of_freedom": 13,
+      "chi2_p995": 3.565,
+      "chi2_p990": 4.107,
+      "chi2_p975": 5.009,
+      "chi2_p950": 5.892,
+      "chi2_p050": 22.362,
+      "chi2_p025": 24.736,
+      "chi2_p010": 27.688,
+      "chi2_p005": 29.819
+    },
+    {
+      "degrees_of_freedom": 14,
+      "chi2_p995": 4.075,
+      "chi2_p990": 4.66,
+      "chi2_p975": 5.629,
+      "chi2_p950": 6.571,
+      "chi2_p050": 23.685,
+      "chi2_p025": 26.119,
+      "chi2_p010": 29.141,
+      "chi2_p005": 31.319
+    },
+    {
+      "degrees_of_freedom": 15,
+      "chi2_p995": 4.601,
+      "chi2_p990": 5.229,
+      "chi2_p975": 6.262,
+      "chi2_p950": 7.261,
+      "chi2_p050": 24.996,
+      "chi2_p025": 27.488,
+      "chi2_p010": 30.578,
+      "chi2_p005": 32.801
+    },
+    {
+      "degrees_of_freedom": 16,
+      "chi2_p995": 5.142,
+      "chi2_p990": 5.812,
+      "chi2_p975": 6.908,
+      "chi2_p950": 7.962,
+      "chi2_p050": 26.296,
+      "chi2_p025": 28.845,
+      "chi2_p010": 32,
+      "chi2_p005": 34.267
+    },
+    {
+      "degrees_of_freedom": 17,
+      "chi2_p995": 5.697,
+      "chi2_p990": 6.408,
+      "chi2_p975": 7.564,
+      "chi2_p950": 8.672,
+      "chi2_p050": 27.587,
+      "chi2_p025": 30.191,
+      "chi2_p010": 33.409,
+      "chi2_p005": 35.718
+    },
+    {
+      "degrees_of_freedom": 18,
+      "chi2_p995": 6.265,
+      "chi2_p990": 7.015,
+      "chi2_p975": 8.231,
+      "chi2_p950": 9.39,
+      "chi2_p050": 28.869,
+      "chi2_p025": 31.526,
+      "chi2_p010": 34.805,
+      "chi2_p005": 37.156
+    },
+    {
+      "degrees_of_freedom": 19,
+      "chi2_p995": 6.844,
+      "chi2_p990": 7.633,
+      "chi2_p975": 8.907,
+      "chi2_p950": 10.117,
+      "chi2_p050": 30.144,
+      "chi2_p025": 32.852,
+      "chi2_p010": 36.191,
+      "chi2_p005": 38.582
+    },
+    {
+      "degrees_of_freedom": 20,
+      "chi2_p995": 7.434,
+      "chi2_p990": 8.26,
+      "chi2_p975": 9.591,
+      "chi2_p950": 10.851,
+      "chi2_p050": 31.41,
+      "chi2_p025": 34.17,
+      "chi2_p010": 37.566,
+      "chi2_p005": 39.997
+    },
+    {
+      "degrees_of_freedom": 21,
+      "chi2_p995": 8.034,
+      "chi2_p990": 8.897,
+      "chi2_p975": 10.283,
+      "chi2_p950": 11.591,
+      "chi2_p050": 32.671,
+      "chi2_p025": 35.479,
+      "chi2_p010": 38.932,
+      "chi2_p005": 41.401
+    },
+    {
+      "degrees_of_freedom": 22,
+      "chi2_p995": 8.643,
+      "chi2_p990": 9.542,
+      "chi2_p975": 10.982,
+      "chi2_p950": 12.338,
+      "chi2_p050": 33.924,
+      "chi2_p025": 36.781,
+      "chi2_p010": 40.289,
+      "chi2_p005": 42.796
+    },
+    {
+      "degrees_of_freedom": 23,
+      "chi2_p995": 9.26,
+      "chi2_p990": 10.196,
+      "chi2_p975": 11.689,
+      "chi2_p950": 13.091,
+      "chi2_p050": 35.172,
+      "chi2_p025": 38.076,
+      "chi2_p010": 41.638,
+      "chi2_p005": 44.181
+    },
+    {
+      "degrees_of_freedom": 24,
+      "chi2_p995": 9.886,
+      "chi2_p990": 10.856,
+      "chi2_p975": 12.401,
+      "chi2_p950": 13.848,
+      "chi2_p050": 36.415,
+      "chi2_p025": 39.364,
+      "chi2_p010": 42.98,
+      "chi2_p005": 45.559
+    },
+    {
+      "degrees_of_freedom": 25,
+      "chi2_p995": 10.52,
+      "chi2_p990": 11.524,
+      "chi2_p975": 13.12,
+      "chi2_p950": 14.611,
+      "chi2_p050": 37.652,
+      "chi2_p025": 40.646,
+      "chi2_p010": 44.314,
+      "chi2_p005": 46.928
+    },
+    {
+      "degrees_of_freedom": 26,
+      "chi2_p995": 11.16,
+      "chi2_p990": 12.198,
+      "chi2_p975": 13.844,
+      "chi2_p950": 15.379,
+      "chi2_p050": 38.885,
+      "chi2_p025": 41.923,
+      "chi2_p010": 45.642,
+      "chi2_p005": 48.29
+    },
+    {
+      "degrees_of_freedom": 27,
+      "chi2_p995": 11.808,
+      "chi2_p990": 12.879,
+      "chi2_p975": 14.573,
+      "chi2_p950": 16.151,
+      "chi2_p050": 40.113,
+      "chi2_p025": 43.195,
+      "chi2_p010": 46.963,
+      "chi2_p005": 49.645
+    },
+    {
+      "degrees_of_freedom": 28,
+      "chi2_p995": 12.461,
+      "chi2_p990": 13.565,
+      "chi2_p975": 15.308,
+      "chi2_p950": 16.928,
+      "chi2_p050": 41.337,
+      "chi2_p025": 44.461,
+      "chi2_p010": 48.278,
+      "chi2_p005": 50.993
+    },
+    {
+      "degrees_of_freedom": 29,
+      "chi2_p995": 13.121,
+      "chi2_p990": 14.256,
+      "chi2_p975": 16.047,
+      "chi2_p950": 17.708,
+      "chi2_p050": 42.557,
+      "chi2_p025": 45.722,
+      "chi2_p010": 49.588,
+      "chi2_p005": 52.336
+    },
+    {
+      "degrees_of_freedom": 30,
+      "chi2_p995": 13.787,
+      "chi2_p990": 14.953,
+      "chi2_p975": 16.791,
+      "chi2_p950": 18.493,
+      "chi2_p050": 43.773,
+      "chi2_p025": 46.979,
+      "chi2_p010": 50.892,
+      "chi2_p005": 53.672
+    },
+    {
+      "degrees_of_freedom": 40,
+      "chi2_p995": 20.707,
+      "chi2_p990": 22.164,
+      "chi2_p975": 24.433,
+      "chi2_p950": 26.509,
+      "chi2_p050": 55.758,
+      "chi2_p025": 59.342,
+      "chi2_p010": 63.691,
+      "chi2_p005": 66.766
+    },
+    {
+      "degrees_of_freedom": 50,
+      "chi2_p995": 27.991,
+      "chi2_p990": 29.707,
+      "chi2_p975": 32.357,
+      "chi2_p950": 34.764,
+      "chi2_p050": 67.505,
+      "chi2_p025": 71.42,
+      "chi2_p010": 76.154,
+      "chi2_p005": 79.49
+    },
+    {
+      "degrees_of_freedom": 60,
+      "chi2_p995": 35.534,
+      "chi2_p990": 37.485,
+      "chi2_p975": 40.482,
+      "chi2_p950": 43.188,
+      "chi2_p050": 79.082,
+      "chi2_p025": 83.298,
+      "chi2_p010": 88.379,
+      "chi2_p005": 91.952
+    },
+    {
+      "degrees_of_freedom": 70,
+      "chi2_p995": 43.275,
+      "chi2_p990": 45.442,
+      "chi2_p975": 48.758,
+      "chi2_p950": 51.739,
+      "chi2_p050": 90.531,
+      "chi2_p025": 95.023,
+      "chi2_p010": 100.425,
+      "chi2_p005": 104.215
+    },
+    {
+      "degrees_of_freedom": 80,
+      "chi2_p995": 51.172,
+      "chi2_p990": 53.54,
+      "chi2_p975": 57.153,
+      "chi2_p950": 60.391,
+      "chi2_p050": 101.879,
+      "chi2_p025": 106.629,
+      "chi2_p010": 112.329,
+      "chi2_p005": 116.321
+    },
+    {
+      "degrees_of_freedom": 90,
+      "chi2_p995": 59.196,
+      "chi2_p990": 61.754,
+      "chi2_p975": 65.647,
+      "chi2_p950": 69.126,
+      "chi2_p050": 113.145,
+      "chi2_p025": 118.136,
+      "chi2_p010": 124.116,
+      "chi2_p005": 128.299
+    },
+    {
+      "degrees_of_freedom": 100,
+      "chi2_p995": 67.328,
+      "chi2_p990": 70.065,
+      "chi2_p975": 74.222,
+      "chi2_p950": 77.929,
+      "chi2_p050": 124.342,
+      "chi2_p025": 129.561,
+      "chi2_p010": 135.807,
+      "chi2_p005": 140.169
+    }
+  ],
+  "meta": {
+    "seo_title": "Chi-Square Distribution Table - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download of the Chi-Square Distribution Table for statistical analysis. Includes 37 records of degrees of freedom and p-values. Available in Excel, CSV, and PDF formats.",
+    "title": "Chi-Square Distribution Table for Statistical Analysis",
+    "description": "This dataset offers a comprehensive Chi-Square Distribution Table, detailing critical χ² values for 37 degrees of freedom and various p-levels. It's an indispensable resource for statistical hypothesis testing.",
+    "key_takeaways": [
+      "Access critical χ² values for 37 degrees of freedom.",
+      "Explore Chi-Square values across a range of p-levels (0.005 to 0.995).",
+      "Download a ready-to-use table for statistical hypothesis testing.",
+      "Leverage accurate data for research, education, and data analysis."
+    ],
+    "keywords": [
+      "chi-square distribution table",
+      "chi-squared critical values",
+      "degrees of freedom stats",
+      "hypothesis testing data excel",
+      "statistical tables download csv",
+      "p-value chi-square"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your Python scripts or R environment to perform automated chi-square tests and integrate results into larger statistical models.",
+      "Use the **Excel** file to quickly look up critical χ² values, create custom tables, and support manual hypothesis testing for academic or professional reports.",
+      "Print the **PDF** version for a handy reference during exams, classroom lectures, or offline statistical problem-solving without needing a computer.",
+      "Leverage this dataset to validate statistical inferences, educate students on probability distributions, and support data-driven decision-making in various fields."
+    ]
+  },
+  "record_count": 37,
+  "title": "Chi-Square Distribution Table for Statistical Analysis"
+}

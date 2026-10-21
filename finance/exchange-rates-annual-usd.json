@@ -1,0 +1,6004 @@
+{
+  "id": "exchange-rates-annual-usd",
+  "name": "Foreign Exchange Rates — Annual (vs USD)",
+  "title": "Foreign Exchange Rates — Annual (vs USD)",
+  "description": "Annual average exchange rates per US dollar for 21 major currencies (Australia, Brazil, Canada, China, Denmark, Euro, Hong Kong, India, Japan, Malaysia, Mexico, Norway, Singapore, South Africa, Sweden, Switzerland, Thailand, UK, and others) from 1971 onward. Sourced from US Federal Reserve H.10 historical release.",
+  "category": "finance",
+  "source": "https://github.com/datasets/exchange-rates",
+  "source_url": "https://github.com/datasets/exchange-rates",
+  "updated": "2026-04",
+  "record_count": 993,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "exchange_rate_per_usd",
+      "label": "Exchange Rate Per Usd",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "date": "1971-01-01",
+      "year": 1971,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.8803
+    },
+    {
+      "date": "1972-01-01",
+      "year": 1972,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.8387
+    },
+    {
+      "date": "1973-01-01",
+      "year": 1973,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.7047
+    },
+    {
+      "date": "1974-01-01",
+      "year": 1974,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.695
+    },
+    {
+      "date": "1975-01-01",
+      "year": 1975,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.7647
+    },
+    {
+      "date": "1976-01-01",
+      "year": 1976,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.8187
+    },
+    {
+      "date": "1977-01-01",
+      "year": 1977,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.9024
+    },
+    {
+      "date": "1978-01-01",
+      "year": 1978,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.874
+    },
+    {
+      "date": "1979-01-01",
+      "year": 1979,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.8947
+    },
+    {
+      "date": "1980-01-01",
+      "year": 1980,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.8776
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.8699
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.9838
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.1094
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.137
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.428
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.4905
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.4257
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.2753
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.2628
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.2809
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.2842
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3602
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.4708
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3669
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3501
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.2775
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3446
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.5896
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.5494
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.7197
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.9346
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.8392
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.5328
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3578
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3111
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3271
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.1918
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.1714
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.2615
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.087
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.9679
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Australia",
+      "exchange_rate_per_usd": 0.9653
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.0327
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.1069
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3294
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3432
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3036
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3367
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.4384
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.4495
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.3307
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.4386
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.5051
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.5158
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Australia",
+      "exchange_rate_per_usd": 1.5504
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 0.9161
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 1.0051
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 1.0779
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 1.1605
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 1.8207
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 1.8301
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 2.3527
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 2.9213
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 3.075
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 2.9262
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 2.4352
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 2.1738
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 1.9461
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 1.8326
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 1.9976
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 1.76
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 1.6723
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 1.9535
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 2.157
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 2.3512
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 3.336
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 3.4839
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 3.191
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 3.6513
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 3.944
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 5.1587
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 5.3958
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 5.1605
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 4.9946
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 5.3872
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Brazil",
+      "exchange_rate_per_usd": 5.5891
+    },
+    {
+      "date": "1971-01-01",
+      "year": 1971,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.0099
+    },
+    {
+      "date": "1972-01-01",
+      "year": 1972,
+      "country": "Canada",
+      "exchange_rate_per_usd": 0.9907
+    },
+    {
+      "date": "1973-01-01",
+      "year": 1973,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.0002
+    },
+    {
+      "date": "1974-01-01",
+      "year": 1974,
+      "country": "Canada",
+      "exchange_rate_per_usd": 0.978
+    },
+    {
+      "date": "1975-01-01",
+      "year": 1975,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.0175
+    },
+    {
+      "date": "1976-01-01",
+      "year": 1976,
+      "country": "Canada",
+      "exchange_rate_per_usd": 0.9863
+    },
+    {
+      "date": "1977-01-01",
+      "year": 1977,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.0633
+    },
+    {
+      "date": "1978-01-01",
+      "year": 1978,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.1405
+    },
+    {
+      "date": "1979-01-01",
+      "year": 1979,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.1713
+    },
+    {
+      "date": "1980-01-01",
+      "year": 1980,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.1693
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.199
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.2344
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.2325
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.2952
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3659
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3896
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3259
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.2306
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.1842
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.1668
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.146
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.2085
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.2902
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3664
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3725
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3638
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3849
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.4836
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.4858
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.4855
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.5487
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.5704
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.4008
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3017
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.2115
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.134
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.0734
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.066
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.1412
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.0298
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Canada",
+      "exchange_rate_per_usd": 0.9887
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Canada",
+      "exchange_rate_per_usd": 0.9995
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.03
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.1043
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.2791
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3243
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.2984
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.2957
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3269
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3422
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.2533
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3014
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3494
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3699
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Canada",
+      "exchange_rate_per_usd": 1.3973
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "China",
+      "exchange_rate_per_usd": 1.71
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "China",
+      "exchange_rate_per_usd": 1.8979
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "China",
+      "exchange_rate_per_usd": 1.981
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "China",
+      "exchange_rate_per_usd": 2.3303
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "China",
+      "exchange_rate_per_usd": 2.9434
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "China",
+      "exchange_rate_per_usd": 3.4616
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "China",
+      "exchange_rate_per_usd": 3.7314
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "China",
+      "exchange_rate_per_usd": 3.7314
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "China",
+      "exchange_rate_per_usd": 3.7673
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "China",
+      "exchange_rate_per_usd": 4.7921
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "China",
+      "exchange_rate_per_usd": 5.3337
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "China",
+      "exchange_rate_per_usd": 5.5206
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "China",
+      "exchange_rate_per_usd": 5.7795
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "China",
+      "exchange_rate_per_usd": 8.6397
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "China",
+      "exchange_rate_per_usd": 8.37
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "China",
+      "exchange_rate_per_usd": 8.3389
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "China",
+      "exchange_rate_per_usd": 8.3193
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "China",
+      "exchange_rate_per_usd": 8.3008
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "China",
+      "exchange_rate_per_usd": 8.2783
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "China",
+      "exchange_rate_per_usd": 8.2784
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "China",
+      "exchange_rate_per_usd": 8.277
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "China",
+      "exchange_rate_per_usd": 8.2771
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "China",
+      "exchange_rate_per_usd": 8.2772
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "China",
+      "exchange_rate_per_usd": 8.2768
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "China",
+      "exchange_rate_per_usd": 8.1936
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "China",
+      "exchange_rate_per_usd": 7.9723
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "China",
+      "exchange_rate_per_usd": 7.6058
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "China",
+      "exchange_rate_per_usd": 6.9477
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "China",
+      "exchange_rate_per_usd": 6.8307
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "China",
+      "exchange_rate_per_usd": 6.7696
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "China",
+      "exchange_rate_per_usd": 6.463
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "China",
+      "exchange_rate_per_usd": 6.3093
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "China",
+      "exchange_rate_per_usd": 6.1478
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "China",
+      "exchange_rate_per_usd": 6.162
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "China",
+      "exchange_rate_per_usd": 6.2827
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "China",
+      "exchange_rate_per_usd": 6.64
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "China",
+      "exchange_rate_per_usd": 6.7569
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "China",
+      "exchange_rate_per_usd": 6.609
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "China",
+      "exchange_rate_per_usd": 6.9081
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "China",
+      "exchange_rate_per_usd": 6.9042
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "China",
+      "exchange_rate_per_usd": 6.4508
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "China",
+      "exchange_rate_per_usd": 6.729
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "China",
+      "exchange_rate_per_usd": 7.0809
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "China",
+      "exchange_rate_per_usd": 7.1957
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "China",
+      "exchange_rate_per_usd": 7.1875
+    },
+    {
+      "date": "1971-01-01",
+      "year": 1971,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 7.4048
+    },
+    {
+      "date": "1972-01-01",
+      "year": 1972,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.9531
+    },
+    {
+      "date": "1973-01-01",
+      "year": 1973,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.0447
+    },
+    {
+      "date": "1974-01-01",
+      "year": 1974,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.0925
+    },
+    {
+      "date": "1975-01-01",
+      "year": 1975,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.7481
+    },
+    {
+      "date": "1976-01-01",
+      "year": 1976,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.0461
+    },
+    {
+      "date": "1977-01-01",
+      "year": 1977,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.005
+    },
+    {
+      "date": "1978-01-01",
+      "year": 1978,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.5162
+    },
+    {
+      "date": "1979-01-01",
+      "year": 1979,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.2623
+    },
+    {
+      "date": "1980-01-01",
+      "year": 1980,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.6346
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 7.1351
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 8.3444
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 9.1484
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 10.3541
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 10.5983
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 8.0955
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.8478
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.7412
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 7.321
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.1899
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.4038
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.0372
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.4863
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.3561
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.5999
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.8003
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.6092
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.703
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.99
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 8.0953
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 8.3323
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 7.8862
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.5774
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.9891
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.9953
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.9422
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.4413
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.0885
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.3574
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.6265
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.3535
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.7922
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.617
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 5.6151
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.7263
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.7276
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.5957
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.3131
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.6703
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.543
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.2897
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 7.0786
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.89
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.8955
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Denmark",
+      "exchange_rate_per_usd": 6.6137
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.9387
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Euro",
+      "exchange_rate_per_usd": 1.0832
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Euro",
+      "exchange_rate_per_usd": 1.1171
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Euro",
+      "exchange_rate_per_usd": 1.0578
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.8833
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.804
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.8033
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.796
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.7293
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.6791
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.7176
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.7541
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.7178
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.7777
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.753
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.752
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.9012
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.9032
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.8849
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.8462
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.8933
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.8764
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.8453
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.9493
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.9245
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.9242
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Euro",
+      "exchange_rate_per_usd": 0.8845
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 5.5901
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 6.0698
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.257
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.8189
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7912
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.8038
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7986
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.8068
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.8008
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7899
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7712
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7402
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7357
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.729
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7357
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7345
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7431
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7467
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7594
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7924
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7997
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7996
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7875
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7891
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7775
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7681
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.8016
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7862
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7514
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7687
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7841
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7569
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7565
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7545
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7524
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.762
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7926
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.8376
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.8351
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7559
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7727
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.8306
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.8292
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.803
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Hong Kong",
+      "exchange_rate_per_usd": 7.7956
+    },
+    {
+      "date": "1973-01-01",
+      "year": 1973,
+      "country": "India",
+      "exchange_rate_per_usd": 7.6541
+    },
+    {
+      "date": "1974-01-01",
+      "year": 1974,
+      "country": "India",
+      "exchange_rate_per_usd": 8.0289
+    },
+    {
+      "date": "1975-01-01",
+      "year": 1975,
+      "country": "India",
+      "exchange_rate_per_usd": 8.4086
+    },
+    {
+      "date": "1976-01-01",
+      "year": 1976,
+      "country": "India",
+      "exchange_rate_per_usd": 8.9715
+    },
+    {
+      "date": "1977-01-01",
+      "year": 1977,
+      "country": "India",
+      "exchange_rate_per_usd": 8.7683
+    },
+    {
+      "date": "1978-01-01",
+      "year": 1978,
+      "country": "India",
+      "exchange_rate_per_usd": 8.1979
+    },
+    {
+      "date": "1979-01-01",
+      "year": 1979,
+      "country": "India",
+      "exchange_rate_per_usd": 8.1564
+    },
+    {
+      "date": "1980-01-01",
+      "year": 1980,
+      "country": "India",
+      "exchange_rate_per_usd": 7.8868
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "India",
+      "exchange_rate_per_usd": 8.6807
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "India",
+      "exchange_rate_per_usd": 9.4847
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "India",
+      "exchange_rate_per_usd": 10.1041
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "India",
+      "exchange_rate_per_usd": 11.3465
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "India",
+      "exchange_rate_per_usd": 12.3318
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "India",
+      "exchange_rate_per_usd": 12.5967
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "India",
+      "exchange_rate_per_usd": 12.9469
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "India",
+      "exchange_rate_per_usd": 13.8995
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "India",
+      "exchange_rate_per_usd": 16.2131
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "India",
+      "exchange_rate_per_usd": 17.4922
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "India",
+      "exchange_rate_per_usd": 22.7116
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "India",
+      "exchange_rate_per_usd": 28.1558
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "India",
+      "exchange_rate_per_usd": 31.2911
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "India",
+      "exchange_rate_per_usd": 31.3939
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "India",
+      "exchange_rate_per_usd": 32.4181
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "India",
+      "exchange_rate_per_usd": 35.506
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "India",
+      "exchange_rate_per_usd": 36.3645
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "India",
+      "exchange_rate_per_usd": 41.3561
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "India",
+      "exchange_rate_per_usd": 43.1274
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "India",
+      "exchange_rate_per_usd": 44.9975
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "India",
+      "exchange_rate_per_usd": 47.22
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "India",
+      "exchange_rate_per_usd": 48.6257
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "India",
+      "exchange_rate_per_usd": 46.5908
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "India",
+      "exchange_rate_per_usd": 45.261
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "India",
+      "exchange_rate_per_usd": 44.0002
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "India",
+      "exchange_rate_per_usd": 45.1861
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "India",
+      "exchange_rate_per_usd": 41.1774
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "India",
+      "exchange_rate_per_usd": 43.3859
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "India",
+      "exchange_rate_per_usd": 48.3324
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "India",
+      "exchange_rate_per_usd": 45.6507
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "India",
+      "exchange_rate_per_usd": 46.5782
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "India",
+      "exchange_rate_per_usd": 53.3743
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "India",
+      "exchange_rate_per_usd": 58.5149
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "India",
+      "exchange_rate_per_usd": 60.9953
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "India",
+      "exchange_rate_per_usd": 64.1073
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "India",
+      "exchange_rate_per_usd": 67.1572
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "India",
+      "exchange_rate_per_usd": 65.0659
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "India",
+      "exchange_rate_per_usd": 68.3734
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "India",
+      "exchange_rate_per_usd": 70.3777
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "India",
+      "exchange_rate_per_usd": 74.1429
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "India",
+      "exchange_rate_per_usd": 73.9351
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "India",
+      "exchange_rate_per_usd": 78.5792
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "India",
+      "exchange_rate_per_usd": 82.5708
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "India",
+      "exchange_rate_per_usd": 83.6566
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "India",
+      "exchange_rate_per_usd": 87.1468
+    },
+    {
+      "date": "1971-01-01",
+      "year": 1971,
+      "country": "Japan",
+      "exchange_rate_per_usd": 347.7857
+    },
+    {
+      "date": "1972-01-01",
+      "year": 1972,
+      "country": "Japan",
+      "exchange_rate_per_usd": 303.125
+    },
+    {
+      "date": "1973-01-01",
+      "year": 1973,
+      "country": "Japan",
+      "exchange_rate_per_usd": 271.3055
+    },
+    {
+      "date": "1974-01-01",
+      "year": 1974,
+      "country": "Japan",
+      "exchange_rate_per_usd": 291.8446
+    },
+    {
+      "date": "1975-01-01",
+      "year": 1975,
+      "country": "Japan",
+      "exchange_rate_per_usd": 296.7849
+    },
+    {
+      "date": "1976-01-01",
+      "year": 1976,
+      "country": "Japan",
+      "exchange_rate_per_usd": 296.4544
+    },
+    {
+      "date": "1977-01-01",
+      "year": 1977,
+      "country": "Japan",
+      "exchange_rate_per_usd": 268.6194
+    },
+    {
+      "date": "1978-01-01",
+      "year": 1978,
+      "country": "Japan",
+      "exchange_rate_per_usd": 210.3854
+    },
+    {
+      "date": "1979-01-01",
+      "year": 1979,
+      "country": "Japan",
+      "exchange_rate_per_usd": 219.0168
+    },
+    {
+      "date": "1980-01-01",
+      "year": 1980,
+      "country": "Japan",
+      "exchange_rate_per_usd": 226.6309
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "Japan",
+      "exchange_rate_per_usd": 220.6281
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "Japan",
+      "exchange_rate_per_usd": 249.0601
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Japan",
+      "exchange_rate_per_usd": 237.5535
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Japan",
+      "exchange_rate_per_usd": 237.4622
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Japan",
+      "exchange_rate_per_usd": 238.4673
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Japan",
+      "exchange_rate_per_usd": 168.3496
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Japan",
+      "exchange_rate_per_usd": 144.6023
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Japan",
+      "exchange_rate_per_usd": 128.1742
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Japan",
+      "exchange_rate_per_usd": 138.0738
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Japan",
+      "exchange_rate_per_usd": 144.9987
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Japan",
+      "exchange_rate_per_usd": 134.5909
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Japan",
+      "exchange_rate_per_usd": 126.7801
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Japan",
+      "exchange_rate_per_usd": 111.0755
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Japan",
+      "exchange_rate_per_usd": 102.179
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Japan",
+      "exchange_rate_per_usd": 93.9649
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Japan",
+      "exchange_rate_per_usd": 108.78
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Japan",
+      "exchange_rate_per_usd": 121.0581
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Japan",
+      "exchange_rate_per_usd": 130.9892
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Japan",
+      "exchange_rate_per_usd": 113.7342
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Japan",
+      "exchange_rate_per_usd": 107.804
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Japan",
+      "exchange_rate_per_usd": 121.568
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Japan",
+      "exchange_rate_per_usd": 125.2204
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Japan",
+      "exchange_rate_per_usd": 115.9387
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Japan",
+      "exchange_rate_per_usd": 108.1508
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Japan",
+      "exchange_rate_per_usd": 110.1069
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Japan",
+      "exchange_rate_per_usd": 116.3121
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Japan",
+      "exchange_rate_per_usd": 117.7623
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Japan",
+      "exchange_rate_per_usd": 103.3906
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Japan",
+      "exchange_rate_per_usd": 93.6827
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Japan",
+      "exchange_rate_per_usd": 87.7817
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Japan",
+      "exchange_rate_per_usd": 79.6967
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Japan",
+      "exchange_rate_per_usd": 79.818
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Japan",
+      "exchange_rate_per_usd": 97.5971
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Japan",
+      "exchange_rate_per_usd": 105.7398
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Japan",
+      "exchange_rate_per_usd": 121.0491
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Japan",
+      "exchange_rate_per_usd": 108.6569
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Japan",
+      "exchange_rate_per_usd": 112.0986
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Japan",
+      "exchange_rate_per_usd": 110.3974
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Japan",
+      "exchange_rate_per_usd": 109.0188
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Japan",
+      "exchange_rate_per_usd": 106.7754
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Japan",
+      "exchange_rate_per_usd": 109.8429
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Japan",
+      "exchange_rate_per_usd": 131.4589
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Japan",
+      "exchange_rate_per_usd": 140.5001
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Japan",
+      "exchange_rate_per_usd": 151.4551
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Japan",
+      "exchange_rate_per_usd": 149.5686
+    },
+    {
+      "date": "1971-01-01",
+      "year": 1971,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.0318
+    },
+    {
+      "date": "1972-01-01",
+      "year": 1972,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.8085
+    },
+    {
+      "date": "1973-01-01",
+      "year": 1973,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.4468
+    },
+    {
+      "date": "1974-01-01",
+      "year": 1974,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.407
+    },
+    {
+      "date": "1975-01-01",
+      "year": 1975,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.4029
+    },
+    {
+      "date": "1976-01-01",
+      "year": 1976,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.5422
+    },
+    {
+      "date": "1977-01-01",
+      "year": 1977,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.4625
+    },
+    {
+      "date": "1978-01-01",
+      "year": 1978,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.3168
+    },
+    {
+      "date": "1979-01-01",
+      "year": 1979,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.1883
+    },
+    {
+      "date": "1980-01-01",
+      "year": 1980,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.1768
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.3048
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.3356
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.3205
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.3428
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.4807
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.5831
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.5186
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.619
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.7079
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.7049
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.7503
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.5463
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.5738
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.6237
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.5073
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.5154
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 2.8173
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.9254
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.8
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.8
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.8
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.8
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.8
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.8
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.7869
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.6661
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.4354
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.3292
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.5231
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.2175
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.0564
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.0862
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.1488
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.2697
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 3.9041
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 4.1372
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 4.2982
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 4.0307
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 4.1416
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 4.2029
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 4.1439
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 4.3982
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 4.5577
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 4.5747
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Malaysia",
+      "exchange_rate_per_usd": 4.2809
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 3.1237
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 3.3853
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 6.4467
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 7.6004
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 7.9177
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 9.1521
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 9.5533
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 9.4586
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 9.3366
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 9.6633
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 10.7925
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 11.2897
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 10.8938
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 10.9056
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 10.9281
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 11.1425
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 13.4979
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 12.6237
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 12.427
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 13.1539
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 12.7584
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 13.3022
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 15.8735
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 18.6674
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 18.8841
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 19.2179
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 19.2469
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 21.5462
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 20.2844
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 20.1208
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 17.7334
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 18.3062
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Mexico",
+      "exchange_rate_per_usd": 19.2052
+    },
+    {
+      "date": "1971-01-01",
+      "year": 1971,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 0.88
+    },
+    {
+      "date": "1972-01-01",
+      "year": 1972,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 0.8379
+    },
+    {
+      "date": "1973-01-01",
+      "year": 1973,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 0.7355
+    },
+    {
+      "date": "1974-01-01",
+      "year": 1974,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 0.7142
+    },
+    {
+      "date": "1975-01-01",
+      "year": 1975,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 0.8254
+    },
+    {
+      "date": "1976-01-01",
+      "year": 1976,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.0089
+    },
+    {
+      "date": "1977-01-01",
+      "year": 1977,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.0321
+    },
+    {
+      "date": "1978-01-01",
+      "year": 1978,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 0.9649
+    },
+    {
+      "date": "1979-01-01",
+      "year": 1979,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 0.9782
+    },
+    {
+      "date": "1980-01-01",
+      "year": 1980,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.0273
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.1514
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.3316
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.4972
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.7289
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 2.0101
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.9062
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.6855
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.5253
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.6725
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.6773
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.7292
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.8591
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.8474
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.6846
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.5237
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.4541
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.5094
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.8653
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.8896
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 2.1891
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 2.3798
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 2.1529
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.7176
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.5053
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.4186
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.5404
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.3578
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.3984
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.5728
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.3858
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.2626
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.2338
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.2189
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.2029
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.4284
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.4335
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.4063
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.4432
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.5172
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.5389
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.4136
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.5721
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.6279
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.6529
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "New Zealand",
+      "exchange_rate_per_usd": 1.7176
+    },
+    {
+      "date": "1971-01-01",
+      "year": 1971,
+      "country": "Norway",
+      "exchange_rate_per_usd": 7.0222
+    },
+    {
+      "date": "1972-01-01",
+      "year": 1972,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.5875
+    },
+    {
+      "date": "1973-01-01",
+      "year": 1973,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.7535
+    },
+    {
+      "date": "1974-01-01",
+      "year": 1974,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.5255
+    },
+    {
+      "date": "1975-01-01",
+      "year": 1975,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.2283
+    },
+    {
+      "date": "1976-01-01",
+      "year": 1976,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.459
+    },
+    {
+      "date": "1977-01-01",
+      "year": 1977,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.324
+    },
+    {
+      "date": "1978-01-01",
+      "year": 1978,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.2467
+    },
+    {
+      "date": "1979-01-01",
+      "year": 1979,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.0651
+    },
+    {
+      "date": "1980-01-01",
+      "year": 1980,
+      "country": "Norway",
+      "exchange_rate_per_usd": 4.9382
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.7431
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.4568
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Norway",
+      "exchange_rate_per_usd": 7.3013
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Norway",
+      "exchange_rate_per_usd": 8.1597
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Norway",
+      "exchange_rate_per_usd": 8.5934
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Norway",
+      "exchange_rate_per_usd": 7.3985
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.7409
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.5243
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.9131
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.2621
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.4912
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.2142
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Norway",
+      "exchange_rate_per_usd": 7.1009
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Norway",
+      "exchange_rate_per_usd": 7.0553
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.3355
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.4594
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Norway",
+      "exchange_rate_per_usd": 7.0857
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Norway",
+      "exchange_rate_per_usd": 7.5521
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Norway",
+      "exchange_rate_per_usd": 7.8071
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Norway",
+      "exchange_rate_per_usd": 8.8131
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Norway",
+      "exchange_rate_per_usd": 8.9964
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Norway",
+      "exchange_rate_per_usd": 7.9839
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Norway",
+      "exchange_rate_per_usd": 7.0803
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.7399
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.4412
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.4095
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.8557
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.6365
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.2908
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.0451
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.6022
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.8181
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Norway",
+      "exchange_rate_per_usd": 5.8772
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Norway",
+      "exchange_rate_per_usd": 6.2969
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Norway",
+      "exchange_rate_per_usd": 8.0681
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Norway",
+      "exchange_rate_per_usd": 8.3936
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Norway",
+      "exchange_rate_per_usd": 8.2679
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Norway",
+      "exchange_rate_per_usd": 8.1318
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Norway",
+      "exchange_rate_per_usd": 8.8001
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Norway",
+      "exchange_rate_per_usd": 9.4283
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Norway",
+      "exchange_rate_per_usd": 8.5955
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Norway",
+      "exchange_rate_per_usd": 9.6138
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Norway",
+      "exchange_rate_per_usd": 10.5659
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Norway",
+      "exchange_rate_per_usd": 10.7574
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Norway",
+      "exchange_rate_per_usd": 10.3852
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 2.1138
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 2.1406
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 2.1137
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 2.1327
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 2.2009
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 2.1783
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 2.1059
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 2.0133
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.9511
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.8134
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.7283
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.6294
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.6158
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.5275
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.4171
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.41
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.4857
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.6722
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.6951
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.725
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.793
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.7908
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.7429
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.6902
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.6639
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.5882
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.5065
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.414
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.4543
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.3629
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.2565
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.2492
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.2511
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.2665
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.3746
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.38
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.3802
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.3486
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.3641
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.38
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.3438
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.3787
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.3428
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.3363
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Singapore",
+      "exchange_rate_per_usd": 1.3065
+    },
+    {
+      "date": "1971-01-01",
+      "year": 1971,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 0.7129
+    },
+    {
+      "date": "1972-01-01",
+      "year": 1972,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 0.7732
+    },
+    {
+      "date": "1973-01-01",
+      "year": 1973,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 0.6964
+    },
+    {
+      "date": "1974-01-01",
+      "year": 1974,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 0.6806
+    },
+    {
+      "date": "1975-01-01",
+      "year": 1975,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 0.7408
+    },
+    {
+      "date": "1976-01-01",
+      "year": 1976,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 0.8707
+    },
+    {
+      "date": "1977-01-01",
+      "year": 1977,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 0.8697
+    },
+    {
+      "date": "1978-01-01",
+      "year": 1978,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 0.8695
+    },
+    {
+      "date": "1979-01-01",
+      "year": 1979,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 0.8424
+    },
+    {
+      "date": "1980-01-01",
+      "year": 1980,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 0.7796
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 0.8787
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 1.0876
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 1.1146
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 1.4761
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 2.2344
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 2.2919
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 2.0385
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 2.277
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 2.6243
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 2.5885
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 2.7633
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 2.8524
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 3.2721
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 3.5526
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 3.6284
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 4.3011
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 4.6072
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 5.5417
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 6.1191
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 6.9468
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 8.6093
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 10.5176
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 7.555
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 6.4402
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 6.3606
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 6.7668
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 7.0477
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 8.248
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 8.4117
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 7.3159
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 7.251
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 8.2014
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 9.6436
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 10.842
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 12.7645
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 14.6821
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 13.2943
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 13.2255
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 14.4475
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 16.4932
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 14.7751
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 16.3598
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 18.4535
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 18.3346
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "South Africa",
+      "exchange_rate_per_usd": 17.8782
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 686.0734
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 731.9442
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 776.0494
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 807.9294
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 872.4466
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 884.5968
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 826.1587
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 734.5231
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 674.1286
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 710.644
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 736.7331
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 784.6608
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 805.7516
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 806.9319
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 772.6853
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 804.9968
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 953.1904
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1400.4036
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1189.8361
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1130.8975
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1292.0149
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1250.314
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1192.0817
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1145.2364
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1023.7492
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 954.321
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 928.9717
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1098.7061
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1274.6252
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1155.7389
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1106.94
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1126.1621
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1094.6749
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1052.2924
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1130.9603
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1159.3422
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1129.0435
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1099.2926
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1165.8016
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1180.5554
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1144.8911
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1291.7796
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1306.7637
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1363.4381
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "South Korea",
+      "exchange_rate_per_usd": 1421.3963
+    },
+    {
+      "date": "1971-01-01",
+      "year": 1971,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 5.1051
+    },
+    {
+      "date": "1972-01-01",
+      "year": 1972,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 4.7571
+    },
+    {
+      "date": "1973-01-01",
+      "year": 1973,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 4.3619
+    },
+    {
+      "date": "1974-01-01",
+      "year": 1974,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 4.4387
+    },
+    {
+      "date": "1975-01-01",
+      "year": 1975,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 4.1531
+    },
+    {
+      "date": "1976-01-01",
+      "year": 1976,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 4.358
+    },
+    {
+      "date": "1977-01-01",
+      "year": 1977,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 4.4802
+    },
+    {
+      "date": "1978-01-01",
+      "year": 1978,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 4.5207
+    },
+    {
+      "date": "1979-01-01",
+      "year": 1979,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 4.2893
+    },
+    {
+      "date": "1980-01-01",
+      "year": 1980,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 4.231
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 5.066
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.2839
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.6718
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 8.2708
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 8.6032
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.1273
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.3469
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.137
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.4559
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 5.9231
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.0521
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 5.8258
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.7956
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.7161
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.1406
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.7082
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.6447
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.9522
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 8.274
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 9.1735
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 10.3425
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 9.7233
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 8.0787
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.348
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.471
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.3718
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.755
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.5846
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.6539
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 7.2053
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.4878
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.7721
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.5124
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 6.8576
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 8.435
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 8.5541
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 8.543
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 8.6945
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 9.4604
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 9.2167
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 8.5812
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 10.1177
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 10.6089
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 10.5744
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Sweden",
+      "exchange_rate_per_usd": 9.806
+    },
+    {
+      "date": "1971-01-01",
+      "year": 1971,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 4.1171
+    },
+    {
+      "date": "1972-01-01",
+      "year": 1972,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 3.8186
+    },
+    {
+      "date": "1973-01-01",
+      "year": 1973,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 3.1688
+    },
+    {
+      "date": "1974-01-01",
+      "year": 1974,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 2.9805
+    },
+    {
+      "date": "1975-01-01",
+      "year": 1975,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 2.5839
+    },
+    {
+      "date": "1976-01-01",
+      "year": 1976,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 2.5002
+    },
+    {
+      "date": "1977-01-01",
+      "year": 1977,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 2.4065
+    },
+    {
+      "date": "1978-01-01",
+      "year": 1978,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.7907
+    },
+    {
+      "date": "1979-01-01",
+      "year": 1979,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.6644
+    },
+    {
+      "date": "1980-01-01",
+      "year": 1980,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.6772
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.9675
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 2.0319
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 2.1007
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 2.35
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 2.4552
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.7979
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.4918
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.4643
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.6369
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.3901
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.4356
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.4064
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.4781
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.3667
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.1812
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.2361
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.4514
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.4506
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.5045
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.6904
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.6891
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.5567
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.345
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.2428
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.2459
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.2532
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.1999
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.0816
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.086
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 1.0432
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.8862
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.9377
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.9269
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.9147
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.9628
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.9848
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.9842
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.9784
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.9937
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.9389
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.9144
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.955
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.8984
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.8808
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Switzerland",
+      "exchange_rate_per_usd": 0.8305
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 39.285
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 39.636
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 39.9
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 37.8516
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 31.753
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 28.6364
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 26.4067
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 26.9179
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 26.7593
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 25.1603
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 26.4155
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 26.4648
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 26.4955
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 27.468
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 28.7751
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 33.5473
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 32.3222
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 31.2599
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 33.8243
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 34.5363
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 34.4047
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 33.3719
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 32.1312
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 32.5065
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 32.8547
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 31.5205
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 33.02
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 31.4974
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 29.3822
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 29.5581
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 29.68
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 30.2992
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 31.7443
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 32.2264
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 30.4016
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 30.1294
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 30.9049
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 29.4568
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 27.9366
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 29.7963
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 31.1525
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 32.1064
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Taiwan",
+      "exchange_rate_per_usd": 31.1663
+    },
+    {
+      "date": "1981-01-01",
+      "year": 1981,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 21.8185
+    },
+    {
+      "date": "1982-01-01",
+      "year": 1982,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 23.0143
+    },
+    {
+      "date": "1983-01-01",
+      "year": 1983,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 22.9917
+    },
+    {
+      "date": "1984-01-01",
+      "year": 1984,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 23.5829
+    },
+    {
+      "date": "1985-01-01",
+      "year": 1985,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 27.1941
+    },
+    {
+      "date": "1986-01-01",
+      "year": 1986,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 26.315
+    },
+    {
+      "date": "1987-01-01",
+      "year": 1987,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 25.7708
+    },
+    {
+      "date": "1988-01-01",
+      "year": 1988,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 25.3123
+    },
+    {
+      "date": "1989-01-01",
+      "year": 1989,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 25.7195
+    },
+    {
+      "date": "1990-01-01",
+      "year": 1990,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 25.6094
+    },
+    {
+      "date": "1991-01-01",
+      "year": 1991,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 25.5416
+    },
+    {
+      "date": "1992-01-01",
+      "year": 1992,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 25.411
+    },
+    {
+      "date": "1993-01-01",
+      "year": 1993,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 25.3326
+    },
+    {
+      "date": "1994-01-01",
+      "year": 1994,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 25.1608
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 24.9214
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 25.3587
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 31.0722
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 41.2623
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 37.8871
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 40.2098
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 44.5319
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 43.0192
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 41.5559
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 40.2711
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 40.2516
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 37.8763
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 32.203
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 32.9624
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 34.3104
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 31.6997
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 30.4622
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 31.0546
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 30.6963
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 32.4615
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 34.2415
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 35.2635
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 33.9134
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 32.3035
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 31.0419
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 31.307
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 32.0052
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 35.05
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 34.7841
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 35.2845
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Thailand",
+      "exchange_rate_per_usd": 32.8619
+    },
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 0.1748
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 0.4172
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 0.4889
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 0.5484
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 0.6068
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 0.6805
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 0.7241
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 1.1612
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 1.6134
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 1.8861
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 2.1071
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 2.1446
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 2.1446
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 2.1446
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 2.1445
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 4.238
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 4.2893
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 4.2893
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 6.0697
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 6.2842
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 6.2842
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 9.2839
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 9.975
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 4389736.7765
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 13269.1708
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 309968.3921
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 3220484.0886
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 6.6444
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 28.6223
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 38.3314
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "country": "Venezuela",
+      "exchange_rate_per_usd": 131.121
+    }
+  ],
+  "meta": {
+    "title": "Foreign Exchange Rates — Annual (vs USD) - Free Download",
+    "description": "Annual average exchange rates per US dollar for 21 major currencies (Australia, Brazil, Canada, China, Denmark, Euro, Hong Kong, India, Japan, Malaysia, Mexico, Norway, Singapore, South Africa, Sweden, Switzerland, Thailand, UK, and others) from 1971 onward. Sourced from US Federal Reserve H.10 historical release. Contains 993 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Foreign Exchange Rates — Annual (vs USD) | ListBase",
+    "seo_description": "Download Foreign Exchange Rates — Annual (vs USD) — 993 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 993 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/exchange-rates"
+    ]
+  }
+}

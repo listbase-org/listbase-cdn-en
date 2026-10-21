@@ -1,0 +1,316 @@
+{
+  "id": "ug-airports-iata",
+  "name": "Uganda — IATA Airports",
+  "title": "Uganda — IATA Airports",
+  "description": "Airports with IATA codes in Uganda: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "EBB",
+      "icao_code": "HUEN",
+      "name": "Entebbe Airport",
+      "city_name_list": "Entebbe",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Central Region",
+      "latitude": 0.042386,
+      "longitude": 32.443503,
+      "elevation": 1152,
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Entebbe_International_Airport"
+    },
+    {
+      "iata_code": "JIN",
+      "icao_code": "HUJI",
+      "name": "Jinja Airport",
+      "city_name_list": "Jinja",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Eastern Region",
+      "latitude": 0.45,
+      "longitude": 33.2,
+      "elevation": 1175,
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Jinja_Airport"
+    },
+    {
+      "iata_code": "KBG",
+      "icao_code": "HUKF",
+      "name": "Kabalega Falls Airport",
+      "city_name_list": "Murchison Falls",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Northern Region",
+      "latitude": 2.32639,
+      "longitude": 31.4978,
+      "elevation": "",
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kabalega_Falls_Airport"
+    },
+    {
+      "iata_code": "KCU",
+      "icao_code": "HUMI",
+      "name": "Masindi Airport",
+      "city_name_list": "Masindi",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Western Region",
+      "latitude": 1.683,
+      "longitude": 31.72,
+      "elevation": 1146,
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Masindi_Airport"
+    },
+    {
+      "iata_code": "KHX",
+      "icao_code": "",
+      "name": "Kihihi Airport",
+      "city_name_list": "Kihihi",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Western Region",
+      "latitude": -0.71933,
+      "longitude": 29.69819,
+      "elevation": "",
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Savannah_Airstrip"
+    },
+    {
+      "iata_code": "KJJ",
+      "icao_code": "HUKJ",
+      "name": "Kajjansi Airfield",
+      "city_name_list": "Kajansi",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Central Region",
+      "latitude": 0.20034,
+      "longitude": 32.54994,
+      "elevation": "",
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kajjansi_Airfield"
+    },
+    {
+      "iata_code": "KSE",
+      "icao_code": "HUKS",
+      "name": "Kasese Airport",
+      "city_name_list": "Kasese",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Western Region",
+      "latitude": 0.1667,
+      "longitude": 30.1,
+      "elevation": 959,
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kasese_Airport"
+    },
+    {
+      "iata_code": "KXO",
+      "icao_code": "HUKI",
+      "name": "Kisoro Airport",
+      "city_name_list": "Kisoro",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Western Region",
+      "latitude": -1.28344,
+      "longitude": 29.71846,
+      "elevation": "",
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kisoro_Airport"
+    },
+    {
+      "iata_code": "MBQ",
+      "icao_code": "HUMA",
+      "name": "Mbarara Airport",
+      "city_name_list": "Mbarara",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Western Region",
+      "latitude": -0.6167,
+      "longitude": 30.65,
+      "elevation": 1412,
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mbarara_Airport"
+    },
+    {
+      "iata_code": "OYG",
+      "icao_code": "HUMY",
+      "name": "Moyo Airport",
+      "city_name_list": "Moyo",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Northern Region",
+      "latitude": 3.65,
+      "longitude": 31.72,
+      "elevation": "",
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Moyo_Airport"
+    },
+    {
+      "iata_code": "PAF",
+      "icao_code": "HUPA",
+      "name": "Pakuba Airport",
+      "city_name_list": "Pakuba",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Western Region",
+      "latitude": 2.20256,
+      "longitude": 31.55445,
+      "elevation": "",
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Pakuba_Airfield"
+    },
+    {
+      "iata_code": "RUA",
+      "icao_code": "HUAR",
+      "name": "Arua Airport",
+      "city_name_list": "Arua",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Northern Region",
+      "latitude": 3.05,
+      "longitude": 30.9,
+      "elevation": 1204,
+      "timezone": "Africa/Kampala",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "SRT",
+      "icao_code": "HUSO",
+      "name": "Soroti Airport",
+      "city_name_list": "Soroti",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Eastern Region",
+      "latitude": 1.727578,
+      "longitude": 33.622861,
+      "elevation": 1109,
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Soroti_Airport"
+    },
+    {
+      "iata_code": "TRY",
+      "icao_code": "HUTO",
+      "name": "Tororo Airport",
+      "city_name_list": "Tororo",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Eastern Region",
+      "latitude": 0.7,
+      "longitude": 34.18,
+      "elevation": 1170,
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tororo_Airport"
+    },
+    {
+      "iata_code": "ULU",
+      "icao_code": "HUGU",
+      "name": "Gulu Airport",
+      "city_name_list": "Gulu",
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Northern Region",
+      "latitude": 2.805556,
+      "longitude": 32.271792,
+      "elevation": 1069,
+      "timezone": "Africa/Kampala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gulu_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Uganda — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Uganda: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Uganda — IATA Airports | ListBase",
+    "seo_description": "Download Uganda — IATA Airports dataset with 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

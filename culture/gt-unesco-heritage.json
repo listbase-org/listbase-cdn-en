@@ -1,0 +1,128 @@
+{
+  "id": "gt-unesco-heritage",
+  "name": "Guatemala — UNESCO World Heritage Sites",
+  "title": "Guatemala — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Guatemala, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 64,
+      "name": "Tikal National Park",
+      "category": "mixed",
+      "date_inscribed": 1979,
+      "criteria": "c1, c3, c4, n9, n10",
+      "lat": 17.21666667,
+      "lon": -89.61666667,
+      "area_hectares": 57600,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "gt",
+      "transboundary": false
+    },
+    {
+      "ref_no": 65,
+      "name": "Antigua Guatemala",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c2, c3, c4",
+      "lat": 14.56666667,
+      "lon": -90.66666667,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "gt",
+      "transboundary": false
+    },
+    {
+      "ref_no": 149,
+      "name": "Archaeological Park and Ruins of Quirigua",
+      "category": "cultural",
+      "date_inscribed": 1981,
+      "criteria": "c1, c2, c4",
+      "lat": 15.27059,
+      "lon": -89.04025,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "gt",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Guatemala — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Guatemala, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 3 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Guatemala — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Guatemala — UNESCO World Heritage Sites dataset with 3 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 3 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

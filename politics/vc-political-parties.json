@@ -1,0 +1,241 @@
+{
+  "id": "vc-political-parties",
+  "name": "Saint Vincent and the Grenadines — Political Parties",
+  "title": "Saint Vincent and the Grenadines — Political Parties",
+  "description": "Political parties of Saint Vincent and the Grenadines from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 4260,
+      "name_short": "EAL",
+      "name": "Eighth Army of Liberation",
+      "name_english": "Eighth Army of Liberation",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": 1951,
+      "share": 70.4,
+      "share_year": 1951,
+      "wikipedia": "https://en.wikipedia.org/wiki/Eighth_Army_of_Liberation",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4262,
+      "name_short": "SVLP",
+      "name": "St. Vincent Labour Party",
+      "name_english": "St. Vincent Labour Party",
+      "name_other": "",
+      "year_first": 1955,
+      "year_last": 1994,
+      "share": 69,
+      "share_year": 1974,
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Vincent_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4259,
+      "name_short": "NDP",
+      "name": "New Democratic Party",
+      "name_english": "New Democratic Party",
+      "name_other": "",
+      "year_first": 1975,
+      "year_last": "",
+      "share": 66.3,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Democratic_Party_(Saint_Vincent_and_the_Grenadines)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4268,
+      "name_short": "ULP",
+      "name": "United Labour Party",
+      "name_english": "United Labour Party",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": "",
+      "share": 56.5,
+      "share_year": 2001,
+      "wikipedia": "https://en.wikipedia.org/wiki/Unity_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4261,
+      "name_short": "PPP",
+      "name": "People’s Political Party",
+      "name_english": "People’s Political Party",
+      "name_other": "",
+      "year_first": 1952,
+      "year_last": 1984,
+      "share": 49.4,
+      "share_year": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Political_Party_(Saint_Vincent_and_the_Grenadines)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4263,
+      "name_short": "MNU",
+      "name": "Movement for National Unity",
+      "name_english": "Movement for National Unity",
+      "name_other": "",
+      "year_first": 1984,
+      "year_last": 1994,
+      "share": 17.4,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/Movement_for_National_Unity",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4266,
+      "name_short": "JUNTA",
+      "name": "Junta/Mitchell/Sylvester Faction from PPP",
+      "name_english": "Junta/Mitchell/Sylvester Faction from PPP",
+      "name_other": "",
+      "year_first": 1974,
+      "year_last": 1974,
+      "share": 16.4,
+      "share_year": 1974,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mitchell/Sylvester_Faction",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4264,
+      "name_short": "PLM",
+      "name": "Popular Labour Movement/People's Liberation Movement",
+      "name_english": "Popular Labour Movement/People's Liberation Movement",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1957,
+      "share": 15.2,
+      "share_year": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Liberation_Movement_(Saint_Vincent_and_the_Grenadines)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4265,
+      "name_short": "UPM",
+      "name": "United People’s Movement",
+      "name_english": "United People’s Movement",
+      "name_other": "",
+      "year_first": 1979,
+      "year_last": 1989,
+      "share": 13.5,
+      "share_year": 1979,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_People%27s_Movement_(Saint_Vincent_and_the_Grenadines)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4267,
+      "name_short": "PPM",
+      "name": "People’s Working Party/People's Progressive Movement",
+      "name_english": "People’s Working Party/People's Progressive Movement",
+      "name_other": "",
+      "year_first": 1998,
+      "year_last": 2001,
+      "share": 2.6,
+      "share_year": 2001,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Progressive_Movement_(Saint_Vincent_and_the_Grenadines)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Saint Vincent and the Grenadines — Political Parties - Free Download",
+    "description": "Political parties of Saint Vincent and the Grenadines from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Saint Vincent and the Grenadines — Political Parties | ListBase",
+    "seo_description": "Download Saint Vincent and the Grenadines — Political Parties dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

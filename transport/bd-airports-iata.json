@@ -1,0 +1,301 @@
+{
+  "id": "bd-airports-iata",
+  "name": "Bangladesh — IATA Airports",
+  "title": "Bangladesh — IATA Airports",
+  "description": "Airports with IATA codes in Bangladesh: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BZL",
+      "icao_code": "VGBR",
+      "name": "Barisal Airport",
+      "city_name_list": "Barishal",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Barisal Division",
+      "latitude": 22.801,
+      "longitude": 90.3012,
+      "elevation": "",
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Barisal_Airport"
+    },
+    {
+      "iata_code": "CGP",
+      "icao_code": "VGEG",
+      "name": "Shah Amanat International Airport",
+      "city_name_list": "Chattogram",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Chittagong",
+      "latitude": 22.249611,
+      "longitude": 91.813286,
+      "elevation": 3,
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Shah_Amanat_International_Airport"
+    },
+    {
+      "iata_code": "CLA",
+      "icao_code": "VGCM",
+      "name": "Comilla Airport",
+      "city_name_list": "Comilla",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Chittagong",
+      "latitude": 23.4372,
+      "longitude": 91.1897,
+      "elevation": "",
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Comilla_STOLport"
+    },
+    {
+      "iata_code": "CXB",
+      "icao_code": "VGCB",
+      "name": "Cox's Bazar Airport",
+      "city_name_list": "Cox’s Bāzār",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Chittagong",
+      "latitude": 21.45219,
+      "longitude": 91.96389,
+      "elevation": 4,
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Cox%27s_Bazar_Airport"
+    },
+    {
+      "iata_code": "DAC",
+      "icao_code": "VGHS",
+      "name": "Shahjalal International Airport",
+      "city_name_list": "Dhaka",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Dhaka Division",
+      "latitude": 23.843333,
+      "longitude": 90.397781,
+      "elevation": 9,
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Shahjalal_International_Airport"
+    },
+    {
+      "iata_code": "IRD",
+      "icao_code": "VGIS",
+      "name": "Ishwardi Airport",
+      "city_name_list": "Ishwardi",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Rajshahi Division",
+      "latitude": 24.1525,
+      "longitude": 89.049446,
+      "elevation": 13,
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ishwardi_Airport"
+    },
+    {
+      "iata_code": "JSR",
+      "icao_code": "VGJR",
+      "name": "Jessore Airport",
+      "city_name_list": "Jessore",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Khulna Division",
+      "latitude": 23.1838,
+      "longitude": 89.160833,
+      "elevation": 6,
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Jessore_Airport"
+    },
+    {
+      "iata_code": "LLJ",
+      "icao_code": "VGLM",
+      "name": "Lalmonirhat Airport",
+      "city_name_list": "Lalmonirhat",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Rangpur Division",
+      "latitude": 25.8875,
+      "longitude": 89.4331,
+      "elevation": "",
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lalmonirhat_Airport"
+    },
+    {
+      "iata_code": "RAU",
+      "icao_code": "",
+      "name": "Rangpur Airport",
+      "city_name_list": "Rangpur",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 25.75,
+      "longitude": 89.23,
+      "elevation": "",
+      "timezone": "Asia/Dhaka",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "RJH",
+      "icao_code": "VGRJ",
+      "name": "Shah Makhdum Airport",
+      "city_name_list": "Rajshahi",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Rajshahi Division",
+      "latitude": 24.43722,
+      "longitude": 88.61651,
+      "elevation": 19,
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Shah_Makhdum_Airport"
+    },
+    {
+      "iata_code": "SPD",
+      "icao_code": "VGSD",
+      "name": "Saidpur Airport",
+      "city_name_list": "Saidpur",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Rangpur Division",
+      "latitude": 25.759228,
+      "longitude": 88.908869,
+      "elevation": "",
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Saidpur_Airport"
+    },
+    {
+      "iata_code": "TKR",
+      "icao_code": "VGSG",
+      "name": "Thakurgaon Airport",
+      "city_name_list": "Thākurgaon",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Rangpur Division",
+      "latitude": 26.0164,
+      "longitude": 88.4036,
+      "elevation": "",
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Thakurgaon_STOLport"
+    },
+    {
+      "iata_code": "ZHM",
+      "icao_code": "VGSH",
+      "name": "Shamshernagar Airport",
+      "city_name_list": "Shamshernagar",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Sylhet Division",
+      "latitude": 24.38,
+      "longitude": 91.92,
+      "elevation": "",
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Shamshernagar_STOLport"
+    },
+    {
+      "iata_code": "ZYL",
+      "icao_code": "VGSY",
+      "name": "Osmani International Airport",
+      "city_name_list": "Sylhet",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Sylhet Division",
+      "latitude": 24.95,
+      "longitude": 91.87,
+      "elevation": "",
+      "timezone": "Asia/Dhaka",
+      "wiki_link": "https://en.wikipedia.org/wiki/Osmani_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Bangladesh — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Bangladesh: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bangladesh — IATA Airports | ListBase",
+    "seo_description": "Download Bangladesh — IATA Airports dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

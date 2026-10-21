@@ -1,0 +1,211 @@
+{
+  "id": "bz-political-parties",
+  "name": "Belize — Political Parties",
+  "title": "Belize — Political Parties",
+  "description": "Political parties of Belize from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3739,
+      "name_short": "PUP",
+      "name": "People’s United Party",
+      "name_english": "People’s United Party",
+      "name_other": "",
+      "year_first": 1954,
+      "year_last": 2012,
+      "share": 65,
+      "share_year": 1954,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_United_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3738,
+      "name_short": "UDP",
+      "name": "United Democratic Party",
+      "name_english": "United Democratic Party",
+      "name_other": "",
+      "year_first": 1974,
+      "year_last": 2012,
+      "share": 56.7,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Democratic_Party_(Belize)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5839,
+      "name_short": "NABR",
+      "name": "National Alliance for Belizean Rights",
+      "name_english": "National Alliance for Belizean Rights",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 1998,
+      "share": 48.7,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Alliance_for_Belizean_Rights",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4085,
+      "name_short": "NIP",
+      "name": "National Independence Party",
+      "name_english": "National Independence Party",
+      "name_other": "",
+      "year_first": 1961,
+      "year_last": 1969,
+      "share": 40,
+      "share_year": 1965,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Independence_Party_(Belize)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4086,
+      "name_short": "NP",
+      "name": "National Party",
+      "name_english": "National Party",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": 1958,
+      "share": 23,
+      "share_year": 1954,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Party_(Belize)",
+      "description": "precessor of 4085",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4087,
+      "name_short": "HIP",
+      "name": "Honduran Independent Party",
+      "name_english": "Honduran Independent Party",
+      "name_other": "",
+      "year_first": 1956,
+      "year_last": 1958,
+      "share": 13.5,
+      "share_year": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/Honduran_Independence_Party",
+      "description": "precessor of 4085",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4088,
+      "name_short": "CDP",
+      "name": "Christian Democratic Party",
+      "name_english": "Christian Democratic Party",
+      "name_other": "Democratic and Agricultural Labour Party (DALP)",
+      "year_first": 1958,
+      "year_last": 1984,
+      "share": 11.6,
+      "share_year": 1961,
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_Democratic_Party_(Belize)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4084,
+      "name_short": "CUF",
+      "name": "Corozal United Front",
+      "name_english": "Corozal United Front",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": 1974,
+      "share": 4.3,
+      "share_year": 1974,
+      "wikipedia": "https://en.wikipedia.org/wiki/Corozal_United_Front",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Belize — Political Parties - Free Download",
+    "description": "Political parties of Belize from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Belize — Political Parties | ListBase",
+    "seo_description": "Download Belize — Political Parties dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

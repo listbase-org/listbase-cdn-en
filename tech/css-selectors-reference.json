@@ -1,0 +1,761 @@
+{
+  "id": "css-selectors-reference",
+  "name": "CSS Selectors Reference (MDN)",
+  "title": "CSS Selectors Reference (MDN)",
+  "description": "Reference of CSS selectors from MDN Web Docs, including syntax and grouping information for all standard CSS selectors.",
+  "category": "tech",
+  "source": "https://github.com/mdn/data",
+  "source_url": "https://github.com/mdn/data",
+  "updated": "2026-04",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "selector",
+      "label": "Selector",
+      "type": "string"
+    },
+    {
+      "key": "syntax",
+      "label": "Syntax",
+      "type": "string"
+    },
+    {
+      "key": "groups",
+      "label": "Groups",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "selector": "Type selectors",
+      "syntax": "element",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "Class selectors",
+      "syntax": ".class",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "ID selectors",
+      "syntax": "#id",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "Universal selectors",
+      "syntax": "*",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "Attribute selectors",
+      "syntax": "[attr=value]",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "Nesting selector",
+      "syntax": "A { &B { } }",
+      "groups": "CSS Nesting"
+    },
+    {
+      "selector": "Selector list",
+      "syntax": ",",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "Next-sibling combinator",
+      "syntax": "A + B",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "Subsequent-sibling combinator",
+      "syntax": "A ~ B",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "Child combinator",
+      "syntax": "A > B",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "Descendant combinator",
+      "syntax": "A B",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "Column combinator",
+      "syntax": "A || B",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "Namespace separator",
+      "syntax": "A | B",
+      "groups": "CSS Namespaces"
+    },
+    {
+      "selector": "Pseudo-classes",
+      "syntax": ":",
+      "groups": "Selectors"
+    },
+    {
+      "selector": "Pseudo-elements",
+      "syntax": "::",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":active",
+      "syntax": ":active",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":active-view-transition",
+      "syntax": ":active-view-transition",
+      "groups": "CSS View Transitions"
+    },
+    {
+      "selector": ":active-view-transition-type()",
+      "syntax": ":active-view-transition-type( <custom-ident># )",
+      "groups": "CSS View Transitions"
+    },
+    {
+      "selector": ":any-link",
+      "syntax": ":any-link",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":autofill",
+      "syntax": ":autofill",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":blank",
+      "syntax": ":blank",
+      "groups": "CSS Paged Media"
+    },
+    {
+      "selector": ":buffering",
+      "syntax": ":buffering",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":checked",
+      "syntax": ":checked",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":current",
+      "syntax": ":current",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":default",
+      "syntax": ":default",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":defined",
+      "syntax": ":defined",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":dir()",
+      "syntax": ":dir( [ ltr | rtl ] )",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":disabled",
+      "syntax": ":disabled",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":empty",
+      "syntax": ":empty",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":enabled",
+      "syntax": ":enabled",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":first",
+      "syntax": ":first",
+      "groups": "CSS Paged Media"
+    },
+    {
+      "selector": ":first-child",
+      "syntax": ":first-child",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":first-of-type",
+      "syntax": ":first-of-type",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":focus",
+      "syntax": ":focus",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":focus-visible",
+      "syntax": ":focus-visible",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":focus-within",
+      "syntax": ":focus-within",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":fullscreen",
+      "syntax": ":fullscreen",
+      "groups": "Selectors, Fullscreen API"
+    },
+    {
+      "selector": ":future",
+      "syntax": ":future",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":has()",
+      "syntax": ":has( <forgiving-relative-selector-list> )",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":has-slotted",
+      "syntax": ":has-slotted",
+      "groups": "CSS Scoping"
+    },
+    {
+      "selector": ":host",
+      "syntax": ":host",
+      "groups": "CSS Scoping"
+    },
+    {
+      "selector": ":host()",
+      "syntax": ":host( <compound-selector> )",
+      "groups": "CSS Scoping"
+    },
+    {
+      "selector": ":host-context()",
+      "syntax": ":host-context( <compound-selector> )",
+      "groups": "CSS Scoping"
+    },
+    {
+      "selector": ":hover",
+      "syntax": ":hover",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":in-range",
+      "syntax": ":in-range",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":indeterminate",
+      "syntax": ":indeterminate",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":invalid",
+      "syntax": ":invalid",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":is()",
+      "syntax": ":is( <forgiving-selector-list> )",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":lang()",
+      "syntax": ":lang( <language-code> )",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":last-child",
+      "syntax": ":last-child",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":last-of-type",
+      "syntax": ":last-of-type",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":left",
+      "syntax": ":left",
+      "groups": "CSS Paged Media"
+    },
+    {
+      "selector": ":link",
+      "syntax": ":link",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":local-link",
+      "syntax": ":local-link",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":modal",
+      "syntax": ":modal",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":muted",
+      "syntax": ":muted",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":not()",
+      "syntax": ":not( <complex-selector-list> )",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":nth-child()",
+      "syntax": ":nth-child( <an+b> [ of <complex-selector-list> ]? )",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":nth-last-child()",
+      "syntax": ":nth-last-child( <an+b> [ of <complex-selector-list> ]? )",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":nth-last-of-type()",
+      "syntax": ":nth-last-of-type( <an+b> )",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":nth-of-type()",
+      "syntax": ":nth-of-type( <an+b> )",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":only-child",
+      "syntax": ":only-child",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":only-of-type",
+      "syntax": ":only-of-type",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":open",
+      "syntax": ":open",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":optional",
+      "syntax": ":optional",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":out-of-range",
+      "syntax": ":out-of-range",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":past",
+      "syntax": ":past",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":paused",
+      "syntax": ":paused",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":picture-in-picture",
+      "syntax": ":picture-in-picture",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":placeholder-shown",
+      "syntax": ":placeholder-shown",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":playing",
+      "syntax": ":playing",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":popover-open",
+      "syntax": ":popover-open",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":read-only",
+      "syntax": ":read-only",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":read-write",
+      "syntax": ":read-write",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":required",
+      "syntax": ":required",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":right",
+      "syntax": ":right",
+      "groups": "CSS Paged Media"
+    },
+    {
+      "selector": ":root",
+      "syntax": ":root",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":scope",
+      "syntax": ":scope",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":seeking",
+      "syntax": ":seeking",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":stalled",
+      "syntax": ":stalled",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":state()",
+      "syntax": ":state( <custom-ident> )",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":target",
+      "syntax": ":target",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":target-current",
+      "syntax": ":target-current",
+      "groups": "CSS Overflow"
+    },
+    {
+      "selector": ":target-within",
+      "syntax": ":target-within",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":user-invalid",
+      "syntax": ":user-invalid",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":user-valid",
+      "syntax": ":user-valid",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":valid",
+      "syntax": ":valid",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":visited",
+      "syntax": ":visited",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":volume-locked",
+      "syntax": ":volume-locked",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":where()",
+      "syntax": ":where( <complex-selector-list> )",
+      "groups": "Selectors"
+    },
+    {
+      "selector": ":xr-overlay",
+      "syntax": ":xr-overlay",
+      "groups": "WebXR DOM Overlays"
+    },
+    {
+      "selector": "::-ms-browse",
+      "syntax": "::-ms-browse",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-check",
+      "syntax": "::-ms-check",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-clear",
+      "syntax": "::-ms-clear",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-expand",
+      "syntax": "::-ms-expand",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-fill",
+      "syntax": "::-ms-fill",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-fill-lower",
+      "syntax": "::-ms-fill-lower",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-fill-upper",
+      "syntax": "::-ms-fill-upper",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-reveal",
+      "syntax": "::-ms-reveal",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-thumb",
+      "syntax": "::-ms-thumb",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-ticks-after",
+      "syntax": "::-ms-ticks-after",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-ticks-before",
+      "syntax": "::-ms-ticks-before",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-tooltip",
+      "syntax": "::-ms-tooltip",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-track",
+      "syntax": "::-ms-track",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-ms-value",
+      "syntax": "::-ms-value",
+      "groups": "Microsoft Extensions"
+    },
+    {
+      "selector": "::-moz-progress-bar",
+      "syntax": "::-moz-progress-bar",
+      "groups": "Mozilla Extensions"
+    },
+    {
+      "selector": "::-moz-range-progress",
+      "syntax": "::-moz-range-progress",
+      "groups": "Mozilla Extensions"
+    },
+    {
+      "selector": "::-moz-range-thumb",
+      "syntax": "::-moz-range-thumb",
+      "groups": "Mozilla Extensions"
+    },
+    {
+      "selector": "::-moz-range-track",
+      "syntax": "::-moz-range-track",
+      "groups": "Mozilla Extensions"
+    },
+    {
+      "selector": "::-webkit-progress-bar",
+      "syntax": "::-webkit-progress-bar",
+      "groups": "WebKit Extensions"
+    },
+    {
+      "selector": "::-webkit-progress-inner-value",
+      "syntax": "::-webkit-progress-inner-value",
+      "groups": "WebKit Extensions"
+    },
+    {
+      "selector": "::-webkit-progress-value",
+      "syntax": "::-webkit-progress-value",
+      "groups": "WebKit Extensions"
+    },
+    {
+      "selector": "::-webkit-slider-runnable-track",
+      "syntax": "::-webkit-slider-runnable-track",
+      "groups": "WebKit Extensions"
+    },
+    {
+      "selector": "::-webkit-slider-thumb",
+      "syntax": "::-webkit-slider-thumb",
+      "groups": "WebKit Extensions"
+    },
+    {
+      "selector": "::after",
+      "syntax": "::after",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::backdrop",
+      "syntax": "::backdrop",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::before",
+      "syntax": "::before",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::checkmark",
+      "syntax": "::checkmark",
+      "groups": "CSS Form Control Styling"
+    },
+    {
+      "selector": "::cue",
+      "syntax": "::cue",
+      "groups": "WebVTT"
+    },
+    {
+      "selector": "::cue()",
+      "syntax": "::cue( <selector> )",
+      "groups": "WebVTT"
+    },
+    {
+      "selector": "::cue-region",
+      "syntax": "::cue-region",
+      "groups": "WebVTT"
+    },
+    {
+      "selector": "::cue-region()",
+      "syntax": "::cue-region( <selector> )",
+      "groups": "WebVTT"
+    },
+    {
+      "selector": "::details-content",
+      "syntax": "::details-content",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::file-selector-button",
+      "syntax": "::file-selector-button",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::first-letter",
+      "syntax": "::first-letter",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::first-line",
+      "syntax": "::first-line",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::grammar-error",
+      "syntax": "::grammar-error",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::highlight()",
+      "syntax": "::highlight( <custom-ident> )",
+      "groups": "CSS Pseudo-Elements, CSS Custom Highlight API"
+    },
+    {
+      "selector": "::marker",
+      "syntax": "::marker",
+      "groups": "CSS Pseudo-Elements, CSS Lists and Counters"
+    },
+    {
+      "selector": "::part()",
+      "syntax": "::part( <ident>+ )",
+      "groups": "CSS Shadow Parts"
+    },
+    {
+      "selector": "::picker-icon",
+      "syntax": "::picker-icon",
+      "groups": "CSS Form Control Styling"
+    },
+    {
+      "selector": "::picker()",
+      "syntax": "::picker( <form-control-identifier>+ )",
+      "groups": "CSS Form Control Styling"
+    },
+    {
+      "selector": "::placeholder",
+      "syntax": "::placeholder",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::scroll-marker",
+      "syntax": "::scroll-marker",
+      "groups": "CSS Overflow"
+    },
+    {
+      "selector": "::scroll-marker-group",
+      "syntax": "::scroll-marker-group",
+      "groups": "CSS Overflow"
+    },
+    {
+      "selector": "::selection",
+      "syntax": "::selection",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::slotted()",
+      "syntax": "::slotted( <compound-selector> )",
+      "groups": "CSS Scoping"
+    },
+    {
+      "selector": "::spelling-error",
+      "syntax": "::spelling-error",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::target-text",
+      "syntax": "::target-text",
+      "groups": "CSS Pseudo-Elements"
+    },
+    {
+      "selector": "::view-transition",
+      "syntax": "::view-transition",
+      "groups": "CSS View Transitions"
+    },
+    {
+      "selector": "::view-transition-group()",
+      "syntax": "::view-transition-group([ '*' | <custom-ident> ])",
+      "groups": "CSS View Transitions"
+    },
+    {
+      "selector": "::view-transition-image-pair()",
+      "syntax": "::view-transition-image-pair([ '*' | <custom-ident> ])",
+      "groups": "CSS View Transitions"
+    },
+    {
+      "selector": "::view-transition-new()",
+      "syntax": "::view-transition-new([ '*' | <custom-ident> ])",
+      "groups": "CSS View Transitions"
+    },
+    {
+      "selector": "::view-transition-old()",
+      "syntax": "::view-transition-old([ '*' | <custom-ident> ])",
+      "groups": "CSS View Transitions"
+    }
+  ],
+  "meta": {
+    "title": "CSS Selectors Reference (MDN) - Free Download",
+    "description": "Reference of CSS selectors from MDN Web Docs, including syntax and grouping information for all standard CSS selectors. Contains 144 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "CSS Selectors Reference (MDN) | ListBase",
+    "seo_description": "Download CSS Selectors Reference (MDN) — 144 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 144 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/mdn/data"
+    ]
+  }
+}

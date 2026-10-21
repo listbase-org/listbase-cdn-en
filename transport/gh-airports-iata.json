@@ -1,0 +1,181 @@
+{
+  "id": "gh-airports-iata",
+  "name": "Ghana — IATA Airports",
+  "title": "Ghana — IATA Airports",
+  "description": "Airports with IATA codes in Ghana: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "ACC",
+      "icao_code": "DGAA",
+      "name": "Kotoka International Airport",
+      "city_name_list": "Accra",
+      "country_code": "GH",
+      "country_name": "Ghana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Greater Accra",
+      "latitude": 5.60519,
+      "longitude": -0.16679,
+      "elevation": 62,
+      "timezone": "Africa/Accra",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kotoka_International_Airport"
+    },
+    {
+      "iata_code": "KMS",
+      "icao_code": "DGSI",
+      "name": "Kumasi Airport",
+      "city_name_list": "Kumasi",
+      "country_code": "GH",
+      "country_name": "Ghana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Ashanti",
+      "latitude": 6.714564,
+      "longitude": -1.590819,
+      "elevation": 287,
+      "timezone": "Africa/Accra",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kumasi_Airport"
+    },
+    {
+      "iata_code": "NYI",
+      "icao_code": "DGSN",
+      "name": "Sunyani Airport",
+      "city_name_list": "Sunyani",
+      "country_code": "GH",
+      "country_name": "Ghana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Bono",
+      "latitude": 7.361828,
+      "longitude": -2.328756,
+      "elevation": 309,
+      "timezone": "Africa/Accra",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sunyani_Airport"
+    },
+    {
+      "iata_code": "TKD",
+      "icao_code": "DGTK",
+      "name": "Takoradi Airport",
+      "city_name_list": "Takoradi",
+      "country_code": "GH",
+      "country_name": "Ghana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Western",
+      "latitude": 4.896056,
+      "longitude": -1.774756,
+      "elevation": 6,
+      "timezone": "Africa/Accra",
+      "wiki_link": "https://en.wikipedia.org/wiki/Takoradi_Airport"
+    },
+    {
+      "iata_code": "TML",
+      "icao_code": "DGLE",
+      "name": "Tamale Airport",
+      "city_name_list": "Tamale",
+      "country_code": "GH",
+      "country_name": "Ghana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Northern",
+      "latitude": 9.557192,
+      "longitude": -0.863214,
+      "elevation": 168,
+      "timezone": "Africa/Accra",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tamale_Airport"
+    },
+    {
+      "iata_code": "WZA",
+      "icao_code": "DGLW",
+      "name": "Wa Airport",
+      "city_name_list": "Wa",
+      "country_code": "GH",
+      "country_name": "Ghana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Upper West",
+      "latitude": 10.08266,
+      "longitude": -2.50769,
+      "elevation": 323,
+      "timezone": "Africa/Accra",
+      "wiki_link": "https://en.wikipedia.org/wiki/Wa_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Ghana — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Ghana: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ghana — IATA Airports | ListBase",
+    "seo_description": "Download Ghana — IATA Airports dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

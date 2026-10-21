@@ -1,0 +1,136 @@
+{
+  "id": "si-airports-iata",
+  "name": "Slovenia — IATA Airports",
+  "title": "Slovenia — IATA Airports",
+  "description": "Airports with IATA codes in Slovenia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "LJU",
+      "icao_code": "LJLJ",
+      "name": "Ljubljana Jože Pučnik Airport",
+      "city_name_list": "Ljubljana",
+      "country_code": "SI",
+      "country_name": "Slovenia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Municipality of Cerklje na Gorenjskem",
+      "latitude": 46.22369,
+      "longitude": 14.45761,
+      "elevation": 388,
+      "timezone": "Europe/Ljubljana",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ljubljana_Jo%C5%BEe_Pu%C4%8Dnik_Airport"
+    },
+    {
+      "iata_code": "MBX",
+      "icao_code": "LJMB",
+      "name": "Maribor Edvard Rusjan Airport",
+      "city_name_list": "Maribor",
+      "country_code": "SI",
+      "country_name": "Slovenia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Municipality of Hoce-Slivnica",
+      "latitude": 46.479861,
+      "longitude": 15.686131,
+      "elevation": 267,
+      "timezone": "Europe/Ljubljana",
+      "wiki_link": "https://en.wikipedia.org/wiki/Maribor_Edvard_Rusjan_Airport"
+    },
+    {
+      "iata_code": "POW",
+      "icao_code": "LJPZ",
+      "name": "Portorož Airport",
+      "city_name_list": "Portorož",
+      "country_code": "SI",
+      "country_name": "Slovenia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Municipality of Piran",
+      "latitude": 45.47488,
+      "longitude": 13.61481,
+      "elevation": 2,
+      "timezone": "Europe/Ljubljana",
+      "wiki_link": "https://en.wikipedia.org/wiki/Portoro%C5%BE_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Slovenia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Slovenia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 3 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Slovenia — IATA Airports | ListBase",
+    "seo_description": "Download Slovenia — IATA Airports dataset with 3 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 3 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

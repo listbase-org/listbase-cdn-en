@@ -1,0 +1,156 @@
+{
+  "id": "th-unesco-heritage",
+  "name": "Thailand — UNESCO World Heritage Sites",
+  "title": "Thailand — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Thailand, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 574,
+      "name": "Historic Town of Sukhothai and Associated Historic Towns",
+      "category": "cultural",
+      "date_inscribed": 1991,
+      "criteria": "c1, c3",
+      "lat": 17.00722,
+      "lon": 99.78972,
+      "area_hectares": 11852,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "th",
+      "transboundary": false
+    },
+    {
+      "ref_no": 576,
+      "name": "Historic City of Ayutthaya",
+      "category": "cultural",
+      "date_inscribed": 1991,
+      "criteria": "c3",
+      "lat": 14.34778,
+      "lon": 100.56056,
+      "area_hectares": 289,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "th",
+      "transboundary": false
+    },
+    {
+      "ref_no": 591,
+      "name": "Thungyai-Huai Kha Khaeng Wildlife Sanctuaries",
+      "category": "natural",
+      "date_inscribed": 1991,
+      "criteria": "n7, n9, n10",
+      "lat": 15.33333,
+      "lon": 98.91667,
+      "area_hectares": 622200,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "th",
+      "transboundary": false
+    },
+    {
+      "ref_no": 575,
+      "name": "Ban Chiang Archaeological Site",
+      "category": "cultural",
+      "date_inscribed": 1992,
+      "criteria": "c3",
+      "lat": 17.54861,
+      "lon": 103.35833,
+      "area_hectares": 30,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "th",
+      "transboundary": false
+    },
+    {
+      "ref_no": 590,
+      "name": "Dong Phayayen-Khao Yai Forest Complex",
+      "category": "natural",
+      "date_inscribed": 2005,
+      "criteria": "n10",
+      "lat": 14.33,
+      "lon": 102.05,
+      "area_hectares": 615500,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "th",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Thailand — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Thailand, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Thailand — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Thailand — UNESCO World Heritage Sites dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

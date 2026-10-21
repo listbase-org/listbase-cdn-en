@@ -1,0 +1,3040 @@
+{
+  "id": "us-librarians-by-metro-area",
+  "name": "US Librarians by Metropolitan Area",
+  "title": "US Librarians by Metropolitan Area",
+  "description": "BLS Occupational Employment Statistics for librarians across 373 US metropolitan and non-metropolitan areas, including employment count, jobs per 1,000, and location quotient. Some small metros have suppressed values ('**').",
+  "category": "geography",
+  "source": "https://github.com/fivethirtyeight/data",
+  "source_url": "https://github.com/fivethirtyeight/data",
+  "updated": "2026-04",
+  "record_count": 373,
+  "columns": [
+    {
+      "key": "prim_state",
+      "label": "Prim State",
+      "type": "string"
+    },
+    {
+      "key": "area_name",
+      "label": "Area Name",
+      "type": "string"
+    },
+    {
+      "key": "tot_emp",
+      "label": "Tot Emp",
+      "type": "string"
+    },
+    {
+      "key": "emp_prse",
+      "label": "Emp Prse",
+      "type": "string"
+    },
+    {
+      "key": "jobs_1000",
+      "label": "Jobs 1000",
+      "type": "string"
+    },
+    {
+      "key": "loc_quotient",
+      "label": "Loc Quotient",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "prim_state": "OH",
+      "area_name": "Springfield, OH",
+      "tot_emp": "**",
+      "emp_prse": "**",
+      "jobs_1000": "**",
+      "loc_quotient": "**"
+    },
+    {
+      "prim_state": "WA",
+      "area_name": "Mount Vernon-Anacortes, WA",
+      "tot_emp": "**",
+      "emp_prse": "**",
+      "jobs_1000": "**",
+      "loc_quotient": "**"
+    },
+    {
+      "prim_state": "PR",
+      "area_name": "Aguadilla-Isabela-San Sebastian, PR",
+      "tot_emp": "160",
+      "emp_prse": "4.4",
+      "jobs_1000": "3.727",
+      "loc_quotient": "3.62"
+    },
+    {
+      "prim_state": "PR",
+      "area_name": "Ponce, PR",
+      "tot_emp": "180",
+      "emp_prse": "3.6",
+      "jobs_1000": "3.434",
+      "loc_quotient": "3.34"
+    },
+    {
+      "prim_state": "PR",
+      "area_name": "San German-Cabo Rojo, PR",
+      "tot_emp": "50",
+      "emp_prse": "0.2",
+      "jobs_1000": "2.679",
+      "loc_quotient": "2.6"
+    },
+    {
+      "prim_state": "PR",
+      "area_name": "Mayaguez, PR",
+      "tot_emp": "80",
+      "emp_prse": "1.4",
+      "jobs_1000": "2.563",
+      "loc_quotient": "2.49"
+    },
+    {
+      "prim_state": "KY",
+      "area_name": "Owensboro, KY",
+      "tot_emp": "100",
+      "emp_prse": "34",
+      "jobs_1000": "2.099",
+      "loc_quotient": "2.04"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "Nassau-Suffolk, NY Metropolitan Division",
+      "tot_emp": "2530",
+      "emp_prse": "6.6",
+      "jobs_1000": "2.05",
+      "loc_quotient": "1.99"
+    },
+    {
+      "prim_state": "MD",
+      "area_name": "Bethesda-Rockville-Frederick, MD Metropolitan Division",
+      "tot_emp": "1140",
+      "emp_prse": "19.1",
+      "jobs_1000": "2.036",
+      "loc_quotient": "1.98"
+    },
+    {
+      "prim_state": "CT",
+      "area_name": "New Haven, CT",
+      "tot_emp": "550",
+      "emp_prse": "9",
+      "jobs_1000": "2.01",
+      "loc_quotient": "1.95"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Haverhill-North Andover-Amesbury, MA-NH NECTA Division",
+      "tot_emp": "160",
+      "emp_prse": "6",
+      "jobs_1000": "1.985",
+      "loc_quotient": "1.93"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Tallahassee, FL",
+      "tot_emp": "310",
+      "emp_prse": "3",
+      "jobs_1000": "1.975",
+      "loc_quotient": "1.92"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Durham-Chapel Hill, NC",
+      "tot_emp": "540",
+      "emp_prse": "1.7",
+      "jobs_1000": "1.962",
+      "loc_quotient": "1.91"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "Ithaca, NY",
+      "tot_emp": "100",
+      "emp_prse": "33.7",
+      "jobs_1000": "1.954",
+      "loc_quotient": "1.9"
+    },
+    {
+      "prim_state": "DE",
+      "area_name": "Dover, DE",
+      "tot_emp": "120",
+      "emp_prse": "42.6",
+      "jobs_1000": "1.952",
+      "loc_quotient": "1.9"
+    },
+    {
+      "prim_state": "MO",
+      "area_name": "St. Joseph, MO-KS",
+      "tot_emp": "100",
+      "emp_prse": "12.6",
+      "jobs_1000": "1.942",
+      "loc_quotient": "1.89"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Gainesville, FL",
+      "tot_emp": "220",
+      "emp_prse": "9.1",
+      "jobs_1000": "1.805",
+      "loc_quotient": "1.75"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "Poughkeepsie-Newburgh-Middletown, NY",
+      "tot_emp": "440",
+      "emp_prse": "10.3",
+      "jobs_1000": "1.802",
+      "loc_quotient": "1.75"
+    },
+    {
+      "prim_state": "IA",
+      "area_name": "Iowa City, IA",
+      "tot_emp": "160",
+      "emp_prse": "45.5",
+      "jobs_1000": "1.792",
+      "loc_quotient": "1.74"
+    },
+    {
+      "prim_state": "KS",
+      "area_name": "Lawrence, KS",
+      "tot_emp": "80",
+      "emp_prse": "11.7",
+      "jobs_1000": "1.754",
+      "loc_quotient": "1.7"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Worcester, MA-CT",
+      "tot_emp": "420",
+      "emp_prse": "6.9",
+      "jobs_1000": "1.73",
+      "loc_quotient": "1.68"
+    },
+    {
+      "prim_state": "ND",
+      "area_name": "Grand Forks, ND-MN",
+      "tot_emp": "90",
+      "emp_prse": "2.8",
+      "jobs_1000": "1.716",
+      "loc_quotient": "1.67"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Anderson, IN",
+      "tot_emp": "60",
+      "emp_prse": "15.4",
+      "jobs_1000": "1.7",
+      "loc_quotient": "1.65"
+    },
+    {
+      "prim_state": "KS",
+      "area_name": "Manhattan, KS",
+      "tot_emp": "80",
+      "emp_prse": "7.4",
+      "jobs_1000": "1.68",
+      "loc_quotient": "1.63"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Springfield, MA-CT",
+      "tot_emp": "480",
+      "emp_prse": "9.1",
+      "jobs_1000": "1.67",
+      "loc_quotient": "1.62"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Ocala, FL",
+      "tot_emp": "150",
+      "emp_prse": "40.7",
+      "jobs_1000": "1.667",
+      "loc_quotient": "1.62"
+    },
+    {
+      "prim_state": "AL",
+      "area_name": "Auburn-Opelika, AL",
+      "tot_emp": "80",
+      "emp_prse": "6.7",
+      "jobs_1000": "1.658",
+      "loc_quotient": "1.61"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Madera-Chowchilla, CA",
+      "tot_emp": "60",
+      "emp_prse": "30.1",
+      "jobs_1000": "1.655",
+      "loc_quotient": "1.61"
+    },
+    {
+      "prim_state": "OH",
+      "area_name": "Dayton, OH",
+      "tot_emp": "610",
+      "emp_prse": "29.7",
+      "jobs_1000": "1.652",
+      "loc_quotient": "1.6"
+    },
+    {
+      "prim_state": "SC",
+      "area_name": "Sumter, SC",
+      "tot_emp": "60",
+      "emp_prse": "17",
+      "jobs_1000": "1.644",
+      "loc_quotient": "1.6"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "Sheboygan, WI",
+      "tot_emp": "90",
+      "emp_prse": "16.8",
+      "jobs_1000": "1.613",
+      "loc_quotient": "1.57"
+    },
+    {
+      "prim_state": "OK",
+      "area_name": "Lawton, OK",
+      "tot_emp": "70",
+      "emp_prse": "23.4",
+      "jobs_1000": "1.612",
+      "loc_quotient": "1.57"
+    },
+    {
+      "prim_state": "IL",
+      "area_name": "Bloomington-Normal, IL",
+      "tot_emp": "140",
+      "emp_prse": "9.6",
+      "jobs_1000": "1.608",
+      "loc_quotient": "1.56"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "Kingston, NY",
+      "tot_emp": "90",
+      "emp_prse": "8.1",
+      "jobs_1000": "1.607",
+      "loc_quotient": "1.56"
+    },
+    {
+      "prim_state": "KS",
+      "area_name": "Topeka, KS",
+      "tot_emp": "170",
+      "emp_prse": "10",
+      "jobs_1000": "1.604",
+      "loc_quotient": "1.56"
+    },
+    {
+      "prim_state": "KY",
+      "area_name": "Bowling Green, KY",
+      "tot_emp": "90",
+      "emp_prse": "6.8",
+      "jobs_1000": "1.58",
+      "loc_quotient": "1.53"
+    },
+    {
+      "prim_state": "MD",
+      "area_name": "Salisbury, MD",
+      "tot_emp": "80",
+      "emp_prse": "2.1",
+      "jobs_1000": "1.569",
+      "loc_quotient": "1.52"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Athens-Clarke County, GA",
+      "tot_emp": "120",
+      "emp_prse": "5.1",
+      "jobs_1000": "1.556",
+      "loc_quotient": "1.51"
+    },
+    {
+      "prim_state": "AR",
+      "area_name": "Jonesboro, AR",
+      "tot_emp": "80",
+      "emp_prse": "3.8",
+      "jobs_1000": "1.539",
+      "loc_quotient": "1.49"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "Albany-Schenectady-Troy, NY",
+      "tot_emp": "660",
+      "emp_prse": "5.1",
+      "jobs_1000": "1.538",
+      "loc_quotient": "1.49"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Muncie, IN",
+      "tot_emp": "70",
+      "emp_prse": "4.3",
+      "jobs_1000": "1.524",
+      "loc_quotient": "1.48"
+    },
+    {
+      "prim_state": "VA",
+      "area_name": "Lynchburg, VA",
+      "tot_emp": "150",
+      "emp_prse": "18.2",
+      "jobs_1000": "1.515",
+      "loc_quotient": "1.47"
+    },
+    {
+      "prim_state": "CT",
+      "area_name": "Norwich-New London, CT-RI",
+      "tot_emp": "190",
+      "emp_prse": "11.2",
+      "jobs_1000": "1.513",
+      "loc_quotient": "1.47"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Niles-Benton Harbor, MI",
+      "tot_emp": "90",
+      "emp_prse": "22.9",
+      "jobs_1000": "1.508",
+      "loc_quotient": "1.46"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "McAllen-Edinburg-Mission, TX",
+      "tot_emp": "350",
+      "emp_prse": "3",
+      "jobs_1000": "1.5",
+      "loc_quotient": "1.46"
+    },
+    {
+      "prim_state": "TN",
+      "area_name": "Kingsport-Bristol-Bristol, TN-VA",
+      "tot_emp": "170",
+      "emp_prse": "16",
+      "jobs_1000": "1.5",
+      "loc_quotient": "1.46"
+    },
+    {
+      "prim_state": "CT",
+      "area_name": "Hartford-West Hartford-East Hartford, CT",
+      "tot_emp": "830",
+      "emp_prse": "8.1",
+      "jobs_1000": "1.486",
+      "loc_quotient": "1.44"
+    },
+    {
+      "prim_state": "MS",
+      "area_name": "Jackson, MS",
+      "tot_emp": "370",
+      "emp_prse": "7.7",
+      "jobs_1000": "1.477",
+      "loc_quotient": "1.43"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "Glens Falls, NY",
+      "tot_emp": "80",
+      "emp_prse": "6.7",
+      "jobs_1000": "1.466",
+      "loc_quotient": "1.42"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "Johnstown, PA",
+      "tot_emp": "80",
+      "emp_prse": "8.9",
+      "jobs_1000": "1.465",
+      "loc_quotient": "1.42"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "Madison, WI",
+      "tot_emp": "500",
+      "emp_prse": "5.6",
+      "jobs_1000": "1.463",
+      "loc_quotient": "1.42"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Fayetteville, NC",
+      "tot_emp": "180",
+      "emp_prse": "6.9",
+      "jobs_1000": "1.461",
+      "loc_quotient": "1.42"
+    },
+    {
+      "prim_state": "PR",
+      "area_name": "San Juan-Caguas-Guaynabo, PR",
+      "tot_emp": "1050",
+      "emp_prse": "1.5",
+      "jobs_1000": "1.459",
+      "loc_quotient": "1.42"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Pittsfield, MA",
+      "tot_emp": "50",
+      "emp_prse": "13.9",
+      "jobs_1000": "1.454",
+      "loc_quotient": "1.41"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Boston-Cambridge-Quincy, MA NECTA Division",
+      "tot_emp": "2540",
+      "emp_prse": "2.3",
+      "jobs_1000": "1.452",
+      "loc_quotient": "1.41"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Burlington, NC",
+      "tot_emp": "80",
+      "emp_prse": "8.3",
+      "jobs_1000": "1.452",
+      "loc_quotient": "1.41"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "Syracuse, NY",
+      "tot_emp": "440",
+      "emp_prse": "6.8",
+      "jobs_1000": "1.447",
+      "loc_quotient": "1.41"
+    },
+    {
+      "prim_state": "WA",
+      "area_name": "Olympia, WA",
+      "tot_emp": "140",
+      "emp_prse": "17.6",
+      "jobs_1000": "1.446",
+      "loc_quotient": "1.4"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Ann Arbor, MI",
+      "tot_emp": "290",
+      "emp_prse": "9",
+      "jobs_1000": "1.437",
+      "loc_quotient": "1.4"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Bloomington, IN",
+      "tot_emp": "100",
+      "emp_prse": "3.6",
+      "jobs_1000": "1.429",
+      "loc_quotient": "1.39"
+    },
+    {
+      "prim_state": "LA",
+      "area_name": "Alexandria, LA",
+      "tot_emp": "90",
+      "emp_prse": "18.9",
+      "jobs_1000": "1.421",
+      "loc_quotient": "1.38"
+    },
+    {
+      "prim_state": "IL",
+      "area_name": "Peoria, IL",
+      "tot_emp": "260",
+      "emp_prse": "29",
+      "jobs_1000": "1.413",
+      "loc_quotient": "1.37"
+    },
+    {
+      "prim_state": "MD",
+      "area_name": "Cumberland, MD-WV",
+      "tot_emp": "50",
+      "emp_prse": "18.4",
+      "jobs_1000": "1.411",
+      "loc_quotient": "1.37"
+    },
+    {
+      "prim_state": "DC",
+      "area_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",
+      "tot_emp": "3340",
+      "emp_prse": "2.4",
+      "jobs_1000": "1.409",
+      "loc_quotient": "1.37"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "Rochester, NY",
+      "tot_emp": "700",
+      "emp_prse": "4.4",
+      "jobs_1000": "1.407",
+      "loc_quotient": "1.37"
+    },
+    {
+      "prim_state": "SC",
+      "area_name": "Columbia, SC",
+      "tot_emp": "480",
+      "emp_prse": "2.5",
+      "jobs_1000": "1.397",
+      "loc_quotient": "1.36"
+    },
+    {
+      "prim_state": "NJ",
+      "area_name": "Edison-New Brunswick, NJ Metropolitan Division",
+      "tot_emp": "1370",
+      "emp_prse": "18.2",
+      "jobs_1000": "1.391",
+      "loc_quotient": "1.35"
+    },
+    {
+      "prim_state": "CT",
+      "area_name": "Waterbury, CT",
+      "tot_emp": "90",
+      "emp_prse": "10.8",
+      "jobs_1000": "1.39",
+      "loc_quotient": "1.35"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "South Bend-Mishawaka, IN-MI",
+      "tot_emp": "170",
+      "emp_prse": "5.4",
+      "jobs_1000": "1.385",
+      "loc_quotient": "1.34"
+    },
+    {
+      "prim_state": "NH",
+      "area_name": "Rochester-Dover, NH-ME",
+      "tot_emp": "70",
+      "emp_prse": "16.6",
+      "jobs_1000": "1.377",
+      "loc_quotient": "1.34"
+    },
+    {
+      "prim_state": "CO",
+      "area_name": "Greeley, CO",
+      "tot_emp": "120",
+      "emp_prse": "5.3",
+      "jobs_1000": "1.376",
+      "loc_quotient": "1.34"
+    },
+    {
+      "prim_state": "MS",
+      "area_name": "Pascagoula, MS",
+      "tot_emp": "70",
+      "emp_prse": "18.4",
+      "jobs_1000": "1.375",
+      "loc_quotient": "1.34"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "Utica-Rome, NY",
+      "tot_emp": "170",
+      "emp_prse": "13.5",
+      "jobs_1000": "1.372",
+      "loc_quotient": "1.33"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Palm Bay-Melbourne-Titusville, FL",
+      "tot_emp": "260",
+      "emp_prse": "6",
+      "jobs_1000": "1.363",
+      "loc_quotient": "1.32"
+    },
+    {
+      "prim_state": "MO",
+      "area_name": "Jefferson City, MO",
+      "tot_emp": "100",
+      "emp_prse": "13.6",
+      "jobs_1000": "1.36",
+      "loc_quotient": "1.32"
+    },
+    {
+      "prim_state": "IL",
+      "area_name": "Lake County-Kenosha County, IL-WI Metropolitan Division",
+      "tot_emp": "510",
+      "emp_prse": "20.5",
+      "jobs_1000": "1.35",
+      "loc_quotient": "1.31"
+    },
+    {
+      "prim_state": "ND",
+      "area_name": "Bismarck, ND",
+      "tot_emp": "90",
+      "emp_prse": "13.6",
+      "jobs_1000": "1.34",
+      "loc_quotient": "1.3"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Leominster-Fitchburg-Gardner, MA",
+      "tot_emp": "60",
+      "emp_prse": "31.7",
+      "jobs_1000": "1.332",
+      "loc_quotient": "1.29"
+    },
+    {
+      "prim_state": "OR",
+      "area_name": "Corvallis, OR",
+      "tot_emp": "40",
+      "emp_prse": "6.8",
+      "jobs_1000": "1.327",
+      "loc_quotient": "1.29"
+    },
+    {
+      "prim_state": "OH",
+      "area_name": "Canton-Massillon, OH",
+      "tot_emp": "220",
+      "emp_prse": "8.7",
+      "jobs_1000": "1.325",
+      "loc_quotient": "1.29"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "Fond du Lac, WI",
+      "tot_emp": "60",
+      "emp_prse": "12.2",
+      "jobs_1000": "1.324",
+      "loc_quotient": "1.29"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Deltona-Daytona Beach-Ormond Beach, FL",
+      "tot_emp": "200",
+      "emp_prse": "12.2",
+      "jobs_1000": "1.319",
+      "loc_quotient": "1.28"
+    },
+    {
+      "prim_state": "ME",
+      "area_name": "Bangor, ME",
+      "tot_emp": "80",
+      "emp_prse": "10.4",
+      "jobs_1000": "1.319",
+      "loc_quotient": "1.28"
+    },
+    {
+      "prim_state": "RI",
+      "area_name": "Providence-Fall River-Warwick, RI-MA",
+      "tot_emp": "710",
+      "emp_prse": "5",
+      "jobs_1000": "1.315",
+      "loc_quotient": "1.28"
+    },
+    {
+      "prim_state": "LA",
+      "area_name": "Monroe, LA",
+      "tot_emp": "100",
+      "emp_prse": "4",
+      "jobs_1000": "1.308",
+      "loc_quotient": "1.27"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Rome, GA",
+      "tot_emp": "50",
+      "emp_prse": "25",
+      "jobs_1000": "1.304",
+      "loc_quotient": "1.27"
+    },
+    {
+      "prim_state": "CT",
+      "area_name": "Bridgeport-Stamford-Norwalk, CT",
+      "tot_emp": "540",
+      "emp_prse": "5.6",
+      "jobs_1000": "1.295",
+      "loc_quotient": "1.26"
+    },
+    {
+      "prim_state": "NJ",
+      "area_name": "Trenton-Ewing, NJ",
+      "tot_emp": "280",
+      "emp_prse": "15.6",
+      "jobs_1000": "1.29",
+      "loc_quotient": "1.25"
+    },
+    {
+      "prim_state": "CT",
+      "area_name": "Danbury, CT",
+      "tot_emp": "90",
+      "emp_prse": "20.4",
+      "jobs_1000": "1.284",
+      "loc_quotient": "1.25"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "State College, PA",
+      "tot_emp": "80",
+      "emp_prse": "10.6",
+      "jobs_1000": "1.283",
+      "loc_quotient": "1.25"
+    },
+    {
+      "prim_state": "WV",
+      "area_name": "Morgantown, WV",
+      "tot_emp": "80",
+      "emp_prse": "7.2",
+      "jobs_1000": "1.278",
+      "loc_quotient": "1.24"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "Pittsburgh, PA",
+      "tot_emp": "1440",
+      "emp_prse": "9.4",
+      "jobs_1000": "1.275",
+      "loc_quotient": "1.24"
+    },
+    {
+      "prim_state": "VA",
+      "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC",
+      "tot_emp": "920",
+      "emp_prse": "8.9",
+      "jobs_1000": "1.272",
+      "loc_quotient": "1.24"
+    },
+    {
+      "prim_state": "ME",
+      "area_name": "Portland-South Portland-Biddeford, ME",
+      "tot_emp": "250",
+      "emp_prse": "6.6",
+      "jobs_1000": "1.272",
+      "loc_quotient": "1.24"
+    },
+    {
+      "prim_state": "IL",
+      "area_name": "Kankakee-Bradley, IL",
+      "tot_emp": "50",
+      "emp_prse": "37.5",
+      "jobs_1000": "1.271",
+      "loc_quotient": "1.23"
+    },
+    {
+      "prim_state": "TN",
+      "area_name": "Morristown, TN",
+      "tot_emp": "60",
+      "emp_prse": "9.6",
+      "jobs_1000": "1.269",
+      "loc_quotient": "1.23"
+    },
+    {
+      "prim_state": "SC",
+      "area_name": "Anderson, SC",
+      "tot_emp": "80",
+      "emp_prse": "12",
+      "jobs_1000": "1.268",
+      "loc_quotient": "1.23"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Barnstable Town, MA",
+      "tot_emp": "120",
+      "emp_prse": "9",
+      "jobs_1000": "1.267",
+      "loc_quotient": "1.23"
+    },
+    {
+      "prim_state": "SC",
+      "area_name": "Greenville-Mauldin-Easley, SC",
+      "tot_emp": "380",
+      "emp_prse": "8.6",
+      "jobs_1000": "1.266",
+      "loc_quotient": "1.23"
+    },
+    {
+      "prim_state": "NH",
+      "area_name": "Nashua, NH-MA NECTA Division",
+      "tot_emp": "170",
+      "emp_prse": "5.8",
+      "jobs_1000": "1.266",
+      "loc_quotient": "1.23"
+    },
+    {
+      "prim_state": "VA",
+      "area_name": "Richmond, VA",
+      "tot_emp": "770",
+      "emp_prse": "3.6",
+      "jobs_1000": "1.265",
+      "loc_quotient": "1.23"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Raleigh-Cary, NC",
+      "tot_emp": "670",
+      "emp_prse": "9.6",
+      "jobs_1000": "1.258",
+      "loc_quotient": "1.22"
+    },
+    {
+      "prim_state": "TN",
+      "area_name": "Cleveland, TN",
+      "tot_emp": "50",
+      "emp_prse": "8.1",
+      "jobs_1000": "1.243",
+      "loc_quotient": "1.21"
+    },
+    {
+      "prim_state": "OH",
+      "area_name": "Cleveland-Elyria-Mentor, OH",
+      "tot_emp": "1250",
+      "emp_prse": "13.5",
+      "jobs_1000": "1.241",
+      "loc_quotient": "1.21"
+    },
+    {
+      "prim_state": "MO",
+      "area_name": "Springfield, MO",
+      "tot_emp": "230",
+      "emp_prse": "18.8",
+      "jobs_1000": "1.241",
+      "loc_quotient": "1.21"
+    },
+    {
+      "prim_state": "VA",
+      "area_name": "Harrisonburg, VA",
+      "tot_emp": "70",
+      "emp_prse": "0",
+      "jobs_1000": "1.241",
+      "loc_quotient": "1.21"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "El Paso, TX",
+      "tot_emp": "350",
+      "emp_prse": "6.1",
+      "jobs_1000": "1.234",
+      "loc_quotient": "1.2"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Greenville, NC",
+      "tot_emp": "90",
+      "emp_prse": "8.4",
+      "jobs_1000": "1.229",
+      "loc_quotient": "1.19"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Brownsville-Harlingen, TX",
+      "tot_emp": "160",
+      "emp_prse": "2.8",
+      "jobs_1000": "1.223",
+      "loc_quotient": "1.19"
+    },
+    {
+      "prim_state": "ID",
+      "area_name": "Pocatello, ID",
+      "tot_emp": "40",
+      "emp_prse": "8",
+      "jobs_1000": "1.221",
+      "loc_quotient": "1.19"
+    },
+    {
+      "prim_state": "MD",
+      "area_name": "Baltimore-Towson, MD",
+      "tot_emp": "1560",
+      "emp_prse": "3.9",
+      "jobs_1000": "1.218",
+      "loc_quotient": "1.18"
+    },
+    {
+      "prim_state": "WV",
+      "area_name": "Parkersburg-Marietta-Vienna, WV-OH",
+      "tot_emp": "80",
+      "emp_prse": "13.1",
+      "jobs_1000": "1.215",
+      "loc_quotient": "1.18"
+    },
+    {
+      "prim_state": "TN",
+      "area_name": "Clarksville, TN-KY",
+      "tot_emp": "100",
+      "emp_prse": "7.7",
+      "jobs_1000": "1.212",
+      "loc_quotient": "1.18"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Killeen-Temple-Fort Hood, TX",
+      "tot_emp": "160",
+      "emp_prse": "11.6",
+      "jobs_1000": "1.211",
+      "loc_quotient": "1.18"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Albany, GA",
+      "tot_emp": "70",
+      "emp_prse": "13.9",
+      "jobs_1000": "1.202",
+      "loc_quotient": "1.17"
+    },
+    {
+      "prim_state": "IL",
+      "area_name": "Decatur, IL",
+      "tot_emp": "60",
+      "emp_prse": "15.2",
+      "jobs_1000": "1.198",
+      "loc_quotient": "1.16"
+    },
+    {
+      "prim_state": "KY",
+      "area_name": "Lexington-Fayette, KY",
+      "tot_emp": "300",
+      "emp_prse": "5.1",
+      "jobs_1000": "1.192",
+      "loc_quotient": "1.16"
+    },
+    {
+      "prim_state": "OH",
+      "area_name": "Toledo, OH",
+      "tot_emp": "350",
+      "emp_prse": "11.6",
+      "jobs_1000": "1.19",
+      "loc_quotient": "1.16"
+    },
+    {
+      "prim_state": "UT",
+      "area_name": "Logan, UT-ID",
+      "tot_emp": "60",
+      "emp_prse": "20.1",
+      "jobs_1000": "1.183",
+      "loc_quotient": "1.15"
+    },
+    {
+      "prim_state": "NJ",
+      "area_name": "Newark-Union, NJ-PA Metropolitan Division",
+      "tot_emp": "1130",
+      "emp_prse": "13.2",
+      "jobs_1000": "1.179",
+      "loc_quotient": "1.15"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Brockton-Bridgewater-Easton, MA NECTA Division",
+      "tot_emp": "110",
+      "emp_prse": "6.9",
+      "jobs_1000": "1.178",
+      "loc_quotient": "1.14"
+    },
+    {
+      "prim_state": "AL",
+      "area_name": "Anniston-Oxford, AL",
+      "tot_emp": "50",
+      "emp_prse": "13.8",
+      "jobs_1000": "1.175",
+      "loc_quotient": "1.14"
+    },
+    {
+      "prim_state": "TN",
+      "area_name": "Jackson, TN",
+      "tot_emp": "70",
+      "emp_prse": "10.6",
+      "jobs_1000": "1.174",
+      "loc_quotient": "1.14"
+    },
+    {
+      "prim_state": "MS",
+      "area_name": "Hattiesburg, MS",
+      "tot_emp": "70",
+      "emp_prse": "8",
+      "jobs_1000": "1.173",
+      "loc_quotient": "1.14"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Rocky Mount, NC",
+      "tot_emp": "60",
+      "emp_prse": "5.4",
+      "jobs_1000": "1.173",
+      "loc_quotient": "1.14"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Lafayette, IN",
+      "tot_emp": "100",
+      "emp_prse": "44.5",
+      "jobs_1000": "1.171",
+      "loc_quotient": "1.14"
+    },
+    {
+      "prim_state": "WA",
+      "area_name": "Spokane, WA",
+      "tot_emp": "230",
+      "emp_prse": "4.5",
+      "jobs_1000": "1.17",
+      "loc_quotient": "1.14"
+    },
+    {
+      "prim_state": "IL",
+      "area_name": "Champaign-Urbana, IL",
+      "tot_emp": "110",
+      "emp_prse": "15.6",
+      "jobs_1000": "1.164",
+      "loc_quotient": "1.13"
+    },
+    {
+      "prim_state": "AR",
+      "area_name": "Fort Smith, AR-OK",
+      "tot_emp": "130",
+      "emp_prse": "7.4",
+      "jobs_1000": "1.161",
+      "loc_quotient": "1.13"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Abilene, TX",
+      "tot_emp": "70",
+      "emp_prse": "12.4",
+      "jobs_1000": "1.155",
+      "loc_quotient": "1.12"
+    },
+    {
+      "prim_state": "NH",
+      "area_name": "Manchester, NH",
+      "tot_emp": "120",
+      "emp_prse": "7.1",
+      "jobs_1000": "1.145",
+      "loc_quotient": "1.11"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Greensboro-High Point, NC",
+      "tot_emp": "390",
+      "emp_prse": "4.1",
+      "jobs_1000": "1.139",
+      "loc_quotient": "1.11"
+    },
+    {
+      "prim_state": "VA",
+      "area_name": "Charlottesville, VA",
+      "tot_emp": "110",
+      "emp_prse": "7.2",
+      "jobs_1000": "1.139",
+      "loc_quotient": "1.11"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "Binghamton, NY",
+      "tot_emp": "120",
+      "emp_prse": "4",
+      "jobs_1000": "1.138",
+      "loc_quotient": "1.11"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "La Crosse, WI-MN",
+      "tot_emp": "80",
+      "emp_prse": "11.5",
+      "jobs_1000": "1.136",
+      "loc_quotient": "1.1"
+    },
+    {
+      "prim_state": "WA",
+      "area_name": "Yakima, WA",
+      "tot_emp": "90",
+      "emp_prse": "4.2",
+      "jobs_1000": "1.132",
+      "loc_quotient": "1.1"
+    },
+    {
+      "prim_state": "AR",
+      "area_name": "Little Rock-North Little Rock-Conway, AR",
+      "tot_emp": "380",
+      "emp_prse": "9.3",
+      "jobs_1000": "1.129",
+      "loc_quotient": "1.1"
+    },
+    {
+      "prim_state": "AL",
+      "area_name": "Montgomery, AL",
+      "tot_emp": "180",
+      "emp_prse": "3.9",
+      "jobs_1000": "1.128",
+      "loc_quotient": "1.1"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Terre Haute, IN",
+      "tot_emp": "70",
+      "emp_prse": "9.1",
+      "jobs_1000": "1.124",
+      "loc_quotient": "1.09"
+    },
+    {
+      "prim_state": "NJ",
+      "area_name": "Ocean City, NJ",
+      "tot_emp": "40",
+      "emp_prse": "18.8",
+      "jobs_1000": "1.124",
+      "loc_quotient": "1.09"
+    },
+    {
+      "prim_state": "VA",
+      "area_name": "Roanoke, VA",
+      "tot_emp": "170",
+      "emp_prse": "11.1",
+      "jobs_1000": "1.118",
+      "loc_quotient": "1.09"
+    },
+    {
+      "prim_state": "VA",
+      "area_name": "Blacksburg-Christiansburg-Radford, VA",
+      "tot_emp": "70",
+      "emp_prse": "9.9",
+      "jobs_1000": "1.117",
+      "loc_quotient": "1.09"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Wichita Falls, TX",
+      "tot_emp": "60",
+      "emp_prse": "4.1",
+      "jobs_1000": "1.116",
+      "loc_quotient": "1.08"
+    },
+    {
+      "prim_state": "MO",
+      "area_name": "Columbia, MO",
+      "tot_emp": "100",
+      "emp_prse": "16.8",
+      "jobs_1000": "1.112",
+      "loc_quotient": "1.08"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Winston-Salem, NC",
+      "tot_emp": "230",
+      "emp_prse": "13.1",
+      "jobs_1000": "1.111",
+      "loc_quotient": "1.08"
+    },
+    {
+      "prim_state": "LA",
+      "area_name": "Baton Rouge, LA",
+      "tot_emp": "410",
+      "emp_prse": "3.2",
+      "jobs_1000": "1.105",
+      "loc_quotient": "1.07"
+    },
+    {
+      "prim_state": "AL",
+      "area_name": "Tuscaloosa, AL",
+      "tot_emp": "100",
+      "emp_prse": "20.3",
+      "jobs_1000": "1.102",
+      "loc_quotient": "1.07"
+    },
+    {
+      "prim_state": "ME",
+      "area_name": "Lewiston-Auburn, ME",
+      "tot_emp": "50",
+      "emp_prse": "21.3",
+      "jobs_1000": "1.102",
+      "loc_quotient": "1.07"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "New Bedford, MA",
+      "tot_emp": "70",
+      "emp_prse": "29.9",
+      "jobs_1000": "1.1",
+      "loc_quotient": "1.07"
+    },
+    {
+      "prim_state": "AZ",
+      "area_name": "Prescott, AZ",
+      "tot_emp": "60",
+      "emp_prse": "32.8",
+      "jobs_1000": "1.096",
+      "loc_quotient": "1.06"
+    },
+    {
+      "prim_state": "IL",
+      "area_name": "Chicago-Joliet-Naperville, IL Metropolitan Division",
+      "tot_emp": "4050",
+      "emp_prse": "10.3",
+      "jobs_1000": "1.094",
+      "loc_quotient": "1.06"
+    },
+    {
+      "prim_state": "WA",
+      "area_name": "Tacoma, WA Metropolitan Division",
+      "tot_emp": "290",
+      "emp_prse": "6.6",
+      "jobs_1000": "1.093",
+      "loc_quotient": "1.06"
+    },
+    {
+      "prim_state": "CO",
+      "area_name": "Boulder, CO",
+      "tot_emp": "180",
+      "emp_prse": "4.8",
+      "jobs_1000": "1.091",
+      "loc_quotient": "1.06"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Yuba City, CA",
+      "tot_emp": "40",
+      "emp_prse": "23.8",
+      "jobs_1000": "1.089",
+      "loc_quotient": "1.06"
+    },
+    {
+      "prim_state": "NJ",
+      "area_name": "Camden, NJ Metropolitan Division",
+      "tot_emp": "550",
+      "emp_prse": "10.2",
+      "jobs_1000": "1.088",
+      "loc_quotient": "1.06"
+    },
+    {
+      "prim_state": "AR",
+      "area_name": "Fayetteville-Springdale-Rogers, AR-MO",
+      "tot_emp": "230",
+      "emp_prse": "3.6",
+      "jobs_1000": "1.086",
+      "loc_quotient": "1.06"
+    },
+    {
+      "prim_state": "DE",
+      "area_name": "Wilmington, DE-MD-NJ Metropolitan Division",
+      "tot_emp": "350",
+      "emp_prse": "5.6",
+      "jobs_1000": "1.081",
+      "loc_quotient": "1.05"
+    },
+    {
+      "prim_state": "CO",
+      "area_name": "Fort Collins-Loveland, CO",
+      "tot_emp": "150",
+      "emp_prse": "1",
+      "jobs_1000": "1.079",
+      "loc_quotient": "1.05"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Monroe, MI",
+      "tot_emp": "40",
+      "emp_prse": "13.3",
+      "jobs_1000": "1.075",
+      "loc_quotient": "1.04"
+    },
+    {
+      "prim_state": "HI",
+      "area_name": "Honolulu, HI",
+      "tot_emp": "470",
+      "emp_prse": "3.1",
+      "jobs_1000": "1.068",
+      "loc_quotient": "1.04"
+    },
+    {
+      "prim_state": "SC",
+      "area_name": "Florence, SC",
+      "tot_emp": "90",
+      "emp_prse": "4.6",
+      "jobs_1000": "1.068",
+      "loc_quotient": "1.04"
+    },
+    {
+      "prim_state": "MO",
+      "area_name": "Cape Girardeau-Jackson, MO-IL",
+      "tot_emp": "40",
+      "emp_prse": "14.1",
+      "jobs_1000": "1.068",
+      "loc_quotient": "1.04"
+    },
+    {
+      "prim_state": "NM",
+      "area_name": "Santa Fe, NM",
+      "tot_emp": "60",
+      "emp_prse": "5",
+      "jobs_1000": "1.067",
+      "loc_quotient": "1.04"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "West Palm Beach-Boca Raton-Boynton Beach, FL Metropolitan Division",
+      "tot_emp": "560",
+      "emp_prse": "4",
+      "jobs_1000": "1.065",
+      "loc_quotient": "1.03"
+    },
+    {
+      "prim_state": "VA",
+      "area_name": "Winchester, VA-WV",
+      "tot_emp": "60",
+      "emp_prse": "45.2",
+      "jobs_1000": "1.062",
+      "loc_quotient": "1.03"
+    },
+    {
+      "prim_state": "MN",
+      "area_name": "St. Cloud, MN",
+      "tot_emp": "100",
+      "emp_prse": "7.7",
+      "jobs_1000": "1.06",
+      "loc_quotient": "1.03"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Framingham, MA NECTA Division",
+      "tot_emp": "170",
+      "emp_prse": "10.6",
+      "jobs_1000": "1.056",
+      "loc_quotient": "1.03"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "San Francisco-San Mateo-Redwood City, CA Metropolitan Division",
+      "tot_emp": "1100",
+      "emp_prse": "5.1",
+      "jobs_1000": "1.05",
+      "loc_quotient": "1.02"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "Scranton--Wilkes-Barre, PA",
+      "tot_emp": "260",
+      "emp_prse": "13.9",
+      "jobs_1000": "1.05",
+      "loc_quotient": "1.02"
+    },
+    {
+      "prim_state": "NE",
+      "area_name": "Omaha-Council Bluffs, NE-IA",
+      "tot_emp": "480",
+      "emp_prse": "5",
+      "jobs_1000": "1.049",
+      "loc_quotient": "1.02"
+    },
+    {
+      "prim_state": "LA",
+      "area_name": "Lake Charles, LA",
+      "tot_emp": "90",
+      "emp_prse": "0",
+      "jobs_1000": "1.045",
+      "loc_quotient": "1.01"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Peabody, MA NECTA Division",
+      "tot_emp": "110",
+      "emp_prse": "14.7",
+      "jobs_1000": "1.04",
+      "loc_quotient": "1.01"
+    },
+    {
+      "prim_state": "SD",
+      "area_name": "Rapid City, SD",
+      "tot_emp": "60",
+      "emp_prse": "1.1",
+      "jobs_1000": "1.039",
+      "loc_quotient": "1.01"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "New York-White Plains-Wayne, NY-NJ Metropolitan Division",
+      "tot_emp": "5440",
+      "emp_prse": "5.9",
+      "jobs_1000": "1.038",
+      "loc_quotient": "1.01"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Amarillo, TX",
+      "tot_emp": "110",
+      "emp_prse": "5.6",
+      "jobs_1000": "1.038",
+      "loc_quotient": "1.01"
+    },
+    {
+      "prim_state": "KY",
+      "area_name": "Elizabethtown, KY",
+      "tot_emp": "50",
+      "emp_prse": "4.9",
+      "jobs_1000": "1.037",
+      "loc_quotient": "1.01"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "Janesville, WI",
+      "tot_emp": "60",
+      "emp_prse": "10.1",
+      "jobs_1000": "1.035",
+      "loc_quotient": "1"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Asheville, NC",
+      "tot_emp": "180",
+      "emp_prse": "4.8",
+      "jobs_1000": "1.033",
+      "loc_quotient": "1"
+    },
+    {
+      "prim_state": "IA",
+      "area_name": "Davenport-Moline-Rock Island, IA-IL",
+      "tot_emp": "190",
+      "emp_prse": "15.3",
+      "jobs_1000": "1.031",
+      "loc_quotient": "1"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Kokomo, IN",
+      "tot_emp": "40",
+      "emp_prse": "4.8",
+      "jobs_1000": "1.031",
+      "loc_quotient": "1"
+    },
+    {
+      "prim_state": "MO",
+      "area_name": "Kansas City, MO-KS",
+      "tot_emp": "1020",
+      "emp_prse": "7.9",
+      "jobs_1000": "1.03",
+      "loc_quotient": "1"
+    },
+    {
+      "prim_state": "AL",
+      "area_name": "Gadsden, AL",
+      "tot_emp": "40",
+      "emp_prse": "12.4",
+      "jobs_1000": "1.029",
+      "loc_quotient": "1"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "Philadelphia, PA Metropolitan Division",
+      "tot_emp": "1890",
+      "emp_prse": "7",
+      "jobs_1000": "1.028",
+      "loc_quotient": "1"
+    },
+    {
+      "prim_state": "OK",
+      "area_name": "Oklahoma City, OK",
+      "tot_emp": "610",
+      "emp_prse": "16.1",
+      "jobs_1000": "1.028",
+      "loc_quotient": "1"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Austin-Round Rock-San Marcos, TX",
+      "tot_emp": "880",
+      "emp_prse": "5.4",
+      "jobs_1000": "1.026",
+      "loc_quotient": "1"
+    },
+    {
+      "prim_state": "UT",
+      "area_name": "Provo-Orem, UT",
+      "tot_emp": "190",
+      "emp_prse": "7.6",
+      "jobs_1000": "1.025",
+      "loc_quotient": "1"
+    },
+    {
+      "prim_state": "MO",
+      "area_name": "St. Louis, MO-IL",
+      "tot_emp": "1320",
+      "emp_prse": "5.7",
+      "jobs_1000": "1.024",
+      "loc_quotient": "0.99"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Indianapolis-Carmel, IN",
+      "tot_emp": "930",
+      "emp_prse": "10.2",
+      "jobs_1000": "1.024",
+      "loc_quotient": "0.99"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Augusta-Richmond County, GA-SC",
+      "tot_emp": "210",
+      "emp_prse": "6.6",
+      "jobs_1000": "1.015",
+      "loc_quotient": "0.99"
+    },
+    {
+      "prim_state": "TN",
+      "area_name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+      "tot_emp": "800",
+      "emp_prse": "3.9",
+      "jobs_1000": "1.014",
+      "loc_quotient": "0.99"
+    },
+    {
+      "prim_state": "VT",
+      "area_name": "Burlington-South Burlington, VT",
+      "tot_emp": "120",
+      "emp_prse": "19",
+      "jobs_1000": "1.011",
+      "loc_quotient": "0.98"
+    },
+    {
+      "prim_state": "SC",
+      "area_name": "Charleston-North Charleston-Summerville, SC",
+      "tot_emp": "300",
+      "emp_prse": "3.2",
+      "jobs_1000": "1.009",
+      "loc_quotient": "0.98"
+    },
+    {
+      "prim_state": "MT",
+      "area_name": "Missoula, MT",
+      "tot_emp": "60",
+      "emp_prse": "6.6",
+      "jobs_1000": "1.009",
+      "loc_quotient": "0.98"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Lakeland-Winter Haven, FL",
+      "tot_emp": "200",
+      "emp_prse": "3.4",
+      "jobs_1000": "1.007",
+      "loc_quotient": "0.98"
+    },
+    {
+      "prim_state": "WA",
+      "area_name": "Seattle-Bellevue-Everett, WA Metropolitan Division",
+      "tot_emp": "1460",
+      "emp_prse": "5.3",
+      "jobs_1000": "1.005",
+      "loc_quotient": "0.98"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Warner Robins, GA",
+      "tot_emp": "60",
+      "emp_prse": "10.6",
+      "jobs_1000": "1.005",
+      "loc_quotient": "0.98"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Sherman-Denison, TX",
+      "tot_emp": "40",
+      "emp_prse": "11.2",
+      "jobs_1000": "1.004",
+      "loc_quotient": "0.98"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Goldsboro, NC",
+      "tot_emp": "40",
+      "emp_prse": "16.8",
+      "jobs_1000": "1.004",
+      "loc_quotient": "0.97"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Lowell-Billerica-Chelmsford, MA-NH NECTA Division",
+      "tot_emp": "120",
+      "emp_prse": "10.2",
+      "jobs_1000": "1.003",
+      "loc_quotient": "0.97"
+    },
+    {
+      "prim_state": "MN",
+      "area_name": "Mankato-North Mankato, MN",
+      "tot_emp": "50",
+      "emp_prse": "32",
+      "jobs_1000": "1.002",
+      "loc_quotient": "0.97"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Jacksonville, NC",
+      "tot_emp": "40",
+      "emp_prse": "3.7",
+      "jobs_1000": "1.001",
+      "loc_quotient": "0.97"
+    },
+    {
+      "prim_state": "KS",
+      "area_name": "Wichita, KS",
+      "tot_emp": "280",
+      "emp_prse": "15.1",
+      "jobs_1000": "0.998",
+      "loc_quotient": "0.97"
+    },
+    {
+      "prim_state": "OR",
+      "area_name": "Salem, OR",
+      "tot_emp": "140",
+      "emp_prse": "8.8",
+      "jobs_1000": "0.995",
+      "loc_quotient": "0.97"
+    },
+    {
+      "prim_state": "MS",
+      "area_name": "Gulfport-Biloxi, MS",
+      "tot_emp": "100",
+      "emp_prse": "6.3",
+      "jobs_1000": "0.995",
+      "loc_quotient": "0.97"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Pensacola-Ferry Pass-Brent, FL",
+      "tot_emp": "150",
+      "emp_prse": "4.6",
+      "jobs_1000": "0.994",
+      "loc_quotient": "0.97"
+    },
+    {
+      "prim_state": "IL",
+      "area_name": "Springfield, IL",
+      "tot_emp": "100",
+      "emp_prse": "18.5",
+      "jobs_1000": "0.993",
+      "loc_quotient": "0.96"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Charlotte-Gastonia-Rock Hill, NC-SC",
+      "tot_emp": "870",
+      "emp_prse": "2.2",
+      "jobs_1000": "0.989",
+      "loc_quotient": "0.96"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Gainesville, GA",
+      "tot_emp": "70",
+      "emp_prse": "6.9",
+      "jobs_1000": "0.989",
+      "loc_quotient": "0.96"
+    },
+    {
+      "prim_state": "IA",
+      "area_name": "Sioux City, IA-NE-SD",
+      "tot_emp": "70",
+      "emp_prse": "18.3",
+      "jobs_1000": "0.988",
+      "loc_quotient": "0.96"
+    },
+    {
+      "prim_state": "NY",
+      "area_name": "Buffalo-Niagara Falls, NY",
+      "tot_emp": "530",
+      "emp_prse": "9.1",
+      "jobs_1000": "0.987",
+      "loc_quotient": "0.96"
+    },
+    {
+      "prim_state": "CO",
+      "area_name": "Colorado Springs, CO",
+      "tot_emp": "240",
+      "emp_prse": "3.9",
+      "jobs_1000": "0.987",
+      "loc_quotient": "0.96"
+    },
+    {
+      "prim_state": "AZ",
+      "area_name": "Flagstaff, AZ",
+      "tot_emp": "60",
+      "emp_prse": "7.7",
+      "jobs_1000": "0.984",
+      "loc_quotient": "0.96"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Santa Cruz-Watsonville, CA",
+      "tot_emp": "80",
+      "emp_prse": "8.3",
+      "jobs_1000": "0.98",
+      "loc_quotient": "0.95"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Waco, TX",
+      "tot_emp": "100",
+      "emp_prse": "4.6",
+      "jobs_1000": "0.978",
+      "loc_quotient": "0.95"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Atlanta-Sandy Springs-Marietta, GA",
+      "tot_emp": "2250",
+      "emp_prse": "6.6",
+      "jobs_1000": "0.975",
+      "loc_quotient": "0.95"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "Reading, PA",
+      "tot_emp": "160",
+      "emp_prse": "10.2",
+      "jobs_1000": "0.972",
+      "loc_quotient": "0.94"
+    },
+    {
+      "prim_state": "OH",
+      "area_name": "Cincinnati-Middletown, OH-KY-IN",
+      "tot_emp": "970",
+      "emp_prse": "6",
+      "jobs_1000": "0.971",
+      "loc_quotient": "0.94"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Hickory-Lenoir-Morganton, NC",
+      "tot_emp": "140",
+      "emp_prse": "6.1",
+      "jobs_1000": "0.971",
+      "loc_quotient": "0.94"
+    },
+    {
+      "prim_state": "MT",
+      "area_name": "Billings, MT",
+      "tot_emp": "80",
+      "emp_prse": "7.9",
+      "jobs_1000": "0.97",
+      "loc_quotient": "0.94"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Fort Worth-Arlington, TX Metropolitan Division",
+      "tot_emp": "880",
+      "emp_prse": "13.9",
+      "jobs_1000": "0.969",
+      "loc_quotient": "0.94"
+    },
+    {
+      "prim_state": "AL",
+      "area_name": "Mobile, AL",
+      "tot_emp": "160",
+      "emp_prse": "22.8",
+      "jobs_1000": "0.968",
+      "loc_quotient": "0.94"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "San Antonio-New Braunfels, TX",
+      "tot_emp": "860",
+      "emp_prse": "1.8",
+      "jobs_1000": "0.967",
+      "loc_quotient": "0.94"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Merced, CA",
+      "tot_emp": "60",
+      "emp_prse": "31.1",
+      "jobs_1000": "0.966",
+      "loc_quotient": "0.94"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Gary, IN Metropolitan Division",
+      "tot_emp": "260",
+      "emp_prse": "14.6",
+      "jobs_1000": "0.964",
+      "loc_quotient": "0.94"
+    },
+    {
+      "prim_state": "ND",
+      "area_name": "Fargo, ND-MN",
+      "tot_emp": "120",
+      "emp_prse": "7.3",
+      "jobs_1000": "0.964",
+      "loc_quotient": "0.94"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Laredo, TX",
+      "tot_emp": "90",
+      "emp_prse": "8.9",
+      "jobs_1000": "0.962",
+      "loc_quotient": "0.93"
+    },
+    {
+      "prim_state": "TN",
+      "area_name": "Memphis, TN-MS-AR",
+      "tot_emp": "570",
+      "emp_prse": "3.5",
+      "jobs_1000": "0.961",
+      "loc_quotient": "0.93"
+    },
+    {
+      "prim_state": "WA",
+      "area_name": "Kennewick-Pasco-Richland, WA",
+      "tot_emp": "90",
+      "emp_prse": "5.5",
+      "jobs_1000": "0.96",
+      "loc_quotient": "0.93"
+    },
+    {
+      "prim_state": "OR",
+      "area_name": "Portland-Vancouver-Hillsboro, OR-WA",
+      "tot_emp": "980",
+      "emp_prse": "6.3",
+      "jobs_1000": "0.957",
+      "loc_quotient": "0.93"
+    },
+    {
+      "prim_state": "ID",
+      "area_name": "Idaho Falls, ID",
+      "tot_emp": "50",
+      "emp_prse": "29.3",
+      "jobs_1000": "0.955",
+      "loc_quotient": "0.93"
+    },
+    {
+      "prim_state": "AK",
+      "area_name": "Fairbanks, AK",
+      "tot_emp": "30",
+      "emp_prse": "0",
+      "jobs_1000": "0.955",
+      "loc_quotient": "0.93"
+    },
+    {
+      "prim_state": "MD",
+      "area_name": "Hagerstown-Martinsburg, MD-WV",
+      "tot_emp": "100",
+      "emp_prse": "6",
+      "jobs_1000": "0.954",
+      "loc_quotient": "0.93"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "College Station-Bryan, TX",
+      "tot_emp": "90",
+      "emp_prse": "26.5",
+      "jobs_1000": "0.953",
+      "loc_quotient": "0.93"
+    },
+    {
+      "prim_state": "CO",
+      "area_name": "Pueblo, CO",
+      "tot_emp": "50",
+      "emp_prse": "1.1",
+      "jobs_1000": "0.952",
+      "loc_quotient": "0.92"
+    },
+    {
+      "prim_state": "VA",
+      "area_name": "Danville, VA",
+      "tot_emp": "40",
+      "emp_prse": "24",
+      "jobs_1000": "0.951",
+      "loc_quotient": "0.92"
+    },
+    {
+      "prim_state": "IA",
+      "area_name": "Waterloo-Cedar Falls, IA",
+      "tot_emp": "90",
+      "emp_prse": "11.9",
+      "jobs_1000": "0.95",
+      "loc_quotient": "0.92"
+    },
+    {
+      "prim_state": "IA",
+      "area_name": "Cedar Rapids, IA",
+      "tot_emp": "130",
+      "emp_prse": "15.1",
+      "jobs_1000": "0.949",
+      "loc_quotient": "0.92"
+    },
+    {
+      "prim_state": "AR",
+      "area_name": "Pine Bluff, AR",
+      "tot_emp": "30",
+      "emp_prse": "3",
+      "jobs_1000": "0.935",
+      "loc_quotient": "0.91"
+    },
+    {
+      "prim_state": "TN",
+      "area_name": "Johnson City, TN",
+      "tot_emp": "70",
+      "emp_prse": "11.3",
+      "jobs_1000": "0.929",
+      "loc_quotient": "0.9"
+    },
+    {
+      "prim_state": "ID",
+      "area_name": "Boise City-Nampa, ID",
+      "tot_emp": "250",
+      "emp_prse": "11.4",
+      "jobs_1000": "0.927",
+      "loc_quotient": "0.9"
+    },
+    {
+      "prim_state": "OR",
+      "area_name": "Eugene-Springfield, OR",
+      "tot_emp": "130",
+      "emp_prse": "9.2",
+      "jobs_1000": "0.926",
+      "loc_quotient": "0.9"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Beaumont-Port Arthur, TX",
+      "tot_emp": "140",
+      "emp_prse": "8.3",
+      "jobs_1000": "0.925",
+      "loc_quotient": "0.9"
+    },
+    {
+      "prim_state": "WY",
+      "area_name": "Cheyenne, WY",
+      "tot_emp": "40",
+      "emp_prse": "0",
+      "jobs_1000": "0.922",
+      "loc_quotient": "0.9"
+    },
+    {
+      "prim_state": "OH",
+      "area_name": "Columbus, OH",
+      "tot_emp": "860",
+      "emp_prse": "23.5",
+      "jobs_1000": "0.917",
+      "loc_quotient": "0.89"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "Allentown-Bethlehem-Easton, PA-NJ",
+      "tot_emp": "310",
+      "emp_prse": "9.4",
+      "jobs_1000": "0.916",
+      "loc_quotient": "0.89"
+    },
+    {
+      "prim_state": "MN",
+      "area_name": "Duluth, MN-WI",
+      "tot_emp": "110",
+      "emp_prse": "21",
+      "jobs_1000": "0.916",
+      "loc_quotient": "0.89"
+    },
+    {
+      "prim_state": "IA",
+      "area_name": "Ames, IA",
+      "tot_emp": "40",
+      "emp_prse": "10.3",
+      "jobs_1000": "0.902",
+      "loc_quotient": "0.88"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Victoria, TX",
+      "tot_emp": "50",
+      "emp_prse": "5.2",
+      "jobs_1000": "0.897",
+      "loc_quotient": "0.87"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Lubbock, TX",
+      "tot_emp": "120",
+      "emp_prse": "4",
+      "jobs_1000": "0.896",
+      "loc_quotient": "0.87"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Midland, TX",
+      "tot_emp": "70",
+      "emp_prse": "3.9",
+      "jobs_1000": "0.896",
+      "loc_quotient": "0.87"
+    },
+    {
+      "prim_state": "MT",
+      "area_name": "Great Falls, MT",
+      "tot_emp": "30",
+      "emp_prse": "17.5",
+      "jobs_1000": "0.896",
+      "loc_quotient": "0.87"
+    },
+    {
+      "prim_state": "MO",
+      "area_name": "Joplin, MO",
+      "tot_emp": "70",
+      "emp_prse": "14.1",
+      "jobs_1000": "0.895",
+      "loc_quotient": "0.87"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Panama City-Lynn Haven-Panama City Beach, FL",
+      "tot_emp": "60",
+      "emp_prse": "2.5",
+      "jobs_1000": "0.893",
+      "loc_quotient": "0.87"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "Harrisburg-Carlisle, PA",
+      "tot_emp": "270",
+      "emp_prse": "13.2",
+      "jobs_1000": "0.891",
+      "loc_quotient": "0.87"
+    },
+    {
+      "prim_state": "AK",
+      "area_name": "Anchorage, AK",
+      "tot_emp": "160",
+      "emp_prse": "1.8",
+      "jobs_1000": "0.888",
+      "loc_quotient": "0.86"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Sacramento--Arden-Arcade--Roseville, CA",
+      "tot_emp": "740",
+      "emp_prse": "20.6",
+      "jobs_1000": "0.884",
+      "loc_quotient": "0.86"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Holland-Grand Haven, MI",
+      "tot_emp": "90",
+      "emp_prse": "15.5",
+      "jobs_1000": "0.883",
+      "loc_quotient": "0.86"
+    },
+    {
+      "prim_state": "OH",
+      "area_name": "Akron, OH",
+      "tot_emp": "280",
+      "emp_prse": "10.8",
+      "jobs_1000": "0.88",
+      "loc_quotient": "0.85"
+    },
+    {
+      "prim_state": "TN",
+      "area_name": "Chattanooga, TN-GA",
+      "tot_emp": "200",
+      "emp_prse": "11.4",
+      "jobs_1000": "0.873",
+      "loc_quotient": "0.85"
+    },
+    {
+      "prim_state": "OR",
+      "area_name": "Medford, OR",
+      "tot_emp": "70",
+      "emp_prse": "38.2",
+      "jobs_1000": "0.872",
+      "loc_quotient": "0.85"
+    },
+    {
+      "prim_state": "LA",
+      "area_name": "Shreveport-Bossier City, LA",
+      "tot_emp": "150",
+      "emp_prse": "1.1",
+      "jobs_1000": "0.871",
+      "loc_quotient": "0.85"
+    },
+    {
+      "prim_state": "NH",
+      "area_name": "Portsmouth, NH-ME",
+      "tot_emp": "50",
+      "emp_prse": "20.9",
+      "jobs_1000": "0.871",
+      "loc_quotient": "0.85"
+    },
+    {
+      "prim_state": "OH",
+      "area_name": "Sandusky, OH",
+      "tot_emp": "30",
+      "emp_prse": "13.3",
+      "jobs_1000": "0.871",
+      "loc_quotient": "0.85"
+    },
+    {
+      "prim_state": "AL",
+      "area_name": "Decatur, AL",
+      "tot_emp": "50",
+      "emp_prse": "17.2",
+      "jobs_1000": "0.868",
+      "loc_quotient": "0.84"
+    },
+    {
+      "prim_state": "WV",
+      "area_name": "Wheeling, WV-OH",
+      "tot_emp": "50",
+      "emp_prse": "26.8",
+      "jobs_1000": "0.861",
+      "loc_quotient": "0.84"
+    },
+    {
+      "prim_state": "MN",
+      "area_name": "Rochester, MN",
+      "tot_emp": "90",
+      "emp_prse": "38.5",
+      "jobs_1000": "0.86",
+      "loc_quotient": "0.84"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Savannah, GA",
+      "tot_emp": "130",
+      "emp_prse": "12.1",
+      "jobs_1000": "0.858",
+      "loc_quotient": "0.83"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Brunswick, GA",
+      "tot_emp": "30",
+      "emp_prse": "9.4",
+      "jobs_1000": "0.849",
+      "loc_quotient": "0.82"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Sebastian-Vero Beach, FL",
+      "tot_emp": "40",
+      "emp_prse": "2.5",
+      "jobs_1000": "0.848",
+      "loc_quotient": "0.82"
+    },
+    {
+      "prim_state": "TN",
+      "area_name": "Knoxville, TN",
+      "tot_emp": "270",
+      "emp_prse": "7",
+      "jobs_1000": "0.846",
+      "loc_quotient": "0.82"
+    },
+    {
+      "prim_state": "AL",
+      "area_name": "Huntsville, AL",
+      "tot_emp": "180",
+      "emp_prse": "10.8",
+      "jobs_1000": "0.843",
+      "loc_quotient": "0.82"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "Lebanon, PA",
+      "tot_emp": "40",
+      "emp_prse": "29.5",
+      "jobs_1000": "0.84",
+      "loc_quotient": "0.82"
+    },
+    {
+      "prim_state": "AL",
+      "area_name": "Dothan, AL",
+      "tot_emp": "50",
+      "emp_prse": "8.9",
+      "jobs_1000": "0.839",
+      "loc_quotient": "0.82"
+    },
+    {
+      "prim_state": "SC",
+      "area_name": "Spartanburg, SC",
+      "tot_emp": "100",
+      "emp_prse": "6.5",
+      "jobs_1000": "0.838",
+      "loc_quotient": "0.81"
+    },
+    {
+      "prim_state": "LA",
+      "area_name": "Houma-Bayou Cane-Thibodaux, LA",
+      "tot_emp": "80",
+      "emp_prse": "2.2",
+      "jobs_1000": "0.837",
+      "loc_quotient": "0.81"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Muskegon-Norton Shores, MI",
+      "tot_emp": "50",
+      "emp_prse": "19.1",
+      "jobs_1000": "0.832",
+      "loc_quotient": "0.81"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Jacksonville, FL",
+      "tot_emp": "490",
+      "emp_prse": "10",
+      "jobs_1000": "0.827",
+      "loc_quotient": "0.8"
+    },
+    {
+      "prim_state": "MA",
+      "area_name": "Taunton-Norton-Raynham, MA NECTA Division",
+      "tot_emp": "40",
+      "emp_prse": "3.7",
+      "jobs_1000": "0.827",
+      "loc_quotient": "0.8"
+    },
+    {
+      "prim_state": "CO",
+      "area_name": "Denver-Aurora-Broomfield, CO",
+      "tot_emp": "1050",
+      "emp_prse": "2.4",
+      "jobs_1000": "0.822",
+      "loc_quotient": "0.8"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Macon, GA",
+      "tot_emp": "80",
+      "emp_prse": "15.8",
+      "jobs_1000": "0.822",
+      "loc_quotient": "0.8"
+    },
+    {
+      "prim_state": "OH",
+      "area_name": "Mansfield, OH",
+      "tot_emp": "40",
+      "emp_prse": "17.7",
+      "jobs_1000": "0.816",
+      "loc_quotient": "0.79"
+    },
+    {
+      "prim_state": "WA",
+      "area_name": "Bremerton-Silverdale, WA",
+      "tot_emp": "60",
+      "emp_prse": "4.9",
+      "jobs_1000": "0.812",
+      "loc_quotient": "0.79"
+    },
+    {
+      "prim_state": "OH",
+      "area_name": "Youngstown-Warren-Boardman, OH-PA",
+      "tot_emp": "180",
+      "emp_prse": "13",
+      "jobs_1000": "0.811",
+      "loc_quotient": "0.79"
+    },
+    {
+      "prim_state": "MN",
+      "area_name": "Minneapolis-St. Paul-Bloomington, MN-WI",
+      "tot_emp": "1450",
+      "emp_prse": "4.8",
+      "jobs_1000": "0.81",
+      "loc_quotient": "0.79"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Houston-Sugar Land-Baytown, TX",
+      "tot_emp": "2230",
+      "emp_prse": "2.4",
+      "jobs_1000": "0.808",
+      "loc_quotient": "0.78"
+    },
+    {
+      "prim_state": "LA",
+      "area_name": "New Orleans-Metairie-Kenner, LA",
+      "tot_emp": "420",
+      "emp_prse": "3.7",
+      "jobs_1000": "0.805",
+      "loc_quotient": "0.78"
+    },
+    {
+      "prim_state": "OK",
+      "area_name": "Tulsa, OK",
+      "tot_emp": "340",
+      "emp_prse": "4.8",
+      "jobs_1000": "0.805",
+      "loc_quotient": "0.78"
+    },
+    {
+      "prim_state": "KY",
+      "area_name": "Louisville-Jefferson County, KY-IN",
+      "tot_emp": "490",
+      "emp_prse": "3.7",
+      "jobs_1000": "0.803",
+      "loc_quotient": "0.78"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "Green Bay, WI",
+      "tot_emp": "130",
+      "emp_prse": "16.5",
+      "jobs_1000": "0.803",
+      "loc_quotient": "0.78"
+    },
+    {
+      "prim_state": "LA",
+      "area_name": "Lafayette, LA",
+      "tot_emp": "120",
+      "emp_prse": "3.1",
+      "jobs_1000": "0.801",
+      "loc_quotient": "0.78"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Longview, TX",
+      "tot_emp": "80",
+      "emp_prse": "11.2",
+      "jobs_1000": "0.801",
+      "loc_quotient": "0.78"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Tampa-St. Petersburg-Clearwater, FL",
+      "tot_emp": "920",
+      "emp_prse": "5.4",
+      "jobs_1000": "0.798",
+      "loc_quotient": "0.77"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Lansing-East Lansing, MI",
+      "tot_emp": "160",
+      "emp_prse": "12.4",
+      "jobs_1000": "0.797",
+      "loc_quotient": "0.77"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Tyler, TX",
+      "tot_emp": "70",
+      "emp_prse": "8.2",
+      "jobs_1000": "0.797",
+      "loc_quotient": "0.77"
+    },
+    {
+      "prim_state": "NJ",
+      "area_name": "Atlantic City-Hammonton, NJ",
+      "tot_emp": "110",
+      "emp_prse": "7.8",
+      "jobs_1000": "0.795",
+      "loc_quotient": "0.77"
+    },
+    {
+      "prim_state": "AZ",
+      "area_name": "Tucson, AZ",
+      "tot_emp": "280",
+      "emp_prse": "5.4",
+      "jobs_1000": "0.792",
+      "loc_quotient": "0.77"
+    },
+    {
+      "prim_state": "IA",
+      "area_name": "Dubuque, IA",
+      "tot_emp": "50",
+      "emp_prse": "9.4",
+      "jobs_1000": "0.791",
+      "loc_quotient": "0.77"
+    },
+    {
+      "prim_state": "NE",
+      "area_name": "Lincoln, NE",
+      "tot_emp": "130",
+      "emp_prse": "2",
+      "jobs_1000": "0.786",
+      "loc_quotient": "0.76"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Dallas-Plano-Irving, TX Metropolitan Division",
+      "tot_emp": "1680",
+      "emp_prse": "4.6",
+      "jobs_1000": "0.784",
+      "loc_quotient": "0.76"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "North Port-Bradenton-Sarasota, FL",
+      "tot_emp": "190",
+      "emp_prse": "4.2",
+      "jobs_1000": "0.784",
+      "loc_quotient": "0.76"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Fort Lauderdale-Pompano Beach-Deerfield Beach, FL Metropolitan Division",
+      "tot_emp": "570",
+      "emp_prse": "5.8",
+      "jobs_1000": "0.781",
+      "loc_quotient": "0.76"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Michigan City-La Porte, IN",
+      "tot_emp": "30",
+      "emp_prse": "32.7",
+      "jobs_1000": "0.779",
+      "loc_quotient": "0.76"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "Milwaukee-Waukesha-West Allis, WI",
+      "tot_emp": "630",
+      "emp_prse": "4.6",
+      "jobs_1000": "0.777",
+      "loc_quotient": "0.75"
+    },
+    {
+      "prim_state": "WV",
+      "area_name": "Huntington-Ashland, WV-KY-OH",
+      "tot_emp": "80",
+      "emp_prse": "10",
+      "jobs_1000": "0.777",
+      "loc_quotient": "0.75"
+    },
+    {
+      "prim_state": "WV",
+      "area_name": "Charleston, WV",
+      "tot_emp": "110",
+      "emp_prse": "13.3",
+      "jobs_1000": "0.774",
+      "loc_quotient": "0.75"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Kalamazoo-Portage, MI",
+      "tot_emp": "100",
+      "emp_prse": "19",
+      "jobs_1000": "0.764",
+      "loc_quotient": "0.74"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Salinas, CA",
+      "tot_emp": "120",
+      "emp_prse": "31.1",
+      "jobs_1000": "0.76",
+      "loc_quotient": "0.74"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Corpus Christi, TX",
+      "tot_emp": "140",
+      "emp_prse": "10.2",
+      "jobs_1000": "0.755",
+      "loc_quotient": "0.73"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Oakland-Fremont-Hayward, CA Metropolitan Division",
+      "tot_emp": "760",
+      "emp_prse": "16.3",
+      "jobs_1000": "0.754",
+      "loc_quotient": "0.73"
+    },
+    {
+      "prim_state": "IA",
+      "area_name": "Des Moines-West Des Moines, IA",
+      "tot_emp": "250",
+      "emp_prse": "13.8",
+      "jobs_1000": "0.75",
+      "loc_quotient": "0.73"
+    },
+    {
+      "prim_state": "NC",
+      "area_name": "Wilmington, NC",
+      "tot_emp": "100",
+      "emp_prse": "5.9",
+      "jobs_1000": "0.749",
+      "loc_quotient": "0.73"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "Williamsport, PA",
+      "tot_emp": "40",
+      "emp_prse": "14.5",
+      "jobs_1000": "0.749",
+      "loc_quotient": "0.73"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "San Jose-Sunnyvale-Santa Clara, CA",
+      "tot_emp": "700",
+      "emp_prse": "12.5",
+      "jobs_1000": "0.748",
+      "loc_quotient": "0.73"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Columbus, GA-AL",
+      "tot_emp": "80",
+      "emp_prse": "14.1",
+      "jobs_1000": "0.741",
+      "loc_quotient": "0.72"
+    },
+    {
+      "prim_state": "SD",
+      "area_name": "Sioux Falls, SD",
+      "tot_emp": "100",
+      "emp_prse": "2.7",
+      "jobs_1000": "0.739",
+      "loc_quotient": "0.72"
+    },
+    {
+      "prim_state": "NJ",
+      "area_name": "Vineland-Millville-Bridgeton, NJ",
+      "tot_emp": "40",
+      "emp_prse": "5",
+      "jobs_1000": "0.739",
+      "loc_quotient": "0.72"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Port St. Lucie, FL",
+      "tot_emp": "90",
+      "emp_prse": "6.1",
+      "jobs_1000": "0.737",
+      "loc_quotient": "0.72"
+    },
+    {
+      "prim_state": "WA",
+      "area_name": "Bellingham, WA",
+      "tot_emp": "60",
+      "emp_prse": "16.2",
+      "jobs_1000": "0.737",
+      "loc_quotient": "0.72"
+    },
+    {
+      "prim_state": "AL",
+      "area_name": "Birmingham-Hoover, AL",
+      "tot_emp": "360",
+      "emp_prse": "10.6",
+      "jobs_1000": "0.736",
+      "loc_quotient": "0.72"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Battle Creek, MI",
+      "tot_emp": "40",
+      "emp_prse": "9.3",
+      "jobs_1000": "0.736",
+      "loc_quotient": "0.72"
+    },
+    {
+      "prim_state": "IL",
+      "area_name": "Rockford, IL",
+      "tot_emp": "110",
+      "emp_prse": "14.1",
+      "jobs_1000": "0.735",
+      "loc_quotient": "0.71"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Fort Wayne, IN",
+      "tot_emp": "150",
+      "emp_prse": "4.9",
+      "jobs_1000": "0.733",
+      "loc_quotient": "0.71"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Naples-Marco Island, FL",
+      "tot_emp": "90",
+      "emp_prse": "1.6",
+      "jobs_1000": "0.722",
+      "loc_quotient": "0.7"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Saginaw-Saginaw Township North, MI",
+      "tot_emp": "60",
+      "emp_prse": "16.3",
+      "jobs_1000": "0.716",
+      "loc_quotient": "0.7"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "Erie, PA",
+      "tot_emp": "90",
+      "emp_prse": "18.6",
+      "jobs_1000": "0.712",
+      "loc_quotient": "0.69"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Dalton, GA",
+      "tot_emp": "40",
+      "emp_prse": "15.2",
+      "jobs_1000": "0.712",
+      "loc_quotient": "0.69"
+    },
+    {
+      "prim_state": "NM",
+      "area_name": "Farmington, NM",
+      "tot_emp": "40",
+      "emp_prse": "4.2",
+      "jobs_1000": "0.703",
+      "loc_quotient": "0.68"
+    },
+    {
+      "prim_state": "GA",
+      "area_name": "Valdosta, GA",
+      "tot_emp": "30",
+      "emp_prse": "10.3",
+      "jobs_1000": "0.691",
+      "loc_quotient": "0.67"
+    },
+    {
+      "prim_state": "NV",
+      "area_name": "Reno-Sparks, NV",
+      "tot_emp": "130",
+      "emp_prse": "0.3",
+      "jobs_1000": "0.69",
+      "loc_quotient": "0.67"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "Wausau, WI",
+      "tot_emp": "40",
+      "emp_prse": "21.5",
+      "jobs_1000": "0.686",
+      "loc_quotient": "0.67"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Texarkana-Texarkana, TX-AR",
+      "tot_emp": "40",
+      "emp_prse": "9.2",
+      "jobs_1000": "0.679",
+      "loc_quotient": "0.66"
+    },
+    {
+      "prim_state": "AL",
+      "area_name": "Florence-Muscle Shoals, AL",
+      "tot_emp": "30",
+      "emp_prse": "28.3",
+      "jobs_1000": "0.669",
+      "loc_quotient": "0.65"
+    },
+    {
+      "prim_state": "CO",
+      "area_name": "Grand Junction, CO",
+      "tot_emp": "40",
+      "emp_prse": "7.3",
+      "jobs_1000": "0.668",
+      "loc_quotient": "0.65"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Miami-Miami Beach-Kendall, FL Metropolitan Division",
+      "tot_emp": "680",
+      "emp_prse": "6.8",
+      "jobs_1000": "0.663",
+      "loc_quotient": "0.64"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "San Luis Obispo-Paso Robles, CA",
+      "tot_emp": "70",
+      "emp_prse": "25.6",
+      "jobs_1000": "0.663",
+      "loc_quotient": "0.64"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "Racine, WI",
+      "tot_emp": "50",
+      "emp_prse": "16.1",
+      "jobs_1000": "0.663",
+      "loc_quotient": "0.64"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Stockton, CA",
+      "tot_emp": "130",
+      "emp_prse": "19",
+      "jobs_1000": "0.661",
+      "loc_quotient": "0.64"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Detroit-Livonia-Dearborn, MI Metropolitan Division",
+      "tot_emp": "460",
+      "emp_prse": "8.9",
+      "jobs_1000": "0.651",
+      "loc_quotient": "0.63"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "El Centro, CA",
+      "tot_emp": "30",
+      "emp_prse": "12.7",
+      "jobs_1000": "0.65",
+      "loc_quotient": "0.63"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "Lancaster, PA",
+      "tot_emp": "140",
+      "emp_prse": "15.4",
+      "jobs_1000": "0.649",
+      "loc_quotient": "0.63"
+    },
+    {
+      "prim_state": "NM",
+      "area_name": "Albuquerque, NM",
+      "tot_emp": "240",
+      "emp_prse": "6.8",
+      "jobs_1000": "0.645",
+      "loc_quotient": "0.63"
+    },
+    {
+      "prim_state": "PA",
+      "area_name": "York-Hanover, PA",
+      "tot_emp": "110",
+      "emp_prse": "11.6",
+      "jobs_1000": "0.645",
+      "loc_quotient": "0.63"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Los Angeles-Long Beach-Glendale, CA  Metropolitan Division",
+      "tot_emp": "2530",
+      "emp_prse": "5.9",
+      "jobs_1000": "0.638",
+      "loc_quotient": "0.62"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Santa Barbara-Santa Maria-Goleta, CA",
+      "tot_emp": "100",
+      "emp_prse": "30.7",
+      "jobs_1000": "0.606",
+      "loc_quotient": "0.59"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Orlando-Kissimmee-Sanford, FL",
+      "tot_emp": "630",
+      "emp_prse": "1.9",
+      "jobs_1000": "0.605",
+      "loc_quotient": "0.59"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Elkhart-Goshen, IN",
+      "tot_emp": "70",
+      "emp_prse": "5.6",
+      "jobs_1000": "0.599",
+      "loc_quotient": "0.58"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "Oshkosh-Neenah, WI",
+      "tot_emp": "50",
+      "emp_prse": "13.7",
+      "jobs_1000": "0.594",
+      "loc_quotient": "0.58"
+    },
+    {
+      "prim_state": "ID",
+      "area_name": "Coeur d'Alene, ID",
+      "tot_emp": "30",
+      "emp_prse": "17.9",
+      "jobs_1000": "0.586",
+      "loc_quotient": "0.57"
+    },
+    {
+      "prim_state": "IN",
+      "area_name": "Evansville, IN-KY",
+      "tot_emp": "100",
+      "emp_prse": "4.4",
+      "jobs_1000": "0.576",
+      "loc_quotient": "0.56"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Fresno, CA",
+      "tot_emp": "180",
+      "emp_prse": "24.4",
+      "jobs_1000": "0.573",
+      "loc_quotient": "0.56"
+    },
+    {
+      "prim_state": "UT",
+      "area_name": "Salt Lake City, UT",
+      "tot_emp": "370",
+      "emp_prse": "7.5",
+      "jobs_1000": "0.567",
+      "loc_quotient": "0.55"
+    },
+    {
+      "prim_state": "FL",
+      "area_name": "Cape Coral-Fort Myers, FL",
+      "tot_emp": "120",
+      "emp_prse": "22.2",
+      "jobs_1000": "0.562",
+      "loc_quotient": "0.55"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "Eau Claire, WI",
+      "tot_emp": "40",
+      "emp_prse": "11.7",
+      "jobs_1000": "0.553",
+      "loc_quotient": "0.54"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Vallejo-Fairfield, CA",
+      "tot_emp": "70",
+      "emp_prse": "11.2",
+      "jobs_1000": "0.549",
+      "loc_quotient": "0.53"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Flint, MI",
+      "tot_emp": "70",
+      "emp_prse": "11.4",
+      "jobs_1000": "0.541",
+      "loc_quotient": "0.53"
+    },
+    {
+      "prim_state": "AZ",
+      "area_name": "Yuma, AZ",
+      "tot_emp": "30",
+      "emp_prse": "20.4",
+      "jobs_1000": "0.54",
+      "loc_quotient": "0.52"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Warren-Troy-Farmington Hills, MI Metropolitan Division",
+      "tot_emp": "600",
+      "emp_prse": "8.6",
+      "jobs_1000": "0.538",
+      "loc_quotient": "0.52"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Napa, CA",
+      "tot_emp": "40",
+      "emp_prse": "28.4",
+      "jobs_1000": "0.533",
+      "loc_quotient": "0.52"
+    },
+    {
+      "prim_state": "AZ",
+      "area_name": "Phoenix-Mesa-Glendale, AZ",
+      "tot_emp": "950",
+      "emp_prse": "5.5",
+      "jobs_1000": "0.531",
+      "loc_quotient": "0.52"
+    },
+    {
+      "prim_state": "TX",
+      "area_name": "Odessa, TX",
+      "tot_emp": "40",
+      "emp_prse": "0",
+      "jobs_1000": "0.522",
+      "loc_quotient": "0.51"
+    },
+    {
+      "prim_state": "NM",
+      "area_name": "Las Cruces, NM",
+      "tot_emp": "40",
+      "emp_prse": "9",
+      "jobs_1000": "0.521",
+      "loc_quotient": "0.51"
+    },
+    {
+      "prim_state": "MI",
+      "area_name": "Grand Rapids-Wyoming, MI",
+      "tot_emp": "210",
+      "emp_prse": "14.2",
+      "jobs_1000": "0.516",
+      "loc_quotient": "0.5"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Santa Rosa-Petaluma, CA",
+      "tot_emp": "90",
+      "emp_prse": "21.1",
+      "jobs_1000": "0.509",
+      "loc_quotient": "0.49"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "San Diego-Carlsbad-San Marcos, CA",
+      "tot_emp": "650",
+      "emp_prse": "6.6",
+      "jobs_1000": "0.506",
+      "loc_quotient": "0.49"
+    },
+    {
+      "prim_state": "NV",
+      "area_name": "Las Vegas-Paradise, NV",
+      "tot_emp": "410",
+      "emp_prse": "1",
+      "jobs_1000": "0.492",
+      "loc_quotient": "0.48"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Chico, CA",
+      "tot_emp": "30",
+      "emp_prse": "28.3",
+      "jobs_1000": "0.49",
+      "loc_quotient": "0.48"
+    },
+    {
+      "prim_state": "WI",
+      "area_name": "Appleton, WI",
+      "tot_emp": "60",
+      "emp_prse": "19.6",
+      "jobs_1000": "0.488",
+      "loc_quotient": "0.47"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Riverside-San Bernardino-Ontario, CA",
+      "tot_emp": "550",
+      "emp_prse": "19",
+      "jobs_1000": "0.459",
+      "loc_quotient": "0.45"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Oxnard-Thousand Oaks-Ventura, CA",
+      "tot_emp": "120",
+      "emp_prse": "7.8",
+      "jobs_1000": "0.415",
+      "loc_quotient": "0.4"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Santa Ana-Anaheim-Irvine, CA Metropolitan Division",
+      "tot_emp": "570",
+      "emp_prse": "7",
+      "jobs_1000": "0.392",
+      "loc_quotient": "0.38"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Modesto, CA",
+      "tot_emp": "60",
+      "emp_prse": "30.1",
+      "jobs_1000": "0.359",
+      "loc_quotient": "0.35"
+    },
+    {
+      "prim_state": "CA",
+      "area_name": "Bakersfield-Delano, CA",
+      "tot_emp": "90",
+      "emp_prse": "9.8",
+      "jobs_1000": "0.304",
+      "loc_quotient": "0.3"
+    },
+    {
+      "prim_state": "UT",
+      "area_name": "Ogden-Clearfield, UT",
+      "tot_emp": "30",
+      "emp_prse": "15.5",
+      "jobs_1000": "0.163",
+      "loc_quotient": "0.16"
+    }
+  ],
+  "meta": {
+    "title": "US Librarians by Metropolitan Area - Free Download",
+    "description": "BLS Occupational Employment Statistics for librarians across 373 US metropolitan and non-metropolitan areas, including employment count, jobs per 1,000, and location quotient. Some small metros have suppressed values ('**'). Contains 373 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US Librarians by Metropolitan Area | ListBase",
+    "seo_description": "Download US Librarians by Metropolitan Area — 373 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 373 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/fivethirtyeight/data"
+    ]
+  }
+}

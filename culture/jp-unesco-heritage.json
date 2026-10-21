@@ -1,0 +1,338 @@
+{
+  "id": "jp-unesco-heritage",
+  "name": "Japan — UNESCO World Heritage Sites",
+  "title": "Japan — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Japan, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 660,
+      "name": "Buddhist Monuments in the Horyu-ji Area",
+      "category": "cultural",
+      "date_inscribed": 1993,
+      "criteria": "c1, c2, c4, c6",
+      "lat": 34.61666667,
+      "lon": 135.7333333,
+      "area_hectares": 15.03,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 661,
+      "name": "Himeji-jo",
+      "category": "cultural",
+      "date_inscribed": 1993,
+      "criteria": "c1, c4",
+      "lat": 34.83333333,
+      "lon": 134.7,
+      "area_hectares": 107,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 662,
+      "name": "Yakushima",
+      "category": "natural",
+      "date_inscribed": 1993,
+      "criteria": "n7, n9",
+      "lat": 30.33333333,
+      "lon": 130.5333333,
+      "area_hectares": 10747,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 663,
+      "name": "Shirakami-Sanchi",
+      "category": "natural",
+      "date_inscribed": 1993,
+      "criteria": "n9",
+      "lat": 40.47,
+      "lon": 140.13,
+      "area_hectares": 16971,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 688,
+      "name": "Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)",
+      "category": "cultural",
+      "date_inscribed": 1994,
+      "criteria": "c2, c4",
+      "lat": 34.98055556,
+      "lon": 135.7694444,
+      "area_hectares": 1056,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 734,
+      "name": "Historic Villages of Shirakawa-go and Gokayama",
+      "category": "cultural",
+      "date_inscribed": 1995,
+      "criteria": "c4, c5",
+      "lat": 36.4,
+      "lon": 136.8833333,
+      "area_hectares": 68,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 775,
+      "name": "Hiroshima Peace Memorial (Genbaku Dome)",
+      "category": "cultural",
+      "date_inscribed": 1996,
+      "criteria": "c6",
+      "lat": 34.38333333,
+      "lon": 132.45,
+      "area_hectares": 0.4,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 776,
+      "name": "Itsukushima Shinto Shrine",
+      "category": "cultural",
+      "date_inscribed": 1996,
+      "criteria": "c1, c2, c4, c6",
+      "lat": 34.29441667,
+      "lon": 132.3246389,
+      "area_hectares": 431.2,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 870,
+      "name": "Historic Monuments of Ancient Nara",
+      "category": "cultural",
+      "date_inscribed": 1998,
+      "criteria": "c2, c3, c4, c6",
+      "lat": 34.67555556,
+      "lon": 135.8394444,
+      "area_hectares": 617,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 913,
+      "name": "Shrines and Temples of Nikko",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c1, c4, c6",
+      "lat": 36.7475,
+      "lon": 139.6105556,
+      "area_hectares": 50.8,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 972,
+      "name": "Gusuku Sites and Related Properties of the Kingdom of Ryukyu",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c2, c3, c6",
+      "lat": 26.20861111,
+      "lon": 127.6827778,
+      "area_hectares": 54.9,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1142,
+      "name": "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range",
+      "category": "cultural",
+      "date_inscribed": 2004,
+      "criteria": "c2, c3, c4, c6",
+      "lat": 33.83694444,
+      "lon": 135.7763889,
+      "area_hectares": 495.3,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1193,
+      "name": "Shiretoko",
+      "category": "natural",
+      "date_inscribed": 2005,
+      "criteria": "n9, n10",
+      "lat": 43.94944,
+      "lon": 144.96583,
+      "area_hectares": 71100,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1246,
+      "name": "Iwami Ginzan Silver Mine and its Cultural Landscape",
+      "category": "cultural",
+      "date_inscribed": 2007,
+      "criteria": "c2, c3, c5",
+      "lat": 35.11277778,
+      "lon": 132.435,
+      "area_hectares": 529.17,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1277,
+      "name": "Hiraizumi - Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land",
+      "category": "cultural",
+      "date_inscribed": 2011,
+      "criteria": "c2, c6",
+      "lat": 39.00111111,
+      "lon": 141.1077778,
+      "area_hectares": 176.2,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1362,
+      "name": "Ogasawara Islands",
+      "category": "natural",
+      "date_inscribed": 2011,
+      "criteria": "n9",
+      "lat": 27.71833333,
+      "lon": 142.0997222,
+      "area_hectares": 7939,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1418,
+      "name": "Fujisan, sacred place and source of artistic inspiration",
+      "category": "cultural",
+      "date_inscribed": 2013,
+      "criteria": "c3, c6",
+      "lat": 35.36083333,
+      "lon": 138.7275,
+      "area_hectares": 20702.1,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1449,
+      "name": "Tomioka Silk Mill and Related Sites",
+      "category": "cultural",
+      "date_inscribed": 2014,
+      "criteria": "c2, c4",
+      "lat": 36.25527778,
+      "lon": 138.8877778,
+      "area_hectares": 7.2,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "jp",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Japan — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Japan, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Japan — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Japan — UNESCO World Heritage Sites dataset with 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

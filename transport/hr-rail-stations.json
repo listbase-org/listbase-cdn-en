@@ -1,0 +1,208 @@
+{
+  "id": "hr-rail-stations",
+  "name": "Croatia — Rail Stations",
+  "title": "Croatia — Rail Stations",
+  "description": "Railway stations in Croatia: name, city, state/province, coordinates, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "asciiname",
+      "label": "Asciiname",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "uic_list",
+      "label": "Uic List",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Zagreb Zapadni kolodvor",
+      "asciiname": "Zagreb Zapadni kolodvor",
+      "city_name_list": "",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "adm1_name_ascii": "Zagreb",
+      "latitude": 45.80918,
+      "longitude": 15.95466,
+      "timezone": "Europe/Zagreb",
+      "uic_list": "7874060|"
+    },
+    {
+      "name": "Zaprešić",
+      "asciiname": "Zapresic",
+      "city_name_list": "",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "adm1_name_ascii": "Zagreb County",
+      "latitude": 45.84435,
+      "longitude": 15.81326,
+      "timezone": "Europe/Zagreb",
+      "uic_list": "7874004|"
+    },
+    {
+      "name": "Zagreb Glavni kolodvor",
+      "asciiname": "Zagreb Glavni kolodvor",
+      "city_name_list": "",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "adm1_name_ascii": "Zagreb",
+      "latitude": 45.80468,
+      "longitude": 15.97861,
+      "timezone": "Europe/Zagreb",
+      "uic_list": "7872480|"
+    },
+    {
+      "name": "Split",
+      "asciiname": "Split",
+      "city_name_list": "",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "adm1_name_ascii": "Split-Dalmatia",
+      "latitude": 43.5047,
+      "longitude": 16.44295,
+      "timezone": "Europe/Zagreb",
+      "uic_list": "7800016|"
+    },
+    {
+      "name": "Vinkovci",
+      "asciiname": "Vinkovci",
+      "city_name_list": "",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "adm1_name_ascii": "Vukovar-Srijem",
+      "latitude": 45.3,
+      "longitude": 18.80278,
+      "timezone": "Europe/Zagreb",
+      "uic_list": "7800024|"
+    },
+    {
+      "name": "Knin",
+      "asciiname": "Knin",
+      "city_name_list": "",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "adm1_name_ascii": "Sibenik-Knin",
+      "latitude": 44.03667,
+      "longitude": 16.19839,
+      "timezone": "Europe/Zagreb",
+      "uic_list": "7876260|"
+    },
+    {
+      "name": "Ploče",
+      "asciiname": "Ploce",
+      "city_name_list": "",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "adm1_name_ascii": "Dubrovnik-Neretva",
+      "latitude": 43.04847,
+      "longitude": 17.4336,
+      "timezone": "Europe/Zagreb",
+      "uic_list": "7878680|"
+    },
+    {
+      "name": "Osijek",
+      "asciiname": "Osijek",
+      "city_name_list": "",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "adm1_name_ascii": "County of Osijek-Baranja",
+      "latitude": 45.55272,
+      "longitude": 18.68359,
+      "timezone": "Europe/Zagreb",
+      "uic_list": "7871960|"
+    },
+    {
+      "name": "Rijeka",
+      "asciiname": "Rijeka",
+      "city_name_list": "",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "adm1_name_ascii": "Primorje-Gorski Kotar",
+      "latitude": 45.33011,
+      "longitude": 14.43025,
+      "timezone": "Europe/Zagreb",
+      "uic_list": "7800013|"
+    },
+    {
+      "name": "Zadar",
+      "asciiname": "Zadar",
+      "city_name_list": "",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "adm1_name_ascii": "",
+      "latitude": 44.10643,
+      "longitude": 15.24223,
+      "timezone": "Europe/Zagreb",
+      "uic_list": "7876317|"
+    },
+    {
+      "name": "Perković",
+      "asciiname": "Perkovic",
+      "city_name_list": "",
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "adm1_name_ascii": "Sibenik-Knin",
+      "latitude": 43.6757,
+      "longitude": 16.11775,
+      "timezone": "Europe/Zagreb",
+      "uic_list": "7800012|"
+    }
+  ],
+  "meta": {
+    "title": "Croatia — Rail Stations - Free Download",
+    "description": "Railway stations in Croatia: name, city, state/province, coordinates, timezone. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Croatia — Rail Stations | ListBase",
+    "seo_description": "Download Croatia — Rail Stations dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

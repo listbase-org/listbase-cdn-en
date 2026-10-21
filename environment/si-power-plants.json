@@ -1,0 +1,250 @@
+{
+  "id": "si-power-plants",
+  "name": "Slovenia — Power Plants",
+  "title": "Slovenia — Power Plants",
+  "description": "Power plants located in Slovenia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Sostanj (TEŠ)",
+      "gppd_idnr": "WRI1022413",
+      "capacity_mw": 1099,
+      "latitude": 46.3723,
+      "longitude": 15.0534,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 3631.319; 2016: 4133.801; 2017: 3990.173",
+      "estimated_generation_gwh": "2017: 4368.47",
+      "generation_data_source": "JRC-PPDB-OPEN"
+    },
+    {
+      "name": "Krsko (NEK)",
+      "gppd_idnr": "WRI1022414",
+      "capacity_mw": 696,
+      "latitude": 45.9389,
+      "longitude": 15.516,
+      "primary_fuel": "Nuclear",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 5361.506; 2016: 5390.881; 2017: 5958.904",
+      "estimated_generation_gwh": "2017: 6017",
+      "generation_data_source": "JRC-PPDB-OPEN"
+    },
+    {
+      "name": "Brestanica (TEB)",
+      "gppd_idnr": "WRI1022411",
+      "capacity_mw": 297,
+      "latitude": 45.9975,
+      "longitude": 15.4796,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 9.466",
+      "estimated_generation_gwh": "2017: 322.83",
+      "generation_data_source": "ENTSOE"
+    },
+    {
+      "name": "ČHE Avče",
+      "gppd_idnr": "WRI1022412",
+      "capacity_mw": 180,
+      "latitude": 46.1027,
+      "longitude": 13.6708,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 281.969; 2016: 275.186; 2017: 271.43",
+      "estimated_generation_gwh": "2013: 685.87; 2014: 550.43; 2015: 509.06; 2016: 661.15; 2017: 533.32",
+      "generation_data_source": "JRC-PPDB-OPEN"
+    },
+    {
+      "name": "HE Zlatoličje",
+      "gppd_idnr": "WRI1022417",
+      "capacity_mw": 126,
+      "latitude": 46.448,
+      "longitude": 15.787,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 535.88; 2014: 594; 2015: 422.3; 2016: 562.6; 2017: 462.22",
+      "generation_data_source": ""
+    },
+    {
+      "name": "HE Formin",
+      "gppd_idnr": "WRI1022416",
+      "capacity_mw": 116,
+      "latitude": 46.4026,
+      "longitude": 16.0339,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 437.29; 2014: 388.93; 2015: 342.9; 2016: 450.64; 2017: 329.07",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Energetika Ljubljana",
+      "gppd_idnr": "WRI1022415",
+      "capacity_mw": 112,
+      "latitude": 46.058,
+      "longitude": 14.5451,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 445.19",
+      "generation_data_source": ""
+    },
+    {
+      "name": "TET",
+      "gppd_idnr": "WRI1022410",
+      "capacity_mw": 110,
+      "latitude": 46.1258,
+      "longitude": 15.0611,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 0; 2016: 0; 2017: 0",
+      "estimated_generation_gwh": "2017: 437.24",
+      "generation_data_source": "JRC-PPDB-OPEN"
+    }
+  ],
+  "meta": {
+    "title": "Slovenia — Power Plants - Free Download",
+    "description": "Power plants located in Slovenia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Slovenia — Power Plants | ListBase",
+    "seo_description": "Download Slovenia — Power Plants dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

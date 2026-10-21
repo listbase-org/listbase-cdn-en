@@ -1,0 +1,276 @@
+{
+  "id": "st-foreign-embassies",
+  "name": "São Tomé and Príncipe — Foreign Embassies and Consulates",
+  "title": "São Tomé and Príncipe — Foreign Embassies and Consulates",
+  "description": "Diplomatic missions of foreign countries and territories hosted in São Tomé and Príncipe. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "date"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Brazil",
+      "operator_cc": "br",
+      "host_country": "São Tomé and Príncipe",
+      "host_cc": "st",
+      "city": "São Tomé",
+      "address": "",
+      "type": "embassy",
+      "latitude": 0.34358,
+      "longitude": 6.736,
+      "jurisdictions": "São Tomé and Príncipe",
+      "phone": "",
+      "email": "",
+      "website": "http://saotome.itamaraty.gov.br",
+      "facebook": "brasembsaotome",
+      "twitter": "",
+      "youtube": "",
+      "creation": "2003-11-02T00:00:00Z",
+      "wikidata_qid": "Q105914865"
+    },
+    {
+      "operator": "India",
+      "operator_cc": "in",
+      "host_country": "São Tomé and Príncipe",
+      "host_cc": "st",
+      "city": "São Tomé",
+      "address": "",
+      "type": "embassy",
+      "latitude": 0.3563,
+      "longitude": 6.7173,
+      "jurisdictions": "São Tomé and Príncipe",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q110588786"
+    },
+    {
+      "operator": "Netherlands",
+      "operator_cc": "nl",
+      "host_country": "São Tomé and Príncipe",
+      "host_cc": "st",
+      "city": "",
+      "address": "",
+      "type": "honorary consulate",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "São Tomé and Príncipe",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q112661428"
+    },
+    {
+      "operator": "Nigeria",
+      "operator_cc": "ng",
+      "host_country": "São Tomé and Príncipe",
+      "host_cc": "st",
+      "city": "São Tomé",
+      "address": "",
+      "type": "embassy",
+      "latitude": 0.33651,
+      "longitude": 6.73724,
+      "jurisdictions": "São Tomé and Príncipe",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q105916403"
+    },
+    {
+      "operator": "People's Republic of China",
+      "operator_cc": "cn",
+      "host_country": "São Tomé and Príncipe",
+      "host_cc": "st",
+      "city": "São Tomé",
+      "address": "",
+      "type": "embassy",
+      "latitude": 0.3372,
+      "longitude": 6.73597,
+      "jurisdictions": "São Tomé and Príncipe",
+      "phone": "",
+      "email": "",
+      "website": "http://st.china-embassy.org/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q105915089"
+    },
+    {
+      "operator": "Portugal",
+      "operator_cc": "pt",
+      "host_country": "São Tomé and Príncipe",
+      "host_cc": "st",
+      "city": "São Tomé",
+      "address": "",
+      "type": "embassy",
+      "latitude": 0.337733,
+      "longitude": 6.739693,
+      "jurisdictions": "Equatorial Guinea, Gabon, São Tomé and Príncipe",
+      "phone": "",
+      "email": "",
+      "website": "https://saotome.embaixadaportugal.mne.gov.pt",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q55264659"
+    },
+    {
+      "operator": "South Africa",
+      "operator_cc": "za",
+      "host_country": "São Tomé and Príncipe",
+      "host_cc": "st",
+      "city": "São Tomé",
+      "address": "",
+      "type": "embassy",
+      "latitude": 0.3563,
+      "longitude": 6.7173,
+      "jurisdictions": "São Tomé and Príncipe",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106636373"
+    },
+    {
+      "operator": "Vatican",
+      "operator_cc": "va",
+      "host_country": "São Tomé and Príncipe",
+      "host_cc": "st",
+      "city": "",
+      "address": "",
+      "type": "apostolic nunciature",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "São Tomé and Príncipe",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "1984-12-12T00:00:00Z",
+      "wikidata_qid": "Q12784985"
+    }
+  ],
+  "meta": {
+    "title": "São Tomé and Príncipe — Foreign Embassies and Consulates - Free Download",
+    "description": "Diplomatic missions of foreign countries and territories hosted in São Tomé and Príncipe. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "São Tomé and Príncipe — Foreign Embassies and Consulates | ListBase",
+    "seo_description": "Download São Tomé and Príncipe — Foreign Embassies and Consulates — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

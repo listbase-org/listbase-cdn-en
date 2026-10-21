@@ -1,0 +1,121 @@
+{
+  "id": "pm-airports-iata",
+  "name": "Saint Pierre and Miquelon — IATA Airports",
+  "title": "Saint Pierre and Miquelon — IATA Airports",
+  "description": "Airports with IATA codes in Saint Pierre and Miquelon: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "FSP",
+      "icao_code": "LFVP",
+      "name": "Saint-Pierre Airport",
+      "city_name_list": "Saint-Pierre",
+      "country_code": "PM",
+      "country_name": "Saint Pierre and Miquelon",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 46.76271,
+      "longitude": -56.17528,
+      "elevation": 8,
+      "timezone": "America/Miquelon",
+      "wiki_link": "https://en.wikipedia.org/wiki/Saint-Pierre_Airport"
+    },
+    {
+      "iata_code": "MQC",
+      "icao_code": "LFVM",
+      "name": "Miquelon Airport",
+      "city_name_list": "Miquelon",
+      "country_code": "PM",
+      "country_name": "Saint Pierre and Miquelon",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 47.13,
+      "longitude": -56.38,
+      "elevation": "",
+      "timezone": "America/Miquelon",
+      "wiki_link": "https://en.wikipedia.org/wiki/Miquelon_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Saint Pierre and Miquelon — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Saint Pierre and Miquelon: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Saint Pierre and Miquelon — IATA Airports | ListBase",
+    "seo_description": "Download Saint Pierre and Miquelon — IATA Airports dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "id": "us-food-prices-hourly-wages",
+  "name": "US Food Prices in Hourly Wages",
+  "title": "US Food Prices in Hourly Wages",
+  "description": "62 data points showing how many hours of work were needed to buy specific foods in the US from 1919 to 2013.",
+  "category": "finance",
+  "source": "https://github.com/owid/owid-datasets",
+  "source_url": "https://github.com/owid/owid-datasets",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "food_item",
+      "label": "Food Item",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "hourly_wages_required",
+      "label": "Hourly Wages Required",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "food_item": "Bacon (lb.)",
+      "year": 1901,
+      "hourly_wages_required": 1.4375
+    },
+    {
+      "food_item": "Bacon (lb.)",
+      "year": 1918,
+      "hourly_wages_required": 1
+    },
+    {
+      "food_item": "Bacon (lb.)",
+      "year": 1934,
+      "hourly_wages_required": 2
+    },
+    {
+      "food_item": "Bacon (lb.)",
+      "year": 1950,
+      "hourly_wages_required": 2.484375
+    },
+    {
+      "food_item": "Bacon (lb.)",
+      "year": 1960,
+      "hourly_wages_required": 3.893939394
+    },
+    {
+      "food_item": "Bacon (lb.)",
+      "year": 1970,
+      "hourly_wages_required": 4.126315789
+    },
+    {
+      "food_item": "Bacon (lb.)",
+      "year": 1984,
+      "hourly_wages_required": 3.596774194
+    },
+    {
+      "food_item": "Bacon (lb.)",
+      "year": 1996,
+      "hourly_wages_required": 5.174089069
+    },
+    {
+      "food_item": "Bacon (lb.)",
+      "year": 2003,
+      "hourly_wages_required": 4.78125
+    },
+    {
+      "food_item": "Butter (lb.)",
+      "year": 1901,
+      "hourly_wages_required": 0.851851852
+    },
+    {
+      "food_item": "Butter (lb.)",
+      "year": 1918,
+      "hourly_wages_required": 0.913793103
+    },
+    {
+      "food_item": "Butter (lb.)",
+      "year": 1934,
+      "hourly_wages_required": 1.8125
+    },
+    {
+      "food_item": "Butter (lb.)",
+      "year": 1950,
+      "hourly_wages_required": 2.178082192
+    },
+    {
+      "food_item": "Butter (lb.)",
+      "year": 1960,
+      "hourly_wages_required": 3.426666667
+    },
+    {
+      "food_item": "Butter (lb.)",
+      "year": 1970,
+      "hourly_wages_required": 4.505747126
+    },
+    {
+      "food_item": "Butter (lb.)",
+      "year": 1984,
+      "hourly_wages_required": 3.170616114
+    },
+    {
+      "food_item": "Butter (lb.)",
+      "year": 1996,
+      "hourly_wages_required": 6.234146341
+    },
+    {
+      "food_item": "Butter (lb.)",
+      "year": 2003,
+      "hourly_wages_required": 5.444839858
+    },
+    {
+      "food_item": "Eggs (dozen)",
+      "year": 1901,
+      "hourly_wages_required": 1.045454545
+    },
+    {
+      "food_item": "Eggs (dozen)",
+      "year": 1918,
+      "hourly_wages_required": 0.929824561
+    },
+    {
+      "food_item": "Eggs (dozen)",
+      "year": 1934,
+      "hourly_wages_required": 1.757575758
+    },
+    {
+      "food_item": "Eggs (dozen)",
+      "year": 1950,
+      "hourly_wages_required": 2.65
+    },
+    {
+      "food_item": "Eggs (dozen)",
+      "year": 1960,
+      "hourly_wages_required": 4.50877193
+    },
+    {
+      "food_item": "Eggs (dozen)",
+      "year": 1970,
+      "hourly_wages_required": 6.426229508
+    },
+    {
+      "food_item": "Eggs (dozen)",
+      "year": 1984,
+      "hourly_wages_required": 6.69
+    },
+    {
+      "food_item": "Eggs (dozen)",
+      "year": 1996,
+      "hourly_wages_required": 11.51351351
+    },
+    {
+      "food_item": "Eggs (dozen)",
+      "year": 2003,
+      "hourly_wages_required": 12.33870968
+    },
+    {
+      "food_item": "Flour (5 lb.)",
+      "year": 1901,
+      "hourly_wages_required": 1.769230769
+    },
+    {
+      "food_item": "Flour (5 lb.)",
+      "year": 1918,
+      "hourly_wages_required": 1.558823529
+    },
+    {
+      "food_item": "Flour (5 lb.)",
+      "year": 1934,
+      "hourly_wages_required": 2.32
+    },
+    {
+      "food_item": "Flour (5 lb.)",
+      "year": 1950,
+      "hourly_wages_required": 3.244897959
+    },
+    {
+      "food_item": "Flour (5 lb.)",
+      "year": 1960,
+      "hourly_wages_required": 4.672727273
+    },
+    {
+      "food_item": "Flour (5 lb.)",
+      "year": 1970,
+      "hourly_wages_required": 6.644067797
+    },
+    {
+      "food_item": "Flour (5 lb.)",
+      "year": 1984,
+      "hourly_wages_required": 6.252336449
+    },
+    {
+      "food_item": "Flour (5 lb.)",
+      "year": 1996,
+      "hourly_wages_required": 8.875
+    },
+    {
+      "food_item": "Flour (5 lb.)",
+      "year": 2003,
+      "hourly_wages_required": 9.807692308
+    },
+    {
+      "food_item": "Milk (1/2 gallon)",
+      "year": 1901,
+      "hourly_wages_required": 1.642857143
+    },
+    {
+      "food_item": "Milk (1/2 gallon)",
+      "year": 1918,
+      "hourly_wages_required": 1.892857143
+    },
+    {
+      "food_item": "Milk (1/2 gallon)",
+      "year": 1934,
+      "hourly_wages_required": 2.636363636
+    },
+    {
+      "food_item": "Milk (1/2 gallon)",
+      "year": 1950,
+      "hourly_wages_required": 3.87804878
+    },
+    {
+      "food_item": "Milk (1/2 gallon)",
+      "year": 1960,
+      "hourly_wages_required": 4.942307692
+    },
+    {
+      "food_item": "Milk (1/2 gallon)",
+      "year": 1970,
+      "hourly_wages_required": 5.939393939
+    },
+    {
+      "food_item": "Milk (1/2 gallon)",
+      "year": 1984,
+      "hourly_wages_required": 5.920353982
+    },
+    {
+      "food_item": "Milk (1/2 gallon)",
+      "year": 1996,
+      "hourly_wages_required": 8.192307692
+    },
+    {
+      "food_item": "Pork chops (lb.)",
+      "year": 1901,
+      "hourly_wages_required": 1.769230769
+    },
+    {
+      "food_item": "Pork chops (lb.)",
+      "year": 1918,
+      "hourly_wages_required": 1.358974359
+    },
+    {
+      "food_item": "Pork chops (lb.)",
+      "year": 1934,
+      "hourly_wages_required": 2.230769231
+    },
+    {
+      "food_item": "Pork chops (lb.)",
+      "year": 1950,
+      "hourly_wages_required": 2.12
+    },
+    {
+      "food_item": "Pork chops (lb.)",
+      "year": 1960,
+      "hourly_wages_required": 2.988372093
+    },
+    {
+      "food_item": "Pork chops (lb.)",
+      "year": 1970,
+      "hourly_wages_required": 3.379310345
+    },
+    {
+      "food_item": "Pork chops (lb.)",
+      "year": 1984,
+      "hourly_wages_required": 2.81092437
+    },
+    {
+      "food_item": "Pork chops (lb.)",
+      "year": 1996,
+      "hourly_wages_required": 3.747800587
+    },
+    {
+      "food_item": "Pork chops (lb.)",
+      "year": 2003,
+      "hourly_wages_required": 4.888178914
+    },
+    {
+      "food_item": "Round steak (lb.)",
+      "year": 1901,
+      "hourly_wages_required": 1.642857143
+    },
+    {
+      "food_item": "Round steak (lb.)",
+      "year": 1918,
+      "hourly_wages_required": 1.432432432
+    },
+    {
+      "food_item": "Round steak (lb.)",
+      "year": 1934,
+      "hourly_wages_required": 2.071428571
+    },
+    {
+      "food_item": "Round steak (lb.)",
+      "year": 1950,
+      "hourly_wages_required": 1.691489362
+    },
+    {
+      "food_item": "Round steak (lb.)",
+      "year": 1960,
+      "hourly_wages_required": 2.424528302
+    },
+    {
+      "food_item": "Round steak (lb.)",
+      "year": 1970,
+      "hourly_wages_required": 3.015384615
+    },
+    {
+      "food_item": "Round steak (lb.)",
+      "year": 1984,
+      "hourly_wages_required": 2.298969072
+    },
+    {
+      "food_item": "Round steak (lb.)",
+      "year": 1996,
+      "hourly_wages_required": 4.096153846
+    },
+    {
+      "food_item": "Round steak (lb.)",
+      "year": 2003,
+      "hourly_wages_required": 3.984375
+    }
+  ],
+  "meta": {
+    "title": "US Food Prices in Hourly Wages - Free Download",
+    "description": "62 data points showing how many hours of work were needed to buy specific foods in the US from 1919 to 2013. Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US Food Prices in Hourly Wages | ListBase",
+    "seo_description": "Download US Food Prices in Hourly Wages — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/owid/owid-datasets"
+    ]
+  }
+}

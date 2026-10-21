@@ -1,0 +1,241 @@
+{
+  "id": "sl-airports-iata",
+  "name": "Sierra Leone — IATA Airports",
+  "title": "Sierra Leone — IATA Airports",
+  "description": "Airports with IATA codes in Sierra Leone: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BTE",
+      "icao_code": "GFBN",
+      "name": "Sherbro International Airport",
+      "city_name_list": "Bonthe",
+      "country_code": "SL",
+      "country_name": "Sierra Leone",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Southern Province",
+      "latitude": 7.517,
+      "longitude": -12.5,
+      "elevation": "",
+      "timezone": "Africa/Freetown",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sherbro_International_Airport"
+    },
+    {
+      "iata_code": "DSL",
+      "icao_code": "",
+      "name": "Daru Airport",
+      "city_name_list": "Daru",
+      "country_code": "SL",
+      "country_name": "Sierra Leone",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Eastern Province",
+      "latitude": 7.98333,
+      "longitude": -10.85,
+      "elevation": "",
+      "timezone": "Africa/Freetown",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "FNA",
+      "icao_code": "GFLL",
+      "name": "Freetown-Lungi International Airport",
+      "city_name_list": "Freetown",
+      "country_code": "SL",
+      "country_name": "Sierra Leone",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Northern Province",
+      "latitude": 8.616444,
+      "longitude": -13.195489,
+      "elevation": 25,
+      "timezone": "Africa/Freetown",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lungi_International_Airport"
+    },
+    {
+      "iata_code": "GBK",
+      "icao_code": "GFGK",
+      "name": "Gbangbatok Airport",
+      "city_name_list": "Gbangbatok",
+      "country_code": "SL",
+      "country_name": "Sierra Leone",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Southern Province",
+      "latitude": 7.8,
+      "longitude": -12.37,
+      "elevation": "",
+      "timezone": "Africa/Freetown",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gbangbatok_Airport"
+    },
+    {
+      "iata_code": "HGS",
+      "icao_code": "GFHA",
+      "name": "Hastings Airport",
+      "city_name_list": "Freetown",
+      "country_code": "SL",
+      "country_name": "Sierra Leone",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Western Area",
+      "latitude": 8.383,
+      "longitude": -13.12,
+      "elevation": "",
+      "timezone": "Africa/Freetown",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hastings_Airport_%28Sierra_Leone%29"
+    },
+    {
+      "iata_code": "KBA",
+      "icao_code": "GFKB",
+      "name": "Kabala Airport",
+      "city_name_list": "Kabala",
+      "country_code": "SL",
+      "country_name": "Sierra Leone",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Northern Province",
+      "latitude": 9.583,
+      "longitude": -11.55,
+      "elevation": "",
+      "timezone": "Africa/Freetown",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kabala_Airport"
+    },
+    {
+      "iata_code": "KBS",
+      "icao_code": "GFBO",
+      "name": "Bo Airport",
+      "city_name_list": "Bo",
+      "country_code": "SL",
+      "country_name": "Sierra Leone",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Southern Province",
+      "latitude": 7.9444,
+      "longitude": -11.761,
+      "elevation": "",
+      "timezone": "Africa/Freetown",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bo_Airport"
+    },
+    {
+      "iata_code": "KEN",
+      "icao_code": "GFKE",
+      "name": "Kenema Airport",
+      "city_name_list": "Kenema",
+      "country_code": "SL",
+      "country_name": "Sierra Leone",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Eastern Province",
+      "latitude": 7.867,
+      "longitude": -11.2,
+      "elevation": "",
+      "timezone": "Africa/Freetown",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kenema_Airport"
+    },
+    {
+      "iata_code": "SRK",
+      "icao_code": "",
+      "name": "Sierra Leone",
+      "city_name_list": "Freetown",
+      "country_code": "SL",
+      "country_name": "Sierra Leone",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Western Area",
+      "latitude": 8.484,
+      "longitude": -13.22994,
+      "elevation": "",
+      "timezone": "Africa/Freetown",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "WYE",
+      "icao_code": "GFYE",
+      "name": "Yengema Airport",
+      "city_name_list": "Yengema",
+      "country_code": "SL",
+      "country_name": "Sierra Leone",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Eastern Province",
+      "latitude": 8.617,
+      "longitude": -11.05,
+      "elevation": "",
+      "timezone": "Africa/Freetown",
+      "wiki_link": "https://en.wikipedia.org/wiki/Yengema_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Sierra Leone — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Sierra Leone: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sierra Leone — IATA Airports | ListBase",
+    "seo_description": "Download Sierra Leone — IATA Airports dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

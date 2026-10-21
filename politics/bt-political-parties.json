@@ -1,0 +1,151 @@
+{
+  "id": "bt-political-parties",
+  "name": "Bhutan — Political Parties",
+  "title": "Bhutan — Political Parties",
+  "description": "Political parties of Bhutan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3822,
+      "name_short": "DPT",
+      "name": "Druk Phuensum Tshogpa",
+      "name_english": "Bhutan Peace and Prosperity Party",
+      "name_other": "འབྲུག་ཕུན་སུམ་ཚོགས་པ",
+      "year_first": 2008,
+      "year_last": 2013,
+      "share": 67,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bhutan_Peace_and_Prosperity_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3823,
+      "name_short": "PDP",
+      "name": "People’s Democratic Party",
+      "name_english": "People’s Democratic Party",
+      "name_other": "མི་སེར་དམངས་གཙོའི་ཚོགས་པ་",
+      "year_first": 2008,
+      "year_last": 2013,
+      "share": 33,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Democratic_Party_(Bhutan)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3303,
+      "name_short": "DNT",
+      "name": "Druk Nyamrup Tshogpa",
+      "name_english": "Druk Nyamrup Tshogpa",
+      "name_other": "Dzongkha: འབྲུག་མཉམ་རུབ་ཚོགས་པ་; Wylie: ’brug nyam-rub tshogs-pa",
+      "year_first": 2013,
+      "year_last": "",
+      "share": 17.1,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Druk_Nyamrup_Tshogpa",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3820,
+      "name_short": "DCT",
+      "name": "Druk Chirwang Tshogpa",
+      "name_english": "Druk Chirwang Tshogpa",
+      "name_other": "འབྲུག་སྤྱིར་དབང་ཚོགས་པ་",
+      "year_first": 2013,
+      "year_last": 2013,
+      "share": 5.9,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Druk_Chirwang_Tshogpa",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Bhutan — Political Parties - Free Download",
+    "description": "Political parties of Bhutan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 4 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bhutan — Political Parties | ListBase",
+    "seo_description": "Download Bhutan — Political Parties dataset with 4 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 4 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

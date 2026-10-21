@@ -1,0 +1,576 @@
+{
+  "id": "euro-2020-matches",
+  "name": "UEFA Euro 2020 Matches",
+  "title": "UEFA Euro 2020 Matches",
+  "description": "All 51 matches from UEFA Euro 2020 (played in 2021 across multiple European cities) including teams, scores, groups, and host cities.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/euro.json",
+  "source_url": "https://github.com/openfootball/euro.json",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "round",
+      "label": "Round",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "team1",
+      "label": "Team1",
+      "type": "string"
+    },
+    {
+      "key": "team2",
+      "label": "Team2",
+      "type": "string"
+    },
+    {
+      "key": "score_team1",
+      "label": "Score Team1",
+      "type": "number"
+    },
+    {
+      "key": "score_team2",
+      "label": "Score Team2",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-11",
+      "team1": "Turkey",
+      "team2": "Italy",
+      "score_team1": 0,
+      "score_team2": 3,
+      "group": "Group A",
+      "city": ""
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-12",
+      "team1": "Wales",
+      "team2": "Switzerland",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group A",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-16",
+      "team1": "Turkey",
+      "team2": "Wales",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "Group A",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-16",
+      "team1": "Italy",
+      "team2": "Switzerland",
+      "score_team1": 3,
+      "score_team2": 0,
+      "group": "Group A",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-20",
+      "team1": "Switzerland",
+      "team2": "Turkey",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "Group A",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-20",
+      "team1": "Italy",
+      "team2": "Wales",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group A",
+      "city": ""
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-12",
+      "team1": "Denmark",
+      "team2": "Finland",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group B",
+      "city": ""
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-12",
+      "team1": "Belgium",
+      "team2": "Russia",
+      "score_team1": 3,
+      "score_team2": 0,
+      "group": "Group B",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-16",
+      "team1": "Finland",
+      "team2": "Russia",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group B",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-17",
+      "team1": "Denmark",
+      "team2": "Belgium",
+      "score_team1": 1,
+      "score_team2": 2,
+      "group": "Group B",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-21",
+      "team1": "Russia",
+      "team2": "Denmark",
+      "score_team1": 1,
+      "score_team2": 4,
+      "group": "Group B",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-21",
+      "team1": "Finland",
+      "team2": "Belgium",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "Group B",
+      "city": ""
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-13",
+      "team1": "Austria",
+      "team2": "North Macedonia",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "Group C",
+      "city": ""
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-13",
+      "team1": "Netherlands",
+      "team2": "Ukraine",
+      "score_team1": 3,
+      "score_team2": 2,
+      "group": "Group C",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-17",
+      "team1": "Ukraine",
+      "team2": "North Macedonia",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group C",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-17",
+      "team1": "Netherlands",
+      "team2": "Austria",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group C",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-21",
+      "team1": "North Macedonia",
+      "team2": "Netherlands",
+      "score_team1": 0,
+      "score_team2": 3,
+      "group": "Group C",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-21",
+      "team1": "Ukraine",
+      "team2": "Austria",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group C",
+      "city": ""
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-13",
+      "team1": "England",
+      "team2": "Croatia",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group D",
+      "city": ""
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-14",
+      "team1": "Scotland",
+      "team2": "Czech Republic",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "Group D",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-18",
+      "team1": "Croatia",
+      "team2": "Czech Republic",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group D",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-18",
+      "team1": "England",
+      "team2": "Scotland",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group D",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-22",
+      "team1": "Croatia",
+      "team2": "Scotland",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "Group D",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-22",
+      "team1": "Czech Republic",
+      "team2": "England",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group D",
+      "city": ""
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-14",
+      "team1": "Poland",
+      "team2": "Slovakia",
+      "score_team1": 1,
+      "score_team2": 2,
+      "group": "Group E",
+      "city": ""
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-14",
+      "team1": "Spain",
+      "team2": "Sweden",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group E",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-18",
+      "team1": "Sweden",
+      "team2": "Slovakia",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group E",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-19",
+      "team1": "Spain",
+      "team2": "Poland",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group E",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-23",
+      "team1": "Slovakia",
+      "team2": "Spain",
+      "score_team1": 0,
+      "score_team2": 5,
+      "group": "Group E",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-23",
+      "team1": "Sweden",
+      "team2": "Poland",
+      "score_team1": 3,
+      "score_team2": 2,
+      "group": "Group E",
+      "city": ""
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-15",
+      "team1": "Hungary",
+      "team2": "Portugal",
+      "score_team1": 0,
+      "score_team2": 3,
+      "group": "Group F",
+      "city": ""
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2021-06-15",
+      "team1": "France",
+      "team2": "Germany",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group F",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-19",
+      "team1": "Hungary",
+      "team2": "France",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group F",
+      "city": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2021-06-19",
+      "team1": "Portugal",
+      "team2": "Germany",
+      "score_team1": 2,
+      "score_team2": 4,
+      "group": "Group F",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-23",
+      "team1": "Portugal",
+      "team2": "France",
+      "score_team1": 2,
+      "score_team2": 2,
+      "group": "Group F",
+      "city": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-06-23",
+      "team1": "Germany",
+      "team2": "Hungary",
+      "score_team1": 2,
+      "score_team2": 2,
+      "group": "Group F",
+      "city": ""
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-06-26",
+      "team1": "Wales",
+      "team2": "Denmark",
+      "score_team1": 0,
+      "score_team2": 4,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-06-26",
+      "team1": "Italy",
+      "team2": "Austria",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-06-27",
+      "team1": "Netherlands",
+      "team2": "Czech Republic",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-06-27",
+      "team1": "Belgium",
+      "team2": "Portugal",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-06-28",
+      "team1": "Croatia",
+      "team2": "Spain",
+      "score_team1": 3,
+      "score_team2": 3,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-06-28",
+      "team1": "France",
+      "team2": "Switzerland",
+      "score_team1": 3,
+      "score_team2": 3,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-06-29",
+      "team1": "England",
+      "team2": "Germany",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-06-29",
+      "team1": "Sweden",
+      "team2": "Ukraine",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "2021-07-02",
+      "team1": "Switzerland",
+      "team2": "Spain",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "2021-07-02",
+      "team1": "Belgium",
+      "team2": "Italy",
+      "score_team1": 1,
+      "score_team2": 2,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "2021-07-03",
+      "team1": "Czech Republic",
+      "team2": "Denmark",
+      "score_team1": 1,
+      "score_team2": 2,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "2021-07-03",
+      "team1": "Ukraine",
+      "team2": "England",
+      "score_team1": 0,
+      "score_team2": 4,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Semi-final",
+      "date": "2021-07-06",
+      "team1": "Italy",
+      "team2": "Spain",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Semi-final",
+      "date": "2021-07-07",
+      "team1": "England",
+      "team2": "Denmark",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "",
+      "city": ""
+    },
+    {
+      "round": "Final",
+      "date": "2021-07-11",
+      "team1": "Italy",
+      "team2": "England",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "",
+      "city": ""
+    }
+  ],
+  "meta": {
+    "title": "UEFA Euro 2020 Matches - Free Download",
+    "description": "All 51 matches from UEFA Euro 2020 (played in 2021 across multiple European cities) including teams, scores, groups, and host cities. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "UEFA Euro 2020 Matches | ListBase",
+    "seo_description": "Download UEFA Euro 2020 Matches — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/euro.json"
+    ]
+  }
+}

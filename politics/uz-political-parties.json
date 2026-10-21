@@ -1,0 +1,226 @@
+{
+  "id": "uz-political-parties",
+  "name": "Uzbekistan — Political Parties",
+  "title": "Uzbekistan — Political Parties",
+  "description": "Political parties of Uzbekistan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5099,
+      "name_short": "OLDP",
+      "name": "O'zbekiston Liberal Demokratik Partiyasi",
+      "name_english": "Uzbekistan Liberal Democratic Party",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": "",
+      "share": 39.3,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/Uzbekistan_Liberal_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5831,
+      "name_short": "FMDP",
+      "name": "Fidokorlar Milliy Demokratik Partiyasi",
+      "name_english": "Self-Sacrifice National Democratic Party",
+      "name_other": "",
+      "year_first": 1999,
+      "year_last": 2009,
+      "share": 24.5,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/Self-Sacrifice_National_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5100,
+      "name_short": "OXDP",
+      "name": "O'zbekistan Xalq Demokratik Partiyasi",
+      "name_english": "People's Democratic Party of Uzbekistan",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 23.7,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Democratic_Party_of_Uzbekistan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5102,
+      "name_short": "OMTDP",
+      "name": "O'zbekiston Milliy Tiklanish Demokratik Partiyasi",
+      "name_english": "Uzbekistan National Revival Democratic Party",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": "",
+      "share": 23,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/Uzbekistan_National_Revival_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5101,
+      "name_short": "ASDP",
+      "name": "Adolat Sotsial Demokratik Partiyasi",
+      "name_english": "Justice Social Democratic Party",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": "",
+      "share": 14.1,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/Justice_Social_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6185,
+      "name_short": "EDP",
+      "name": "Erk Demokratik Partiyasi",
+      "name_english": "Erk “Will” Democratic Party",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": 2006,
+      "share": 12.7,
+      "share_year": 1991,
+      "wikipedia": "https://en.wikipedia.org/wiki/Erk_Democratic_Party",
+      "description": "",
+      "comment": "12.7% in 1991 presidential election",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7320,
+      "name_short": "EMU",
+      "name": "Ecological Movement of Uzbekistan",
+      "name_english": "Ecological Movement of Uzbekistan",
+      "name_other": "Uzbek: O`zbekiston ekologik hаrаkаti; Russian: Экологическое Движение Узбекистана",
+      "year_first": 2008,
+      "year_last": "",
+      "share": 10,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ecological_Movement_of_Uzbekistan",
+      "description": "15 of 150 seats in 2014/2015 Uzbek parliamentary election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5648,
+      "name_short": "PPF",
+      "name": "Progress Party of the Fatherland",
+      "name_english": "Progress Party of the Fatherland",
+      "name_other": "Russian: Партия Прогресса Отечества («Ватан Тараккиети»)",
+      "year_first": 1995,
+      "year_last": 2004,
+      "share": 8,
+      "share_year": 1999,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6238,
+      "name_short": "B",
+      "name": "Birlik",
+      "name_english": "Unity",
+      "name_other": "",
+      "year_first": 1988,
+      "year_last": 1993,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Unity_(Uzbekistan)",
+      "description": "banned in 1993",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Uzbekistan — Political Parties - Free Download",
+    "description": "Political parties of Uzbekistan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Uzbekistan — Political Parties | ListBase",
+    "seo_description": "Download Uzbekistan — Political Parties dataset with 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

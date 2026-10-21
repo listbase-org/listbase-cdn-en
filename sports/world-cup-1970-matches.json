@@ -1,0 +1,386 @@
+{
+  "id": "world-cup-1970-matches",
+  "name": "FIFA World Cup 1970 Matches",
+  "title": "FIFA World Cup 1970 Matches",
+  "description": "All 32 matches from the 1970 FIFA World Cup (hosted by Mexico) including teams, scores, groups, and venues.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/world-cup.json",
+  "source_url": "https://github.com/openfootball/world-cup.json",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "round",
+      "label": "Round",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "team1",
+      "label": "Team1",
+      "type": "string"
+    },
+    {
+      "key": "team2",
+      "label": "Team2",
+      "type": "string"
+    },
+    {
+      "key": "score_team1",
+      "label": "Score Team1",
+      "type": "number"
+    },
+    {
+      "key": "score_team2",
+      "label": "Score Team2",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "ground",
+      "label": "Ground",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "round": "Matchday 1",
+      "date": "1970-05-31",
+      "team1": "Mexico",
+      "team2": "Soviet Union",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Estadio Azteca, Mexico City"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1970-06-03",
+      "team1": "Belgium",
+      "team2": "El Salvador",
+      "score_team1": 3,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Estadio Azteca, Mexico City"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1970-06-06",
+      "team1": "Soviet Union",
+      "team2": "Belgium",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "Group 1",
+      "ground": "Estadio Azteca, Mexico City"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1970-06-07",
+      "team1": "Mexico",
+      "team2": "El Salvador",
+      "score_team1": 4,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Estadio Azteca, Mexico City"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1970-06-10",
+      "team1": "Soviet Union",
+      "team2": "El Salvador",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Estadio Azteca, Mexico City"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1970-06-11",
+      "team1": "Mexico",
+      "team2": "Belgium",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Estadio Azteca, Mexico City"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1970-06-02",
+      "team1": "Uruguay",
+      "team2": "Israel",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Estadio Cuauhtémoc, Puebla"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1970-06-03",
+      "team1": "Italy",
+      "team2": "Sweden",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Estadio Luis Dosal, Toluca"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1970-06-06",
+      "team1": "Uruguay",
+      "team2": "Italy",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Estadio Cuauhtémoc, Puebla"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1970-06-07",
+      "team1": "Sweden",
+      "team2": "Israel",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 2",
+      "ground": "Estadio Luis Dosal, Toluca"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1970-06-10",
+      "team1": "Uruguay",
+      "team2": "Sweden",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group 2",
+      "ground": "Estadio Cuauhtémoc, Puebla"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1970-06-11",
+      "team1": "Israel",
+      "team2": "Italy",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "Estadio Luis Dosal, Toluca"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1970-06-02",
+      "team1": "Romania",
+      "team2": "England",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group 3",
+      "ground": "Estadio Jalisco, Guadalajara"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1970-06-03",
+      "team1": "Czechoslovakia",
+      "team2": "Brazil",
+      "score_team1": 1,
+      "score_team2": 4,
+      "group": "Group 3",
+      "ground": "Estadio Jalisco, Guadalajara"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1970-06-06",
+      "team1": "Romania",
+      "team2": "Czechoslovakia",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group 3",
+      "ground": "Estadio Jalisco, Guadalajara"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1970-06-07",
+      "team1": "England",
+      "team2": "Brazil",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group 3",
+      "ground": "Estadio Jalisco, Guadalajara"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1970-06-10",
+      "team1": "Romania",
+      "team2": "Brazil",
+      "score_team1": 2,
+      "score_team2": 3,
+      "group": "Group 3",
+      "ground": "Estadio Jalisco, Guadalajara"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1970-06-11",
+      "team1": "England",
+      "team2": "Czechoslovakia",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Estadio Jalisco, Guadalajara"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1970-06-02",
+      "team1": "Peru",
+      "team2": "Bulgaria",
+      "score_team1": 3,
+      "score_team2": 2,
+      "group": "Group 4",
+      "ground": "Estadio Nou Camp, León"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1970-06-03",
+      "team1": "Morocco",
+      "team2": "West Germany",
+      "score_team1": 1,
+      "score_team2": 2,
+      "group": "Group 4",
+      "ground": "Estadio Nou Camp, León"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1970-06-06",
+      "team1": "Peru",
+      "team2": "Morocco",
+      "score_team1": 3,
+      "score_team2": 0,
+      "group": "Group 4",
+      "ground": "Estadio Nou Camp, León"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1970-06-07",
+      "team1": "Bulgaria",
+      "team2": "West Germany",
+      "score_team1": 2,
+      "score_team2": 5,
+      "group": "Group 4",
+      "ground": "Estadio Nou Camp, León"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1970-06-10",
+      "team1": "Peru",
+      "team2": "West Germany",
+      "score_team1": 1,
+      "score_team2": 3,
+      "group": "Group 4",
+      "ground": "Estadio Nou Camp, León"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1970-06-11",
+      "team1": "Bulgaria",
+      "team2": "Morocco",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Estadio Nou Camp, León"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1970-06-14",
+      "team1": "Soviet Union",
+      "team2": "Uruguay",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "",
+      "ground": "Estadio Azteca, Mexico City"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1970-06-14",
+      "team1": "Italy",
+      "team2": "Mexico",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Estadio Luis Dosal, Toluca"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1970-06-14",
+      "team1": "Brazil",
+      "team2": "Peru",
+      "score_team1": 4,
+      "score_team2": 2,
+      "group": "",
+      "ground": "Estadio Jalisco, Guadalajara"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1970-06-14",
+      "team1": "West Germany",
+      "team2": "England",
+      "score_team1": 2,
+      "score_team2": 2,
+      "group": "",
+      "ground": "Estadio Nou Camp, León"
+    },
+    {
+      "round": "Semi-finals",
+      "date": "1970-06-17",
+      "team1": "Uruguay",
+      "team2": "Brazil",
+      "score_team1": 1,
+      "score_team2": 3,
+      "group": "",
+      "ground": "Estadio Jalisco, Guadalajara"
+    },
+    {
+      "round": "Semi-finals",
+      "date": "1970-06-17",
+      "team1": "Italy",
+      "team2": "West Germany",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Estadio Azteca, Mexico City"
+    },
+    {
+      "round": "Match for third place",
+      "date": "1970-06-20",
+      "team1": "Uruguay",
+      "team2": "West Germany",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Estadio Azteca, Mexico City"
+    },
+    {
+      "round": "Final",
+      "date": "1970-06-21",
+      "team1": "Brazil",
+      "team2": "Italy",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Estadio Azteca, Mexico City"
+    }
+  ],
+  "meta": {
+    "title": "FIFA World Cup 1970 Matches - Free Download",
+    "description": "All 32 matches from the 1970 FIFA World Cup (hosted by Mexico) including teams, scores, groups, and venues. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FIFA World Cup 1970 Matches | ListBase",
+    "seo_description": "Download FIFA World Cup 1970 Matches — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/world-cup.json"
+    ]
+  }
+}

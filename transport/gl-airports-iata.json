@@ -1,0 +1,331 @@
+{
+  "id": "gl-airports-iata",
+  "name": "Greenland — IATA Airports",
+  "title": "Greenland — IATA Airports",
+  "description": "Airports with IATA codes in Greenland: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "CNP",
+      "icao_code": "BGCO",
+      "name": "Nerlerit Inaat Airport",
+      "city_name_list": "Jameson Land=Constable Pynt",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Sermersooq",
+      "latitude": 70.74311,
+      "longitude": -22.65038,
+      "elevation": 14,
+      "timezone": "America/Scoresbysund",
+      "wiki_link": "https://en.wikipedia.org/wiki/Nerlerit_Inaat_Airport"
+    },
+    {
+      "iata_code": "DUN",
+      "icao_code": "",
+      "name": "Dundas Airport",
+      "city_name_list": "Pituffik",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Qaasuitsup",
+      "latitude": 76.53111,
+      "longitude": -68.70167,
+      "elevation": "",
+      "timezone": "America/Thule",
+      "wiki_link": "https://en.wikipedia.org/wiki/Thule_Air_Base"
+    },
+    {
+      "iata_code": "GOH",
+      "icao_code": "BGGH",
+      "name": "Nuuk Airport",
+      "city_name_list": "Nuuk",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Sermersooq",
+      "latitude": 64.190922,
+      "longitude": -51.678064,
+      "elevation": 86,
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Nuuk_Airport"
+    },
+    {
+      "iata_code": "JAV",
+      "icao_code": "BGJN",
+      "name": "Ilulissat Airport",
+      "city_name_list": "Ilulissat",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 69.24079,
+      "longitude": -51.06351,
+      "elevation": 29,
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ilulissat_Airport"
+    },
+    {
+      "iata_code": "JEG",
+      "icao_code": "BGAA",
+      "name": "Aasiaat Airport",
+      "city_name_list": "Aasiaat",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 68.72134,
+      "longitude": -52.78854,
+      "elevation": 43,
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Aasiaat_Airport"
+    },
+    {
+      "iata_code": "JFR",
+      "icao_code": "BGPT",
+      "name": "Paamiut Airport",
+      "city_name_list": "Paamiut",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Sermersooq",
+      "latitude": 62.01295,
+      "longitude": -49.66867,
+      "elevation": 13,
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Paamiut_Airport"
+    },
+    {
+      "iata_code": "JHS",
+      "icao_code": "BGSS",
+      "name": "Sisimiut Airport",
+      "city_name_list": "Sisimiut",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Qeqqata",
+      "latitude": 66.9515,
+      "longitude": -53.72263,
+      "elevation": "",
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sisimiut_Airport"
+    },
+    {
+      "iata_code": "JNS",
+      "icao_code": "BGNS",
+      "name": "Narsaq Heliport",
+      "city_name_list": "Narsaq",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Kujalleq",
+      "latitude": 60.91666,
+      "longitude": -46.0499,
+      "elevation": "",
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Narsaq_Heliport"
+    },
+    {
+      "iata_code": "JQA",
+      "icao_code": "BGUQ",
+      "name": "Qaarsut Airport",
+      "city_name_list": "Qaarsut",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 70.73,
+      "longitude": -52.7,
+      "elevation": "",
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Qaarsut_Airport"
+    },
+    {
+      "iata_code": "JSU",
+      "icao_code": "BGMQ",
+      "name": "Maniitsoq Airport",
+      "city_name_list": "Maniitsoq",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Qeqqata",
+      "latitude": 65.4125,
+      "longitude": -52.9394,
+      "elevation": "",
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Maniitsoq_Airport"
+    },
+    {
+      "iata_code": "JUV",
+      "icao_code": "BGUK",
+      "name": "Upernavik Airport",
+      "city_name_list": "Upernavik",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 72.7902,
+      "longitude": -56.12889,
+      "elevation": "",
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Upernavik_Airport"
+    },
+    {
+      "iata_code": "KUS",
+      "icao_code": "BGKK",
+      "name": "Kulusuk Airport",
+      "city_name_list": "Kulusuk",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Sermersooq",
+      "latitude": 65.57316,
+      "longitude": -37.13233,
+      "elevation": 35,
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kulusuk_Airport"
+    },
+    {
+      "iata_code": "NAQ",
+      "icao_code": "BGQQ",
+      "name": "Qaanaaq Airport",
+      "city_name_list": "Qaanaaq",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 77.4886,
+      "longitude": -69.3887,
+      "elevation": "",
+      "timezone": "America/Thule",
+      "wiki_link": "https://en.wikipedia.org/wiki/Qaanaaq_Airport"
+    },
+    {
+      "iata_code": "OBY",
+      "icao_code": "BGSC",
+      "name": "Ittoqqortoormiit Heliport",
+      "city_name_list": "Ittoqqortoormiit",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Sermersooq",
+      "latitude": 70.48385,
+      "longitude": -21.95386,
+      "elevation": 65,
+      "timezone": "America/Scoresbysund",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ittoqqortoormiit_Heliport"
+    },
+    {
+      "iata_code": "SFJ",
+      "icao_code": "BGSF",
+      "name": "Kangerlussuaq Airport",
+      "city_name_list": "Kangerlussuaq",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Qeqqata",
+      "latitude": 67.016969,
+      "longitude": -50.689325,
+      "elevation": 50,
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kangerlussuaq_Airport"
+    },
+    {
+      "iata_code": "UAK",
+      "icao_code": "BGBW",
+      "name": "Narsarsuaq Airport",
+      "city_name_list": "Narsarsuaq",
+      "country_code": "GL",
+      "country_name": "Greenland",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Kujalleq",
+      "latitude": 61.16052,
+      "longitude": -45.42598,
+      "elevation": 34,
+      "timezone": "America/Nuuk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Narsarsuaq_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Greenland — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Greenland: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Greenland — IATA Airports | ListBase",
+    "seo_description": "Download Greenland — IATA Airports dataset with 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

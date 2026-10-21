@@ -1,0 +1,211 @@
+{
+  "id": "dm-political-parties",
+  "name": "Dominica — Political Parties",
+  "title": "Dominica — Political Parties",
+  "description": "Political parties of Dominica from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3744,
+      "name_short": "DLP",
+      "name": "Dominica Labour Party",
+      "name_english": "Dominica Labour Party",
+      "name_other": "",
+      "year_first": 1955,
+      "year_last": "",
+      "share": 52,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominica_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7929,
+      "name_short": "LLP",
+      "name": "LeBlanc Labour Party",
+      "name_english": "LeBlanc Labour Party",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": 1970,
+      "share": 50,
+      "share_year": 1970,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3745,
+      "name_short": "UWP",
+      "name": "United Workers' Party",
+      "name_english": "United Workers' Party",
+      "name_other": "",
+      "year_first": 1988,
+      "year_last": "",
+      "share": 43.7,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Workers%27_Party_(Dominica)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3746,
+      "name_short": "DFP",
+      "name": "Dominica Freedom Party",
+      "name_english": "Dominica Freedom Party",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": "",
+      "share": 35.8,
+      "share_year": 1995,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominica_Freedom_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7927,
+      "name_short": "DUPP",
+      "name": "Dominica United People's Party",
+      "name_english": "Dominica United People's Party",
+      "name_other": "",
+      "year_first": 1961,
+      "year_last": 1970,
+      "share": 25.6,
+      "share_year": 1961,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominica_United_People%27s_Party",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7930,
+      "name_short": "DDLP",
+      "name": "Dominica Democratic Labour Party",
+      "name_english": "Dominica Democratic Labour Party",
+      "name_other": "",
+      "year_first": 1979,
+      "year_last": 1980,
+      "share": 19.7,
+      "share_year": 1980,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominica_Democratic_Labour_Party",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7931,
+      "name_short": "DLMA",
+      "name": "Dominica Liberation Movement Alliance",
+      "name_english": "Dominica Liberation Movement Alliance",
+      "name_other": "",
+      "year_first": 1980,
+      "year_last": 1980,
+      "share": 8.4,
+      "share_year": 1980,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominica_Liberation_Movement_Alliance",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7928,
+      "name_short": "AIIFP",
+      "name": "All Island Industrial and Farmers Party",
+      "name_english": "All Island Industrial and Farmers Party",
+      "name_other": "",
+      "year_first": 1961,
+      "year_last": 1961,
+      "share": 8.1,
+      "share_year": 1961,
+      "wikipedia": "https://en.wikipedia.org/wiki/All_Island_Industrial_and_Farmers_Party",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Dominica — Political Parties - Free Download",
+    "description": "Political parties of Dominica from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Dominica — Political Parties | ListBase",
+    "seo_description": "Download Dominica — Political Parties dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

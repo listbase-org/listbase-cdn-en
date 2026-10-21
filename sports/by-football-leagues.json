@@ -1,0 +1,96 @@
+{
+  "id": "by-football-leagues",
+  "name": "Belarus — Football Leagues",
+  "title": "Belarus — Football Leagues",
+  "description": "Domestic football (soccer) leagues and cup competitions of Belarus. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/leagues",
+  "source_url": "https://github.com/openfootball/leagues",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "year_span",
+      "label": "Year Span",
+      "type": "string"
+    },
+    {
+      "key": "tier_kind",
+      "label": "Tier Kind",
+      "type": "string"
+    },
+    {
+      "key": "tier_level",
+      "label": "Tier Level",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "1",
+      "name": "Premier League",
+      "aliases": "Belarusian Premier League, Cempionat",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 1
+    },
+    {
+      "code": "2",
+      "name": "Pervaya Liga",
+      "aliases": "Weißrussland Pervaya Liga [de], blr.2",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 2
+    },
+    {
+      "code": "3",
+      "name": "Vtoraya Liga",
+      "aliases": "Weißrussland Vtoraya Liga [de], blr.3",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "cup",
+      "name": "Cup",
+      "aliases": "Kubok, Weißrussland Cup [de], blr.cup",
+      "year_span": "",
+      "tier_kind": "national-cup",
+      "tier_level": ""
+    },
+    {
+      "code": "res",
+      "name": "Reserve Liga",
+      "aliases": "Weißrussland Reserve Liga [de], blr.res",
+      "year_span": "",
+      "tier_kind": "other",
+      "tier_level": ""
+    }
+  ],
+  "meta": {
+    "title": "Belarus — Football Leagues - Free Download",
+    "description": "Domestic football (soccer) leagues and cup competitions of Belarus. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Belarus — Football Leagues | ListBase",
+    "seo_description": "Download Belarus — Football Leagues — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/leagues"
+    ]
+  }
+}

@@ -1,0 +1,2234 @@
+{
+  "id": "math-z-score-table",
+  "name": "Z-Score Table (Standard Normal Distribution) Dataset",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "z_score",
+      "label": "Z-Score",
+      "type": "number"
+    },
+    {
+      "key": "cumulative_prob",
+      "label": "Cumulative Probability P(Z≤z)",
+      "type": "number"
+    },
+    {
+      "key": "right_tail",
+      "label": "Right Tail P(Z>z)",
+      "type": "string"
+    },
+    {
+      "key": "percentile",
+      "label": "Percentile (%)",
+      "type": "string"
+    },
+    {
+      "key": "confidence_level",
+      "label": "Two-Tail Confidence",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "z_score": 0,
+      "cumulative_prob": 0.5,
+      "right_tail": "0.5000",
+      "percentile": "50.00",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 0.01,
+      "cumulative_prob": 0.504,
+      "right_tail": "0.4960",
+      "percentile": "50.40",
+      "confidence_level": "0.8%"
+    },
+    {
+      "z_score": 0.02,
+      "cumulative_prob": 0.508,
+      "right_tail": "0.4920",
+      "percentile": "50.80",
+      "confidence_level": "1.6%"
+    },
+    {
+      "z_score": 0.03,
+      "cumulative_prob": 0.512,
+      "right_tail": "0.4880",
+      "percentile": "51.20",
+      "confidence_level": "2.4%"
+    },
+    {
+      "z_score": 0.04,
+      "cumulative_prob": 0.516,
+      "right_tail": "0.4840",
+      "percentile": "51.60",
+      "confidence_level": "3.2%"
+    },
+    {
+      "z_score": 0.05,
+      "cumulative_prob": 0.5199,
+      "right_tail": "0.4801",
+      "percentile": "51.99",
+      "confidence_level": "4.0%"
+    },
+    {
+      "z_score": 0.06,
+      "cumulative_prob": 0.5239,
+      "right_tail": "0.4761",
+      "percentile": "52.39",
+      "confidence_level": "4.8%"
+    },
+    {
+      "z_score": 0.07,
+      "cumulative_prob": 0.5279,
+      "right_tail": "0.4721",
+      "percentile": "52.79",
+      "confidence_level": "5.6%"
+    },
+    {
+      "z_score": 0.08,
+      "cumulative_prob": 0.5319,
+      "right_tail": "0.4681",
+      "percentile": "53.19",
+      "confidence_level": "6.4%"
+    },
+    {
+      "z_score": 0.09,
+      "cumulative_prob": 0.5359,
+      "right_tail": "0.4641",
+      "percentile": "53.59",
+      "confidence_level": "7.2%"
+    },
+    {
+      "z_score": 0.1,
+      "cumulative_prob": 0.5398,
+      "right_tail": "0.4602",
+      "percentile": "53.98",
+      "confidence_level": "8.0%"
+    },
+    {
+      "z_score": 0.11,
+      "cumulative_prob": 0.5438,
+      "right_tail": "0.4562",
+      "percentile": "54.38",
+      "confidence_level": "8.8%"
+    },
+    {
+      "z_score": 0.12,
+      "cumulative_prob": 0.5478,
+      "right_tail": "0.4522",
+      "percentile": "54.78",
+      "confidence_level": "9.6%"
+    },
+    {
+      "z_score": 0.13,
+      "cumulative_prob": 0.5517,
+      "right_tail": "0.4483",
+      "percentile": "55.17",
+      "confidence_level": "10.3%"
+    },
+    {
+      "z_score": 0.14,
+      "cumulative_prob": 0.5557,
+      "right_tail": "0.4443",
+      "percentile": "55.57",
+      "confidence_level": "11.1%"
+    },
+    {
+      "z_score": 0.15,
+      "cumulative_prob": 0.5596,
+      "right_tail": "0.4404",
+      "percentile": "55.96",
+      "confidence_level": "11.9%"
+    },
+    {
+      "z_score": 0.16,
+      "cumulative_prob": 0.5636,
+      "right_tail": "0.4364",
+      "percentile": "56.36",
+      "confidence_level": "12.7%"
+    },
+    {
+      "z_score": 0.17,
+      "cumulative_prob": 0.5675,
+      "right_tail": "0.4325",
+      "percentile": "56.75",
+      "confidence_level": "13.5%"
+    },
+    {
+      "z_score": 0.18,
+      "cumulative_prob": 0.5714,
+      "right_tail": "0.4286",
+      "percentile": "57.14",
+      "confidence_level": "14.3%"
+    },
+    {
+      "z_score": 0.19,
+      "cumulative_prob": 0.5753,
+      "right_tail": "0.4247",
+      "percentile": "57.53",
+      "confidence_level": "15.1%"
+    },
+    {
+      "z_score": 0.2,
+      "cumulative_prob": 0.5793,
+      "right_tail": "0.4207",
+      "percentile": "57.93",
+      "confidence_level": "15.9%"
+    },
+    {
+      "z_score": 0.21,
+      "cumulative_prob": 0.5832,
+      "right_tail": "0.4168",
+      "percentile": "58.32",
+      "confidence_level": "16.6%"
+    },
+    {
+      "z_score": 0.22,
+      "cumulative_prob": 0.5871,
+      "right_tail": "0.4129",
+      "percentile": "58.71",
+      "confidence_level": "17.4%"
+    },
+    {
+      "z_score": 0.23,
+      "cumulative_prob": 0.591,
+      "right_tail": "0.4090",
+      "percentile": "59.10",
+      "confidence_level": "18.2%"
+    },
+    {
+      "z_score": 0.24,
+      "cumulative_prob": 0.5948,
+      "right_tail": "0.4052",
+      "percentile": "59.48",
+      "confidence_level": "19.0%"
+    },
+    {
+      "z_score": 0.25,
+      "cumulative_prob": 0.5987,
+      "right_tail": "0.4013",
+      "percentile": "59.87",
+      "confidence_level": "19.7%"
+    },
+    {
+      "z_score": 0.26,
+      "cumulative_prob": 0.6026,
+      "right_tail": "0.3974",
+      "percentile": "60.26",
+      "confidence_level": "20.5%"
+    },
+    {
+      "z_score": 0.27,
+      "cumulative_prob": 0.6064,
+      "right_tail": "0.3936",
+      "percentile": "60.64",
+      "confidence_level": "21.3%"
+    },
+    {
+      "z_score": 0.28,
+      "cumulative_prob": 0.6103,
+      "right_tail": "0.3897",
+      "percentile": "61.03",
+      "confidence_level": "22.1%"
+    },
+    {
+      "z_score": 0.29,
+      "cumulative_prob": 0.6141,
+      "right_tail": "0.3859",
+      "percentile": "61.41",
+      "confidence_level": "22.8%"
+    },
+    {
+      "z_score": 0.3,
+      "cumulative_prob": 0.6179,
+      "right_tail": "0.3821",
+      "percentile": "61.79",
+      "confidence_level": "23.6%"
+    },
+    {
+      "z_score": 0.31,
+      "cumulative_prob": 0.6217,
+      "right_tail": "0.3783",
+      "percentile": "62.17",
+      "confidence_level": "24.3%"
+    },
+    {
+      "z_score": 0.32,
+      "cumulative_prob": 0.6255,
+      "right_tail": "0.3745",
+      "percentile": "62.55",
+      "confidence_level": "25.1%"
+    },
+    {
+      "z_score": 0.33,
+      "cumulative_prob": 0.6293,
+      "right_tail": "0.3707",
+      "percentile": "62.93",
+      "confidence_level": "25.9%"
+    },
+    {
+      "z_score": 0.34,
+      "cumulative_prob": 0.6331,
+      "right_tail": "0.3669",
+      "percentile": "63.31",
+      "confidence_level": "26.6%"
+    },
+    {
+      "z_score": 0.35,
+      "cumulative_prob": 0.6368,
+      "right_tail": "0.3632",
+      "percentile": "63.68",
+      "confidence_level": "27.4%"
+    },
+    {
+      "z_score": 0.36,
+      "cumulative_prob": 0.6406,
+      "right_tail": "0.3594",
+      "percentile": "64.06",
+      "confidence_level": "28.1%"
+    },
+    {
+      "z_score": 0.37,
+      "cumulative_prob": 0.6443,
+      "right_tail": "0.3557",
+      "percentile": "64.43",
+      "confidence_level": "28.9%"
+    },
+    {
+      "z_score": 0.38,
+      "cumulative_prob": 0.648,
+      "right_tail": "0.3520",
+      "percentile": "64.80",
+      "confidence_level": "29.6%"
+    },
+    {
+      "z_score": 0.39,
+      "cumulative_prob": 0.6517,
+      "right_tail": "0.3483",
+      "percentile": "65.17",
+      "confidence_level": "30.3%"
+    },
+    {
+      "z_score": 0.4,
+      "cumulative_prob": 0.6554,
+      "right_tail": "0.3446",
+      "percentile": "65.54",
+      "confidence_level": "31.1%"
+    },
+    {
+      "z_score": 0.41,
+      "cumulative_prob": 0.6591,
+      "right_tail": "0.3409",
+      "percentile": "65.91",
+      "confidence_level": "31.8%"
+    },
+    {
+      "z_score": 0.42,
+      "cumulative_prob": 0.6628,
+      "right_tail": "0.3372",
+      "percentile": "66.28",
+      "confidence_level": "32.6%"
+    },
+    {
+      "z_score": 0.43,
+      "cumulative_prob": 0.6664,
+      "right_tail": "0.3336",
+      "percentile": "66.64",
+      "confidence_level": "33.3%"
+    },
+    {
+      "z_score": 0.44,
+      "cumulative_prob": 0.67,
+      "right_tail": "0.3300",
+      "percentile": "67.00",
+      "confidence_level": "34.0%"
+    },
+    {
+      "z_score": 0.45,
+      "cumulative_prob": 0.6736,
+      "right_tail": "0.3264",
+      "percentile": "67.36",
+      "confidence_level": "34.7%"
+    },
+    {
+      "z_score": 0.46,
+      "cumulative_prob": 0.6772,
+      "right_tail": "0.3228",
+      "percentile": "67.72",
+      "confidence_level": "35.4%"
+    },
+    {
+      "z_score": 0.47,
+      "cumulative_prob": 0.6808,
+      "right_tail": "0.3192",
+      "percentile": "68.08",
+      "confidence_level": "36.2%"
+    },
+    {
+      "z_score": 0.48,
+      "cumulative_prob": 0.6844,
+      "right_tail": "0.3156",
+      "percentile": "68.44",
+      "confidence_level": "36.9%"
+    },
+    {
+      "z_score": 0.49,
+      "cumulative_prob": 0.6879,
+      "right_tail": "0.3121",
+      "percentile": "68.79",
+      "confidence_level": "37.6%"
+    },
+    {
+      "z_score": 0.5,
+      "cumulative_prob": 0.6915,
+      "right_tail": "0.3085",
+      "percentile": "69.15",
+      "confidence_level": "38.3%"
+    },
+    {
+      "z_score": 0.51,
+      "cumulative_prob": 0.695,
+      "right_tail": "0.3050",
+      "percentile": "69.50",
+      "confidence_level": "39.0%"
+    },
+    {
+      "z_score": 0.52,
+      "cumulative_prob": 0.6985,
+      "right_tail": "0.3015",
+      "percentile": "69.85",
+      "confidence_level": "39.7%"
+    },
+    {
+      "z_score": 0.53,
+      "cumulative_prob": 0.7019,
+      "right_tail": "0.2981",
+      "percentile": "70.19",
+      "confidence_level": "40.4%"
+    },
+    {
+      "z_score": 0.54,
+      "cumulative_prob": 0.7054,
+      "right_tail": "0.2946",
+      "percentile": "70.54",
+      "confidence_level": "41.1%"
+    },
+    {
+      "z_score": 0.55,
+      "cumulative_prob": 0.7088,
+      "right_tail": "0.2912",
+      "percentile": "70.88",
+      "confidence_level": "41.8%"
+    },
+    {
+      "z_score": 0.56,
+      "cumulative_prob": 0.7123,
+      "right_tail": "0.2877",
+      "percentile": "71.23",
+      "confidence_level": "42.5%"
+    },
+    {
+      "z_score": 0.57,
+      "cumulative_prob": 0.7157,
+      "right_tail": "0.2843",
+      "percentile": "71.57",
+      "confidence_level": "43.1%"
+    },
+    {
+      "z_score": 0.58,
+      "cumulative_prob": 0.719,
+      "right_tail": "0.2810",
+      "percentile": "71.90",
+      "confidence_level": "43.8%"
+    },
+    {
+      "z_score": 0.59,
+      "cumulative_prob": 0.7224,
+      "right_tail": "0.2776",
+      "percentile": "72.24",
+      "confidence_level": "44.5%"
+    },
+    {
+      "z_score": 0.6,
+      "cumulative_prob": 0.7257,
+      "right_tail": "0.2743",
+      "percentile": "72.57",
+      "confidence_level": "45.1%"
+    },
+    {
+      "z_score": 0.61,
+      "cumulative_prob": 0.7291,
+      "right_tail": "0.2709",
+      "percentile": "72.91",
+      "confidence_level": "45.8%"
+    },
+    {
+      "z_score": 0.62,
+      "cumulative_prob": 0.7324,
+      "right_tail": "0.2676",
+      "percentile": "73.24",
+      "confidence_level": "46.5%"
+    },
+    {
+      "z_score": 0.63,
+      "cumulative_prob": 0.7357,
+      "right_tail": "0.2643",
+      "percentile": "73.57",
+      "confidence_level": "47.1%"
+    },
+    {
+      "z_score": 0.64,
+      "cumulative_prob": 0.7389,
+      "right_tail": "0.2611",
+      "percentile": "73.89",
+      "confidence_level": "47.8%"
+    },
+    {
+      "z_score": 0.65,
+      "cumulative_prob": 0.7422,
+      "right_tail": "0.2578",
+      "percentile": "74.22",
+      "confidence_level": "48.4%"
+    },
+    {
+      "z_score": 0.66,
+      "cumulative_prob": 0.7454,
+      "right_tail": "0.2546",
+      "percentile": "74.54",
+      "confidence_level": "49.1%"
+    },
+    {
+      "z_score": 0.67,
+      "cumulative_prob": 0.7486,
+      "right_tail": "0.2514",
+      "percentile": "74.86",
+      "confidence_level": "49.7%"
+    },
+    {
+      "z_score": 0.68,
+      "cumulative_prob": 0.7517,
+      "right_tail": "0.2483",
+      "percentile": "75.17",
+      "confidence_level": "50.3%"
+    },
+    {
+      "z_score": 0.69,
+      "cumulative_prob": 0.7549,
+      "right_tail": "0.2451",
+      "percentile": "75.49",
+      "confidence_level": "51.0%"
+    },
+    {
+      "z_score": 0.7,
+      "cumulative_prob": 0.758,
+      "right_tail": "0.2420",
+      "percentile": "75.80",
+      "confidence_level": "51.6%"
+    },
+    {
+      "z_score": 0.71,
+      "cumulative_prob": 0.7611,
+      "right_tail": "0.2389",
+      "percentile": "76.11",
+      "confidence_level": "52.2%"
+    },
+    {
+      "z_score": 0.72,
+      "cumulative_prob": 0.7642,
+      "right_tail": "0.2358",
+      "percentile": "76.42",
+      "confidence_level": "52.8%"
+    },
+    {
+      "z_score": 0.73,
+      "cumulative_prob": 0.7673,
+      "right_tail": "0.2327",
+      "percentile": "76.73",
+      "confidence_level": "53.5%"
+    },
+    {
+      "z_score": 0.74,
+      "cumulative_prob": 0.7704,
+      "right_tail": "0.2296",
+      "percentile": "77.04",
+      "confidence_level": "54.1%"
+    },
+    {
+      "z_score": 0.75,
+      "cumulative_prob": 0.7734,
+      "right_tail": "0.2266",
+      "percentile": "77.34",
+      "confidence_level": "54.7%"
+    },
+    {
+      "z_score": 0.76,
+      "cumulative_prob": 0.7764,
+      "right_tail": "0.2236",
+      "percentile": "77.64",
+      "confidence_level": "55.3%"
+    },
+    {
+      "z_score": 0.77,
+      "cumulative_prob": 0.7794,
+      "right_tail": "0.2206",
+      "percentile": "77.94",
+      "confidence_level": "55.9%"
+    },
+    {
+      "z_score": 0.78,
+      "cumulative_prob": 0.7823,
+      "right_tail": "0.2177",
+      "percentile": "78.23",
+      "confidence_level": "56.5%"
+    },
+    {
+      "z_score": 0.79,
+      "cumulative_prob": 0.7852,
+      "right_tail": "0.2148",
+      "percentile": "78.52",
+      "confidence_level": "57.0%"
+    },
+    {
+      "z_score": 0.8,
+      "cumulative_prob": 0.7881,
+      "right_tail": "0.2119",
+      "percentile": "78.81",
+      "confidence_level": "57.6%"
+    },
+    {
+      "z_score": 0.81,
+      "cumulative_prob": 0.791,
+      "right_tail": "0.2090",
+      "percentile": "79.10",
+      "confidence_level": "58.2%"
+    },
+    {
+      "z_score": 0.82,
+      "cumulative_prob": 0.7939,
+      "right_tail": "0.2061",
+      "percentile": "79.39",
+      "confidence_level": "58.8%"
+    },
+    {
+      "z_score": 0.83,
+      "cumulative_prob": 0.7967,
+      "right_tail": "0.2033",
+      "percentile": "79.67",
+      "confidence_level": "59.3%"
+    },
+    {
+      "z_score": 0.84,
+      "cumulative_prob": 0.7995,
+      "right_tail": "0.2005",
+      "percentile": "79.95",
+      "confidence_level": "59.9%"
+    },
+    {
+      "z_score": 0.85,
+      "cumulative_prob": 0.8023,
+      "right_tail": "0.1977",
+      "percentile": "80.23",
+      "confidence_level": "60.5%"
+    },
+    {
+      "z_score": 0.86,
+      "cumulative_prob": 0.8051,
+      "right_tail": "0.1949",
+      "percentile": "80.51",
+      "confidence_level": "61.0%"
+    },
+    {
+      "z_score": 0.87,
+      "cumulative_prob": 0.8078,
+      "right_tail": "0.1922",
+      "percentile": "80.78",
+      "confidence_level": "61.6%"
+    },
+    {
+      "z_score": 0.88,
+      "cumulative_prob": 0.8106,
+      "right_tail": "0.1894",
+      "percentile": "81.06",
+      "confidence_level": "62.1%"
+    },
+    {
+      "z_score": 0.89,
+      "cumulative_prob": 0.8133,
+      "right_tail": "0.1867",
+      "percentile": "81.33",
+      "confidence_level": "62.7%"
+    },
+    {
+      "z_score": 0.9,
+      "cumulative_prob": 0.8159,
+      "right_tail": "0.1841",
+      "percentile": "81.59",
+      "confidence_level": "63.2%"
+    },
+    {
+      "z_score": 0.91,
+      "cumulative_prob": 0.8186,
+      "right_tail": "0.1814",
+      "percentile": "81.86",
+      "confidence_level": "63.7%"
+    },
+    {
+      "z_score": 0.92,
+      "cumulative_prob": 0.8212,
+      "right_tail": "0.1788",
+      "percentile": "82.12",
+      "confidence_level": "64.2%"
+    },
+    {
+      "z_score": 0.93,
+      "cumulative_prob": 0.8238,
+      "right_tail": "0.1762",
+      "percentile": "82.38",
+      "confidence_level": "64.8%"
+    },
+    {
+      "z_score": 0.94,
+      "cumulative_prob": 0.8264,
+      "right_tail": "0.1736",
+      "percentile": "82.64",
+      "confidence_level": "65.3%"
+    },
+    {
+      "z_score": 0.95,
+      "cumulative_prob": 0.8289,
+      "right_tail": "0.1711",
+      "percentile": "82.89",
+      "confidence_level": "65.8%"
+    },
+    {
+      "z_score": 0.96,
+      "cumulative_prob": 0.8315,
+      "right_tail": "0.1685",
+      "percentile": "83.15",
+      "confidence_level": "66.3%"
+    },
+    {
+      "z_score": 0.97,
+      "cumulative_prob": 0.834,
+      "right_tail": "0.1660",
+      "percentile": "83.40",
+      "confidence_level": "66.8%"
+    },
+    {
+      "z_score": 0.98,
+      "cumulative_prob": 0.8365,
+      "right_tail": "0.1635",
+      "percentile": "83.65",
+      "confidence_level": "67.3%"
+    },
+    {
+      "z_score": 0.99,
+      "cumulative_prob": 0.8389,
+      "right_tail": "0.1611",
+      "percentile": "83.89",
+      "confidence_level": "67.8%"
+    },
+    {
+      "z_score": 1,
+      "cumulative_prob": 0.8413,
+      "right_tail": "0.1587",
+      "percentile": "84.13",
+      "confidence_level": "68.3%"
+    },
+    {
+      "z_score": 1.01,
+      "cumulative_prob": 0.8438,
+      "right_tail": "0.1562",
+      "percentile": "84.38",
+      "confidence_level": "68.8%"
+    },
+    {
+      "z_score": 1.02,
+      "cumulative_prob": 0.8461,
+      "right_tail": "0.1539",
+      "percentile": "84.61",
+      "confidence_level": "69.2%"
+    },
+    {
+      "z_score": 1.03,
+      "cumulative_prob": 0.8485,
+      "right_tail": "0.1515",
+      "percentile": "84.85",
+      "confidence_level": "69.7%"
+    },
+    {
+      "z_score": 1.04,
+      "cumulative_prob": 0.8508,
+      "right_tail": "0.1492",
+      "percentile": "85.08",
+      "confidence_level": "70.2%"
+    },
+    {
+      "z_score": 1.05,
+      "cumulative_prob": 0.8531,
+      "right_tail": "0.1469",
+      "percentile": "85.31",
+      "confidence_level": "70.6%"
+    },
+    {
+      "z_score": 1.06,
+      "cumulative_prob": 0.8554,
+      "right_tail": "0.1446",
+      "percentile": "85.54",
+      "confidence_level": "71.1%"
+    },
+    {
+      "z_score": 1.07,
+      "cumulative_prob": 0.8577,
+      "right_tail": "0.1423",
+      "percentile": "85.77",
+      "confidence_level": "71.5%"
+    },
+    {
+      "z_score": 1.08,
+      "cumulative_prob": 0.8599,
+      "right_tail": "0.1401",
+      "percentile": "85.99",
+      "confidence_level": "72.0%"
+    },
+    {
+      "z_score": 1.09,
+      "cumulative_prob": 0.8621,
+      "right_tail": "0.1379",
+      "percentile": "86.21",
+      "confidence_level": "72.4%"
+    },
+    {
+      "z_score": 1.1,
+      "cumulative_prob": 0.8643,
+      "right_tail": "0.1357",
+      "percentile": "86.43",
+      "confidence_level": "72.9%"
+    },
+    {
+      "z_score": 1.11,
+      "cumulative_prob": 0.8665,
+      "right_tail": "0.1335",
+      "percentile": "86.65",
+      "confidence_level": "73.3%"
+    },
+    {
+      "z_score": 1.12,
+      "cumulative_prob": 0.8686,
+      "right_tail": "0.1314",
+      "percentile": "86.86",
+      "confidence_level": "73.7%"
+    },
+    {
+      "z_score": 1.13,
+      "cumulative_prob": 0.8708,
+      "right_tail": "0.1292",
+      "percentile": "87.08",
+      "confidence_level": "74.2%"
+    },
+    {
+      "z_score": 1.14,
+      "cumulative_prob": 0.8729,
+      "right_tail": "0.1271",
+      "percentile": "87.29",
+      "confidence_level": "74.6%"
+    },
+    {
+      "z_score": 1.15,
+      "cumulative_prob": 0.8749,
+      "right_tail": "0.1251",
+      "percentile": "87.49",
+      "confidence_level": "75.0%"
+    },
+    {
+      "z_score": 1.16,
+      "cumulative_prob": 0.877,
+      "right_tail": "0.1230",
+      "percentile": "87.70",
+      "confidence_level": "75.4%"
+    },
+    {
+      "z_score": 1.17,
+      "cumulative_prob": 0.879,
+      "right_tail": "0.1210",
+      "percentile": "87.90",
+      "confidence_level": "75.8%"
+    },
+    {
+      "z_score": 1.18,
+      "cumulative_prob": 0.881,
+      "right_tail": "0.1190",
+      "percentile": "88.10",
+      "confidence_level": "76.2%"
+    },
+    {
+      "z_score": 1.19,
+      "cumulative_prob": 0.883,
+      "right_tail": "0.1170",
+      "percentile": "88.30",
+      "confidence_level": "76.6%"
+    },
+    {
+      "z_score": 1.2,
+      "cumulative_prob": 0.8849,
+      "right_tail": "0.1151",
+      "percentile": "88.49",
+      "confidence_level": "77.0%"
+    },
+    {
+      "z_score": 1.21,
+      "cumulative_prob": 0.8869,
+      "right_tail": "0.1131",
+      "percentile": "88.69",
+      "confidence_level": "77.4%"
+    },
+    {
+      "z_score": 1.22,
+      "cumulative_prob": 0.8888,
+      "right_tail": "0.1112",
+      "percentile": "88.88",
+      "confidence_level": "77.8%"
+    },
+    {
+      "z_score": 1.23,
+      "cumulative_prob": 0.8907,
+      "right_tail": "0.1093",
+      "percentile": "89.07",
+      "confidence_level": "78.1%"
+    },
+    {
+      "z_score": 1.24,
+      "cumulative_prob": 0.8925,
+      "right_tail": "0.1075",
+      "percentile": "89.25",
+      "confidence_level": "78.5%"
+    },
+    {
+      "z_score": 1.25,
+      "cumulative_prob": 0.8944,
+      "right_tail": "0.1056",
+      "percentile": "89.44",
+      "confidence_level": "78.9%"
+    },
+    {
+      "z_score": 1.26,
+      "cumulative_prob": 0.8962,
+      "right_tail": "0.1038",
+      "percentile": "89.62",
+      "confidence_level": "79.2%"
+    },
+    {
+      "z_score": 1.27,
+      "cumulative_prob": 0.898,
+      "right_tail": "0.1020",
+      "percentile": "89.80",
+      "confidence_level": "79.6%"
+    },
+    {
+      "z_score": 1.28,
+      "cumulative_prob": 0.8997,
+      "right_tail": "0.1003",
+      "percentile": "89.97",
+      "confidence_level": "79.9%"
+    },
+    {
+      "z_score": 1.29,
+      "cumulative_prob": 0.9015,
+      "right_tail": "0.0985",
+      "percentile": "90.15",
+      "confidence_level": "80.3%"
+    },
+    {
+      "z_score": 1.3,
+      "cumulative_prob": 0.9032,
+      "right_tail": "0.0968",
+      "percentile": "90.32",
+      "confidence_level": "80.6%"
+    },
+    {
+      "z_score": 1.31,
+      "cumulative_prob": 0.9049,
+      "right_tail": "0.0951",
+      "percentile": "90.49",
+      "confidence_level": "81.0%"
+    },
+    {
+      "z_score": 1.32,
+      "cumulative_prob": 0.9066,
+      "right_tail": "0.0934",
+      "percentile": "90.66",
+      "confidence_level": "81.3%"
+    },
+    {
+      "z_score": 1.33,
+      "cumulative_prob": 0.9082,
+      "right_tail": "0.0918",
+      "percentile": "90.82",
+      "confidence_level": "81.6%"
+    },
+    {
+      "z_score": 1.34,
+      "cumulative_prob": 0.9099,
+      "right_tail": "0.0901",
+      "percentile": "90.99",
+      "confidence_level": "82.0%"
+    },
+    {
+      "z_score": 1.35,
+      "cumulative_prob": 0.9115,
+      "right_tail": "0.0885",
+      "percentile": "91.15",
+      "confidence_level": "82.3%"
+    },
+    {
+      "z_score": 1.36,
+      "cumulative_prob": 0.9131,
+      "right_tail": "0.0869",
+      "percentile": "91.31",
+      "confidence_level": "82.6%"
+    },
+    {
+      "z_score": 1.37,
+      "cumulative_prob": 0.9147,
+      "right_tail": "0.0853",
+      "percentile": "91.47",
+      "confidence_level": "82.9%"
+    },
+    {
+      "z_score": 1.38,
+      "cumulative_prob": 0.9162,
+      "right_tail": "0.0838",
+      "percentile": "91.62",
+      "confidence_level": "83.2%"
+    },
+    {
+      "z_score": 1.39,
+      "cumulative_prob": 0.9177,
+      "right_tail": "0.0823",
+      "percentile": "91.77",
+      "confidence_level": "83.5%"
+    },
+    {
+      "z_score": 1.4,
+      "cumulative_prob": 0.9192,
+      "right_tail": "0.0808",
+      "percentile": "91.92",
+      "confidence_level": "83.8%"
+    },
+    {
+      "z_score": 1.41,
+      "cumulative_prob": 0.9207,
+      "right_tail": "0.0793",
+      "percentile": "92.07",
+      "confidence_level": "84.1%"
+    },
+    {
+      "z_score": 1.42,
+      "cumulative_prob": 0.9222,
+      "right_tail": "0.0778",
+      "percentile": "92.22",
+      "confidence_level": "84.4%"
+    },
+    {
+      "z_score": 1.43,
+      "cumulative_prob": 0.9236,
+      "right_tail": "0.0764",
+      "percentile": "92.36",
+      "confidence_level": "84.7%"
+    },
+    {
+      "z_score": 1.44,
+      "cumulative_prob": 0.9251,
+      "right_tail": "0.0749",
+      "percentile": "92.51",
+      "confidence_level": "85.0%"
+    },
+    {
+      "z_score": 1.45,
+      "cumulative_prob": 0.9265,
+      "right_tail": "0.0735",
+      "percentile": "92.65",
+      "confidence_level": "85.3%"
+    },
+    {
+      "z_score": 1.46,
+      "cumulative_prob": 0.9279,
+      "right_tail": "0.0721",
+      "percentile": "92.79",
+      "confidence_level": "85.6%"
+    },
+    {
+      "z_score": 1.47,
+      "cumulative_prob": 0.9292,
+      "right_tail": "0.0708",
+      "percentile": "92.92",
+      "confidence_level": "85.8%"
+    },
+    {
+      "z_score": 1.48,
+      "cumulative_prob": 0.9306,
+      "right_tail": "0.0694",
+      "percentile": "93.06",
+      "confidence_level": "86.1%"
+    },
+    {
+      "z_score": 1.49,
+      "cumulative_prob": 0.9319,
+      "right_tail": "0.0681",
+      "percentile": "93.19",
+      "confidence_level": "86.4%"
+    },
+    {
+      "z_score": 1.5,
+      "cumulative_prob": 0.9332,
+      "right_tail": "0.0668",
+      "percentile": "93.32",
+      "confidence_level": "86.6%"
+    },
+    {
+      "z_score": 1.51,
+      "cumulative_prob": 0.9345,
+      "right_tail": "0.0655",
+      "percentile": "93.45",
+      "confidence_level": "86.9%"
+    },
+    {
+      "z_score": 1.52,
+      "cumulative_prob": 0.9357,
+      "right_tail": "0.0643",
+      "percentile": "93.57",
+      "confidence_level": "87.1%"
+    },
+    {
+      "z_score": 1.53,
+      "cumulative_prob": 0.937,
+      "right_tail": "0.0630",
+      "percentile": "93.70",
+      "confidence_level": "87.4%"
+    },
+    {
+      "z_score": 1.54,
+      "cumulative_prob": 0.9382,
+      "right_tail": "0.0618",
+      "percentile": "93.82",
+      "confidence_level": "87.6%"
+    },
+    {
+      "z_score": 1.55,
+      "cumulative_prob": 0.9394,
+      "right_tail": "0.0606",
+      "percentile": "93.94",
+      "confidence_level": "87.9%"
+    },
+    {
+      "z_score": 1.56,
+      "cumulative_prob": 0.9406,
+      "right_tail": "0.0594",
+      "percentile": "94.06",
+      "confidence_level": "88.1%"
+    },
+    {
+      "z_score": 1.57,
+      "cumulative_prob": 0.9418,
+      "right_tail": "0.0582",
+      "percentile": "94.18",
+      "confidence_level": "88.4%"
+    },
+    {
+      "z_score": 1.58,
+      "cumulative_prob": 0.9429,
+      "right_tail": "0.0571",
+      "percentile": "94.29",
+      "confidence_level": "88.6%"
+    },
+    {
+      "z_score": 1.59,
+      "cumulative_prob": 0.9441,
+      "right_tail": "0.0559",
+      "percentile": "94.41",
+      "confidence_level": "88.8%"
+    },
+    {
+      "z_score": 1.6,
+      "cumulative_prob": 0.9452,
+      "right_tail": "0.0548",
+      "percentile": "94.52",
+      "confidence_level": "89.0%"
+    },
+    {
+      "z_score": 1.61,
+      "cumulative_prob": 0.9463,
+      "right_tail": "0.0537",
+      "percentile": "94.63",
+      "confidence_level": "89.3%"
+    },
+    {
+      "z_score": 1.62,
+      "cumulative_prob": 0.9474,
+      "right_tail": "0.0526",
+      "percentile": "94.74",
+      "confidence_level": "89.5%"
+    },
+    {
+      "z_score": 1.63,
+      "cumulative_prob": 0.9484,
+      "right_tail": "0.0516",
+      "percentile": "94.84",
+      "confidence_level": "89.7%"
+    },
+    {
+      "z_score": 1.64,
+      "cumulative_prob": 0.9495,
+      "right_tail": "0.0505",
+      "percentile": "94.95",
+      "confidence_level": "89.9%"
+    },
+    {
+      "z_score": 1.65,
+      "cumulative_prob": 0.9505,
+      "right_tail": "0.0495",
+      "percentile": "95.05",
+      "confidence_level": "90.1%"
+    },
+    {
+      "z_score": 1.66,
+      "cumulative_prob": 0.9515,
+      "right_tail": "0.0485",
+      "percentile": "95.15",
+      "confidence_level": "90.3%"
+    },
+    {
+      "z_score": 1.67,
+      "cumulative_prob": 0.9525,
+      "right_tail": "0.0475",
+      "percentile": "95.25",
+      "confidence_level": "90.5%"
+    },
+    {
+      "z_score": 1.68,
+      "cumulative_prob": 0.9535,
+      "right_tail": "0.0465",
+      "percentile": "95.35",
+      "confidence_level": "90.7%"
+    },
+    {
+      "z_score": 1.69,
+      "cumulative_prob": 0.9545,
+      "right_tail": "0.0455",
+      "percentile": "95.45",
+      "confidence_level": "90.9%"
+    },
+    {
+      "z_score": 1.7,
+      "cumulative_prob": 0.9554,
+      "right_tail": "0.0446",
+      "percentile": "95.54",
+      "confidence_level": "91.1%"
+    },
+    {
+      "z_score": 1.71,
+      "cumulative_prob": 0.9564,
+      "right_tail": "0.0436",
+      "percentile": "95.64",
+      "confidence_level": "91.3%"
+    },
+    {
+      "z_score": 1.72,
+      "cumulative_prob": 0.9573,
+      "right_tail": "0.0427",
+      "percentile": "95.73",
+      "confidence_level": "91.5%"
+    },
+    {
+      "z_score": 1.73,
+      "cumulative_prob": 0.9582,
+      "right_tail": "0.0418",
+      "percentile": "95.82",
+      "confidence_level": "91.6%"
+    },
+    {
+      "z_score": 1.74,
+      "cumulative_prob": 0.9591,
+      "right_tail": "0.0409",
+      "percentile": "95.91",
+      "confidence_level": "91.8%"
+    },
+    {
+      "z_score": 1.75,
+      "cumulative_prob": 0.9599,
+      "right_tail": "0.0401",
+      "percentile": "95.99",
+      "confidence_level": "92.0%"
+    },
+    {
+      "z_score": 1.76,
+      "cumulative_prob": 0.9608,
+      "right_tail": "0.0392",
+      "percentile": "96.08",
+      "confidence_level": "92.2%"
+    },
+    {
+      "z_score": 1.77,
+      "cumulative_prob": 0.9616,
+      "right_tail": "0.0384",
+      "percentile": "96.16",
+      "confidence_level": "92.3%"
+    },
+    {
+      "z_score": 1.78,
+      "cumulative_prob": 0.9625,
+      "right_tail": "0.0375",
+      "percentile": "96.25",
+      "confidence_level": "92.5%"
+    },
+    {
+      "z_score": 1.79,
+      "cumulative_prob": 0.9633,
+      "right_tail": "0.0367",
+      "percentile": "96.33",
+      "confidence_level": "92.7%"
+    },
+    {
+      "z_score": 1.8,
+      "cumulative_prob": 0.9641,
+      "right_tail": "0.0359",
+      "percentile": "96.41",
+      "confidence_level": "92.8%"
+    },
+    {
+      "z_score": 1.81,
+      "cumulative_prob": 0.9649,
+      "right_tail": "0.0351",
+      "percentile": "96.49",
+      "confidence_level": "93.0%"
+    },
+    {
+      "z_score": 1.82,
+      "cumulative_prob": 0.9656,
+      "right_tail": "0.0344",
+      "percentile": "96.56",
+      "confidence_level": "93.1%"
+    },
+    {
+      "z_score": 1.83,
+      "cumulative_prob": 0.9664,
+      "right_tail": "0.0336",
+      "percentile": "96.64",
+      "confidence_level": "93.3%"
+    },
+    {
+      "z_score": 1.84,
+      "cumulative_prob": 0.9671,
+      "right_tail": "0.0329",
+      "percentile": "96.71",
+      "confidence_level": "93.4%"
+    },
+    {
+      "z_score": 1.85,
+      "cumulative_prob": 0.9678,
+      "right_tail": "0.0322",
+      "percentile": "96.78",
+      "confidence_level": "93.6%"
+    },
+    {
+      "z_score": 1.86,
+      "cumulative_prob": 0.9686,
+      "right_tail": "0.0314",
+      "percentile": "96.86",
+      "confidence_level": "93.7%"
+    },
+    {
+      "z_score": 1.87,
+      "cumulative_prob": 0.9693,
+      "right_tail": "0.0307",
+      "percentile": "96.93",
+      "confidence_level": "93.9%"
+    },
+    {
+      "z_score": 1.88,
+      "cumulative_prob": 0.9699,
+      "right_tail": "0.0301",
+      "percentile": "96.99",
+      "confidence_level": "94.0%"
+    },
+    {
+      "z_score": 1.89,
+      "cumulative_prob": 0.9706,
+      "right_tail": "0.0294",
+      "percentile": "97.06",
+      "confidence_level": "94.1%"
+    },
+    {
+      "z_score": 1.9,
+      "cumulative_prob": 0.9713,
+      "right_tail": "0.0287",
+      "percentile": "97.13",
+      "confidence_level": "94.3%"
+    },
+    {
+      "z_score": 1.91,
+      "cumulative_prob": 0.9719,
+      "right_tail": "0.0281",
+      "percentile": "97.19",
+      "confidence_level": "94.4%"
+    },
+    {
+      "z_score": 1.92,
+      "cumulative_prob": 0.9726,
+      "right_tail": "0.0274",
+      "percentile": "97.26",
+      "confidence_level": "94.5%"
+    },
+    {
+      "z_score": 1.93,
+      "cumulative_prob": 0.9732,
+      "right_tail": "0.0268",
+      "percentile": "97.32",
+      "confidence_level": "94.6%"
+    },
+    {
+      "z_score": 1.94,
+      "cumulative_prob": 0.9738,
+      "right_tail": "0.0262",
+      "percentile": "97.38",
+      "confidence_level": "94.8%"
+    },
+    {
+      "z_score": 1.95,
+      "cumulative_prob": 0.9744,
+      "right_tail": "0.0256",
+      "percentile": "97.44",
+      "confidence_level": "94.9%"
+    },
+    {
+      "z_score": 1.96,
+      "cumulative_prob": 0.975,
+      "right_tail": "0.0250",
+      "percentile": "97.50",
+      "confidence_level": "95.0%"
+    },
+    {
+      "z_score": 1.97,
+      "cumulative_prob": 0.9756,
+      "right_tail": "0.0244",
+      "percentile": "97.56",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 1.98,
+      "cumulative_prob": 0.9761,
+      "right_tail": "0.0239",
+      "percentile": "97.61",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 1.99,
+      "cumulative_prob": 0.9767,
+      "right_tail": "0.0233",
+      "percentile": "97.67",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2,
+      "cumulative_prob": 0.9772,
+      "right_tail": "0.0228",
+      "percentile": "97.72",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.01,
+      "cumulative_prob": 0.9778,
+      "right_tail": "0.0222",
+      "percentile": "97.78",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.02,
+      "cumulative_prob": 0.9783,
+      "right_tail": "0.0217",
+      "percentile": "97.83",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.03,
+      "cumulative_prob": 0.9788,
+      "right_tail": "0.0212",
+      "percentile": "97.88",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.04,
+      "cumulative_prob": 0.9793,
+      "right_tail": "0.0207",
+      "percentile": "97.93",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.05,
+      "cumulative_prob": 0.9798,
+      "right_tail": "0.0202",
+      "percentile": "97.98",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.06,
+      "cumulative_prob": 0.9803,
+      "right_tail": "0.0197",
+      "percentile": "98.03",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.07,
+      "cumulative_prob": 0.9808,
+      "right_tail": "0.0192",
+      "percentile": "98.08",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.08,
+      "cumulative_prob": 0.9812,
+      "right_tail": "0.0188",
+      "percentile": "98.12",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.09,
+      "cumulative_prob": 0.9817,
+      "right_tail": "0.0183",
+      "percentile": "98.17",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.1,
+      "cumulative_prob": 0.9821,
+      "right_tail": "0.0179",
+      "percentile": "98.21",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.11,
+      "cumulative_prob": 0.9826,
+      "right_tail": "0.0174",
+      "percentile": "98.26",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.12,
+      "cumulative_prob": 0.983,
+      "right_tail": "0.0170",
+      "percentile": "98.30",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.13,
+      "cumulative_prob": 0.9834,
+      "right_tail": "0.0166",
+      "percentile": "98.34",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.14,
+      "cumulative_prob": 0.9838,
+      "right_tail": "0.0162",
+      "percentile": "98.38",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.15,
+      "cumulative_prob": 0.9842,
+      "right_tail": "0.0158",
+      "percentile": "98.42",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.16,
+      "cumulative_prob": 0.9846,
+      "right_tail": "0.0154",
+      "percentile": "98.46",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.17,
+      "cumulative_prob": 0.985,
+      "right_tail": "0.0150",
+      "percentile": "98.50",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.18,
+      "cumulative_prob": 0.9854,
+      "right_tail": "0.0146",
+      "percentile": "98.54",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.19,
+      "cumulative_prob": 0.9857,
+      "right_tail": "0.0143",
+      "percentile": "98.57",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.2,
+      "cumulative_prob": 0.9861,
+      "right_tail": "0.0139",
+      "percentile": "98.61",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.21,
+      "cumulative_prob": 0.9864,
+      "right_tail": "0.0136",
+      "percentile": "98.64",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.22,
+      "cumulative_prob": 0.9868,
+      "right_tail": "0.0132",
+      "percentile": "98.68",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.23,
+      "cumulative_prob": 0.9871,
+      "right_tail": "0.0129",
+      "percentile": "98.71",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.24,
+      "cumulative_prob": 0.9875,
+      "right_tail": "0.0125",
+      "percentile": "98.75",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.25,
+      "cumulative_prob": 0.9878,
+      "right_tail": "0.0122",
+      "percentile": "98.78",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.26,
+      "cumulative_prob": 0.9881,
+      "right_tail": "0.0119",
+      "percentile": "98.81",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.27,
+      "cumulative_prob": 0.9884,
+      "right_tail": "0.0116",
+      "percentile": "98.84",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.28,
+      "cumulative_prob": 0.9887,
+      "right_tail": "0.0113",
+      "percentile": "98.87",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.29,
+      "cumulative_prob": 0.989,
+      "right_tail": "0.0110",
+      "percentile": "98.90",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.3,
+      "cumulative_prob": 0.9893,
+      "right_tail": "0.0107",
+      "percentile": "98.93",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.31,
+      "cumulative_prob": 0.9896,
+      "right_tail": "0.0104",
+      "percentile": "98.96",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.32,
+      "cumulative_prob": 0.9898,
+      "right_tail": "0.0102",
+      "percentile": "98.98",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.33,
+      "cumulative_prob": 0.9901,
+      "right_tail": "0.0099",
+      "percentile": "99.01",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.34,
+      "cumulative_prob": 0.9904,
+      "right_tail": "0.0096",
+      "percentile": "99.04",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.35,
+      "cumulative_prob": 0.9906,
+      "right_tail": "0.0094",
+      "percentile": "99.06",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.36,
+      "cumulative_prob": 0.9909,
+      "right_tail": "0.0091",
+      "percentile": "99.09",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.37,
+      "cumulative_prob": 0.9911,
+      "right_tail": "0.0089",
+      "percentile": "99.11",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.38,
+      "cumulative_prob": 0.9913,
+      "right_tail": "0.0087",
+      "percentile": "99.13",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.39,
+      "cumulative_prob": 0.9916,
+      "right_tail": "0.0084",
+      "percentile": "99.16",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.4,
+      "cumulative_prob": 0.9918,
+      "right_tail": "0.0082",
+      "percentile": "99.18",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.41,
+      "cumulative_prob": 0.992,
+      "right_tail": "0.0080",
+      "percentile": "99.20",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.42,
+      "cumulative_prob": 0.9922,
+      "right_tail": "0.0078",
+      "percentile": "99.22",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.43,
+      "cumulative_prob": 0.9925,
+      "right_tail": "0.0075",
+      "percentile": "99.25",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.44,
+      "cumulative_prob": 0.9927,
+      "right_tail": "0.0073",
+      "percentile": "99.27",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.45,
+      "cumulative_prob": 0.9929,
+      "right_tail": "0.0071",
+      "percentile": "99.29",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.46,
+      "cumulative_prob": 0.9931,
+      "right_tail": "0.0069",
+      "percentile": "99.31",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.47,
+      "cumulative_prob": 0.9932,
+      "right_tail": "0.0068",
+      "percentile": "99.32",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.48,
+      "cumulative_prob": 0.9934,
+      "right_tail": "0.0066",
+      "percentile": "99.34",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.49,
+      "cumulative_prob": 0.9936,
+      "right_tail": "0.0064",
+      "percentile": "99.36",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.5,
+      "cumulative_prob": 0.9938,
+      "right_tail": "0.0062",
+      "percentile": "99.38",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.51,
+      "cumulative_prob": 0.994,
+      "right_tail": "0.0060",
+      "percentile": "99.40",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.52,
+      "cumulative_prob": 0.9941,
+      "right_tail": "0.0059",
+      "percentile": "99.41",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.53,
+      "cumulative_prob": 0.9943,
+      "right_tail": "0.0057",
+      "percentile": "99.43",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.54,
+      "cumulative_prob": 0.9945,
+      "right_tail": "0.0055",
+      "percentile": "99.45",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.55,
+      "cumulative_prob": 0.9946,
+      "right_tail": "0.0054",
+      "percentile": "99.46",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.56,
+      "cumulative_prob": 0.9948,
+      "right_tail": "0.0052",
+      "percentile": "99.48",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.57,
+      "cumulative_prob": 0.9949,
+      "right_tail": "0.0051",
+      "percentile": "99.49",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.58,
+      "cumulative_prob": 0.9951,
+      "right_tail": "0.0049",
+      "percentile": "99.51",
+      "confidence_level": "99%"
+    },
+    {
+      "z_score": 2.59,
+      "cumulative_prob": 0.9952,
+      "right_tail": "0.0048",
+      "percentile": "99.52",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.6,
+      "cumulative_prob": 0.9953,
+      "right_tail": "0.0047",
+      "percentile": "99.53",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.61,
+      "cumulative_prob": 0.9955,
+      "right_tail": "0.0045",
+      "percentile": "99.55",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.62,
+      "cumulative_prob": 0.9956,
+      "right_tail": "0.0044",
+      "percentile": "99.56",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.63,
+      "cumulative_prob": 0.9957,
+      "right_tail": "0.0043",
+      "percentile": "99.57",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.64,
+      "cumulative_prob": 0.9959,
+      "right_tail": "0.0041",
+      "percentile": "99.59",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.65,
+      "cumulative_prob": 0.996,
+      "right_tail": "0.0040",
+      "percentile": "99.60",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.66,
+      "cumulative_prob": 0.9961,
+      "right_tail": "0.0039",
+      "percentile": "99.61",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.67,
+      "cumulative_prob": 0.9962,
+      "right_tail": "0.0038",
+      "percentile": "99.62",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.68,
+      "cumulative_prob": 0.9963,
+      "right_tail": "0.0037",
+      "percentile": "99.63",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.69,
+      "cumulative_prob": 0.9964,
+      "right_tail": "0.0036",
+      "percentile": "99.64",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.7,
+      "cumulative_prob": 0.9965,
+      "right_tail": "0.0035",
+      "percentile": "99.65",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.71,
+      "cumulative_prob": 0.9966,
+      "right_tail": "0.0034",
+      "percentile": "99.66",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.72,
+      "cumulative_prob": 0.9967,
+      "right_tail": "0.0033",
+      "percentile": "99.67",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.73,
+      "cumulative_prob": 0.9968,
+      "right_tail": "0.0032",
+      "percentile": "99.68",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.74,
+      "cumulative_prob": 0.9969,
+      "right_tail": "0.0031",
+      "percentile": "99.69",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.75,
+      "cumulative_prob": 0.997,
+      "right_tail": "0.0030",
+      "percentile": "99.70",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.76,
+      "cumulative_prob": 0.9971,
+      "right_tail": "0.0029",
+      "percentile": "99.71",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.77,
+      "cumulative_prob": 0.9972,
+      "right_tail": "0.0028",
+      "percentile": "99.72",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.78,
+      "cumulative_prob": 0.9973,
+      "right_tail": "0.0027",
+      "percentile": "99.73",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.79,
+      "cumulative_prob": 0.9974,
+      "right_tail": "0.0026",
+      "percentile": "99.74",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.8,
+      "cumulative_prob": 0.9974,
+      "right_tail": "0.0026",
+      "percentile": "99.74",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.81,
+      "cumulative_prob": 0.9975,
+      "right_tail": "0.0025",
+      "percentile": "99.75",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.82,
+      "cumulative_prob": 0.9976,
+      "right_tail": "0.0024",
+      "percentile": "99.76",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.83,
+      "cumulative_prob": 0.9977,
+      "right_tail": "0.0023",
+      "percentile": "99.77",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.84,
+      "cumulative_prob": 0.9977,
+      "right_tail": "0.0023",
+      "percentile": "99.77",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.85,
+      "cumulative_prob": 0.9978,
+      "right_tail": "0.0022",
+      "percentile": "99.78",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.86,
+      "cumulative_prob": 0.9979,
+      "right_tail": "0.0021",
+      "percentile": "99.79",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.87,
+      "cumulative_prob": 0.9979,
+      "right_tail": "0.0021",
+      "percentile": "99.79",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.88,
+      "cumulative_prob": 0.998,
+      "right_tail": "0.0020",
+      "percentile": "99.80",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.89,
+      "cumulative_prob": 0.9981,
+      "right_tail": "0.0019",
+      "percentile": "99.81",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.9,
+      "cumulative_prob": 0.9981,
+      "right_tail": "0.0019",
+      "percentile": "99.81",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.91,
+      "cumulative_prob": 0.9982,
+      "right_tail": "0.0018",
+      "percentile": "99.82",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.92,
+      "cumulative_prob": 0.9982,
+      "right_tail": "0.0018",
+      "percentile": "99.82",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.93,
+      "cumulative_prob": 0.9983,
+      "right_tail": "0.0017",
+      "percentile": "99.83",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.94,
+      "cumulative_prob": 0.9984,
+      "right_tail": "0.0016",
+      "percentile": "99.84",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.95,
+      "cumulative_prob": 0.9984,
+      "right_tail": "0.0016",
+      "percentile": "99.84",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.96,
+      "cumulative_prob": 0.9985,
+      "right_tail": "0.0015",
+      "percentile": "99.85",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.97,
+      "cumulative_prob": 0.9985,
+      "right_tail": "0.0015",
+      "percentile": "99.85",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.98,
+      "cumulative_prob": 0.9986,
+      "right_tail": "0.0014",
+      "percentile": "99.86",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 2.99,
+      "cumulative_prob": 0.9986,
+      "right_tail": "0.0014",
+      "percentile": "99.86",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 3,
+      "cumulative_prob": 0.9987,
+      "right_tail": "0.0013",
+      "percentile": "99.87",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 3.1,
+      "cumulative_prob": 0.999,
+      "right_tail": "0.0010",
+      "percentile": "99.90",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 3.2,
+      "cumulative_prob": 0.9993,
+      "right_tail": "0.0007",
+      "percentile": "99.93",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 3.3,
+      "cumulative_prob": 0.9995,
+      "right_tail": "0.0005",
+      "percentile": "99.95",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 3.4,
+      "cumulative_prob": 0.9997,
+      "right_tail": "0.0003",
+      "percentile": "99.97",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 3.5,
+      "cumulative_prob": 0.9998,
+      "right_tail": "0.0002",
+      "percentile": "99.98",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 3.6,
+      "cumulative_prob": 0.9998,
+      "right_tail": "0.0002",
+      "percentile": "99.98",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 3.7,
+      "cumulative_prob": 0.9999,
+      "right_tail": "0.0001",
+      "percentile": "99.99",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 3.8,
+      "cumulative_prob": 0.9999,
+      "right_tail": "0.0001",
+      "percentile": "99.99",
+      "confidence_level": "-"
+    },
+    {
+      "z_score": 3.9,
+      "cumulative_prob": 1,
+      "right_tail": "0.0000",
+      "percentile": "100.00",
+      "confidence_level": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "Z-Score Table & Standard Normal Data - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download a comprehensive Z-Score Table for Standard Normal Distribution. Get 310 records with cumulative probability, percentiles, and confidence. Free in Excel, CSV, PDF.",
+    "title": "Z-Score Table (Standard Normal Distribution) Dataset",
+    "description": "This dataset provides a comprehensive Z-Score Table for the Standard Normal Distribution, detailing Z-scores, cumulative probabilities, right-tail probabilities, percentiles, and two-tail confidence levels. It includes 310 records, essential for statistical analysis and hypothesis testing.",
+    "key_takeaways": [
+      "Access a complete Z-Score Table with 310 records for statistical analysis.",
+      "Explore cumulative probabilities, percentiles, and two-tail confidence values.",
+      "Download essential data for hypothesis testing and normal distribution calculations.",
+      "Get precise Z-score mappings for various statistical applications."
+    ],
+    "keywords": [
+      "Z-Score Table",
+      "Standard Normal Distribution data",
+      "cumulative probability",
+      "percentile table",
+      "z-score excel download",
+      "statistical confidence level"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your Python scripts or SQL databases for automated statistical calculations and data processing.",
+      "Use the **Excel** file to quickly look up Z-scores, perform VLOOKUPs, or integrate into your statistical models for quick analysis.",
+      "Print the **PDF** version as a convenient reference chart for students, researchers, or in exam settings requiring a physical Z-score table.",
+      "Leverage this dataset to validate statistical software outputs or for educational purposes in teaching probability and inferential statistics."
+    ]
+  },
+  "record_count": 310,
+  "title": "Z-Score Table (Standard Normal Distribution) Dataset"
+}

@@ -1,0 +1,301 @@
+{
+  "id": "vu-political-parties",
+  "name": "Vanuatu — Political Parties",
+  "title": "Vanuatu — Political Parties",
+  "description": "Political parties of Vanuatu from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5336,
+      "name_short": "UPM",
+      "name": "Union des Partis Moderés",
+      "name_english": "Union of Moderate Parties",
+      "name_other": "",
+      "year_first": 1981,
+      "year_last": "",
+      "share": 43.5,
+      "share_year": 1987,
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_of_Moderate_Parties",
+      "description": "formerly known as Moderate Party (MP)",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5342,
+      "name_short": "FDNH",
+      "name": "Federal Party of the New Hebrides",
+      "name_english": "Federal Party of the New Herbides",
+      "name_other": "",
+      "year_first": 1979,
+      "year_last": 1983,
+      "share": 33.3,
+      "share_year": 1979,
+      "wikipedia": "",
+      "description": "Federal Party of the New Hebrides created on 19 February 1979 includes Tan Union, Federation of Independents, Natatok",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5337,
+      "name_short": "NUP",
+      "name": "Vanuatu National United Party",
+      "name_english": "Vanuatu National United Party",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 21.7,
+      "share_year": 1991,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_United_Party_(Vanuatu)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5335,
+      "name_short": "VP",
+      "name": "Vanua'aku Pati",
+      "name_english": "Our Land Party",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": "",
+      "share": 21.2,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Vanua%27aku_Pati",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5338,
+      "name_short": "PRV",
+      "name": "Parti Républicain de Vanuatu",
+      "name_english": "Vanuatu Republican Party",
+      "name_other": "",
+      "year_first": 1999,
+      "year_last": "",
+      "share": 13.5,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Vanuatu_Republican_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5887,
+      "name_short": "TU",
+      "name": "Tan Union",
+      "name_english": "Tan Union",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": 1991,
+      "share": 12.5,
+      "share_year": 1989,
+      "wikipedia": "",
+      "description": "",
+      "comment": "Can not find any election in 1989.",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5339,
+      "name_short": "MPP",
+      "name": "Melanesian Progressive Party",
+      "name_english": "Melanesian Progressive Party",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 11.5,
+      "share_year": 1998,
+      "wikipedia": "https://en.wikipedia.org/wiki/Melanesian_Progressive_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5888,
+      "name_short": "PPP",
+      "name": "People's Progess Party",
+      "name_english": "People's Progess Party",
+      "name_other": "",
+      "year_first": 2001,
+      "year_last": "",
+      "share": 11.5,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Progressive_Party_(Vanuatu)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6147,
+      "name_short": "PDP",
+      "name": "People's Democratic Party",
+      "name_english": "People's Democratic Party",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": 2000,
+      "share": 8.7,
+      "share_year": 1995,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5546,
+      "name_short": "GJP",
+      "name": "Bislama: Graon mo Jastis Pati",
+      "name_english": "Land and Justice Party",
+      "name_other": "",
+      "year_first": 2010,
+      "year_last": "",
+      "share": 7.4,
+      "share_year": 2016,
+      "wikipedia": "https://en.wikipedia.org/wiki/Land_and_Justice_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6045,
+      "name_short": "N",
+      "name": "Nagriamel",
+      "name_english": "Nagriamel",
+      "name_other": "",
+      "year_first": 1960,
+      "year_last": "",
+      "share": 5.8,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nagriamel",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5544,
+      "name_short": "VNDP",
+      "name": "Vanuatu National Development Party",
+      "name_english": "Vanuatu National Development Party",
+      "name_other": "",
+      "year_first": 2014,
+      "year_last": "",
+      "share": 4.4,
+      "share_year": 2016,
+      "wikipedia": "https://en.wikipedia.org/wiki/Vanuatu_National_Development_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5543,
+      "name_short": "CV",
+      "name": "Confédération Verte",
+      "name_english": "Greens Confederation",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": "",
+      "share": 3.5,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Green_Confederation",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5545,
+      "name_short": "RMC",
+      "name": "Namangi Aute",
+      "name_english": "Reunification of Movement for Change (RMC)",
+      "name_other": "",
+      "year_first": 2012,
+      "year_last": "",
+      "share": 3.4,
+      "share_year": 2016,
+      "wikipedia": "https://en.wikipedia.org/wiki/Reunification_Movement_for_Change",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Vanuatu — Political Parties - Free Download",
+    "description": "Political parties of Vanuatu from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vanuatu — Political Parties | ListBase",
+    "seo_description": "Download Vanuatu — Political Parties dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

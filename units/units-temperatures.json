@@ -1,0 +1,446 @@
+{
+  "id": "units-temperatures",
+  "name": "Temperature Conversion Matrix Dataset",
+  "category": "units",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "celsius",
+      "label": "Celsius (°C)",
+      "type": "number"
+    },
+    {
+      "key": "fahrenheit",
+      "label": "Fahrenheit (°F)",
+      "type": "number"
+    },
+    {
+      "key": "kelvin",
+      "label": "Kelvin (K)",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "celsius": -273.15,
+      "fahrenheit": -459.67,
+      "kelvin": 0,
+      "description": "Absolute zero",
+      "category": "Scientific"
+    },
+    {
+      "celsius": -269,
+      "fahrenheit": -452.2,
+      "kelvin": 4.15,
+      "description": "Liquid helium boiling point",
+      "category": "Scientific"
+    },
+    {
+      "celsius": -196,
+      "fahrenheit": -320.8,
+      "kelvin": 77.15,
+      "description": "Liquid nitrogen boiling point",
+      "category": "Scientific"
+    },
+    {
+      "celsius": -89.2,
+      "fahrenheit": -128.56,
+      "kelvin": 183.95,
+      "description": "Coldest recorded on Earth (Antarctica)",
+      "category": "Weather"
+    },
+    {
+      "celsius": -78.5,
+      "fahrenheit": -109.3,
+      "kelvin": 194.65,
+      "description": "Dry ice sublimation",
+      "category": "Scientific"
+    },
+    {
+      "celsius": -40,
+      "fahrenheit": -40,
+      "kelvin": 233.15,
+      "description": "Same in Celsius and Fahrenheit",
+      "category": "Reference"
+    },
+    {
+      "celsius": -30,
+      "fahrenheit": -22,
+      "kelvin": 243.15,
+      "description": "Extreme cold weather",
+      "category": "Weather"
+    },
+    {
+      "celsius": -20,
+      "fahrenheit": -4,
+      "kelvin": 253.15,
+      "description": "Very cold winter",
+      "category": "Weather"
+    },
+    {
+      "celsius": -18,
+      "fahrenheit": -0.4,
+      "kelvin": 255.15,
+      "description": "Standard freezer temperature",
+      "category": "Household"
+    },
+    {
+      "celsius": -10,
+      "fahrenheit": 14,
+      "kelvin": 263.15,
+      "description": "Cold winter day",
+      "category": "Weather"
+    },
+    {
+      "celsius": 0,
+      "fahrenheit": 32,
+      "kelvin": 273.15,
+      "description": "Water freezing point",
+      "category": "Reference"
+    },
+    {
+      "celsius": 4,
+      "fahrenheit": 39.2,
+      "kelvin": 277.15,
+      "description": "Refrigerator temperature / Water density max",
+      "category": "Household"
+    },
+    {
+      "celsius": 10,
+      "fahrenheit": 50,
+      "kelvin": 283.15,
+      "description": "Cool spring day",
+      "category": "Weather"
+    },
+    {
+      "celsius": 15,
+      "fahrenheit": 59,
+      "kelvin": 288.15,
+      "description": "Mild day",
+      "category": "Weather"
+    },
+    {
+      "celsius": 20,
+      "fahrenheit": 68,
+      "kelvin": 293.15,
+      "description": "Standard room temperature",
+      "category": "Reference"
+    },
+    {
+      "celsius": 21,
+      "fahrenheit": 69.8,
+      "kelvin": 294.15,
+      "description": "Comfortable indoor temperature",
+      "category": "Household"
+    },
+    {
+      "celsius": 22,
+      "fahrenheit": 71.6,
+      "kelvin": 295.15,
+      "description": "Typical office temperature",
+      "category": "Household"
+    },
+    {
+      "celsius": 25,
+      "fahrenheit": 77,
+      "kelvin": 298.15,
+      "description": "Warm room temperature",
+      "category": "Reference"
+    },
+    {
+      "celsius": 30,
+      "fahrenheit": 86,
+      "kelvin": 303.15,
+      "description": "Hot summer day",
+      "category": "Weather"
+    },
+    {
+      "celsius": 35,
+      "fahrenheit": 95,
+      "kelvin": 308.15,
+      "description": "Heat wave",
+      "category": "Weather"
+    },
+    {
+      "celsius": 37,
+      "fahrenheit": 98.6,
+      "kelvin": 310.15,
+      "description": "Human body temperature",
+      "category": "Medical"
+    },
+    {
+      "celsius": 38,
+      "fahrenheit": 100.4,
+      "kelvin": 311.15,
+      "description": "Fever threshold",
+      "category": "Medical"
+    },
+    {
+      "celsius": 40,
+      "fahrenheit": 104,
+      "kelvin": 313.15,
+      "description": "High fever / Extreme heat",
+      "category": "Medical"
+    },
+    {
+      "celsius": 42,
+      "fahrenheit": 107.6,
+      "kelvin": 315.15,
+      "description": "Dangerous fever",
+      "category": "Medical"
+    },
+    {
+      "celsius": 50,
+      "fahrenheit": 122,
+      "kelvin": 323.15,
+      "description": "Extreme desert heat",
+      "category": "Weather"
+    },
+    {
+      "celsius": 56.7,
+      "fahrenheit": 134.06,
+      "kelvin": 329.85,
+      "description": "Hottest recorded on Earth (Death Valley)",
+      "category": "Weather"
+    },
+    {
+      "celsius": 60,
+      "fahrenheit": 140,
+      "kelvin": 333.15,
+      "description": "Warm holding temperature",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 63,
+      "fahrenheit": 145.4,
+      "kelvin": 336.15,
+      "description": "Minimum safe temp for beef/pork",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 70,
+      "fahrenheit": 158,
+      "kelvin": 343.15,
+      "description": "Minimum safe temp for reheating",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 74,
+      "fahrenheit": 165.2,
+      "kelvin": 347.15,
+      "description": "Minimum safe temp for poultry",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 80,
+      "fahrenheit": 176,
+      "kelvin": 353.15,
+      "description": "Hot coffee serving temperature",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 100,
+      "fahrenheit": 212,
+      "kelvin": 373.15,
+      "description": "Water boiling point (sea level)",
+      "category": "Reference"
+    },
+    {
+      "celsius": 110,
+      "fahrenheit": 230,
+      "kelvin": 383.15,
+      "description": "Low oven / Warming",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 120,
+      "fahrenheit": 248,
+      "kelvin": 393.15,
+      "description": "Very low oven",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 150,
+      "fahrenheit": 302,
+      "kelvin": 423.15,
+      "description": "Low oven (300°F)",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 160,
+      "fahrenheit": 320,
+      "kelvin": 433.15,
+      "description": "Slow roasting",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 175,
+      "fahrenheit": 347,
+      "kelvin": 448.15,
+      "description": "Medium-low oven (350°F)",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 180,
+      "fahrenheit": 356,
+      "kelvin": 453.15,
+      "description": "Standard baking temperature",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 190,
+      "fahrenheit": 374,
+      "kelvin": 463.15,
+      "description": "Medium oven (375°F)",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 200,
+      "fahrenheit": 392,
+      "kelvin": 473.15,
+      "description": "Roasting temperature",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 220,
+      "fahrenheit": 428,
+      "kelvin": 493.15,
+      "description": "High oven (425°F)",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 230,
+      "fahrenheit": 446,
+      "kelvin": 503.15,
+      "description": "Very hot oven (450°F)",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 250,
+      "fahrenheit": 482,
+      "kelvin": 523.15,
+      "description": "Pizza oven / Broiling",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 300,
+      "fahrenheit": 572,
+      "kelvin": 573.15,
+      "description": "Deep frying maximum",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 350,
+      "fahrenheit": 662,
+      "kelvin": 623.15,
+      "description": "Oil smoke point (refined)",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 400,
+      "fahrenheit": 752,
+      "kelvin": 673.15,
+      "description": "Wood fire oven",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 450,
+      "fahrenheit": 842,
+      "kelvin": 723.15,
+      "description": "Professional pizza oven",
+      "category": "Cooking"
+    },
+    {
+      "celsius": 660,
+      "fahrenheit": 1220,
+      "kelvin": 933.15,
+      "description": "Aluminum melting point",
+      "category": "Industrial"
+    },
+    {
+      "celsius": 1064,
+      "fahrenheit": 1947.2,
+      "kelvin": 1337.15,
+      "description": "Gold melting point",
+      "category": "Industrial"
+    },
+    {
+      "celsius": 1085,
+      "fahrenheit": 1985,
+      "kelvin": 1358.15,
+      "description": "Copper melting point",
+      "category": "Industrial"
+    },
+    {
+      "celsius": 1538,
+      "fahrenheit": 2800.4,
+      "kelvin": 1811.15,
+      "description": "Iron melting point",
+      "category": "Industrial"
+    },
+    {
+      "celsius": 1668,
+      "fahrenheit": 3034.4,
+      "kelvin": 1941.15,
+      "description": "Titanium melting point",
+      "category": "Industrial"
+    },
+    {
+      "celsius": 3422,
+      "fahrenheit": 6191.6,
+      "kelvin": 3695.15,
+      "description": "Tungsten melting point (highest metal)",
+      "category": "Industrial"
+    },
+    {
+      "celsius": 5500,
+      "fahrenheit": 9932,
+      "kelvin": 5773.15,
+      "description": "Sun surface temperature",
+      "category": "Astronomical"
+    },
+    {
+      "celsius": 15000000,
+      "fahrenheit": 27000032,
+      "kelvin": 15000273.15,
+      "description": "Sun core temperature",
+      "category": "Astronomical"
+    }
+  ],
+  "meta": {
+    "seo_title": "Temperature Conversion Matrix - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download Temperature Conversion Matrix with 55 records. Available in Excel, CSV, and PDF formats.",
+    "title": "Temperature Conversion Matrix Dataset",
+    "description": "Temperature Conversion Matrix containing 55 records.",
+    "key_takeaways": [
+      "Access 55 records in multiple formats.",
+      "Download data in Excel, CSV, or PDF format.",
+      "Use ISO codes for easy integration with other systems."
+    ],
+    "keywords": [
+      "temperature conversion matrix excel",
+      "temperature conversion matrix csv download",
+      "temperature conversion matrix data",
+      "temperature conversion matrix list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your database or use it with Python/pandas for data analysis.",
+      "Open the **Excel** file to filter, sort, and create Pivot Tables for quick insights.",
+      "Print the **PDF** version for offline reference or classroom handouts.",
+      "Use the data to build applications, dashboards, or educational resources."
+    ]
+  },
+  "record_count": 55,
+  "title": "Temperature Conversion Matrix Dataset"
+}

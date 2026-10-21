@@ -1,0 +1,120 @@
+{
+  "id": "canada-language-tags",
+  "name": "Canada — IETF Language Tags (CLDR)",
+  "title": "Canada — IETF Language Tags (CLDR)",
+  "description": "IETF BCP-47 language tags associated with Canada (territory CA) in Unicode CLDR, including primary languages and minority/indigenous languages with locale definitions.",
+  "category": "language",
+  "source": "https://github.com/datasets/language-codes",
+  "source_url": "https://github.com/datasets/language-codes",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "ietf_tag",
+      "label": "Ietf Tag",
+      "type": "string"
+    },
+    {
+      "key": "language_code",
+      "label": "Language Code",
+      "type": "string"
+    },
+    {
+      "key": "territory",
+      "label": "Territory",
+      "type": "string"
+    },
+    {
+      "key": "definitions",
+      "label": "Definitions",
+      "type": "number"
+    },
+    {
+      "key": "is_default",
+      "label": "Is Default",
+      "type": "boolean"
+    },
+    {
+      "key": "cldr_file",
+      "label": "Cldr File",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ietf_tag": "csw-CA",
+      "language_code": "csw",
+      "territory": "CA",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "csw_CA.xml"
+    },
+    {
+      "ietf_tag": "en-CA",
+      "language_code": "en",
+      "territory": "CA",
+      "definitions": 8,
+      "is_default": false,
+      "cldr_file": "en_CA.xml"
+    },
+    {
+      "ietf_tag": "fr-CA",
+      "language_code": "fr",
+      "territory": "CA",
+      "definitions": 9,
+      "is_default": false,
+      "cldr_file": "fr_CA.xml"
+    },
+    {
+      "ietf_tag": "iu-CA",
+      "language_code": "iu",
+      "territory": "CA",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "iu_CA.xml"
+    },
+    {
+      "ietf_tag": "iu-Latn-CA",
+      "language_code": "iu",
+      "territory": "CA",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "iu_Latn_CA.xml"
+    },
+    {
+      "ietf_tag": "mic-CA",
+      "language_code": "mic",
+      "territory": "CA",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "mic_CA.xml"
+    },
+    {
+      "ietf_tag": "moh-CA",
+      "language_code": "moh",
+      "territory": "CA",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "moh_CA.xml"
+    },
+    {
+      "ietf_tag": "oka-CA",
+      "language_code": "oka",
+      "territory": "CA",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "oka_CA.xml"
+    }
+  ],
+  "meta": {
+    "title": "Canada — IETF Language Tags (CLDR) - Free Download",
+    "description": "IETF BCP-47 language tags associated with Canada (territory CA) in Unicode CLDR, including primary languages and minority/indigenous languages with locale definitions. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Canada — IETF Language Tags (CLDR) | ListBase",
+    "seo_description": "Download Canada — IETF Language Tags (CLDR) dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/datasets/language-codes"
+    ]
+  }
+}

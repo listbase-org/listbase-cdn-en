@@ -1,0 +1,254 @@
+{
+  "id": "pe-unesco-heritage",
+  "name": "Peru — UNESCO World Heritage Sites",
+  "title": "Peru — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Peru, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 273,
+      "name": "City of Cuzco",
+      "category": "cultural",
+      "date_inscribed": 1983,
+      "criteria": "c3, c4",
+      "lat": -13.52222,
+      "lon": -71.98333,
+      "area_hectares": 142.48,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pe",
+      "transboundary": false
+    },
+    {
+      "ref_no": 274,
+      "name": "Historic Sanctuary of Machu Picchu",
+      "category": "mixed",
+      "date_inscribed": 1983,
+      "criteria": "c1, c3, n7, n9",
+      "lat": -13.11666667,
+      "lon": -72.58333333,
+      "area_hectares": 38160.87,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pe",
+      "transboundary": false
+    },
+    {
+      "ref_no": 330,
+      "name": "Chavin (Archaeological Site)",
+      "category": "cultural",
+      "date_inscribed": 1985,
+      "criteria": "c3",
+      "lat": -9.592772544,
+      "lon": -77.1784535,
+      "area_hectares": 14.79,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pe",
+      "transboundary": false
+    },
+    {
+      "ref_no": 333,
+      "name": "Huascaran National Park",
+      "category": "natural",
+      "date_inscribed": 1985,
+      "criteria": "n7, n8",
+      "lat": -9.33333,
+      "lon": -77.4,
+      "area_hectares": 340000,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pe",
+      "transboundary": false
+    },
+    {
+      "ref_no": 366,
+      "name": "Chan Chan Archaeological Zone",
+      "category": "cultural",
+      "date_inscribed": 1986,
+      "criteria": "c1, c3",
+      "lat": -8.1,
+      "lon": -79.08333,
+      "area_hectares": 1414.57,
+      "danger_list": "Y 1986",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pe",
+      "transboundary": false
+    },
+    {
+      "ref_no": 402,
+      "name": "Manu National Park",
+      "category": "natural",
+      "date_inscribed": 1987,
+      "criteria": "n9, n10",
+      "lat": -12.25,
+      "lon": -71.75,
+      "area_hectares": 1716295.22,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pe",
+      "transboundary": false
+    },
+    {
+      "ref_no": 500,
+      "name": "Historic Centre of Lima",
+      "category": "cultural",
+      "date_inscribed": 1988,
+      "criteria": "c4",
+      "lat": -12.05139,
+      "lon": -77.04306,
+      "area_hectares": 259.36,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pe",
+      "transboundary": false
+    },
+    {
+      "ref_no": 548,
+      "name": "Rio Abiseo National Park",
+      "category": "mixed",
+      "date_inscribed": 1990,
+      "criteria": "c3, n7, n9, n10",
+      "lat": -7.75,
+      "lon": -77.25,
+      "area_hectares": 272407.95,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pe",
+      "transboundary": false
+    },
+    {
+      "ref_no": 700,
+      "name": "Lines and Geoglyphs of Nasca and Pampas de Jumana",
+      "category": "cultural",
+      "date_inscribed": 1994,
+      "criteria": "c1, c3, c4",
+      "lat": -14.72583,
+      "lon": -75.14861,
+      "area_hectares": 75358.47,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pe",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1016,
+      "name": "Historical Centre of the City of Arequipa",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c1, c4",
+      "lat": -16.4,
+      "lon": -71.53333333,
+      "area_hectares": 166.52,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pe",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1269,
+      "name": "Sacred City of Caral-Supe",
+      "category": "cultural",
+      "date_inscribed": 2009,
+      "criteria": "c2, c3, c4",
+      "lat": -10.89166667,
+      "lon": -77.52138889,
+      "area_hectares": 626.36,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "pe",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1459,
+      "name": "Qhapaq Nan, Andean Road System",
+      "category": "cultural",
+      "date_inscribed": 2014,
+      "criteria": "c2, c3, c4, c6",
+      "lat": -18.25,
+      "lon": -69.59166667,
+      "area_hectares": 11406.95,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar, bo, cl, co, ec, pe",
+      "transboundary": true
+    }
+  ],
+  "meta": {
+    "title": "Peru — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Peru, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Peru — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Peru — UNESCO World Heritage Sites dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

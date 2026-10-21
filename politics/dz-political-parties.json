@@ -1,0 +1,241 @@
+{
+  "id": "dz-political-parties",
+  "name": "Algeria — Political Parties",
+  "title": "Algeria — Political Parties",
+  "description": "Political parties of Algeria from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6118,
+      "name_short": "FIS",
+      "name": "Front Islamique du Salut",
+      "name_english": "Islamic Salvation Front",
+      "name_other": "Arabic: الجبهة الإسلامية للإنقاذ, al-Jabhah al-Islāmiyah lil-Inqādh",
+      "year_first": 1989,
+      "year_last": 1992,
+      "share": 54,
+      "share_year": 1990,
+      "wikipedia": "https://en.wikipedia.org/wiki/Islamic_Salvation_Front",
+      "description": "54% in 1990 local elections",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5221,
+      "name_short": "MSPP",
+      "name": "Mouvement de la société pour la paix / Hamas",
+      "name_english": "Movement for the Society of Peace",
+      "name_other": "Arabic: Harakat mujtama' as-silm حركة مجتمع السلم,",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 18.2,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Movement_of_Society_for_Peace",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4111,
+      "name_short": "FLN",
+      "name": "Front de Libération Nationale",
+      "name_english": "National Liberation Front",
+      "name_other": "Arabic: جبهة التحرير الوطني Jabhet Al-Taḥrīr Al-Waṭanī‎",
+      "year_first": 1954,
+      "year_last": "",
+      "share": 17.3,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Liberation_Front_%28Algeria%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5222,
+      "name_short": "MPRN",
+      "name": "Mouvement pour la réforme nationale",
+      "name_english": "Movement for National Reform",
+      "name_other": "Arabic: Harakat Al-Islah Al-Wataniy حركة الإصلاح الوطني‎‎",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 9.5,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/Movement_for_National_Reform",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6219,
+      "name_short": "MRI",
+      "name": "Mouvement de la Renaissance Islamique",
+      "name_english": "Movement of the Islamic Renaissance",
+      "name_other": "Arabic: حركة النهضة الاسلامية",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 8.9,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Islamic_Renaissance_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4113,
+      "name_short": "RND",
+      "name": "Rassemblement National Démocratique",
+      "name_english": "National Rally for Democracy",
+      "name_other": "Arabic: التجمع الوطني الديمقراطي‎",
+      "year_first": 1997,
+      "year_last": "",
+      "share": 6.9,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Rally_for_Democracy_(Algeria)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5622,
+      "name_short": "PT",
+      "name": "Parti des Travailleurs",
+      "name_english": "Workers' Party",
+      "name_other": "Arabic Hizb al-Ummal حزب العمال,",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 5.1,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Workers%27_Party_(Algeria)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6120,
+      "name_short": "RCD",
+      "name": "Rassemblement pour la Culture et la Démocratie",
+      "name_english": "Rally for Culture and Democracy",
+      "name_other": "Berber: Agraw i Yidles d Tugdut; Arabic: التجمع من أجل الثقافة والديمقراطية",
+      "year_first": 1998,
+      "year_last": 2012,
+      "share": 5,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rally_for_Culture_and_Democracy",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4098,
+      "name_short": "FNA",
+      "name": "Front National Algérien",
+      "name_english": "Algerian National Front",
+      "name_other": "Arabic: الجبهة الوطنية الجزائرية",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 4.2,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Algerian_National_Front",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4114,
+      "name_short": "FFS",
+      "name": "Front des Forces socialistes",
+      "name_english": "Socialist Forces Front",
+      "name_other": "Berber: Tirni Iɣallen Inemlayen (RƔN), Arabic: جبهة القوى الاشتراكية",
+      "year_first": 1963,
+      "year_last": "",
+      "share": 2.5,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/Socialist_Forces_Front",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Algeria — Political Parties - Free Download",
+    "description": "Political parties of Algeria from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Algeria — Political Parties | ListBase",
+    "seo_description": "Download Algeria — Political Parties dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

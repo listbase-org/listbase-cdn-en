@@ -1,0 +1,361 @@
+{
+  "id": "pk-political-parties",
+  "name": "Pakistan — Political Parties",
+  "title": "Pakistan — Political Parties",
+  "description": "Political parties of Pakistan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5550,
+      "name_short": "ML",
+      "name": "Muslim League",
+      "name_english": "Muslim League",
+      "name_other": "",
+      "year_first": 1988,
+      "year_last": 1999,
+      "share": 100,
+      "share_year": 1984,
+      "wikipedia": "https://en.wikipedia.org/wiki/Muslim_League_(Pakistan)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5513,
+      "name_short": "QML",
+      "name": "Qayyum Moslem League",
+      "name_english": "Convention Moslem League",
+      "name_other": "",
+      "year_first": 1966,
+      "year_last": 1977,
+      "share": 81.3,
+      "share_year": 1965,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5551,
+      "name_short": "AL",
+      "name": "Awami League",
+      "name_english": "Awami League",
+      "name_other": "",
+      "year_first": 1949,
+      "year_last": 1971,
+      "share": 53.5,
+      "share_year": 1972,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bangladesh_Awami_League",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2383,
+      "name_short": "PPP",
+      "name": "Pakistan Peoples Party",
+      "name_english": "Pakistan Peoples Party",
+      "name_other": "Urdu: پاکستان پیپلز پارٹی‎, Sindhi: پاڪستان پيپلز پارٽي;",
+      "year_first": 1967,
+      "year_last": "",
+      "share": 31.5,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pakistan_Peoples_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5492,
+      "name_short": "IJI",
+      "name": "Islami Jamhoori Ittehad",
+      "name_english": "Islamic Democratic Alliance",
+      "name_other": "",
+      "year_first": 1988,
+      "year_last": 1990,
+      "share": 26.3,
+      "share_year": 1988,
+      "wikipedia": "https://en.wikipedia.org/wiki/Islami_Jamhoori_Ittehad",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2385,
+      "name_short": "PML(Q)",
+      "name": "Pakistan Muslim League",
+      "name_english": "Pakistan Muslim League (Quaid e Azam Group)",
+      "name_other": "Quaid e Azam Group) (Urdu: پاکستان مسلم لیگ ق‎",
+      "year_first": 2002,
+      "year_last": "",
+      "share": 25.7,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pakistan_Muslim_League_%28Q%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2384,
+      "name_short": "PML(N)",
+      "name": "Pakistan Muslim League",
+      "name_english": "Pakistan Muslim League (Nawaz )",
+      "name_other": "Urdu: پاکستان مسلم لیگ (ن",
+      "year_first": 1993,
+      "year_last": "",
+      "share": 22.1,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pakistan_Muslim_League_%28N%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6690,
+      "name_short": "KSP",
+      "name": "Krishak Sramik Party",
+      "name_english": "Farmer-Labour Party",
+      "name_other": "প্রজা পার্টি",
+      "year_first": 1929,
+      "year_last": 1958,
+      "share": 20.25,
+      "share_year": 1954,
+      "wikipedia": "https://en.wikipedia.org/wiki/Krishak_Sramik_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7150,
+      "name_short": "MMA",
+      "name": "Muttahida Majlis-e-Amal",
+      "name_english": "United Council of Action",
+      "name_other": "",
+      "year_first": 2002,
+      "year_last": "",
+      "share": 11.3,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/Muttahida_Majlis-e-Amal",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5587,
+      "name_short": "PTI",
+      "name": "Pakistan Tehreek-e-Insaf",
+      "name_english": "Pakistan Movement for Justice",
+      "name_other": "Urdu: پاکستان تحريک انصاف‎",
+      "year_first": 1996,
+      "year_last": "",
+      "share": 10,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pakistan_Tehreek-e-Insaf",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2387,
+      "name_short": "MQM/HPG",
+      "name": "Muttaḥidah Qọ̄mī Mūwmaṅṫ / Haq Parast Group",
+      "name_english": "Muttahida Quami Movement /Worship of the Real Group",
+      "name_other": "Urdu: متحدہ قومی موومنٹ‎",
+      "year_first": 1984,
+      "year_last": "",
+      "share": 7.6,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Muttahida_Qaumi_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2386,
+      "name_short": "JUI",
+      "name": "Jamiat Ulema-e-Islam",
+      "name_english": "Jamiat Ulema-e-Islam",
+      "name_other": "Urdu: جمیعت علمائے اسلام‎",
+      "year_first": 1945,
+      "year_last": "",
+      "share": 6.8,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jamiat_Ulema-e-Islam",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6375,
+      "name_short": "JI",
+      "name": "Jamat-e-Islami Pakistan",
+      "name_english": "Pakistan Islamic Party",
+      "name_other": "",
+      "year_first": 1941,
+      "year_last": "",
+      "share": 6,
+      "share_year": 1970,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jamaat-e-Islami_Pakistan",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6376,
+      "name_short": "PMLC",
+      "name": "Council Muslim League",
+      "name_english": "Council Muslim League",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": 1970,
+      "share": 6,
+      "share_year": 1970,
+      "wikipedia": "https://en.wikipedia.org/wiki/Council_Muslim_League",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6218,
+      "name_short": "MGM",
+      "name": "Mohajir Quami Movement (Haqiqi)",
+      "name_english": "National Refugees' Movement",
+      "name_other": "",
+      "year_first": 1978,
+      "year_last": "",
+      "share": 5.8,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Muhajir_Qaumi_Movement_(Haqiqi)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6637,
+      "name_short": "PML-J",
+      "name": "Pakistan Muslim League Junejo",
+      "name_english": "Pakistan Muslim League Junejo",
+      "name_other": "Urdu: پاکستان مسلم لیگ ج",
+      "year_first": 1986,
+      "year_last": 2004,
+      "share": 3.9,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pakistan_Muslim_League_(J)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2326,
+      "name_short": "ANP",
+      "name": "Awami National Party",
+      "name_english": "Awami National Party",
+      "name_other": "Pashto: ملي عوامي ګوند‎, Urdu: عوامی نيشنل پارٹی‎",
+      "year_first": 1986,
+      "year_last": "",
+      "share": 1.5,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Awami_National_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5868,
+      "name_short": "RP",
+      "name": "Republican Party",
+      "name_english": "Republican Party",
+      "name_other": "",
+      "year_first": 1955,
+      "year_last": 1958,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Republican_Party_(Pakistan)",
+      "description": "leader support 1957 Khan Noon (RP) –  see CHISOLS",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Pakistan — Political Parties - Free Download",
+    "description": "Political parties of Pakistan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pakistan — Political Parties | ListBase",
+    "seo_description": "Download Pakistan — Political Parties dataset with 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

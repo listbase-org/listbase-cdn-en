@@ -1,0 +1,236 @@
+{
+  "id": "gd-foreign-embassies",
+  "name": "Grenada — Foreign Embassies and Consulates",
+  "title": "Grenada — Foreign Embassies and Consulates",
+  "description": "Diplomatic missions of foreign countries and territories hosted in Grenada. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "date"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Brazil",
+      "operator_cc": "br",
+      "host_country": "Grenada",
+      "host_cc": "gd",
+      "city": "St. George's",
+      "address": "",
+      "type": "embassy",
+      "latitude": 12.0206,
+      "longitude": -61.7689,
+      "jurisdictions": "Grenada",
+      "phone": "",
+      "email": "",
+      "website": "http://sgeorges.itamaraty.gov.br",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "2009-01-01T00:00:00Z",
+      "wikidata_qid": "Q105813508"
+    },
+    {
+      "operator": "Netherlands",
+      "operator_cc": "nl",
+      "host_country": "Grenada",
+      "host_cc": "gd",
+      "city": "St. George's",
+      "address": "",
+      "type": "honorary consulate",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Grenada",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q112661856"
+    },
+    {
+      "operator": "People's Republic of China",
+      "operator_cc": "cn",
+      "host_country": "Grenada",
+      "host_cc": "gd",
+      "city": "St. George's",
+      "address": "",
+      "type": "embassy",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Grenada",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "ChinaEmbGrenada",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q116056904"
+    },
+    {
+      "operator": "United Kingdom",
+      "operator_cc": "gb",
+      "host_country": "Grenada",
+      "host_cc": "gd",
+      "city": "St. George's",
+      "address": "",
+      "type": "high commission",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Grenada",
+      "phone": "",
+      "email": "",
+      "website": "https://www.gov.uk/world/organisations/british-high-commission-st-georges",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106412526"
+    },
+    {
+      "operator": "United States of America",
+      "operator_cc": "us",
+      "host_country": "Grenada",
+      "host_cc": "gd",
+      "city": "St. George's",
+      "address": "",
+      "type": "embassy",
+      "latitude": 12.0096,
+      "longitude": -61.758,
+      "jurisdictions": "Grenada",
+      "phone": "",
+      "email": "",
+      "website": "https://bb.usembassy.gov/embassy/grenada/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q109335369"
+    },
+    {
+      "operator": "Vatican",
+      "operator_cc": "va",
+      "host_country": "Grenada",
+      "host_cc": "gd",
+      "city": "",
+      "address": "",
+      "type": "apostolic nunciature",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Grenada",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q12785006"
+    }
+  ],
+  "meta": {
+    "title": "Grenada — Foreign Embassies and Consulates - Free Download",
+    "description": "Diplomatic missions of foreign countries and territories hosted in Grenada. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Grenada — Foreign Embassies and Consulates | ListBase",
+    "seo_description": "Download Grenada — Foreign Embassies and Consulates — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

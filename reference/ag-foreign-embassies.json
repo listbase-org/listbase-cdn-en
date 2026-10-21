@@ -1,0 +1,236 @@
+{
+  "id": "ag-foreign-embassies",
+  "name": "Antigua and Barbuda — Foreign Embassies and Consulates",
+  "title": "Antigua and Barbuda — Foreign Embassies and Consulates",
+  "description": "Diplomatic missions of foreign countries and territories hosted in Antigua and Barbuda. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "date"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Australia",
+      "operator_cc": "au",
+      "host_country": "Antigua and Barbuda",
+      "host_cc": "ag",
+      "city": "Saint John's",
+      "address": "",
+      "type": "consulate",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q23891476"
+    },
+    {
+      "operator": "Brazil",
+      "operator_cc": "br",
+      "host_country": "Antigua and Barbuda",
+      "host_cc": "ag",
+      "city": "Saint John's",
+      "address": "",
+      "type": "embassy",
+      "latitude": 17.124,
+      "longitude": -61.828,
+      "jurisdictions": "Antigua and Barbuda",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "2009-01-01T00:00:00Z",
+      "wikidata_qid": "Q105749479"
+    },
+    {
+      "operator": "Netherlands",
+      "operator_cc": "nl",
+      "host_country": "Antigua and Barbuda",
+      "host_cc": "ag",
+      "city": "Saint John's",
+      "address": "",
+      "type": "honorary consulate",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Antigua and Barbuda",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q112661434"
+    },
+    {
+      "operator": "People's Republic of China",
+      "operator_cc": "cn",
+      "host_country": "Antigua and Barbuda",
+      "host_cc": "ag",
+      "city": "Saint John's",
+      "address": "",
+      "type": "embassy",
+      "latitude": 17.1562815,
+      "longitude": -61.8357735,
+      "jurisdictions": "Saint Kitts and Nevis, Antigua and Barbuda",
+      "phone": "+1-268-4621125",
+      "email": "mailto:chinaemb_ag@mfa.gov.cn",
+      "website": "http://ag.china-embassy.gov.cn/",
+      "facebook": "ChineseEmbassyinAntiguaandBarbuda",
+      "twitter": "ChinaEmbAntigua",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q105749595"
+    },
+    {
+      "operator": "United Kingdom",
+      "operator_cc": "gb",
+      "host_country": "Antigua and Barbuda",
+      "host_cc": "ag",
+      "city": "Saint John's",
+      "address": "",
+      "type": "high commission",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Antigua and Barbuda",
+      "phone": "",
+      "email": "",
+      "website": "https://www.gov.uk/world/organisations/british-high-commission-st-johns",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106436040"
+    },
+    {
+      "operator": "Vatican",
+      "operator_cc": "va",
+      "host_country": "Antigua and Barbuda",
+      "host_cc": "ag",
+      "city": "",
+      "address": "",
+      "type": "apostolic nunciature",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Antigua and Barbuda",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q6961041"
+    }
+  ],
+  "meta": {
+    "title": "Antigua and Barbuda — Foreign Embassies and Consulates - Free Download",
+    "description": "Diplomatic missions of foreign countries and territories hosted in Antigua and Barbuda. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antigua and Barbuda — Foreign Embassies and Consulates | ListBase",
+    "seo_description": "Download Antigua and Barbuda — Foreign Embassies and Consulates — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

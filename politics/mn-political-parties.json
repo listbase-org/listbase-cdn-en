@@ -1,0 +1,241 @@
+{
+  "id": "mn-political-parties",
+  "name": "Mongolia — Political Parties",
+  "title": "Mongolia — Political Parties",
+  "description": "Political parties of Mongolia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 2322,
+      "name_short": "MAN",
+      "name": "Mongol Ardiin [Khuvsgalt] Nam",
+      "name_english": "Mongolian People's [Revolutionary] Party",
+      "name_other": "Mongolian: Монгол Ардын [Хувьсгалт] Нам",
+      "year_first": 1920,
+      "year_last": "",
+      "share": 56.9,
+      "share_year": 1992,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mongolian_People%27s_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2321,
+      "name_short": "AN",
+      "name": "Ardchilsan Nam",
+      "name_english": "Democratic Party",
+      "name_other": "Mongolian: Ардчилсан Нам",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 44.7,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_%28Mongolia%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5872,
+      "name_short": "MSDP",
+      "name": "Mongolyn Sotsial Demokrat Nam",
+      "name_english": "Mongolian Social Democratic Party",
+      "name_other": "Mongolian: Монголын Социал Демократ Нам",
+      "year_first": 1990,
+      "year_last": 2000,
+      "share": 17.1,
+      "share_year": 1996,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mongolian_Social_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4902,
+      "name_short": "EON/MASSN",
+      "name": "Ekh oron nam / Mongolyn Ardchilsan Shine Sotsialist Nam",
+      "name_english": "Motherland Party / Mongolian Democratic New Socialist Party",
+      "name_other": "Mongolian: Эх орон нам / Монголын Ардчилсан Шинэ Социалист Нам",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 15.8,
+      "share_year": 1996,
+      "wikipedia": "https://en.wikipedia.org/wiki/Motherland_Party_(Mongolia)",
+      "description": "",
+      "comment": "12 of 76 seats in 1996",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7142,
+      "name_short": "MNDP",
+      "name": "Mongolian National Democratic Party",
+      "name_english": "Mongolian National Democratic Party",
+      "name_other": "Mongolian: Монгол Үндэсний Ардчилсан Нам",
+      "year_first": 2005,
+      "year_last": "",
+      "share": 14.5,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mongolian_National_Democratic_Party_(2005)",
+      "description": "2012 in alliance Justice Coalition",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2468,
+      "name_short": "IZN",
+      "name": "Irgenii Zorig-Nogoon Nam",
+      "name_english": "Civil Will-Green Party",
+      "name_other": "Mongolian: Иргэний Зориг-Ногоон Нам,",
+      "year_first": 2008,
+      "year_last": "",
+      "share": 11,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Civil_Will-Green_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7924,
+      "name_short": "MNPP",
+      "name": "Mongolyn Ündesniy Devshilt Nam",
+      "name_english": "Mongolian National Progress Party",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": 1992,
+      "share": 5.9,
+      "share_year": 1990,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6204,
+      "name_short": "MCUP",
+      "name": "Mongolyn Ulamjlalyn Negdsen Nam",
+      "name_english": "Mongolian Conservative United Party",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": "",
+      "share": 5.4,
+      "share_year": 1992,
+      "wikipedia": "",
+      "description": "Consists of Monglian United Party of Cattle Breeders and Peasants (MUPCBF), Monglian Party for Independence (MPI) and Mongolian United Party of Private Owners (MUPPO), which in January 1994 merged int…",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7925,
+      "name_short": "UP",
+      "name": "Negdsen Nam",
+      "name_english": "United Party",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 1992,
+      "share": 1.3,
+      "share_year": 1992,
+      "wikipedia": "",
+      "description": "1 of 76 seats in 1992 Mongolian legislative election; Part of 'Alliance'",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7623,
+      "name_short": "MPRP",
+      "name": "Mongol Ardyn Khuvsgalt Nam",
+      "name_english": "Mongolian People's Revolutionary Party",
+      "name_other": "Mongolian: Монгол Ардын Хувьсгалт Нам",
+      "year_first": 2010,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mongolian_People%27s_Revolutionary_Party_(2010)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Mongolia — Political Parties - Free Download",
+    "description": "Political parties of Mongolia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mongolia — Political Parties | ListBase",
+    "seo_description": "Download Mongolia — Political Parties dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

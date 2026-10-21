@@ -1,0 +1,376 @@
+{
+  "id": "lk-airports-iata",
+  "name": "Sri Lanka — IATA Airports",
+  "title": "Sri Lanka — IATA Airports",
+  "description": "Airports with IATA codes in Sri Lanka: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "ACJ",
+      "icao_code": "VCCA",
+      "name": "SLAF Anuradhapura",
+      "city_name_list": "Anuradhapura",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "North Central Province",
+      "latitude": 8.30149,
+      "longitude": 80.4279,
+      "elevation": 98,
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Anuradhapura_Airport"
+    },
+    {
+      "iata_code": "ADP",
+      "icao_code": "VCCG",
+      "name": "Ampara Airport",
+      "city_name_list": "Ampara",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Eastern Province",
+      "latitude": 7.33708,
+      "longitude": 81.6259,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ampara_Airport"
+    },
+    {
+      "iata_code": "BTC",
+      "icao_code": "VCCB",
+      "name": "Batticaloa Airport",
+      "city_name_list": "Batticaloa",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Eastern Province",
+      "latitude": 7.70576,
+      "longitude": 81.67878,
+      "elevation": 6,
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Batticaloa_Airport"
+    },
+    {
+      "iata_code": "CMB",
+      "icao_code": "VCBI",
+      "name": "Bandaranaike International Airport",
+      "city_name_list": "Colombo",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Western Province",
+      "latitude": 7.180756,
+      "longitude": 79.884117,
+      "elevation": 9,
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bandaranaike_International_Airport"
+    },
+    {
+      "iata_code": "GIU",
+      "icao_code": "VCCS",
+      "name": "Sigiriya Airport",
+      "city_name_list": "Sigiriya",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Central Province",
+      "latitude": 7.95667,
+      "longitude": 80.7285,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sigiriya_Airport"
+    },
+    {
+      "iata_code": "GOY",
+      "icao_code": "VCCG",
+      "name": "Ampara Airport",
+      "city_name_list": "Ampara",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 7.337081,
+      "longitude": 81.625881,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Amparai_Airport"
+    },
+    {
+      "iata_code": "HIM",
+      "icao_code": "VCCH",
+      "name": "Hingurakgoda Minneriya Airport",
+      "city_name_list": "Minneriya=Hingurakgoda",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "North Central Province",
+      "latitude": 8.04981,
+      "longitude": 80.9814,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hingurakgoda_Airport"
+    },
+    {
+      "iata_code": "HRI",
+      "icao_code": "VCRI",
+      "name": "Hambantota International Airport",
+      "city_name_list": "Hambantota",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Southern Province",
+      "latitude": 6.28389,
+      "longitude": 81.1239,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mattala_Rajapaksa_International_Airport"
+    },
+    {
+      "iata_code": "HTT",
+      "icao_code": "",
+      "name": "Hambantota International Airport",
+      "city_name_list": "Hambantota",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 6.28389,
+      "longitude": 81.1239,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hambantota_International_Airport"
+    },
+    {
+      "iata_code": "IRU",
+      "icao_code": "",
+      "name": "Iranamadu",
+      "city_name_list": "Iranamadu",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Northern Province",
+      "latitude": 9.30653,
+      "longitude": 80.48867,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Iranamadu_Airport"
+    },
+    {
+      "iata_code": "JAF",
+      "icao_code": "VCCJ",
+      "name": "Kankesanturai Airport",
+      "city_name_list": "Jaffna",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Northern Province",
+      "latitude": 9.792331,
+      "longitude": 80.070089,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Jaffna_Airport"
+    },
+    {
+      "iata_code": "KCT",
+      "icao_code": "VCCK",
+      "name": "Koggala Airport",
+      "city_name_list": "Koggala",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Southern Province",
+      "latitude": 5.984,
+      "longitude": 80.33,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Koggala_Airport"
+    },
+    {
+      "iata_code": "KDY",
+      "icao_code": "",
+      "name": "Mahaweli",
+      "city_name_list": "Mahaweli",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 7.218,
+      "longitude": 81.6,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "KTY",
+      "icao_code": "VCCN",
+      "name": "Katukurunda Airport",
+      "city_name_list": "Kalutara",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Western Province",
+      "latitude": 6.55185,
+      "longitude": 79.97854,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Katukurunda_Airport"
+    },
+    {
+      "iata_code": "MNH",
+      "icao_code": "VCCH",
+      "name": "Hingurakgoda Air Force Base",
+      "city_name_list": "Minneriya",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 7.75,
+      "longitude": 83,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "NUA",
+      "icao_code": "",
+      "name": "Gregory Lake Seaplane Base",
+      "city_name_list": "Nuwara Eliya",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Central Province",
+      "latitude": 6.95723,
+      "longitude": 80.7796,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "RML",
+      "icao_code": "VCCC",
+      "name": "Ratmalana Airport",
+      "city_name_list": "Colombo",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Western Province",
+      "latitude": 6.821994,
+      "longitude": 79.886208,
+      "elevation": 6,
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ratmalana_Airport"
+    },
+    {
+      "iata_code": "TRR",
+      "icao_code": "VCCT",
+      "name": "Trincomalee Airport",
+      "city_name_list": "Trincomalee",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Eastern Province",
+      "latitude": 8.53851,
+      "longitude": 81.18185,
+      "elevation": 1,
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/China_Bay_Airport"
+    },
+    {
+      "iata_code": "WRZ",
+      "icao_code": "VCCW",
+      "name": "Weerawila International Airport",
+      "city_name_list": "Weerawila",
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Southern Province",
+      "latitude": 6.25449,
+      "longitude": 81.2352,
+      "elevation": "",
+      "timezone": "Asia/Colombo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Weerawila_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Sri Lanka — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Sri Lanka: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sri Lanka — IATA Airports | ListBase",
+    "seo_description": "Download Sri Lanka — IATA Airports dataset with 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

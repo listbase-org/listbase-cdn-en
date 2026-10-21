@@ -1,0 +1,874 @@
+{
+  "id": "nba-finals-results-1950-2019",
+  "name": "NBA Finals Results (1950–2019)",
+  "title": "NBA Finals Results (1950–2019)",
+  "description": "Results of the NBA Finals each year from 1950 to 2019, including the winning team, series scores, conference champions, and coaches.",
+  "category": "sports",
+  "source": "https://github.com/vincentarelbundock/Rdatasets",
+  "source_url": "https://github.com/vincentarelbundock/Rdatasets",
+  "updated": "2026-04",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "western_wins",
+      "label": "Western Wins",
+      "type": "number"
+    },
+    {
+      "key": "eastern_wins",
+      "label": "Eastern Wins",
+      "type": "number"
+    },
+    {
+      "key": "western_champions",
+      "label": "Western Champions",
+      "type": "string"
+    },
+    {
+      "key": "eastern_champions",
+      "label": "Eastern Champions",
+      "type": "string"
+    },
+    {
+      "key": "western_coach",
+      "label": "Western Coach",
+      "type": "string"
+    },
+    {
+      "key": "eastern_coach",
+      "label": "Eastern Coach",
+      "type": "string"
+    },
+    {
+      "key": "home_court",
+      "label": "Home Court",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1950",
+      "winner": "Minneapolis Lakers",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "Minneapolis Lakers",
+      "eastern_champions": "Syracuse Nationals",
+      "western_coach": "John Kundla",
+      "eastern_coach": "Al Cervi",
+      "home_court": "East"
+    },
+    {
+      "year": "1951",
+      "winner": "Rochester Royals",
+      "western_wins": "4",
+      "eastern_wins": "3",
+      "western_champions": "Rochester Royals",
+      "eastern_champions": "New York Knicks",
+      "western_coach": "Les Harrison",
+      "eastern_coach": "Joe Lapchick",
+      "home_court": "West"
+    },
+    {
+      "year": "1952",
+      "winner": "Minneapolis Lakers",
+      "western_wins": "4",
+      "eastern_wins": "3",
+      "western_champions": "Minneapolis Lakers",
+      "eastern_champions": "New York Knicks",
+      "western_coach": "John Kundla",
+      "eastern_coach": "Joe Lapchick",
+      "home_court": "West"
+    },
+    {
+      "year": "1953",
+      "winner": "Minneapolis Lakers",
+      "western_wins": "4",
+      "eastern_wins": "1",
+      "western_champions": "Minneapolis Lakers",
+      "eastern_champions": "New York Knicks",
+      "western_coach": "John Kundla",
+      "eastern_coach": "Joe Lapchick",
+      "home_court": "West"
+    },
+    {
+      "year": "1954",
+      "winner": "Minneapolis Lakers",
+      "western_wins": "4",
+      "eastern_wins": "3",
+      "western_champions": "Minneapolis Lakers",
+      "eastern_champions": "Syracuse Nationals",
+      "western_coach": "John Kundla",
+      "eastern_coach": "Al Cervi",
+      "home_court": "West"
+    },
+    {
+      "year": "1955",
+      "winner": "Syracuse Nationals",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "Fort Wayne Pistons",
+      "eastern_champions": "Syracuse Nationals",
+      "western_coach": "Charles Eckman",
+      "eastern_coach": "Al Cervi",
+      "home_court": "East"
+    },
+    {
+      "year": "1956",
+      "winner": "Philadelphia Warriors",
+      "western_wins": "1",
+      "eastern_wins": "4",
+      "western_champions": "Fort Wayne Pistons",
+      "eastern_champions": "Philadelphia Warriors",
+      "western_coach": "Charles Eckman",
+      "eastern_coach": "George Senesky",
+      "home_court": "East"
+    },
+    {
+      "year": "1957",
+      "winner": "Boston Celtics",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "St. Louis Hawks",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Alex Hannum",
+      "eastern_coach": "Red Auerbach",
+      "home_court": "East"
+    },
+    {
+      "year": "1958",
+      "winner": "St. Louis Hawks",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "St. Louis Hawks",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Alex Hannum",
+      "eastern_coach": "Red Auerbach",
+      "home_court": "East"
+    },
+    {
+      "year": "1959",
+      "winner": "Boston Celtics",
+      "western_wins": "0",
+      "eastern_wins": "4",
+      "western_champions": "Minneapolis Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "John Kundla",
+      "eastern_coach": "Red Auerbach",
+      "home_court": "East"
+    },
+    {
+      "year": "1960",
+      "winner": "Boston Celtics",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "St. Louis Hawks",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Ed Macauley",
+      "eastern_coach": "Red Auerbach",
+      "home_court": "East"
+    },
+    {
+      "year": "1961",
+      "winner": "Boston Celtics",
+      "western_wins": "1",
+      "eastern_wins": "4",
+      "western_champions": "St. Louis Hawks",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Paul Seymour",
+      "eastern_coach": "Red Auerbach",
+      "home_court": "East"
+    },
+    {
+      "year": "1962",
+      "winner": "Boston Celtics",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Fred Schaus",
+      "eastern_coach": "Red Auerbach",
+      "home_court": "East"
+    },
+    {
+      "year": "1963",
+      "winner": "Boston Celtics",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Fred Schaus",
+      "eastern_coach": "Red Auerbach",
+      "home_court": "East"
+    },
+    {
+      "year": "1964",
+      "winner": "Boston Celtics",
+      "western_wins": "1",
+      "eastern_wins": "4",
+      "western_champions": "San Francisco Warriors",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Alex Hannum",
+      "eastern_coach": "Red Auerbach",
+      "home_court": "East"
+    },
+    {
+      "year": "1965",
+      "winner": "Boston Celtics",
+      "western_wins": "1",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Fred Schaus",
+      "eastern_coach": "Red Auerbach",
+      "home_court": "East"
+    },
+    {
+      "year": "1966",
+      "winner": "Boston Celtics",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Fred Schaus",
+      "eastern_coach": "Red Auerbach",
+      "home_court": "East"
+    },
+    {
+      "year": "1967",
+      "winner": "Philadelphia 76ers",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "San Francisco Warriors",
+      "eastern_champions": "Philadelphia 76ers",
+      "western_coach": "Bill Sharman",
+      "eastern_coach": "Alex Hannum",
+      "home_court": "East"
+    },
+    {
+      "year": "1968",
+      "winner": "Boston Celtics",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Butch van Breda Kolff",
+      "eastern_coach": "Bill Russel",
+      "home_court": "East"
+    },
+    {
+      "year": "1969",
+      "winner": "Boston Celtics",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Butch van Breda Kolff",
+      "eastern_coach": "Bill Russel",
+      "home_court": "West"
+    },
+    {
+      "year": "1970",
+      "winner": "New York Knicks",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "New York Knicks",
+      "western_coach": "Joe Mullaney",
+      "eastern_coach": "Red Holzman",
+      "home_court": "East"
+    },
+    {
+      "year": "1971",
+      "winner": "Milwaukee Bucks",
+      "western_wins": "4",
+      "eastern_wins": "0",
+      "western_champions": "Milwaukee Bucks",
+      "eastern_champions": "Baltimore Bullets",
+      "western_coach": "Larry Costello",
+      "eastern_coach": "Gene Shue",
+      "home_court": "West"
+    },
+    {
+      "year": "1972",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "1",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "New York Knicks",
+      "western_coach": "Bill Sharman",
+      "eastern_coach": "Red Holzman",
+      "home_court": "West"
+    },
+    {
+      "year": "1973",
+      "winner": "New York Knicks",
+      "western_wins": "1",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "New York Knicks",
+      "western_coach": "Bill Sharman",
+      "eastern_coach": "Red Holzman",
+      "home_court": "West"
+    },
+    {
+      "year": "1974",
+      "winner": "Boston Celtics",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "Milwaukee Bucks",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Larry Costello",
+      "eastern_coach": "Tom Heinsohn",
+      "home_court": "West"
+    },
+    {
+      "year": "1975",
+      "winner": "Golden State Warriors",
+      "western_wins": "4",
+      "eastern_wins": "0",
+      "western_champions": "Golden State Warriors",
+      "eastern_champions": "Washington Bullets",
+      "western_coach": "Al Attles",
+      "eastern_coach": "K. C. Jones",
+      "home_court": "East"
+    },
+    {
+      "year": "1976",
+      "winner": "Boston Celtics",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Phoenix Suns",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "John MacLeod",
+      "eastern_coach": "Tom Heinsohn",
+      "home_court": "East"
+    },
+    {
+      "year": "1977",
+      "winner": "Portland Trail Blazers",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "Portland Trail Blazers",
+      "eastern_champions": "Philadelphia 76ers",
+      "western_coach": "Jack Ramsay",
+      "eastern_coach": "Gene Shue",
+      "home_court": "East"
+    },
+    {
+      "year": "1978",
+      "winner": "Washington Bullets",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "Seattle SuperSonics",
+      "eastern_champions": "Washington Bullets",
+      "western_coach": "Lenny Wilkens",
+      "eastern_coach": "Dick Motta",
+      "home_court": "West"
+    },
+    {
+      "year": "1979",
+      "winner": "Seattle SuperSonics",
+      "western_wins": "4",
+      "eastern_wins": "1",
+      "western_champions": "Seattle SuperSonics",
+      "eastern_champions": "Washington Bullets",
+      "western_coach": "Lenny Wilkens",
+      "eastern_coach": "Dick Motta",
+      "home_court": "East"
+    },
+    {
+      "year": "1980",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Philadelphia 76ers",
+      "western_coach": "Paul Westhead",
+      "eastern_coach": "Billy Cunningham",
+      "home_court": "West"
+    },
+    {
+      "year": "1981",
+      "winner": "Boston Celtics",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Houston Rockets",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Del Harris",
+      "eastern_coach": "Bill Fitch",
+      "home_court": "East"
+    },
+    {
+      "year": "1982",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Philadelphia 76ers",
+      "western_coach": "Pat Riley",
+      "eastern_coach": "Billy Cunningham",
+      "home_court": "East"
+    },
+    {
+      "year": "1983",
+      "winner": "Philadelphia 76ers",
+      "western_wins": "0",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Philadelphia 76ers",
+      "western_coach": "Pat Riley",
+      "eastern_coach": "Billy Cunningham",
+      "home_court": "East"
+    },
+    {
+      "year": "1984",
+      "winner": "Boston Celtics",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Pat Riley",
+      "eastern_coach": "K. C. Jones",
+      "home_court": "East"
+    },
+    {
+      "year": "1985",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Pat Riley",
+      "eastern_coach": "K. C. Jones",
+      "home_court": "East"
+    },
+    {
+      "year": "1986",
+      "winner": "Boston Celtics",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Houston Rockets",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Bill Firch",
+      "eastern_coach": "K. C. Jones",
+      "home_court": "East"
+    },
+    {
+      "year": "1987",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Pat Riley",
+      "eastern_coach": "K. C. Jones",
+      "home_court": "West"
+    },
+    {
+      "year": "1988",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "3",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Detroit Pistons",
+      "western_coach": "Pat Riley",
+      "eastern_coach": "Chuck Daly",
+      "home_court": "West"
+    },
+    {
+      "year": "1989",
+      "winner": "Detroit Pistons",
+      "western_wins": "0",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Detroit Pistons",
+      "western_coach": "Pat Riley",
+      "eastern_coach": "Chuck Daly",
+      "home_court": "East"
+    },
+    {
+      "year": "1990",
+      "winner": "Detroit Pistons",
+      "western_wins": "1",
+      "eastern_wins": "4",
+      "western_champions": "Portland Trail Blazers",
+      "eastern_champions": "Detroit Pistons",
+      "western_coach": "Rick Adelman",
+      "eastern_coach": "Chuck Daly",
+      "home_court": "East"
+    },
+    {
+      "year": "1991",
+      "winner": "Chicago Bulls",
+      "western_wins": "1",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Chicago Bulls",
+      "western_coach": "Mike Dunleavy",
+      "eastern_coach": "Phil Jackon",
+      "home_court": "East"
+    },
+    {
+      "year": "1992",
+      "winner": "Chicago Bulls",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Portland Trail Blazers",
+      "eastern_champions": "Chicago Bulls",
+      "western_coach": "Rick Adelman",
+      "eastern_coach": "Phil Jackon",
+      "home_court": "East"
+    },
+    {
+      "year": "1993",
+      "winner": "Chicago Bulls",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Phoenix Suns",
+      "eastern_champions": "Chicago Bulls",
+      "western_coach": "Paul Westphal",
+      "eastern_coach": "Phil Jackon",
+      "home_court": "West"
+    },
+    {
+      "year": "1994",
+      "winner": "Houston Rockets",
+      "western_wins": "4",
+      "eastern_wins": "3",
+      "western_champions": "Houston Rockets",
+      "eastern_champions": "New York Knicks",
+      "western_coach": "Rudy Tomjanovich",
+      "eastern_coach": "Pat Riley",
+      "home_court": "West"
+    },
+    {
+      "year": "1995",
+      "winner": "Houston Rockets",
+      "western_wins": "4",
+      "eastern_wins": "0",
+      "western_champions": "Houston Rockets",
+      "eastern_champions": "Orlando Magic",
+      "western_coach": "Rudy Tomjanovich",
+      "eastern_coach": "Brian Hill",
+      "home_court": "East"
+    },
+    {
+      "year": "1996",
+      "winner": "Chicago Bulls",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Seattle SuperSonics",
+      "eastern_champions": "Chicago Bulls",
+      "western_coach": "George Karl",
+      "eastern_coach": "Phil Jackon",
+      "home_court": "East"
+    },
+    {
+      "year": "1997",
+      "winner": "Chicago Bulls",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Utah Jazz",
+      "eastern_champions": "Chicago Bulls",
+      "western_coach": "Jerry Sloan",
+      "eastern_coach": "Phil Jackon",
+      "home_court": "East"
+    },
+    {
+      "year": "1998",
+      "winner": "Chicago Bulls",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Utah Jazz",
+      "eastern_champions": "Chicago Bulls",
+      "western_coach": "Jerry Sloan",
+      "eastern_coach": "Phil Jackon",
+      "home_court": "West"
+    },
+    {
+      "year": "1999",
+      "winner": "San Antonio Spurs",
+      "western_wins": "4",
+      "eastern_wins": "1",
+      "western_champions": "San Antonio Spurs",
+      "eastern_champions": "New York Knicks",
+      "western_coach": "Gregg Popovich",
+      "eastern_coach": "Jeff Van Gundy",
+      "home_court": "West"
+    },
+    {
+      "year": "2000",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Indiana Pacers",
+      "western_coach": "Phil Jackson",
+      "eastern_coach": "Larry Bird",
+      "home_court": "West"
+    },
+    {
+      "year": "2001",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "1",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Philadelphia 76ers",
+      "western_coach": "Phil Jackson",
+      "eastern_coach": "Larry Brown",
+      "home_court": "West"
+    },
+    {
+      "year": "2002",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "0",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "New Jersey Nets",
+      "western_coach": "Phil Jackson",
+      "eastern_coach": "Byron Scott",
+      "home_court": "West"
+    },
+    {
+      "year": "2003",
+      "winner": "San Antonio Spurs",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "San Antonio Spurs",
+      "eastern_champions": "New Jersey Nets",
+      "western_coach": "Gregg Popovich",
+      "eastern_coach": "Byron Scott",
+      "home_court": "West"
+    },
+    {
+      "year": "2004",
+      "winner": "Detroit Pistons",
+      "western_wins": "1",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Detroit Pistons",
+      "western_coach": "Phil Jackson",
+      "eastern_coach": "Larry Brown",
+      "home_court": "West"
+    },
+    {
+      "year": "2005",
+      "winner": "San Antonio Spurs",
+      "western_wins": "4",
+      "eastern_wins": "3",
+      "western_champions": "San Antonio Spurs",
+      "eastern_champions": "Detroit Pistons",
+      "western_coach": "Gregg Popovich",
+      "eastern_coach": "Larry Brown",
+      "home_court": "West"
+    },
+    {
+      "year": "2006",
+      "winner": "Miami Heat",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Dallas Mavericks",
+      "eastern_champions": "Miami Heat",
+      "western_coach": "Avery Johnson",
+      "eastern_coach": "Pat Riley",
+      "home_court": "West"
+    },
+    {
+      "year": "2007",
+      "winner": "San Antonio Spurs",
+      "western_wins": "4",
+      "eastern_wins": "0",
+      "western_champions": "San Antonio Spurs",
+      "eastern_champions": "Cleveland Cavaliers",
+      "western_coach": "Gregg Popovich",
+      "eastern_coach": "Mike Brown",
+      "home_court": "West"
+    },
+    {
+      "year": "2008",
+      "winner": "Boston Celtics",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Phil Jackson",
+      "eastern_coach": "Doc Rivers",
+      "home_court": "East"
+    },
+    {
+      "year": "2009",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "1",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Orlando Magic",
+      "western_coach": "Phil Jackson",
+      "eastern_coach": "Stan Van Gundy",
+      "home_court": "West"
+    },
+    {
+      "year": "2010",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "3",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Phil Jackson",
+      "eastern_coach": "Doc Rivers",
+      "home_court": "West"
+    },
+    {
+      "year": "2011",
+      "winner": "Dallas Mavericks",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "Dallas Mavericks",
+      "eastern_champions": "Miami Heat",
+      "western_coach": "Rick Carlisle",
+      "eastern_coach": "Erik Spoelstra",
+      "home_court": "East"
+    },
+    {
+      "year": "2012",
+      "winner": "Miami Heat",
+      "western_wins": "1",
+      "eastern_wins": "4",
+      "western_champions": "Oklahoma City Thunder",
+      "eastern_champions": "Miami Heat",
+      "western_coach": "Scott Brooks",
+      "eastern_coach": "Erik Spoelstra",
+      "home_court": "West"
+    },
+    {
+      "year": "2013",
+      "winner": "Miami Heat",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "San Antonio Spurs",
+      "eastern_champions": "Miami Heat",
+      "western_coach": "Gregg Popovich",
+      "eastern_coach": "Erik Spoelstra",
+      "home_court": "East"
+    },
+    {
+      "year": "2014",
+      "winner": "San Antonio Spurs",
+      "western_wins": "4",
+      "eastern_wins": "1",
+      "western_champions": "San Antonio Spurs",
+      "eastern_champions": "Miami Heat",
+      "western_coach": "Gregg Popovich",
+      "eastern_coach": "Erik Spoelstra",
+      "home_court": "West"
+    },
+    {
+      "year": "2015",
+      "winner": "Golden State Warriors",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "Golden State Warriors",
+      "eastern_champions": "Cleveland Cavaliers",
+      "western_coach": "Steve Kerr",
+      "eastern_coach": "David Blatt",
+      "home_court": "West"
+    },
+    {
+      "year": "2016",
+      "winner": "Cleveland Cavaliers",
+      "western_wins": "3",
+      "eastern_wins": "4",
+      "western_champions": "Golden State Warriors",
+      "eastern_champions": "Cleveland Cavaliers",
+      "western_coach": "Steve Kerr",
+      "eastern_coach": "Tyronn Lue",
+      "home_court": "West"
+    },
+    {
+      "year": "2017",
+      "winner": "Golden State Warriors",
+      "western_wins": "4",
+      "eastern_wins": "1",
+      "western_champions": "Golden State Warriors",
+      "eastern_champions": "Cleveland Cavaliers",
+      "western_coach": "Steve Kerr",
+      "eastern_coach": "Tyronn Lue",
+      "home_court": "West"
+    },
+    {
+      "year": "2018",
+      "winner": "Golden State Warriors",
+      "western_wins": "4",
+      "eastern_wins": "0",
+      "western_champions": "Golden State Warriors",
+      "eastern_champions": "Cleveland Cavaliers",
+      "western_coach": "Steve Kerr",
+      "eastern_coach": "Tyronn Lue",
+      "home_court": "West"
+    },
+    {
+      "year": "2019",
+      "winner": "Toronto Raptors",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Golden State Warriors",
+      "eastern_champions": "Toronto Raptors",
+      "western_coach": "Steve Kerr",
+      "eastern_coach": "Nick Nurse",
+      "home_court": "East"
+    },
+    {
+      "year": "2020",
+      "winner": "Los Angeles Lakers",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "Los Angeles Lakers",
+      "eastern_champions": "Miami Heat",
+      "western_coach": "Frank Vogel",
+      "eastern_coach": "Erik Spoelstra",
+      "home_court": "West"
+    },
+    {
+      "year": "2021",
+      "winner": "Milwaukee Bucks",
+      "western_wins": "2",
+      "eastern_wins": "4",
+      "western_champions": "Phoenix Suns",
+      "eastern_champions": "Milwaukee Bucks",
+      "western_coach": "Monty Williams",
+      "eastern_coach": "Mike Budenholzer",
+      "home_court": "West"
+    },
+    {
+      "year": "2022",
+      "winner": "Golden State Warriors",
+      "western_wins": "4",
+      "eastern_wins": "2",
+      "western_champions": "Golden State Warriors",
+      "eastern_champions": "Boston Celtics",
+      "western_coach": "Steve Kerr",
+      "eastern_coach": "Ime Udoka",
+      "home_court": "West"
+    }
+  ],
+  "meta": {
+    "title": "NBA Finals Results (1950–2019) - Free Download",
+    "description": "Results of the NBA Finals each year from 1950 to 2019, including the winning team, series scores, conference champions, and coaches. Contains 73 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "NBA Finals Results (1950–2019) | ListBase",
+    "seo_description": "Download NBA Finals Results (1950–2019) — 73 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 73 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/vincentarelbundock/Rdatasets"
+    ]
+  }
+}

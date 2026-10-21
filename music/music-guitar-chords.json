@@ -1,0 +1,942 @@
+{
+  "id": "music-guitar-chords",
+  "name": "Comprehensive Guitar Chord Chart Dataset",
+  "category": "music",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chord",
+      "label": "Chord Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Chord Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Chord Type",
+      "type": "string"
+    },
+    {
+      "key": "fingering",
+      "label": "Fingering (E-A-D-G-B-e)",
+      "type": "string"
+    },
+    {
+      "key": "fret_position",
+      "label": "Fret Position",
+      "type": "string"
+    },
+    {
+      "key": "fingers",
+      "label": "Finger Placement",
+      "type": "string"
+    },
+    {
+      "key": "difficulty",
+      "label": "Difficulty",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "intervals",
+      "label": "Intervals",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chord": "C",
+      "name": "C Major",
+      "type": "Major",
+      "fingering": "x32010",
+      "fret_position": "Open",
+      "fingers": "0-3-2-0-1-0",
+      "difficulty": "Beginner",
+      "notes": "C-E-G",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "D",
+      "name": "D Major",
+      "type": "Major",
+      "fingering": "xx0232",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-2",
+      "difficulty": "Beginner",
+      "notes": "D-F#-A",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "E",
+      "name": "E Major",
+      "type": "Major",
+      "fingering": "022100",
+      "fret_position": "Open",
+      "fingers": "0-2-2-1-0-0",
+      "difficulty": "Beginner",
+      "notes": "E-G#-B",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "F",
+      "name": "F Major",
+      "type": "Major",
+      "fingering": "133211",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-3-2-1-1",
+      "difficulty": "Intermediate",
+      "notes": "F-A-C",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "G",
+      "name": "G Major",
+      "type": "Major",
+      "fingering": "320003",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-3",
+      "difficulty": "Beginner",
+      "notes": "G-B-D",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "A",
+      "name": "A Major",
+      "type": "Major",
+      "fingering": "x02220",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-2-0",
+      "difficulty": "Beginner",
+      "notes": "A-C#-E",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "B",
+      "name": "B Major",
+      "type": "Major",
+      "fingering": "x24442",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-3-3-1",
+      "difficulty": "Intermediate",
+      "notes": "B-D#-F#",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "Cm",
+      "name": "C Minor",
+      "type": "Minor",
+      "fingering": "x35543",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "x-1-3-4-2-1",
+      "difficulty": "Intermediate",
+      "notes": "C-Eb-G",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Dm",
+      "name": "D Minor",
+      "type": "Minor",
+      "fingering": "xx0231",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-1",
+      "difficulty": "Beginner",
+      "notes": "D-F-A",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Em",
+      "name": "E Minor",
+      "type": "Minor",
+      "fingering": "022000",
+      "fret_position": "Open",
+      "fingers": "0-2-2-0-0-0",
+      "difficulty": "Beginner",
+      "notes": "E-G-B",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Fm",
+      "name": "F Minor",
+      "type": "Minor",
+      "fingering": "133111",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-3-1-1-1",
+      "difficulty": "Intermediate",
+      "notes": "F-Ab-C",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Gm",
+      "name": "G Minor",
+      "type": "Minor",
+      "fingering": "355333",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "1-3-4-1-1-1",
+      "difficulty": "Intermediate",
+      "notes": "G-Bb-D",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Am",
+      "name": "A Minor",
+      "type": "Minor",
+      "fingering": "x02210",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-1-0",
+      "difficulty": "Beginner",
+      "notes": "A-C-E",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Bm",
+      "name": "B Minor",
+      "type": "Minor",
+      "fingering": "x24432",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-4-2-1",
+      "difficulty": "Intermediate",
+      "notes": "B-D-F#",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "C7",
+      "name": "C Dominant 7th",
+      "type": "Dominant 7th",
+      "fingering": "x32310",
+      "fret_position": "Open",
+      "fingers": "x-3-2-3-1-0",
+      "difficulty": "Beginner",
+      "notes": "C-E-G-Bb",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "D7",
+      "name": "D Dominant 7th",
+      "type": "Dominant 7th",
+      "fingering": "xx0212",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-1-2",
+      "difficulty": "Beginner",
+      "notes": "D-F#-A-C",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "E7",
+      "name": "E Dominant 7th",
+      "type": "Dominant 7th",
+      "fingering": "020100",
+      "fret_position": "Open",
+      "fingers": "0-2-0-1-0-0",
+      "difficulty": "Beginner",
+      "notes": "E-G#-B-D",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "F7",
+      "name": "F Dominant 7th",
+      "type": "Dominant 7th",
+      "fingering": "131211",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-1-2-1-1",
+      "difficulty": "Intermediate",
+      "notes": "F-A-C-Eb",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "G7",
+      "name": "G Dominant 7th",
+      "type": "Dominant 7th",
+      "fingering": "320001",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-1",
+      "difficulty": "Beginner",
+      "notes": "G-B-D-F",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "A7",
+      "name": "A Dominant 7th",
+      "type": "Dominant 7th",
+      "fingering": "x02020",
+      "fret_position": "Open",
+      "fingers": "x-0-2-0-2-0",
+      "difficulty": "Beginner",
+      "notes": "A-C#-E-G",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "B7",
+      "name": "B Dominant 7th",
+      "type": "Dominant 7th",
+      "fingering": "x21202",
+      "fret_position": "Open",
+      "fingers": "x-2-1-2-0-2",
+      "difficulty": "Beginner",
+      "notes": "B-D#-F#-A",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "Cmaj7",
+      "name": "C Major 7th",
+      "type": "Major 7th",
+      "fingering": "x32000",
+      "fret_position": "Open",
+      "fingers": "x-3-2-0-0-0",
+      "difficulty": "Beginner",
+      "notes": "C-E-G-B",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Dmaj7",
+      "name": "D Major 7th",
+      "type": "Major 7th",
+      "fingering": "xx0222",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-2-2",
+      "difficulty": "Beginner",
+      "notes": "D-F#-A-C#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Emaj7",
+      "name": "E Major 7th",
+      "type": "Major 7th",
+      "fingering": "021100",
+      "fret_position": "Open",
+      "fingers": "0-2-1-1-0-0",
+      "difficulty": "Beginner",
+      "notes": "E-G#-B-D#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Fmaj7",
+      "name": "F Major 7th",
+      "type": "Major 7th",
+      "fingering": "1x2210",
+      "fret_position": "Open",
+      "fingers": "1-x-2-2-1-0",
+      "difficulty": "Beginner",
+      "notes": "F-A-C-E",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Gmaj7",
+      "name": "G Major 7th",
+      "type": "Major 7th",
+      "fingering": "320002",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-2",
+      "difficulty": "Beginner",
+      "notes": "G-B-D-F#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Amaj7",
+      "name": "A Major 7th",
+      "type": "Major 7th",
+      "fingering": "x02120",
+      "fret_position": "Open",
+      "fingers": "x-0-2-1-2-0",
+      "difficulty": "Beginner",
+      "notes": "A-C#-E-G#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Bmaj7",
+      "name": "B Major 7th",
+      "type": "Major 7th",
+      "fingering": "x24342",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-3-2-4-1",
+      "difficulty": "Intermediate",
+      "notes": "B-D#-F#-A#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Cm7",
+      "name": "C Minor 7th",
+      "type": "Minor 7th",
+      "fingering": "x35343",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "x-1-3-1-2-1",
+      "difficulty": "Intermediate",
+      "notes": "C-Eb-G-Bb",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Dm7",
+      "name": "D Minor 7th",
+      "type": "Minor 7th",
+      "fingering": "xx0211",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-1-1",
+      "difficulty": "Beginner",
+      "notes": "D-F-A-C",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Em7",
+      "name": "E Minor 7th",
+      "type": "Minor 7th",
+      "fingering": "020000",
+      "fret_position": "Open",
+      "fingers": "0-2-0-0-0-0",
+      "difficulty": "Beginner",
+      "notes": "E-G-B-D",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Fm7",
+      "name": "F Minor 7th",
+      "type": "Minor 7th",
+      "fingering": "131111",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-1-1-1-1",
+      "difficulty": "Intermediate",
+      "notes": "F-Ab-C-Eb",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Gm7",
+      "name": "G Minor 7th",
+      "type": "Minor 7th",
+      "fingering": "353333",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "1-3-1-1-1-1",
+      "difficulty": "Intermediate",
+      "notes": "G-Bb-D-F",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Am7",
+      "name": "A Minor 7th",
+      "type": "Minor 7th",
+      "fingering": "x02010",
+      "fret_position": "Open",
+      "fingers": "x-0-2-0-1-0",
+      "difficulty": "Beginner",
+      "notes": "A-C-E-G",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Bm7",
+      "name": "B Minor 7th",
+      "type": "Minor 7th",
+      "fingering": "x24232",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-1-2-1",
+      "difficulty": "Intermediate",
+      "notes": "B-D-F#-A",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Csus2",
+      "name": "C Suspended 2nd",
+      "type": "Suspended",
+      "fingering": "x30010",
+      "fret_position": "Open",
+      "fingers": "x-3-0-0-1-0",
+      "difficulty": "Beginner",
+      "notes": "C-D-G",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Csus4",
+      "name": "C Suspended 4th",
+      "type": "Suspended",
+      "fingering": "x33011",
+      "fret_position": "Open",
+      "fingers": "x-3-3-0-1-1",
+      "difficulty": "Beginner",
+      "notes": "C-F-G",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Dsus2",
+      "name": "D Suspended 2nd",
+      "type": "Suspended",
+      "fingering": "xx0230",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-0",
+      "difficulty": "Beginner",
+      "notes": "D-E-A",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Dsus4",
+      "name": "D Suspended 4th",
+      "type": "Suspended",
+      "fingering": "xx0233",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-3",
+      "difficulty": "Beginner",
+      "notes": "D-G-A",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Esus4",
+      "name": "E Suspended 4th",
+      "type": "Suspended",
+      "fingering": "022200",
+      "fret_position": "Open",
+      "fingers": "0-2-2-2-0-0",
+      "difficulty": "Beginner",
+      "notes": "E-A-B",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Asus2",
+      "name": "A Suspended 2nd",
+      "type": "Suspended",
+      "fingering": "x02200",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-0-0",
+      "difficulty": "Beginner",
+      "notes": "A-B-E",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Asus4",
+      "name": "A Suspended 4th",
+      "type": "Suspended",
+      "fingering": "x02230",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-3-0",
+      "difficulty": "Beginner",
+      "notes": "A-D-E",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Cdim",
+      "name": "C Diminished",
+      "type": "Diminished",
+      "fingering": "x3424x",
+      "fret_position": "3rd Fret",
+      "fingers": "x-2-4-2-4-x",
+      "difficulty": "Intermediate",
+      "notes": "C-Eb-Gb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Ddim",
+      "name": "D Diminished",
+      "type": "Diminished",
+      "fingering": "xx0131",
+      "fret_position": "Open",
+      "fingers": "x-x-0-1-3-1",
+      "difficulty": "Intermediate",
+      "notes": "D-F-Ab",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Edim",
+      "name": "E Diminished",
+      "type": "Diminished",
+      "fingering": "012020",
+      "fret_position": "Open",
+      "fingers": "0-1-2-0-2-0",
+      "difficulty": "Intermediate",
+      "notes": "E-G-Bb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Fdim",
+      "name": "F Diminished",
+      "type": "Diminished",
+      "fingering": "1x0101",
+      "fret_position": "1st Fret",
+      "fingers": "1-x-0-1-0-1",
+      "difficulty": "Intermediate",
+      "notes": "F-Ab-Cb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Gdim",
+      "name": "G Diminished",
+      "type": "Diminished",
+      "fingering": "3x2323",
+      "fret_position": "3rd Fret",
+      "fingers": "2-x-1-2-1-2",
+      "difficulty": "Intermediate",
+      "notes": "G-Bb-Db",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Adim",
+      "name": "A Diminished",
+      "type": "Diminished",
+      "fingering": "x0121x",
+      "fret_position": "Open",
+      "fingers": "x-0-1-2-1-x",
+      "difficulty": "Intermediate",
+      "notes": "A-C-Eb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Bdim",
+      "name": "B Diminished",
+      "type": "Diminished",
+      "fingering": "x2343x",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-2-3-2-x",
+      "difficulty": "Intermediate",
+      "notes": "B-D-F",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Caug",
+      "name": "C Augmented",
+      "type": "Augmented",
+      "fingering": "x32110",
+      "fret_position": "Open",
+      "fingers": "x-3-2-1-1-0",
+      "difficulty": "Intermediate",
+      "notes": "C-E-G#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Daug",
+      "name": "D Augmented",
+      "type": "Augmented",
+      "fingering": "xx0332",
+      "fret_position": "Open",
+      "fingers": "x-x-0-3-3-2",
+      "difficulty": "Intermediate",
+      "notes": "D-F#-A#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Eaug",
+      "name": "E Augmented",
+      "type": "Augmented",
+      "fingering": "032110",
+      "fret_position": "Open",
+      "fingers": "0-3-2-1-1-0",
+      "difficulty": "Intermediate",
+      "notes": "E-G#-B#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Faug",
+      "name": "F Augmented",
+      "type": "Augmented",
+      "fingering": "1x322x",
+      "fret_position": "1st Fret",
+      "fingers": "1-x-3-2-2-x",
+      "difficulty": "Intermediate",
+      "notes": "F-A-C#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Gaug",
+      "name": "G Augmented",
+      "type": "Augmented",
+      "fingering": "321003",
+      "fret_position": "Open",
+      "fingers": "3-2-1-0-0-3",
+      "difficulty": "Intermediate",
+      "notes": "G-B-D#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Aaug",
+      "name": "A Augmented",
+      "type": "Augmented",
+      "fingering": "x03221",
+      "fret_position": "Open",
+      "fingers": "x-0-3-2-2-1",
+      "difficulty": "Intermediate",
+      "notes": "A-C#-E#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Baug",
+      "name": "B Augmented",
+      "type": "Augmented",
+      "fingering": "x21003",
+      "fret_position": "Open",
+      "fingers": "x-2-1-0-0-3",
+      "difficulty": "Intermediate",
+      "notes": "B-D#-Fx",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "C5",
+      "name": "C Power Chord",
+      "type": "Power Chord",
+      "fingering": "x355xx",
+      "fret_position": "3rd Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "Beginner",
+      "notes": "C-G",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "D5",
+      "name": "D Power Chord",
+      "type": "Power Chord",
+      "fingering": "x577xx",
+      "fret_position": "5th Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "Beginner",
+      "notes": "D-A",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "E5",
+      "name": "E Power Chord",
+      "type": "Power Chord",
+      "fingering": "022xxx",
+      "fret_position": "Open",
+      "fingers": "0-2-2-x-x-x",
+      "difficulty": "Beginner",
+      "notes": "E-B",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "F5",
+      "name": "F Power Chord",
+      "type": "Power Chord",
+      "fingering": "133xxx",
+      "fret_position": "1st Fret",
+      "fingers": "1-3-3-x-x-x",
+      "difficulty": "Beginner",
+      "notes": "F-C",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "G5",
+      "name": "G Power Chord",
+      "type": "Power Chord",
+      "fingering": "355xxx",
+      "fret_position": "3rd Fret",
+      "fingers": "1-3-4-x-x-x",
+      "difficulty": "Beginner",
+      "notes": "G-D",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "A5",
+      "name": "A Power Chord",
+      "type": "Power Chord",
+      "fingering": "x022xx",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-x-x",
+      "difficulty": "Beginner",
+      "notes": "A-E",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "B5",
+      "name": "B Power Chord",
+      "type": "Power Chord",
+      "fingering": "x244xx",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "Beginner",
+      "notes": "B-F#",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "Cadd9",
+      "name": "C Add 9",
+      "type": "Add9",
+      "fingering": "x32030",
+      "fret_position": "Open",
+      "fingers": "x-3-2-0-3-0",
+      "difficulty": "Beginner",
+      "notes": "C-E-G-D",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Dadd9",
+      "name": "D Add 9",
+      "type": "Add9",
+      "fingering": "x54030",
+      "fret_position": "4th Fret",
+      "fingers": "x-4-3-0-2-0",
+      "difficulty": "Intermediate",
+      "notes": "D-F#-A-E",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Eadd9",
+      "name": "E Add 9",
+      "type": "Add9",
+      "fingering": "024100",
+      "fret_position": "Open",
+      "fingers": "0-2-4-1-0-0",
+      "difficulty": "Intermediate",
+      "notes": "E-G#-B-F#",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Gadd9",
+      "name": "G Add 9",
+      "type": "Add9",
+      "fingering": "320203",
+      "fret_position": "Open",
+      "fingers": "3-2-0-2-0-3",
+      "difficulty": "Beginner",
+      "notes": "G-B-D-A",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Aadd9",
+      "name": "A Add 9",
+      "type": "Add9",
+      "fingering": "x02420",
+      "fret_position": "Open",
+      "fingers": "x-0-2-4-2-0",
+      "difficulty": "Intermediate",
+      "notes": "A-C#-E-B",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "C6",
+      "name": "C Major 6th",
+      "type": "Major 6th",
+      "fingering": "x32210",
+      "fret_position": "Open",
+      "fingers": "x-3-2-2-1-0",
+      "difficulty": "Beginner",
+      "notes": "C-E-G-A",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "D6",
+      "name": "D Major 6th",
+      "type": "Major 6th",
+      "fingering": "xx0202",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-0-2",
+      "difficulty": "Beginner",
+      "notes": "D-F#-A-B",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "E6",
+      "name": "E Major 6th",
+      "type": "Major 6th",
+      "fingering": "022120",
+      "fret_position": "Open",
+      "fingers": "0-2-2-1-2-0",
+      "difficulty": "Beginner",
+      "notes": "E-G#-B-C#",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "G6",
+      "name": "G Major 6th",
+      "type": "Major 6th",
+      "fingering": "320000",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-0",
+      "difficulty": "Beginner",
+      "notes": "G-B-D-E",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "A6",
+      "name": "A Major 6th",
+      "type": "Major 6th",
+      "fingering": "x02222",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-2-2",
+      "difficulty": "Beginner",
+      "notes": "A-C#-E-F#",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "C9",
+      "name": "C Dominant 9th",
+      "type": "Dominant 9th",
+      "fingering": "x32330",
+      "fret_position": "Open",
+      "fingers": "x-2-1-2-3-0",
+      "difficulty": "Intermediate",
+      "notes": "C-E-G-Bb-D",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "D9",
+      "name": "D Dominant 9th",
+      "type": "Dominant 9th",
+      "fingering": "x54530",
+      "fret_position": "4th Fret",
+      "fingers": "x-2-1-2-1-0",
+      "difficulty": "Intermediate",
+      "notes": "D-F#-A-C-E",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "E9",
+      "name": "E Dominant 9th",
+      "type": "Dominant 9th",
+      "fingering": "020102",
+      "fret_position": "Open",
+      "fingers": "0-2-0-1-0-2",
+      "difficulty": "Intermediate",
+      "notes": "E-G#-B-D-F#",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "G9",
+      "name": "G Dominant 9th",
+      "type": "Dominant 9th",
+      "fingering": "320201",
+      "fret_position": "Open",
+      "fingers": "3-2-0-2-0-1",
+      "difficulty": "Intermediate",
+      "notes": "G-B-D-F-A",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "A9",
+      "name": "A Dominant 9th",
+      "type": "Dominant 9th",
+      "fingering": "x02423",
+      "fret_position": "Open",
+      "fingers": "x-0-2-4-2-3",
+      "difficulty": "Intermediate",
+      "notes": "A-C#-E-G-B",
+      "intervals": "1-3-5-b7-9"
+    }
+  ],
+  "meta": {
+    "seo_title": "Guitar Chord Chart Data - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download 78 guitar chord charts for free! Includes fingering, notes, and difficulty. Available in Excel, CSV, and PDF formats for learners and developers.",
+    "title": "Comprehensive Guitar Chord Chart Dataset",
+    "description": "This dataset provides 78 common guitar chords, including their symbols, full names, fingering patterns, fret positions, difficulty levels, and constituent notes and intervals. Ideal for guitarists, music educators, and developers building music applications.",
+    "key_takeaways": [
+      "Access 78 essential guitar chord data points for various playing styles.",
+      "Explore detailed fingering, fret positions, and notes for each chord.",
+      "Download a versatile resource to enhance your guitar learning or app development.",
+      "Leverage chord difficulty ratings to structure progressive learning paths."
+    ],
+    "keywords": [
+      "guitar chord chart excel",
+      "free guitar chords csv",
+      "guitar fingering dataset",
+      "chord notes intervals pdf",
+      "beginner guitar chords data",
+      "music theory dataset"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or Python script to build a guitar chord lookup application or API.",
+      "Use the **Excel** file to filter chords by difficulty, create custom practice sheets, or analyze chord relationships.",
+      "Print the **PDF** version for a handy, offline reference guide in your practice space or for classroom teaching.",
+      "Integrate this data into educational software or interactive websites to help users learn guitar chords effectively."
+    ]
+  },
+  "record_count": 78,
+  "title": "Comprehensive Guitar Chord Chart Dataset"
+}

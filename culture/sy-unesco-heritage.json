@@ -1,0 +1,170 @@
+{
+  "id": "sy-unesco-heritage",
+  "name": "Syria — UNESCO World Heritage Sites",
+  "title": "Syria — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Syria, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 20,
+      "name": "Ancient City of Damascus",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c1, c2, c3, c4, c6",
+      "lat": 33.51139,
+      "lon": 36.30639,
+      "area_hectares": 86.12,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "sy",
+      "transboundary": false
+    },
+    {
+      "ref_no": 22,
+      "name": "Ancient City of Bosra",
+      "category": "cultural",
+      "date_inscribed": 1980,
+      "criteria": "c1, c3, c6",
+      "lat": 32.51806,
+      "lon": 36.48167,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "sy",
+      "transboundary": false
+    },
+    {
+      "ref_no": 23,
+      "name": "Site of Palmyra",
+      "category": "cultural",
+      "date_inscribed": 1980,
+      "criteria": "c1, c2, c4",
+      "lat": 34.55417,
+      "lon": 38.26667,
+      "area_hectares": 0.36,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "sy",
+      "transboundary": false
+    },
+    {
+      "ref_no": 21,
+      "name": "Ancient City of Aleppo",
+      "category": "cultural",
+      "date_inscribed": 1986,
+      "criteria": "c3, c4",
+      "lat": 36.23333,
+      "lon": 37.16667,
+      "area_hectares": 364,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "sy",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1229,
+      "name": "Crac des Chevaliers and Qal'at Salah El-Din",
+      "category": "cultural",
+      "date_inscribed": 2006,
+      "criteria": "c2, c4",
+      "lat": 34.78166667,
+      "lon": 36.26305556,
+      "area_hectares": 8.87,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "sy",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1348,
+      "name": "Ancient Villages of Northern Syria",
+      "category": "cultural",
+      "date_inscribed": 2011,
+      "criteria": "c3, c4, c5",
+      "lat": 36.33416667,
+      "lon": 36.84416667,
+      "area_hectares": 12290,
+      "danger_list": "Y 2013",
+      "unesco_region": "Arab States",
+      "countries": "sy",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Syria — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Syria, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Syria — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Syria — UNESCO World Heritage Sites dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

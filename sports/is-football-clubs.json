@@ -1,0 +1,268 @@
+{
+  "id": "is-football-clubs",
+  "name": "Iceland — Football Clubs",
+  "title": "Iceland — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Iceland's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "KRReykjavik",
+      "matches_played": 338,
+      "seasons_count": 17,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "landsbankadeild-1998, landsbankadeild-1999, landsbankadeild-2001, landsbankadeild-2002, landsbankadeild-2003, landsbankadeild-2004, landsbankadeild-2005, landsbankadeild-2006, landsbankadeild-2007, la…"
+    },
+    {
+      "name": "Keflavik",
+      "matches_played": 320,
+      "seasons_count": 16,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "landsbankadeild-1998, landsbankadeild-1999, landsbankadeild-2001, landsbankadeild-2002, landsbankadeild-2004, landsbankadeild-2005, landsbankadeild-2006, landsbankadeild-2007, landsbankadeild-2008, pe…"
+    },
+    {
+      "name": "Fylkir",
+      "matches_played": 302,
+      "seasons_count": 15,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 2001,
+      "last_season_year": 2015,
+      "seasons": "landsbankadeild-2001, landsbankadeild-2002, landsbankadeild-2003, landsbankadeild-2004, landsbankadeild-2005, landsbankadeild-2006, landsbankadeild-2007, landsbankadeild-2008, pepsideild-2009, pepside…"
+    },
+    {
+      "name": "Hafnarfjordur",
+      "matches_played": 302,
+      "seasons_count": 15,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 2001,
+      "last_season_year": 2015,
+      "seasons": "landsbankadeild-2001, landsbankadeild-2002, landsbankadeild-2003, landsbankadeild-2004, landsbankadeild-2005, landsbankadeild-2006, landsbankadeild-2007, landsbankadeild-2008, pepsideild-2009, pepside…"
+    },
+    {
+      "name": "Valur",
+      "matches_played": 302,
+      "seasons_count": 15,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "landsbankadeild-1998, landsbankadeild-1999, landsbankadeild-2001, landsbankadeild-2003, landsbankadeild-2005, landsbankadeild-2006, landsbankadeild-2007, landsbankadeild-2008, pepsideild-2009, pepside…"
+    },
+    {
+      "name": "Fram",
+      "matches_played": 298,
+      "seasons_count": 15,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "landsbankadeild-1998, landsbankadeild-1999, landsbankadeild-2001, landsbankadeild-2002, landsbankadeild-2003, landsbankadeild-2004, landsbankadeild-2005, landsbankadeild-2007, landsbankadeild-2008, pe…"
+    },
+    {
+      "name": "IBVVestmannaeyjar",
+      "matches_played": 298,
+      "seasons_count": 15,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "landsbankadeild-1998, landsbankadeild-1999, landsbankadeild-2001, landsbankadeild-2002, landsbankadeild-2003, landsbankadeild-2004, landsbankadeild-2005, landsbankadeild-2006, pepsideild-2009, pepside…"
+    },
+    {
+      "name": "Grindavik",
+      "matches_played": 254,
+      "seasons_count": 13,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "landsbankadeild-1998, landsbankadeild-1999, landsbankadeild-2001, landsbankadeild-2002, landsbankadeild-2003, landsbankadeild-2004, landsbankadeild-2005, landsbankadeild-2006, landsbankadeild-2008, pe…"
+    },
+    {
+      "name": "Akranes",
+      "matches_played": 250,
+      "seasons_count": 13,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "landsbankadeild-1998, landsbankadeild-1999, landsbankadeild-2001, landsbankadeild-2002, landsbankadeild-2003, landsbankadeild-2004, landsbankadeild-2005, landsbankadeild-2006, landsbankadeild-2007, la…"
+    },
+    {
+      "name": "Breidablik",
+      "matches_played": 230,
+      "seasons_count": 11,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 2001,
+      "last_season_year": 2015,
+      "seasons": "landsbankadeild-2001, landsbankadeild-2006, landsbankadeild-2007, landsbankadeild-2008, pepsideild-2009, pepsideild-2010, pepsideild-2011, pepsideild-2012, pepsideild-2013, pepsideild-2014, pepsideild…"
+    },
+    {
+      "name": "Stjarnan",
+      "matches_played": 154,
+      "seasons_count": 7,
+      "leagues": "pepsideild",
+      "first_season_year": 2009,
+      "last_season_year": 2015,
+      "seasons": "pepsideild-2009, pepsideild-2010, pepsideild-2011, pepsideild-2012, pepsideild-2013, pepsideild-2014, pepsideild-2015"
+    },
+    {
+      "name": "VikingurReykjavik",
+      "matches_played": 138,
+      "seasons_count": 7,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 1999,
+      "last_season_year": 2015,
+      "seasons": "landsbankadeild-1999, landsbankadeild-2004, landsbankadeild-2006, landsbankadeild-2007, pepsideild-2011, pepsideild-2014, pepsideild-2015"
+    },
+    {
+      "name": "Throttur",
+      "matches_played": 98,
+      "seasons_count": 5,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 1998,
+      "last_season_year": 2009,
+      "seasons": "landsbankadeild-1998, landsbankadeild-2003, landsbankadeild-2005, landsbankadeild-2008, pepsideild-2009"
+    },
+    {
+      "name": "Fjolnir",
+      "matches_played": 88,
+      "seasons_count": 4,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 2008,
+      "last_season_year": 2015,
+      "seasons": "landsbankadeild-2008, pepsideild-2009, pepsideild-2014, pepsideild-2015"
+    },
+    {
+      "name": "ThorAkureyri",
+      "matches_played": 84,
+      "seasons_count": 4,
+      "leagues": "landsbankadeild, pepsideild",
+      "first_season_year": 2002,
+      "last_season_year": 2014,
+      "seasons": "landsbankadeild-2002, pepsideild-2011, pepsideild-2013, pepsideild-2014"
+    },
+    {
+      "name": "Kopavogur",
+      "matches_played": 58,
+      "seasons_count": 3,
+      "leagues": "landsbankadeild",
+      "first_season_year": 1999,
+      "last_season_year": 2008,
+      "seasons": "landsbankadeild-1999, landsbankadeild-2007, landsbankadeild-2008"
+    },
+    {
+      "name": "KAAkureyri",
+      "matches_played": 54,
+      "seasons_count": 3,
+      "leagues": "landsbankadeild",
+      "first_season_year": 2002,
+      "last_season_year": 2004,
+      "seasons": "landsbankadeild-2002, landsbankadeild-2003, landsbankadeild-2004"
+    },
+    {
+      "name": "Selfoss",
+      "matches_played": 44,
+      "seasons_count": 2,
+      "leagues": "pepsideild",
+      "first_season_year": 2010,
+      "last_season_year": 2012,
+      "seasons": "pepsideild-2010, pepsideild-2012"
+    },
+    {
+      "name": "Fjallabyggd",
+      "matches_played": 36,
+      "seasons_count": 2,
+      "leagues": "landsbankadeild",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "landsbankadeild-1998, landsbankadeild-1999"
+    },
+    {
+      "name": "Haukar",
+      "matches_played": 22,
+      "seasons_count": 1,
+      "leagues": "pepsideild",
+      "first_season_year": 2010,
+      "last_season_year": 2010,
+      "seasons": "pepsideild-2010"
+    },
+    {
+      "name": "Leiknir",
+      "matches_played": 22,
+      "seasons_count": 1,
+      "leagues": "pepsideild",
+      "first_season_year": 2015,
+      "last_season_year": 2015,
+      "seasons": "pepsideild-2015"
+    },
+    {
+      "name": "Olafsvik",
+      "matches_played": 22,
+      "seasons_count": 1,
+      "leagues": "pepsideild",
+      "first_season_year": 2013,
+      "last_season_year": 2013,
+      "seasons": "pepsideild-2013"
+    },
+    {
+      "name": "IRReykjavik",
+      "matches_played": 18,
+      "seasons_count": 1,
+      "leagues": "landsbankadeild",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "landsbankadeild-1998"
+    }
+  ],
+  "meta": {
+    "title": "Iceland — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Iceland's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Iceland — Football Clubs | ListBase",
+    "seo_description": "Download Iceland — Football Clubs dataset with 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

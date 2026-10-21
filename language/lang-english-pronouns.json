@@ -1,0 +1,769 @@
+{
+  "id": "lang-english-pronouns",
+  "name": "English Pronouns Classification Table Dataset",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "pronoun",
+      "label": "Pronoun",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "case",
+      "label": "Case",
+      "type": "string"
+    },
+    {
+      "key": "person",
+      "label": "Person",
+      "type": "string"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "example",
+      "label": "Example",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pronoun": "I",
+      "type": "Personal",
+      "case": "Subject",
+      "person": "First",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "I am happy.",
+      "function": "Subject of verb"
+    },
+    {
+      "pronoun": "you",
+      "type": "Personal",
+      "case": "Subject",
+      "person": "Second",
+      "number": "Singular/Plural",
+      "gender": "Neutral",
+      "example": "You are kind.",
+      "function": "Subject of verb"
+    },
+    {
+      "pronoun": "he",
+      "type": "Personal",
+      "case": "Subject",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Masculine",
+      "example": "He runs fast.",
+      "function": "Subject of verb"
+    },
+    {
+      "pronoun": "she",
+      "type": "Personal",
+      "case": "Subject",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Feminine",
+      "example": "She sings well.",
+      "function": "Subject of verb"
+    },
+    {
+      "pronoun": "it",
+      "type": "Personal",
+      "case": "Subject",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Neuter",
+      "example": "It is raining.",
+      "function": "Subject of verb"
+    },
+    {
+      "pronoun": "we",
+      "type": "Personal",
+      "case": "Subject",
+      "person": "First",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "We are friends.",
+      "function": "Subject of verb"
+    },
+    {
+      "pronoun": "they",
+      "type": "Personal",
+      "case": "Subject",
+      "person": "Third",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "They work hard.",
+      "function": "Subject of verb"
+    },
+    {
+      "pronoun": "me",
+      "type": "Personal",
+      "case": "Object",
+      "person": "First",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "She called me.",
+      "function": "Object of verb/preposition"
+    },
+    {
+      "pronoun": "you",
+      "type": "Personal",
+      "case": "Object",
+      "person": "Second",
+      "number": "Singular/Plural",
+      "gender": "Neutral",
+      "example": "I saw you.",
+      "function": "Object of verb/preposition"
+    },
+    {
+      "pronoun": "him",
+      "type": "Personal",
+      "case": "Object",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Masculine",
+      "example": "We helped him.",
+      "function": "Object of verb/preposition"
+    },
+    {
+      "pronoun": "her",
+      "type": "Personal",
+      "case": "Object",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Feminine",
+      "example": "They met her.",
+      "function": "Object of verb/preposition"
+    },
+    {
+      "pronoun": "it",
+      "type": "Personal",
+      "case": "Object",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Neuter",
+      "example": "I found it.",
+      "function": "Object of verb/preposition"
+    },
+    {
+      "pronoun": "us",
+      "type": "Personal",
+      "case": "Object",
+      "person": "First",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "She joined us.",
+      "function": "Object of verb/preposition"
+    },
+    {
+      "pronoun": "them",
+      "type": "Personal",
+      "case": "Object",
+      "person": "Third",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "We invited them.",
+      "function": "Object of verb/preposition"
+    },
+    {
+      "pronoun": "my",
+      "type": "Possessive",
+      "case": "Adjective",
+      "person": "First",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "This is my book.",
+      "function": "Modifies noun"
+    },
+    {
+      "pronoun": "your",
+      "type": "Possessive",
+      "case": "Adjective",
+      "person": "Second",
+      "number": "Singular/Plural",
+      "gender": "Neutral",
+      "example": "Is this your car?",
+      "function": "Modifies noun"
+    },
+    {
+      "pronoun": "his",
+      "type": "Possessive",
+      "case": "Adjective",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Masculine",
+      "example": "That is his phone.",
+      "function": "Modifies noun"
+    },
+    {
+      "pronoun": "her",
+      "type": "Possessive",
+      "case": "Adjective",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Feminine",
+      "example": "I like her dress.",
+      "function": "Modifies noun"
+    },
+    {
+      "pronoun": "its",
+      "type": "Possessive",
+      "case": "Adjective",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Neuter",
+      "example": "The dog wagged its tail.",
+      "function": "Modifies noun"
+    },
+    {
+      "pronoun": "our",
+      "type": "Possessive",
+      "case": "Adjective",
+      "person": "First",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "This is our house.",
+      "function": "Modifies noun"
+    },
+    {
+      "pronoun": "their",
+      "type": "Possessive",
+      "case": "Adjective",
+      "person": "Third",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "They lost their keys.",
+      "function": "Modifies noun"
+    },
+    {
+      "pronoun": "mine",
+      "type": "Possessive",
+      "case": "Independent",
+      "person": "First",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "This book is mine.",
+      "function": "Replaces noun phrase"
+    },
+    {
+      "pronoun": "yours",
+      "type": "Possessive",
+      "case": "Independent",
+      "person": "Second",
+      "number": "Singular/Plural",
+      "gender": "Neutral",
+      "example": "Is this car yours?",
+      "function": "Replaces noun phrase"
+    },
+    {
+      "pronoun": "his",
+      "type": "Possessive",
+      "case": "Independent",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Masculine",
+      "example": "The phone is his.",
+      "function": "Replaces noun phrase"
+    },
+    {
+      "pronoun": "hers",
+      "type": "Possessive",
+      "case": "Independent",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Feminine",
+      "example": "The dress is hers.",
+      "function": "Replaces noun phrase"
+    },
+    {
+      "pronoun": "its",
+      "type": "Possessive",
+      "case": "Independent",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Neuter",
+      "example": "The responsibility is its.",
+      "function": "Replaces noun phrase"
+    },
+    {
+      "pronoun": "ours",
+      "type": "Possessive",
+      "case": "Independent",
+      "person": "First",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "The house is ours.",
+      "function": "Replaces noun phrase"
+    },
+    {
+      "pronoun": "theirs",
+      "type": "Possessive",
+      "case": "Independent",
+      "person": "Third",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "The car is theirs.",
+      "function": "Replaces noun phrase"
+    },
+    {
+      "pronoun": "myself",
+      "type": "Reflexive",
+      "case": "Reflexive",
+      "person": "First",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "I hurt myself.",
+      "function": "Object refers to subject"
+    },
+    {
+      "pronoun": "yourself",
+      "type": "Reflexive",
+      "case": "Reflexive",
+      "person": "Second",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "You should believe in yourself.",
+      "function": "Object refers to subject"
+    },
+    {
+      "pronoun": "himself",
+      "type": "Reflexive",
+      "case": "Reflexive",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Masculine",
+      "example": "He taught himself.",
+      "function": "Object refers to subject"
+    },
+    {
+      "pronoun": "herself",
+      "type": "Reflexive",
+      "case": "Reflexive",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Feminine",
+      "example": "She introduced herself.",
+      "function": "Object refers to subject"
+    },
+    {
+      "pronoun": "itself",
+      "type": "Reflexive",
+      "case": "Reflexive",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Neuter",
+      "example": "The cat cleaned itself.",
+      "function": "Object refers to subject"
+    },
+    {
+      "pronoun": "ourselves",
+      "type": "Reflexive",
+      "case": "Reflexive",
+      "person": "First",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "We enjoyed ourselves.",
+      "function": "Object refers to subject"
+    },
+    {
+      "pronoun": "yourselves",
+      "type": "Reflexive",
+      "case": "Reflexive",
+      "person": "Second",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "Help yourselves.",
+      "function": "Object refers to subject"
+    },
+    {
+      "pronoun": "themselves",
+      "type": "Reflexive",
+      "case": "Reflexive",
+      "person": "Third",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "They blamed themselves.",
+      "function": "Object refers to subject"
+    },
+    {
+      "pronoun": "this",
+      "type": "Demonstrative",
+      "case": "-",
+      "person": "-",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "This is delicious.",
+      "function": "Points to near object"
+    },
+    {
+      "pronoun": "that",
+      "type": "Demonstrative",
+      "case": "-",
+      "person": "-",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "That is beautiful.",
+      "function": "Points to far object"
+    },
+    {
+      "pronoun": "these",
+      "type": "Demonstrative",
+      "case": "-",
+      "person": "-",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "These are my books.",
+      "function": "Points to near objects"
+    },
+    {
+      "pronoun": "those",
+      "type": "Demonstrative",
+      "case": "-",
+      "person": "-",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "Those are expensive.",
+      "function": "Points to far objects"
+    },
+    {
+      "pronoun": "who",
+      "type": "Interrogative",
+      "case": "Subject",
+      "person": "-",
+      "number": "-",
+      "gender": "Person",
+      "example": "Who called?",
+      "function": "Asks about person (subject)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Interrogative",
+      "case": "Object",
+      "person": "-",
+      "number": "-",
+      "gender": "Person",
+      "example": "Whom did you call?",
+      "function": "Asks about person (object)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Interrogative",
+      "case": "Possessive",
+      "person": "-",
+      "number": "-",
+      "gender": "Person",
+      "example": "Whose is this?",
+      "function": "Asks about possession"
+    },
+    {
+      "pronoun": "what",
+      "type": "Interrogative",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Thing",
+      "example": "What happened?",
+      "function": "Asks about thing/action"
+    },
+    {
+      "pronoun": "which",
+      "type": "Interrogative",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Person/Thing",
+      "example": "Which do you prefer?",
+      "function": "Asks for selection"
+    },
+    {
+      "pronoun": "who",
+      "type": "Relative",
+      "case": "Subject",
+      "person": "-",
+      "number": "-",
+      "gender": "Person",
+      "example": "The man who called is here.",
+      "function": "Introduces relative clause (subject)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Relative",
+      "case": "Object",
+      "person": "-",
+      "number": "-",
+      "gender": "Person",
+      "example": "The person whom I met was kind.",
+      "function": "Introduces relative clause (object)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Relative",
+      "case": "Possessive",
+      "person": "-",
+      "number": "-",
+      "gender": "Person/Thing",
+      "example": "The author whose book I read.",
+      "function": "Shows possession in relative clause"
+    },
+    {
+      "pronoun": "which",
+      "type": "Relative",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Thing",
+      "example": "The book which I read was good.",
+      "function": "Introduces relative clause (thing)"
+    },
+    {
+      "pronoun": "that",
+      "type": "Relative",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Person/Thing",
+      "example": "The house that Jack built.",
+      "function": "Introduces restrictive relative clause"
+    },
+    {
+      "pronoun": "anyone",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Person",
+      "example": "Anyone can join.",
+      "function": "Refers to any person"
+    },
+    {
+      "pronoun": "everyone",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Person",
+      "example": "Everyone is welcome.",
+      "function": "Refers to all people"
+    },
+    {
+      "pronoun": "someone",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Person",
+      "example": "Someone called you.",
+      "function": "Refers to unspecified person"
+    },
+    {
+      "pronoun": "no one",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Person",
+      "example": "No one was there.",
+      "function": "Refers to no person"
+    },
+    {
+      "pronoun": "anything",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Thing",
+      "example": "Is there anything to eat?",
+      "function": "Refers to any thing"
+    },
+    {
+      "pronoun": "everything",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Thing",
+      "example": "Everything is ready.",
+      "function": "Refers to all things"
+    },
+    {
+      "pronoun": "something",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Thing",
+      "example": "I heard something.",
+      "function": "Refers to unspecified thing"
+    },
+    {
+      "pronoun": "nothing",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Thing",
+      "example": "Nothing happened.",
+      "function": "Refers to no thing"
+    },
+    {
+      "pronoun": "all",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular/Plural",
+      "gender": "Neutral",
+      "example": "All are welcome.",
+      "function": "Refers to whole quantity"
+    },
+    {
+      "pronoun": "some",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular/Plural",
+      "gender": "Neutral",
+      "example": "Some are missing.",
+      "function": "Refers to part of quantity"
+    },
+    {
+      "pronoun": "none",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular/Plural",
+      "gender": "Neutral",
+      "example": "None were found.",
+      "function": "Refers to zero quantity"
+    },
+    {
+      "pronoun": "both",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "Both are correct.",
+      "function": "Refers to two things together"
+    },
+    {
+      "pronoun": "each",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "Each has a role.",
+      "function": "Refers to individuals"
+    },
+    {
+      "pronoun": "either",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "Either will work.",
+      "function": "Refers to one of two"
+    },
+    {
+      "pronoun": "neither",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "Neither is correct.",
+      "function": "Refers to none of two"
+    },
+    {
+      "pronoun": "few",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "Few attended.",
+      "function": "Refers to small number"
+    },
+    {
+      "pronoun": "many",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "Many have tried.",
+      "function": "Refers to large number"
+    },
+    {
+      "pronoun": "several",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Plural",
+      "gender": "Neutral",
+      "example": "Several are broken.",
+      "function": "Refers to more than two"
+    },
+    {
+      "pronoun": "one",
+      "type": "Indefinite",
+      "case": "-",
+      "person": "Third",
+      "number": "Singular",
+      "gender": "Neutral",
+      "example": "One must be careful.",
+      "function": "Refers to any person (formal)"
+    }
+  ],
+  "meta": {
+    "seo_title": "English Pronouns Table - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download a comprehensive English pronouns table dataset. Access 69 records covering pronoun type, case, person, gender, and examples. Free in Excel, CSV, PDF.",
+    "title": "English Pronouns Classification Table Dataset",
+    "description": "This dataset provides a detailed classification of 69 English pronouns, including their type, grammatical case, person, number, gender, example sentences, and function. It's an essential resource for linguists, educators, and language learners.",
+    "key_takeaways": [
+      "Access a comprehensive list of 69 English pronouns with detailed grammatical attributes.",
+      "Explore pronoun types, cases, persons, numbers, genders, and functions.",
+      "Download example sentences for practical understanding of pronoun usage.",
+      "Leverage structured data for linguistic analysis and educational material creation."
+    ],
+    "keywords": [
+      "english pronouns list",
+      "pronoun types table",
+      "grammatical pronouns dataset",
+      "english grammar excel",
+      "pronoun examples csv",
+      "download english pronouns"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or Python script to build a pronoun analysis tool or API.",
+      "Use the **Excel** file to filter pronouns by type, case, or gender, create Pivot Tables for statistical analysis, or prepare grammar reports.",
+      "Print the **PDF** version for classroom reference, language learning handouts, or as a quick offline guide to English pronouns.",
+      "Integrate this structured dataset into educational software or e-learning platforms to enhance English grammar lessons."
+    ]
+  },
+  "record_count": 69,
+  "title": "English Pronouns Classification Table Dataset"
+}

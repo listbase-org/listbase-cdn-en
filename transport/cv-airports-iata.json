@@ -1,0 +1,226 @@
+{
+  "id": "cv-airports-iata",
+  "name": "Cabo Verde — IATA Airports",
+  "title": "Cabo Verde — IATA Airports",
+  "description": "Airports with IATA codes in Cabo Verde: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BVC",
+      "icao_code": "GVBA",
+      "name": "Aristides Pereira International Airport",
+      "city_name_list": "Rabil",
+      "country_code": "CV",
+      "country_name": "Cabo Verde",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Boa Vista",
+      "latitude": 16.13624,
+      "longitude": -22.8889,
+      "elevation": 21,
+      "timezone": "Atlantic/Cape_Verde",
+      "wiki_link": "https://en.wikipedia.org/wiki/Aristides_Pereira_International_Airport"
+    },
+    {
+      "iata_code": "BVR",
+      "icao_code": "GVBR",
+      "name": "Brava Island",
+      "city_name_list": "Brava Island",
+      "country_code": "CV",
+      "country_name": "Cabo Verde",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Brava",
+      "latitude": 14.87,
+      "longitude": -24.73,
+      "elevation": "",
+      "timezone": "Atlantic/Cape_Verde",
+      "wiki_link": "https://en.wikipedia.org/wiki/Esperadinha_Airport"
+    },
+    {
+      "iata_code": "MMO",
+      "icao_code": "GVMA",
+      "name": "Maio Airport",
+      "city_name_list": "Vila do Maio",
+      "country_code": "CV",
+      "country_name": "Cabo Verde",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Maio",
+      "latitude": 15.15615,
+      "longitude": -23.21368,
+      "elevation": 11,
+      "timezone": "Atlantic/Cape_Verde",
+      "wiki_link": "https://en.wikipedia.org/wiki/Maio_Airport"
+    },
+    {
+      "iata_code": "NTO",
+      "icao_code": "GVAN",
+      "name": "Agostinho Neto Airport",
+      "city_name_list": "Agostinho Neto Airport",
+      "country_code": "CV",
+      "country_name": "Cabo Verde",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Ribeira Grande",
+      "latitude": 17.05,
+      "longitude": -25.17,
+      "elevation": "",
+      "timezone": "Atlantic/Cape_Verde",
+      "wiki_link": "https://en.wikipedia.org/wiki/Agostinho_Neto_Airport"
+    },
+    {
+      "iata_code": "RAI",
+      "icao_code": "GVNP",
+      "name": "Praia International Airport",
+      "city_name_list": "Praia",
+      "country_code": "CV",
+      "country_name": "Cabo Verde",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Praia",
+      "latitude": 14.94197,
+      "longitude": -23.48448,
+      "elevation": "",
+      "timezone": "Atlantic/Cape_Verde",
+      "wiki_link": "https://en.wikipedia.org/wiki/Nelson_Mandela_International_Airport"
+    },
+    {
+      "iata_code": "SFL",
+      "icao_code": "GVSF",
+      "name": "São Filipe Airport",
+      "city_name_list": "São Filipe=Fogo Island",
+      "country_code": "CV",
+      "country_name": "Cabo Verde",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sao Filipe",
+      "latitude": 14.885,
+      "longitude": -24.48,
+      "elevation": "",
+      "timezone": "Atlantic/Cape_Verde",
+      "wiki_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Filipe_Airport"
+    },
+    {
+      "iata_code": "SID",
+      "icao_code": "GVAC",
+      "name": "Amílcar Cabral International Airport",
+      "city_name_list": "Sal Island",
+      "country_code": "CV",
+      "country_name": "Cabo Verde",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sal",
+      "latitude": 16.74139,
+      "longitude": -22.94944,
+      "elevation": 53,
+      "timezone": "Atlantic/Cape_Verde",
+      "wiki_link": "https://en.wikipedia.org/wiki/Am%C3%ADlcar_Cabral_International_Airport"
+    },
+    {
+      "iata_code": "SNE",
+      "icao_code": "GVSN",
+      "name": "Preguiça Airport",
+      "city_name_list": "Ilha de São Nicolau",
+      "country_code": "CV",
+      "country_name": "Cabo Verde",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Ribeira Brava",
+      "latitude": 16.5884,
+      "longitude": -24.2847,
+      "elevation": "",
+      "timezone": "Atlantic/Cape_Verde",
+      "wiki_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Nicolau_Airport"
+    },
+    {
+      "iata_code": "VXE",
+      "icao_code": "GVSV",
+      "name": "Cesária Évora Airport",
+      "city_name_list": "São Vicente",
+      "country_code": "CV",
+      "country_name": "Cabo Verde",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sao Vicente",
+      "latitude": 16.83326,
+      "longitude": -25.05552,
+      "elevation": 20,
+      "timezone": "Atlantic/Cape_Verde",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ces%C3%A1ria_%C3%89vora_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Cabo Verde — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Cabo Verde: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cabo Verde — IATA Airports | ListBase",
+    "seo_description": "Download Cabo Verde — IATA Airports dataset with 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

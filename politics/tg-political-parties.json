@@ -1,0 +1,361 @@
+{
+  "id": "tg-political-parties",
+  "name": "Togo — Political Parties",
+  "title": "Togo — Political Parties",
+  "description": "Political parties of Togo from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 4761,
+      "name_short": "UCPN",
+      "name": "Union des Chefs et des Populations du Nord",
+      "name_english": "Union of Chiefs and Peoples of the North",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": 1959,
+      "share": 50,
+      "share_year": 1952,
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_of_Chiefs_and_Peoples_of_the_North",
+      "description": "15 of 30 seats in 1952 election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4129,
+      "name_short": "UNIR",
+      "name": "Union pour la République",
+      "name_english": "Union for the Republic",
+      "name_other": "",
+      "year_first": 2012,
+      "year_last": "",
+      "share": 46.7,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_for_the_Republic_(Togo)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4131,
+      "name_short": "RPT",
+      "name": "Rassemblement du Peuple Togolais",
+      "name_english": "Rally of the Togolese People",
+      "name_other": "",
+      "year_first": 1969,
+      "year_last": 2012,
+      "share": 39.4,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rally_of_the_Togolese_People",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4130,
+      "name_short": "UFC",
+      "name": "Union des Forces du Changement",
+      "name_english": "Union of Forces for Change",
+      "name_other": "",
+      "year_first": 2007,
+      "year_last": 2013,
+      "share": 37,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_of_Forces_for_Change",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8071,
+      "name_short": "ADDI",
+      "name": "Alliance des Démocrates pour le Développement Intégral",
+      "name_english": "Alliance of Democrats for Integral Development",
+      "name_other": "",
+      "year_first": 2012,
+      "year_last": "",
+      "share": 28.9,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Alliance_of_Democrats_for_Integral_Development",
+      "description": "",
+      "comment": "In 2013 part of 4132",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4132,
+      "name_short": "CST",
+      "name": "Collectif Sauvons le Togo",
+      "name_english": "Save Togo Group",
+      "name_other": "",
+      "year_first": 2012,
+      "year_last": "",
+      "share": 28.9,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Save_Togo_Collective",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4763,
+      "name_short": "PTP",
+      "name": "Parti togolais du progrès",
+      "name_english": "Togolese Party of Progress",
+      "name_other": "",
+      "year_first": 1946,
+      "year_last": 1959,
+      "share": 25.3,
+      "share_year": 1952,
+      "wikipedia": "https://en.wikipedia.org/wiki/Togolese_Party_of_Progress",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6409,
+      "name_short": "MPT",
+      "name": "Togolese People's Movement",
+      "name_english": "Mouvement Popularie Togolais",
+      "name_other": "",
+      "year_first": 1954,
+      "year_last": 1967,
+      "share": 25,
+      "share_year": 1963,
+      "wikipedia": "https://en.wikipedia.org/wiki/Togolese_People%27s_Movement",
+      "description": "14 of 56 seats in 1963",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5767,
+      "name_short": "ANC",
+      "name": "'Alliance nationale pour le changement",
+      "name_english": "National Alliance for Change",
+      "name_other": "",
+      "year_first": 2010,
+      "year_last": "",
+      "share": 17.6,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Alliance_for_Change",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7185,
+      "name_short": "CAEC",
+      "name": "Coalition Arc-en-Ciel",
+      "name_english": "Rainbow Alliance",
+      "name_other": "",
+      "year_first": 2012,
+      "year_last": "",
+      "share": 10.8,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rainbow_Alliance_(Togo)",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6613,
+      "name_short": "UTD",
+      "name": "Union togolaise pour la démocratie",
+      "name_english": "Togolese Union for Democracy",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": 1999,
+      "share": 8.6,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/Togolese_Union_for_Democracy",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4133,
+      "name_short": "CAR",
+      "name": "Comité d'Action pour la Renouveau",
+      "name_english": "Action Committee for Renewal",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 8.4,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Action_Committee_for_Renewal",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4764,
+      "name_short": "CUT/PUT",
+      "name": "Comité de l'unité togolaise / Parti de l'unité togolaise",
+      "name_english": "Committee of Togolese Unity / Party of Togolese Unity",
+      "name_other": "",
+      "year_first": 1941,
+      "year_last": 1963,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_of_Togolese_Unity",
+      "description": "leader support 1960 Olympio (CUT) – see CHISOLS",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4762,
+      "name_short": "UDPT",
+      "name": "Union Démocratique des Populations Togolaises",
+      "name_english": "Democratic Union of the Togolese People",
+      "name_other": "",
+      "year_first": 1959,
+      "year_last": 1967,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Union_of_the_Togolese_People",
+      "description": "leader support in 1963 Grunitzky (MPT) – see CHISOLS",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7661,
+      "name_short": "PDP",
+      "name": "Parti Démocratique Panafricain",
+      "name_english": "Pan-African Democratic Party",
+      "name_other": "",
+      "year_first": 2007,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pan-African_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7660,
+      "name_short": "NET",
+      "name": "Nouvel Engagement Togolais",
+      "name_english": "New Togolese Commitment",
+      "name_other": "",
+      "year_first": 2012,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Togolese_Commitment",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7659,
+      "name_short": "MRC",
+      "name": "Mouvement des Républicains Centristes",
+      "name_english": "Movement of Centrist Republicans",
+      "name_other": "",
+      "year_first": 2018,
+      "year_last": 2018,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Movement_of_Centrist_Republicans",
+      "description": "There is no available information on Wikipedia for Year first",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7662,
+      "name_short": "PMDD",
+      "name": "Patriotic Movement for Democracy and Development",
+      "name_english": "Patriotic Movement for Democracy and Development",
+      "name_other": "",
+      "year_first": 2018,
+      "year_last": 2018,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "Where is no available information on Wikipedia for the items above",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Togo — Political Parties - Free Download",
+    "description": "Political parties of Togo from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Togo — Political Parties | ListBase",
+    "seo_description": "Download Togo — Political Parties dataset with 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

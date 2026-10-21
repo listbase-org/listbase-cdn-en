@@ -1,0 +1,271 @@
+{
+  "id": "kh-political-parties",
+  "name": "Cambodia — Political Parties",
+  "title": "Cambodia — Political Parties",
+  "description": "Political parties of Cambodia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5830,
+      "name_short": "FUNC",
+      "name": "Front uni national du Kampuchéa",
+      "name_english": "National United Front of Kampuchea",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": 1976,
+      "share": 100,
+      "share_year": 1976,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_United_Front_of_Kampuchea",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6887,
+      "name_short": "PSR",
+      "name": "Parti social républicain",
+      "name_english": "Social Republican Party",
+      "name_other": "Khmer: គណបក្សសង្គមសាធារណរដ្ឋ",
+      "year_first": 1972,
+      "year_last": 1975,
+      "share": 100,
+      "share_year": 1972,
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_Republican_Party",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4721,
+      "name_short": "Sangkum",
+      "name": "Sangkum Reastr Niyum",
+      "name_english": "People's Socialist Community",
+      "name_other": "Khmer: សង្គមរាស្ត្រនិយម",
+      "year_first": 1955,
+      "year_last": 1970,
+      "share": 82.7,
+      "share_year": 1955,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sangkum",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3765,
+      "name_short": "KPK",
+      "name": "Kanakpak Pracheachon Kâmpuchéa (Khmer)",
+      "name_english": "Cambodian Peoples' Party / Kampuchean People's Revolutionary Party",
+      "name_other": "គណបក្សប្រជាជនកម្ពុជា",
+      "year_first": 1951,
+      "year_last": "",
+      "share": 58.1,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Cambodian_People%27s_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5521,
+      "name_short": "CNRP",
+      "name": "Cambodia National Rescue Party",
+      "name_english": "Cambodia National Rescue Party",
+      "name_other": "",
+      "year_first": 2012,
+      "year_last": 2017,
+      "share": 44.5,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Cambodia_National_Rescue_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6888,
+      "name_short": "LP",
+      "name": "Kanaq Serei Pheap",
+      "name_english": "Liberal Party / Constitutionalist Party",
+      "name_other": "Khmer: គណបក្សសេរីនិយម",
+      "year_first": 1946,
+      "year_last": 1955,
+      "share": 28,
+      "share_year": 1947,
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberal_Party_(Cambodia)",
+      "description": "21 of 75 seats in 1947 Cambodian general election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3762,
+      "name_short": "SRP",
+      "name": "Kanakpak Sam Rangsee (Khmer)",
+      "name_english": "Sam Rainsy Party",
+      "name_other": "គណបក្ស សម រង្ស៊ី",
+      "year_first": 1995,
+      "year_last": 2012,
+      "share": 21.9,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sam_Rainsy_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4722,
+      "name_short": "DP",
+      "name": "Democratic Party",
+      "name_english": "Democratic Party",
+      "name_other": "Khmer: ក្រុមប្រជាធិបតេយ្យ",
+      "year_first": 1946,
+      "year_last": 1957,
+      "share": 12.3,
+      "share_year": 1955,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_%28Cambodia%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3763,
+      "name_short": "HuRiPa",
+      "name": "Kanakpak Sethi Manus",
+      "name_english": "Human Rights' Party",
+      "name_other": "",
+      "year_first": 2008,
+      "year_last": 2008,
+      "share": 6.6,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Human_Rights_Party_(Cambodia)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3761,
+      "name_short": "NRP",
+      "name": "Norodom Ranariddh Party",
+      "name_english": "Norodom Ranariddh Party",
+      "name_other": "Kanakpak Norodom Ranariddh",
+      "year_first": 2008,
+      "year_last": 2008,
+      "share": 5.6,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Norodom_Ranariddh_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6889,
+      "name_short": "VNEP",
+      "name": "KanapakKhme r Eisan Mean Chey",
+      "name_english": "Victorious North-East Party",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": 1951,
+      "share": 5.1,
+      "share_year": 1951,
+      "wikipedia": "",
+      "description": "4 of 78 seats in 1951 Cambodian general election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3764,
+      "name_short": "FUNC-INPEC",
+      "name": "Front Uni National pour un Cambodge Indépendant, Neutre, Pacifique, et Coopératif (French)",
+      "name_english": "National United Front for an Independent, Neutral, Peaceful, and Cooperative Cambodia",
+      "name_other": "គណបក្ស ហ្វ៊ុនស៊ិនប៉ិច",
+      "year_first": 1981,
+      "year_last": "",
+      "share": 5.1,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Funcinpec_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Cambodia — Political Parties - Free Download",
+    "description": "Political parties of Cambodia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cambodia — Political Parties | ListBase",
+    "seo_description": "Download Cambodia — Political Parties dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

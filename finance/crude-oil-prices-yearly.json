@@ -1,0 +1,520 @@
+{
+  "id": "crude-oil-prices-yearly",
+  "name": "Crude Oil Prices (Brent & WTI) — Yearly",
+  "title": "Crude Oil Prices (Brent & WTI) — Yearly",
+  "description": "Annual average spot prices of Brent and WTI crude oil from the late 1980s to recent years, in USD per barrel. One row per commodity per year.",
+  "category": "finance",
+  "source": "https://github.com/datasets/oil-prices",
+  "source_url": "https://github.com/datasets/oil-prices",
+  "updated": "2026-04",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "commodity",
+      "label": "Commodity",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "price_usd_per_barrel",
+      "label": "Price Usd Per Barrel",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "commodity": "Brent",
+      "year": 1987,
+      "date": "1987-06-30",
+      "price_usd_per_barrel": 18.53
+    },
+    {
+      "commodity": "Brent",
+      "year": 1988,
+      "date": "1988-06-30",
+      "price_usd_per_barrel": 14.91
+    },
+    {
+      "commodity": "Brent",
+      "year": 1989,
+      "date": "1989-06-30",
+      "price_usd_per_barrel": 18.23
+    },
+    {
+      "commodity": "Brent",
+      "year": 1990,
+      "date": "1990-06-30",
+      "price_usd_per_barrel": 23.76
+    },
+    {
+      "commodity": "Brent",
+      "year": 1991,
+      "date": "1991-06-30",
+      "price_usd_per_barrel": 20.04
+    },
+    {
+      "commodity": "Brent",
+      "year": 1992,
+      "date": "1992-06-30",
+      "price_usd_per_barrel": 19.32
+    },
+    {
+      "commodity": "Brent",
+      "year": 1993,
+      "date": "1993-06-30",
+      "price_usd_per_barrel": 17.01
+    },
+    {
+      "commodity": "Brent",
+      "year": 1994,
+      "date": "1994-06-30",
+      "price_usd_per_barrel": 15.86
+    },
+    {
+      "commodity": "Brent",
+      "year": 1995,
+      "date": "1995-06-30",
+      "price_usd_per_barrel": 17.02
+    },
+    {
+      "commodity": "Brent",
+      "year": 1996,
+      "date": "1996-06-30",
+      "price_usd_per_barrel": 20.64
+    },
+    {
+      "commodity": "Brent",
+      "year": 1997,
+      "date": "1997-06-30",
+      "price_usd_per_barrel": 19.11
+    },
+    {
+      "commodity": "Brent",
+      "year": 1998,
+      "date": "1998-06-30",
+      "price_usd_per_barrel": 12.76
+    },
+    {
+      "commodity": "Brent",
+      "year": 1999,
+      "date": "1999-06-30",
+      "price_usd_per_barrel": 17.9
+    },
+    {
+      "commodity": "Brent",
+      "year": 2000,
+      "date": "2000-06-30",
+      "price_usd_per_barrel": 28.66
+    },
+    {
+      "commodity": "Brent",
+      "year": 2001,
+      "date": "2001-06-30",
+      "price_usd_per_barrel": 24.46
+    },
+    {
+      "commodity": "Brent",
+      "year": 2002,
+      "date": "2002-06-30",
+      "price_usd_per_barrel": 24.99
+    },
+    {
+      "commodity": "Brent",
+      "year": 2003,
+      "date": "2003-06-30",
+      "price_usd_per_barrel": 28.85
+    },
+    {
+      "commodity": "Brent",
+      "year": 2004,
+      "date": "2004-06-30",
+      "price_usd_per_barrel": 38.26
+    },
+    {
+      "commodity": "Brent",
+      "year": 2005,
+      "date": "2005-06-30",
+      "price_usd_per_barrel": 54.57
+    },
+    {
+      "commodity": "Brent",
+      "year": 2006,
+      "date": "2006-06-30",
+      "price_usd_per_barrel": 65.16
+    },
+    {
+      "commodity": "Brent",
+      "year": 2007,
+      "date": "2007-06-30",
+      "price_usd_per_barrel": 72.44
+    },
+    {
+      "commodity": "Brent",
+      "year": 2008,
+      "date": "2008-06-30",
+      "price_usd_per_barrel": 96.94
+    },
+    {
+      "commodity": "Brent",
+      "year": 2009,
+      "date": "2009-06-30",
+      "price_usd_per_barrel": 61.74
+    },
+    {
+      "commodity": "Brent",
+      "year": 2010,
+      "date": "2010-06-30",
+      "price_usd_per_barrel": 79.61
+    },
+    {
+      "commodity": "Brent",
+      "year": 2011,
+      "date": "2011-06-30",
+      "price_usd_per_barrel": 111.26
+    },
+    {
+      "commodity": "Brent",
+      "year": 2012,
+      "date": "2012-06-30",
+      "price_usd_per_barrel": 111.63
+    },
+    {
+      "commodity": "Brent",
+      "year": 2013,
+      "date": "2013-06-30",
+      "price_usd_per_barrel": 108.56
+    },
+    {
+      "commodity": "Brent",
+      "year": 2014,
+      "date": "2014-06-30",
+      "price_usd_per_barrel": 98.97
+    },
+    {
+      "commodity": "Brent",
+      "year": 2015,
+      "date": "2015-06-30",
+      "price_usd_per_barrel": 52.32
+    },
+    {
+      "commodity": "Brent",
+      "year": 2016,
+      "date": "2016-06-30",
+      "price_usd_per_barrel": 43.64
+    },
+    {
+      "commodity": "Brent",
+      "year": 2017,
+      "date": "2017-06-30",
+      "price_usd_per_barrel": 54.13
+    },
+    {
+      "commodity": "Brent",
+      "year": 2018,
+      "date": "2018-06-30",
+      "price_usd_per_barrel": 71.34
+    },
+    {
+      "commodity": "Brent",
+      "year": 2019,
+      "date": "2019-06-30",
+      "price_usd_per_barrel": 64.3
+    },
+    {
+      "commodity": "Brent",
+      "year": 2020,
+      "date": "2020-06-30",
+      "price_usd_per_barrel": 41.96
+    },
+    {
+      "commodity": "Brent",
+      "year": 2021,
+      "date": "2021-06-30",
+      "price_usd_per_barrel": 70.86
+    },
+    {
+      "commodity": "Brent",
+      "year": 2022,
+      "date": "2022-06-30",
+      "price_usd_per_barrel": 100.93
+    },
+    {
+      "commodity": "Brent",
+      "year": 2023,
+      "date": "2023-06-30",
+      "price_usd_per_barrel": 82.49
+    },
+    {
+      "commodity": "Brent",
+      "year": 2024,
+      "date": "2024-06-30",
+      "price_usd_per_barrel": 80.52
+    },
+    {
+      "commodity": "Brent",
+      "year": 2025,
+      "date": "2025-06-30",
+      "price_usd_per_barrel": 69.14
+    },
+    {
+      "commodity": "WTI",
+      "year": 1986,
+      "date": "1986-06-30",
+      "price_usd_per_barrel": 15.05
+    },
+    {
+      "commodity": "WTI",
+      "year": 1987,
+      "date": "1987-06-30",
+      "price_usd_per_barrel": 19.2
+    },
+    {
+      "commodity": "WTI",
+      "year": 1988,
+      "date": "1988-06-30",
+      "price_usd_per_barrel": 15.97
+    },
+    {
+      "commodity": "WTI",
+      "year": 1989,
+      "date": "1989-06-30",
+      "price_usd_per_barrel": 19.64
+    },
+    {
+      "commodity": "WTI",
+      "year": 1990,
+      "date": "1990-06-30",
+      "price_usd_per_barrel": 24.53
+    },
+    {
+      "commodity": "WTI",
+      "year": 1991,
+      "date": "1991-06-30",
+      "price_usd_per_barrel": 21.54
+    },
+    {
+      "commodity": "WTI",
+      "year": 1992,
+      "date": "1992-06-30",
+      "price_usd_per_barrel": 20.58
+    },
+    {
+      "commodity": "WTI",
+      "year": 1993,
+      "date": "1993-06-30",
+      "price_usd_per_barrel": 18.43
+    },
+    {
+      "commodity": "WTI",
+      "year": 1994,
+      "date": "1994-06-30",
+      "price_usd_per_barrel": 17.2
+    },
+    {
+      "commodity": "WTI",
+      "year": 1995,
+      "date": "1995-06-30",
+      "price_usd_per_barrel": 18.43
+    },
+    {
+      "commodity": "WTI",
+      "year": 1996,
+      "date": "1996-06-30",
+      "price_usd_per_barrel": 22.12
+    },
+    {
+      "commodity": "WTI",
+      "year": 1997,
+      "date": "1997-06-30",
+      "price_usd_per_barrel": 20.61
+    },
+    {
+      "commodity": "WTI",
+      "year": 1998,
+      "date": "1998-06-30",
+      "price_usd_per_barrel": 14.42
+    },
+    {
+      "commodity": "WTI",
+      "year": 1999,
+      "date": "1999-06-30",
+      "price_usd_per_barrel": 19.34
+    },
+    {
+      "commodity": "WTI",
+      "year": 2000,
+      "date": "2000-06-30",
+      "price_usd_per_barrel": 30.38
+    },
+    {
+      "commodity": "WTI",
+      "year": 2001,
+      "date": "2001-06-30",
+      "price_usd_per_barrel": 25.98
+    },
+    {
+      "commodity": "WTI",
+      "year": 2002,
+      "date": "2002-06-30",
+      "price_usd_per_barrel": 26.18
+    },
+    {
+      "commodity": "WTI",
+      "year": 2003,
+      "date": "2003-06-30",
+      "price_usd_per_barrel": 31.08
+    },
+    {
+      "commodity": "WTI",
+      "year": 2004,
+      "date": "2004-06-30",
+      "price_usd_per_barrel": 41.51
+    },
+    {
+      "commodity": "WTI",
+      "year": 2005,
+      "date": "2005-06-30",
+      "price_usd_per_barrel": 56.64
+    },
+    {
+      "commodity": "WTI",
+      "year": 2006,
+      "date": "2006-06-30",
+      "price_usd_per_barrel": 66.05
+    },
+    {
+      "commodity": "WTI",
+      "year": 2007,
+      "date": "2007-06-30",
+      "price_usd_per_barrel": 72.34
+    },
+    {
+      "commodity": "WTI",
+      "year": 2008,
+      "date": "2008-06-30",
+      "price_usd_per_barrel": 99.67
+    },
+    {
+      "commodity": "WTI",
+      "year": 2009,
+      "date": "2009-06-30",
+      "price_usd_per_barrel": 61.95
+    },
+    {
+      "commodity": "WTI",
+      "year": 2010,
+      "date": "2010-06-30",
+      "price_usd_per_barrel": 79.48
+    },
+    {
+      "commodity": "WTI",
+      "year": 2011,
+      "date": "2011-06-30",
+      "price_usd_per_barrel": 94.88
+    },
+    {
+      "commodity": "WTI",
+      "year": 2012,
+      "date": "2012-06-30",
+      "price_usd_per_barrel": 94.05
+    },
+    {
+      "commodity": "WTI",
+      "year": 2013,
+      "date": "2013-06-30",
+      "price_usd_per_barrel": 97.98
+    },
+    {
+      "commodity": "WTI",
+      "year": 2014,
+      "date": "2014-06-30",
+      "price_usd_per_barrel": 93.17
+    },
+    {
+      "commodity": "WTI",
+      "year": 2015,
+      "date": "2015-06-30",
+      "price_usd_per_barrel": 48.66
+    },
+    {
+      "commodity": "WTI",
+      "year": 2016,
+      "date": "2016-06-30",
+      "price_usd_per_barrel": 43.29
+    },
+    {
+      "commodity": "WTI",
+      "year": 2017,
+      "date": "2017-06-30",
+      "price_usd_per_barrel": 50.8
+    },
+    {
+      "commodity": "WTI",
+      "year": 2018,
+      "date": "2018-06-30",
+      "price_usd_per_barrel": 65.23
+    },
+    {
+      "commodity": "WTI",
+      "year": 2019,
+      "date": "2019-06-30",
+      "price_usd_per_barrel": 56.99
+    },
+    {
+      "commodity": "WTI",
+      "year": 2020,
+      "date": "2020-06-30",
+      "price_usd_per_barrel": 39.16
+    },
+    {
+      "commodity": "WTI",
+      "year": 2021,
+      "date": "2021-06-30",
+      "price_usd_per_barrel": 68.13
+    },
+    {
+      "commodity": "WTI",
+      "year": 2022,
+      "date": "2022-06-30",
+      "price_usd_per_barrel": 94.9
+    },
+    {
+      "commodity": "WTI",
+      "year": 2023,
+      "date": "2023-06-30",
+      "price_usd_per_barrel": 77.58
+    },
+    {
+      "commodity": "WTI",
+      "year": 2024,
+      "date": "2024-06-30",
+      "price_usd_per_barrel": 76.63
+    },
+    {
+      "commodity": "WTI",
+      "year": 2025,
+      "date": "2025-06-30",
+      "price_usd_per_barrel": 65.39
+    }
+  ],
+  "meta": {
+    "title": "Crude Oil Prices (Brent & WTI) — Yearly - Free Download",
+    "description": "Annual average spot prices of Brent and WTI crude oil from the late 1980s to recent years, in USD per barrel. One row per commodity per year. Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Crude Oil Prices (Brent & WTI) — Yearly | ListBase",
+    "seo_description": "Download Crude Oil Prices (Brent & WTI) — Yearly — 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/oil-prices"
+    ]
+  }
+}

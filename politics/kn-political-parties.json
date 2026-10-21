@@ -1,0 +1,241 @@
+{
+  "id": "kn-political-parties",
+  "name": "Saint Kitts and Nevis — Political Parties",
+  "title": "Saint Kitts and Nevis — Political Parties",
+  "description": "Political parties of Saint Kitts and Nevis from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 4056,
+      "name_short": "SKNLP",
+      "name": "Saint Kitts and Nevis Labour Party",
+      "name_english": "Saint Kitts and Nevis Labour Party",
+      "name_other": "",
+      "year_first": 1932,
+      "year_last": "",
+      "share": 53.8,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4058,
+      "name_short": "PAM",
+      "name": "People’s Action Movement",
+      "name_english": "People’s Action Movement",
+      "name_other": "",
+      "year_first": 1966,
+      "year_last": "",
+      "share": 47.6,
+      "share_year": 1984,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Action_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4060,
+      "name_short": "NRP",
+      "name": "Nevis Reformation Party",
+      "name_english": "Nevis Reformation Party",
+      "name_other": "",
+      "year_first": 1971,
+      "year_last": 2010,
+      "share": 16.2,
+      "share_year": 1975,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nevis_Reformation_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4059,
+      "name_short": "PPM",
+      "name": "People's Progressive Movement",
+      "name_english": "People's Progressive Movement",
+      "name_other": "People's Political Movement",
+      "year_first": 1961,
+      "year_last": 1961,
+      "share": 11.1,
+      "share_year": 1961,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Political_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4054,
+      "name_short": "CCM",
+      "name": "Concerned Citizens’ Movement",
+      "name_english": "Concerned Citizens’ Movement",
+      "name_other": "",
+      "year_first": 1987,
+      "year_last": "",
+      "share": 11,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/Concerned_Citizens%27_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4057,
+      "name_short": "SKDP",
+      "name": "St. Kitts Democratic Party",
+      "name_english": "St. Kitts Democratic Party",
+      "name_other": "",
+      "year_first": 1949,
+      "year_last": 1957,
+      "share": 9.2,
+      "share_year": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Kitts_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5964,
+      "name_short": "PLP",
+      "name": "People’s Labour Party",
+      "name_english": "People's Labour Party",
+      "name_other": "",
+      "year_first": 2013,
+      "year_last": "",
+      "share": 9,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Labour_Party_(Saint_Kitts_and_Nevis)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4061,
+      "name_short": "UNM",
+      "name": "United Nevis Movement",
+      "name_english": "United Nevis Movement",
+      "name_other": "United National Movement",
+      "year_first": 1961,
+      "year_last": 1971,
+      "share": 5.9,
+      "share_year": 1966,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_National_Movement_(Saint_Kitts-Nevis-Anguilla)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4055,
+      "name_short": "UPP",
+      "name": "United People’s Party",
+      "name_english": "United People’s Party",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 1995,
+      "share": 3.2,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_People%27s_Party_(Saint_Kitts_and_Nevis)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4118,
+      "name_short": "NPP",
+      "name": "Nevis People’s Party",
+      "name_english": "Nevis People’s Party",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1957,
+      "share": 2,
+      "share_year": 1957,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Saint Kitts and Nevis — Political Parties - Free Download",
+    "description": "Political parties of Saint Kitts and Nevis from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Saint Kitts and Nevis — Political Parties | ListBase",
+    "seo_description": "Download Saint Kitts and Nevis — Political Parties dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

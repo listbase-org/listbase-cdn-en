@@ -1,0 +1,240 @@
+{
+  "id": "kr-unesco-heritage",
+  "name": "South Korea — UNESCO World Heritage Sites",
+  "title": "South Korea — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in South Korea, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 736,
+      "name": "Seokguram Grotto and Bulguksa Temple",
+      "category": "cultural",
+      "date_inscribed": 1995,
+      "criteria": "c1, c4",
+      "lat": 35.78333333,
+      "lon": 129.35,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "kr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 737,
+      "name": "Haeinsa Temple Janggyeong Panjeon, the Depositories for the Tripitaka Koreana Woodblocks",
+      "category": "cultural",
+      "date_inscribed": 1995,
+      "criteria": "c4, c6",
+      "lat": 35.8,
+      "lon": 128.1,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "kr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 738,
+      "name": "Jongmyo Shrine",
+      "category": "cultural",
+      "date_inscribed": 1995,
+      "criteria": "c4",
+      "lat": 37.55,
+      "lon": 126.98333,
+      "area_hectares": 19.4,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "kr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 816,
+      "name": "Changdeokgung Palace Complex",
+      "category": "cultural",
+      "date_inscribed": 1997,
+      "criteria": "c2, c3, c4",
+      "lat": 37.55,
+      "lon": 126.9833333,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "kr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 817,
+      "name": "Hwaseong Fortress",
+      "category": "cultural",
+      "date_inscribed": 1997,
+      "criteria": "c2, c3",
+      "lat": 37.27222,
+      "lon": 127.00833,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "kr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 976,
+      "name": "Gyeongju Historic Areas",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c2, c3",
+      "lat": 35.78889,
+      "lon": 129.22667,
+      "area_hectares": 2880,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "kr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 977,
+      "name": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c3",
+      "lat": 34.96667,
+      "lon": 126.92917,
+      "area_hectares": 51.65,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "kr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1264,
+      "name": "Jeju Volcanic Island and Lava Tubes",
+      "category": "natural",
+      "date_inscribed": 2007,
+      "criteria": "n7, n8",
+      "lat": 33.46888889,
+      "lon": 126.7202778,
+      "area_hectares": 9475.2,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "kr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1319,
+      "name": "Royal Tombs of the Joseon Dynasty",
+      "category": "cultural",
+      "date_inscribed": 2009,
+      "criteria": "c3, c4, c6",
+      "lat": 37.19722222,
+      "lon": 128.4527778,
+      "area_hectares": 1891.2,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "kr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1324,
+      "name": "Historic Villages of Korea: Hahoe and Yangdong",
+      "category": "cultural",
+      "date_inscribed": 2010,
+      "criteria": "c3, c4",
+      "lat": 36.53916667,
+      "lon": 128.5166667,
+      "area_hectares": 599.6,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "kr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1439,
+      "name": "Namhansanseong",
+      "category": "cultural",
+      "date_inscribed": 2014,
+      "criteria": "c2, c4",
+      "lat": 37.47888889,
+      "lon": 127.1811111,
+      "area_hectares": 409.06,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "kr",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "South Korea — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in South Korea, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "South Korea — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download South Korea — UNESCO World Heritage Sites dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

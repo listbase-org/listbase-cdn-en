@@ -1,0 +1,268 @@
+{
+  "id": "tr-unesco-heritage",
+  "name": "Turkey — UNESCO World Heritage Sites",
+  "title": "Turkey — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Turkey, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 356,
+      "name": "Historic Areas of Istanbul",
+      "category": "cultural",
+      "date_inscribed": 1985,
+      "criteria": "c1, c2, c3, c4",
+      "lat": 41.00847,
+      "lon": 28.97993,
+      "area_hectares": 678,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 357,
+      "name": "Gireme National Park and the Rock Sites of Cappadocia",
+      "category": "mixed",
+      "date_inscribed": 1985,
+      "criteria": "c1, c3, c5, n7",
+      "lat": 38.66667,
+      "lon": 34.85,
+      "area_hectares": 9883.81,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 358,
+      "name": "Great Mosque and Hospital of Divrigi",
+      "category": "cultural",
+      "date_inscribed": 1985,
+      "criteria": "c1, c4",
+      "lat": 39.37361,
+      "lon": 38.12361,
+      "area_hectares": 2016,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 377,
+      "name": "Hattusha: the Hittite Capital",
+      "category": "cultural",
+      "date_inscribed": 1986,
+      "criteria": "c1, c2, c3, c4",
+      "lat": 40.01389,
+      "lon": 34.62056,
+      "area_hectares": 268.46,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 448,
+      "name": "Nemrut Dag",
+      "category": "cultural",
+      "date_inscribed": 1987,
+      "criteria": "c1, c3, c4",
+      "lat": 38.03661,
+      "lon": 38.76369,
+      "area_hectares": 11,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 484,
+      "name": "Xanthos-Letoon",
+      "category": "cultural",
+      "date_inscribed": 1988,
+      "criteria": "c2, c3",
+      "lat": 36.335,
+      "lon": 29.32028,
+      "area_hectares": 126.4,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 485,
+      "name": "Hierapolis-Pamukkale",
+      "category": "mixed",
+      "date_inscribed": 1988,
+      "criteria": "c3, c4, n7",
+      "lat": 37.92389,
+      "lon": 29.12333,
+      "area_hectares": 1077,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 614,
+      "name": "City of Safranbolu",
+      "category": "cultural",
+      "date_inscribed": 1994,
+      "criteria": "c2, c4, c5",
+      "lat": 41.26,
+      "lon": 32.68972,
+      "area_hectares": 193,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 849,
+      "name": "Archaeological Site of Troy",
+      "category": "cultural",
+      "date_inscribed": 1998,
+      "criteria": "c2, c3, c6",
+      "lat": 39.95644,
+      "lon": 26.239,
+      "area_hectares": 158,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1366,
+      "name": "Selimiye Mosque and its Social Complex",
+      "category": "cultural",
+      "date_inscribed": 2011,
+      "criteria": "c1, c4",
+      "lat": 41.67777778,
+      "lon": 26.55944444,
+      "area_hectares": 2.5,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1405,
+      "name": "Neolithic Site of Catalhoyuk",
+      "category": "cultural",
+      "date_inscribed": 2012,
+      "criteria": "c3, c4",
+      "lat": 37.66666667,
+      "lon": 32.82805556,
+      "area_hectares": 37,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1452,
+      "name": "Bursa and Cumalikizik: the Birth of the Ottoman Empire",
+      "category": "cultural",
+      "date_inscribed": 2014,
+      "criteria": "c1, c2, c3, c4, c6",
+      "lat": 40.18473056,
+      "lon": 29.06233611,
+      "area_hectares": 27.467,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1457,
+      "name": "Pergamon and its Multi-Layered Cultural Landscape",
+      "category": "cultural",
+      "date_inscribed": 2014,
+      "criteria": "c1, c2, c3, c4, c6",
+      "lat": 39.12583333,
+      "lon": 27.18,
+      "area_hectares": 332.5,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "tr",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Turkey — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Turkey, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Turkey — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Turkey — UNESCO World Heritage Sites dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

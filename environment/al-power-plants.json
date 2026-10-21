@@ -1,0 +1,250 @@
+{
+  "id": "al-power-plants",
+  "name": "Albania — Power Plants",
+  "title": "Albania — Power Plants",
+  "description": "Power plants located in Albania from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Koman",
+      "gppd_idnr": "WRI1002171",
+      "capacity_mw": 600,
+      "latitude": 42.1033,
+      "longitude": 19.8224,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1985,
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Albania_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 2072.13; 2014: 1618.73; 2015: 1805.63; 2016: 2434.84; 2017: 1982.72",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Fierza",
+      "gppd_idnr": "WRI1002170",
+      "capacity_mw": 500,
+      "latitude": 42.2514,
+      "longitude": 20.0431,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1978,
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Albania_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1976.01; 2014: 1276.61; 2015: 1503.72; 2016: 1795.15; 2017: 1648.24",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Vau i Dijes",
+      "gppd_idnr": "WRI1002175",
+      "capacity_mw": 250,
+      "latitude": 42.0137,
+      "longitude": 19.6359,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1971,
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Albania_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 895.02; 2014: 561.94; 2015: 614.47; 2016: 897.47; 2017: 703.64",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Vlora",
+      "gppd_idnr": "WRI1002176",
+      "capacity_mw": 98,
+      "latitude": 40.4874,
+      "longitude": 19.434,
+      "primary_fuel": "Other",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Albania_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Bistrica 1",
+      "gppd_idnr": "WRI1002169",
+      "capacity_mw": 27,
+      "latitude": 39.9116,
+      "longitude": 20.1047,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1965,
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Albania_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 105.17; 2014: 75.26; 2015: 79.5; 2016: 105.45; 2017: 88.45",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ulez",
+      "gppd_idnr": "WRI1002174",
+      "capacity_mw": 25,
+      "latitude": 41.6796,
+      "longitude": 19.8936,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1958,
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Albania_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 97.42; 2014: 72.77; 2015: 80.74; 2016: 100.21; 2017: 87.06",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Shkopet",
+      "gppd_idnr": "WRI1002173",
+      "capacity_mw": 24,
+      "latitude": 41.6796,
+      "longitude": 19.8305,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1963,
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Albania_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 93.52; 2014: 69.86; 2015: 77.51; 2016: 96.2; 2017: 83.57",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Lanabregas",
+      "gppd_idnr": "WRI1002172",
+      "capacity_mw": 5,
+      "latitude": 41.3428,
+      "longitude": 19.8964,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1951,
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Albania_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 20.37; 2014: 12.89; 2015: 14.64; 2016: 20.04; 2017: 15.23",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Albania — Power Plants - Free Download",
+    "description": "Power plants located in Albania from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Albania — Power Plants | ListBase",
+    "seo_description": "Download Albania — Power Plants dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

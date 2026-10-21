@@ -1,0 +1,271 @@
+{
+  "id": "pr-airports-iata",
+  "name": "Puerto Rico — IATA Airports",
+  "title": "Puerto Rico — IATA Airports",
+  "description": "Airports with IATA codes in Puerto Rico: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "ARE",
+      "icao_code": "TJAB",
+      "name": "Antonio (Nery) Juarbe Pol Airport",
+      "city_name_list": "Arecibo",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Arecibo",
+      "latitude": 18.45,
+      "longitude": -66.67,
+      "elevation": 7,
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": "https://en.wikipedia.org/wiki/Antonio_%28Nery%29_Juarbe_Pol_Airport"
+    },
+    {
+      "iata_code": "BQN",
+      "icao_code": "TJBQ",
+      "name": "Rafael Hernandez Airport",
+      "city_name_list": "Aguadilla",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Aguadilla",
+      "latitude": 18.494861,
+      "longitude": -67.129444,
+      "elevation": 64,
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": "https://en.wikipedia.org/wiki/Rafael_Hern%C3%A1ndez_Airport"
+    },
+    {
+      "iata_code": "CPX",
+      "icao_code": "TJCP",
+      "name": "Benjamín Rivera Noriega Airport",
+      "city_name_list": "Culebra",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Culebra",
+      "latitude": 18.31178,
+      "longitude": -65.30315,
+      "elevation": 3,
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": "https://en.wikipedia.org/wiki/Benjam%C3%ADn_Rivera_Noriega_Airport"
+    },
+    {
+      "iata_code": "FAJ",
+      "icao_code": "TJFA",
+      "name": "Diego Jimenez Torres Airport",
+      "city_name_list": "Fajardo",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Fajardo",
+      "latitude": 18.308889,
+      "longitude": -65.661861,
+      "elevation": 15,
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": "https://en.wikipedia.org/wiki/Diego_Jim%C3%A9nez_Torres_Airport"
+    },
+    {
+      "iata_code": "HUC",
+      "icao_code": "",
+      "name": "Humacao Airport",
+      "city_name_list": "Humacao",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Humacao",
+      "latitude": 18.13802,
+      "longitude": -65.79965,
+      "elevation": 8,
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": "https://en.wikipedia.org/wiki/Humacao_Airport"
+    },
+    {
+      "iata_code": "MAZ",
+      "icao_code": "TJMZ",
+      "name": "Eugenio María de Hostos Airport",
+      "city_name_list": "Mayagüez",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Mayagueez",
+      "latitude": 18.2543,
+      "longitude": -67.14966,
+      "elevation": 7,
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": "https://en.wikipedia.org/wiki/Eugenio_Mar%C3%ADa_de_Hostos_Airport"
+    },
+    {
+      "iata_code": "NRR",
+      "icao_code": "TJRV",
+      "name": "José Aponte de la Torre Airport",
+      "city_name_list": "Ceiba",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Ceiba",
+      "latitude": 18.25042,
+      "longitude": -65.63573,
+      "elevation": 9,
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Aponte_de_la_Torre_Airport"
+    },
+    {
+      "iata_code": "PPD",
+      "icao_code": "",
+      "name": "Palmas del Mar Airstrip",
+      "city_name_list": "Humacao",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Humacao",
+      "latitude": 18.14,
+      "longitude": -65.82,
+      "elevation": "",
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "PSE",
+      "icao_code": "TJPS",
+      "name": "Mercedita Airport",
+      "city_name_list": "Ponce",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Ponce",
+      "latitude": 18.008306,
+      "longitude": -66.563028,
+      "elevation": 10,
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mercedita_Airport"
+    },
+    {
+      "iata_code": "SIG",
+      "icao_code": "TJIG",
+      "name": "Fernando Luis Ribas Dominicci Airport",
+      "city_name_list": "San Juan",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "San Juan",
+      "latitude": 18.4569,
+      "longitude": -66.09774,
+      "elevation": 3,
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": "https://en.wikipedia.org/wiki/Fernando_Luis_Ribas_Dominicci_Airport"
+    },
+    {
+      "iata_code": "SJU",
+      "icao_code": "TJSJ",
+      "name": "Luis Muñoz Marín International Airport",
+      "city_name_list": "San Juan",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Carolina",
+      "latitude": 18.439417,
+      "longitude": -66.001833,
+      "elevation": 3,
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": "https://en.wikipedia.org/wiki/Luis_Mu%C3%B1oz_Mar%C3%ADn_International_Airport"
+    },
+    {
+      "iata_code": "VQS",
+      "icao_code": "TJVQ",
+      "name": "Antonio Rivera Rodríguez Airport",
+      "city_name_list": "Vieques Island=Vieques Municipality",
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Vieques",
+      "latitude": 18.13478,
+      "longitude": -65.49035,
+      "elevation": 13,
+      "timezone": "America/Puerto_Rico",
+      "wiki_link": "https://en.wikipedia.org/wiki/Antonio_Rivera_Rodr%C3%ADguez_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Puerto Rico — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Puerto Rico: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Puerto Rico — IATA Airports | ListBase",
+    "seo_description": "Download Puerto Rico — IATA Airports dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

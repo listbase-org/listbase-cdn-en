@@ -1,0 +1,775 @@
+{
+  "id": "world-cup-2022-matches",
+  "name": "FIFA World Cup 2022 Matches",
+  "title": "FIFA World Cup 2022 Matches",
+  "description": "64 matches from the 2022 FIFA World Cup, including date, round/group, teams, full-time score, and stadium.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/world-cup.json",
+  "source_url": "https://github.com/openfootball/world-cup.json",
+  "updated": "2026-04",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "time",
+      "label": "Time",
+      "type": "string"
+    },
+    {
+      "key": "round",
+      "label": "Round",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "team1",
+      "label": "Team1",
+      "type": "string"
+    },
+    {
+      "key": "team2",
+      "label": "Team2",
+      "type": "string"
+    },
+    {
+      "key": "score1",
+      "label": "Score1",
+      "type": "number"
+    },
+    {
+      "key": "score2",
+      "label": "Score2",
+      "type": "number"
+    },
+    {
+      "key": "ground",
+      "label": "Ground",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2022-11-20",
+      "time": "19:00",
+      "round": "Matchday 1",
+      "group": "Group A",
+      "team1": "Qatar",
+      "team2": "Ecuador",
+      "score1": 0,
+      "score2": 2,
+      "ground": "Al Bayt Stadium, Al Khor"
+    },
+    {
+      "date": "2022-11-21",
+      "time": "19:00",
+      "round": "Matchday 2",
+      "group": "Group A",
+      "team1": "Senegal",
+      "team2": "Netherlands",
+      "score1": 0,
+      "score2": 2,
+      "ground": "Al Thumama Stadium, Doha"
+    },
+    {
+      "date": "2022-11-25",
+      "time": "16:00",
+      "round": "Matchday 6",
+      "group": "Group A",
+      "team1": "Qatar",
+      "team2": "Senegal",
+      "score1": 1,
+      "score2": 3,
+      "ground": "Al Thumama Stadium, Doha"
+    },
+    {
+      "date": "2022-11-25",
+      "time": "19:00",
+      "round": "Matchday 6",
+      "group": "Group A",
+      "team1": "Netherlands",
+      "team2": "Ecuador",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Khalifa International Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-29",
+      "time": "18:00",
+      "round": "Matchday 10",
+      "group": "Group A",
+      "team1": "Ecuador",
+      "team2": "Senegal",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Khalifa International Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-29",
+      "time": "18:00",
+      "round": "Matchday 10",
+      "group": "Group A",
+      "team1": "Netherlands",
+      "team2": "Qatar",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Al Bayt Stadium, Al Khor"
+    },
+    {
+      "date": "2022-11-21",
+      "time": "16:00",
+      "round": "Matchday 2",
+      "group": "Group B",
+      "team1": "England",
+      "team2": "Iran",
+      "score1": 6,
+      "score2": 2,
+      "ground": "Khalifa International Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-21",
+      "time": "22:00",
+      "round": "Matchday 2",
+      "group": "Group B",
+      "team1": "USA",
+      "team2": "Wales",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-25",
+      "time": "13:00",
+      "round": "Matchday 6",
+      "group": "Group B",
+      "team1": "Wales",
+      "team2": "Iran",
+      "score1": 0,
+      "score2": 2,
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-25",
+      "time": "22:00",
+      "round": "Matchday 6",
+      "group": "Group B",
+      "team1": "England",
+      "team2": "USA",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Al Bayt Stadium, Al Khor"
+    },
+    {
+      "date": "2022-11-29",
+      "time": "22:00",
+      "round": "Matchday 10",
+      "group": "Group B",
+      "team1": "Wales",
+      "team2": "England",
+      "score1": 0,
+      "score2": 3,
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-29",
+      "time": "22:00",
+      "round": "Matchday 10",
+      "group": "Group B",
+      "team1": "Iran",
+      "team2": "USA",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Al Thumama Stadium, Doha"
+    },
+    {
+      "date": "2022-11-22",
+      "time": "13:00",
+      "round": "Matchday 3",
+      "group": "Group C",
+      "team1": "Argentina",
+      "team2": "Saudi Arabia",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Lusail Iconic Stadium, Lusail"
+    },
+    {
+      "date": "2022-11-22",
+      "time": "19:00",
+      "round": "Matchday 3",
+      "group": "Group C",
+      "team1": "Mexico",
+      "team2": "Poland",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Stadium 974, Doha"
+    },
+    {
+      "date": "2022-11-26",
+      "time": "16:00",
+      "round": "Matchday 7",
+      "group": "Group C",
+      "team1": "Poland",
+      "team2": "Saudi Arabia",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Education City Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-26",
+      "time": "22:00",
+      "round": "Matchday 7",
+      "group": "Group C",
+      "team1": "Argentina",
+      "team2": "Mexico",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Lusail Iconic Stadium, Lusail"
+    },
+    {
+      "date": "2022-11-30",
+      "time": "22:00",
+      "round": "Matchday 11",
+      "group": "Group C",
+      "team1": "Poland",
+      "team2": "Argentina",
+      "score1": 0,
+      "score2": 2,
+      "ground": "Stadium 974, Doha"
+    },
+    {
+      "date": "2022-11-30",
+      "time": "22:00",
+      "round": "Matchday 11",
+      "group": "Group C",
+      "team1": "Saudi Arabia",
+      "team2": "Mexico",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Lusail Iconic Stadium, Lusail"
+    },
+    {
+      "date": "2022-11-22",
+      "time": "16:00",
+      "round": "Matchday 3",
+      "group": "Group D",
+      "team1": "Denmark",
+      "team2": "Tunisia",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Education City Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-22",
+      "time": "22:00",
+      "round": "Matchday 3",
+      "group": "Group D",
+      "team1": "France",
+      "team2": "Australia",
+      "score1": 4,
+      "score2": 1,
+      "ground": "Al Janoub Stadium, Al Wakrah"
+    },
+    {
+      "date": "2022-11-26",
+      "time": "13:00",
+      "round": "Matchday 7",
+      "group": "Group D",
+      "team1": "Tunisia",
+      "team2": "Australia",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Al Janoub Stadium, Al Wakrah"
+    },
+    {
+      "date": "2022-11-26",
+      "time": "19:00",
+      "round": "Matchday 7",
+      "group": "Group D",
+      "team1": "France",
+      "team2": "Denmark",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Stadium 974, Doha"
+    },
+    {
+      "date": "2022-11-30",
+      "time": "18:00",
+      "round": "Matchday 11",
+      "group": "Group D",
+      "team1": "Australia",
+      "team2": "Denmark",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Al Janoub Stadium, Al Wakrah"
+    },
+    {
+      "date": "2022-11-30",
+      "time": "18:00",
+      "round": "Matchday 11",
+      "group": "Group D",
+      "team1": "Tunisia",
+      "team2": "France",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Education City Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-23",
+      "time": "16:00",
+      "round": "Matchday 4",
+      "group": "Group E",
+      "team1": "Germany",
+      "team2": "Japan",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Khalifa International Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-23",
+      "time": "19:00",
+      "round": "Matchday 4",
+      "group": "Group E",
+      "team1": "Spain",
+      "team2": "Costa Rica",
+      "score1": 7,
+      "score2": 0,
+      "ground": "Al Thumama Stadium, Doha"
+    },
+    {
+      "date": "2022-11-27",
+      "time": "13:00",
+      "round": "Matchday 8",
+      "group": "Group E",
+      "team1": "Japan",
+      "team2": "Costa Rica",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-27",
+      "time": "22:00",
+      "round": "Matchday 8",
+      "group": "Group E",
+      "team1": "Spain",
+      "team2": "Germany",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Al Bayt Stadium, Al Khor"
+    },
+    {
+      "date": "2022-12-01",
+      "time": "22:00",
+      "round": "Matchday 12",
+      "group": "Group E",
+      "team1": "Japan",
+      "team2": "Spain",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Khalifa International Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-12-01",
+      "time": "22:00",
+      "round": "Matchday 12",
+      "group": "Group E",
+      "team1": "Costa Rica",
+      "team2": "Germany",
+      "score1": 2,
+      "score2": 4,
+      "ground": "Al Bayt Stadium, Al Khor"
+    },
+    {
+      "date": "2022-11-23",
+      "time": "13:00",
+      "round": "Matchday 4",
+      "group": "Group F",
+      "team1": "Morocco",
+      "team2": "Croatia",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Al Bayt Stadium, Al Khor"
+    },
+    {
+      "date": "2022-11-23",
+      "time": "22:00",
+      "round": "Matchday 4",
+      "group": "Group F",
+      "team1": "Belgium",
+      "team2": "Canada",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-27",
+      "time": "16:00",
+      "round": "Matchday 8",
+      "group": "Group F",
+      "team1": "Belgium",
+      "team2": "Morocco",
+      "score1": 0,
+      "score2": 2,
+      "ground": "Al Thumama Stadium, Doha"
+    },
+    {
+      "date": "2022-11-27",
+      "time": "19:00",
+      "round": "Matchday 8",
+      "group": "Group F",
+      "team1": "Croatia",
+      "team2": "Canada",
+      "score1": 4,
+      "score2": 1,
+      "ground": "Khalifa International Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-12-01",
+      "time": "18:00",
+      "round": "Matchday 12",
+      "group": "Group F",
+      "team1": "Croatia",
+      "team2": "Belgium",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-12-01",
+      "time": "18:00",
+      "round": "Matchday 12",
+      "group": "Group F",
+      "team1": "Canada",
+      "team2": "Morocco",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Al Thumama Stadium, Doha"
+    },
+    {
+      "date": "2022-11-24",
+      "time": "13:00",
+      "round": "Matchday 5",
+      "group": "Group G",
+      "team1": "Switzerland",
+      "team2": "Cameroon",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Al Janoub Stadium, Al Wakrah"
+    },
+    {
+      "date": "2022-11-24",
+      "time": "22:00",
+      "round": "Matchday 5",
+      "group": "Group G",
+      "team1": "Brazil",
+      "team2": "Serbia",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Lusail Iconic Stadium, Lusail"
+    },
+    {
+      "date": "2022-11-28",
+      "time": "13:00",
+      "round": "Matchday 9",
+      "group": "Group G",
+      "team1": "Cameroon",
+      "team2": "Serbia",
+      "score1": 3,
+      "score2": 3,
+      "ground": "Al Janoub Stadium, Al Wakrah"
+    },
+    {
+      "date": "2022-11-28",
+      "time": "19:00",
+      "round": "Matchday 9",
+      "group": "Group G",
+      "team1": "Brazil",
+      "team2": "Switzerland",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Stadium 974, Doha"
+    },
+    {
+      "date": "2022-12-02",
+      "time": "22:00",
+      "round": "Matchday 13",
+      "group": "Group G",
+      "team1": "Serbia",
+      "team2": "Switzerland",
+      "score1": 2,
+      "score2": 3,
+      "ground": "Stadium 974, Doha"
+    },
+    {
+      "date": "2022-12-02",
+      "time": "22:00",
+      "round": "Matchday 13",
+      "group": "Group G",
+      "team1": "Cameroon",
+      "team2": "Brazil",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Lusail Iconic Stadium, Lusail"
+    },
+    {
+      "date": "2022-11-24",
+      "time": "16:00",
+      "round": "Matchday 5",
+      "group": "Group H",
+      "team1": "Uruguay",
+      "team2": "South Korea",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Education City Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-24",
+      "time": "19:00",
+      "round": "Matchday 5",
+      "group": "Group H",
+      "team1": "Portugal",
+      "team2": "Ghana",
+      "score1": 3,
+      "score2": 2,
+      "ground": "Stadium 974, Doha"
+    },
+    {
+      "date": "2022-11-28",
+      "time": "16:00",
+      "round": "Matchday 9",
+      "group": "Group H",
+      "team1": "South Korea",
+      "team2": "Ghana",
+      "score1": 2,
+      "score2": 3,
+      "ground": "Education City Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-11-28",
+      "time": "22:00",
+      "round": "Matchday 9",
+      "group": "Group H",
+      "team1": "Portugal",
+      "team2": "Uruguay",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Lusail Iconic Stadium, Lusail"
+    },
+    {
+      "date": "2022-12-02",
+      "time": "18:00",
+      "round": "Matchday 13",
+      "group": "Group H",
+      "team1": "Ghana",
+      "team2": "Uruguay",
+      "score1": 0,
+      "score2": 2,
+      "ground": "Al Janoub Stadium, Al Wakrah"
+    },
+    {
+      "date": "2022-12-02",
+      "time": "18:00",
+      "round": "Matchday 13",
+      "group": "Group H",
+      "team1": "South Korea",
+      "team2": "Portugal",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Lusail Iconic Stadium, Lusail"
+    },
+    {
+      "date": "2022-12-03",
+      "time": "18:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Netherlands",
+      "team2": "USA",
+      "score1": 3,
+      "score2": 1,
+      "ground": "Khalifa International Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-12-03",
+      "time": "22:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Argentina",
+      "team2": "Australia",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-12-04",
+      "time": "18:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "France",
+      "team2": "Poland",
+      "score1": 3,
+      "score2": 1,
+      "ground": "Al Thumama Stadium, Doha"
+    },
+    {
+      "date": "2022-12-04",
+      "time": "22:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "England",
+      "team2": "Senegal",
+      "score1": 3,
+      "score2": 0,
+      "ground": "Al Bayt Stadium, Al Khor"
+    },
+    {
+      "date": "2022-12-05",
+      "time": "18:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Japan",
+      "team2": "Croatia",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Al Janoub Stadium, Al Wakrah"
+    },
+    {
+      "date": "2022-12-05",
+      "time": "22:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Brazil",
+      "team2": "South Korea",
+      "score1": 4,
+      "score2": 1,
+      "ground": "Stadium 974, Doha"
+    },
+    {
+      "date": "2022-12-06",
+      "time": "18:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Morocco",
+      "team2": "Spain",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Education City Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-12-06",
+      "time": "22:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Portugal",
+      "team2": "Switzerland",
+      "score1": 6,
+      "score2": 1,
+      "ground": "Lusail Iconic Stadium, Lusail"
+    },
+    {
+      "date": "2022-12-09",
+      "time": "18:00",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "Croatia",
+      "team2": "Brazil",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Education City Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-12-09",
+      "time": "22:00",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "score1": 2,
+      "score2": 2,
+      "ground": "Lusail Iconic Stadium, Lusail"
+    },
+    {
+      "date": "2022-12-10",
+      "time": "18:00",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "Morocco",
+      "team2": "Portugal",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Al Thumama Stadium, Doha"
+    },
+    {
+      "date": "2022-12-10",
+      "time": "22:00",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "England",
+      "team2": "France",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Al Bayt Stadium, Al Khor"
+    },
+    {
+      "date": "2022-12-13",
+      "time": "22:00",
+      "round": "Semi-finals",
+      "group": "",
+      "team1": "Argentina",
+      "team2": "Croatia",
+      "score1": 3,
+      "score2": 0,
+      "ground": "Lusail Iconic Stadium, Lusail"
+    },
+    {
+      "date": "2022-12-14",
+      "time": "22:00",
+      "round": "Semi-finals",
+      "group": "",
+      "team1": "France",
+      "team2": "Morocco",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Al Bayt Stadium, Al Khor"
+    },
+    {
+      "date": "2022-12-17",
+      "time": "18:00",
+      "round": "Match for third place",
+      "group": "",
+      "team1": "Croatia",
+      "team2": "Morocco",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Khalifa International Stadium, Al Rayyan"
+    },
+    {
+      "date": "2022-12-18",
+      "time": "18:00",
+      "round": "Final",
+      "group": "",
+      "team1": "Argentina",
+      "team2": "France",
+      "score1": 2,
+      "score2": 2,
+      "ground": "Lusail Iconic Stadium, Lusail"
+    }
+  ],
+  "meta": {
+    "title": "FIFA World Cup 2022 Matches - Free Download",
+    "description": "64 matches from the 2022 FIFA World Cup, including date, round/group, teams, full-time score, and stadium. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FIFA World Cup 2022 Matches | ListBase",
+    "seo_description": "Download FIFA World Cup 2022 Matches — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/world-cup.json"
+    ]
+  }
+}

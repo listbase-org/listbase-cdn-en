@@ -1,0 +1,4285 @@
+{
+  "id": "cpp-libraries-directory",
+  "name": "C++ Libraries Directory",
+  "title": "C++ Libraries Directory",
+  "description": "470 curated C++ libraries with repository links, categories, and technology tags. Covers algorithms, networking, multimedia, testing, and more.",
+  "category": "tech",
+  "source": "https://github.com/sourcerer-io/awesome-libraries",
+  "source_url": "https://github.com/sourcerer-io/awesome-libraries",
+  "updated": "2026-04",
+  "record_count": 470,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "repo",
+      "label": "Repo",
+      "type": "string"
+    },
+    {
+      "key": "tags",
+      "label": "Tags",
+      "type": "string"
+    },
+    {
+      "key": "tech",
+      "label": "Tech",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "imports",
+      "label": "Imports",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "cpp.pdqsort",
+      "name": "pdqsort",
+      "repo": "orlp/pdqsort",
+      "tags": "sort",
+      "tech": "algorithms",
+      "status": "model-ready",
+      "imports": "pdqsort.h"
+    },
+    {
+      "id": "cpp.tim-sort",
+      "name": "TimSort",
+      "repo": "gfx/cpp-TimSort",
+      "tags": "sort",
+      "tech": "algorithms",
+      "status": "model-ready",
+      "imports": "timsort.hpp"
+    },
+    {
+      "id": "cpp.openmp",
+      "name": "OpenMP",
+      "repo": "llvm-mirror/openmp",
+      "tags": "high-performance",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "omp.h"
+    },
+    {
+      "id": "cpp.abseil-cpp",
+      "name": "Abseil-C++",
+      "repo": "abseil/abseil-cpp",
+      "tags": "stl-extension",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "absl/"
+    },
+    {
+      "id": "cpp.apr",
+      "name": "APR",
+      "repo": "apache/apr",
+      "tags": "cross-platform, run-time",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "apr.h, apr_"
+    },
+    {
+      "id": "cpp.bde",
+      "name": "BDE",
+      "repo": "bloomberg/bde",
+      "tags": "stl",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "bsl_, bslma_"
+    },
+    {
+      "id": "cpp.boost",
+      "name": "Boost",
+      "repo": "boostorg/thread",
+      "tags": "toolkit",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "boost"
+    },
+    {
+      "id": "cpp.boost-signals2",
+      "name": "Boost.Signals2",
+      "repo": "boostorg/signals2",
+      "tags": "signal-slots",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "boost/signals2/"
+    },
+    {
+      "id": "cpp.cpp-react",
+      "name": "C++React",
+      "repo": "schlangster/cpp.react",
+      "tags": "reactive",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "react/"
+    },
+    {
+      "id": "cpp.eastl",
+      "name": "EASTL",
+      "repo": "electronicarts/EASTL",
+      "tags": "high-performance, stl",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "EASTL/"
+    },
+    {
+      "id": "cpp.folly",
+      "name": "Folly",
+      "repo": "facebook/folly",
+      "tags": "toolkit",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "folly"
+    },
+    {
+      "id": "cpp.glib",
+      "name": "GLib",
+      "repo": "https://gitlab.gnome.org/GNOME/glib/-/archive/master/glib-master.zip",
+      "tags": "core-utils",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "glib.h, glib-"
+    },
+    {
+      "id": "cpp.kangaru",
+      "name": "kangaru",
+      "repo": "gracicot/kangaru",
+      "tags": "inversion-of-control",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "kangaru/"
+    },
+    {
+      "id": "cpp.libphenom",
+      "name": "libPhenom",
+      "repo": "facebook/libphenom",
+      "tags": "high-performance, eventing",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "phenom/"
+    },
+    {
+      "id": "cpp.libsigcpp",
+      "name": "libsigc++",
+      "repo": "GNOME/libsigcplusplus",
+      "tags": "callbacks",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "sigc++/sigc++.h"
+    },
+    {
+      "id": "cpp.loki",
+      "name": "Loki",
+      "repo": "https://loki-lib.sourceforge.net",
+      "tags": "design-patterns",
+      "tech": "app-arch",
+      "status": "awaiting-model",
+      "imports": "loki/"
+    },
+    {
+      "id": "cpp.mili",
+      "name": "MiLi",
+      "repo": "https://bitbucket.org/fudepan/mili/get/6ec9fce00b98.zip",
+      "tags": "misc",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "mili/"
+    },
+    {
+      "id": "cpp.moderngpu",
+      "name": "moderngpu",
+      "repo": "moderngpu/moderngpu",
+      "tags": "components, gpu",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "moderngpu/"
+    },
+    {
+      "id": "cpp.nccl",
+      "name": "NCCL",
+      "repo": "NVIDIA/nccl",
+      "tags": "multi-gpu",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "nccl.h"
+    },
+    {
+      "id": "cpp.poco",
+      "name": "POCO",
+      "repo": "pocoproject/poco",
+      "tags": "toolkit",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "Poco"
+    },
+    {
+      "id": "cpp.sigslot",
+      "name": "Sigslot",
+      "repo": "palacaze/sigslot",
+      "tags": "signal-slots",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "sigslot/signal.hpp"
+    },
+    {
+      "id": "cpp.stlport",
+      "name": "STLport",
+      "repo": "https://git.code.sf.net/p/stlport/code",
+      "tags": "cross-platform",
+      "tech": "app-arch",
+      "status": "awaiting-model"
+    },
+    {
+      "id": "cpp.tbox",
+      "name": "tbox",
+      "repo": "tboox/tbox",
+      "tags": "cross-platform-clib",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "tbox/tbox.h"
+    },
+    {
+      "id": "cpp.ustl",
+      "name": "uSTL",
+      "repo": "msharov/ustl",
+      "tags": "low-memory-stl",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "uspecial.h, ualgo.h, unumeric.h, ofstream.h"
+    },
+    {
+      "id": "cpp.yomm2",
+      "name": "YOMM2",
+      "repo": "jll63/yomm2",
+      "tags": "multiple-dispatch",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "yorel/"
+    },
+    {
+      "id": "cpp.libevil",
+      "name": "libevil",
+      "repo": "avati/libevil",
+      "tags": "license",
+      "tech": "app-blocks",
+      "status": "awaiting-model",
+      "imports": "libevil.h"
+    },
+    {
+      "id": "cpp.libharu",
+      "name": "libHaru",
+      "repo": "libharu/libharu",
+      "tags": "pdf-generator",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "hpdf.h"
+    },
+    {
+      "id": "cpp.mupdf",
+      "name": "MuPDF",
+      "repo": "ArtifexSoftware/mupdf",
+      "tags": "pdf-reader",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "mupdf/"
+    },
+    {
+      "id": "cpp.poppler",
+      "name": "Poppler",
+      "repo": "freedesktop/poppler",
+      "tags": "pdf-reader",
+      "tech": "app-blocks",
+      "status": "awaiting-model",
+      "imports": "poppler.h"
+    },
+    {
+      "id": "cpp.scintilla",
+      "name": "Scintilla",
+      "repo": "mirror/scintilla",
+      "tags": "editor",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "Scintilla.h"
+    },
+    {
+      "id": "cpp.Expat",
+      "name": "Expat",
+      "repo": "libexpat/libexpat",
+      "tags": "xml-parser",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "expat.h"
+    },
+    {
+      "id": "cpp.frozen",
+      "name": "frozen",
+      "repo": "cesanta/frozen",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "frozen.h"
+    },
+    {
+      "id": "cpp.jbson",
+      "name": "jbson",
+      "repo": "chrismanning/jbson",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "jbson/"
+    },
+    {
+      "id": "cpp.jeayeson",
+      "name": "jeayeson",
+      "repo": "jeaye/jeayeson",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "jeayeson/jeayeson.hpp"
+    },
+    {
+      "id": "cpp.json",
+      "name": "JSON",
+      "repo": "nlohmann/json",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "nlohmann, json"
+    },
+    {
+      "id": "cpp.json-c",
+      "name": "json-c",
+      "repo": "json-c/json-c",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "json.h"
+    },
+    {
+      "id": "cpp.json-cpp",
+      "name": "JsonCpp",
+      "repo": "open-source-parsers/jsoncpp",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "json/json.h"
+    },
+    {
+      "id": "cpp.json-h",
+      "name": "json.h",
+      "repo": "sheredom/json.h",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "json.h"
+    },
+    {
+      "id": "cpp.json-parser",
+      "name": "JSON parser",
+      "repo": "udp/json-parser",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "json.h"
+    },
+    {
+      "id": "cpp.json-voorhees",
+      "name": "JSON Voorhees",
+      "repo": "tgockel/json-voorhees",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "jsonv/"
+    },
+    {
+      "id": "cpp.json11",
+      "name": "json11",
+      "repo": "dropbox/json11",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "json11.hpp"
+    },
+    {
+      "id": "cpp.jsonxx",
+      "name": "JSON++",
+      "repo": "hjiang/jsonxx",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "jsonxx.h"
+    },
+    {
+      "id": "cpp.jute",
+      "name": "Jute",
+      "repo": "amir-s/jute",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "jute.h"
+    },
+    {
+      "id": "cpp.libjson",
+      "name": "libjson",
+      "repo": "vincenthz/libjson",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "json.h"
+    },
+    {
+      "id": "cpp.libjson-ninja9578",
+      "name": "libjson",
+      "repo": "https://sourceforge.net/projects/libjson/files/libjson_7.6.1.zip",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "libjson.h"
+    },
+    {
+      "id": "cpp.libxml2",
+      "name": "Libxml2",
+      "repo": "GNOME/libxml2",
+      "tags": "xml-parser",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "libxml/"
+    },
+    {
+      "id": "cpp.libxmlxx",
+      "name": "libxml++",
+      "repo": "https://gitlab.gnome.org/GNOME/libxmlplusplus/-/archive/master/libxmlplusplus-master.zip",
+      "tags": "xml-parser",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "libxml++/"
+    },
+    {
+      "id": "cpp.pico-json",
+      "name": "PicoJSON",
+      "repo": "kazuho/picojson",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "picojson.h"
+    },
+    {
+      "id": "cpp.pugixml",
+      "name": "pugixml",
+      "repo": "zeux/pugixml",
+      "tags": "xml-parser",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "pugixml.hpp"
+    },
+    {
+      "id": "cpp.qjson",
+      "name": "QJson",
+      "repo": "flavio/qjson",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "QJson/"
+    },
+    {
+      "id": "cpp.qt-json",
+      "name": "qt-json",
+      "repo": "qt-json/qt-json",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "json.h"
+    },
+    {
+      "id": "cpp.rapid-json",
+      "name": "RapidJSON",
+      "repo": "Tencent/rapidjson",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "rapidjson"
+    },
+    {
+      "id": "cpp.rapidxml",
+      "name": "RapidXml",
+      "repo": "timniederhausen/rapidxml",
+      "tags": "xml-parser",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "rapidxml.hpp, rapidxml_"
+    },
+    {
+      "id": "cpp.ticpp",
+      "name": "TiCPP",
+      "repo": "wxFormBuilder/ticpp",
+      "tags": "xml-parser",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "ticpp.h"
+    },
+    {
+      "id": "cpp.tinyxml",
+      "name": "TinyXML",
+      "repo": "https://sourceforge.net/p/tinyxml/git/ci/master/tree/",
+      "tags": "xml-parser",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "tinyxml.h"
+    },
+    {
+      "id": "cpp.tinyxml2",
+      "name": "TinyXML2",
+      "repo": "leethomason/tinyxml2",
+      "tags": "xml-parser",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "tinyxml2.h"
+    },
+    {
+      "id": "cpp.ujson",
+      "name": "ujson",
+      "repo": "https://bitbucket.org/awangk/ujson/get/65df934db6d6.zip",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "ujson/ujson.hpp"
+    },
+    {
+      "id": "cpp.xerces-cpp",
+      "name": "Xerces C++",
+      "repo": "apache/xerces-c",
+      "tags": "xml-parser",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "xercesc/"
+    },
+    {
+      "id": "cpp.yajl",
+      "name": "yajl",
+      "repo": "lloyd/yajl",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "yajl/"
+    },
+    {
+      "id": "cpp.juce",
+      "name": "JUCE",
+      "repo": "WeAreROLI/JUCE",
+      "tags": "cross-platform",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "juce_"
+    },
+    {
+      "id": "cpp.minimp3",
+      "name": "minimp3",
+      "repo": "lieff/minimp3",
+      "tags": "codec",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "minimp3.h"
+    },
+    {
+      "id": "cpp.openal-soft",
+      "name": "OpenAL Soft",
+      "repo": "kcat/openal-soft",
+      "tags": "3d-audio, audio-synthesis, audio-game",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "al.h, AL/"
+    },
+    {
+      "id": "cpp.opus",
+      "name": "Opus",
+      "repo": "xiph/opus",
+      "tags": "codec",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "opus.h"
+    },
+    {
+      "id": "cpp.sela",
+      "name": "SELA",
+      "repo": "sahaRatul/sela",
+      "tags": "codec",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "sela"
+    },
+    {
+      "id": "cpp.soloud",
+      "name": "SoLoud",
+      "repo": "jarikomppa/soloud",
+      "tags": "audio-game, 3d-audio",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "soloud.h, soloud_"
+    },
+    {
+      "id": "cpp.speex",
+      "name": "Speex",
+      "repo": "xiph/Speex",
+      "tags": "codec",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "speex.h"
+    },
+    {
+      "id": "cpp.tonic",
+      "name": "Tonic",
+      "repo": "TonicAudio/Tonic",
+      "tags": "audio-synthesis",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "Tonic.h"
+    },
+    {
+      "id": "cpp.vorbis",
+      "name": "Vorbis",
+      "repo": "xiph/vorbis",
+      "tags": "codec",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "vorbis/"
+    },
+    {
+      "id": "cpp.root",
+      "name": "ROOT",
+      "repo": "root-project/root",
+      "tags": "data-analysis, visualization",
+      "tech": "big-data",
+      "status": "model-ready",
+      "imports": "root/"
+    },
+    {
+      "id": "cpp.stxxl",
+      "name": "STXXL",
+      "repo": "stxxl/stxxl",
+      "tags": "big-data-stl",
+      "tech": "big-data",
+      "status": "model-ready",
+      "imports": "stxxl/"
+    },
+    {
+      "id": "cpp.replxx",
+      "name": "replxx",
+      "repo": "AmokHuginnsson/replxx",
+      "tags": "readline, interpreter",
+      "tech": "cli",
+      "status": "model-ready",
+      "imports": "replxx.hxx"
+    },
+    {
+      "id": "cpp.apache-thrift",
+      "name": "Apache Thrift",
+      "repo": "apache/thrift",
+      "tags": "rpc",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "thrift/"
+    },
+    {
+      "id": "cpp.capnproto",
+      "name": "Cap'n Proto",
+      "repo": "capnproto/capnproto",
+      "tags": "serialization",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "capnp/"
+    },
+    {
+      "id": "cpp.cpprestsdk",
+      "name": "C++ REST SDK",
+      "repo": "Microsoft/cpprestsdk",
+      "tags": "client-server",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "cpprest/"
+    },
+    {
+      "id": "cpp.grpc",
+      "name": "gRPC",
+      "repo": "grpc/grpc",
+      "tags": "rpc",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "grpcpp/"
+    },
+    {
+      "id": "cpp.libjson-rpc-cpp",
+      "name": "libjson-rpc-cpp",
+      "repo": "cinemast/libjson-rpc-cpp",
+      "tags": "json-rpc",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "jsonrpccpp/"
+    },
+    {
+      "id": "cpp.librdkafka",
+      "name": "librdkafka",
+      "repo": "edenhill/librdkafka",
+      "tags": "streaming",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "librdkafka/rdkafkacpp.h"
+    },
+    {
+      "id": "cpp.rcf",
+      "name": "Remote Call Framework",
+      "repo": "http://www.deltavsoft.com/downloads/RCF-3.0.251.zip",
+      "tags": "rpc",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "RCF/"
+    },
+    {
+      "id": "cpp.xmlrpc-c",
+      "name": "XML RPC-C C++",
+      "repo": "mirror/xmlrpc-c",
+      "tags": "rpc",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "xmlrpc-c/"
+    },
+    {
+      "id": "cpp.zero-mq",
+      "name": "ZeroMQ",
+      "repo": "zeromq/libzmq",
+      "tags": "rpc",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "zmq.h, zmq_utils.h"
+    },
+    {
+      "id": "cpp.libsequence",
+      "name": "libsequence",
+      "repo": "molpopgen/libsequence",
+      "tags": "genetics, analysis, high-performance",
+      "tech": "computational-biology",
+      "status": "model-ready",
+      "imports": "Sequence/"
+    },
+    {
+      "id": "cpp.seqan",
+      "name": "SeqAn",
+      "repo": "seqan/seqan",
+      "tags": "high-performance",
+      "tech": "computational-biology",
+      "status": "model-ready",
+      "imports": "seqan/"
+    },
+    {
+      "id": "cpp.apophenia",
+      "name": "Apophenia",
+      "repo": "b-k/apophenia",
+      "tags": "statistics",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "apop.h"
+    },
+    {
+      "id": "cpp.armadillo",
+      "name": "Armadillo",
+      "repo": "conradsnicta/armadillo-code/",
+      "tags": "linear-algebra",
+      "tech": "computational-science",
+      "status": "awaiting-model",
+      "imports": "armadillo"
+    },
+    {
+      "id": "cpp.blaze",
+      "name": "blaze",
+      "repo": "https://bitbucket.org/blaze-lib/blaze/src",
+      "tags": "math",
+      "tech": "computational-science",
+      "status": "awaiting-model",
+      "imports": "blaze/"
+    },
+    {
+      "id": "cpp.boost-multiprecision",
+      "name": "Boost.Multiprecision",
+      "repo": "boostorg/multiprecision",
+      "tags": "multiprecision",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "boost/multiprecision/"
+    },
+    {
+      "id": "cpp.ceres-solver",
+      "name": "Ceres Solver",
+      "repo": "ceres-solver/ceres-solver",
+      "tags": "optimization",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "ceres/"
+    },
+    {
+      "id": "cpp.cgal",
+      "name": "CGAL",
+      "repo": "CGAL/cgal",
+      "tags": "geometry",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "CGAL/"
+    },
+    {
+      "id": "cpp.cml",
+      "name": "CML",
+      "repo": "demianmnave/CML",
+      "tags": "multiprecision",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "cml.h"
+    },
+    {
+      "id": "cpp.cpp-ad",
+      "name": "CppAD",
+      "repo": "coin-or/CppAD",
+      "tags": "differentiation",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "cppad"
+    },
+    {
+      "id": "cpp.eigen",
+      "name": "Eigen",
+      "repo": "eigenteam/eigen-git-mirror",
+      "tags": "algebra",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "Eigen/"
+    },
+    {
+      "id": "cpp.evolving-objects",
+      "name": "Evolving Objects",
+      "repo": "http://eodev.sourceforge.net/",
+      "tags": "optimization, ga",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "eo, ga.h, es.h"
+    },
+    {
+      "id": "cpp.exprtk",
+      "name": "ExprTK",
+      "repo": "http://www.partow.net/downloads/exprtk.zip",
+      "tags": "expressions",
+      "tech": "computational-science",
+      "status": "awaiting-model",
+      "imports": "exprtk.hpp"
+    },
+    {
+      "id": "cpp.fftw",
+      "name": "FFTW",
+      "repo": "FFTW/fftw3",
+      "tags": "fft",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "fftw3.h"
+    },
+    {
+      "id": "cpp.gmp",
+      "name": "GMP",
+      "repo": "https://gmplib.org/download/gmp/gmp-6.1.2.tar.lz",
+      "tags": "multiprecision",
+      "tech": "computational-science",
+      "status": "awaiting-model",
+      "imports": "gmp.h"
+    },
+    {
+      "id": "cpp.gsl",
+      "name": "GSL",
+      "repo": "http://git.savannah.gnu.org/cgit/gsl.git/tree/",
+      "tags": "toolkit",
+      "tech": "computational-science",
+      "status": "awaiting-model",
+      "imports": "gsl/"
+    },
+    {
+      "id": "cpp.kfr",
+      "name": "kfr",
+      "repo": "kfrlib/kfr",
+      "tags": "dsp, audio, fft",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "kfr/"
+    },
+    {
+      "id": "cpp.libigl",
+      "name": "libigl",
+      "repo": "libigl/libigl",
+      "tags": "matrices",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "igl/"
+    },
+    {
+      "id": "cpp.libtommath",
+      "name": "LibTomMath",
+      "repo": "libtom/libtommath",
+      "tags": "integers",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "tommath.h"
+    },
+    {
+      "id": "cpp.maximilian",
+      "name": "Maximilian",
+      "repo": "micknoise/Maximilian",
+      "tags": "dsp, audio, fft",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "maximilian.h"
+    },
+    {
+      "id": "cpp.miracl",
+      "name": "MIRACL",
+      "repo": "miracl/MIRACL",
+      "tags": "cryptography",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "MIRACL/"
+    },
+    {
+      "id": "cpp.muparser",
+      "name": "muparser",
+      "repo": "beltoforion/muparser",
+      "tags": "expressions",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "muParser.h"
+    },
+    {
+      "id": "cpp.nt2",
+      "name": "NT2",
+      "repo": "jtlap/nt2",
+      "tags": "toolkit",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "nt2/"
+    },
+    {
+      "id": "cpp.open-blas",
+      "name": "OpenBLAS",
+      "repo": "xianyi/OpenBLAS",
+      "tags": "linear-algebra",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "common.h"
+    },
+    {
+      "id": "cpp.trilinos",
+      "name": "Trilinos",
+      "repo": "trilinos/Trilinos",
+      "tags": "toolkit",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "Trilinos/"
+    },
+    {
+      "id": "cpp.versor",
+      "name": "Versor",
+      "repo": "wolftype/versor",
+      "tags": "geometry",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "vsr_app.h"
+    },
+    {
+      "id": "cpp.wykobi",
+      "name": "Wykobi",
+      "repo": "ArashPartow/wykobi",
+      "tags": "geometry",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "wykobi.hpp, wykobi_"
+    },
+    {
+      "id": "cpp.ccv",
+      "name": "ccv",
+      "repo": "liuliu/ccv",
+      "tags": "cv",
+      "tech": "computer-vision",
+      "status": "model-ready",
+      "imports": "ccv.h"
+    },
+    {
+      "id": "cpp.itk",
+      "name": "ITK",
+      "repo": "InsightSoftwareConsortium/ITK",
+      "tags": "segmentation, registration",
+      "tech": "computer-vision",
+      "status": "model-ready",
+      "imports": "itk"
+    },
+    {
+      "id": "cpp.open-cv",
+      "name": "OpenCV",
+      "repo": "opencv/opencv",
+      "tags": "cv",
+      "tech": "computer-vision",
+      "status": "model-ready",
+      "imports": "opencv/, opencv2/"
+    },
+    {
+      "id": "cpp.tesseract",
+      "name": "Tesseract",
+      "repo": "tesseract-ocr/tesseract",
+      "tags": "ocr",
+      "tech": "computer-vision",
+      "status": "model-ready",
+      "imports": "tesseract"
+    },
+    {
+      "id": "cpp.vigra",
+      "name": "VIGRA",
+      "repo": "ukoethe/vigra",
+      "tags": "image-analysis",
+      "tech": "computer-vision",
+      "status": "model-ready",
+      "imports": "vigra/"
+    },
+    {
+      "id": "cpp.vlfeat",
+      "name": "VLFeat",
+      "repo": "vlfeat/vlfeat",
+      "tags": "algorithms, image-features",
+      "tech": "computer-vision",
+      "status": "model-ready",
+      "imports": "vl/"
+    },
+    {
+      "id": "cpp.libucl",
+      "name": "LIBUCL",
+      "repo": "vstakhov/libucl",
+      "tags": "ucl",
+      "tech": "configuration",
+      "status": "model-ready",
+      "imports": "ucl++"
+    },
+    {
+      "id": "cpp.civetweb",
+      "name": "CivetWeb",
+      "repo": "civetweb/civetweb",
+      "tags": "web-server",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "CivetServer.h, civetweb.h"
+    },
+    {
+      "id": "cpp.cppcms",
+      "name": "CppCMS",
+      "repo": "artyom-beilis/cppcms",
+      "tags": "high-perf-web",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "cppcms/"
+    },
+    {
+      "id": "cpp.crow",
+      "name": "Crow",
+      "repo": "ipkn/crow",
+      "tags": "microframework",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "crow.h"
+    },
+    {
+      "id": "cpp.cutelyst",
+      "name": "Cutelyst",
+      "repo": "cutelyst/cutelyst",
+      "tags": "qt-web",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "Cutelyst/"
+    },
+    {
+      "id": "cpp.ffead-cpp",
+      "name": "ffead-cpp",
+      "repo": "sumeetchhetri/ffead-cpp",
+      "tags": "framework",
+      "tech": "cpp-web",
+      "status": "model-ready"
+    },
+    {
+      "id": "cpp.kore",
+      "name": "Kore",
+      "repo": "jorisvink/kore",
+      "tags": "framework, secure-scalable",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "kore/"
+    },
+    {
+      "id": "cpp.lwan",
+      "name": "Lwan",
+      "repo": "lpereira/lwan",
+      "tags": "web-server",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "lwan.h, lwan-"
+    },
+    {
+      "id": "cpp.onion",
+      "name": "Onion",
+      "repo": "davidmoreno/onion",
+      "tags": "web-server",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "onion/"
+    },
+    {
+      "id": "cpp.pistache",
+      "name": "Pistache",
+      "repo": "oktal/pistache",
+      "tags": "rest",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "pistache/"
+    },
+    {
+      "id": "cpp.qdjango",
+      "name": "QDjango",
+      "repo": "jlaine/qdjango",
+      "tags": "qt-web",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "QDjango"
+    },
+    {
+      "id": "cpp.restbed",
+      "name": "Restbed",
+      "repo": "corvusoft/restbed",
+      "tags": "rest",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "restbed"
+    },
+    {
+      "id": "cpp.treefrog-framework",
+      "name": "TreeFrog",
+      "repo": "treefrogframework/treefrog-framework",
+      "tags": "mvc",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "TAbstractController, tapplicationscheduler.h, tcriteriaconverter.h, thazardptrmanager.h, TJSModule, tmongoobject.h, TreeFrogController, TSqlQuery, tabstractcontroller.h, TApplicationServerBase, tcriteria.h, THtmlAttribute, tjsmodule.h, TMongoODMapper, TreeFrogModel, tsqlquery.h, TAbstractModel, tapplicationserverbase.h, TCriteriaMongoConverter, thtmlattribute.h, TJsonUtil, tmongoodmapper.h, TreeFrogView, TSqlQueryORMapper, tabstractmodel.h, TAppSettings, tcriteriamongoconverter.h, THtmlParser, tjsonutil.h, TMongoQuery, TScheduler, tsqlqueryormapper.h, TAbstractUser, tappsettings.h, TCryptMac, thtmlparser.h, TKvsDatabase, tmongoquery.h, tscheduler.h, TSqlQueryORMapperIterator, tabstractuser.h, TAtomic, tcryptmac.h, THttpHeader, tkvsdatabase.h, TMultipartFormData, TSendmailMailer, tsqlqueryormapperiterator.h, TAccessLog, tatomic.h, TDatabaseContext, thttpheader.h, TKvsDriver, tmultipartformdata.h, tsendmailmailer.h, TSqlTransaction, taccesslog.h, TAtomicPtr, tdatabasecontext.h, THttpRequest, tkvsdriver.h, TMultiplexingServer, TSession, tsqltransaction.h, TAccessValidator, tatomicptr.h, TDatabaseContextThread, thttprequest.h, TLog, tmultiplexingserver.h, tsession.h, TSystemGlobal, taccessvalidator.h, TBackgroundProcess, tdatabasecontextthread.h, THttpRequestHeader, TLogger, TOption, TSessionStore, tsystemglobal.h, TActionContext, tbackgroundprocess.h, TDebug, thttprequestheader.h, tlogger.h, toption.h, tsessionstore.h, TTemporaryFile, tactioncontext.h, TBackgroundProcessHandler, tdebug.h, THttpResponse, TLoggerPlugin, TPaginator, TSessionStorePlugin, ttemporaryfile.h, TActionController, tbackgroundprocesshandler.h, TDirectView, thttpresponse.h, tloggerplugin.h, tpaginator.h, tsessionstoreplugin.h, TThreadApplicationServer, tactioncontroller.h, TBson, tdirectview.h, THttpResponseHeader, tlog.h, TPopMailer, TSharedMemoryLogStream, tthreadapplicationserver.h, TActionHelper, tbson.h, TDispatcher, thttpresponseheader.h, TMailMessage, tpopmailer.h, tsharedmemorylogstream.h, TViewHelper, tactionhelper.h, TCommandLineInterface, tdispatcher.h, THttpUtility, tmailmessage.h, TPreforkApplicationServer, TSmtpMailer, tviewhelper.h, TActionMailer, tcommandlineinterface.h, TfException, thttputility.h, TModelObject, tpreforkapplicationserver.h, tsmtpmailer.h, TWebApplication, tactionmailer.h, TContentHeader, tfexception.h, TInternetMessageHeader, tmodelobject.h, TPrototypeAjaxHelper, TSqlJoin, twebapplication.h, TActionThread, tcontentheader.h, TfNamespace, tinternetmessageheader.h, TModelUtil, tprototypeajaxhelper.h, tsqljoin.h, TWebSocketEndpoint, tactionthread.h, TCookie, tfnamespace.h, TJavaScriptObject, tmodelutil.h, TReactComponent, TSqlObject, twebsocketendpoint.h, TActionView, tcookie.h, TFormValidator, tjavascriptobject.h, TMongoCursor, treactcomponent.h, tsqlobject.h, TWebSocketSession, tactionview.h, TCookieJar, tformvalidator.h, TJSInstance, tmongocursor.h, TRedis, TSqlORMapper, twebsocketsession.h, TActionWorker, tcookiejar.h, TGlobal, tjsinstance.h, TMongoDriver, TRedisDriver, tsqlormapper.h, tactionworker.h, TCriteria, tglobal.h, TJSLoader, tmongodriver.h, tredisdriver.h, TSqlORMapperIterator, TApplicationScheduler, TCriteriaConverter, THazardPtrManager, tjsloader.h, TMongoObject, tredis.h, tsqlormapperiterator.h"
+    },
+    {
+      "id": "cpp.wt",
+      "name": "Wt",
+      "repo": "emweb/wt",
+      "tags": "toolkit",
+      "tech": "cpp-web",
+      "status": "model-ready",
+      "imports": "Wt/"
+    },
+    {
+      "id": "cpp.casacore",
+      "name": "casacore",
+      "repo": "casacore/casacore",
+      "tags": "astronomy",
+      "tech": "data-science",
+      "status": "model-ready",
+      "imports": "aips.h, Coordinates.h, DerivedMC.h, FITS.h, Images.h, Lattices.h, MeasUDF.h, Measures.h, MS, MSFits.h, Converters.h, Mathematics.h, Tables.h"
+    },
+    {
+      "id": "cpp.meta",
+      "name": "MeTa",
+      "repo": "meta-toolkit/meta",
+      "tags": "data-analysis",
+      "tech": "data-science",
+      "status": "model-ready",
+      "imports": "meta/"
+    },
+    {
+      "id": "cpp.vcflib",
+      "name": "vcflib",
+      "repo": "vcflib/vcflib",
+      "tags": "vcf-files",
+      "tech": "data-science",
+      "status": "model-ready",
+      "imports": "Variant.h"
+    },
+    {
+      "id": "cpp.vtk",
+      "name": "VTK",
+      "repo": "Kitware/VTK",
+      "tags": "visualization",
+      "tech": "data-science",
+      "status": "model-ready",
+      "imports": "vtk"
+    },
+    {
+      "id": "cpp.boost-property-tree",
+      "name": "Boost.PropertyTree",
+      "repo": "boostorg/property_tree",
+      "tags": "tree",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "boost/property_tree/"
+    },
+    {
+      "id": "cpp.ck",
+      "name": "ck",
+      "repo": "concurrencykit/ck",
+      "tags": "high-performance",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "ck_"
+    },
+    {
+      "id": "cpp.concurrentqueue",
+      "name": "ConcurrentQueue",
+      "repo": "cameron314/concurrentqueue",
+      "tags": "queues, high-performance, concurrency",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "blockingconcurrentqueue.h, concurrentqueue.h"
+    },
+    {
+      "id": "cpp.hashmap",
+      "name": "hashmap",
+      "repo": "goossaert/hashmap",
+      "tags": "hashmap, high-performance",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "hashmap.h, probing_hashmap.h, tombstone_hashmap.h, backshift_hashmap.h, bitmap_hashmap.h, shadow_hashmap.h"
+    },
+    {
+      "id": "cpp.hopscotch-map",
+      "name": "hopscotch-map",
+      "repo": "Tessil/hopscotch-map",
+      "tags": "hashmap, high-performance",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "hopscotch_"
+    },
+    {
+      "id": "cpp.junction",
+      "name": "Junction",
+      "repo": "preshing/junction",
+      "tags": "high-performance, concurrency",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "junction/"
+    },
+    {
+      "id": "cpp.klib",
+      "name": "Klib",
+      "repo": "attractivechaos/klib",
+      "tags": "collections",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "bgzf.h, kbit.h, keigen.h, khash.h, kmath.h, kseq.h, kstring.h, kurl.h, kalloc.h, kbtree.h, kexpr.h, khmm.h, knetfile.h, kson.h, ksw.h, kvec.h, kavl.h, kdq.h, kgraph.h, klist.h, knhx.h, ksort.h, kthread.h"
+    },
+    {
+      "id": "cpp.libcds",
+      "name": "CDS C++ library",
+      "repo": "khizmax/libcds",
+      "tags": "high-performance, concurrency",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "cds/"
+    },
+    {
+      "id": "cpp.libnih",
+      "name": "libnih",
+      "repo": "keybuk/libnih",
+      "tags": "collections",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "nih/"
+    },
+    {
+      "id": "cpp.lshbox",
+      "name": "LSHBOX",
+      "repo": "RSIA-LIESMARS-WHU/LSHBOX",
+      "tags": "hashmap, high-performance",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "lshbox.h"
+    },
+    {
+      "id": "cpp.partio",
+      "name": "Partio",
+      "repo": "wdas/partio",
+      "tags": "point-cloud",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "Partio.h"
+    },
+    {
+      "id": "cpp.plf_colony",
+      "name": "plf_colony",
+      "repo": "mattreecebentley/plf_colony",
+      "tags": "high-performance",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "plf_colony.h"
+    },
+    {
+      "id": "cpp.plf_list",
+      "name": "plf_list",
+      "repo": "mattreecebentley/plf_list",
+      "tags": "list, high-performance",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "plf_list.h"
+    },
+    {
+      "id": "cpp.plf_stack",
+      "name": "plf_stack",
+      "repo": "mattreecebentley/plf_stack",
+      "tags": "stack, high-performance",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "plf_stack.h"
+    },
+    {
+      "id": "cpp.readerwriterqueue",
+      "name": "readerwriterqueue",
+      "repo": "cameron314/readerwriterqueue",
+      "tags": "queues, high-performance, concurrency",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "readerwriterqueue.h"
+    },
+    {
+      "id": "cpp.ring-span-lite",
+      "name": "ring-span lite",
+      "repo": "martinmoene/ring-span-lite",
+      "tags": "buffer-view",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "ring_span.hpp"
+    },
+    {
+      "id": "cpp.sparsepp",
+      "name": "Sparsepp",
+      "repo": "greg7mdp/sparsepp",
+      "tags": "hashmap, high-performance",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "sparsepp/spp.h"
+    },
+    {
+      "id": "cpp.vexcl",
+      "name": "VexCL",
+      "repo": "ddemidov/vexcl",
+      "tags": "high-performance, cuda",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "vexcl/"
+    },
+    {
+      "id": "cpp.benchmark",
+      "name": "benchmark",
+      "repo": "google/benchmark",
+      "tags": "benchmarking",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "benchmark/benchmark.h"
+    },
+    {
+      "id": "cpp.blackhole",
+      "name": "Blackhole",
+      "repo": "3Hren/blackhole",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "blackhole/"
+    },
+    {
+      "id": "cpp.boost-log",
+      "name": "Boost.Log",
+      "repo": "boostorg/log",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "boost/log/"
+    },
+    {
+      "id": "cpp.celero",
+      "name": "Celero",
+      "repo": "DigitalInBlue/Celero",
+      "tags": "benchmarking",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "celero/"
+    },
+    {
+      "id": "cpp.easyloggingpp",
+      "name": "EasyLogging++",
+      "repo": "muflihun/easyloggingpp",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "easylogging++.h"
+    },
+    {
+      "id": "cpp.g3log",
+      "name": "G3log",
+      "repo": "KjellKod/g3log",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "g3log/"
+    },
+    {
+      "id": "cpp.glog",
+      "name": "glog",
+      "repo": "google/glog",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "glog/"
+    },
+    {
+      "id": "cpp.log4cplus",
+      "name": "log4cplus",
+      "repo": "log4cplus/log4cplus",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "log4cplus/"
+    },
+    {
+      "id": "cpp.log4cpp",
+      "name": "log4cpp",
+      "repo": "https://sourceforge.net/p/log4cpp/codegit/ci/master/tree/",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "awaiting-model",
+      "imports": "log4cpp/"
+    },
+    {
+      "id": "cpp.loguru",
+      "name": "Loguru",
+      "repo": "emilk/loguru",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "loguru.hpp"
+    },
+    {
+      "id": "cpp.plog",
+      "name": "Plog",
+      "repo": "SergiusTheBest/plog",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "plog/"
+    },
+    {
+      "id": "cpp.reckless",
+      "name": "Reckless",
+      "repo": "mattiasflodin/reckless",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "reckless/"
+    },
+    {
+      "id": "cpp.spdlog",
+      "name": "spdlog",
+      "repo": "gabime/spdlog",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "spdlog/"
+    },
+    {
+      "id": "cpp.templog",
+      "name": "templog",
+      "repo": "https://sourceforge.net/p/templog/code/HEAD/tree/code/trunk/",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "logging.h"
+    },
+    {
+      "id": "cpp.caffe",
+      "name": "Caffe",
+      "repo": "BVLC/caffe",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "caffe"
+    },
+    {
+      "id": "cpp.caffe2",
+      "name": "Caffe2",
+      "repo": "caffe2/caffe2",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "caffe2/"
+    },
+    {
+      "id": "cpp.cntk",
+      "name": "CNTK",
+      "repo": "Microsoft/CNTK",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "cntk"
+    },
+    {
+      "id": "cpp.cpp-torch",
+      "name": "cpp-torch",
+      "repo": "tuotuoxp/cpp-torch",
+      "tags": "torch-wrapper",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "cpptorch.h"
+    },
+    {
+      "id": "cpp.frugally-deep",
+      "name": "frugally-deep",
+      "repo": "Dobiasd/frugally-deep",
+      "tags": "keras-models",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "fdeep/fdeep.hpp"
+    },
+    {
+      "id": "cpp.minerva",
+      "name": "Minerva",
+      "repo": "dmlc/minerva",
+      "tags": "multi-gpu",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "minerva.h"
+    },
+    {
+      "id": "cpp.mxnet",
+      "name": "mxnet",
+      "repo": "apache/incubator-mxnet",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "awaiting-model",
+      "imports": "mxnet"
+    },
+    {
+      "id": "cpp.rnnlib",
+      "name": "RNNLIB",
+      "repo": "szcom/rnnlib",
+      "tags": "rnn",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "rnnlib/src/"
+    },
+    {
+      "id": "cpp.tensorflow",
+      "name": "TensorFlow",
+      "repo": "tensorflow/tensorflow",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "tensorflow"
+    },
+    {
+      "id": "cpp.tiny-dnn",
+      "name": "tiny-dnn",
+      "repo": "tiny-dnn/tiny-dnn",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "tiny_dnn/tiny_dnn.h"
+    },
+    {
+      "id": "cpp.veles",
+      "name": "veles",
+      "repo": "Samsung/veles",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "veles.h"
+    },
+    {
+      "id": "cpp.vireo",
+      "name": "Vireo",
+      "repo": "twitter/vireo",
+      "tags": "video-processing",
+      "tech": "dl",
+      "status": "awaiting-model",
+      "imports": "vireo/"
+    },
+    {
+      "id": "cpp.brotli",
+      "name": "Brotli",
+      "repo": "google/brotli",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "brotli/"
+    },
+    {
+      "id": "cpp.bzip2",
+      "name": "bzip2",
+      "repo": "http://www.bzip.org/1.0.6/bzip2-1.0.6.tar.gz",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "bzlib.h"
+    },
+    {
+      "id": "cpp.cereal",
+      "name": "cereal",
+      "repo": "USCiLab/cereal",
+      "tags": "serialization",
+      "tech": "efficient-data",
+      "status": "awaiting-model",
+      "imports": "cereal/"
+    },
+    {
+      "id": "cpp.cppcodec",
+      "name": "cppcodec",
+      "repo": "tplgy/cppcodec",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "awaiting-model",
+      "imports": "cppcodec/"
+    },
+    {
+      "id": "cpp.finite-state-entropy",
+      "name": "FiniteStateEntropy",
+      "repo": "Cyan4973/FiniteStateEntropy",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "FiniteStateEntropy/lib/"
+    },
+    {
+      "id": "cpp.flatbuffers",
+      "name": "FlatBuffers",
+      "repo": "google/flatbuffers",
+      "tags": "serialization",
+      "tech": "efficient-data",
+      "status": "awaiting-model",
+      "imports": "flatbuffers/"
+    },
+    {
+      "id": "cpp.karchive",
+      "name": "kArchive",
+      "repo": "KDE/karchive",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "karchive/k"
+    },
+    {
+      "id": "cpp.lz4",
+      "name": "LZ4",
+      "repo": "lz4/lz4",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "lz4.h"
+    },
+    {
+      "id": "cpp.lzfse",
+      "name": "LZFSE",
+      "repo": "lzfse/lzfse",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "lzfse.h"
+    },
+    {
+      "id": "cpp.lzham",
+      "name": "LZHAM",
+      "repo": "https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/lzham/source-archive.zip",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "lzham_static_lib.h"
+    },
+    {
+      "id": "cpp.lzma",
+      "name": "LZMA",
+      "repo": "jljusten/LZMA-SDK",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "Lzma"
+    },
+    {
+      "id": "cpp.lzmat",
+      "name": "LZMAT",
+      "repo": "http://www.matcode.com/lzmat_lib.zip",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "lzmat.h"
+    },
+    {
+      "id": "cpp.miniz",
+      "name": "miniz",
+      "repo": "https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/miniz/source-archive.zip",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "miniz.h"
+    },
+    {
+      "id": "cpp.minizip",
+      "name": "Minizip",
+      "repo": "nmoinvaz/minizip",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "mz.h, mz_"
+    },
+    {
+      "id": "cpp.msgpack",
+      "name": "msgpack",
+      "repo": "msgpack/msgpack-c",
+      "tags": "serialization",
+      "tech": "efficient-data",
+      "status": "awaiting-model",
+      "imports": "msgpack.hpp"
+    },
+    {
+      "id": "cpp.physics-fs",
+      "name": "PhysicsFS",
+      "repo": "https://hg.icculus.org/icculus/physfs/file",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "physfs.h"
+    },
+    {
+      "id": "cpp.protobuf-c",
+      "name": "protobuf-c",
+      "repo": "protobuf-c/protobuf-c",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "awaiting-model",
+      "imports": "protobuf-c.h"
+    },
+    {
+      "id": "cpp.protocol-buffers",
+      "name": "Protocol Buffers",
+      "repo": "google/protobuf",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "google/protobuf"
+    },
+    {
+      "id": "cpp.raftlib",
+      "name": "RaftLib",
+      "repo": "RaftLib/RaftLib",
+      "tags": "io-streams",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "raft, raftio"
+    },
+    {
+      "id": "cpp.simple-binary-encoding",
+      "name": "Simple Binary Encoding",
+      "repo": "real-logic/simple-binary-encoding",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "awaiting-model",
+      "imports": "otf/, sbe/"
+    },
+    {
+      "id": "cpp.smaz",
+      "name": "SMAZ",
+      "repo": "antirez/smaz",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "smaz.h"
+    },
+    {
+      "id": "cpp.snappy",
+      "name": "Snappy",
+      "repo": "google/snappy",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "snappy.h"
+    },
+    {
+      "id": "cpp.zlib",
+      "name": "zlib",
+      "repo": "http://zlib.net/zlib-1.2.11.tar.gz",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "zlib.h"
+    },
+    {
+      "id": "cpp.zlib-ng",
+      "name": "zlib-ng",
+      "repo": "Dead2/zlib-ng",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "zlib.h"
+    },
+    {
+      "id": "cpp.zstd",
+      "name": "Zstandard",
+      "repo": "facebook/zstd",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "zstd.h"
+    },
+    {
+      "id": "cpp.zziplib",
+      "name": "ZZIPlib",
+      "repo": "gdraheim/zziplib",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "zzip/zzip.h"
+    },
+    {
+      "id": "cpp.access_profiler",
+      "name": "access_profiler",
+      "repo": "arvidn/access_profiler",
+      "tags": "profiler",
+      "tech": "eng-tools",
+      "status": "awaiting-model",
+      "imports": "access_profiler.hpp"
+    },
+    {
+      "id": "cpp.backward-cpp",
+      "name": "Backward-cpp",
+      "repo": "bombela/backward-cpp",
+      "tags": "pretty-output, debugging",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "backward.hpp"
+    },
+    {
+      "id": "cpp.ig-debugheap",
+      "name": "ig-debugheap",
+      "repo": "deplinenoise/ig-debugheap",
+      "tags": "debugging",
+      "tech": "eng-tools",
+      "status": "insufficient-data",
+      "imports": "DebugHeap.h"
+    },
+    {
+      "id": "cpp.memtrack",
+      "name": "memtrack",
+      "repo": "maximkulkin/memtrack",
+      "tags": "leak-detection",
+      "tech": "eng-tools",
+      "status": "awaiting-model",
+      "imports": "memtrack.h"
+    },
+    {
+      "id": "cpp.microprofile",
+      "name": "microprofile",
+      "repo": "jonasmr/microprofile",
+      "tags": "profiler",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "microprofile.h"
+    },
+    {
+      "id": "cpp.plf_nanotimer",
+      "name": "plf_nanotimer",
+      "repo": "mattreecebentley/plf_nanotimer",
+      "tags": "timing",
+      "tech": "eng-tools",
+      "status": "awaiting-model",
+      "imports": "plf_nanotimer.h"
+    },
+    {
+      "id": "cpp.remotery",
+      "name": "Remotery",
+      "repo": "Celtoys/Remotery",
+      "tags": "profiler",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "Remotery.h"
+    },
+    {
+      "id": "cpp.vld",
+      "name": "VLD",
+      "repo": "KindDragon/vld",
+      "tags": "leak-detection",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "vld/"
+    },
+    {
+      "id": "cpp.actor-framework",
+      "name": "Actor Framework",
+      "repo": "actor-framework/actor-framework",
+      "tags": "concurrency, framework",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "caf/all.hpp"
+    },
+    {
+      "id": "cpp.alpaka",
+      "name": "alpaka",
+      "repo": "ComputationalRadiationPhysics/alpaka",
+      "tags": "concurrency, high-performance",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "alpaka/alpaka.hp"
+    },
+    {
+      "id": "cpp.arrayfire",
+      "name": "ArrayFire",
+      "repo": "arrayfire/arrayfire",
+      "tags": "concurrency, high-performance",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "arrayfire.h"
+    },
+    {
+      "id": "cpp.bolt",
+      "name": "Bolt",
+      "repo": "HSA-Libraries/Bolt",
+      "tags": "concurrency, high-performance, gpu",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "bolt/"
+    },
+    {
+      "id": "cpp.boost-compute",
+      "name": "Boost.Compute",
+      "repo": "boostorg/compute",
+      "tags": "concurrency, high-performance, gpu",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "boost/compute/core.hpp"
+    },
+    {
+      "id": "cpp.cub",
+      "name": "CUB",
+      "repo": "NVlabs/cub",
+      "tags": "cuda, high-performance",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "cub/cub.cuh"
+    },
+    {
+      "id": "cpp.cupla",
+      "name": "cupla",
+      "repo": "ComputationalRadiationPhysics/cupla",
+      "tags": "cuda, high-performance",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "cuda_to_cupla.hpp"
+    },
+    {
+      "id": "cpp.hpx",
+      "name": "HPX",
+      "repo": "STEllAR-GROUP/hpx",
+      "tags": "high-performance, concurrency",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "hpx/"
+    },
+    {
+      "id": "cpp.intel-tbb",
+      "name": "Intel TBB",
+      "repo": "01org/tbb",
+      "tags": "concurrency",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "tbb"
+    },
+    {
+      "id": "cpp.libclcxx",
+      "name": "OpenCL",
+      "repo": "KhronosGroup/libclcxx",
+      "tags": "high-performance, concurrency",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "opencl_"
+    },
+    {
+      "id": "cpp.libcsptr",
+      "name": "C Smart Pointers",
+      "repo": "Snaipe/libcsptr",
+      "tags": "smart-pointer",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "csptr/"
+    },
+    {
+      "id": "cpp.libdill",
+      "name": "libdill",
+      "repo": "sustrik/libdill",
+      "tags": "concurrency, high-performance",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "libdill.h"
+    },
+    {
+      "id": "cpp.libmill",
+      "name": "LIBMILL",
+      "repo": "sustrik/libmill",
+      "tags": "concurrency, high-performance",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "libmill.h"
+    },
+    {
+      "id": "cpp.parallel-stl",
+      "name": "Parallel STL",
+      "repo": "intel/parallelstl",
+      "tags": "concurrency, high-performance",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "pstl/"
+    },
+    {
+      "id": "cpp.thrust",
+      "name": "Thrust",
+      "repo": "thrust/thrust",
+      "tags": "high-performance, concurrency",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "thrust/"
+    },
+    {
+      "id": "cpp.vartypes",
+      "name": "vartypes",
+      "repo": "szi/vartypes",
+      "tags": "variable-types",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "Var"
+    },
+    {
+      "id": "cpp.vc",
+      "name": "Vc",
+      "repo": "VcDevel/Vc",
+      "tags": "simd",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "Vc/"
+    },
+    {
+      "id": "cpp.quantlib",
+      "name": "QuantLib",
+      "repo": "lballabio/quantlib",
+      "tags": "algo-trading",
+      "tech": "fintech",
+      "status": "model-ready",
+      "imports": "ql/"
+    },
+    {
+      "id": "cpp.functional-plus",
+      "name": "FunctionalPlus",
+      "repo": "Dobiasd/FunctionalPlus",
+      "tags": "readable-code",
+      "tech": "functional",
+      "status": "model-ready",
+      "imports": "fplus/"
+    },
+    {
+      "id": "cpp.mach7",
+      "name": "Mach7",
+      "repo": "solodon4/Mach7",
+      "tags": "pattern-matching",
+      "tech": "functional",
+      "status": "awaiting-model",
+      "imports": "mach7/"
+    },
+    {
+      "id": "cpp.allegro5",
+      "name": "Allegro5",
+      "repo": "liballeg/allegro5",
+      "tags": "framework",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "allegro5/"
+    },
+    {
+      "id": "cpp.bgfx",
+      "name": "bgfx",
+      "repo": "bkaradzic/bgfx",
+      "tags": "framework",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "bgfx/bgfx.h, bgfx_utils.h"
+    },
+    {
+      "id": "cpp.box2d",
+      "name": "Box2D",
+      "repo": "erincatto/Box2D",
+      "tags": "physics-simulation",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "Box2D.h"
+    },
+    {
+      "id": "cpp.bullet",
+      "name": "Bullet",
+      "repo": "bulletphysics/bullet3",
+      "tags": "physics-simulation",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "BulletCollision/, BulletDynamics/, LinearMath/, BulletInverseDynamics/, BulletSoftBody/, btBulletCollisionCommon.h, btBulletDynamicsCommon.h"
+    },
+    {
+      "id": "cpp.cairo",
+      "name": "cairo",
+      "repo": "https://cgit.freedesktop.org/cairo/tree/",
+      "tags": "2d-graphics, multi-device",
+      "tech": "graphics-gaming",
+      "status": "awaiting-model",
+      "imports": "cairo-boilerplate.h"
+    },
+    {
+      "id": "cpp.chipmunk2d",
+      "name": "Chipmunk2D",
+      "repo": "slembcke/Chipmunk2D",
+      "tags": "physics-simulation",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "chipmunk/"
+    },
+    {
+      "id": "cpp.cinder",
+      "name": "Cinder",
+      "repo": "cinder/Cinder",
+      "tags": "toolkit",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "cinder"
+    },
+    {
+      "id": "cpp.cocos2d-x",
+      "name": "cocos2d-x",
+      "repo": "cocos2d/cocos2d-x",
+      "tags": "framework",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "cocos2d.h"
+    },
+    {
+      "id": "cpp.delta3d",
+      "name": "delta3d",
+      "repo": "https://sourceforge.net/p/delta3d/code/HEAD/tree/trunk/delta3d/",
+      "tags": "simulation",
+      "tech": "graphics-gaming",
+      "status": "awaiting-model",
+      "imports": "dtABC/, dtDAL/, dtDirectorQt/, dtInputPLIB/, dtQt/, dtActors/, dtDirector/, dtDIS/, dtInspectorQt/, dtRender/, dtAI/, dtDirectorAnimNodes/, dtGame/, dtLMS/, dtScript/, dtAnim/, dtDirectorAudioNodes/, dtGUI/, dtNet/, dtTerrain/, dtAudio/, dtDirectorGUINodes/, dtHLAGM/, dtNetGM/, dtUtil/, dtCore/, dtDirectorNodes/, dtInputISense/, dtPhysics/"
+    },
+    {
+      "id": "cpp.diligent-engine",
+      "name": "DiligentEngine",
+      "repo": "DiligentGraphics/DiligentEngine",
+      "tags": "3d-engine",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "NativeApp/"
+    },
+    {
+      "id": "cpp.direct-xtk",
+      "name": "DirectXTK",
+      "repo": "Microsoft/DirectXTK",
+      "tags": "toolkit",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "Audio.h, GraphicsMemory.h, SimpleMath.h, CommonStates.h, Keyboard.h, DDSTextureLoader.h, Model.h, SpriteBatch.h, DirectXHelpers.h, Mouse.h, SpriteFont.h, Effects.h, PostProcess.h, VertexTypes.h, GamePad.h, PrimitiveBatch.h, WICTextureLoader.h, GeometricPrimitive.h, ScreenGrab.h, XboxDDSTextureLoader.h"
+    },
+    {
+      "id": "cpp.entt",
+      "name": "EnTT",
+      "repo": "skypjack/entt",
+      "tags": "framework",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "entt.hpp"
+    },
+    {
+      "id": "cpp.gameplay",
+      "name": "GamePlay",
+      "repo": "gameplay3d/GamePlay",
+      "tags": "3d-engine",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "gameplay.h"
+    },
+    {
+      "id": "cpp.gd",
+      "name": "GD",
+      "repo": "libgd/libgd",
+      "tags": "graphic-creation",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "gd.h"
+    },
+    {
+      "id": "cpp.glm",
+      "name": "GLM",
+      "repo": "g-truc/glm",
+      "tags": "opengl-math",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "glm/"
+    },
+    {
+      "id": "cpp.gmtl",
+      "name": "GMTL",
+      "repo": "https://sourceforge.net/p/ggt/code/HEAD/tree/trunk/",
+      "tags": "math",
+      "tech": "graphics-gaming",
+      "status": "awaiting-model",
+      "imports": "gmtl/"
+    },
+    {
+      "id": "cpp.grit",
+      "name": "Grit",
+      "repo": "https://sourceforge.net/p/gritengine/code/HEAD/tree/trunk/",
+      "tags": "game-engine",
+      "tech": "graphics-gaming",
+      "status": "awaiting-model"
+    },
+    {
+      "id": "cpp.horde-3d",
+      "name": "Horde3D",
+      "repo": "horde3d/Horde3D",
+      "tags": "animation",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "Horde3D.h, Horde3DUtils.h"
+    },
+    {
+      "id": "cpp.ion",
+      "name": "Ion",
+      "repo": "google/ion",
+      "tags": "toolkit",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "ion/"
+    },
+    {
+      "id": "cpp.irrlicht",
+      "name": "Irrlicht",
+      "repo": "https://sourceforge.net/p/irrlicht/code/HEAD/tree/trunk/",
+      "tags": "3d-engine",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "irrlicht.h, driverChoice.h"
+    },
+    {
+      "id": "cpp.klay-ge",
+      "name": "KlayGE",
+      "repo": "gongminmin/KlayGE",
+      "tags": "game-engine",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "KlayGE/"
+    },
+    {
+      "id": "cpp.libclsph",
+      "name": "libclsph",
+      "repo": "libclsph/libclsph",
+      "tags": "animation, gpu, game",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "sph_simulation.h"
+    },
+    {
+      "id": "cpp.linmath.h",
+      "name": "linmath.h",
+      "repo": "datenwolf/linmath.h",
+      "tags": "math",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "linmath.h"
+    },
+    {
+      "id": "cpp.liquid-fun",
+      "name": "LiquidFun",
+      "repo": "google/liquidfun",
+      "tags": "physics-simulation",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "Box2D.h"
+    },
+    {
+      "id": "cpp.magnum",
+      "name": "Magnum",
+      "repo": "mosra/magnum",
+      "tags": "cross-platform-graphics, visualization",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "Magnum/"
+    },
+    {
+      "id": "cpp.nanovg",
+      "name": "NanoVG",
+      "repo": "memononen/nanovg",
+      "tags": "vector-graphics",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "nanovg.h"
+    },
+    {
+      "id": "cpp.newton-dynamics",
+      "name": "Newton Dynamics",
+      "repo": "MADEAPPS/newton-dynamics",
+      "tags": "physics-simulation",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "dAnimation/, dCompilerKit/, dContainers/, dCustomJoints/, dLanguageBinding/, dMath/, dNewton/, dScene/, dWrappers/, dgCore/, dgMeshUtil/, dgNewton/, dgNewtonCpu/, dgPhysics/"
+    },
+    {
+      "id": "cpp.ode",
+      "name": "ODE",
+      "repo": "https://sourceforge.net/p/opende/code/HEAD/tree/trunk/",
+      "tags": "physics-simulation",
+      "tech": "graphics-gaming",
+      "status": "awaiting-model",
+      "imports": "ode.h"
+    },
+    {
+      "id": "cpp.ofx-box2d",
+      "name": "ofxBox2d",
+      "repo": "vanderlin/ofxBox2d",
+      "tags": "physics-simulation",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "ofxBox2d.h"
+    },
+    {
+      "id": "cpp.ogre",
+      "name": "Ogre",
+      "repo": "OGRECave/ogre",
+      "tags": "3d-engine",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "Ogre"
+    },
+    {
+      "id": "cpp.open-frameworks",
+      "name": "openFrameworks",
+      "repo": "openframeworks/openFrameworks",
+      "tags": "creative-coding",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "of3dGraphics.h, ofBaseApp.h, ofEventUtils.h, ofGstVideoGrabber.h, ofMatrix4x4.h, ofQTKitMovieRenderer.h, ofSoundPlayer.h, ofVbo.h, of3dPrimitives.h, ofBaseTypes.h, ofFbo.h, ofGstVideoPlayer.h, ofMatrixStack.h, ofQTKitPlayer.h, ofSoundStream.h, ofVboMesh.h, of3dUtils.h, ofBitmapFont.h, ofFileUtils.h, ofIcon.h, ofMesh.h, ofQtUtils.h, ofSoundUtils.h, ofVec2f.h, ofAppBaseWindow.h, ofBufferObject.h, ofFmodSoundPlayer.h, ofImage.h, ofNode.h, ofQuaternion.h, ofSystemUtils.h, ofVec3f.h, ofAppEGLWindow.h, ofCairoRenderer.h, ofFpsCounter.h, ofJson.h, ofNoise.h, ofQuickTimeGrabber.h, ofTessellator.h, ofVec4f.h, ofAppGLFWWindow.h, ofCamera.h, ofGLBaseTypes.h, ofLight.h, ofOpenALSoundPlayer.h, ofQuickTimePlayer.h, ofTexture.h, ofVectorMath.h, ofAppGlutWindow.h, ofColor.h, ofGLProgrammableRenderer.h, ofLog.h, ofParameterGroup.h, ofRectangle.h, ofThreadChannel.h, ofVideoBaseTypes.h, ofAppNoWindow.h, ofConstants.h, ofGLRenderer.h, ofMain.h, ofParameter.h, ofRendererCollection.h, ofThread.h, ofVideoGrabber.h, ofAppRunner.h, ofDirectShowGrabber.h, ofGLUtils.h, ofMainLoop.h, ofPath.h, ofRtAudioSoundStream.h, ofTimer.h, ofVideoPlayer.h, ofArduino.h, ofDirectShowPlayer.h, ofGraphicsBaseTypes.h, ofMaterial.h, ofPixels.h, ofSerial.h, ofTrueTypeFont.h, ofWindowSettings.h, ofAVFoundationGrabber.h, ofEasyCam.h, ofGraphicsConstants.h, ofMathConstants.h, ofPoint.h, ofShader.h, ofTypes.h, ofXml.h, ofAVFoundationPlayer.h, ofEvent.h, ofGraphics.h, ofMath.h, ofPolyline.h, ofSoundBaseTypes.h, ofURLFileLoader.h, ofAVFoundationVideoPlayer.h, ofEvents.h, ofGstUtils.h, ofMatrix3x3.h, ofQTKitGrabber.h, ofSoundBuffer.h, ofUtils.h"
+    },
+    {
+      "id": "cpp.open-gl",
+      "name": "OpenGL",
+      "repo": "",
+      "tags": "framework",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "glm, GL, GLFW"
+    },
+    {
+      "id": "cpp.open-scene-graph",
+      "name": "OpenSceneGraph",
+      "repo": "openscenegraph/OpenSceneGraph",
+      "tags": "3d-toolkit",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "osg"
+    },
+    {
+      "id": "cpp.open-subdiv",
+      "name": "OpenSubdiv",
+      "repo": "PixarAnimationStudios/OpenSubdiv",
+      "tags": "surface-subdiv",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "opensubdiv/"
+    },
+    {
+      "id": "cpp.openvdb",
+      "name": "OpenVDB",
+      "repo": "dreamworksanimation/openvdb",
+      "tags": "animation",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "openvdb/"
+    },
+    {
+      "id": "cpp.oxygine",
+      "name": "Oxygine",
+      "repo": "oxygine/oxygine-framework",
+      "tags": "game-engine",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "ox/, oxygine-framework.h"
+    },
+    {
+      "id": "cpp.panda3d",
+      "name": "Panda3D",
+      "repo": "panda3d/panda3d",
+      "tags": "3d-engine",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "panda"
+    },
+    {
+      "id": "cpp.polycode",
+      "name": "Polycode",
+      "repo": "ivansafrin/Polycode",
+      "tags": "framework",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "Polycode.h, PolycodeView.h"
+    },
+    {
+      "id": "cpp.raknet",
+      "name": "RakNet",
+      "repo": "facebookarchive/RakNet",
+      "tags": "networking-engine",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "RakNet/"
+    },
+    {
+      "id": "cpp.recastnavigation",
+      "name": "recastnavigation",
+      "repo": "recastnavigation/recastnavigation",
+      "tags": "toolkit, 3d-library",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "Recast.h, DetourTileCache.h, DetourCrowd.h, Detour, DebugUtils"
+    },
+    {
+      "id": "cpp.sdl",
+      "name": "SDL",
+      "repo": "SDL-mirror/SDL",
+      "tags": "direct3d-opengl",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "SDL"
+    },
+    {
+      "id": "cpp.simbody",
+      "name": "Simbody",
+      "repo": "simbody/simbody",
+      "tags": "physics-simulation",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "Simbody.h"
+    },
+    {
+      "id": "cpp.skia",
+      "name": "Skia",
+      "repo": "google/skia",
+      "tags": "2d-engine",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "Sk"
+    },
+    {
+      "id": "cpp.urho-3d",
+      "name": "Urho3D",
+      "repo": "urho3d/Urho3D",
+      "tags": "game-engine",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "Urho3D/"
+    },
+    {
+      "id": "cpp.cegui",
+      "name": "CEGUI",
+      "repo": "https://bitbucket.org/cegui/cegui/src",
+      "tags": "widgets",
+      "tech": "gui",
+      "status": "awaiting-model",
+      "imports": "CEGUI.h"
+    },
+    {
+      "id": "cpp.dear-imgui",
+      "name": "Dear ImGui",
+      "repo": "ocornut/imgui",
+      "tags": "toolkit",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "imgui.h"
+    },
+    {
+      "id": "cpp.fltk",
+      "name": "FLTK",
+      "repo": "http://www.fltk.org/software.php?VERSION=1.3.4&FILE=fltk/1.3.4/fltk-1.3.4-2-source.tar.gz",
+      "tags": "toolkit",
+      "tech": "gui",
+      "status": "awaiting-model",
+      "imports": "FL/"
+    },
+    {
+      "id": "cpp.gacui",
+      "name": "GacUI",
+      "repo": "vczh-libraries/GacUI",
+      "tags": "gpu-ui",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "GacUI.h"
+    },
+    {
+      "id": "cpp.glfw",
+      "name": "GLFW",
+      "repo": "glfw/glfw",
+      "tags": "multi-platform-opengl",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "GLFW/glfw3.h"
+    },
+    {
+      "id": "cpp.gtk",
+      "name": "GTK+",
+      "repo": "https://gitlab.gnome.org/GNOME/gtk/tree/master",
+      "tags": "toolkit",
+      "tech": "gui",
+      "status": "awaiting-model",
+      "imports": "gtk/gtk.h"
+    },
+    {
+      "id": "cpp.gtkmm",
+      "name": "gtkmm",
+      "repo": "https://gitlab.gnome.org/GNOME/gtkmm/tree/master/",
+      "tags": "toolkit",
+      "tech": "gui",
+      "status": "awaiting-model",
+      "imports": "gtkmm/"
+    },
+    {
+      "id": "cpp.lib-rocket",
+      "name": "libRocket",
+      "repo": "libRocket/libRocket",
+      "tags": "html-ui",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "Rocket/"
+    },
+    {
+      "id": "cpp.libui",
+      "name": "libui",
+      "repo": "andlabs/libui",
+      "tags": "c-gui",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "ui.h"
+    },
+    {
+      "id": "cpp.mygui",
+      "name": "MyGUI",
+      "repo": "MyGUI/mygui",
+      "tags": "cross-platform-cpp-gui",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "MyGUI.h"
+    },
+    {
+      "id": "cpp.nana",
+      "name": "nana",
+      "repo": "cnjinhao/nana",
+      "tags": "cross-platform-cpp-gui",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "nana/gui.hpp, nana/gui/"
+    },
+    {
+      "id": "cpp.nanogui",
+      "name": "NanoGUI",
+      "repo": "wjakob/nanogui",
+      "tags": "widgets",
+      "tech": "gui",
+      "status": "awaiting-model",
+      "imports": "nanogui.h"
+    },
+    {
+      "id": "cpp.ncurses",
+      "name": "Ncurses",
+      "repo": "http://invisible-island.net/datafiles/release/ncurses.tar.gz",
+      "tags": "framework",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "ncurses_cfg.h, curses.h"
+    },
+    {
+      "id": "cpp.nuklear",
+      "name": "Nuklear",
+      "repo": "vurtun/nuklear",
+      "tags": "toolkit",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "nuklear.h"
+    },
+    {
+      "id": "cpp.pdcurses",
+      "name": "PDCurses",
+      "repo": "wmcbrine/PDCurses",
+      "tags": "framework",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "curses.h"
+    },
+    {
+      "id": "cpp.qcustom-plot",
+      "name": "QCustomPlot",
+      "repo": "https://gitlab.com/DerManu/QCustomPlot",
+      "tags": "qt-plots",
+      "tech": "gui",
+      "status": "awaiting-model",
+      "imports": "qcp.h"
+    },
+    {
+      "id": "cpp.qt",
+      "name": "Qt",
+      "repo": "qt/qt",
+      "tags": "framework",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "Q"
+    },
+    {
+      "id": "cpp.qwt",
+      "name": "Qwt",
+      "repo": "https://sourceforge.net/p/qwt/code/HEAD/tree/trunk/qwt/",
+      "tags": "widgets",
+      "tech": "gui",
+      "status": "awaiting-model",
+      "imports": "qwt_"
+    },
+    {
+      "id": "cpp.qwtplot3d",
+      "name": "QwtPlot3D",
+      "repo": "sintegrial/qwtplot3d",
+      "tags": "3d-widgets",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "qwt3d_"
+    },
+    {
+      "id": "cpp.sciter-sdk",
+      "name": "sciter-sdk",
+      "repo": "c-smile/sciter-sdk",
+      "tags": "html-gui",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "sciter-x"
+    },
+    {
+      "id": "cpp.termbox",
+      "name": "Termbox",
+      "repo": "nsf/termbox",
+      "tags": "framework",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "termbox.h"
+    },
+    {
+      "id": "cpp.ultimatepp",
+      "name": "Ultimate++",
+      "repo": "ultimatepp/mirror",
+      "tags": "cross-platform",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "AllForI18n/, CbGen/, CppBase/, Docedit/, Draw/, GLCtrl/, IconDes/, Ole/, PdfDraw/, Report/, ScatterCtrl/, SqlCommander/, TCtrlLib/, Turtle/, urepo/, XmlRpc/, AnalyzeMap/, CodeEditor/, Crash/, Docking/, DropGrid/, GLDraw/, MSSQL/, Oracle/, plugin/, RichBook/, ScatterDraw/, SqlCtrl/, TDraw/, umk/, usvn/, XmlView/, art/, Common/, CtrlCore/, docpp/, Esc/, GridCtrl/, MySql/, Painter/, PostgreSQL/, RichEdit/, Skylark/, TabBar/, TextDiffCtrl/, Updater/, VirtualGui/, Core/, CtrlLib/, DocTypes/, Geom/, HexView/, ODBC/, PaintGL/, RasterPlayer/, RichText/, Sql/, TCore/, TSql/, upt/, Web/"
+    },
+    {
+      "id": "cpp.wtl",
+      "name": "WTL",
+      "repo": "https://sourceforge.net/p/wtl/code/HEAD/tree/trunk/",
+      "tags": "windows",
+      "tech": "gui",
+      "status": "awaiting-model",
+      "imports": "atl"
+    },
+    {
+      "id": "cpp.wx-widgets",
+      "name": "wxWidgets",
+      "repo": "wxWidgets/wxWidgets",
+      "tags": "cross-platform-cpp-gui",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "wx/"
+    },
+    {
+      "id": "cpp.yue",
+      "name": "Yue",
+      "repo": "yue/yue",
+      "tags": "cross-platform-cpp-gui",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "nativeui/nativeui.h"
+    },
+    {
+      "id": "cpp.boost-gil",
+      "name": "Boost.Gil",
+      "repo": "boostorg/gil",
+      "tags": "image-processing",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "boost/gil/"
+    },
+    {
+      "id": "cpp.cimg",
+      "name": "CImg",
+      "repo": "dtschump/CImg",
+      "tags": "image-processing",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "CImg.h"
+    },
+    {
+      "id": "cpp.cximage",
+      "name": "cximage",
+      "repo": "movableink/cximage",
+      "tags": "image-processing",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "xfile.h, ximage.h, ximajas.h, ximapcx.h, ximaska.h, ximawbmp.h, ximabmp.h, ximagif.h, ximajbg.h, ximapng.h, ximatga.h, ximawmf.h, ximacfg.h, ximaico.h, ximajpg.h, ximapsd.h, ximath.h, xiofile.h, ximadef.h, ximaiter.h, ximamng.h, ximaraw.h, ximatif.h, xmemfile.h"
+    },
+    {
+      "id": "cpp.dcmtk",
+      "name": "DCMTK",
+      "repo": "DCMTK/dcmtk",
+      "tags": "image-processing",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "dcmtk/"
+    },
+    {
+      "id": "cpp.freeimage",
+      "name": "FreeImage",
+      "repo": "derkreature/FreeImage",
+      "tags": "image-processing",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "FreeImage.h"
+    },
+    {
+      "id": "cpp.gdcm",
+      "name": "GDCM",
+      "repo": "malaterre/GDCM",
+      "tags": "image-processing",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "gdcm"
+    },
+    {
+      "id": "cpp.libvips",
+      "name": "libvips",
+      "repo": "jcupitt/libvips",
+      "tags": "image-processing",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "vips8"
+    },
+    {
+      "id": "cpp.magick-wand",
+      "name": "MagickWand",
+      "repo": "ImageMagick/ImageMagick/tree/master/MagickWand",
+      "tags": "image-processing",
+      "tech": "images",
+      "status": "awaiting-model",
+      "imports": "wand/magick_wand.h"
+    },
+    {
+      "id": "cpp.magickxx",
+      "name": "Magick++",
+      "repo": "ImageMagick/ImageMagick/tree/master/Magick%2B%2B",
+      "tags": "image-processing",
+      "tech": "images",
+      "status": "awaiting-model",
+      "imports": "Magick++.h"
+    },
+    {
+      "id": "cpp.open-image-io",
+      "name": "OpenImageIO",
+      "repo": "OpenImageIO/oiio",
+      "tags": "image-processing",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "OpenImageIO/"
+    },
+    {
+      "id": "cpp.openexr",
+      "name": "OpenEXR",
+      "repo": "openexr/openexr/tree/develop/OpenEXR",
+      "tags": "hdr",
+      "tech": "images",
+      "status": "awaiting-model",
+      "imports": "OpenEXRConfig.h, Imf"
+    },
+    {
+      "id": "cpp.pcl",
+      "name": "PCL",
+      "repo": "PointCloudLibrary/pcl",
+      "tags": "point-cloud",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "pcl/"
+    },
+    {
+      "id": "cpp.videoxx",
+      "name": "Video++",
+      "repo": "matt-42/vpp",
+      "tags": "image-processing",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "vpp/"
+    },
+    {
+      "id": "cpp.zbar",
+      "name": "Zbar",
+      "repo": "https://sourceforge.net/p/zbar/code/ci/default/tree/",
+      "tags": "barcode-scanner",
+      "tech": "images",
+      "status": "awaiting-model",
+      "imports": "zbar.h"
+    },
+    {
+      "id": "cpp.aria2",
+      "name": "aria2",
+      "repo": "aria2/aria2",
+      "tags": "multiprotocol",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "aria2"
+    },
+    {
+      "id": "cpp.bittorrent-dht",
+      "name": "BitTorrent DHT",
+      "repo": "jech/dht",
+      "tags": "bittorrent",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "dht.h"
+    },
+    {
+      "id": "cpp.cpr",
+      "name": "C++ Requests",
+      "repo": "whoshuu/cpr",
+      "tags": "curl",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "cpr/cpr.h"
+    },
+    {
+      "id": "cpp.curlcpp",
+      "name": "curlcpp",
+      "repo": "JosephP91/curlcpp",
+      "tags": "curl-wrapper",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "curlcpp/"
+    },
+    {
+      "id": "cpp.http-parser",
+      "name": "HTTP Parser",
+      "repo": "nodejs/http-parser",
+      "tags": "http-parser",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "http_parser.h"
+    },
+    {
+      "id": "cpp.libcurl",
+      "name": "libcurl",
+      "repo": "curl/curl",
+      "tags": "curl",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "curl/"
+    },
+    {
+      "id": "cpp.libtorrent",
+      "name": "libtorrent",
+      "repo": "arvidn/libtorrent",
+      "tags": "bittorrent",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "libtorrent/"
+    },
+    {
+      "id": "cpp.libutp",
+      "name": "libutp",
+      "repo": "bittorrent/libutp",
+      "tags": "bittorrent",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "utp.h"
+    },
+    {
+      "id": "cpp.mongoose",
+      "name": "mongoose",
+      "repo": "cesanta/mongoose",
+      "tags": "web-server",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "mongoose.h"
+    },
+    {
+      "id": "cpp.nghttp2",
+      "name": "nghttp2",
+      "repo": "nghttp2/nghttp2",
+      "tags": "http2",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "nghttp2/"
+    },
+    {
+      "id": "cpp.proxygen",
+      "name": "Proxygen",
+      "repo": "facebook/proxygen",
+      "tags": "http",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "proxygen/"
+    },
+    {
+      "id": "cpp.seasocks",
+      "name": "seasocks",
+      "repo": "mattgodbolt/seasocks",
+      "tags": "http-server",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "seasocks/"
+    },
+    {
+      "id": "cpp.silicon",
+      "name": "Silicon",
+      "repo": "matt-42/silicon",
+      "tags": "http-framework",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "silicon/"
+    },
+    {
+      "id": "cpp.tufao",
+      "name": "Tufao",
+      "repo": "vinipsmaker/tufao",
+      "tags": "async-web",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "Tufao/"
+    },
+    {
+      "id": "cpp.boost-python",
+      "name": "Boost.Python",
+      "repo": "boostorg/python",
+      "tags": "cpp-python",
+      "tech": "interoperability",
+      "status": "model-ready",
+      "imports": "boost/python/"
+    },
+    {
+      "id": "cpp.chai-script",
+      "name": "ChaiScript",
+      "repo": "ChaiScript/ChaiScript",
+      "tags": "scripting",
+      "tech": "interoperability",
+      "status": "model-ready",
+      "imports": "chaiscript/"
+    },
+    {
+      "id": "cpp.cpp-sharp",
+      "name": "CppSharp",
+      "repo": "mono/CppSharp",
+      "tags": "cpp-csharp",
+      "tech": "interoperability",
+      "status": "model-ready",
+      "imports": "CppSharp.h"
+    },
+    {
+      "id": "cpp.duktape",
+      "name": "Duktape",
+      "repo": "svaarala/duktape",
+      "tags": "cpp-javascript",
+      "tech": "interoperability",
+      "status": "awaiting-model",
+      "imports": "duktape.h, duk_config.h"
+    },
+    {
+      "id": "cpp.libffi",
+      "name": "libffi",
+      "repo": "libffi/libffi",
+      "tags": "conventions",
+      "tech": "interoperability",
+      "status": "awaiting-model",
+      "imports": "ffi_common.h, ffi_cfi.h, ffi.h"
+    },
+    {
+      "id": "cpp.luacxx",
+      "name": "luacxx",
+      "repo": "dafrito/luacxx",
+      "tags": "cpp-lua",
+      "tech": "interoperability",
+      "status": "awaiting-model",
+      "imports": "luacxx/"
+    },
+    {
+      "id": "cpp.nbind",
+      "name": "charto/nbind",
+      "repo": "charto/nbind",
+      "tags": "cpp-javascript",
+      "tech": "interoperability",
+      "status": "awaiting-model",
+      "imports": "nbind/"
+    },
+    {
+      "id": "cpp.php-cpp",
+      "name": "PHP-CPP",
+      "repo": "CopernicaMarketingSoftware/PHP-CPP",
+      "tags": "cpp-php",
+      "tech": "interoperability",
+      "status": "model-ready",
+      "imports": "phpcpp.h"
+    },
+    {
+      "id": "cpp.pybind11",
+      "name": "pybind11",
+      "repo": "pybind/pybind11",
+      "tags": "cpp-python",
+      "tech": "interoperability",
+      "status": "awaiting-model",
+      "imports": "pybind11/"
+    },
+    {
+      "id": "cpp.sip",
+      "name": "SIP",
+      "repo": "https://www.riverbankcomputing.com/hg/sip/file",
+      "tags": "cpp-python",
+      "tech": "interoperability",
+      "status": "awaiting-model"
+    },
+    {
+      "id": "cpp.swig",
+      "name": "SWIG",
+      "repo": "swig/swig",
+      "tags": "multi-language",
+      "tech": "interoperability",
+      "status": "awaiting-model"
+    },
+    {
+      "id": "cpp.v7",
+      "name": "V7",
+      "repo": "cesanta/v7",
+      "tags": "cpp-javascript",
+      "tech": "interoperability",
+      "status": "awaiting-model",
+      "imports": "v7.h"
+    },
+    {
+      "id": "cpp.v8",
+      "name": "V8",
+      "repo": "v8/v8",
+      "tags": "cpp-javascript",
+      "tech": "interoperability",
+      "status": "awaiting-model",
+      "imports": "v8.h, libplatform/libplatform.h"
+    },
+    {
+      "id": "cpp.autobahn-cpp",
+      "name": "AutobahnC++",
+      "repo": "crossbario/autobahn-cpp",
+      "tags": "wamp",
+      "tech": "ipc",
+      "status": "model-ready",
+      "imports": "autobahn/autobahn.hpp"
+    },
+    {
+      "id": "cpp.nanomsg",
+      "name": "nanomsg",
+      "repo": "nanomsg/nanomsg",
+      "tags": "protocols",
+      "tech": "ipc",
+      "status": "model-ready",
+      "imports": "nanomsg/"
+    },
+    {
+      "id": "cpp.micropython",
+      "name": "MicroPython",
+      "repo": "micropython/micropython",
+      "tags": "embedded-python",
+      "tech": "language",
+      "status": "model-ready",
+      "imports": "py/"
+    },
+    {
+      "id": "cpp.ffmpeg",
+      "name": "FFmpeg",
+      "repo": "FFmpeg/FFmpeg",
+      "tags": "toolkit",
+      "tech": "media",
+      "status": "awaiting-model",
+      "imports": "libav"
+    },
+    {
+      "id": "cpp.gstreamer",
+      "name": "gstreamer",
+      "repo": "https://cgit.freedesktop.org/gstreamer/gstreamer/tree/",
+      "tags": "gstreamer",
+      "tech": "media",
+      "status": "awaiting-model",
+      "imports": "gst/"
+    },
+    {
+      "id": "cpp.libde265",
+      "name": "libde265",
+      "repo": "strukturag/libde265",
+      "tags": "video-codec",
+      "tech": "media",
+      "status": "awaiting-model",
+      "imports": "libde265/"
+    },
+    {
+      "id": "cpp.libvlc",
+      "name": "libvlc",
+      "repo": "videolan/vlc/tree/master/include/vlc",
+      "tags": "streaming",
+      "tech": "media",
+      "status": "awaiting-model",
+      "imports": "vlc/vlc.h"
+    },
+    {
+      "id": "cpp.libvpx",
+      "name": "libvpx",
+      "repo": "webmproject/libvpx",
+      "tags": "video-codec",
+      "tech": "media",
+      "status": "awaiting-model",
+      "imports": "vpx/"
+    },
+    {
+      "id": "cpp.live555",
+      "name": "LIVE555",
+      "repo": "http://www.live555.com/liveMedia/public/live.2018.04.25.tar.gz",
+      "tags": "streaming",
+      "tech": "media",
+      "status": "awaiting-model",
+      "imports": "liveMedia.hh"
+    },
+    {
+      "id": "cpp.mediainfolib",
+      "name": "MediaInfoLib",
+      "repo": "MediaArea/MediaInfoLib",
+      "tags": "metadata",
+      "tech": "media",
+      "status": "model-ready",
+      "imports": "MediaInfo.h"
+    },
+    {
+      "id": "cpp.openh264",
+      "name": "OpenH264",
+      "repo": "cisco/openh264",
+      "tags": "video-codec",
+      "tech": "media",
+      "status": "awaiting-model",
+      "imports": "codec/"
+    },
+    {
+      "id": "cpp.qt-av",
+      "name": "QtAV",
+      "repo": "wang-bin/QtAV",
+      "tags": "streaming",
+      "tech": "media",
+      "status": "model-ready",
+      "imports": "QtAV/"
+    },
+    {
+      "id": "cpp.sfml",
+      "name": "SFML",
+      "repo": "SFML/SFML",
+      "tags": "cross-platform, network-access",
+      "tech": "media",
+      "status": "model-ready",
+      "imports": "SFML/"
+    },
+    {
+      "id": "cpp.theora",
+      "name": "theora",
+      "repo": "git.xiph.org/?p=theora.git;a=tree",
+      "tags": "video-codec",
+      "tech": "media",
+      "status": "awaiting-model",
+      "imports": "theora/"
+    },
+    {
+      "id": "cpp.dlib",
+      "name": "Dlib",
+      "repo": "davisking/dlib",
+      "tags": "toolkit",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "dlib"
+    },
+    {
+      "id": "cpp.fido",
+      "name": "Fido",
+      "repo": "FidoProject/Fido",
+      "tags": "embedded",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "Fido/"
+    },
+    {
+      "id": "cpp.mlpack",
+      "name": "mlpack",
+      "repo": "mlpack/mlpack",
+      "tags": "algorithms",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "mlpack/"
+    },
+    {
+      "id": "cpp.recommender",
+      "name": "Recommender",
+      "repo": "GHamrouni/Recommender",
+      "tags": "collaborative-filtering",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "recommender.h"
+    },
+    {
+      "id": "cpp.shogun",
+      "name": "Shogun",
+      "repo": "shogun-toolbox/shogun",
+      "tags": "toolkit",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "shogun/"
+    },
+    {
+      "id": "cpp.sofia-ml",
+      "name": "sofia-ml",
+      "repo": "glycerine/sofia-ml",
+      "tags": "algorithms",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "sofia-ml-, sf-"
+    },
+    {
+      "id": "cpp.xgboost",
+      "name": "XGBoost",
+      "repo": "dmlc/xgboost",
+      "tags": "gradient-boost",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "xgboost"
+    },
+    {
+      "id": "cpp.ace",
+      "name": "ACE",
+      "repo": "DOCGroup/ACE_TAO/tree/master/ACE",
+      "tags": "toolkit",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "ace/"
+    },
+    {
+      "id": "cpp.asio",
+      "name": "Asio",
+      "repo": "chriskohlhoff/asio",
+      "tags": "async-io, async-networking",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "asio.hpp"
+    },
+    {
+      "id": "cpp.breep",
+      "name": "Breep",
+      "repo": "Organic-Code/Breep",
+      "tags": "message-transport",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "breep/"
+    },
+    {
+      "id": "cpp.cpp-netlib",
+      "name": "C++ Network Library",
+      "repo": "cpp-netlib/cpp-netlib",
+      "tags": "cross-platform",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "network/"
+    },
+    {
+      "id": "cpp.dyad-c",
+      "name": "Dyad.c",
+      "repo": "rxi/dyad",
+      "tags": "async",
+      "tech": "networking",
+      "status": "awaiting-model",
+      "imports": "dyad.h"
+    },
+    {
+      "id": "cpp.enet",
+      "name": "ENet",
+      "repo": "lsalzman/enet",
+      "tags": "udp",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "enet/enet.h"
+    },
+    {
+      "id": "cpp.evpp",
+      "name": "evpp",
+      "repo": "Qihoo360/evpp",
+      "tags": "multiprotocol",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "evpp/"
+    },
+    {
+      "id": "cpp.libev",
+      "name": "libev",
+      "repo": "kindy/libev",
+      "tags": "event, async",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "ev.h, ev++.h"
+    },
+    {
+      "id": "cpp.libevent",
+      "name": "libevent",
+      "repo": "libevent/libevent",
+      "tags": "event, async",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "event2/event.h, event2/dns.h, event2/util.h, event2/listener.h, event2/buffer.h, event2/bufferevent.h"
+    },
+    {
+      "id": "cpp.libsourcey",
+      "name": "LibSourcey",
+      "repo": "sourcey/libsourcey",
+      "tags": "p2p-streaming",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "scy/"
+    },
+    {
+      "id": "cpp.libuv",
+      "name": "libuv",
+      "repo": "libuv/libuv",
+      "tags": "async-io",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "uv.h"
+    },
+    {
+      "id": "cpp.libwebsockets",
+      "name": "libwebsockets",
+      "repo": "warmcat/libwebsockets",
+      "tags": "sockets",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "libwebsockets.h"
+    },
+    {
+      "id": "cpp.muduo",
+      "name": "Muduo",
+      "repo": "chenshuo/muduo",
+      "tags": "multithreaded",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "muduo/"
+    },
+    {
+      "id": "cpp.quic",
+      "name": "QUIC",
+      "repo": "devsisters/libquic",
+      "tags": "udp",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "quic_"
+    },
+    {
+      "id": "cpp.uvw",
+      "name": "uvw",
+      "repo": "skypjack/uvw",
+      "tags": "async-io",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "uvw.hpp"
+    },
+    {
+      "id": "cpp.uwebsockets",
+      "name": "uWebSockets",
+      "repo": "uNetworking/uWebSockets",
+      "tags": "websocket",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "uWS.h"
+    },
+    {
+      "id": "cpp.wafer",
+      "name": "WAFer",
+      "repo": "riolet/WAFer",
+      "tags": "framework",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "wafer.h, waferapi.h"
+    },
+    {
+      "id": "cpp.wdt",
+      "name": "WDT",
+      "repo": "facebook/wdt",
+      "tags": "data-transfer",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "wdt/"
+    },
+    {
+      "id": "cpp.websocketpp",
+      "name": "WebSocket++",
+      "repo": "zaphoyd/websocketpp",
+      "tags": "websocket",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "websocketpp/"
+    },
+    {
+      "id": "cpp.fast-text",
+      "name": "fastText",
+      "repo": "facebookresearch/fastText",
+      "tags": "embeddings",
+      "tech": "nlp",
+      "status": "model-ready",
+      "imports": "fasttext"
+    },
+    {
+      "id": "cpp.libusb",
+      "name": "libusb",
+      "repo": "libusb/libusb",
+      "tags": "usb",
+      "tech": "peripheral",
+      "status": "model-ready",
+      "imports": "libusb.h"
+    },
+    {
+      "id": "cpp.serial",
+      "name": "serial",
+      "repo": "wjwwood/serial",
+      "tags": "serial-port",
+      "tech": "peripheral",
+      "status": "model-ready",
+      "imports": "serial/serial.h"
+    },
+    {
+      "id": "cpp.gcc-poison",
+      "name": "gcc-poison",
+      "repo": "leafsr/gcc-poison",
+      "tags": "unsafe-functions",
+      "tech": "reliable-code",
+      "status": "awaiting-model",
+      "imports": "poison.h"
+    },
+    {
+      "id": "cpp.moos-ivp",
+      "name": "MOOS-IvP",
+      "repo": "https://oceanai.mit.edu/svn/moos-ivp-aro/trunk/",
+      "tags": "autonomous-marine",
+      "tech": "robotics",
+      "status": "awaiting-model"
+    },
+    {
+      "id": "cpp.mrpt",
+      "name": "MRPT",
+      "repo": "MRPT/mrpt",
+      "tags": "mobile-robotics",
+      "tech": "robotics",
+      "status": "model-ready",
+      "imports": "mrpt/"
+    },
+    {
+      "id": "cpp.rl",
+      "name": "RL",
+      "repo": "roboticslibrary/rl",
+      "tags": "kinematics",
+      "tech": "robotics",
+      "status": "model-ready",
+      "imports": "rl/"
+    },
+    {
+      "id": "cpp.rob-work",
+      "name": "RobWork",
+      "repo": "kschwan/robwork-mirror",
+      "tags": "simulation",
+      "tech": "robotics",
+      "status": "model-ready",
+      "imports": "rw/"
+    },
+    {
+      "id": "cpp.ros",
+      "name": "ROS",
+      "repo": "ros/ros",
+      "tags": "os",
+      "tech": "robotics",
+      "status": "model-ready",
+      "imports": "package.h"
+    },
+    {
+      "id": "cpp.stage",
+      "name": "Stage",
+      "repo": "rtv/Stage",
+      "tags": "robotic-simulation",
+      "tech": "robotics",
+      "status": "model-ready",
+      "imports": "stage.hh"
+    },
+    {
+      "id": "cpp.bcrypt",
+      "name": "bcrypt",
+      "repo": "http://bcrypt.sourceforge.net/",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "blowfish.h"
+    },
+    {
+      "id": "cpp.beecrypt",
+      "name": "BeeCrypt",
+      "repo": "http://beecrypt.sourceforge.net/",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "beecrypt/"
+    },
+    {
+      "id": "cpp.botan",
+      "name": "Botan",
+      "repo": "randombit/botan",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "botan/"
+    },
+    {
+      "id": "cpp.cryptopp",
+      "name": "Crypto++",
+      "repo": "weidai11/cryptopp",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "cryptopp/"
+    },
+    {
+      "id": "cpp.digestpp",
+      "name": "digestpp",
+      "repo": "kerukuro/digestpp",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "digestpp.hpp"
+    },
+    {
+      "id": "cpp.gnutls",
+      "name": "GnuTLS",
+      "repo": "https://gitlab.com/gnutls/gnutls/tree/master",
+      "tags": "tls-security",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "gnutls/"
+    },
+    {
+      "id": "cpp.gpgme",
+      "name": "GPGME",
+      "repo": "gpg/gpgme",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "gpgme.h"
+    },
+    {
+      "id": "cpp.libgcrypt",
+      "name": "Libgcrypt",
+      "repo": "gpg/libgcrypt",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "gcrypt.h"
+    },
+    {
+      "id": "cpp.libhydrogen",
+      "name": "LibHydrogen",
+      "repo": "jedisct1/libhydrogen",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "hydrogen.h"
+    },
+    {
+      "id": "cpp.libressl",
+      "name": "LibreSSL",
+      "repo": "libressl-portable/portable",
+      "tags": "ssl",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "openssl/"
+    },
+    {
+      "id": "cpp.libsodium",
+      "name": "libsodium",
+      "repo": "jedisct1/libsodium",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "sodium.h"
+    },
+    {
+      "id": "cpp.libtomcrypt",
+      "name": "LibTomCrypt",
+      "repo": "libtom/libtomcrypt",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "tomcrypt.h"
+    },
+    {
+      "id": "cpp.mbedtls",
+      "name": "MbedTLS",
+      "repo": "ARMmbed/mbedtls",
+      "tags": "tls",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "mbedtls/"
+    },
+    {
+      "id": "cpp.nettle",
+      "name": "Nettle",
+      "repo": "https://git.lysator.liu.se/nettle/nettle",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "nettle/"
+    },
+    {
+      "id": "cpp.openssl",
+      "name": "OpenSSL",
+      "repo": "openssl/openssl",
+      "tags": "tls-ssl",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "openssl/, openssl/pkcs12.h"
+    },
+    {
+      "id": "cpp.s2n",
+      "name": "s2n",
+      "repo": "awslabs/s2n",
+      "tags": "tls-ssl",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "s2n.h, tls/, crypto/"
+    },
+    {
+      "id": "cpp.themis",
+      "name": "THEMIS",
+      "repo": "cossacklabs/themis",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "themispp/"
+    },
+    {
+      "id": "cpp.tiny-aes-c",
+      "name": "tiny-AES-c",
+      "repo": "kokke/tiny-AES-c",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "aes.hpp"
+    },
+    {
+      "id": "cpp.kaldi",
+      "name": "Kaldi",
+      "repo": "kaldi-asr/kaldi",
+      "tags": "toolkit",
+      "tech": "speech-recognition",
+      "status": "model-ready",
+      "imports": "base/kaldi-common.h"
+    },
+    {
+      "id": "cpp.cpp-btree",
+      "name": "cpp-btree",
+      "repo": "https://code.google.com/archive/p/cpp-btree/",
+      "tags": "in-memory",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "btree_"
+    },
+    {
+      "id": "cpp.hiberlite-orm",
+      "name": "HiberliteORM",
+      "repo": "paulftw/hiberlite",
+      "tags": "orm",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "hiberlite.h"
+    },
+    {
+      "id": "cpp.hiredis",
+      "name": "HIREDIS",
+      "repo": "redis/hiredis",
+      "tags": "nosql, in-memory",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "hiredis.h"
+    },
+    {
+      "id": "cpp.level-db",
+      "name": "LevelDB",
+      "repo": "google/leveldb",
+      "tags": "nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "leveldb"
+    },
+    {
+      "id": "cpp.lmdb",
+      "name": "LMDB",
+      "repo": "LMDB/lmdb",
+      "tags": "embedded, nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "lmdb.h"
+    },
+    {
+      "id": "cpp.lmdbxx",
+      "name": "lmdb++",
+      "repo": "bendiken/lmdbxx",
+      "tags": "embedded, nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "lmdb++.h"
+    },
+    {
+      "id": "cpp.mongo-c-driver",
+      "name": "mongo-c-driver",
+      "repo": "mongodb/mongo-c-driver",
+      "tags": "mongodb",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "mongoc.h"
+    },
+    {
+      "id": "cpp.mongo-cxx-driver",
+      "name": "MongoDB C++ Driver",
+      "repo": "mongodb/mongo-cxx-driver",
+      "tags": "mongodb",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "mongocxx/"
+    },
+    {
+      "id": "cpp.mysqlpp",
+      "name": "MySQL++",
+      "repo": "https://tangentsoft.com/mysqlpp/dir?ci=tip",
+      "tags": "sql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "mysql++.h"
+    },
+    {
+      "id": "cpp.redis3m",
+      "name": "redis3m",
+      "repo": "luca3m/redis3m",
+      "tags": "nosql, in-memory",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "redis3m/"
+    },
+    {
+      "id": "cpp.rocksdb",
+      "name": "RocksDB",
+      "repo": "facebook/rocksdb",
+      "tags": "embedded, nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "rocksdb/"
+    },
+    {
+      "id": "cpp.simdb",
+      "name": "simdb",
+      "repo": "LiveAsynchronousVisualizedArchitecture/simdb",
+      "tags": "nosql, concurrency",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "simdb.hpp"
+    },
+    {
+      "id": "cpp.sqlite",
+      "name": "SQLite",
+      "repo": "http://www.sqlite.org/2018/sqlite-amalgamation-3230100.zip",
+      "tags": "sql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "sqlite3.h"
+    },
+    {
+      "id": "cpp.sqlite_modern_cpp",
+      "name": "sqlite modern cpp",
+      "repo": "SqliteModernCpp/sqlite_modern_cpp",
+      "tags": "sql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "sqlite_modern_cpp.h"
+    },
+    {
+      "id": "cpp.sqlite_orm",
+      "name": "SQLiteORM",
+      "repo": "fnc12/sqlite_orm",
+      "tags": "orm",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "sqlite_orm/sqlite_orm.h"
+    },
+    {
+      "id": "cpp.sqlitecpp",
+      "name": "SQLiteC++",
+      "repo": "SRombauts/SQLiteCpp",
+      "tags": "sql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "SQLiteCpp/"
+    },
+    {
+      "id": "cpp.tile-db",
+      "name": "TileDB",
+      "repo": "TileDB-Inc/TileDB",
+      "tags": "nosql, array",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "tiledb/"
+    },
+    {
+      "id": "cpp.upscaledb",
+      "name": "upscaledb",
+      "repo": "cruppstahl/upscaledb",
+      "tags": "embedded, nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "ups/upscaledb.h"
+    },
+    {
+      "id": "cpp.boost-test",
+      "name": "Boost.Test",
+      "repo": "boostorg/test",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "boost/test/included/unit_test.hpp"
+    },
+    {
+      "id": "cpp.catch2",
+      "name": "Catch2",
+      "repo": "catchorg/Catch2",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "catch.hpp"
+    },
+    {
+      "id": "cpp.cmocka",
+      "name": "cmocka",
+      "repo": "https://git.cryptomilk.org/projects/cmocka.git/tree/",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "cmocka.h"
+    },
+    {
+      "id": "cpp.cppunit",
+      "name": "Cppunit",
+      "repo": "https://cgit.freedesktop.org/libreoffice/cppunit/tree/",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "cppunit/"
+    },
+    {
+      "id": "cpp.cpputest",
+      "name": "CppUTest",
+      "repo": "cpputest/cpputest",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "CppUTest/, CppUTestExt/"
+    },
+    {
+      "id": "cpp.cute",
+      "name": "CUTE",
+      "repo": "PeterSommerlad/CUTE",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "cute.h"
+    },
+    {
+      "id": "cpp.doctest",
+      "name": "doctest",
+      "repo": "onqtam/doctest",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "doctest.h"
+    },
+    {
+      "id": "cpp.fff",
+      "name": "fff",
+      "repo": "meekrosoft/fff",
+      "tags": "fake-functions, testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "fff.h"
+    },
+    {
+      "id": "cpp.google-mock",
+      "name": "GoogleMock",
+      "repo": "google/googletest/tree/master/googlemock",
+      "tags": "mocking",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "gmock.h"
+    },
+    {
+      "id": "cpp.google-test",
+      "name": "Google Test",
+      "repo": "google/googletest",
+      "tags": "framework",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "gtest"
+    },
+    {
+      "id": "cpp.libtap",
+      "name": "libtap",
+      "repo": "zorgnax/libtap",
+      "tags": "c-testing",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "tap.h"
+    },
+    {
+      "id": "cpp.minunit",
+      "name": "MinUint",
+      "repo": "siu/minunit",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "minunit.h"
+    },
+    {
+      "id": "cpp.unittest-cpp",
+      "name": "UnitTest++",
+      "repo": "unittest-cpp/unittest-cpp",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "UnitTest++/"
+    },
+    {
+      "id": "cpp.utest-h",
+      "name": "utest.h",
+      "repo": "sheredom/utest.h",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "utest.h"
+    },
+    {
+      "id": "cpp.gettext",
+      "name": "gettext",
+      "repo": "autotools-mirror/gettext",
+      "tags": "internationalization",
+      "tech": "text",
+      "status": "model-ready",
+      "imports": "gettext.h"
+    },
+    {
+      "id": "cpp.icu4c",
+      "name": "ICU4C",
+      "repo": "cyrusimap/icu4c",
+      "tags": "unicode",
+      "tech": "text",
+      "status": "model-ready",
+      "imports": "unicode/"
+    },
+    {
+      "id": "cpp.libiconv",
+      "name": "libiconv",
+      "repo": "bnoordhuis/libiconv",
+      "tags": "internationalization",
+      "tech": "text",
+      "status": "model-ready",
+      "imports": "iconv.h"
+    },
+    {
+      "id": "cpp.utf8-h",
+      "name": "utf8.h",
+      "repo": "sheredom/utf8.h",
+      "tags": "utf8",
+      "tech": "text",
+      "status": "model-ready",
+      "imports": "utf8.h"
+    },
+    {
+      "id": "cpp.argh",
+      "name": "Argh!",
+      "repo": "adishavit/argh",
+      "tags": "argument-parsing",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "argh.h"
+    },
+    {
+      "id": "cpp.args",
+      "name": "args",
+      "repo": "taywee/args",
+      "tags": "argument-parsing",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "args.hxx"
+    },
+    {
+      "id": "cpp.better-enums",
+      "name": "Better Enums",
+      "repo": "aantron/better-enums",
+      "tags": "enums",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "enum.h"
+    },
+    {
+      "id": "cpp.boost-program-options",
+      "name": "Boost.Program_options",
+      "repo": "boostorg/program_options",
+      "tags": "argument-parsing",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "boost/program_options.hpp"
+    },
+    {
+      "id": "cpp.bstring",
+      "name": "Better String Library",
+      "repo": "msteinert/bstring",
+      "tags": "strings",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "bst"
+    },
+    {
+      "id": "cpp.cli11",
+      "name": "CLI11",
+      "repo": "CLIUtils/CLI11",
+      "tags": "argument-parsing",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "CLI/CLI.hpp"
+    },
+    {
+      "id": "cpp.cpp-verbal-expressions",
+      "name": "CppVerbalExpressions",
+      "repo": "VerbalExpressions/CppVerbalExpressions",
+      "tags": "regex",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "verbalexpressions.hpp"
+    },
+    {
+      "id": "cpp.cxx-prettyprint",
+      "name": "cxx-prettyprint",
+      "repo": "louisdx/cxx-prettyprint",
+      "tags": "pretty-output",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "prettyprint.hpp"
+    },
+    {
+      "id": "cpp.cxxomfort",
+      "name": "cxxomfort",
+      "repo": "http://ryan.gulix.cl/fossil.cgi/cxxomfort/dir?ci=0c1dc33fc412517f&name=cxxomfort/cxxomfort",
+      "tags": "backporting",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "cxxomfort/"
+    },
+    {
+      "id": "cpp.cxxopts",
+      "name": "cxxopts",
+      "repo": "jarro2783/cxxopts",
+      "tags": "argument-parsing",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "cxxopts.hpp"
+    },
+    {
+      "id": "cpp.docopt.cpp",
+      "name": "docopt.cpp",
+      "repo": "docopt/docopt.cpp",
+      "tags": "argument-parsing",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "docopt.h"
+    },
+    {
+      "id": "cpp.fastformat",
+      "name": "FastFormat",
+      "repo": "https://sourceforge.net/projects/fastformat/files/fastformat/0.7/0.7.1/0.7.1/fastformat-0.7.1.zip",
+      "tags": "formatter",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "fastformat/"
+    },
+    {
+      "id": "cpp.fmt",
+      "name": "fmt",
+      "repo": "fmtlib/fmt",
+      "tags": "formatter",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "fmt/"
+    },
+    {
+      "id": "cpp.gflags",
+      "name": "gflags",
+      "repo": "gflags/gflags",
+      "tags": "argument-parsing",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "gflags"
+    },
+    {
+      "id": "cpp.libcpuid",
+      "name": "libcpuid",
+      "repo": "anrieff/libcpuid",
+      "tags": "cpu",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "libcpuid.h"
+    },
+    {
+      "id": "cpp.libu",
+      "name": "LibU",
+      "repo": "koanlogic/libu",
+      "tags": "misc",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "u/libu.h"
+    },
+    {
+      "id": "cpp.pcre",
+      "name": "PCRE",
+      "repo": "https://vcs.pcre.org/pcre2/code/trunk/",
+      "tags": "regex",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "pcre2.h"
+    },
+    {
+      "id": "cpp.qt-verbal-expressions",
+      "name": "QtVerbalExpressions",
+      "repo": "VerbalExpressions/QtVerbalExpressions",
+      "tags": "regex",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "QVerbalExpressions.h"
+    },
+    {
+      "id": "cpp.re2",
+      "name": "RE2",
+      "repo": "google/re2",
+      "tags": "regex",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "re2.h"
+    },
+    {
+      "id": "cpp.sds",
+      "name": "SDS",
+      "repo": "antirez/sds",
+      "tags": "strings",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "sds.h"
+    },
+    {
+      "id": "cpp.semver-c",
+      "name": "semver.c",
+      "repo": "h2non/semver.c",
+      "tags": "version-library",
+      "tech": "utils",
+      "status": "insufficient-data",
+      "imports": "semver.h"
+    },
+    {
+      "id": "cpp.slre",
+      "name": "SLRE",
+      "repo": "cesanta/slre",
+      "tags": "regex",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "slre.h"
+    },
+    {
+      "id": "cpp.strtk",
+      "name": "strtk",
+      "repo": "ArashPartow/strtk",
+      "tags": "strings",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "strtk.hpp"
+    },
+    {
+      "id": "cpp.tclap",
+      "name": "TCLAP",
+      "repo": "http://tclap.sourceforge.net/",
+      "tags": "argument-parsing",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "tclap/CmdLine.h"
+    },
+    {
+      "id": "cpp.rabbit-vm",
+      "name": "Rabbit VM",
+      "repo": "rabbitvm/rabbit",
+      "tags": "risc",
+      "tech": "vm",
+      "status": "awaiting-model",
+      "imports": "rabbit_"
+    },
+    {
+      "id": "cpp.tinyvm",
+      "name": "TinyVM",
+      "repo": "jakogut/tinyvm",
+      "tags": "low-memory",
+      "tech": "vm",
+      "status": "model-ready",
+      "imports": "tvm.h"
+    }
+  ],
+  "meta": {
+    "title": "C++ Libraries Directory - Free Download",
+    "description": "470 curated C++ libraries with repository links, categories, and technology tags. Covers algorithms, networking, multimedia, testing, and more. Contains 470 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "C++ Libraries Directory | ListBase",
+    "seo_description": "Download C++ Libraries Directory — 470 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 470 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/sourcerer-io/awesome-libraries"
+    ]
+  }
+}

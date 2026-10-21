@@ -1,0 +1,452 @@
+{
+  "id": "tech-social-media-sizes",
+  "name": "Social Media Image Sizes & Dimensions Dataset",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "platform",
+      "label": "Platform",
+      "type": "string"
+    },
+    {
+      "key": "image_type",
+      "label": "Image Type",
+      "type": "string"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (px)",
+      "type": "string"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "type": "number"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "type": "number"
+    },
+    {
+      "key": "aspect_ratio",
+      "label": "Aspect Ratio",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "platform": "Facebook",
+      "image_type": "Profile Photo",
+      "dimensions": "180 × 180",
+      "width": 180,
+      "height": 180,
+      "aspect_ratio": "1:1",
+      "notes": "Displays at 170x170 on desktop"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Cover Photo",
+      "dimensions": "820 × 312",
+      "width": 820,
+      "height": 312,
+      "aspect_ratio": "2.63:1",
+      "notes": "Desktop display size"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Cover Photo (Mobile)",
+      "dimensions": "640 × 360",
+      "width": 640,
+      "height": 360,
+      "aspect_ratio": "16:9",
+      "notes": "Mobile display"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Shared Image",
+      "dimensions": "1200 × 630",
+      "width": 1200,
+      "height": 630,
+      "aspect_ratio": "1.91:1",
+      "notes": "Feed post image"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Event Cover",
+      "dimensions": "1920 × 1005",
+      "width": 1920,
+      "height": 1005,
+      "aspect_ratio": "1.91:1",
+      "notes": "Event page header"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Stories",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Full screen vertical"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Profile Photo",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "Circular crop"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Square Post",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Standard feed post"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Portrait Post",
+      "dimensions": "1080 × 1350",
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": "4:5",
+      "notes": "Vertical feed post"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Landscape Post",
+      "dimensions": "1080 × 566",
+      "width": 1080,
+      "height": 566,
+      "aspect_ratio": "1.91:1",
+      "notes": "Horizontal feed post"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Stories/Reels",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Full screen vertical"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Carousel",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Multi-image post"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Profile Photo",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "Displays at 200x200"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Header Image",
+      "dimensions": "1500 × 500",
+      "width": 1500,
+      "height": 500,
+      "aspect_ratio": "3:1",
+      "notes": "Banner image"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "In-Stream Photo",
+      "dimensions": "1200 × 675",
+      "width": 1200,
+      "height": 675,
+      "aspect_ratio": "16:9",
+      "notes": "Tweet image"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Card Image",
+      "dimensions": "1200 × 628",
+      "width": 1200,
+      "height": 628,
+      "aspect_ratio": "1.91:1",
+      "notes": "Link preview"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Profile Photo",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "Personal profile"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Background Photo",
+      "dimensions": "1584 × 396",
+      "width": 1584,
+      "height": 396,
+      "aspect_ratio": "4:1",
+      "notes": "Profile banner"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Company Logo",
+      "dimensions": "300 × 300",
+      "width": 300,
+      "height": 300,
+      "aspect_ratio": "1:1",
+      "notes": "Company page"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Cover Image",
+      "dimensions": "1128 × 191",
+      "width": 1128,
+      "height": 191,
+      "aspect_ratio": "5.9:1",
+      "notes": "Company page banner"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Shared Post",
+      "dimensions": "1200 × 627",
+      "width": 1200,
+      "height": 627,
+      "aspect_ratio": "1.91:1",
+      "notes": "Feed post"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Channel Profile",
+      "dimensions": "800 × 800",
+      "width": 800,
+      "height": 800,
+      "aspect_ratio": "1:1",
+      "notes": "Channel icon"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Channel Banner",
+      "dimensions": "2560 × 1440",
+      "width": 2560,
+      "height": 1440,
+      "aspect_ratio": "16:9",
+      "notes": "Full size banner"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Video Thumbnail",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "Custom thumbnail"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Shorts",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Vertical short videos"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "Profile Photo",
+      "dimensions": "200 × 200",
+      "width": 200,
+      "height": 200,
+      "aspect_ratio": "1:1",
+      "notes": "Profile picture"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "Video",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Standard video"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Profile Photo",
+      "dimensions": "165 × 165",
+      "width": 165,
+      "height": 165,
+      "aspect_ratio": "1:1",
+      "notes": "Profile picture"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Pin Image",
+      "dimensions": "1000 × 1500",
+      "width": 1000,
+      "height": 1500,
+      "aspect_ratio": "2:3",
+      "notes": "Optimal pin size"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Board Cover",
+      "dimensions": "222 × 150",
+      "width": 222,
+      "height": 150,
+      "aspect_ratio": "3:2",
+      "notes": "Board thumbnail"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "Snap/Story",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Full screen content"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "Geofilter",
+      "dimensions": "1080 × 2340",
+      "width": 1080,
+      "height": 2340,
+      "aspect_ratio": "9:19.5",
+      "notes": "Custom filter"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "Profile Photo",
+      "dimensions": "500 × 500",
+      "width": 500,
+      "height": 500,
+      "aspect_ratio": "1:1",
+      "notes": "Profile picture"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "Status",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Status image"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Server Icon",
+      "dimensions": "512 × 512",
+      "width": 512,
+      "height": 512,
+      "aspect_ratio": "1:1",
+      "notes": "Server avatar"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Server Banner",
+      "dimensions": "960 × 540",
+      "width": 960,
+      "height": 540,
+      "aspect_ratio": "16:9",
+      "notes": "Server banner"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "User Avatar",
+      "dimensions": "128 × 128",
+      "width": 128,
+      "height": 128,
+      "aspect_ratio": "1:1",
+      "notes": "User profile"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Profile Photo",
+      "dimensions": "256 × 256",
+      "width": 256,
+      "height": 256,
+      "aspect_ratio": "1:1",
+      "notes": "Channel avatar"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Profile Banner",
+      "dimensions": "1200 × 480",
+      "width": 1200,
+      "height": 480,
+      "aspect_ratio": "2.5:1",
+      "notes": "Channel banner"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Video Thumbnail",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "Stream thumbnail"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "Profile Photo",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "Same as Instagram"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "Post Image",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Square post"
+    }
+  ],
+  "meta": {
+    "seo_title": "Social Media Image Sizes - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download of 42 social media image sizes and dimensions for top platforms. Get current specs for posts, profiles, covers. Available in Excel, CSV, and PDF formats.",
+    "title": "Social Media Image Sizes & Dimensions Dataset",
+    "description": "This dataset provides a comprehensive list of 42 social media image sizes, dimensions, and aspect ratios across various platforms. Get up-to-date specifications for profile photos, cover images, and shared posts.",
+    "key_takeaways": [
+      "Access current image size specifications for major social media platforms.",
+      "Explore dimensions (width, height), aspect ratios, and notes for 42 image types.",
+      "Download ready-to-use data for designing effective social media visuals.",
+      "Get essential guidelines for optimizing your social media content."
+    ],
+    "keywords": [
+      "social media image sizes excel",
+      "facebook image dimensions csv",
+      "instagram post sizes pdf",
+      "youtube banner size",
+      "social media design guidelines",
+      "image aspect ratio list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your Python script or API to dynamically validate image uploads against platform requirements.",
+      "Use the **Excel** file to create Pivot Tables for comparing aspect ratios across platforms or filter by image type for quick reference in design projects.",
+      "Print the **PDF** version for a quick, offline reference guide for your design team or as a handout in a social media marketing workshop.",
+      "Leverage this data to optimize visual content, ensuring images always look professional and fit perfectly on any social media platform."
+    ]
+  },
+  "record_count": 42,
+  "title": "Social Media Image Sizes & Dimensions Dataset"
+}

@@ -1,0 +1,775 @@
+{
+  "id": "world-cup-2018-matches",
+  "name": "FIFA World Cup 2018 Matches",
+  "title": "FIFA World Cup 2018 Matches",
+  "description": "64 matches from the 2018 FIFA World Cup, including date, round/group, teams, full-time score, and stadium.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/world-cup.json",
+  "source_url": "https://github.com/openfootball/world-cup.json",
+  "updated": "2026-04",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "time",
+      "label": "Time",
+      "type": "string"
+    },
+    {
+      "key": "round",
+      "label": "Round",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "team1",
+      "label": "Team1",
+      "type": "string"
+    },
+    {
+      "key": "team2",
+      "label": "Team2",
+      "type": "string"
+    },
+    {
+      "key": "score1",
+      "label": "Score1",
+      "type": "number"
+    },
+    {
+      "key": "score2",
+      "label": "Score2",
+      "type": "number"
+    },
+    {
+      "key": "ground",
+      "label": "Ground",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2018-06-14",
+      "time": "18:00 UTC+3",
+      "round": "Matchday 1",
+      "group": "Group A",
+      "team1": "Russia",
+      "team2": "Saudi Arabia",
+      "score1": 5,
+      "score2": 0,
+      "ground": "Luzhniki Stadium, Moscow"
+    },
+    {
+      "date": "2018-06-15",
+      "time": "17:00 UTC+5",
+      "round": "Matchday 2",
+      "group": "Group A",
+      "team1": "Egypt",
+      "team2": "Uruguay",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Ekaterinburg Arena, Ekaterinburg"
+    },
+    {
+      "date": "2018-06-19",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 6",
+      "group": "Group A",
+      "team1": "Russia",
+      "team2": "Egypt",
+      "score1": 3,
+      "score2": 1,
+      "ground": "Saint Petersburg Stadium, Saint Petersburg"
+    },
+    {
+      "date": "2018-06-20",
+      "time": "18:00 UTC+3",
+      "round": "Matchday 7",
+      "group": "Group A",
+      "team1": "Uruguay",
+      "team2": "Saudi Arabia",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Rostov Arena, Rostov-on-Don"
+    },
+    {
+      "date": "2018-06-25",
+      "time": "18:00 UTC+4",
+      "round": "Matchday 12",
+      "group": "Group A",
+      "team1": "Uruguay",
+      "team2": "Russia",
+      "score1": 3,
+      "score2": 0,
+      "ground": "Samara Arena, Samara"
+    },
+    {
+      "date": "2018-06-25",
+      "time": "17:00 UTC+3",
+      "round": "Matchday 12",
+      "group": "Group A",
+      "team1": "Saudi Arabia",
+      "team2": "Egypt",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Volgograd Arena, Volgograd"
+    },
+    {
+      "date": "2018-06-15",
+      "time": "18:00 UTC+3",
+      "round": "Matchday 2",
+      "group": "Group B",
+      "team1": "Morocco",
+      "team2": "Iran",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Saint Petersburg Stadium, Saint Petersburg"
+    },
+    {
+      "date": "2018-06-15",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 2",
+      "group": "Group B",
+      "team1": "Portugal",
+      "team2": "Spain",
+      "score1": 3,
+      "score2": 3,
+      "ground": "Fisht Stadium, Sochi"
+    },
+    {
+      "date": "2018-06-20",
+      "time": "15:00 UTC+3",
+      "round": "Matchday 7",
+      "group": "Group B",
+      "team1": "Portugal",
+      "team2": "Morocco",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Luzhniki Stadium, Moscow"
+    },
+    {
+      "date": "2018-06-20",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 7",
+      "group": "Group B",
+      "team1": "Iran",
+      "team2": "Spain",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Kazan Arena, Kazan"
+    },
+    {
+      "date": "2018-06-25",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 12",
+      "group": "Group B",
+      "team1": "Iran",
+      "team2": "Portugal",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Mordovia Arena, Saransk"
+    },
+    {
+      "date": "2018-06-25",
+      "time": "20:00 UTC+2",
+      "round": "Matchday 12",
+      "group": "Group B",
+      "team1": "Spain",
+      "team2": "Morocco",
+      "score1": 2,
+      "score2": 2,
+      "ground": "Kaliningrad Stadium, Kaliningrad"
+    },
+    {
+      "date": "2018-06-16",
+      "time": "13:00 UTC+3",
+      "round": "Matchday 3",
+      "group": "Group C",
+      "team1": "France",
+      "team2": "Australia",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Kazan Arena, Kazan"
+    },
+    {
+      "date": "2018-06-16",
+      "time": "19:00 UTC+3",
+      "round": "Matchday 3",
+      "group": "Group C",
+      "team1": "Peru",
+      "team2": "Denmark",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Mordovia Arena, Saransk"
+    },
+    {
+      "date": "2018-06-21",
+      "time": "16:00 UTC+4",
+      "round": "Matchday 8",
+      "group": "Group C",
+      "team1": "Denmark",
+      "team2": "Australia",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Samara Arena, Samara"
+    },
+    {
+      "date": "2018-06-21",
+      "time": "20:00 UTC+5",
+      "round": "Matchday 8",
+      "group": "Group C",
+      "team1": "France",
+      "team2": "Peru",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Ekaterinburg Arena, Ekaterinburg"
+    },
+    {
+      "date": "2018-06-26",
+      "time": "17:00 UTC+3",
+      "round": "Matchday 13",
+      "group": "Group C",
+      "team1": "Denmark",
+      "team2": "France",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Luzhniki Stadium, Moscow"
+    },
+    {
+      "date": "2018-06-26",
+      "time": "17:00 UTC+3",
+      "round": "Matchday 13",
+      "group": "Group C",
+      "team1": "Australia",
+      "team2": "Peru",
+      "score1": 0,
+      "score2": 2,
+      "ground": "Fisht Stadium, Sochi"
+    },
+    {
+      "date": "2018-06-16",
+      "time": "16:00 UTC+3",
+      "round": "Matchday 3",
+      "group": "Group D",
+      "team1": "Argentina",
+      "team2": "Iceland",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Spartak Stadium, Moscow"
+    },
+    {
+      "date": "2018-06-16",
+      "time": "21:00 UTC+2",
+      "round": "Matchday 3",
+      "group": "Group D",
+      "team1": "Croatia",
+      "team2": "Nigeria",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Kaliningrad Stadium, Kaliningrad"
+    },
+    {
+      "date": "2018-06-21",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 8",
+      "group": "Group D",
+      "team1": "Argentina",
+      "team2": "Croatia",
+      "score1": 0,
+      "score2": 3,
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+    },
+    {
+      "date": "2018-06-22",
+      "time": "18:00 UTC+3",
+      "round": "Matchday 9",
+      "group": "Group D",
+      "team1": "Nigeria",
+      "team2": "Iceland",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Volgograd Arena, Volgograd"
+    },
+    {
+      "date": "2018-06-26",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 13",
+      "group": "Group D",
+      "team1": "Nigeria",
+      "team2": "Argentina",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Saint Petersburg Stadium, Saint Petersburg"
+    },
+    {
+      "date": "2018-06-26",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 13",
+      "group": "Group D",
+      "team1": "Iceland",
+      "team2": "Croatia",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Rostov Arena, Rostov-on-Don"
+    },
+    {
+      "date": "2018-06-17",
+      "time": "16:00 UTC+4",
+      "round": "Matchday 4",
+      "group": "Group E",
+      "team1": "Costa Rica",
+      "team2": "Serbia",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Samara Arena, Samara"
+    },
+    {
+      "date": "2018-06-17",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 4",
+      "group": "Group E",
+      "team1": "Brazil",
+      "team2": "Switzerland",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Rostov Arena, Rostov-on-Don"
+    },
+    {
+      "date": "2018-06-22",
+      "time": "15:00 UTC+3",
+      "round": "Matchday 9",
+      "group": "Group E",
+      "team1": "Brazil",
+      "team2": "Costa Rica",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Saint Petersburg Stadium, Saint Petersburg"
+    },
+    {
+      "date": "2018-06-22",
+      "time": "20:00 UTC+2",
+      "round": "Matchday 9",
+      "group": "Group E",
+      "team1": "Serbia",
+      "team2": "Switzerland",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Kaliningrad Stadium, Kaliningrad"
+    },
+    {
+      "date": "2018-06-27",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 14",
+      "group": "Group E",
+      "team1": "Serbia",
+      "team2": "Brazil",
+      "score1": 0,
+      "score2": 2,
+      "ground": "Spartak Stadium, Moscow"
+    },
+    {
+      "date": "2018-06-27",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 14",
+      "group": "Group E",
+      "team1": "Switzerland",
+      "team2": "Costa Rica",
+      "score1": 2,
+      "score2": 2,
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+    },
+    {
+      "date": "2018-06-17",
+      "time": "18:00 UTC+3",
+      "round": "Matchday 4",
+      "group": "Group F",
+      "team1": "Germany",
+      "team2": "Mexico",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Luzhniki Stadium, Moscow"
+    },
+    {
+      "date": "2018-06-18",
+      "time": "15:00 UTC+3",
+      "round": "Matchday 5",
+      "group": "Group F",
+      "team1": "Sweden",
+      "team2": "South Korea",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+    },
+    {
+      "date": "2018-06-23",
+      "time": "18:00 UTC+3",
+      "round": "Matchday 10",
+      "group": "Group F",
+      "team1": "South Korea",
+      "team2": "Mexico",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Rostov Arena, Rostov-on-Don"
+    },
+    {
+      "date": "2018-06-23",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 10",
+      "group": "Group F",
+      "team1": "Germany",
+      "team2": "Sweden",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Fisht Stadium, Sochi"
+    },
+    {
+      "date": "2018-06-27",
+      "time": "17:00 UTC+3",
+      "round": "Matchday 14",
+      "group": "Group F",
+      "team1": "South Korea",
+      "team2": "Germany",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Kazan Arena, Kazan"
+    },
+    {
+      "date": "2018-06-27",
+      "time": "19:00 UTC+5",
+      "round": "Matchday 14",
+      "group": "Group F",
+      "team1": "Mexico",
+      "team2": "Sweden",
+      "score1": 0,
+      "score2": 3,
+      "ground": "Ekaterinburg Arena, Ekaterinburg"
+    },
+    {
+      "date": "2018-06-18",
+      "time": "18:00 UTC+3",
+      "round": "Matchday 5",
+      "group": "Group G",
+      "team1": "Belgium",
+      "team2": "Panama",
+      "score1": 3,
+      "score2": 0,
+      "ground": "Fisht Stadium, Sochi"
+    },
+    {
+      "date": "2018-06-18",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 5",
+      "group": "Group G",
+      "team1": "Tunisia",
+      "team2": "England",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Volgograd Arena, Volgograd"
+    },
+    {
+      "date": "2018-06-23",
+      "time": "15:00 UTC+3",
+      "round": "Matchday 10",
+      "group": "Group G",
+      "team1": "Belgium",
+      "team2": "Tunisia",
+      "score1": 5,
+      "score2": 2,
+      "ground": "Spartak Stadium, Moscow"
+    },
+    {
+      "date": "2018-06-24",
+      "time": "15:00 UTC+3",
+      "round": "Matchday 11",
+      "group": "Group G",
+      "team1": "England",
+      "team2": "Panama",
+      "score1": 6,
+      "score2": 1,
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+    },
+    {
+      "date": "2018-06-28",
+      "time": "20:00 UTC+2",
+      "round": "Matchday 15",
+      "group": "Group G",
+      "team1": "England",
+      "team2": "Belgium",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Kaliningrad Stadium, Kaliningrad"
+    },
+    {
+      "date": "2018-06-28",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 15",
+      "group": "Group G",
+      "team1": "Panama",
+      "team2": "Tunisia",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Mordovia Arena, Saransk"
+    },
+    {
+      "date": "2018-06-19",
+      "time": "15:00 UTC+3",
+      "round": "Matchday 6",
+      "group": "Group H",
+      "team1": "Colombia",
+      "team2": "Japan",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Mordovia Arena, Saransk"
+    },
+    {
+      "date": "2018-06-19",
+      "time": "18:00 UTC+3",
+      "round": "Matchday 6",
+      "group": "Group H",
+      "team1": "Poland",
+      "team2": "Senegal",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Spartak Stadium, Moscow"
+    },
+    {
+      "date": "2018-06-24",
+      "time": "20:00 UTC+5",
+      "round": "Matchday 11",
+      "group": "Group H",
+      "team1": "Japan",
+      "team2": "Senegal",
+      "score1": 2,
+      "score2": 2,
+      "ground": "Ekaterinburg Arena, Ekaterinburg"
+    },
+    {
+      "date": "2018-06-24",
+      "time": "21:00 UTC+3",
+      "round": "Matchday 11",
+      "group": "Group H",
+      "team1": "Poland",
+      "team2": "Colombia",
+      "score1": 0,
+      "score2": 3,
+      "ground": "Kazan Arena, Kazan"
+    },
+    {
+      "date": "2018-06-28",
+      "time": "17:00 UTC+3",
+      "round": "Matchday 15",
+      "group": "Group H",
+      "team1": "Japan",
+      "team2": "Poland",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Volgograd Arena, Volgograd"
+    },
+    {
+      "date": "2018-06-28",
+      "time": "18:00 UTC+4",
+      "round": "Matchday 15",
+      "group": "Group H",
+      "team1": "Senegal",
+      "team2": "Colombia",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Samara Arena, Samara"
+    },
+    {
+      "date": "2018-06-30",
+      "time": "17:00 UTC+3",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "France",
+      "team2": "Argentina",
+      "score1": 4,
+      "score2": 3,
+      "ground": "Kazan Arena, Kazan"
+    },
+    {
+      "date": "2018-06-30",
+      "time": "21:00 UTC+3",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Uruguay",
+      "team2": "Portugal",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Fisht Stadium, Sochi"
+    },
+    {
+      "date": "2018-07-01",
+      "time": "17:00 UTC+3",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Spain",
+      "team2": "Russia",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Luzhniki Stadium, Moscow"
+    },
+    {
+      "date": "2018-07-01",
+      "time": "21:00 UTC+3",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Croatia",
+      "team2": "Denmark",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+    },
+    {
+      "date": "2018-07-02",
+      "time": "18:00 UTC+4",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Samara Arena, Samara"
+    },
+    {
+      "date": "2018-07-02",
+      "time": "21:00 UTC+3",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Belgium",
+      "team2": "Japan",
+      "score1": 3,
+      "score2": 2,
+      "ground": "Rostov Arena, Rostov-on-Don"
+    },
+    {
+      "date": "2018-07-03",
+      "time": "17:00 UTC+3",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Sweden",
+      "team2": "Switzerland",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Saint Petersburg Stadium, Saint Petersburg"
+    },
+    {
+      "date": "2018-07-03",
+      "time": "21:00 UTC+3",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Colombia",
+      "team2": "England",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Spartak Stadium, Moscow"
+    },
+    {
+      "date": "2018-07-06",
+      "time": "17:00 UTC+3",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "Uruguay",
+      "team2": "France",
+      "score1": 0,
+      "score2": 2,
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+    },
+    {
+      "date": "2018-07-06",
+      "time": "21:00 UTC+3",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "Brazil",
+      "team2": "Belgium",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Kazan Arena, Kazan"
+    },
+    {
+      "date": "2018-07-07",
+      "time": "18:00 UTC+4",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "Sweden",
+      "team2": "England",
+      "score1": 0,
+      "score2": 2,
+      "ground": "Samara Arena, Samara"
+    },
+    {
+      "date": "2018-07-07",
+      "time": "21:00 UTC+3",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "Russia",
+      "team2": "Croatia",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Fisht Stadium, Sochi"
+    },
+    {
+      "date": "2018-07-10",
+      "time": "21:00 UTC+3",
+      "round": "Semi-finals",
+      "group": "",
+      "team1": "France",
+      "team2": "Belgium",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Saint Petersburg Stadium, St. Petersburg"
+    },
+    {
+      "date": "2018-07-11",
+      "time": "21:00 UTC+3",
+      "round": "Semi-finals",
+      "group": "",
+      "team1": "Croatia",
+      "team2": "England",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Luzhniki Stadium, Moscow"
+    },
+    {
+      "date": "2018-07-14",
+      "time": "17:00 UTC+3",
+      "round": "Match for third place",
+      "group": "",
+      "team1": "Belgium",
+      "team2": "England",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Saint Petersburg Stadium, St. Petersburg"
+    },
+    {
+      "date": "2018-07-15",
+      "time": "18:00 UTC+3",
+      "round": "Final",
+      "group": "",
+      "team1": "France",
+      "team2": "Croatia",
+      "score1": 4,
+      "score2": 2,
+      "ground": "Luzhniki Stadium, Moscow"
+    }
+  ],
+  "meta": {
+    "title": "FIFA World Cup 2018 Matches - Free Download",
+    "description": "64 matches from the 2018 FIFA World Cup, including date, round/group, teams, full-time score, and stadium. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FIFA World Cup 2018 Matches | ListBase",
+    "seo_description": "Download FIFA World Cup 2018 Matches — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/world-cup.json"
+    ]
+  }
+}

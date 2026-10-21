@@ -1,0 +1,286 @@
+{
+  "id": "cz-airports-iata",
+  "name": "Czechia — IATA Airports",
+  "title": "Czechia — IATA Airports",
+  "description": "Airports with IATA codes in Czechia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BRQ",
+      "icao_code": "LKTB",
+      "name": "Brno–Tuřany Airport",
+      "city_name_list": "Brno",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "South Moravian",
+      "latitude": 49.15127,
+      "longitude": 16.69443,
+      "elevation": 237,
+      "timezone": "Europe/Prague",
+      "wiki_link": "https://en.wikipedia.org/wiki/Brno%E2%80%93Tu%C5%99any_Airport"
+    },
+    {
+      "iata_code": "HRA",
+      "icao_code": "",
+      "name": "Mnichovo Hradiste",
+      "city_name_list": "Mnichovo Hradiště",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Central Bohemia",
+      "latitude": 50.54003,
+      "longitude": 15.00635,
+      "elevation": "",
+      "timezone": "Europe/Prague",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "JCL",
+      "icao_code": "",
+      "name": "Jihoceske letiste Cesk",
+      "city_name_list": "České Budějovice",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "South Bohemian Region",
+      "latitude": 48.94638,
+      "longitude": 14.42748,
+      "elevation": "",
+      "timezone": "Europe/Prague",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "KLV",
+      "icao_code": "LKKV",
+      "name": "Karlovy Vary Airport",
+      "city_name_list": "Karlovy Vary",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Carlsbad Region",
+      "latitude": 50.20298,
+      "longitude": 12.91498,
+      "elevation": 606,
+      "timezone": "Europe/Prague",
+      "wiki_link": "https://en.wikipedia.org/wiki/Karlovy_Vary_Airport"
+    },
+    {
+      "iata_code": "MKA",
+      "icao_code": "LKMR",
+      "name": "Mariánské Lázně Airport",
+      "city_name_list": "Mariánské Lázně Airport",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Carlsbad Region",
+      "latitude": 49.98,
+      "longitude": 12.72,
+      "elevation": "",
+      "timezone": "Europe/Prague",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B_Airport"
+    },
+    {
+      "iata_code": "OLO",
+      "icao_code": "LKOL",
+      "name": "Olomouc Neředín Airport",
+      "city_name_list": "Olomouc",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Olomouc Region",
+      "latitude": 49.58818,
+      "longitude": 17.20768,
+      "elevation": "",
+      "timezone": "Europe/Prague",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "OSR",
+      "icao_code": "LKMT",
+      "name": "Leoš Janáček Airport Ostrava",
+      "city_name_list": "Ostrava",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Moravian-Silesian Region",
+      "latitude": 49.69629,
+      "longitude": 18.11105,
+      "elevation": 257,
+      "timezone": "Europe/Prague",
+      "wiki_link": "https://en.wikipedia.org/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek_Airport_Ostrava"
+    },
+    {
+      "iata_code": "PED",
+      "icao_code": "LKPD",
+      "name": "Pardubice Airport",
+      "city_name_list": "Pardubice",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Pardubice Region",
+      "latitude": 50.013419,
+      "longitude": 15.738647,
+      "elevation": "",
+      "timezone": "Europe/Prague",
+      "wiki_link": "https://en.wikipedia.org/wiki/Pardubice_Airport"
+    },
+    {
+      "iata_code": "PRG",
+      "icao_code": "LKPR",
+      "name": "Prague Václav Havel Airport",
+      "city_name_list": "Prague",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Prague",
+      "latitude": 50.100833,
+      "longitude": 14.26,
+      "elevation": 380,
+      "timezone": "Europe/Prague",
+      "wiki_link": "https://en.wikipedia.org/wiki/Prague_V%C3%A1clav_Havel_Airport"
+    },
+    {
+      "iata_code": "PRV",
+      "icao_code": "LKPO",
+      "name": "Přerov Air Base",
+      "city_name_list": "Přerov",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Olomouc Region",
+      "latitude": 49.4258,
+      "longitude": 17.4047,
+      "elevation": "",
+      "timezone": "Europe/Prague",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "UHE",
+      "icao_code": "LKKU",
+      "name": "Kunovice Airport",
+      "city_name_list": "Uherské Hradiště",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Zlin",
+      "latitude": 49.02944,
+      "longitude": 17.43972,
+      "elevation": 177,
+      "timezone": "Europe/Prague",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kunovice_Airport"
+    },
+    {
+      "iata_code": "VOD",
+      "icao_code": "LKVO",
+      "name": "Vodochody Airport",
+      "city_name_list": "Prague",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Central Bohemia",
+      "latitude": 50.21643,
+      "longitude": 14.39505,
+      "elevation": "",
+      "timezone": "Europe/Prague",
+      "wiki_link": "https://en.wikipedia.org/wiki/Vodochody_Airport"
+    },
+    {
+      "iata_code": "ZBE",
+      "icao_code": "LKZA",
+      "name": "Zabreh Ostrava Airport",
+      "city_name_list": "Zabreh Ostrava Airport",
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Moravian-Silesian Region",
+      "latitude": 49.88,
+      "longitude": 16.87,
+      "elevation": "",
+      "timezone": "Europe/Prague",
+      "wiki_link": ""
+    }
+  ],
+  "meta": {
+    "title": "Czechia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Czechia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Czechia — IATA Airports | ListBase",
+    "seo_description": "Download Czechia — IATA Airports dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

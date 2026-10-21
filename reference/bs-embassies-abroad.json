@@ -1,0 +1,236 @@
+{
+  "id": "bs-embassies-abroad",
+  "name": "Bahamas — Embassies and Consulates Abroad",
+  "title": "Bahamas — Embassies and Consulates Abroad",
+  "description": "Diplomatic missions operated by Bahamas in foreign countries. Sourced from Wikidata via the database-of-embassies project; each record includes the host country, mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "The Bahamas",
+      "operator_cc": "bs",
+      "host_country": "Belgium",
+      "host_cc": "be",
+      "city": "City of Brussels",
+      "address": "",
+      "type": "embassy",
+      "latitude": 50.842,
+      "longitude": 4.3719,
+      "jurisdictions": "Belgium",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q68193923"
+    },
+    {
+      "operator": "The Bahamas",
+      "operator_cc": "bs",
+      "host_country": "Canada",
+      "host_cc": "ca",
+      "city": "Ottawa",
+      "address": "",
+      "type": "high commission",
+      "latitude": 45.42044,
+      "longitude": -75.70009,
+      "jurisdictions": "Canada",
+      "phone": "",
+      "email": "",
+      "website": "https://www.bahighco.ca",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106767480"
+    },
+    {
+      "operator": "The Bahamas",
+      "operator_cc": "bs",
+      "host_country": "People's Republic of China",
+      "host_cc": "cn",
+      "city": "Beijing",
+      "address": "",
+      "type": "embassy",
+      "latitude": 39.94411,
+      "longitude": 116.44522,
+      "jurisdictions": "People's Republic of China, Indonesia",
+      "phone": "",
+      "email": "",
+      "website": "http://www.bahamasembassy.cn",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q107558480"
+    },
+    {
+      "operator": "The Bahamas",
+      "operator_cc": "bs",
+      "host_country": "Switzerland",
+      "host_cc": "ch",
+      "city": "Geneva",
+      "address": "",
+      "type": "embassy",
+      "latitude": 46.22,
+      "longitude": 6.1439,
+      "jurisdictions": "Switzerland",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q101020293"
+    },
+    {
+      "operator": "The Bahamas",
+      "operator_cc": "bs",
+      "host_country": "United Kingdom",
+      "host_cc": "gb",
+      "city": "City of Westminster",
+      "address": "",
+      "type": "high commission",
+      "latitude": 51.5072,
+      "longitude": -0.148611,
+      "jurisdictions": "Ireland, Sweden, Italy, Greece, France, United Kingdom, Czech Republic, Malta, Serbia",
+      "phone": "",
+      "email": "",
+      "website": "https://www.bahamashclondon.net/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q16843126"
+    },
+    {
+      "operator": "The Bahamas",
+      "operator_cc": "bs",
+      "host_country": "United States of America",
+      "host_cc": "us",
+      "city": "Washington, D.C.",
+      "address": "",
+      "type": "embassy",
+      "latitude": 38.9114,
+      "longitude": -77.0497,
+      "jurisdictions": "United States of America, Iceland",
+      "phone": "",
+      "email": "",
+      "website": "http://www.bahamasembdc.org/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q5369922"
+    }
+  ],
+  "meta": {
+    "title": "Bahamas — Embassies and Consulates Abroad - Free Download",
+    "description": "Diplomatic missions operated by Bahamas in foreign countries. Sourced from Wikidata via the database-of-embassies project; each record includes the host country, mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bahamas — Embassies and Consulates Abroad | ListBase",
+    "seo_description": "Download Bahamas — Embassies and Consulates Abroad — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

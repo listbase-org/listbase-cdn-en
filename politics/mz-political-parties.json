@@ -1,0 +1,211 @@
+{
+  "id": "mz-political-parties",
+  "name": "Mozambique — Political Parties",
+  "title": "Mozambique — Political Parties",
+  "description": "Political parties of Mozambique from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 2314,
+      "name_short": "FRELIMO",
+      "name": "Frente de Libertação de Moçambique",
+      "name_english": "Liberation Front of Mozambique",
+      "name_other": "",
+      "year_first": 1962,
+      "year_last": "",
+      "share": 74.5,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/FRELIMO",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2315,
+      "name_short": "RENAMO",
+      "name": "Resistência Nacional Moçambicana",
+      "name_english": "Mozambican National Resistance",
+      "name_other": "",
+      "year_first": 1975,
+      "year_last": "",
+      "share": 17.8,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/Resist%C3%AAncia_Nacional_Mo%C3%A7ambicana",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6083,
+      "name_short": "Udemo",
+      "name": "Untao Democratlca de Mocambique",
+      "name_english": "Democratic Union",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 1999,
+      "share": 5.2,
+      "share_year": 1994,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3813,
+      "name_short": "MDM",
+      "name": "Movimento Democrático de Moçambique",
+      "name_english": "Democratic Movement of Mozambique",
+      "name_other": "",
+      "year_first": 2009,
+      "year_last": 2009,
+      "share": 4,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Movement_of_Mozambique",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3810,
+      "name_short": "LaPa",
+      "name": "Labor Party",
+      "name_english": "Labor Party",
+      "name_other": "",
+      "year_first": 1999,
+      "year_last": 2009,
+      "share": 2.7,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mozambican_general_election,_1999",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3808,
+      "name_short": "LianDePaofMo",
+      "name": "Liberal and Democratic Party of Mozambique",
+      "name_english": "Liberal and Democratic Party of Mozambique",
+      "name_other": "",
+      "year_first": 1999,
+      "year_last": 2004,
+      "share": 2.4,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mozambican_general_election,_1999",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3812,
+      "name_short": "SLDP",
+      "name": "Social Liberal and Democratic Party",
+      "name_english": "Social Liberal and Democratic Party",
+      "name_other": "",
+      "year_first": 1999,
+      "year_last": 2004,
+      "share": 2,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mozambican_general_election,_1999",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3555,
+      "name_short": "PPDD",
+      "name": "Partido para a Paz Democracia e Desenvolvimento",
+      "name_english": "Party for Peace, Democracy and Development",
+      "name_other": "",
+      "year_first": 2004,
+      "year_last": 2009,
+      "share": 2,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_for_Peace,_Democracy,_and_Development",
+      "description": "",
+      "comment": "2.0% in  2004",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Mozambique — Political Parties - Free Download",
+    "description": "Political parties of Mozambique from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mozambique — Political Parties | ListBase",
+    "seo_description": "Download Mozambique — Political Parties dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

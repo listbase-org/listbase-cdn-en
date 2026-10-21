@@ -1,0 +1,232 @@
+{
+  "id": "ne-power-plants",
+  "name": "Niger — Power Plants",
+  "title": "Niger — Power Plants",
+  "description": "Power plants located in Niger from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Soraz",
+      "gppd_idnr": "WRI1023144",
+      "capacity_mw": 54,
+      "latitude": 14.1888,
+      "longitude": 8.7859,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 100.6",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Anou Araren Mine",
+      "gppd_idnr": "WRI1023139",
+      "capacity_mw": 37.6,
+      "latitude": 17.2893,
+      "longitude": 7.8392,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 226",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Niamey",
+      "gppd_idnr": "WRI1023143",
+      "capacity_mw": 27.5,
+      "latitude": 13.52,
+      "longitude": 2.12,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 51.23",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Goudel",
+      "gppd_idnr": "WRI1023142",
+      "capacity_mw": 14.58,
+      "latitude": 13.5333,
+      "longitude": 2.0667,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 27.16",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Arlit Mine",
+      "gppd_idnr": "WRI1023140",
+      "capacity_mw": 14.52,
+      "latitude": 18.8167,
+      "longitude": 7.3333,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 27.05",
+      "generation_data_source": ""
+    },
+    {
+      "name": "D'akouta Mine",
+      "gppd_idnr": "WRI1023141",
+      "capacity_mw": 12,
+      "latitude": 18.8167,
+      "longitude": 7.3333,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 22.35",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Malbaza",
+      "gppd_idnr": "WKS0068276",
+      "capacity_mw": 7,
+      "latitude": 13.97,
+      "longitude": 5.525,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 14.14; 2014: 13.82; 2015: 14.32; 2016: 13.57; 2017: 12.95",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Niger — Power Plants - Free Download",
+    "description": "Power plants located in Niger from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Niger — Power Plants | ListBase",
+    "seo_description": "Download Niger — Power Plants dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

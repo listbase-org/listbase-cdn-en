@@ -1,0 +1,196 @@
+{
+  "id": "lv-power-plants",
+  "name": "Latvia — Power Plants",
+  "title": "Latvia — Power Plants",
+  "description": "Power plants located in Latvia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Plavinas HPP",
+      "gppd_idnr": "WRI1022436",
+      "capacity_mw": 894,
+      "latitude": 56.583,
+      "longitude": 25.2394,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 144.894; 2016: 217.504; 2017: 395.995",
+      "estimated_generation_gwh": "2013: 2544.77; 2014: 2575.76; 2015: 2546.52; 2016: 2718.88; 2017: 2721.44",
+      "generation_data_source": "JRC-PPDB-OPEN"
+    },
+    {
+      "name": "Riga Tec 2",
+      "gppd_idnr": "WRI1022437",
+      "capacity_mw": 863,
+      "latitude": 56.918,
+      "longitude": 24.2766,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 1561.33; 2016: 1586.089; 2017: 811.574",
+      "estimated_generation_gwh": "2017: 2449.57",
+      "generation_data_source": "JRC-PPDB-OPEN"
+    },
+    {
+      "name": "Riga HPP",
+      "gppd_idnr": "WRI1022438",
+      "capacity_mw": 402,
+      "latitude": 56.852,
+      "longitude": 24.2724,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 946.97; 2014: 975.39; 2015: 947.75; 2016: 1031.86; 2017: 1029.18",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kegums HPP",
+      "gppd_idnr": "WRI1022439",
+      "capacity_mw": 240,
+      "latitude": 56.7405,
+      "longitude": 24.7113,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 589.3; 2014: 606.27; 2015: 589.77; 2016: 640.05; 2017: 638.38",
+      "generation_data_source": ""
+    },
+    {
+      "name": "RTEC1",
+      "gppd_idnr": "WRI1022440",
+      "capacity_mw": 138,
+      "latitude": 56.9904,
+      "longitude": 24.1788,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 391.7",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Latvia — Power Plants - Free Download",
+    "description": "Power plants located in Latvia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Latvia — Power Plants | ListBase",
+    "seo_description": "Download Latvia — Power Plants dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

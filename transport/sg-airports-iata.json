@@ -1,0 +1,136 @@
+{
+  "id": "sg-airports-iata",
+  "name": "Singapore — IATA Airports",
+  "title": "Singapore — IATA Airports",
+  "description": "Airports with IATA codes in Singapore: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "SIN",
+      "icao_code": "WSSS",
+      "name": "Singapore Changi Airport",
+      "city_name_list": "Singapore",
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 1.350189,
+      "longitude": 103.994433,
+      "elevation": 6,
+      "timezone": "Asia/Singapore",
+      "wiki_link": "https://en.wikipedia.org/wiki/Singapore_Changi_Airport"
+    },
+    {
+      "iata_code": "TGA",
+      "icao_code": "WSAT",
+      "name": "Tengah Air Base",
+      "city_name_list": "Singapore",
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 1.3856,
+      "longitude": 103.70836,
+      "elevation": "",
+      "timezone": "Asia/Singapore",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tengah_Air_Base"
+    },
+    {
+      "iata_code": "XSP",
+      "icao_code": "WSSL",
+      "name": "Seletar Airport",
+      "city_name_list": "Singapore",
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 1.41722,
+      "longitude": 103.86583,
+      "elevation": 11,
+      "timezone": "Asia/Singapore",
+      "wiki_link": "https://en.wikipedia.org/wiki/Seletar_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Singapore — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Singapore: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 3 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Singapore — IATA Airports | ListBase",
+    "seo_description": "Download Singapore — IATA Airports dataset with 3 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 3 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

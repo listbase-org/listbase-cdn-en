@@ -1,0 +1,184 @@
+{
+  "id": "dz-unesco-heritage",
+  "name": "Algeria — UNESCO World Heritage Sites",
+  "title": "Algeria — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Algeria, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 102,
+      "name": "Al Qal'a of Beni Hammad",
+      "category": "cultural",
+      "date_inscribed": 1980,
+      "criteria": "c3",
+      "lat": 35.81844,
+      "lon": 4.78684,
+      "area_hectares": 150,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "dz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 179,
+      "name": "Tassili n'Ajjer",
+      "category": "mixed",
+      "date_inscribed": 1982,
+      "criteria": "c1, c3, n7, n8",
+      "lat": 25.5,
+      "lon": 9,
+      "area_hectares": 7200000,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "dz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 188,
+      "name": "M'Zab Valley",
+      "category": "cultural",
+      "date_inscribed": 1982,
+      "criteria": "c2, c3, c5",
+      "lat": 32.48333,
+      "lon": 3.68333,
+      "area_hectares": 665.03,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "dz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 191,
+      "name": "Djemila",
+      "category": "cultural",
+      "date_inscribed": 1982,
+      "criteria": "c3, c4",
+      "lat": 36.32056,
+      "lon": 5.73667,
+      "area_hectares": 30.6,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "dz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 193,
+      "name": "Tipasa",
+      "category": "cultural",
+      "date_inscribed": 1982,
+      "criteria": "c3, c4",
+      "lat": 36.55,
+      "lon": 2.383333333,
+      "area_hectares": 52.16,
+      "danger_list": "P 2002-2006",
+      "unesco_region": "Arab States",
+      "countries": "dz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 194,
+      "name": "Timgad",
+      "category": "cultural",
+      "date_inscribed": 1982,
+      "criteria": "c2, c3, c4",
+      "lat": 35.45,
+      "lon": 6.63333,
+      "area_hectares": 90.54,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "dz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 565,
+      "name": "Kasbah of Algiers",
+      "category": "cultural",
+      "date_inscribed": 1992,
+      "criteria": "c2, c5",
+      "lat": 36.78333,
+      "lon": 3.06028,
+      "area_hectares": 60,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "dz",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Algeria — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Algeria, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Algeria — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Algeria — UNESCO World Heritage Sites dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

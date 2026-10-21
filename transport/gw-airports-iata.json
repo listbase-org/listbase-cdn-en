@@ -1,0 +1,121 @@
+{
+  "id": "gw-airports-iata",
+  "name": "Guinea-Bissau — IATA Airports",
+  "title": "Guinea-Bissau — IATA Airports",
+  "description": "Airports with IATA codes in Guinea-Bissau: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BQE",
+      "icao_code": "GGBU",
+      "name": "Bubaque Airport",
+      "city_name_list": "Bubaque",
+      "country_code": "GW",
+      "country_name": "Guinea-Bissau",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Bolama",
+      "latitude": 11.29736,
+      "longitude": -15.83808,
+      "elevation": "",
+      "timezone": "Africa/Bissau",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bubaque_Airport"
+    },
+    {
+      "iata_code": "OXB",
+      "icao_code": "GGOV",
+      "name": "Bissau Airport",
+      "city_name_list": "Bissau",
+      "country_code": "GW",
+      "country_name": "Guinea-Bissau",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Bissau",
+      "latitude": 11.89485,
+      "longitude": -15.653681,
+      "elevation": 39,
+      "timezone": "Africa/Bissau",
+      "wiki_link": "https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Guinea-Bissau — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Guinea-Bissau: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Guinea-Bissau — IATA Airports | ListBase",
+    "seo_description": "Download Guinea-Bissau — IATA Airports dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

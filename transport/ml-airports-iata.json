@@ -1,0 +1,271 @@
+{
+  "id": "ml-airports-iata",
+  "name": "Mali — IATA Airports",
+  "title": "Mali — IATA Airports",
+  "description": "Airports with IATA codes in Mali: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BKO",
+      "icao_code": "GABS",
+      "name": "Bamako–Sénou International Airport",
+      "city_name_list": "Bamako",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Bamako",
+      "latitude": 12.533544,
+      "longitude": -7.949944,
+      "elevation": 380,
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bamako%E2%80%93S%C3%A9nou_International_Airport"
+    },
+    {
+      "iata_code": "EYL",
+      "icao_code": "GAYE",
+      "name": "Yélimané Airport",
+      "city_name_list": "Yélimané",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kayes",
+      "latitude": 15.123,
+      "longitude": -10.569,
+      "elevation": "",
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/Y%C3%A9liman%C3%A9_Airport"
+    },
+    {
+      "iata_code": "GAQ",
+      "icao_code": "GAGO",
+      "name": "Gao",
+      "city_name_list": "Gao",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Gao",
+      "latitude": 16.24843,
+      "longitude": -0.00546,
+      "elevation": 265,
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gao_International_Airport"
+    },
+    {
+      "iata_code": "GUD",
+      "icao_code": "GAGM",
+      "name": "Goundam Airport",
+      "city_name_list": "Goundam",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Gao",
+      "latitude": 16.35,
+      "longitude": -3.6,
+      "elevation": "",
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/Goundam_Airport"
+    },
+    {
+      "iata_code": "KNZ",
+      "icao_code": "GAKA",
+      "name": "Kéniéba Airport",
+      "city_name_list": "Kéniéba",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kayes",
+      "latitude": 12.83984,
+      "longitude": -11.25262,
+      "elevation": "",
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/K%C3%A9ni%C3%A9ba_Airport"
+    },
+    {
+      "iata_code": "KSS",
+      "icao_code": "GASK",
+      "name": "Sikasso",
+      "city_name_list": "Sikasso",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sikasso",
+      "latitude": 11.32,
+      "longitude": -5.667,
+      "elevation": 374,
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sikasso_Airport"
+    },
+    {
+      "iata_code": "KTX",
+      "icao_code": "GAKO",
+      "name": "Koutiala",
+      "city_name_list": "Koutiala",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sikasso",
+      "latitude": 12.38,
+      "longitude": -5.467,
+      "elevation": 365,
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/Koutiala_Airport"
+    },
+    {
+      "iata_code": "KYS",
+      "icao_code": "GAKY",
+      "name": "Kayes Dag Dag Airport",
+      "city_name_list": "Kayes",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kayes",
+      "latitude": 14.48123,
+      "longitude": -11.4044,
+      "elevation": 49,
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kayes_Airport"
+    },
+    {
+      "iata_code": "MZI",
+      "icao_code": "GAMB",
+      "name": "Mopti Airport",
+      "city_name_list": "Mopti",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Mopti",
+      "latitude": 14.512803,
+      "longitude": -4.079561,
+      "elevation": 276,
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mopti_Airport"
+    },
+    {
+      "iata_code": "NIX",
+      "icao_code": "GANR",
+      "name": "Nioro Airport",
+      "city_name_list": "Nioro",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kayes",
+      "latitude": 15.23897,
+      "longitude": -9.57579,
+      "elevation": 235,
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/Nioro_Airport"
+    },
+    {
+      "iata_code": "NRM",
+      "icao_code": "GANK",
+      "name": "Nara Keibane Airport",
+      "city_name_list": "Nara",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Bamako",
+      "latitude": 15.23084,
+      "longitude": -7.26415,
+      "elevation": "",
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/Keibane_Airport"
+    },
+    {
+      "iata_code": "TOM",
+      "icao_code": "GATB",
+      "name": "Timbuktu Airport",
+      "city_name_list": "Timbuktu",
+      "country_code": "ML",
+      "country_name": "Mali",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Tombouctou",
+      "latitude": 16.73046,
+      "longitude": -3.00758,
+      "elevation": 263,
+      "timezone": "Africa/Bamako",
+      "wiki_link": "https://en.wikipedia.org/wiki/Timbuktu_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Mali — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Mali: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mali — IATA Airports | ListBase",
+    "seo_description": "Download Mali — IATA Airports dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

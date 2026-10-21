@@ -1,0 +1,214 @@
+{
+  "id": "sz-power-plants",
+  "name": "Swaziland — Power Plants",
+  "title": "Swaziland — Power Plants",
+  "description": "Power plants located in Swaziland from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Lupohlo",
+      "gppd_idnr": "WRI1023187",
+      "capacity_mw": 20.8,
+      "latitude": -26.3763,
+      "longitude": 31.1552,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 36.67; 2014: 83.94; 2015: 43.85; 2016: 34.06; 2017: 64.29",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Simunye Mill",
+      "gppd_idnr": "WRI1023190",
+      "capacity_mw": 17,
+      "latitude": -26.1778,
+      "longitude": 31.9073,
+      "primary_fuel": "Biomass",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Edwaleni",
+      "gppd_idnr": "WRI1023186",
+      "capacity_mw": 15,
+      "latitude": -26.5895,
+      "longitude": 31.324,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 35.68; 2014: 62.89; 2015: 29.42; 2016: 27.49; 2017: 51.24",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Maguga Dam",
+      "gppd_idnr": "WRI1023188",
+      "capacity_mw": 15,
+      "latitude": -26.0785,
+      "longitude": 31.2616,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 35.12; 2014: 61.95; 2015: 37.66; 2016: 33.74; 2017: 54.78",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Mhlume Mill",
+      "gppd_idnr": "WRI1023189",
+      "capacity_mw": 14,
+      "latitude": -26.0333,
+      "longitude": 31.85,
+      "primary_fuel": "Biomass",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ubombo Mill",
+      "gppd_idnr": "WRI1023191",
+      "capacity_mw": 13,
+      "latitude": -26.7729,
+      "longitude": 31.9416,
+      "primary_fuel": "Biomass",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Swaziland — Power Plants - Free Download",
+    "description": "Power plants located in Swaziland from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Swaziland — Power Plants | ListBase",
+    "seo_description": "Download Swaziland — Power Plants dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "jo-unesco-heritage",
+  "name": "Jordan — UNESCO World Heritage Sites",
+  "title": "Jordan — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Jordan, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 326,
+      "name": "Petra",
+      "category": "cultural",
+      "date_inscribed": 1985,
+      "criteria": "c1, c3, c4",
+      "lat": 30.33056,
+      "lon": 35.44333,
+      "area_hectares": 26171,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "jo",
+      "transboundary": false
+    },
+    {
+      "ref_no": 327,
+      "name": "Quseir Amra",
+      "category": "cultural",
+      "date_inscribed": 1985,
+      "criteria": "c1, c3, c4",
+      "lat": 31.80194,
+      "lon": 36.58583,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "jo",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1093,
+      "name": "Um er-Rasas (Kastrom Mefa'a)",
+      "category": "cultural",
+      "date_inscribed": 2004,
+      "criteria": "c1, c4, c6",
+      "lat": 31.50167,
+      "lon": 35.92056,
+      "area_hectares": 23.928,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "jo",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1377,
+      "name": "Wadi Rum Protected Area",
+      "category": "mixed",
+      "date_inscribed": 2011,
+      "criteria": "c3, c5, n7",
+      "lat": 29.63972222,
+      "lon": 35.43388889,
+      "area_hectares": 74179.7,
+      "danger_list": "",
+      "unesco_region": "Arab States",
+      "countries": "jo",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Jordan — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Jordan, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 4 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Jordan — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Jordan — UNESCO World Heritage Sites dataset with 4 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 4 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

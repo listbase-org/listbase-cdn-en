@@ -1,0 +1,257 @@
+{
+  "id": "finance-container-codes",
+  "name": "ISO 6346 Shipping Container Codes & Specifications Dataset",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Container Type",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "length_ft",
+      "label": "Length (ft)",
+      "type": "number"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (L×W×H m)",
+      "type": "string"
+    },
+    {
+      "key": "capacity_cbm",
+      "label": "Capacity (m³)",
+      "type": "number"
+    },
+    {
+      "key": "max_payload_kg",
+      "label": "Max Payload (kg)",
+      "type": "number"
+    },
+    {
+      "key": "tare_weight_kg",
+      "label": "Tare Weight (kg)",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "20GP",
+      "iso_code": "22G1",
+      "name": "20ft General Purpose",
+      "category": "Dry",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 33.2,
+      "max_payload_kg": 28200,
+      "tare_weight_kg": 2300,
+      "description": "Standard 20-foot dry container"
+    },
+    {
+      "code": "40GP",
+      "iso_code": "42G1",
+      "name": "40ft General Purpose",
+      "category": "Dry",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 67.7,
+      "max_payload_kg": 26680,
+      "tare_weight_kg": 3800,
+      "description": "Standard 40-foot dry container"
+    },
+    {
+      "code": "40HC",
+      "iso_code": "45G1",
+      "name": "40ft High Cube",
+      "category": "Dry",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 76.3,
+      "max_payload_kg": 26460,
+      "tare_weight_kg": 4020,
+      "description": "High cube with extra height"
+    },
+    {
+      "code": "45HC",
+      "iso_code": "45G1",
+      "name": "45ft High Cube",
+      "category": "Dry",
+      "length_ft": 45,
+      "dimensions": "13.72 × 2.44 × 2.89",
+      "capacity_cbm": 86.1,
+      "max_payload_kg": 25600,
+      "tare_weight_kg": 4800,
+      "description": "45-foot high cube container"
+    },
+    {
+      "code": "20RF",
+      "iso_code": "22R1",
+      "name": "20ft Reefer",
+      "category": "Refrigerated",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 28.3,
+      "max_payload_kg": 27400,
+      "tare_weight_kg": 3080,
+      "description": "Refrigerated 20-foot container"
+    },
+    {
+      "code": "40RF",
+      "iso_code": "42R1",
+      "name": "40ft Reefer",
+      "category": "Refrigerated",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 59.3,
+      "max_payload_kg": 26280,
+      "tare_weight_kg": 4200,
+      "description": "Refrigerated 40-foot container"
+    },
+    {
+      "code": "40RH",
+      "iso_code": "45R1",
+      "name": "40ft Reefer High Cube",
+      "category": "Refrigerated",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 67.5,
+      "max_payload_kg": 25900,
+      "tare_weight_kg": 4580,
+      "description": "High cube refrigerated container"
+    },
+    {
+      "code": "20OT",
+      "iso_code": "22U1",
+      "name": "20ft Open Top",
+      "category": "Open Top",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 32.5,
+      "max_payload_kg": 28100,
+      "tare_weight_kg": 2400,
+      "description": "Open top for oversized cargo"
+    },
+    {
+      "code": "40OT",
+      "iso_code": "42U1",
+      "name": "40ft Open Top",
+      "category": "Open Top",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 65.9,
+      "max_payload_kg": 26500,
+      "tare_weight_kg": 3980,
+      "description": "40-foot open top container"
+    },
+    {
+      "code": "20FR",
+      "iso_code": "22P1",
+      "name": "20ft Flat Rack",
+      "category": "Flat Rack",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 28600,
+      "tare_weight_kg": 2700,
+      "description": "No sides/roof for heavy machinery"
+    },
+    {
+      "code": "40FR",
+      "iso_code": "42P1",
+      "name": "40ft Flat Rack",
+      "category": "Flat Rack",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5700,
+      "description": "40-foot flat rack container"
+    },
+    {
+      "code": "20TK",
+      "iso_code": "22T1",
+      "name": "20ft Tank",
+      "category": "Tank",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 21,
+      "max_payload_kg": 26000,
+      "tare_weight_kg": 4480,
+      "description": "For liquid/gas transport"
+    },
+    {
+      "code": "20PL",
+      "iso_code": "22P3",
+      "name": "20ft Platform",
+      "category": "Platform",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 30000,
+      "tare_weight_kg": 2500,
+      "description": "Flat platform, no walls"
+    },
+    {
+      "code": "40PL",
+      "iso_code": "42P3",
+      "name": "40ft Platform",
+      "category": "Platform",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5000,
+      "description": "40-foot platform container"
+    }
+  ],
+  "meta": {
+    "seo_title": "ISO 6346 Container Codes - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download ISO 6346 container codes data for shipping. Get 14 records including dimensions, capacity, and payload. Free in Excel, CSV, PDF.",
+    "title": "ISO 6346 Shipping Container Codes & Specifications Dataset",
+    "description": "This dataset provides a comprehensive list of 14 ISO 6346 container codes, detailing their types, dimensions, capacities, and weight specifications for various shipping containers.",
+    "key_takeaways": [
+      "Access detailed specifications for 14 common ISO 6346 container types.",
+      "Explore container dimensions, capacities, maximum payloads, and tare weights.",
+      "Download a ready-to-use reference for logistics, shipping, and supply chain analysis.",
+      "Leverage accurate data for freight planning and container utilization."
+    ],
+    "keywords": [
+      "ISO 6346 container codes",
+      "shipping container dimensions",
+      "freight container data",
+      "container specifications excel",
+      "ISO container types csv",
+      "container capacity payload pdf"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or Python scripts to integrate container specifications into logistics management systems or freight calculation tools.",
+      "Use the **Excel** file to create Pivot Tables, filter container types, and analyze capacities for optimized shipping route planning and cargo loading.",
+      "Print the **PDF** version for classroom reference, operational manuals, or quick offline lookups in a warehouse setting.",
+      "Refer to this dataset for validating container declarations, understanding international shipping standards, or building educational materials on global trade."
+    ]
+  },
+  "record_count": 14,
+  "title": "ISO 6346 Shipping Container Codes & Specifications Dataset"
+}

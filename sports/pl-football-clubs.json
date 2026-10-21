@@ -1,0 +1,358 @@
+{
+  "id": "pl-football-clubs",
+  "name": "Poland — Football Clubs",
+  "title": "Poland — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Poland's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Legia",
+      "matches_played": 437,
+      "seasons_count": 17,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "ekstraklasa, ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2001-2002, ekstraklasa-2002-2003, ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, eks…"
+    },
+    {
+      "name": "Wisla",
+      "matches_played": 437,
+      "seasons_count": 17,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "ekstraklasa, ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2001-2002, ekstraklasa-2002-2003, ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, eks…"
+    },
+    {
+      "name": "GornikZ.",
+      "matches_played": 393,
+      "seasons_count": 15,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "ekstraklasa, ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2002-2003, ekstraklasa-2008-2009, ekstraklasa-2010-2011, ekstraklasa-2011-2012, ekstraklasa-2012-2013, eks…"
+    },
+    {
+      "name": "LechPoznan",
+      "matches_played": 393,
+      "seasons_count": 15,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "ekstraklasa, ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2002-2003, ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, ekstraklasa-2011-2012, ekstraklasa-2012-2013, eks…"
+    },
+    {
+      "name": "Zaglebie",
+      "matches_played": 379,
+      "seasons_count": 13,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "ekstraklasa, ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2002-2003, ekstraklasa-2009-2010, ekstraklasa-2010-2011, ekstraklasa-2011-2012, ekstraklasa-2012-2013, ora…"
+    },
+    {
+      "name": "Ruch",
+      "matches_played": 344,
+      "seasons_count": 13,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "ekstraklasa, ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2001-2002, ekstraklasa-2002-2003, ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, eks…"
+    },
+    {
+      "name": "PoloniaWarszawa",
+      "matches_played": 340,
+      "seasons_count": 12,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2001-2002, ekstraklasa-2002-2003, ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, ekstraklasa-2011…"
+    },
+    {
+      "name": "OdraWodzislaw",
+      "matches_played": 310,
+      "seasons_count": 11,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2009,
+      "seasons": "ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2001-2002, ekstraklasa-2002-2003, ekstraklasa-2008-2009, ekstraklasa-2009-2010, orange-ekstraklasa-2004-2005, orange-ek…"
+    },
+    {
+      "name": "PogonSzczecin",
+      "matches_played": 287,
+      "seasons_count": 12,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "ekstraklasa, ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2001-2002, ekstraklasa-2002-2003, ekstraklasa-2012-2013, ekstraklasa-2013-2014, ekstraklasa-2014-2015, ora…"
+    },
+    {
+      "name": "GKSBelchatow",
+      "matches_played": 270,
+      "seasons_count": 9,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "ekstraklasa-1998-1999, ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, ekstraklasa-2011-2012, ekstraklasa-2012-2013, orange-ekstraklasa-2005-2006, orange-ekstraklasa-2006-2007, or…"
+    },
+    {
+      "name": "WidzewLodz",
+      "matches_played": 270,
+      "seasons_count": 9,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2002-2003, ekstraklasa-2010-2011, ekstraklasa-2011-2012, ekstraklasa-2012-2013, orange-ekstraklasa-2006-2007, orange-ek…"
+    },
+    {
+      "name": "Cracovia",
+      "matches_played": 259,
+      "seasons_count": 9,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 2004,
+      "last_season_year": 2011,
+      "seasons": "ekstraklasa, ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, ekstraklasa-2011-2012, orange-ekstraklasa-2004-2005, orange-ekstraklasa-2005-2006, orange-ekstraklasa-2006-2007, orang…"
+    },
+    {
+      "name": "KoronaKielce",
+      "matches_played": 233,
+      "seasons_count": 8,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 2005,
+      "last_season_year": 2012,
+      "seasons": "ekstraklasa, ekstraklasa-2009-2010, ekstraklasa-2010-2011, ekstraklasa-2011-2012, ekstraklasa-2012-2013, orange-ekstraklasa-2005-2006, orange-ekstraklasa-2006-2007, orange-ekstraklasa-2007-2008"
+    },
+    {
+      "name": "Jagiellonia",
+      "matches_played": 210,
+      "seasons_count": 8,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 2007,
+      "last_season_year": 2014,
+      "seasons": "ekstraklasa, ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, ekstraklasa-2011-2012, ekstraklasa-2012-2013, ekstraklasa-2014-2015, orange-ekstraklasa-2007-2008"
+    },
+    {
+      "name": "SlaskWroclaw",
+      "matches_played": 210,
+      "seasons_count": 8,
+      "leagues": "ekstraklasa",
+      "first_season_year": 2000,
+      "last_season_year": 2014,
+      "seasons": "ekstraklasa, ekstraklasa-2000-2001, ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, ekstraklasa-2011-2012, ekstraklasa-2012-2013, ekstraklasa-2014-2015"
+    },
+    {
+      "name": "Groclin",
+      "matches_played": 206,
+      "seasons_count": 7,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1999,
+      "last_season_year": 2007,
+      "seasons": "ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2002-2003, orange-ekstraklasa-2004-2005, orange-ekstraklasa-2005-2006, orange-ekstraklasa-2006-2007, orange-ekstraklasa-2007-2008"
+    },
+    {
+      "name": "AmicaWronki",
+      "matches_played": 190,
+      "seasons_count": 7,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2005,
+      "seasons": "ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2001-2002, ekstraklasa-2002-2003, orange-ekstraklasa-2004-2005, orange-ekstraklasa-2005-2006"
+    },
+    {
+      "name": "LechiaGdansk",
+      "matches_played": 187,
+      "seasons_count": 8,
+      "leagues": "ekstraklasa",
+      "first_season_year": 2008,
+      "last_season_year": 2014,
+      "seasons": "ekstraklasa, ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, ekstraklasa-2011-2012, ekstraklasa-2012-2013, ekstraklasa-2013-2014, ekstraklasa-2014-2015"
+    },
+    {
+      "name": "LKSLodz",
+      "matches_played": 180,
+      "seasons_count": 6,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2011,
+      "seasons": "ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2008-2009, ekstraklasa-2011-2012, orange-ekstraklasa-2006-2007, orange-ekstraklasa-2007-2008"
+    },
+    {
+      "name": "Plock",
+      "matches_played": 176,
+      "seasons_count": 6,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1999,
+      "last_season_year": 2006,
+      "seasons": "ekstraklasa-1999-2000, ekstraklasa-2000-2001, ekstraklasa-2002-2003, orange-ekstraklasa-2004-2005, orange-ekstraklasa-2005-2006, orange-ekstraklasa-2006-2007"
+    },
+    {
+      "name": "ArkaGdynia",
+      "matches_played": 150,
+      "seasons_count": 5,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 2005,
+      "last_season_year": 2010,
+      "seasons": "ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, orange-ekstraklasa-2005-2006, orange-ekstraklasa-2006-2007"
+    },
+    {
+      "name": "GKSKatowice",
+      "matches_played": 130,
+      "seasons_count": 5,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2004,
+      "seasons": "ekstraklasa-1998-1999, ekstraklasa-2000-2001, ekstraklasa-2001-2002, ekstraklasa-2002-2003, orange-ekstraklasa-2004-2005"
+    },
+    {
+      "name": "PoloniaBytom",
+      "matches_played": 120,
+      "seasons_count": 4,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 2007,
+      "last_season_year": 2010,
+      "seasons": "ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2010-2011, orange-ekstraklasa-2007-2008"
+    },
+    {
+      "name": "PiastGliwice",
+      "matches_played": 113,
+      "seasons_count": 4,
+      "leagues": "ekstraklasa",
+      "first_season_year": 2008,
+      "last_season_year": 2012,
+      "seasons": "ekstraklasa, ekstraklasa-2008-2009, ekstraklasa-2009-2010, ekstraklasa-2012-2013"
+    },
+    {
+      "name": "Leczna",
+      "matches_played": 109,
+      "seasons_count": 4,
+      "leagues": "ekstraklasa, orange-ekstraklasa",
+      "first_season_year": 2004,
+      "last_season_year": 2006,
+      "seasons": "ekstraklasa, orange-ekstraklasa-2004-2005, orange-ekstraklasa-2005-2006, orange-ekstraklasa-2006-2007"
+    },
+    {
+      "name": "Olsztyn",
+      "matches_played": 90,
+      "seasons_count": 3,
+      "leagues": "ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2000,
+      "seasons": "ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001"
+    },
+    {
+      "name": "Radzionkow",
+      "matches_played": 90,
+      "seasons_count": 3,
+      "leagues": "ekstraklasa",
+      "first_season_year": 1998,
+      "last_season_year": 2000,
+      "seasons": "ekstraklasa-1998-1999, ekstraklasa-1999-2000, ekstraklasa-2000-2001"
+    },
+    {
+      "name": "Podbeskidzie",
+      "matches_played": 83,
+      "seasons_count": 3,
+      "leagues": "ekstraklasa",
+      "first_season_year": 2011,
+      "last_season_year": 2012,
+      "seasons": "ekstraklasa, ekstraklasa-2011-2012, ekstraklasa-2012-2013"
+    },
+    {
+      "name": "OstrowiecSwietokrzyski",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "ekstraklasa",
+      "first_season_year": 2002,
+      "last_season_year": 2002,
+      "seasons": "ekstraklasa-2002-2003"
+    },
+    {
+      "name": "SzczakowiankaJaworzno",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "ekstraklasa",
+      "first_season_year": 2002,
+      "last_season_year": 2002,
+      "seasons": "ekstraklasa-2002-2003"
+    },
+    {
+      "name": "ZaglebieSosnowiec",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "orange-ekstraklasa",
+      "first_season_year": 2007,
+      "last_season_year": 2007,
+      "seasons": "orange-ekstraklasa-2007-2008"
+    },
+    {
+      "name": "Termalica",
+      "matches_played": 23,
+      "seasons_count": 1,
+      "leagues": "ekstraklasa",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "ekstraklasa"
+    },
+    {
+      "name": "Zawisza",
+      "matches_played": 7,
+      "seasons_count": 1,
+      "leagues": "ekstraklasa",
+      "first_season_year": 2013,
+      "last_season_year": 2013,
+      "seasons": "ekstraklasa-2013-2014"
+    }
+  ],
+  "meta": {
+    "title": "Poland — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Poland's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Poland — Football Clubs | ListBase",
+    "seo_description": "Download Poland — Football Clubs dataset with 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

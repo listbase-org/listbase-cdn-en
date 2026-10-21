@@ -1,0 +1,331 @@
+{
+  "id": "sy-political-parties",
+  "name": "Syria — Political Parties",
+  "title": "Syria — Political Parties",
+  "description": "Political parties of Syria from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5216,
+      "name_short": "Baath",
+      "name": "Hizb Al-Ba'ath Al-Arabi Al-Ishtiraki – Qutr Suriya",
+      "name_english": "Arab Socialist Ba'ath Party – Syria Region",
+      "name_other": "Arabic: حزب البعث العربي الاشتراكي – قطر سوريا‎‎",
+      "year_first": 1947,
+      "year_last": "",
+      "share": 100,
+      "share_year": 1960,
+      "wikipedia": "https://en.wikipedia.org/wiki/Arab_Socialist_Ba%27ath_Party_%E2%80%93_Syria_Region",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7293,
+      "name_short": "ALM",
+      "name": "Ḥarakat Al-Tahrir Al-'Arabiy",
+      "name_english": "Arab Liberation Movement",
+      "name_other": "Arabic: حركة التحرر العربي‎",
+      "year_first": 1952,
+      "year_last": 1963,
+      "share": 87.8,
+      "share_year": 1953,
+      "wikipedia": "https://en.wikipedia.org/wiki/Arab_Liberation_Movement",
+      "description": "72 of 82 seats in 1953 Syrian parliamentary election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5217,
+      "name_short": "NPF",
+      "name": "al-Jabha al-Wataniyyah at-Taqaddumiyyah",
+      "name_english": "National Progressive Front",
+      "name_other": "Arabic: الجبهة الوطنية التقدمية‎‎",
+      "year_first": 1972,
+      "year_last": "",
+      "share": 68.8,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Progressive_Front_(Syria)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7295,
+      "name_short": "ASU",
+      "name": "al-ittihad al-Ishtiraqi al-'Arabi",
+      "name_english": "Arab Socialist Union",
+      "name_other": "",
+      "year_first": 1971,
+      "year_last": "",
+      "share": 6.4,
+      "share_year": 1971,
+      "wikipedia": "https://en.wikipedia.org/wiki/Arab_Socialist_Union_Party_(Syria)",
+      "description": "11 of 173 seats in 1971 election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7294,
+      "name_short": "IMS",
+      "name": "Al-Ikhwan Al-Muslimun fi Suriya",
+      "name_english": "Muslim Brotherhood of Syria/Islamic Socialist Front",
+      "name_other": "Arabic: الإخوان المسلمون في سوريا‎",
+      "year_first": 1940,
+      "year_last": "",
+      "share": 5.8,
+      "share_year": 1961,
+      "wikipedia": "https://en.wikipedia.org/wiki/Muslim_Brotherhood_of_Syria",
+      "description": "10 of 172 seats in 1961 Syrian parliamentary election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7085,
+      "name_short": "HAIAA",
+      "name": "Harakat Al-Ishtirakiyeen Al-'Arab",
+      "name_english": "Arab Socialist Movement",
+      "name_other": "Arabic: حركة الاشتراكيين العرب‎",
+      "year_first": 1950,
+      "year_last": "",
+      "share": 1.6,
+      "share_year": 1973,
+      "wikipedia": "https://en.wikipedia.org/wiki/Arab_Socialist_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7877,
+      "name_short": "SSNP",
+      "name": "Al-Ḥizb Al-Sūrī Al-Qawmī Al-'Ijtimā'ī",
+      "name_english": "Syrian Social Nationalist Party",
+      "name_other": "Arabic: الحزب السوري القومي الاجتماعي‎",
+      "year_first": 1932,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Syrian_Social_Nationalist_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6035,
+      "name_short": "HS",
+      "name": "Hizb ash-Sha'b",
+      "name_english": "People's Party",
+      "name_other": "Arabic: حزب الشعب‎",
+      "year_first": 1948,
+      "year_last": 1963,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Party_(Syria)",
+      "description": "leader support 1961 Al-Kudsi (HS) –  see CHISOLS",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6036,
+      "name_short": "KW-SNP",
+      "name": "al-Kutla al-Wataniya party / Ḥizb Al-Waṭanī",
+      "name_english": "Syrian National Party",
+      "name_other": "Arabic: حزب الوطني‎",
+      "year_first": 1948,
+      "year_last": 1963,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Party_(Syria)",
+      "description": "leader support 1954 Atassi H. (KW) – see CHISOLS",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7882,
+      "name_short": "ASM",
+      "name": "Arab Socialist Movement",
+      "name_english": "Arab Socialist Movement",
+      "name_other": "Arabic: حركة الاشتراكيين العرب",
+      "year_first": 1950,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arab_Socialist_Movement_(Damascus_branch)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7881,
+      "name_short": "NCP",
+      "name": "Haraka al-'ahd al-waTani",
+      "name_english": "National Covenant Party",
+      "name_other": "Arabic: حركة العهد الوطني",
+      "year_first": 1951,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Covenant_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7879,
+      "name_short": "SUP",
+      "name": "Al-Wahdawiyyun Al-Ishtirakiyyun",
+      "name_english": "Socialist Unionist Party",
+      "name_other": "Arabic: حزب الوحدويين الاشتراكيين",
+      "year_first": 1962,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Socialist_Unionist_Party_(Syria)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7878,
+      "name_short": "SCP-P",
+      "name": "Al-Hizb Al-Shuyū'ī Al-Sūrī",
+      "name_english": "Syrian Communist Party (Bakdash)",
+      "name_other": "Arabic: الحزب الشيوعي السوري",
+      "year_first": 1986,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Syrian_Communist_Party_(Bakdash)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7880,
+      "name_short": "SCP-U",
+      "name": "Al-Hizb Al-Shuyū'ī Al-Sūrī",
+      "name_english": "Syrian Communist Party (Unified)",
+      "name_other": "Arabic: (الحزب الشيوعي السوري (الموحد",
+      "year_first": 1986,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Syrian_Communist_Party_(Unified)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7884,
+      "name_short": "ADUP",
+      "name": "Hizb Al-Ittihad Al-'Arabi Al-Dimuqrati",
+      "name_english": "Arabic Democratic Union Party",
+      "name_other": "Arabic: حزب الاتحاد العربي الديمقراطي",
+      "year_first": 2007,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arabic_Democratic_Union_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7883,
+      "name_short": "DSUP",
+      "name": "al-Hizb al-waHdawi al-ishtiraki ad-dimuqraTi",
+      "name_english": "Democratic Socialist Unionist Party",
+      "name_other": "Arabic: الحزب الوحدوي الاشتراكي الديمقراطي",
+      "year_first": 2007,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Socialist_Unionist_Party",
+      "description": "There is no available information on Wikipedia for Year first",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Syria — Political Parties - Free Download",
+    "description": "Political parties of Syria from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Syria — Political Parties | ListBase",
+    "seo_description": "Download Syria — Political Parties dataset with 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

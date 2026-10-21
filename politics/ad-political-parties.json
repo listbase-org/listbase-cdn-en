@@ -1,0 +1,346 @@
+{
+  "id": "ad-political-parties",
+  "name": "Andorra — Political Parties",
+  "title": "Andorra — Political Parties",
+  "description": "Political parties of Andorra from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3713,
+      "name_short": "DA",
+      "name": "Demòcrates per Andorra",
+      "name_english": "Democrats for Andorra",
+      "name_other": "",
+      "year_first": 2011,
+      "year_last": "",
+      "share": 49.1,
+      "share_year": 2011,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democrats_for_Andorra",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3673,
+      "name_short": "UL / PLA",
+      "name": "Uniò Liberal / Partit Liberal d'Andorra",
+      "name_english": "Liberal Union / Liberal Party of Andorra",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 42.1,
+      "share_year": 2001,
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberal_Party_of_Andorra",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3675,
+      "name_short": "PS",
+      "name": "Partit Socialdemòcratica",
+      "name_english": "Social Democratic Party",
+      "name_other": "",
+      "year_first": 2001,
+      "year_last": "",
+      "share": 36.9,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_Democratic_Party_%28Andorra%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4207,
+      "name_short": "AND",
+      "name": "Agrupament Nacional Democràtic",
+      "name_english": "National Democratic Group",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 2001,
+      "share": 30.9,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Democratic_Group",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4208,
+      "name_short": "PD",
+      "name": "Partit Demòcrata",
+      "name_english": "Democratic Party",
+      "name_other": "",
+      "year_first": 2001,
+      "year_last": 2001,
+      "share": 22.9,
+      "share_year": 2001,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_(Andorra)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6433,
+      "name_short": "GUPI",
+      "name": "Grup d'Unió Parroquial Independents",
+      "name_english": "Parochial Union of Independents Group",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": "",
+      "share": 20.8,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/Parochial_Union_of_Independents_Group",
+      "description": "Local progressive political party in Ordino, Andorra",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3710,
+      "name_short": "ND",
+      "name": "Nova Democràcia",
+      "name_english": "New Democracy",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 1997,
+      "share": 15,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Democracy_(Andorra)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4901,
+      "name_short": "ACM",
+      "name": "Agrupament Canillo – La Massana",
+      "name_english": "Canillo-Massana Grouping",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 1997,
+      "share": 14.3,
+      "share_year": 1993,
+      "wikipedia": "",
+      "description": "",
+      "comment": "4 of 28 seats in 1993 --\n\"The ACM was formed by four councillors returned as independents in the December 1993 balloting.\" - Political Handbook of the World 1998",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4900,
+      "name_short": "CNA",
+      "name": "Coalició Nacional d'Andorra",
+      "name_english": "National Andorran Coalition",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 1997,
+      "share": 14.3,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Andorran_Coalition",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3712,
+      "name_short": "APC",
+      "name": "Andorra pel Canvi",
+      "name_english": "Andorra for Change",
+      "name_other": "",
+      "year_first": 2009,
+      "year_last": 2011,
+      "share": 12.3,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/Andorra_for_Change",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6516,
+      "name_short": "NC",
+      "name": "Nou Centre",
+      "name_english": "New Centre",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": "",
+      "share": 10.7,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Centre_(Andorra)",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5875,
+      "name_short": "SDP",
+      "name": "Socialdemocràcia i Progrés",
+      "name_english": "Social Democracy and Progress",
+      "name_other": "",
+      "year_first": 2015,
+      "year_last": "",
+      "share": 10.6,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_Democracy_and_Progress",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3711,
+      "name_short": "IDN",
+      "name": "Iniciativa Democràtica Nacional",
+      "name_english": "Democratic National Initiative",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 1997,
+      "share": 9.2,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_National_Initiative",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3674,
+      "name_short": "RD",
+      "name": "Renovació Democràtica",
+      "name_english": "Democratic Renewal",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": 2011,
+      "share": 6.2,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Renewal_%28Andorra%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3708,
+      "name_short": "UL",
+      "name": "Unió Laurediana",
+      "name_english": "Lauredian Union",
+      "name_other": "",
+      "year_first": 2001,
+      "year_last": 2011,
+      "share": 4.4,
+      "share_year": 2011,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lauredian_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3676,
+      "name_short": "VA",
+      "name": "Verds d'Andorra",
+      "name_english": "Greens of Andorra",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": "",
+      "share": 3.5,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Greens_of_Andorra",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3714,
+      "name_short": "AISJ",
+      "name": "Argupament Independent per Sant Julia",
+      "name_english": "Independent Group for Sant Julía",
+      "name_other": "",
+      "year_first": 2001,
+      "year_last": 2001,
+      "share": 3.1,
+      "share_year": 2001,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Andorra — Political Parties - Free Download",
+    "description": "Political parties of Andorra from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Andorra — Political Parties | ListBase",
+    "seo_description": "Download Andorra — Political Parties dataset with 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

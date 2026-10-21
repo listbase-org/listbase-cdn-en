@@ -1,0 +1,3094 @@
+{
+  "id": "java-libraries-directory",
+  "name": "Java Libraries Directory",
+  "title": "Java Libraries Directory",
+  "description": "337 curated Java libraries with repository links, categories, and technology tags. Covers Android, web frameworks, data processing, and more.",
+  "category": "tech",
+  "source": "https://github.com/sourcerer-io/awesome-libraries",
+  "source_url": "https://github.com/sourcerer-io/awesome-libraries",
+  "updated": "2026-04",
+  "record_count": 337,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "repo",
+      "label": "Repo",
+      "type": "string"
+    },
+    {
+      "key": "tags",
+      "label": "Tags",
+      "type": "string"
+    },
+    {
+      "key": "tech",
+      "label": "Tech",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "imports",
+      "label": "Imports",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "java.android-util-code",
+      "name": "AndroidUtilCode",
+      "repo": "Blankj/AndroidUtilCode",
+      "tags": "utils",
+      "tech": "android",
+      "status": "model-ready",
+      "imports": "com.blankj.utilcode."
+    },
+    {
+      "id": "java.easypermissions",
+      "name": "EasyPermissions",
+      "repo": "googlesamples/easypermissions",
+      "tags": "permissions",
+      "tech": "android",
+      "status": "model-ready",
+      "imports": "pub.devrel.easypermissions."
+    },
+    {
+      "id": "java.rxlifecycle",
+      "name": "RxLifecycle",
+      "repo": "trello/RxLifecycle",
+      "tags": "lifecycle",
+      "tech": "android",
+      "status": "awaiting-model",
+      "imports": "com.trello.rxlifecycle2"
+    },
+    {
+      "id": "java.tinker",
+      "name": "Tinker",
+      "repo": "Tencent/tinker",
+      "tags": "hotfix",
+      "tech": "android",
+      "status": "model-ready",
+      "imports": "com.tencent.tinker."
+    },
+    {
+      "id": "java.android-swipe-layout",
+      "name": "Android Swipe Layout",
+      "repo": "daimajia/AndroidSwipeLayout",
+      "tags": "swipe-layout",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "com.daimajia.swipelayout"
+    },
+    {
+      "id": "java.android-view-page-indicator",
+      "name": "Android ViewPageIndicator",
+      "repo": "JakeWharton/ViewPagerIndicator",
+      "tags": "paging",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "com.viewpagerindicator."
+    },
+    {
+      "id": "java.brvah",
+      "name": "BRVAH",
+      "repo": "CymChad/BaseRecyclerViewAdapterHelper",
+      "tags": "recycler-view",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "com.chad.library."
+    },
+    {
+      "id": "java.butter-knife",
+      "name": "Butter Knife",
+      "repo": "JakeWharton/butterknife",
+      "tags": "view-binding",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "butterknife."
+    },
+    {
+      "id": "java.calligraphy",
+      "name": "Calligraphy",
+      "repo": "InflationX/Calligraphy",
+      "tags": "custom-fonts",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "uk.co.chrisjenx.calligraphy., io.github.inflationx.calligraphy3."
+    },
+    {
+      "id": "java.circleimageview",
+      "name": "CircleImageView",
+      "repo": "hdodenhof/CircleImageView",
+      "tags": "avatar-widget",
+      "tech": "android-ui",
+      "status": "awaiting-model",
+      "imports": "de.hdodenhof.circleimageview"
+    },
+    {
+      "id": "java.epoxy",
+      "name": "Epxoy",
+      "repo": "airbnb/epoxy",
+      "tags": "complex-screens",
+      "tech": "android-ui",
+      "status": "awaiting-model",
+      "imports": "com.airbnb.epoxy"
+    },
+    {
+      "id": "java.jp.recyclerview",
+      "name": "RecyclerView Animators",
+      "repo": "wasabeef/recyclerview-animators",
+      "tags": "android-animation",
+      "tech": "android-ui",
+      "status": "awaiting-model",
+      "imports": "jp.wasabeef"
+    },
+    {
+      "id": "java.material-design",
+      "name": "Material Design",
+      "repo": "navasmdc/MaterialDesignLibrary",
+      "tags": "framework",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "com.gc.materialdesign."
+    },
+    {
+      "id": "java.material-dialogs",
+      "name": "Material Dialogs",
+      "repo": "afollestad/material-dialogs",
+      "tags": "dialogs",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "com.afollestad.material-dialogs."
+    },
+    {
+      "id": "java.materialdrawer",
+      "name": "MaterialDrawer",
+      "repo": "mikepenz/MaterialDrawer",
+      "tags": "menus",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "com.mikepenz.materialdrawer."
+    },
+    {
+      "id": "java.photo-view",
+      "name": "PhotoView",
+      "repo": "chrisbanes/PhotoView",
+      "tags": "image-view",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "com.github.chrisbanes.photoview."
+    },
+    {
+      "id": "java.pull-to-refresh",
+      "name": "Pull To Refresh",
+      "repo": "chrisbanes/Android-PullToRefresh",
+      "tags": "pull-to-refresh",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "com.handmark.pulltorefresh."
+    },
+    {
+      "id": "java.rx-binding",
+      "name": "RxBinding",
+      "repo": "JakeWharton/RxBinding",
+      "tags": "reactive",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "com.jakewharton.rxbinding2."
+    },
+    {
+      "id": "java.sliding-menu",
+      "name": "SlidingMenu",
+      "repo": "jfeinstein10/SlidingMenu",
+      "tags": "menus",
+      "tech": "android-ui",
+      "status": "model-ready",
+      "imports": "com.jeremyfeinstein.slidingmenu."
+    },
+    {
+      "id": "java.facebook-android-sdk",
+      "name": "Facebook Android SDK",
+      "repo": "facebook/facebook-android-sdk",
+      "tags": "facebook",
+      "tech": "api",
+      "status": "awaiting-model",
+      "imports": "com.facebook"
+    },
+    {
+      "id": "java.agera",
+      "name": "Agera",
+      "repo": "google/agera",
+      "tags": "android-reactive",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "com.google.android.agera."
+    },
+    {
+      "id": "java.android-annotations",
+      "name": "AndroidAnnotations",
+      "repo": "androidannotations/androidannotations",
+      "tags": "framework",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "org.androidannotations."
+    },
+    {
+      "id": "java.codejargon-feather",
+      "name": "Codejargon Feather",
+      "repo": "zsoltherpai/feather",
+      "tags": "injection",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "org.codejargon.feather."
+    },
+    {
+      "id": "java.cyclops",
+      "name": "cyclops",
+      "repo": "aol/cyclops-react",
+      "tags": "functional",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "com.aol.cyclops."
+    },
+    {
+      "id": "java.dagger",
+      "name": "Dagger",
+      "repo": "square/dagger",
+      "tags": "injection",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "dagger"
+    },
+    {
+      "id": "java.derive4-j",
+      "name": "Derive4J",
+      "repo": "derive4j/derive4j",
+      "tags": "algebraic-types",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "org.derive4j."
+    },
+    {
+      "id": "java.event-bus",
+      "name": "EventBus",
+      "repo": "greenrobot/EventBus",
+      "tags": "events",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "org.greenrobot.eventbus."
+    },
+    {
+      "id": "java.faux-pas",
+      "name": "Faux Pas",
+      "repo": "zalando/faux-pas",
+      "tags": "functional-errors",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "org.zalando.fauxpas."
+    },
+    {
+      "id": "java.governator",
+      "name": "Governator",
+      "repo": "Netflix/governator",
+      "tags": "injection",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "com.netflix.governator."
+    },
+    {
+      "id": "java.guice",
+      "name": "Guice",
+      "repo": "google/guice",
+      "tags": "injection",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "com.google.inject."
+    },
+    {
+      "id": "java.io.vertx",
+      "name": "io.vertx",
+      "repo": "eclipse-vertx/vert.x",
+      "tags": "reactive",
+      "tech": "app-arch",
+      "status": "awaiting-model",
+      "imports": "io.vertx"
+    },
+    {
+      "id": "java.j-ool",
+      "name": "jOOL",
+      "repo": "jOOQ/jOOL",
+      "tags": "lambdas",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "org.jooq.lambda."
+    },
+    {
+      "id": "java.jinq",
+      "name": "Jinq",
+      "repo": "my2iu/Jinq",
+      "tags": "db-queries",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "org.jinq."
+    },
+    {
+      "id": "java.net.bytebuddy",
+      "name": "Byte Buddy",
+      "repo": "raphw/byte-buddy",
+      "tags": "runtime-code-gen",
+      "tech": "app-arch",
+      "status": "awaiting-model",
+      "imports": "net.bytebuddy"
+    },
+    {
+      "id": "java.otto",
+      "name": "Otto",
+      "repo": "square/otto",
+      "tags": "android-eventbus",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "com.squareup.otto."
+    },
+    {
+      "id": "java.reactive-streams",
+      "name": "Reactive Streams",
+      "repo": "reactive-streams/reactive-streams-jvm",
+      "tags": "stream-processing",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "org.reactivestreams."
+    },
+    {
+      "id": "java.reactive-x",
+      "name": "ReactiveX",
+      "repo": "ReactiveX/RxJava",
+      "tags": "async-observable",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "io.reactivex."
+    },
+    {
+      "id": "java.toothpick",
+      "name": "Toothpick",
+      "repo": "stephanenicolas/toothpick",
+      "tags": "injection",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "toothpick."
+    },
+    {
+      "id": "java.vert-x",
+      "name": "Vert.x",
+      "repo": "eclipse/vert.x",
+      "tags": "reactive",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "io.vertx."
+    },
+    {
+      "id": "java.android-iconics",
+      "name": "Android-Iconics",
+      "repo": "mikepenz/Android-Iconics",
+      "tags": "icons",
+      "tech": "app-blocks",
+      "status": "awaiting-model",
+      "imports": "com.mikepenz.iconics"
+    },
+    {
+      "id": "java.elasticsearch",
+      "name": "Elasticsearch",
+      "repo": "elastic/elasticsearch",
+      "tags": "search-engine",
+      "tech": "app-blocks",
+      "status": "awaiting-model",
+      "imports": "org.elasticsearch"
+    },
+    {
+      "id": "java.flying-saucer",
+      "name": "Flying Saucer",
+      "repo": "flyingsaucerproject/flyingsaucer",
+      "tags": "html-renderer",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "org.xhtmlrenderer."
+    },
+    {
+      "id": "java.quartz-scheduler",
+      "name": "Quartz Scheduler",
+      "repo": "quartz-scheduler/quartz",
+      "tags": "scheduler",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "org.quartz."
+    },
+    {
+      "id": "java.xerial-sqlite-jdbc",
+      "name": "SQLite JDBC Driver",
+      "repo": "https://bitbucket.org/xerial/sqlite-jdbc",
+      "tags": "sqlite-jdbc",
+      "tech": "app-blocks",
+      "status": "awaiting-model",
+      "imports": "org.xerial"
+    },
+    {
+      "id": "java.bean-validation",
+      "name": "Bean Validation",
+      "repo": "beanvalidation/beanvalidation-api",
+      "tags": "validation",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "javax.validation"
+    },
+    {
+      "id": "java.commons-csv",
+      "name": "Commons CSV",
+      "repo": "apache/commons-csv",
+      "tags": "csv",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "org.apache.commons.csv."
+    },
+    {
+      "id": "java.cqengine",
+      "name": "CQEngine",
+      "repo": "npgall/cqengine",
+      "tags": "collection-queries",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.googlecode.cqengine."
+    },
+    {
+      "id": "java.dozer",
+      "name": "Dozer",
+      "repo": "DozerMapper/dozer",
+      "tags": "mapping",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "org.dozer."
+    },
+    {
+      "id": "java.fasterxml-jackson-datatype",
+      "name": "Jackson Java 8 datatypes",
+      "repo": "FasterXML/jackson-modules-java8",
+      "tags": "jackson-java8",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "com.fasterxml.jackson.datatype.jdk8"
+    },
+    {
+      "id": "java.fasterxml-jackson-datatype-collections",
+      "name": "Jackson collections",
+      "repo": "FasterXML/jackson-datatypes-collections",
+      "tags": "mapping",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "com.fasterxml.jackson.datatype.guava, com.fasterxml.jackson.datatype.hppc, com.fasterxml.jackson.datatype.pcollections, com.fasterxml.jackson.datatype.eclipsecollections"
+    },
+    {
+      "id": "java.fasterxml-jackson-datatype-joda",
+      "name": "Jackson Joda",
+      "repo": "FasterXML/jackson-datatype-joda",
+      "tags": "joda-mapping",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "com.fasterxml.jackson.datatype.joda"
+    },
+    {
+      "id": "java.fastjson",
+      "name": "fastjson",
+      "repo": "alibaba/fastjson",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.alibaba.fastjson."
+    },
+    {
+      "id": "java.gson",
+      "name": "Gson",
+      "repo": "google/gson",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.google.gson."
+    },
+    {
+      "id": "java.hikari-json",
+      "name": "HikariJSON",
+      "repo": "brettwooldridge/HikariJSON",
+      "tags": "json-parser",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.zaxxer.hikari.json."
+    },
+    {
+      "id": "java.jackson",
+      "name": "Jackson",
+      "repo": "zalando/jackson-datatype-money",
+      "tags": "money",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "org.zalando.jackson.datatype.money."
+    },
+    {
+      "id": "java.jackson-annotations",
+      "name": "jackson-annotations",
+      "repo": "FasterXML/jackson-annotations",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "com.fasterxml.jackson.annotation"
+    },
+    {
+      "id": "java.jackson-core",
+      "name": "Jackson",
+      "repo": "FasterXML/jackson-core",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "com.fasterxml.jackson.core"
+    },
+    {
+      "id": "java.jackson-databind",
+      "name": "Jackson Databinding",
+      "repo": "FasterXML/jackson-databind",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "com.fasterxml.jackson.databind"
+    },
+    {
+      "id": "java.jackson-dataformat",
+      "name": "jackson-dataformat",
+      "repo": "FasterXML/jackson-dataformats-text",
+      "tags": "mapping",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "com.fasterxml.jackson.dataformat"
+    },
+    {
+      "id": "java.jackson-datatype",
+      "name": "jackson-datatype",
+      "repo": "FasterXML/jackson-datatype-jsr310",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "com.fasterxml.jackson.datatype"
+    },
+    {
+      "id": "java.jayway-json-path",
+      "name": "Jayway JsonPath",
+      "repo": "jayway/JsonPath",
+      "tags": "json-xpath",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.jayway.jsonpath."
+    },
+    {
+      "id": "java.jmapper",
+      "name": "JMapper",
+      "repo": "jmapper-framework/jmapper-core",
+      "tags": "mapping",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.googlecode.jmapper."
+    },
+    {
+      "id": "java.joda",
+      "name": "Joda-Convert",
+      "repo": "JodaOrg/joda-convert",
+      "tags": "serialization",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "org.joda"
+    },
+    {
+      "id": "java.json",
+      "name": "Json",
+      "repo": "bazaarvoice/jolt",
+      "tags": "json-transformation",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.bazaarvoice.jolt."
+    },
+    {
+      "id": "java.json-io",
+      "name": "json-io",
+      "repo": "jdereg/json-io",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.cedarsoftware.util.io."
+    },
+    {
+      "id": "java.json-surfer",
+      "name": "JsonSurfer",
+      "repo": "jsurfer/JsonSurfer",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "org.jsfr.json."
+    },
+    {
+      "id": "java.jsonld-java",
+      "name": "JSONLD-Java",
+      "repo": "jsonld-java/jsonld-java",
+      "tags": "formats",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.github.jsonldjava."
+    },
+    {
+      "id": "java.logan-square",
+      "name": "LoganSquare",
+      "repo": "bluelinelabs/LoganSquare",
+      "tags": "json-parser",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.bluelinelabs.logansquare."
+    },
+    {
+      "id": "java.map-struct",
+      "name": "MapStruct",
+      "repo": "mapstruct/mapstruct",
+      "tags": "mapping",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "org.mapstruct."
+    },
+    {
+      "id": "java.model-mapper",
+      "name": "ModelMapper",
+      "repo": "modelmapper/modelmapper",
+      "tags": "mapping",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "org.modelmapper."
+    },
+    {
+      "id": "java.moshi",
+      "name": "Moshi",
+      "repo": "square/moshi",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.squareup.moshi."
+    },
+    {
+      "id": "java.orika",
+      "name": "Orika",
+      "repo": "orika-mapper/orika",
+      "tags": "mapping",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "ma.glasnost.orika."
+    },
+    {
+      "id": "java.protonpack",
+      "name": "protonpack",
+      "repo": "poetix/protonpack",
+      "tags": "streams",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.codepoetics.protonpack."
+    },
+    {
+      "id": "java.selma",
+      "name": "Selma",
+      "repo": "xebia-france/selma",
+      "tags": "mapping",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "fr.xebia.extras.selma."
+    },
+    {
+      "id": "java.simple-flat-mapper",
+      "name": "Simple Flat Mapper",
+      "repo": "arnaudroger/SimpleFlatMapper",
+      "tags": "transformations",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "org.simpleflatmapper."
+    },
+    {
+      "id": "java.siren4j",
+      "name": "Siren4j",
+      "repo": "eserating/siren4j",
+      "tags": "formats",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.google.code.siren4j."
+    },
+    {
+      "id": "java.stream-ex",
+      "name": "StreamEx",
+      "repo": "amaembo/streamex",
+      "tags": "streams",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "one.util.streamex."
+    },
+    {
+      "id": "java.uni-vocity-parsers",
+      "name": "uniVocity-parsers",
+      "repo": "uniVocity/univocity-parsers",
+      "tags": "csv",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "com.univocity.parsers."
+    },
+    {
+      "id": "java.xerces",
+      "name": "Xerces2 Java parser",
+      "repo": "https://svn.apache.org/repos/asf/xerces/java/",
+      "tags": "xml-parser",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "org.xml"
+    },
+    {
+      "id": "java.xstream",
+      "name": "XStream",
+      "repo": "x-stream/xstream",
+      "tags": "xml-serialization",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "com.thoughtworks.xstream"
+    },
+    {
+      "id": "java.presto",
+      "name": "Presto",
+      "repo": "prestodb/presto",
+      "tags": "distributed-sql",
+      "tech": "big-data",
+      "status": "model-ready",
+      "imports": "com.facebook.presto."
+    },
+    {
+      "id": "java.jbot",
+      "name": "JBot",
+      "repo": "ramswaroop/jbot",
+      "tags": "chatbots",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "me.ramswaroop.jbot."
+    },
+    {
+      "id": "java.smack",
+      "name": "Smack",
+      "repo": "igniterealtime/Smack",
+      "tags": "android-xmpp",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "org.jivesoftware.smack."
+    },
+    {
+      "id": "java.aliyun",
+      "name": "Alibaba Cloud",
+      "repo": "aliyun/aliyun-openapi-java-sdk",
+      "tags": "alibaba-client",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "com.aliyuncs"
+    },
+    {
+      "id": "java.amazonaws",
+      "name": "AWS SDK",
+      "repo": "aws/aws-sdk-java",
+      "tags": "aws",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "com.amazonaws"
+    },
+    {
+      "id": "java.atmosphere",
+      "name": "Atmosphere",
+      "repo": "Atmosphere/atmosphere",
+      "tags": "web-framework",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "org.atmosphere"
+    },
+    {
+      "id": "java.com-networknt",
+      "name": "com.networknt",
+      "repo": "networknt/light-java",
+      "tags": "platform",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "com.networknt."
+    },
+    {
+      "id": "java.consul",
+      "name": "Consul",
+      "repo": "Ecwid/consul-api",
+      "tags": "service-discovery",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "com.ecwid.consul.v1."
+    },
+    {
+      "id": "java.de.codecentric",
+      "name": "Spring Boot Admin",
+      "repo": "codecentric/spring-boot-admin",
+      "tags": "spring-boot-admin",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "de.codecentric"
+    },
+    {
+      "id": "java.docker-java",
+      "name": "docker-java",
+      "repo": "docker-java/docker-java",
+      "tags": "docker",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "com.github.dockerjava"
+    },
+    {
+      "id": "java.dubbo",
+      "name": "Dubbo",
+      "repo": "alibaba/dubbo",
+      "tags": "rpc",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "com.alibaba.dubbo."
+    },
+    {
+      "id": "java.eureka",
+      "name": "Eureka",
+      "repo": "Netflix/eureka",
+      "tags": "load-balancing",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "com.netflix.eureka."
+    },
+    {
+      "id": "java.finagle",
+      "name": "Finagle",
+      "repo": "twitter/finagle",
+      "tags": "rpc",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "com.twitter.finagle."
+    },
+    {
+      "id": "java.g-rpc-java",
+      "name": "gRPC-Java",
+      "repo": "grpc/grpc-java",
+      "tags": "rpc",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "io.grpc."
+    },
+    {
+      "id": "java.kafka",
+      "name": "Kafka",
+      "repo": "apache/kafka",
+      "tags": "message-queue",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "org.apache.kafka."
+    },
+    {
+      "id": "java.nakadi",
+      "name": "Nakadi",
+      "repo": "zalando/nakadi",
+      "tags": "event-broker",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "org.zalando.nakadi."
+    },
+    {
+      "id": "java.nifty",
+      "name": "Nifty",
+      "repo": "facebook/nifty",
+      "tags": "rpc",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "com.facebook.nifty."
+    },
+    {
+      "id": "java.rest-ql-core",
+      "name": "restQL-Core",
+      "repo": "B2W-BIT/restQL-core-java",
+      "tags": "microservices",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "restql.core."
+    },
+    {
+      "id": "java.ribbon",
+      "name": "Ribbon",
+      "repo": "Netflix/ribbon",
+      "tags": "rpc",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "com.netflix.ribbon."
+    },
+    {
+      "id": "java.spark",
+      "name": "Spark",
+      "repo": "perwendel/spark",
+      "tags": "cluster-computing",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "spark"
+    },
+    {
+      "id": "java.spotify",
+      "name": "Docker client",
+      "repo": "spotify/docker-client",
+      "tags": "docker",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "com.spotify.docker"
+    },
+    {
+      "id": "java.zero-mq",
+      "name": "ZeroMQ",
+      "repo": "zeromq/jeromq",
+      "tags": "message-queue",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "zmq."
+    },
+    {
+      "id": "java.zuul",
+      "name": "Zuul",
+      "repo": "Netflix/zuul",
+      "tags": "edge-service",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "com.netflix.zuul."
+    },
+    {
+      "id": "java.javers",
+      "name": "JaVers",
+      "repo": "javers/javers",
+      "tags": "auditing-diff-framework",
+      "tech": "code-processing",
+      "status": "awaiting-model",
+      "imports": "org.javers"
+    },
+    {
+      "id": "java.janino",
+      "name": "Janino",
+      "repo": "janino-compiler/janino",
+      "tags": "in-memory-java-compiler",
+      "tech": "compilers",
+      "status": "awaiting-model",
+      "imports": "org.codehaus.janino"
+    },
+    {
+      "id": "java.javassist",
+      "name": "Javassist",
+      "repo": "jboss-javassist/javassist",
+      "tags": "java-bytecode",
+      "tech": "compilers",
+      "status": "awaiting-model",
+      "imports": "javassist"
+    },
+    {
+      "id": "java.erdos-graph",
+      "name": "Erdos-Graph",
+      "repo": "Erdos-Graph-Framework/Erdos",
+      "tags": "graphs",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "com.hendrix.erdos."
+    },
+    {
+      "id": "java.ja-co-p",
+      "name": "JaCoP",
+      "repo": "radsz/jacop",
+      "tags": "optimization",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "org.jacop."
+    },
+    {
+      "id": "java.jgraph-t",
+      "name": "JGraphT",
+      "repo": "jgrapht/jgrapht",
+      "tags": "graphs",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "org.jgrapht."
+    },
+    {
+      "id": "java.mines",
+      "name": "Mines",
+      "repo": "MinesJTK/jtk",
+      "tags": "toolkit",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "edu.mines.jtk."
+    },
+    {
+      "id": "java.mx-graph",
+      "name": "mxGraph",
+      "repo": "jgraph/jgraphx",
+      "tags": "graph-visualization",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "com.mxgraph."
+    },
+    {
+      "id": "java.tess4-j",
+      "name": "Tess4J",
+      "repo": "nguyenq/tess4j",
+      "tags": "ocr",
+      "tech": "computer-vision",
+      "status": "model-ready",
+      "imports": "net.sourceforge.tess4j."
+    },
+    {
+      "id": "java.jetcd",
+      "name": "jetcd",
+      "repo": "justinsb/jetcd",
+      "tags": "distributed",
+      "tech": "configuration",
+      "status": "model-ready",
+      "imports": "com.justinsb.etcd."
+    },
+    {
+      "id": "java.kaconf",
+      "name": "KAConf",
+      "repo": "mariomac/kaconf",
+      "tags": "annotations",
+      "tech": "configuration",
+      "status": "model-ready",
+      "imports": "info.macias.kaconf."
+    },
+    {
+      "id": "java.owner",
+      "name": "OWNER",
+      "repo": "lviggiano/owner",
+      "tags": "properties",
+      "tech": "configuration",
+      "status": "model-ready",
+      "imports": "org.aeonbits.owner."
+    },
+    {
+      "id": "java.typesafe",
+      "name": "typesafe",
+      "repo": "lightbend/config",
+      "tags": "java-HOCON",
+      "tech": "configuration",
+      "status": "awaiting-model",
+      "imports": "com.typesafe"
+    },
+    {
+      "id": "java.typesafe-config",
+      "name": "Typesafe Config",
+      "repo": "typesafehub/config",
+      "tags": "java-json",
+      "tech": "configuration",
+      "status": "model-ready",
+      "imports": "com.typesafe.config."
+    },
+    {
+      "id": "java.dex",
+      "name": "Dex",
+      "repo": "PatMartin/Dex",
+      "tags": "visualization",
+      "tech": "data-science",
+      "status": "model-ready",
+      "imports": "com.dexvis.dex."
+    },
+    {
+      "id": "java.gephi",
+      "name": "Gephi",
+      "repo": "gephi/gephi",
+      "tags": "visualization",
+      "tech": "data-science",
+      "status": "awaiting-model",
+      "imports": "org.gephi."
+    },
+    {
+      "id": "java.hdrhistogram",
+      "name": "HdrHistogram",
+      "repo": "HdrHistogram/HdrHistogram",
+      "tags": "histogram",
+      "tech": "data-science",
+      "status": "awaiting-model",
+      "imports": "org.HdrHistogram"
+    },
+    {
+      "id": "java.tablesaw",
+      "name": "Tablesaw",
+      "repo": "lwhite1/tablesaw",
+      "tags": "data-analysis",
+      "tech": "data-science",
+      "status": "model-ready",
+      "imports": "tech.tablesaw."
+    },
+    {
+      "id": "java.adt4j",
+      "name": "adt4j",
+      "repo": "sviperll/adt4j",
+      "tags": "algebraic",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "com.github.sviperll.adt4j."
+    },
+    {
+      "id": "java.agrona",
+      "name": "Agrona",
+      "repo": "real-logic/Agrona",
+      "tags": "high-performance",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "org.agrona."
+    },
+    {
+      "id": "java.big-queue",
+      "name": "Big Queue",
+      "repo": "bulldog2011/bigqueue",
+      "tags": "mem-map-queue",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "com.leansoft.bigqueue."
+    },
+    {
+      "id": "java.eclipse-collections",
+      "name": "Eclipse Collections",
+      "repo": "eclipse/eclipse-collections",
+      "tags": "collections",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "org.eclipse.collections."
+    },
+    {
+      "id": "java.fastutil",
+      "name": "fastutil",
+      "repo": "vigna/fastutil",
+      "tags": "collections",
+      "tech": "data-structures",
+      "status": "awaiting-model",
+      "imports": "it.unimi.dsi.fastutil"
+    },
+    {
+      "id": "java.kolobke",
+      "name": "Kolobke",
+      "repo": "OpenHFT/Koloboke",
+      "tags": "collections",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "com.koloboke."
+    },
+    {
+      "id": "java.tape",
+      "name": "Tape",
+      "repo": "square/tape",
+      "tags": "queues",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "com.squareup.tape2."
+    },
+    {
+      "id": "java.automon",
+      "name": "Automon",
+      "repo": "stevensouza/automon",
+      "tags": "monitoring",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "org.automon."
+    },
+    {
+      "id": "java.cglib",
+      "name": "cglib",
+      "repo": "cglib/cglib",
+      "tags": "byte-code",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "net.sf.cglib."
+    },
+    {
+      "id": "java.ch.qos.logback",
+      "name": "logback",
+      "repo": "qos-ch/logback",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "awaiting-model",
+      "imports": "org.slf4j"
+    },
+    {
+      "id": "java.crashlytics",
+      "name": "Crashlytics",
+      "repo": "",
+      "tags": "alarms, tracing, monitoring, metrics",
+      "tech": "diagnostics",
+      "status": "awaiting-model",
+      "imports": "com.crashlytics."
+    },
+    {
+      "id": "java.google-reflections",
+      "name": "reflections",
+      "repo": "ronmamo/reflections",
+      "tags": "introspection-reflection",
+      "tech": "diagnostics",
+      "status": "awaiting-model",
+      "imports": "org.reflections."
+    },
+    {
+      "id": "java.java-melody",
+      "name": "JavaMelody",
+      "repo": "javamelody/javamelody",
+      "tags": "monitoring",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "net.bull.javamelody."
+    },
+    {
+      "id": "java.jmxtrans",
+      "name": "jmxtrans",
+      "repo": "jmxtrans/jmxtrans",
+      "tags": "monitoring",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "com.googlecode.jmxtrans."
+    },
+    {
+      "id": "java.log4j2",
+      "name": "Log4j2",
+      "repo": "apache/logging-log4j2",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "awaiting-model",
+      "imports": "org.apache.logging.log4j."
+    },
+    {
+      "id": "java.logbook",
+      "name": "Logbook",
+      "repo": "zalando/logbook",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "org.zalando.logbook."
+    },
+    {
+      "id": "java.logger",
+      "name": "Logger",
+      "repo": "orhanobut/logger",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "com.orhanobut.logger."
+    },
+    {
+      "id": "java.logstash-logback",
+      "name": "Logback JSON encoder",
+      "repo": "logstash/logstash-logback-encoder",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "awaiting-model",
+      "imports": "net.logstash.logback"
+    },
+    {
+      "id": "java.metrics",
+      "name": "metrics",
+      "repo": "dropwizard/metrics",
+      "tags": "metrics",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "com.codahale.metrics."
+    },
+    {
+      "id": "java.nudge4j",
+      "name": "nudge4j",
+      "repo": "lorenzoongithub/nudge4j",
+      "tags": "jvm-control",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "nudge4j."
+    },
+    {
+      "id": "java.pinpoint",
+      "name": "Pinpoint",
+      "repo": "naver/pinpoint",
+      "tags": "monitoring",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "com.navercorp.pinpoint."
+    },
+    {
+      "id": "java.slf4j",
+      "name": "slf4j",
+      "repo": "qos-ch/slf4j",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "awaiting-model",
+      "imports": "org.slf4j."
+    },
+    {
+      "id": "java.stagemonitor",
+      "name": "Stagemonitor",
+      "repo": "stagemonitor/stagemonitor",
+      "tags": "monitoring",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "org.stagemonitor."
+    },
+    {
+      "id": "java.sysmon",
+      "name": "Sysmon",
+      "repo": "palantir/Sysmon",
+      "tags": "monitoring",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "com.palantir.opensource.sysmon."
+    },
+    {
+      "id": "java.timber",
+      "name": "Timber",
+      "repo": "JakeWharton/timber",
+      "tags": "android-logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "timber.log."
+    },
+    {
+      "id": "java.tracer",
+      "name": "Tracer",
+      "repo": "zalando/tracer",
+      "tags": "tracing",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "org.zalando.tracer."
+    },
+    {
+      "id": "java.zipkin",
+      "name": "Zipkin",
+      "repo": "openzipkin/zipkin",
+      "tags": "tracing",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "zipkin"
+    },
+    {
+      "id": "java.deep-learning4j",
+      "name": "DeepLearning4j",
+      "repo": "deeplearning4j/deeplearning4j",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "org.deeplearning4j."
+    },
+    {
+      "id": "java.mxnet",
+      "name": "mxnet",
+      "repo": "apache/incubator-mxnet",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "awaiting-model",
+      "imports": "org.apache.mxnet"
+    },
+    {
+      "id": "java.fast-serialization",
+      "name": "fast-serialization",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "org.nustaq.serialization."
+    },
+    {
+      "id": "java.flat-buffers",
+      "name": "FlatBuffers",
+      "repo": "google/flatbuffers",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "com.google.flatbuffers."
+    },
+    {
+      "id": "java.kryo",
+      "name": "Kryo",
+      "repo": "EsotericSoftware/kryo",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "com.esotericsoftware.kryo."
+    },
+    {
+      "id": "java.message-pack",
+      "name": "MessagePack",
+      "repo": "msgpack/msgpack-java",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "org.msgpack."
+    },
+    {
+      "id": "java.okio",
+      "name": "Okio",
+      "repo": "square/okio",
+      "tags": "io-streams",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "okio."
+    },
+    {
+      "id": "java.parceler",
+      "name": "Parceler",
+      "repo": "johncarl81/parceler",
+      "tags": "android-serialization",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "org.parceler."
+    },
+    {
+      "id": "java.protocol-buffers",
+      "name": "Protocol Buffers",
+      "repo": "google/protobuf",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "com.google.protobuf."
+    },
+    {
+      "id": "java.sbe",
+      "name": "SBE",
+      "repo": "real-logic/simple-binary-encoding",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "uk.co.real_logic.sbe."
+    },
+    {
+      "id": "java.snappy-java",
+      "name": "snappy-java",
+      "repo": "xerial/snappy-java",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "awaiting-model",
+      "imports": "org.xerial.snappy"
+    },
+    {
+      "id": "java.wire",
+      "name": "Wire",
+      "repo": "square/wire",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "com.squareup.wire."
+    },
+    {
+      "id": "java.auto",
+      "name": "Auto",
+      "repo": "google/auto",
+      "tags": "code-generators",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "com.google.auto."
+    },
+    {
+      "id": "java.free-builder",
+      "name": "FreeBuilder",
+      "repo": "google/FreeBuilder",
+      "tags": "code-generators",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "org.inferred.freebuilder."
+    },
+    {
+      "id": "java.hotswap-agent",
+      "name": "Hotswap Agent",
+      "repo": "HotswapProjects/HotswapAgent",
+      "tags": "class-reloading",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "org.hotswap.agent."
+    },
+    {
+      "id": "java.java-poet",
+      "name": "JavaPoet",
+      "repo": "square/javapoet",
+      "tags": "code-generators",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "com.squareup.javapoet."
+    },
+    {
+      "id": "java.leak-canary",
+      "name": "LeakCanary",
+      "repo": "square/leakcanary",
+      "tags": "leak-detection",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "com.squareup.leakcanary."
+    },
+    {
+      "id": "java.lombok",
+      "name": "Lombok",
+      "repo": "rzwitserloot/lombok",
+      "tags": "code-generators",
+      "tech": "eng-tools",
+      "status": "awaiting-model",
+      "imports": "lombok."
+    },
+    {
+      "id": "java.mutability-detector",
+      "name": "Mutability Detector",
+      "repo": "MutabilityDetector/MutabilityDetector",
+      "tags": "mutability",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "org.mutabilitydetector."
+    },
+    {
+      "id": "java.spring-source",
+      "name": "SpringSource",
+      "repo": "spring-projects/spring-loaded",
+      "tags": "class-reloading",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "org.springsource."
+    },
+    {
+      "id": "java.springfox",
+      "name": "Springfox",
+      "repo": "springfox/springfox",
+      "tags": "documentation",
+      "tech": "eng-tools",
+      "status": "awaiting-model",
+      "imports": "springfox"
+    },
+    {
+      "id": "java.stetho",
+      "name": "Stetho",
+      "repo": "facebook/stetho",
+      "tags": "debugging",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "com.facebook.stetho."
+    },
+    {
+      "id": "java.type-tools",
+      "name": "TypeTools",
+      "repo": "jhalterman/typetools",
+      "tags": "type-info",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "net.jodah.typetools."
+    },
+    {
+      "id": "java.liferay-portal",
+      "name": "Liferay Portal",
+      "repo": "liferay/liferay-portal",
+      "tags": "platform",
+      "tech": "enterprise",
+      "status": "awaiting-model",
+      "imports": "com.liferay.portal"
+    },
+    {
+      "id": "java.orienteer",
+      "name": "Orienteer",
+      "repo": "OrienteerBAP/Orienteer",
+      "tags": "platform",
+      "tech": "enterprise",
+      "status": "model-ready",
+      "imports": "org.orienteer."
+    },
+    {
+      "id": "java.alibaba-druid",
+      "name": "Alibaba Druid",
+      "repo": "alibaba/druid",
+      "tags": "connection-pool",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "com.alibaba.druid."
+    },
+    {
+      "id": "java.caffeine",
+      "name": "Caffeine",
+      "repo": "ben-manes/caffeine",
+      "tags": "caching",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "com.github.benmanes.caffeine."
+    },
+    {
+      "id": "java.hikari-cp",
+      "name": "HikariCP",
+      "repo": "brettwooldridge/HikariCP",
+      "tags": "connection-pool",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "com.zaxxer.hikari."
+    },
+    {
+      "id": "java.jctools",
+      "name": "JCTools",
+      "repo": "JCTools/JCTools",
+      "tags": "concurrency",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "org.jctools."
+    },
+    {
+      "id": "java.lmax-disruptor",
+      "name": "LMAX Disruptor",
+      "repo": "LMAX-Exchange/disruptor",
+      "tags": "concurrency",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "com.lmax.disruptor."
+    },
+    {
+      "id": "java.mapdb",
+      "name": "MapDB",
+      "repo": "jankotek/MapDB",
+      "tags": "concurrent-collections",
+      "tech": "faster-code",
+      "status": "awaiting-model",
+      "imports": "org.mapdb"
+    },
+    {
+      "id": "java.quasar",
+      "name": "Quasar",
+      "repo": "puniverse/quasar",
+      "tags": "async-programming",
+      "tech": "faster-code",
+      "status": "awaiting-model",
+      "imports": "co.paralleluniverse"
+    },
+    {
+      "id": "java.geo",
+      "name": "geo",
+      "repo": "davidmoten/geo",
+      "tags": "geohashing",
+      "tech": "geo-maps",
+      "status": "model-ready",
+      "imports": "com.github.davidmoten.geo."
+    },
+    {
+      "id": "java.graph-hopper",
+      "name": "GraphHopper",
+      "repo": "graphhopper/graphhopper",
+      "tags": "openstreetmap",
+      "tech": "geo-maps",
+      "status": "model-ready",
+      "imports": "com.graphhopper."
+    },
+    {
+      "id": "java.mapsforge",
+      "name": "Mapsforge",
+      "repo": "mapsforge/mapsforge",
+      "tags": "android-maps",
+      "tech": "geo-maps",
+      "status": "model-ready",
+      "imports": "org.mapsforge."
+    },
+    {
+      "id": "java.spatial4j",
+      "name": "Spatial4j",
+      "repo": "locationtech/spatial4j",
+      "tags": "geospatial",
+      "tech": "geo-maps",
+      "status": "model-ready",
+      "imports": "org.locationtech.spatial4j."
+    },
+    {
+      "id": "java.fresco",
+      "name": "Fresco",
+      "repo": "facebook/fresco",
+      "tags": "android-images",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "com.facebook.fresco."
+    },
+    {
+      "id": "java.glide",
+      "name": "Glide",
+      "repo": "bumptech/glide",
+      "tags": "android-images",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "com.bumptech.glide."
+    },
+    {
+      "id": "java.lib-gdx",
+      "name": "libGDX",
+      "repo": "libgdx/libgdx",
+      "tags": "game-framework",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "com.badlogic.gdx."
+    },
+    {
+      "id": "java.lottie",
+      "name": "Lottie",
+      "repo": "airbnb/lottie-android",
+      "tags": "android-effects",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "com.airbnb.lottie."
+    },
+    {
+      "id": "java.mpandroid-chart",
+      "name": "MPAndroidChart",
+      "repo": "PhilJay/MPAndroidChart",
+      "tags": "android-charts",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "com.github.mikephil.charting."
+    },
+    {
+      "id": "java.picasso",
+      "name": "Picasso",
+      "repo": "square/picasso",
+      "tags": "android-images",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "com.squareup.picasso."
+    },
+    {
+      "id": "java.universal-image-loader",
+      "name": "Universal Image Loader",
+      "repo": "nostra13/Android-Universal-Image-Loader",
+      "tags": "android-images",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "com.nostra13.universalimageloader."
+    },
+    {
+      "id": "java.javafx",
+      "name": "JavaFX",
+      "repo": "javafxports/openjdk-jfx",
+      "tags": "gui",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "javafx."
+    },
+    {
+      "id": "java.lanterna",
+      "name": "Lanterna",
+      "repo": "mabe02/lanterna",
+      "tags": "library",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "com.googlecode.lanterna."
+    },
+    {
+      "id": "java.rsyntaxtextarea",
+      "name": "RSyntaxTextArea",
+      "repo": "bobbylight/RSyntaxTextArea",
+      "tags": "syntax-highlighting",
+      "tech": "gui",
+      "status": "awaiting-model",
+      "imports": "org.fife.ui"
+    },
+    {
+      "id": "java.swing",
+      "name": "Swing",
+      "repo": "AdoptOpenJDK/openjdk-jdk11",
+      "tags": "toolkit",
+      "tech": "gui",
+      "status": "insufficient-data",
+      "imports": "javax.swing."
+    },
+    {
+      "id": "java.android-image-cropper",
+      "name": "Android Image Cropper",
+      "repo": "ArthurHub/Android-Image-Cropper",
+      "tags": "android-images",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "com.theartofdev.edmodo.cropper."
+    },
+    {
+      "id": "java.imgscalr",
+      "name": "Imgscalr",
+      "repo": "thebuzzmedia/imgscalr",
+      "tags": "scaling",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "org.imgscalr."
+    },
+    {
+      "id": "java.thumbnailator",
+      "name": "Thumbnailator",
+      "repo": "coobird/thumbnailator",
+      "tags": "thumbnails",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "net.coobird.thumbnailator."
+    },
+    {
+      "id": "java.twelve-monkeys",
+      "name": "TwelveMonkeys",
+      "repo": "haraldk/TwelveMonkeys",
+      "tags": "image-formats",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "com.twelvemonkeys."
+    },
+    {
+      "id": "java.zxing",
+      "name": "ZXing",
+      "repo": "zxing/zxing",
+      "tags": "bar-codes",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "com.google.zxing."
+    },
+    {
+      "id": "java.android-async-http-client",
+      "name": "Android Async Http Client",
+      "repo": "loopj/android-async-http",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "com.loopj.android.http"
+    },
+    {
+      "id": "java.async-http-client",
+      "name": "Async Http Client",
+      "repo": "AsyncHttpClient/async-http-client",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "org.asynchttpclient."
+    },
+    {
+      "id": "java.auth0",
+      "name": "JWT",
+      "repo": "auth0/java-jwt",
+      "tags": "json-web-token",
+      "tech": "internet",
+      "status": "awaiting-model",
+      "imports": "com.auth0"
+    },
+    {
+      "id": "java.crawler4j",
+      "name": "crawler4j",
+      "repo": "yasserg/crawler4j",
+      "tags": "web-crawler",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "edu.uci.ics.crawler4j."
+    },
+    {
+      "id": "java.eclipse-jetty",
+      "name": "Eclipse Jetty",
+      "repo": "eclipse/jetty.project",
+      "tags": "web-server",
+      "tech": "internet",
+      "status": "awaiting-model",
+      "imports": "org.eclipse.jetty"
+    },
+    {
+      "id": "java.feign",
+      "name": "Feign",
+      "repo": "Netflix/feign",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "feign."
+    },
+    {
+      "id": "java.ghostdriver",
+      "name": "Ghost Driver",
+      "repo": "detro/GhostDriver",
+      "tags": "web-driver",
+      "tech": "internet",
+      "status": "awaiting-model",
+      "imports": "com.github.detro.ghostdriver"
+    },
+    {
+      "id": "java.nano-httpd",
+      "name": "NanoHttpd",
+      "repo": "NanoHttpd/nanohttpd",
+      "tags": "embedded-http-server",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "org.nanohttpd."
+    },
+    {
+      "id": "java.ok-http",
+      "name": "OkHttp",
+      "repo": "square/okhttp",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "okhttp3."
+    },
+    {
+      "id": "java.retrofit",
+      "name": "Retrofit",
+      "repo": "square/retrofit",
+      "tags": "rest-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "retrofit2."
+    },
+    {
+      "id": "java.riptide",
+      "name": "Riptide",
+      "repo": "zalando/riptide",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "org.zalando.riptide."
+    },
+    {
+      "id": "java.rometools",
+      "name": "Rome",
+      "repo": "rometools/rome",
+      "tags": "rss-atom-feeds",
+      "tech": "internet",
+      "status": "awaiting-model",
+      "imports": "com.rometools"
+    },
+    {
+      "id": "java.urnlib",
+      "name": "urnlib",
+      "repo": "slub/urnlib",
+      "tags": "urls",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "de.slub.urn."
+    },
+    {
+      "id": "java.web-magic",
+      "name": "Web Magic",
+      "repo": "code4craft/webmagic",
+      "tags": "web-crawler",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "us.codecraft.webmagic."
+    },
+    {
+      "id": "java.java-cpp",
+      "name": "JavaCPP",
+      "repo": "bytedeco/javacpp",
+      "tags": "java-cpp",
+      "tech": "interoperability",
+      "status": "model-ready",
+      "imports": "org.bytedeco.javacpp."
+    },
+    {
+      "id": "java.jna",
+      "name": "JNA",
+      "repo": "java-native-access/jna",
+      "tags": "java-native",
+      "tech": "interoperability",
+      "status": "model-ready",
+      "imports": "com.sun.jna."
+    },
+    {
+      "id": "java.jnr-ffi",
+      "name": "jnr-ffi",
+      "repo": "jnr/jnr-ffi",
+      "tags": "java-native",
+      "tech": "interoperability",
+      "status": "model-ready",
+      "imports": "jnr.ffi."
+    },
+    {
+      "id": "java.mybatis-mapper",
+      "name": "Mybatis Mapper",
+      "repo": "abel533/Mapper",
+      "tags": "mybatis-mapper",
+      "tech": "interoperability",
+      "status": "awaiting-model",
+      "imports": "tk.mybatis"
+    },
+    {
+      "id": "java.mybatis-spring",
+      "name": "MyBatis Spring Adapter",
+      "repo": "mybatis/spring",
+      "tags": "mybatis-spring",
+      "tech": "interoperability",
+      "status": "awaiting-model",
+      "imports": "org.mybatis"
+    },
+    {
+      "id": "java.mybatis-spring-boot",
+      "name": "Mybatis Spring Boot",
+      "repo": "mybatis/spring-boot-starter",
+      "tags": "mybatis-spring",
+      "tech": "interoperability",
+      "status": "awaiting-model",
+      "imports": "org.mybatis.spring.boot"
+    },
+    {
+      "id": "java.physical-web",
+      "name": "Physical Web",
+      "repo": "google/physical-web",
+      "tags": "object-discovery",
+      "tech": "iot",
+      "status": "model-ready",
+      "imports": "org.physical_web"
+    },
+    {
+      "id": "java.apache-httpcomponents",
+      "name": "Apache HttpClient",
+      "repo": "apache/httpcomponents-client",
+      "tags": "http-client",
+      "tech": "java-web",
+      "status": "awaiting-model",
+      "imports": "org.apache.hc"
+    },
+    {
+      "id": "java.apache-httpcomponents-core",
+      "name": "Apache Httpcomponents Core",
+      "repo": "apache/httpcomponents-core",
+      "tags": "httplib",
+      "tech": "java-web",
+      "status": "awaiting-model",
+      "imports": "org.apache.http"
+    },
+    {
+      "id": "java.apereo-cas",
+      "name": "CAS",
+      "repo": "apereo/cas",
+      "tags": "cas-server",
+      "tech": "java-web",
+      "status": "awaiting-model",
+      "imports": "org.apereo.cas"
+    },
+    {
+      "id": "java.blade",
+      "name": "Blade",
+      "repo": "biezhi/blade",
+      "tags": "framework",
+      "tech": "java-web",
+      "status": "model-ready",
+      "imports": "com.blade."
+    },
+    {
+      "id": "java.comsat",
+      "name": "COMSAT",
+      "repo": "puniverse/comsat",
+      "tags": "apps",
+      "tech": "java-web",
+      "status": "model-ready",
+      "imports": "comsat."
+    },
+    {
+      "id": "java.dropwizard",
+      "name": "Dropwizard",
+      "repo": "dropwizard/dropwizard",
+      "tags": "rest-framework",
+      "tech": "java-web",
+      "status": "awaiting-model",
+      "imports": "io.dropwizard"
+    },
+    {
+      "id": "java.java-jwt",
+      "name": "Java JWT",
+      "repo": "jwtk/jjwt",
+      "tags": "jwt",
+      "tech": "java-web",
+      "status": "model-ready",
+      "imports": "io.jsonwebtoken."
+    },
+    {
+      "id": "java.jboss.resteasy",
+      "name": "RESTEasy",
+      "repo": "resteasy/Resteasy",
+      "tags": "rest-jaxrs",
+      "tech": "java-web",
+      "status": "awaiting-model",
+      "imports": "org.jboss.resteasy"
+    },
+    {
+      "id": "java.jsoup",
+      "name": "jsoup",
+      "repo": "jhy/jsoup",
+      "tags": "html-parser",
+      "tech": "java-web",
+      "status": "awaiting-model",
+      "imports": "org.jsoup"
+    },
+    {
+      "id": "java.pac4j",
+      "name": "pac4j",
+      "repo": "pac4j/pac4j",
+      "tags": "oauth",
+      "tech": "java-web",
+      "status": "model-ready",
+      "imports": "org.pac4j."
+    },
+    {
+      "id": "java.rest-express",
+      "name": "RestExpress",
+      "repo": "RestExpress/RestExpress",
+      "tags": "rest",
+      "tech": "java-web",
+      "status": "model-ready",
+      "imports": "org.restexpress."
+    },
+    {
+      "id": "java.rest-li",
+      "name": "Rest.li",
+      "repo": "linkedin/rest.li",
+      "tags": "rest-json",
+      "tech": "java-web",
+      "status": "model-ready",
+      "imports": "com.linkedin.restli."
+    },
+    {
+      "id": "java.restlet",
+      "name": "Restlet",
+      "repo": "restlet/restlet-framework-java",
+      "tags": "rest",
+      "tech": "java-web",
+      "status": "model-ready",
+      "imports": "org.restlet."
+    },
+    {
+      "id": "java.spring-boot",
+      "name": "Spring Boot",
+      "repo": "spring-projects/spring-boot",
+      "tags": "applications",
+      "tech": "java-web",
+      "status": "model-ready",
+      "imports": "org.springframework.boot."
+    },
+    {
+      "id": "java.spring-framework",
+      "name": "Spring Framework",
+      "repo": "spring-projects/spring-framework",
+      "tags": "framework",
+      "tech": "java-web",
+      "status": "model-ready",
+      "imports": "org.springframework."
+    },
+    {
+      "id": "java.springframework-security",
+      "name": "Spring Security",
+      "repo": "spring-projects/spring-security",
+      "tags": "spring-security",
+      "tech": "java-web",
+      "status": "awaiting-model",
+      "imports": "org.springframework.security"
+    },
+    {
+      "id": "java.swagger",
+      "name": "Swagger Core",
+      "repo": "swagger-api/swagger-core",
+      "tags": "openapi-specification",
+      "tech": "java-web",
+      "status": "awaiting-model",
+      "imports": "io.swagger"
+    },
+    {
+      "id": "java.thymeleaf",
+      "name": "thymeleaf",
+      "repo": "thymeleaf/thymeleaf",
+      "tags": "template-engine",
+      "tech": "java-web",
+      "status": "awaiting-model",
+      "imports": "org.thymeleaf"
+    },
+    {
+      "id": "java.jsat",
+      "name": "JSAT",
+      "repo": "EdwardRaff/JSAT",
+      "tags": "toolkit",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "jsat."
+    },
+    {
+      "id": "java.oryx",
+      "name": "Oryx",
+      "repo": "OryxProject/oryx",
+      "tags": "large-scale",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "com.cloudera.oryx."
+    },
+    {
+      "id": "java.aeron",
+      "name": "Aeron",
+      "repo": "real-logic/Aeron",
+      "tags": "message-transport",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "io.aeron."
+    },
+    {
+      "id": "java.java-websocket",
+      "name": "java-websocket",
+      "repo": "TooTallNate/Java-WebSocket",
+      "tags": "websocket",
+      "tech": "networking",
+      "status": "awaiting-model",
+      "imports": "org.java-websocket"
+    },
+    {
+      "id": "java.netty",
+      "name": "Netty",
+      "repo": "netty/netty",
+      "tags": "sockets",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "io.netty."
+    },
+    {
+      "id": "java.cog-comp",
+      "name": "CogComp",
+      "repo": "CogComp/cogcomp-nlp",
+      "tags": "toolkit",
+      "tech": "nlp",
+      "status": "model-ready",
+      "imports": "edu.illinois.cs.cogcomp."
+    },
+    {
+      "id": "java.java-parser",
+      "name": "JavaParser",
+      "repo": "javaparser/javaparser",
+      "tags": "java",
+      "tech": "parsing",
+      "status": "model-ready",
+      "imports": "com.github.javaparser"
+    },
+    {
+      "id": "java.java-symbol-solver",
+      "name": "JavaSymbolSolver",
+      "repo": "javaparser/javasymbolsolver",
+      "tags": "ast-analysis",
+      "tech": "parsing",
+      "status": "model-ready",
+      "imports": "com.github.javaparser.symbolsolver"
+    },
+    {
+      "id": "java.pegdown",
+      "name": "pegdown",
+      "repo": "sirthias/pegdown",
+      "tags": "markdown-processor",
+      "tech": "parsing",
+      "status": "awaiting-model",
+      "imports": "org.pegdown"
+    },
+    {
+      "id": "java.circuit-breaker",
+      "name": "Circuit Breaker",
+      "repo": "mtakaki/dropwizard-circuitbreaker",
+      "tags": "circuit-breaker",
+      "tech": "reliable-code",
+      "status": "model-ready",
+      "imports": "com.github.mtakaki.dropwizard.circuitbreaker."
+    },
+    {
+      "id": "java.circuit-breakerresilience4j",
+      "name": "Circuit Breaker(resilience4j)",
+      "repo": "javaslang/javaslang-circuitbreaker",
+      "tags": "circuit-breaker",
+      "tech": "reliable-code",
+      "status": "model-ready",
+      "imports": "io.github.resilience4j.circuitbreaker."
+    },
+    {
+      "id": "java.failsafe",
+      "name": "Failsafe",
+      "repo": "jhalterman/failsafe",
+      "tags": "fault-tolerance",
+      "tech": "reliable-code",
+      "status": "model-ready",
+      "imports": "net.jodah.failsafe."
+    },
+    {
+      "id": "java.flexy-pool",
+      "name": "Flexy Pool",
+      "repo": "vladmihalcea/flexy-pool",
+      "tags": "resilience",
+      "tech": "reliable-code",
+      "status": "model-ready",
+      "imports": "com.vladmihalcea.flexypool."
+    },
+    {
+      "id": "java.hystrix",
+      "name": "Hystrix",
+      "repo": "Netflix/Hystrix",
+      "tags": "fault-tolerance",
+      "tech": "reliable-code",
+      "status": "model-ready",
+      "imports": "com.netflix.hystrix."
+    },
+    {
+      "id": "java.resilience4j",
+      "name": "Resilience4j",
+      "repo": "resilience4j/resilience4j",
+      "tags": "fault-tolerance",
+      "tech": "reliable-code",
+      "status": "model-ready",
+      "imports": "io.github.resilience4j."
+    },
+    {
+      "id": "java.ctre-phoenix",
+      "name": "Phoenix",
+      "repo": "CrossTheRoadElec/Phoenix-api",
+      "tags": "hardware",
+      "tech": "robotics",
+      "status": "awaiting-model",
+      "imports": "com.ctre.phoenix."
+    },
+    {
+      "id": "java.wpilibj",
+      "name": "WPILib",
+      "repo": "wpilibsuite/allwpilib",
+      "tags": "hardware",
+      "tech": "robotics",
+      "status": "awaiting-model",
+      "imports": "edu.wpi.first.wpilibj."
+    },
+    {
+      "id": "java.hdiv",
+      "name": "Hdiv",
+      "repo": "hdiv/hdiv",
+      "tags": "self-protection",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "org.hdiv."
+    },
+    {
+      "id": "java.keycloak",
+      "name": "Keycloak",
+      "repo": "keycloak/keycloak",
+      "tags": "access-management",
+      "tech": "security",
+      "status": "awaiting-model",
+      "imports": "org.keycloak"
+    },
+    {
+      "id": "java.keyczar",
+      "name": "Keyczar",
+      "repo": "google/keyczar",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "org.keyczar."
+    },
+    {
+      "id": "java.nbvcxz",
+      "name": "Nbvcxz",
+      "repo": "GoSimpleLLC/nbvcxz",
+      "tags": "password-strength",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "me.gosimple.nbvcxz."
+    },
+    {
+      "id": "java.packr",
+      "name": "packr",
+      "repo": "libgdx/packr",
+      "tags": "executable-jar",
+      "tech": "software-distribution",
+      "status": "model-ready",
+      "imports": "com.badlogicgames.packr."
+    },
+    {
+      "id": "java.waffles",
+      "name": "Waffles",
+      "repo": "brianm/really-executable-jars-maven-plugin",
+      "tags": "executable-jar",
+      "tech": "software-distribution",
+      "status": "model-ready",
+      "imports": "org.skife.waffles."
+    },
+    {
+      "id": "java.chronicle-queue",
+      "name": "Chronicle Queue",
+      "repo": "OpenHFT/Chronicle-Map",
+      "tags": "nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "net.openhft.chronicle."
+    },
+    {
+      "id": "java.druid",
+      "name": "Druid",
+      "repo": "druid-io/druid",
+      "tags": "nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "io.druid."
+    },
+    {
+      "id": "java.e-xist-db",
+      "name": "eXist-db",
+      "repo": "eXist-db/exist",
+      "tags": "nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "org.exist."
+    },
+    {
+      "id": "java.green-dao",
+      "name": "greenDAO",
+      "repo": "greenrobot/greenDAO",
+      "tags": "orm",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "org.greenrobot.greendao"
+    },
+    {
+      "id": "java.hibernate",
+      "name": "Hibernate",
+      "repo": "hibernate/hibernate-orm",
+      "tags": "orm",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "org.hibernate"
+    },
+    {
+      "id": "java.jest",
+      "name": "JEST",
+      "repo": "searchbox-io/Jest",
+      "tags": "nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "io.searchbox."
+    },
+    {
+      "id": "java.jimfs",
+      "name": "Jimfs",
+      "repo": "google/jimfs",
+      "tags": "in-memory",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "com.google.common.jimfs."
+    },
+    {
+      "id": "java.jpa",
+      "name": "JPA",
+      "repo": "eclipse-ee4j/jpa-api",
+      "tags": "orm",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "javax.persistence."
+    },
+    {
+      "id": "java.maria-db4j",
+      "name": "MariaDB4j",
+      "repo": "vorburger/MariaDB4j",
+      "tags": "sql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "ch.vorburger.mariadb4j."
+    },
+    {
+      "id": "java.mariadb-jdbc",
+      "name": "MariaDB java connector",
+      "repo": "MariaDB/mariadb-connector-j",
+      "tags": "mariadb",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "org.mariadb.jdbc"
+    },
+    {
+      "id": "java.mchange",
+      "name": "mchange",
+      "repo": "swaldman/c3p0",
+      "tags": "jdbc-pooling",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "com.mchange"
+    },
+    {
+      "id": "java.minio",
+      "name": "Minio",
+      "repo": "minio/minio-java",
+      "tags": "s3",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "io.minio."
+    },
+    {
+      "id": "java.mongodb",
+      "name": "mongo-java-driver",
+      "repo": "mongodb/mongo-java-driver",
+      "tags": "mongodb",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "org.mongodb"
+    },
+    {
+      "id": "java.mybatis",
+      "name": "MyBatis",
+      "repo": "mybatis/mybatis-3",
+      "tags": "sql",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "org.mybatis"
+    },
+    {
+      "id": "java.mysql",
+      "name": "MySQL Connector/J",
+      "repo": "mysql/mysql-connector-j",
+      "tags": "mysql",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "com.mysql.cj"
+    },
+    {
+      "id": "java.neo4j",
+      "name": "neo4j",
+      "repo": "neo4j/neo4j",
+      "tags": "graph-database",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "org.neo4j"
+    },
+    {
+      "id": "java.pagehelper",
+      "name": "PageHelper",
+      "repo": "pagehelper/Mybatis-PageHelper",
+      "tags": "mybatis-pagination",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "com.github.pagehelper"
+    },
+    {
+      "id": "java.realm",
+      "name": "Realm",
+      "repo": "realm/realm-java",
+      "tags": "sql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "io.realm."
+    },
+    {
+      "id": "java.redis",
+      "name": "Redis",
+      "repo": "xetorthio/jedis",
+      "tags": "nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "redis.clients.jedis."
+    },
+    {
+      "id": "java.redisson",
+      "name": "Redisson",
+      "repo": "mrniko/redisson",
+      "tags": "nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "org.redisson."
+    },
+    {
+      "id": "java.requery",
+      "name": "requery",
+      "repo": "requery/requery",
+      "tags": "orm",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "io.requery."
+    },
+    {
+      "id": "java.room",
+      "name": "Room",
+      "repo": "https://android.googlesource.com/platform/frameworks/support",
+      "tags": "android-sql",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "androidx.room."
+    },
+    {
+      "id": "java.speedment",
+      "name": "Speedment",
+      "repo": "speedment/speedment",
+      "tags": "orm",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "com.speedment."
+    },
+    {
+      "id": "java.sqlbrite",
+      "name": "SQL Brite",
+      "repo": "square/sqlbrite",
+      "tags": "android-sql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "com.squareup.sqlbrite3."
+    },
+    {
+      "id": "java.storio",
+      "name": "StorIO",
+      "repo": "pushtorefresh/storio",
+      "tags": "android-sql, reactive",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "com.pushtorefresh.storio3."
+    },
+    {
+      "id": "java.allure",
+      "name": "Allure",
+      "repo": "allure-framework/allure2",
+      "tags": "test-reports",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "io.qameta.allure."
+    },
+    {
+      "id": "java.appium",
+      "name": "Appium",
+      "repo": "appium/java-client",
+      "tags": "mobile-testing",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "io.appium."
+    },
+    {
+      "id": "java.arch-unit",
+      "name": "ArchUnit",
+      "repo": "TNG/ArchUnit",
+      "tags": "architecture-rules",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "com.tngtech.archunit."
+    },
+    {
+      "id": "java.assertj",
+      "name": "AssertJ",
+      "repo": "joel-costigliola/assertj-core",
+      "tags": "assertions",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "org.assertj.core."
+    },
+    {
+      "id": "java.awaitility",
+      "name": "Awaitility",
+      "repo": "awaitility/awaitility",
+      "tags": "async-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "org.awaitility."
+    },
+    {
+      "id": "java.burst",
+      "name": "Burst",
+      "repo": "square/burst",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "com.squareup.burst."
+    },
+    {
+      "id": "java.concurrent-unit",
+      "name": "ConcurrentUnit",
+      "repo": "jhalterman/concurrentunit",
+      "tags": "concurrency-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "net.jodah.concurrentunit."
+    },
+    {
+      "id": "java.cuckes-rest",
+      "name": "cuckes-rest",
+      "repo": "ctco/cukes-rest",
+      "tags": "bdd-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "lv.ctco.cukes."
+    },
+    {
+      "id": "java.cucumber",
+      "name": "Cucumber",
+      "repo": "cucumber/cucumber-jvm",
+      "tags": "bdd-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "cucumber."
+    },
+    {
+      "id": "java.easymock",
+      "name": "easymock",
+      "repo": "easymock/easymock",
+      "tags": "mock-objects",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "org.easymock"
+    },
+    {
+      "id": "java.equalsverifier",
+      "name": "EqualsVerifier",
+      "repo": "jqno/equalsverifier",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "nl.jqno.equalsverifier"
+    },
+    {
+      "id": "java.fixture-factory",
+      "name": "Fixture Factory",
+      "repo": "six2six/fixture-factory",
+      "tags": "fake-objects",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "br.com.six2six.fixturefactory."
+    },
+    {
+      "id": "java.galen",
+      "name": "Galen",
+      "repo": "galenframework/galen",
+      "tags": "functional-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "com.galenframework."
+    },
+    {
+      "id": "java.hamcrest",
+      "name": "Hamcrest",
+      "repo": "hamcrest/JavaHamcrest",
+      "tags": "matchers",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "org.hamcrest."
+    },
+    {
+      "id": "java.j8-spec",
+      "name": "J8Spec",
+      "repo": "j8spec/j8spec",
+      "tags": "bdd-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "j8spec."
+    },
+    {
+      "id": "java.janala",
+      "name": "janala",
+      "repo": "ksen007/janala2",
+      "tags": "concolic-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "janala."
+    },
+    {
+      "id": "java.jfairy",
+      "name": "JFairy",
+      "repo": "Codearte/jfairy",
+      "tags": "fake-data",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "io.codearte.jfairy."
+    },
+    {
+      "id": "java.jmock",
+      "name": "JMock",
+      "repo": "jmock-developers/jmock-library",
+      "tags": "mocking",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "org.jmock"
+    },
+    {
+      "id": "java.jsonassert",
+      "name": "JSONassert",
+      "repo": "skyscreamer/JSONassert",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "org.skyscreamer.jsonassert"
+    },
+    {
+      "id": "java.junit",
+      "name": "JUnit",
+      "repo": "junit-team/junit4",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "junit"
+    },
+    {
+      "id": "java.junit-dataprovider",
+      "name": "junit-dataprovider",
+      "repo": "TNG/junit-dataprovider",
+      "tags": "junit-data",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "com.tngtech.java.junit.dataprovider."
+    },
+    {
+      "id": "java.junit5",
+      "name": "junit5",
+      "repo": "junit-team/junit5",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "junit"
+    },
+    {
+      "id": "java.lambda-behave",
+      "name": "Lambda Behave",
+      "repo": "RichardWarburton/lambda-behave",
+      "tags": "specification-framework",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "com.insightfullogic.lambdabehave."
+    },
+    {
+      "id": "java.mockito",
+      "name": "mockito",
+      "repo": "mockito/mockito",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "org.mockito."
+    },
+    {
+      "id": "java.moco",
+      "name": "Moco",
+      "repo": "dreamhead/moco",
+      "tags": "stubs-mocks",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "com.github.dreamhead.moco."
+    },
+    {
+      "id": "java.power-mock",
+      "name": "PowerMock",
+      "repo": "jayway/powermock",
+      "tags": "mocks",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "org.powermock."
+    },
+    {
+      "id": "java.powermock",
+      "name": "PowerMock",
+      "repo": "powermock/powermock",
+      "tags": "mocking-framework",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "org.powermock"
+    },
+    {
+      "id": "java.raml-tester",
+      "name": "raml-tester",
+      "repo": "nidi3/raml-tester",
+      "tags": "raml",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "guru.nidi.ramltester."
+    },
+    {
+      "id": "java.randomized-testing",
+      "name": "Randomized Testing",
+      "repo": "randomizedtesting/randomizedtesting",
+      "tags": "junit-runner",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "com.carrotsearch.randomizedtesting."
+    },
+    {
+      "id": "java.rest-assured",
+      "name": "REST-assured",
+      "repo": "jayway/rest-assured",
+      "tags": "rest-http-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "io.restassured."
+    },
+    {
+      "id": "java.selenide",
+      "name": "Selenide",
+      "repo": "codeborne/selenide",
+      "tags": "web/testing",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "com.codeborne.selenide."
+    },
+    {
+      "id": "java.selenium",
+      "name": "Selenium",
+      "repo": "SeleniumHQ/selenium",
+      "tags": "web/testing",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "org.openqa.selenium."
+    },
+    {
+      "id": "java.spock",
+      "name": "Spock",
+      "repo": "spockframework/spock",
+      "tags": "framework",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "org.spockframework."
+    },
+    {
+      "id": "java.system-rules",
+      "name": "System Rules",
+      "repo": "stefanbirkner/system-rules",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "org.junit.contrib.java.lang.system"
+    },
+    {
+      "id": "java.testcontainers",
+      "name": "Testcontainers",
+      "repo": "testcontainers/testcontainers-java",
+      "tags": "throwaway-db",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "org.testcontainers."
+    },
+    {
+      "id": "java.testng",
+      "name": "TestNG",
+      "repo": "cbeust/testng",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "org.testng."
+    },
+    {
+      "id": "java.tomakehurst",
+      "name": "WireMock",
+      "repo": "tomakehurst/wiremock",
+      "tags": "http-server-mocks",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "com.github.tomakehurst"
+    },
+    {
+      "id": "java.truth",
+      "name": "Truth",
+      "repo": "google/truth",
+      "tags": "assertions",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "com.google.common.truth."
+    },
+    {
+      "id": "java.airline",
+      "name": "Airline",
+      "repo": "airlift/airline",
+      "tags": "argument-parsing",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "io.airlift.airline."
+    },
+    {
+      "id": "java.almanac-converter",
+      "name": "Almanac Converter",
+      "repo": "hypotemoose/almanac-converter",
+      "tags": "date-time",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "com.hypotemoose.cal."
+    },
+    {
+      "id": "java.codehaus.plexus",
+      "name": "codehaus.plexus",
+      "repo": "codehaus-plexus/plexus-utils",
+      "tags": "classes-collection",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "org.codehaus.plexus"
+    },
+    {
+      "id": "java.com-google-common",
+      "name": "Guava",
+      "repo": "google/guava",
+      "tags": "toolkit",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "com.google.common."
+    },
+    {
+      "id": "java.ical4j",
+      "name": "Ical4j",
+      "repo": "ical4j/ical4j",
+      "tags": "date-time",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "net.fortuna.ical4j."
+    },
+    {
+      "id": "java.joda-time",
+      "name": "Joda-Time",
+      "repo": "JodaOrg/joda-time",
+      "tags": "date-time",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "org.joda.time."
+    },
+    {
+      "id": "java.jodd",
+      "name": "Jodd",
+      "repo": "oblac/jodd",
+      "tags": "micro-frameworks",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "org.jodd"
+    },
+    {
+      "id": "java.stringtemplate",
+      "name": "antlr",
+      "repo": "antlr/stringtemplate4",
+      "tags": "string-template",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "org.stringtemplate"
+    },
+    {
+      "id": "java.three-ten",
+      "name": "ThreeTen",
+      "repo": "ThreeTen/threetenbp",
+      "tags": "date-time",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "org.threeten.bp."
+    },
+    {
+      "id": "java.time4-j",
+      "name": "Time4J",
+      "repo": "MenoData/Time4J",
+      "tags": "date-time",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "net.time4j."
+    },
+    {
+      "id": "java.underscore-java",
+      "name": "underscore-java",
+      "repo": "javadev/underscore-java",
+      "tags": "toolkit",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "com.github.underscore."
+    },
+    {
+      "id": "java.verbal-expressions",
+      "name": "VerbalExpressions",
+      "repo": "VerbalExpressions/JavaVerbalExpressions",
+      "tags": "regex",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "ru.lanwen.verbalregex."
+    }
+  ],
+  "meta": {
+    "title": "Java Libraries Directory - Free Download",
+    "description": "337 curated Java libraries with repository links, categories, and technology tags. Covers Android, web frameworks, data processing, and more. Contains 337 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Java Libraries Directory | ListBase",
+    "seo_description": "Download Java Libraries Directory — 337 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 337 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/sourcerer-io/awesome-libraries"
+    ]
+  }
+}

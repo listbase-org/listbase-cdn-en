@@ -1,0 +1,271 @@
+{
+  "id": "la-political-parties",
+  "name": "Laos — Political Parties",
+  "title": "Laos — Political Parties",
+  "description": "Political parties of Laos from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5203,
+      "name_short": "LPRP",
+      "name": "Lao People's Revolutionary Party",
+      "name_english": "Lao People's Revolutionary Party",
+      "name_other": "Laotian: ພັກປະຊາຊົນປະຕິວັດລາວ",
+      "year_first": 1955,
+      "year_last": "",
+      "share": 100,
+      "share_year": 1974,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lao_People%27s_Revolutionary_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5833,
+      "name_short": "NPP",
+      "name": "Phak Xat Kao Na",
+      "name_english": "National Progressive Party",
+      "name_other": "",
+      "year_first": 1950,
+      "year_last": 1958,
+      "share": 38.4,
+      "share_year": 1951,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Progressive_Party_(Laos)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6968,
+      "name_short": "PS",
+      "name": "Phak Seri",
+      "name_english": "Independent Party",
+      "name_other": "",
+      "year_first": 1945,
+      "year_last": 1958,
+      "share": 25.6,
+      "share_year": 1951,
+      "wikipedia": "https://en.wikipedia.org/wiki/Independent_Party_(Laos)",
+      "description": "10 of 39 seats in 1951 Laotian parliamentary election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6963,
+      "name_short": "SB/LDA",
+      "name": "Southern Bloc / Lao Development Association",
+      "name_english": "Southern Bloc / Lao Development Association",
+      "name_other": "",
+      "year_first": 1965,
+      "year_last": 1972,
+      "share": 25.4,
+      "share_year": 1965,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lao_Development_Association",
+      "description": "15 of 59 seats in 1965 Laotian parliamentary election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6964,
+      "name_short": "LNP",
+      "name": "Lao Pen Kang",
+      "name_english": "Lao Neutralist Party",
+      "name_other": "",
+      "year_first": 1961,
+      "year_last": 1970,
+      "share": 23.7,
+      "share_year": 1965,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lao_Neutralist_Party",
+      "description": "14 of 59 seats in 1965 Laotian parliamentary election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6965,
+      "name_short": "YM",
+      "name": "Youth Movement / Youth Party / Young People's Party",
+      "name_english": "Youth Movement / Youth Party / Young People's Party",
+      "name_other": "",
+      "year_first": 1965,
+      "year_last": 1970,
+      "share": 20.3,
+      "share_year": 1965,
+      "wikipedia": "https://en.wikipedia.org/wiki/Youth_Movement_(Laos)",
+      "description": "12 of 59 seats in 1965 Laotian parliamentary election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6967,
+      "name_short": "SPKP",
+      "name": "Santiphab Pen Kang Party",
+      "name_english": "Peace and Neutrality Party",
+      "name_other": "",
+      "year_first": 1956,
+      "year_last": 1960,
+      "share": 19,
+      "share_year": 1958,
+      "wikipedia": "https://en.wikipedia.org/wiki/Peace_and_Neutrality_Party",
+      "description": "4 of 21 seats in the 1958 Laotian parliamentary election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6966,
+      "name_short": "VG/AND",
+      "name": "Vientiane Group / Association of Northern Deputies",
+      "name_english": "Vientiane Group / Association of Northern Deputies",
+      "name_other": "",
+      "year_first": 1965,
+      "year_last": 1970,
+      "share": 15.3,
+      "share_year": 1965,
+      "wikipedia": "https://en.wikipedia.org/wiki/Association_of_Northern_Deputies",
+      "description": "9 of 59 seats in 1965 Laotian parliamentary election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6969,
+      "name_short": "DP",
+      "name": "Democratic Party",
+      "name_english": "Democratic Party",
+      "name_other": "",
+      "year_first": 1948,
+      "year_last": 1958,
+      "share": 10.3,
+      "share_year": 1951,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_(Laos)",
+      "description": "4 of 39 seats in 1951 Laotian parliamentary election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6970,
+      "name_short": "LRS",
+      "name": "Lao Ruam Samphanh",
+      "name_english": "Lao National Union Party",
+      "name_other": "",
+      "year_first": 1947,
+      "year_last": 1960,
+      "share": 5.1,
+      "share_year": 1955,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lao_National_Union_Party",
+      "description": "2 of 39 seats in 1955 Laotian parliamentary election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6038,
+      "name_short": "CDNI",
+      "name": "Comité pour la défense des intérêts nationaux",
+      "name_english": "Committee for the Defence of National Interests",
+      "name_other": "",
+      "year_first": 1958,
+      "year_last": 1960,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Committee_for_the_Defence_of_National_Interests",
+      "description": "leader support 1959 Nosavan Phoumi (CDNI) –  see CHISOLS",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6037,
+      "name_short": "LRP",
+      "name": "Lao Ruam Lao",
+      "name_english": "Lao People's Rally",
+      "name_other": "",
+      "year_first": 1958,
+      "year_last": 1960,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lao_People%27s_Rally",
+      "description": "leader support 1958 Sananikone (RLP) –  see CHISOLS",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Laos — Political Parties - Free Download",
+    "description": "Political parties of Laos from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Laos — Political Parties | ListBase",
+    "seo_description": "Download Laos — Political Parties dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

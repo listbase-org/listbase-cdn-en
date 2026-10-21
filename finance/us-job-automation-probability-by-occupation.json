@@ -1,0 +1,4965 @@
+{
+  "id": "us-job-automation-probability-by-occupation",
+  "name": "US Job Automation Probability by Occupation",
+  "title": "US Job Automation Probability by Occupation",
+  "description": "Estimated probability of automation for 702 US occupations, with median wages and employment levels, based on 2016 Bureau of Labor Statistics data.",
+  "category": "finance",
+  "source": "https://github.com/plotly/datasets",
+  "source_url": "https://github.com/plotly/datasets",
+  "updated": "2026-04",
+  "record_count": 702,
+  "columns": [
+    {
+      "key": "occupation",
+      "label": "Occupation",
+      "type": "string"
+    },
+    {
+      "key": "automation_probability",
+      "label": "Automation Probability",
+      "type": "number"
+    },
+    {
+      "key": "median_annual_wage_usd",
+      "label": "Median Annual Wage Usd",
+      "type": "number"
+    },
+    {
+      "key": "education_required",
+      "label": "Education Required",
+      "type": "string"
+    },
+    {
+      "key": "number_employed",
+      "label": "Number Employed",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "occupation": "Grinding, Lapping, Polishing and Buffing Machine Tool Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "32890",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "74600"
+    },
+    {
+      "occupation": "Separating, Filtering, Clarifying, Precipitating and Still Machine Setters, Operators and Tenders",
+      "automation_probability": "0.88",
+      "median_annual_wage_usd": "38360",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "47160"
+    },
+    {
+      "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+      "automation_probability": "0.85",
+      "median_annual_wage_usd": "57140",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1404050"
+    },
+    {
+      "occupation": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators",
+      "automation_probability": "0.029",
+      "median_annual_wage_usd": "57270",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "202760"
+    },
+    {
+      "occupation": "Molding, Coremaking and Casting Machine Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "30480",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "145560"
+    },
+    {
+      "occupation": "Extruding and Forming Machine Setters, Operators and Tenders, Synthetic and Glass Fibers",
+      "automation_probability": "0.88",
+      "median_annual_wage_usd": "34240",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "19340"
+    },
+    {
+      "occupation": "Cutting, Punching and Press Machine Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.78",
+      "median_annual_wage_usd": "32370",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "192800"
+    },
+    {
+      "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+      "automation_probability": "0.25",
+      "median_annual_wage_usd": "78980",
+      "education_required": "Bachelor's degree",
+      "number_employed": "328370"
+    },
+    {
+      "occupation": "Drilling and Boring Machine Tool Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "36410",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "12290"
+    },
+    {
+      "occupation": "Extruding, Forming, Pressing and Compacting Machine Setters, Operators and Tenders",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "32510",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "71260"
+    },
+    {
+      "occupation": "Lathe and Turning Machine Tool Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.84",
+      "median_annual_wage_usd": "38480",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "33850"
+    },
+    {
+      "occupation": "Extruding and Drawing Machine Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "33870",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "71960"
+    },
+    {
+      "occupation": "TextileWinding, Twisting and Drawing Out Machine Setters, Operators and Tenders",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "27500",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "30340"
+    },
+    {
+      "occupation": "First-Line Supervisors of Landscaping, Lawn Service and Groundskeeping Workers",
+      "automation_probability": "0.57",
+      "median_annual_wage_usd": "45740",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "103070"
+    },
+    {
+      "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical and Executive",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "34820",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "2295510"
+    },
+    {
+      "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "59280",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "13960"
+    },
+    {
+      "occupation": "Information Security Analysts, Web Developers and Computer Network Architects",
+      "automation_probability": "0.21",
+      "median_annual_wage_usd": "62670",
+      "education_required": "Associate's degree",
+      "number_employed": "188740"
+    },
+    {
+      "occupation": "Milling and Planing Machine Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "39840",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "17560"
+    },
+    {
+      "occupation": "Plating and Coating Machine Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "31280",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "35570"
+    },
+    {
+      "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+      "automation_probability": "0.36",
+      "median_annual_wage_usd": "53640",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "228430"
+    },
+    {
+      "occupation": "Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",
+      "automation_probability": "0.36",
+      "median_annual_wage_usd": "50580",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "25180"
+    },
+    {
+      "occupation": "Food and Tobacco Roasting, Baking and Drying Machine Operators and Tenders",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "28570",
+      "education_required": "No formal educational credential",
+      "number_employed": "20080"
+    },
+    {
+      "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "automation_probability": "0.028",
+      "median_annual_wage_usd": "86720",
+      "education_required": "Bachelor's degree",
+      "number_employed": "25410"
+    },
+    {
+      "occupation": "Adult Basic and Secondary Education and Literacy Teachers and Instructors",
+      "automation_probability": "0.19",
+      "median_annual_wage_usd": "50650",
+      "education_required": "Bachelor's degree",
+      "number_employed": "58810"
+    },
+    {
+      "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+      "automation_probability": "0.41",
+      "median_annual_wage_usd": "56250",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "67390"
+    },
+    {
+      "occupation": "Heat Treating Equipment Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "37180",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "19780"
+    },
+    {
+      "occupation": "Helpers–Brickmasons, Blockmasons, Stonemasons and Tile and Marble Setters",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "30570",
+      "education_required": "No formal educational credential",
+      "number_employed": "23950"
+    },
+    {
+      "occupation": "Lifeguards, Ski Patrol and Other Recreational Protective Service Workers",
+      "automation_probability": "0.67",
+      "median_annual_wage_usd": "20290",
+      "education_required": "No formal educational credential",
+      "number_employed": "145100"
+    },
+    {
+      "occupation": "Postal Service Mail Sorters, Processors and Processing Machine Operators",
+      "automation_probability": "0.79",
+      "median_annual_wage_usd": "56220",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "110770"
+    },
+    {
+      "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+      "automation_probability": "0.0078",
+      "median_annual_wage_usd": "58030",
+      "education_required": "Bachelor's degree",
+      "number_employed": "1003250"
+    },
+    {
+      "occupation": "Crushing, Grinding and Polishing Machine Setters, Operators and Tenders",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "34390",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "29830"
+    },
+    {
+      "occupation": "Door-to-Door Sales Workers, News and Street Vendors and Related Workers",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "24330",
+      "education_required": "No formal educational credential",
+      "number_employed": "8040"
+    },
+    {
+      "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+      "automation_probability": "0.25",
+      "median_annual_wage_usd": "23850",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "17300"
+    },
+    {
+      "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation and Relay",
+      "automation_probability": "0.38",
+      "median_annual_wage_usd": "75670",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "23060"
+    },
+    {
+      "occupation": "MultipleMachine Tool Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "34340",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "117300"
+    },
+    {
+      "occupation": "Coating, Painting and Spraying Machine Setters, Operators and Tenders",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "32790",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "85760"
+    },
+    {
+      "occupation": "First-Line Supervisors of Helpers, Laborers and Material Movers, Hand",
+      "automation_probability": "0.42",
+      "median_annual_wage_usd": "47230",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "183620"
+    },
+    {
+      "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+      "automation_probability": "0.17",
+      "median_annual_wage_usd": "56720",
+      "education_required": "Bachelor's degree",
+      "number_employed": "626310"
+    },
+    {
+      "occupation": "Welding, Soldering and Brazing Machine Setters, Operators and Tenders",
+      "automation_probability": "0.61",
+      "median_annual_wage_usd": "36980",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "46920"
+    },
+    {
+      "occupation": "Cleaning, Washing and Metal Pickling Equipment Operators and Tenders",
+      "automation_probability": "0.81",
+      "median_annual_wage_usd": "28550",
+      "education_required": "No formal educational credential",
+      "number_employed": "17860"
+    },
+    {
+      "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+      "automation_probability": "0.17",
+      "median_annual_wage_usd": "62980",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "538220"
+    },
+    {
+      "occupation": "Heating, Air Conditioning and Refrigeration Mechanics and Installers",
+      "automation_probability": "0.65",
+      "median_annual_wage_usd": "45910",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "294730"
+    },
+    {
+      "occupation": "Human Resources, Training and Labor Relations Specialists, All Other",
+      "automation_probability": "0.31",
+      "median_annual_wage_usd": "62310",
+      "education_required": "Bachelor's degree",
+      "number_employed": "79430"
+    },
+    {
+      "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+      "automation_probability": "0.014",
+      "median_annual_wage_usd": "54340",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1443150"
+    },
+    {
+      "occupation": "Textile Knitting and Weaving Machine Setters, Operators and Tenders",
+      "automation_probability": "0.73",
+      "median_annual_wage_usd": "27470",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "21550"
+    },
+    {
+      "occupation": "Combined Food Preparation and Serving Workers, Including Fast Food",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "19440",
+      "education_required": "No formal educational credential",
+      "number_employed": "3426090"
+    },
+    {
+      "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+      "automation_probability": "0.63",
+      "median_annual_wage_usd": "54520",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "45740"
+    },
+    {
+      "occupation": "Environmental Science and Protection Technicians, Including Health",
+      "automation_probability": "0.77",
+      "median_annual_wage_usd": "44190",
+      "education_required": "Associate's degree",
+      "number_employed": "32950"
+    },
+    {
+      "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+      "automation_probability": "0.14",
+      "median_annual_wage_usd": "93720",
+      "education_required": "Bachelor's degree",
+      "number_employed": "6940"
+    },
+    {
+      "occupation": "Forging Machine Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "36930",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "19160"
+    },
+    {
+      "occupation": "Rolling Machine Setters, Operators and Tenders, Metal and Plastic",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "40680",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "29060"
+    },
+    {
+      "occupation": "Woodworking Machine Setters, Operators and Tenders, Except Sawing",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "28510",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "76130"
+    },
+    {
+      "occupation": "Agents and Business Managers of Artists, Performers and Athletes",
+      "automation_probability": "0.24",
+      "median_annual_wage_usd": "62080",
+      "education_required": "Bachelor's degree",
+      "number_employed": "13470"
+    },
+    {
+      "occupation": "Education Administrators, Preschool and Childcare Center/Program",
+      "automation_probability": "0.015",
+      "median_annual_wage_usd": "45790",
+      "education_required": "Bachelor's degree",
+      "number_employed": "48530"
+    },
+    {
+      "occupation": "Electronic Home Entertainment Equipment Installers and Repairers",
+      "automation_probability": "0.65",
+      "median_annual_wage_usd": "37410",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "25550"
+    },
+    {
+      "occupation": "First-Line Supervisors of Farming, Fishing and Forestry Workers",
+      "automation_probability": "0.57",
+      "median_annual_wage_usd": "45320",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "19550"
+    },
+    {
+      "occupation": "Funeral Service Managers, Directors, Morticians and Undertakers",
+      "automation_probability": "0.2",
+      "median_annual_wage_usd": "50090",
+      "education_required": "Associate's degree",
+      "number_employed": "25850"
+    },
+    {
+      "occupation": "Petroleum Pump System Operators, Refinery Operators and Gaugers",
+      "automation_probability": "0.71",
+      "median_annual_wage_usd": "67400",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "41630"
+    },
+    {
+      "occupation": "Counter Attendants, Cafeteria, Food Concession and Coffee Shop",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "19970",
+      "education_required": "No formal educational credential",
+      "number_employed": "499550"
+    },
+    {
+      "occupation": "First-Line Supervisors of Fire Fighting and Prevention Workers",
+      "automation_probability": "0.0036",
+      "median_annual_wage_usd": "74540",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "57170"
+    },
+    {
+      "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+      "automation_probability": "0.63",
+      "median_annual_wage_usd": "31480",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "908550"
+    },
+    {
+      "occupation": "Operating Engineers and Other Construction Equipment Operators",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "45890",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "356750"
+    },
+    {
+      "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+      "automation_probability": "0.61",
+      "median_annual_wage_usd": "35230",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "146350"
+    },
+    {
+      "occupation": "Computer-Controlled Machine Tool Operators, Metal and Plastic",
+      "automation_probability": "0.86",
+      "median_annual_wage_usd": "37880",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "146190"
+    },
+    {
+      "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+      "automation_probability": "0.61",
+      "median_annual_wage_usd": "32220",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "11750"
+    },
+    {
+      "occupation": "Executive Secretaries and Executive Administrative Assistants",
+      "automation_probability": "0.86",
+      "median_annual_wage_usd": "55860",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "631610"
+    },
+    {
+      "occupation": "First-Line Supervisors of Mechanics, Installers and Repairers",
+      "automation_probability": "0.003",
+      "median_annual_wage_usd": "63540",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "453330"
+    },
+    {
+      "occupation": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "automation_probability": "0.66",
+      "median_annual_wage_usd": "24190",
+      "education_required": "No formal educational credential",
+      "number_employed": "2161740"
+    },
+    {
+      "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "29160",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "91530"
+    },
+    {
+      "occupation": "Photographic Process Workers and Processing Machine Operators",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "26470",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "26430"
+    },
+    {
+      "occupation": "Purchasing Agents, Except Wholesale, Retail and Farm Products",
+      "automation_probability": "0.77",
+      "median_annual_wage_usd": "63300",
+      "education_required": "Bachelor's degree",
+      "number_employed": "297600"
+    },
+    {
+      "occupation": "Administrative Law Judges, Adjudicators and Hearing Officers",
+      "automation_probability": "0.64",
+      "median_annual_wage_usd": "92110",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "14540"
+    },
+    {
+      "occupation": "Aircraft Structure, Surfaces, Rigging and Systems Assemblers",
+      "automation_probability": "0.79",
+      "median_annual_wage_usd": "50050",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "42010"
+    },
+    {
+      "occupation": "Fine Artists, Including Painters, Sculptors and Illustrators",
+      "automation_probability": "0.042",
+      "median_annual_wage_usd": "50790",
+      "education_required": "Bachelor's degree",
+      "number_employed": "11520"
+    },
+    {
+      "occupation": "First-Line Supervisors of Housekeeping and JanitorialWorkers",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "38190",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "161140"
+    },
+    {
+      "occupation": "Helpers–Painters, Paperhangers, Plasterers and Stucco Masons",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "27310",
+      "education_required": "No formal educational credential",
+      "number_employed": "10780"
+    },
+    {
+      "occupation": "Coin, Vending and Amusement Machine Servicers and Repairers",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "33070",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "33600"
+    },
+    {
+      "occupation": "Furnace, Kiln, Oven, Drier and Kettle Operators and Tenders",
+      "automation_probability": "0.37",
+      "median_annual_wage_usd": "36040",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "19520"
+    },
+    {
+      "occupation": "Securities, Commodities and Financial Services Sales Agents",
+      "automation_probability": "0.016",
+      "median_annual_wage_usd": "67310",
+      "education_required": "Bachelor's degree",
+      "number_employed": "353780"
+    },
+    {
+      "occupation": "Cutting and Slicing Machine Setters, Operators and Tenders",
+      "automation_probability": "0.86",
+      "median_annual_wage_usd": "32870",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "61330"
+    },
+    {
+      "occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "20200",
+      "education_required": "No formal educational credential",
+      "number_employed": "423080"
+    },
+    {
+      "occupation": "Environmental Scientists and Specialists, Including Health",
+      "automation_probability": "0.033",
+      "median_annual_wage_usd": "68910",
+      "education_required": "Bachelor's degree",
+      "number_employed": "84250"
+    },
+    {
+      "occupation": "First-Line Supervisors of Production and Operating Workers",
+      "automation_probability": "0.016",
+      "median_annual_wage_usd": "57780",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "610480"
+    },
+    {
+      "occupation": "Helpers–Pipelayers, Plumbers, Pipefitters and Steamfitters",
+      "automation_probability": "0.57",
+      "median_annual_wage_usd": "29030",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "54080"
+    },
+    {
+      "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "39020",
+      "education_required": "Associate's degree",
+      "number_employed": "137150"
+    },
+    {
+      "occupation": "Radio, Cellular and Tower Equipment Installers and Repairs",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "52480",
+      "education_required": "Associate's degree",
+      "number_employed": "14120"
+    },
+    {
+      "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "27270",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "10860"
+    },
+    {
+      "occupation": "Education Administrators, Elementary and Secondary School",
+      "automation_probability": "0.0046",
+      "median_annual_wage_usd": "92510",
+      "education_required": "Master's degree",
+      "number_employed": "242970"
+    },
+    {
+      "occupation": "ExplosivesWorkers, Ordnance Handling Experts and Blasters",
+      "automation_probability": "0.48",
+      "median_annual_wage_usd": "52170",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "6310"
+    },
+    {
+      "occupation": "Healthcare Practitioners and Technical Workers, All Other",
+      "automation_probability": "0.055",
+      "median_annual_wage_usd": "48820",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "36000"
+    },
+    {
+      "occupation": "Mixing and BlendingMachine Setters, Operators and Tenders",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "35680",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "130480"
+    },
+    {
+      "occupation": "Probation Officers and Correctional Treatment Specialists",
+      "automation_probability": "0.25",
+      "median_annual_wage_usd": "50160",
+      "education_required": "Bachelor's degree",
+      "number_employed": "87500"
+    },
+    {
+      "occupation": "Water and Wastewater Treatment Plant and System Operators",
+      "automation_probability": "0.61",
+      "median_annual_wage_usd": "45760",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "115840"
+    },
+    {
+      "occupation": "Weighers, Measurers, Checkers and Samplers, Recordkeeping",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "28790",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "74460"
+    },
+    {
+      "occupation": "Life, Physical and Social Science Technicians, All Other",
+      "automation_probability": "0.61",
+      "median_annual_wage_usd": "46040",
+      "education_required": "Associate's degree",
+      "number_employed": "68540"
+    },
+    {
+      "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "33730",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "33020"
+    },
+    {
+      "occupation": "Pesticide Handlers, Sprayers and Applicators, Vegetation",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "33740",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "25230"
+    },
+    {
+      "occupation": "Property, Real Estate and Community Association Managers",
+      "automation_probability": "0.81",
+      "median_annual_wage_usd": "57040",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "180290"
+    },
+    {
+      "occupation": "Computer, Automated Teller and Office Machine Repairers",
+      "automation_probability": "0.74",
+      "median_annual_wage_usd": "37100",
+      "education_required": "Some college, no degree",
+      "number_employed": "102170"
+    },
+    {
+      "occupation": "Educational, Guidance, School and Vocational Counselors",
+      "automation_probability": "0.0085",
+      "median_annual_wage_usd": "54560",
+      "education_required": "Master's degree",
+      "number_employed": "260670"
+    },
+    {
+      "occupation": "Health Diagnosing and Treating Practitioners, All Other",
+      "automation_probability": "0.02",
+      "median_annual_wage_usd": "74530",
+      "education_required": "Master's degree",
+      "number_employed": "36280"
+    },
+    {
+      "occupation": "Hosts and Hostesses, Restaurant, Lounge and Coffee Shop",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "19980",
+      "education_required": "No formal educational credential",
+      "number_employed": "404360"
+    },
+    {
+      "occupation": "Installation, Maintenance and Repair Workers, All Other",
+      "automation_probability": "0.5",
+      "median_annual_wage_usd": "38480",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "146460"
+    },
+    {
+      "occupation": "Camera Operators, Television, Video and Motion Picture",
+      "automation_probability": "0.6",
+      "median_annual_wage_usd": "55080",
+      "education_required": "Bachelor's degree",
+      "number_employed": "21710"
+    },
+    {
+      "occupation": "Molders, Shapers and Casters, Except Metal and Plastic",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "30610",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "39450"
+    },
+    {
+      "occupation": "Textile Cutting Machine Setters, Operators and Tenders",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "26090",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "15040"
+    },
+    {
+      "occupation": "Veterinary Assistants and Laboratory Animal Caretakers",
+      "automation_probability": "0.86",
+      "median_annual_wage_usd": "25250",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "79990"
+    },
+    {
+      "occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+      "automation_probability": "0.73",
+      "median_annual_wage_usd": "45170",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "254280"
+    },
+    {
+      "occupation": "Career/Technical Education Teachers, Secondary School",
+      "automation_probability": "0.0088",
+      "median_annual_wage_usd": "57320",
+      "education_required": "Bachelor's degree",
+      "number_employed": "80100"
+    },
+    {
+      "occupation": "Excavating and Loading Machine and Dragline Operators",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "41030",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "48320"
+    },
+    {
+      "occupation": "Gaming Surveillance Officers and Gaming Investigators",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "32630",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "10460"
+    },
+    {
+      "occupation": "Laborers and Freight, Stock and Material Movers, Hand",
+      "automation_probability": "0.85",
+      "median_annual_wage_usd": "25980",
+      "education_required": "No formal educational credential",
+      "number_employed": "2587900"
+    },
+    {
+      "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+      "automation_probability": "0.89",
+      "median_annual_wage_usd": "53970",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "14250"
+    },
+    {
+      "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "29190",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "8170"
+    },
+    {
+      "occupation": "Elementary School Teachers, Except Special Education",
+      "automation_probability": "0.0044",
+      "median_annual_wage_usd": "55800",
+      "education_required": "Bachelor's degree",
+      "number_employed": "1392660"
+    },
+    {
+      "occupation": "Helpers–Installation, Maintenance and Repair Workers",
+      "automation_probability": "0.79",
+      "median_annual_wage_usd": "27510",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "118720"
+    },
+    {
+      "occupation": "Audio-Visual and Multimedia Collections Specialists",
+      "automation_probability": "0.39",
+      "median_annual_wage_usd": "47840",
+      "education_required": "Bachelor's degree",
+      "number_employed": "10300"
+    },
+    {
+      "occupation": "Compensation, Benefits and Job Analysis Specialists",
+      "automation_probability": "0.47",
+      "median_annual_wage_usd": "62080",
+      "education_required": "Bachelor's degree",
+      "number_employed": "79190"
+    },
+    {
+      "occupation": "Engineering Technicians, Except Drafters, All Other",
+      "automation_probability": "0.24",
+      "median_annual_wage_usd": "62330",
+      "education_required": "Associate's degree",
+      "number_employed": "74290"
+    },
+    {
+      "occupation": "Inspectors, Testers, Sorters, Samplers and Weighers",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "36780",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "518950"
+    },
+    {
+      "occupation": "Packaging and Filling Machine Operators and Tenders",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "28290",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "386520"
+    },
+    {
+      "occupation": "Sawing Machine Setters, Operators and Tenders, Wood",
+      "automation_probability": "0.86",
+      "median_annual_wage_usd": "28380",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "50640"
+    },
+    {
+      "occupation": "Transportation Attendants, Except Flight Attendants",
+      "automation_probability": "0.75",
+      "median_annual_wage_usd": "26060",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "18410"
+    },
+    {
+      "occupation": "Career/Technical Education Teachers, Middle School",
+      "automation_probability": "0.26",
+      "median_annual_wage_usd": "57560",
+      "education_required": "Bachelor's degree",
+      "number_employed": "12730"
+    },
+    {
+      "occupation": "Electrical and Electronics Engineering Technicians",
+      "automation_probability": "0.84",
+      "median_annual_wage_usd": "62190",
+      "education_required": "Associate's degree",
+      "number_employed": "134870"
+    },
+    {
+      "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+      "automation_probability": "0.075",
+      "median_annual_wage_usd": "73150",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "252670"
+    },
+    {
+      "occupation": "First-Line Supervisors of Personal Service Workers",
+      "automation_probability": "0.076",
+      "median_annual_wage_usd": "36700",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "190420"
+    },
+    {
+      "occupation": "Geoscientists, Except Hydrologists and Geographers",
+      "automation_probability": "0.63",
+      "median_annual_wage_usd": "89780",
+      "education_required": "Bachelor's degree",
+      "number_employed": "30420"
+    },
+    {
+      "occupation": "Locker Room, Coatroom and Dressing Room Attendants",
+      "automation_probability": "0.43",
+      "median_annual_wage_usd": "21720",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "18040"
+    },
+    {
+      "occupation": "Market Research Analysts and Marketing Specialists",
+      "automation_probability": "0.61",
+      "median_annual_wage_usd": "62560",
+      "education_required": "Bachelor's degree",
+      "number_employed": "558630"
+    },
+    {
+      "occupation": "Medical Records and Health Information Technicians",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "38040",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "200140"
+    },
+    {
+      "occupation": "Paper Goods Machine Setters, Operators and Tenders",
+      "automation_probability": "0.67",
+      "median_annual_wage_usd": "36990",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "93100"
+    },
+    {
+      "occupation": "Rail Yard Engineers, Dinkey Operators and Hostlers",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "50470",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "4530"
+    },
+    {
+      "occupation": "Refractory Materials Repairers, Except Brickmasons",
+      "automation_probability": "0.82",
+      "median_annual_wage_usd": "45230",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1540"
+    },
+    {
+      "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+      "automation_probability": "0.033",
+      "median_annual_wage_usd": "41070",
+      "education_required": "Bachelor's degree",
+      "number_employed": "91040"
+    },
+    {
+      "occupation": "Switchboard Operators, Including Answering Service",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "28030",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "90910"
+    },
+    {
+      "occupation": "Farmers, Ranchers and Other Agricultural Managers",
+      "automation_probability": "0.047",
+      "median_annual_wage_usd": "66360",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "4560"
+    },
+    {
+      "occupation": "Forest Fire Inspectors and Prevention Specialists",
+      "automation_probability": "0.048",
+      "median_annual_wage_usd": "36230",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1650"
+    },
+    {
+      "occupation": "Licensed Practical and Licensed Vocational Nurses",
+      "automation_probability": "0.058",
+      "median_annual_wage_usd": "44090",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "702400"
+    },
+    {
+      "occupation": "Paving, Surfacing and Tamping Equipment Operators",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "38970",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "51880"
+    },
+    {
+      "occupation": "Transportation, Storage and Distribution Managers",
+      "automation_probability": "0.59",
+      "median_annual_wage_usd": "89190",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "113270"
+    },
+    {
+      "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+      "automation_probability": "0.29",
+      "median_annual_wage_usd": "53340",
+      "education_required": "Bachelor's degree",
+      "number_employed": "109440"
+    },
+    {
+      "occupation": "Aerospace Engineering and Operations Technicians",
+      "automation_probability": "0.48",
+      "median_annual_wage_usd": "68020",
+      "education_required": "Associate's degree",
+      "number_employed": "11970"
+    },
+    {
+      "occupation": "Electric Motor, Power Tool and Related Repairers",
+      "automation_probability": "0.76",
+      "median_annual_wage_usd": "41570",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "17050"
+    },
+    {
+      "occupation": "Farm Equipment Mechanics and Service Technicians",
+      "automation_probability": "0.75",
+      "median_annual_wage_usd": "37820",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "35110"
+    },
+    {
+      "occupation": "Floor Layers, Except Carpet, Wood and Hard Tiles",
+      "automation_probability": "0.79",
+      "median_annual_wage_usd": "37840",
+      "education_required": "No formal educational credential",
+      "number_employed": "10340"
+    },
+    {
+      "occupation": "Gas Compressor and Gas Pumping Station Operators",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "60470",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "3890"
+    },
+    {
+      "occupation": "Manufactured Building and Mobile Home Installers",
+      "automation_probability": "0.18",
+      "median_annual_wage_usd": "29810",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "3200"
+    },
+    {
+      "occupation": "Mental Health and Substance Abuse Social Workers",
+      "automation_probability": "0.0031",
+      "median_annual_wage_usd": "42700",
+      "education_required": "Bachelor's degree",
+      "number_employed": "114040"
+    },
+    {
+      "occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+      "automation_probability": "0.4",
+      "median_annual_wage_usd": "49370",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "123570"
+    },
+    {
+      "occupation": "Pressers, Textile, Garment and Related Materials",
+      "automation_probability": "0.81",
+      "median_annual_wage_usd": "21300",
+      "education_required": "No formal educational credential",
+      "number_employed": "45150"
+    },
+    {
+      "occupation": "Social Scientists and Related Workers, All Other",
+      "automation_probability": "0.04",
+      "median_annual_wage_usd": "77020",
+      "education_required": "Bachelor's degree",
+      "number_employed": "36380"
+    },
+    {
+      "occupation": "Telecommunications Line Installers and Repairers",
+      "automation_probability": "0.49",
+      "median_annual_wage_usd": "52590",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "100080"
+    },
+    {
+      "occupation": "First-Line Supervisors of Correctional Officers",
+      "automation_probability": "0.025",
+      "median_annual_wage_usd": "60560",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "43230"
+    },
+    {
+      "occupation": "First-Line Supervisors of Police and Detectives",
+      "automation_probability": "0.0044",
+      "median_annual_wage_usd": "84840",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "100200"
+    },
+    {
+      "occupation": "Health Technologists and Technicians, All Other",
+      "automation_probability": "0.4",
+      "median_annual_wage_usd": "41070",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "122170"
+    },
+    {
+      "occupation": "Kindergarten Teachers, Except Special Education",
+      "automation_probability": "0.15",
+      "median_annual_wage_usd": "52620",
+      "education_required": "Bachelor's degree",
+      "number_employed": "151290"
+    },
+    {
+      "occupation": "Tax Examiners and Collectors and Revenue Agents",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "52060",
+      "education_required": "Bachelor's degree",
+      "number_employed": "58450"
+    },
+    {
+      "occupation": "Adhesive Bonding Machine Operators and Tenders",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "32290",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "16940"
+    },
+    {
+      "occupation": "Dispatchers, Except Police, Fire and Ambulance",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "37940",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "197910"
+    },
+    {
+      "occupation": "Electrical and Electronic Equipment Assemblers",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "31310",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "218530"
+    },
+    {
+      "occupation": "Electrical Power-Line Installers and Repairers",
+      "automation_probability": "0.097",
+      "median_annual_wage_usd": "68010",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "117670"
+    },
+    {
+      "occupation": "First-Line Supervisors of Retail Sales Workers",
+      "automation_probability": "0.28",
+      "median_annual_wage_usd": "39040",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1194220"
+    },
+    {
+      "occupation": "Airline Pilots, Copilots and Flight Engineers",
+      "automation_probability": "0.18",
+      "median_annual_wage_usd": "127820",
+      "education_required": "Bachelor's degree",
+      "number_employed": "81520"
+    },
+    {
+      "occupation": "Claims Adjusters, Examiners and Investigators",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "63680",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "274420"
+    },
+    {
+      "occupation": "Clinical, Counseling and School Psychologists",
+      "automation_probability": "0.0047",
+      "median_annual_wage_usd": "73270",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "107980"
+    },
+    {
+      "occupation": "Directors, Religious Activities and Education",
+      "automation_probability": "0.025",
+      "median_annual_wage_usd": "38610",
+      "education_required": "Bachelor's degree",
+      "number_employed": "20590"
+    },
+    {
+      "occupation": "Eligibility Interviewers, Government Programs",
+      "automation_probability": "0.7",
+      "median_annual_wage_usd": "43350",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "135940"
+    },
+    {
+      "occupation": "Hairdressers, Hairstylists and Cosmetologists",
+      "automation_probability": "0.11",
+      "median_annual_wage_usd": "24260",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "352380"
+    },
+    {
+      "occupation": "Insurance Claims and Policy Processing Clerks",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "38430",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "274350"
+    },
+    {
+      "occupation": "Jewelers and Precious Stone and Metal Workers",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "38200",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "26480"
+    },
+    {
+      "occupation": "Loading Machine Operators, Underground Mining",
+      "automation_probability": "0.5",
+      "median_annual_wage_usd": "53420",
+      "education_required": "No formal educational credential",
+      "number_employed": "2550"
+    },
+    {
+      "occupation": "Medical and Clinical Laboratory Technologists",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "61070",
+      "education_required": "Bachelor's degree",
+      "number_employed": "166730"
+    },
+    {
+      "occupation": "Mine Cutting and Channeling Machine Operators",
+      "automation_probability": "0.59",
+      "median_annual_wage_usd": "51900",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "5930"
+    },
+    {
+      "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "36430",
+      "education_required": "No formal educational credential",
+      "number_employed": "26320"
+    },
+    {
+      "occupation": "Automotive and Watercraft Service Attendants",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "22420",
+      "education_required": "No formal educational credential",
+      "number_employed": "109790"
+    },
+    {
+      "occupation": "Automotive Service Technicians and Mechanics",
+      "automation_probability": "0.59",
+      "median_annual_wage_usd": "38470",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "647380"
+    },
+    {
+      "occupation": "Cardiovascular Technologists and Technicians",
+      "automation_probability": "0.23",
+      "median_annual_wage_usd": "55570",
+      "education_required": "Associate's degree",
+      "number_employed": "53760"
+    },
+    {
+      "occupation": "Computer and Information Research Scientists",
+      "automation_probability": "0.015",
+      "median_annual_wage_usd": "111840",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "26580"
+    },
+    {
+      "occupation": "Emergency Medical Technicians and Paramedics",
+      "automation_probability": "0.049",
+      "median_annual_wage_usd": "32670",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "244960"
+    },
+    {
+      "occupation": "Metal-Refining Furnace Operators and Tenders",
+      "automation_probability": "0.88",
+      "median_annual_wage_usd": "41040",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "17730"
+    },
+    {
+      "occupation": "Preschool Teachers, Except Special Education",
+      "automation_probability": "0.0074",
+      "median_annual_wage_usd": "28790",
+      "education_required": "Associate's degree",
+      "number_employed": "385550"
+    },
+    {
+      "occupation": "Special Education Teachers, Secondary School",
+      "automation_probability": "0.0077",
+      "median_annual_wage_usd": "59700",
+      "education_required": "Bachelor's degree",
+      "number_employed": "132490"
+    },
+    {
+      "occupation": "Umpires, Referees and Other Sports Officials",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "25660",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "18660"
+    },
+    {
+      "occupation": "Bookkeeping, Accounting and Auditing Clerks",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "38390",
+      "education_required": "Some college, no degree",
+      "number_employed": "1566960"
+    },
+    {
+      "occupation": "Buyers and Purchasing Agents, Farm Products",
+      "automation_probability": "0.87",
+      "median_annual_wage_usd": "58430",
+      "education_required": "Bachelor's degree",
+      "number_employed": "11490"
+    },
+    {
+      "occupation": "Camera and Photographic Equipment Repairers",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "41060",
+      "education_required": "Associate's degree",
+      "number_employed": "3760"
+    },
+    {
+      "occupation": "Captains, Mates and Pilots of Water Vessels",
+      "automation_probability": "0.27",
+      "median_annual_wage_usd": "72680",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "36720"
+    },
+    {
+      "occupation": "Construction and Related Workers, All Other",
+      "automation_probability": "0.71",
+      "median_annual_wage_usd": "36890",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "35340"
+    },
+    {
+      "occupation": "Insulation Workers, Floor, Ceiling and Wall",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "35660",
+      "education_required": "No formal educational credential",
+      "number_employed": "29500"
+    },
+    {
+      "occupation": "Meat, Poultry and Fish Cutters and Trimmers",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "24490",
+      "education_required": "No formal educational credential",
+      "number_employed": "149800"
+    },
+    {
+      "occupation": "Medical and Clinical Laboratory Technicians",
+      "automation_probability": "0.47",
+      "median_annual_wage_usd": "38950",
+      "education_required": "Associate's degree",
+      "number_employed": "160190"
+    },
+    {
+      "occupation": "Motorboat Mechanics and Service Technicians",
+      "automation_probability": "0.66",
+      "median_annual_wage_usd": "38780",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "20260"
+    },
+    {
+      "occupation": "Network and Computer Systems Administrators",
+      "automation_probability": "0.03",
+      "median_annual_wage_usd": "79700",
+      "education_required": "Bachelor's degree",
+      "number_employed": "376820"
+    },
+    {
+      "occupation": "Railroad Brake, Signal and Switch Operators",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "56570",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "19860"
+    },
+    {
+      "occupation": "Service Unit Operators, Oil, Gas and Mining",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "48610",
+      "education_required": "No formal educational credential",
+      "number_employed": "42890"
+    },
+    {
+      "occupation": "Aircraft Mechanics and Service Technicians",
+      "automation_probability": "0.71",
+      "median_annual_wage_usd": "60170",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "128570"
+    },
+    {
+      "occupation": "Business Operations Specialists, All Other",
+      "automation_probability": "0.23",
+      "median_annual_wage_usd": "69040",
+      "education_required": "Bachelor's degree",
+      "number_employed": "958670"
+    },
+    {
+      "occupation": "Food Cooking Machine Operators and Tenders",
+      "automation_probability": "0.61",
+      "median_annual_wage_usd": "28350",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "36520"
+    },
+    {
+      "occupation": "Gaming and Sports Book Writers and Runners",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "22600",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "11460"
+    },
+    {
+      "occupation": "Graders and Sorters, Agricultural Products",
+      "automation_probability": "0.41",
+      "median_annual_wage_usd": "22520",
+      "education_required": "No formal educational credential",
+      "number_employed": "38780"
+    },
+    {
+      "occupation": "Makeup Artists, Theatrical and Performance",
+      "automation_probability": "0.01",
+      "median_annual_wage_usd": "60970",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "3600"
+    },
+    {
+      "occupation": "Medical Scientists, Except Epidemiologists",
+      "automation_probability": "0.0045",
+      "median_annual_wage_usd": "80530",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "108870"
+    },
+    {
+      "occupation": "Merchandise Displayers and Window Trimmers",
+      "automation_probability": "0.48",
+      "median_annual_wage_usd": "26700",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "114690"
+    },
+    {
+      "occupation": "Occupational Health and Safety Specialists",
+      "automation_probability": "0.17",
+      "median_annual_wage_usd": "70920",
+      "education_required": "Bachelor's degree",
+      "number_employed": "76630"
+    },
+    {
+      "occupation": "Occupational Health and Safety Technicians",
+      "automation_probability": "0.25",
+      "median_annual_wage_usd": "48820",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "16560"
+    },
+    {
+      "occupation": "Production, Planning and Expediting Clerks",
+      "automation_probability": "0.88",
+      "median_annual_wage_usd": "46760",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "321780"
+    },
+    {
+      "occupation": "Public Address System and Other Announcers",
+      "automation_probability": "0.72",
+      "median_annual_wage_usd": "28940",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "8020"
+    },
+    {
+      "occupation": "Security and Fire Alarm Systems Installers",
+      "automation_probability": "0.82",
+      "median_annual_wage_usd": "44330",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "67700"
+    },
+    {
+      "occupation": "Title Examiners, Abstractors and Searchers",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "45800",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "54560"
+    },
+    {
+      "occupation": "Ushers, Lobby Attendants and Ticket Takers",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "19920",
+      "education_required": "No formal educational credential",
+      "number_employed": "117920"
+    },
+    {
+      "occupation": "Agricultural and Food Science Technicians",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "37550",
+      "education_required": "Associate's degree",
+      "number_employed": "20420"
+    },
+    {
+      "occupation": "Automotive Glass Installers and Repairers",
+      "automation_probability": "0.55",
+      "median_annual_wage_usd": "34340",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "18610"
+    },
+    {
+      "occupation": "Computer and Information Systems Managers",
+      "automation_probability": "0.035",
+      "median_annual_wage_usd": "135800",
+      "education_required": "Bachelor's degree",
+      "number_employed": "352510"
+    },
+    {
+      "occupation": "Fitness Trainers and Aerobics Instructors",
+      "automation_probability": "0.085",
+      "median_annual_wage_usd": "38160",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "257410"
+    },
+    {
+      "occupation": "Interviewers, Except Eligibility and Loan",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "32150",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "186030"
+    },
+    {
+      "occupation": "Judges",
+      "automation_probability": "0.4",
+      "median_annual_wage_usd": "125880",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "27210"
+    },
+    {
+      "occupation": "Office Machine Operators, Except Computer",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "30460",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "58160"
+    },
+    {
+      "occupation": "Public Relations and Fundraising Managers",
+      "automation_probability": "0.015",
+      "median_annual_wage_usd": "107320",
+      "education_required": "Bachelor's degree",
+      "number_employed": "63970"
+    },
+    {
+      "occupation": "Refuse and Recyclable Material Collectors",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "35270",
+      "education_required": "No formal educational credential",
+      "number_employed": "114680"
+    },
+    {
+      "occupation": "Special Education Teachers, Middle School",
+      "automation_probability": "0.016",
+      "median_annual_wage_usd": "58560",
+      "education_required": "Bachelor's degree",
+      "number_employed": "90250"
+    },
+    {
+      "occupation": "Stationary Engineers and Boiler Operators",
+      "automation_probability": "0.89",
+      "median_annual_wage_usd": "59400",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "33720"
+    },
+    {
+      "occupation": "Chemical Equipment Operators and Tenders",
+      "automation_probability": "0.76",
+      "median_annual_wage_usd": "47780",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "73840"
+    },
+    {
+      "occupation": "Gaming Change Persons and Booth Cashiers",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "23780",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "23120"
+    },
+    {
+      "occupation": "Light Truck or Delivery Services Drivers",
+      "automation_probability": "0.69",
+      "median_annual_wage_usd": "30580",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "858710"
+    },
+    {
+      "occupation": "Painting, Coating and Decorating Workers",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "30030",
+      "education_required": "No formal educational credential",
+      "number_employed": "15450"
+    },
+    {
+      "occupation": "Ambulance Drivers and Attendants",
+      "automation_probability": "0.23",
+      "median_annual_wage_usd": "68420",
+      "education_required": "Associate's degree",
+      "number_employed": "35850"
+    },
+    {
+      "occupation": "Recreational Vehicle Service Technicians",
+      "automation_probability": "0.59",
+      "median_annual_wage_usd": "36430",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "13520"
+    },
+    {
+      "occupation": "Structural Metal Fabricators and Fitters",
+      "automation_probability": "0.41",
+      "median_annual_wage_usd": "37730",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "77270"
+    },
+    {
+      "occupation": "Veterinary Technologists and Technicians",
+      "automation_probability": "0.029",
+      "median_annual_wage_usd": "32490",
+      "education_required": "Associate's degree",
+      "number_employed": "99390"
+    },
+    {
+      "occupation": "Appraisers and Assessors of Real Estate",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "51850",
+      "education_required": "Bachelor's degree",
+      "number_employed": "60770"
+    },
+    {
+      "occupation": "Arbitrators, Mediators and Conciliators",
+      "automation_probability": "0.06",
+      "median_annual_wage_usd": "59770",
+      "education_required": "Bachelor's degree",
+      "number_employed": "6300"
+    },
+    {
+      "occupation": "Child, Family and School Social Workers",
+      "automation_probability": "0.028",
+      "median_annual_wage_usd": "43250",
+      "education_required": "Bachelor's degree",
+      "number_employed": "298840"
+    },
+    {
+      "occupation": "Credit Authorizers, Checkers and Clerks",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "36930",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "37680"
+    },
+    {
+      "occupation": "Education Administrators, Postsecondary",
+      "automation_probability": "0.01",
+      "median_annual_wage_usd": "90760",
+      "education_required": "Master's degree",
+      "number_employed": "138430"
+    },
+    {
+      "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+      "automation_probability": "0.79",
+      "median_annual_wage_usd": "41340",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "1704520"
+    },
+    {
+      "occupation": "Industrial-Organizational Psychologists",
+      "automation_probability": "0.012",
+      "median_annual_wage_usd": "82760",
+      "education_required": "Master's degree",
+      "number_employed": "1020"
+    },
+    {
+      "occupation": "Maintenance and Repair Workers, General",
+      "automation_probability": "0.64",
+      "median_annual_wage_usd": "36940",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1332480"
+    },
+    {
+      "occupation": "Musical Instrument Repairers and Tuners",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "35010",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "7980"
+    },
+    {
+      "occupation": "Pump Operators, Except Wellhead Pumpers",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "42470",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "12030"
+    },
+    {
+      "occupation": "Welders, Cutters, Solderers and Brazers",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "39390",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "382730"
+    },
+    {
+      "occupation": "Architects, Except Landscape and Naval",
+      "automation_probability": "0.018",
+      "median_annual_wage_usd": "76930",
+      "education_required": "Bachelor's degree",
+      "number_employed": "99860"
+    },
+    {
+      "occupation": "Architectural and Engineering Managers",
+      "automation_probability": "0.017",
+      "median_annual_wage_usd": "134730",
+      "education_required": "Bachelor's degree",
+      "number_employed": "178390"
+    },
+    {
+      "occupation": "Electromechanical Equipment Assemblers",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "33350",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "45540"
+    },
+    {
+      "occupation": "Electronics Engineers, Except Computer",
+      "automation_probability": "0.025",
+      "median_annual_wage_usd": "99210",
+      "education_required": "Bachelor's degree",
+      "number_employed": "132100"
+    },
+    {
+      "occupation": "Industrial Truck and Tractor Operators",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "32460",
+      "education_required": "No formal educational credential",
+      "number_employed": "542750"
+    },
+    {
+      "occupation": "Landscaping and Groundskeeping Workers",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "26320",
+      "education_required": "No formal educational credential",
+      "number_employed": "906570"
+    },
+    {
+      "occupation": "Meeting, Convention and Event Planners",
+      "automation_probability": "0.037",
+      "median_annual_wage_usd": "47350",
+      "education_required": "Bachelor's degree",
+      "number_employed": "95850"
+    },
+    {
+      "occupation": "Painters, Construction and Maintenance",
+      "automation_probability": "0.75",
+      "median_annual_wage_usd": "37570",
+      "education_required": "No formal educational credential",
+      "number_employed": "217280"
+    },
+    {
+      "occupation": "Plumbers, Pipefitters and Steamfitters",
+      "automation_probability": "0.35",
+      "median_annual_wage_usd": "51450",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "411870"
+    },
+    {
+      "occupation": "Police, Fire and Ambulance Dispatchers",
+      "automation_probability": "0.49",
+      "median_annual_wage_usd": "38870",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "95170"
+    },
+    {
+      "occupation": "Shipping, Receiving and Traffic Clerks",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "31180",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "676990"
+    },
+    {
+      "occupation": "Shoe and Leather Workers and Repairers",
+      "automation_probability": "0.52",
+      "median_annual_wage_usd": "23940",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "7780"
+    },
+    {
+      "occupation": "Tailors, Dressmakers and Custom Sewers",
+      "automation_probability": "0.84",
+      "median_annual_wage_usd": "28240",
+      "education_required": "No formal educational credential",
+      "number_employed": "21660"
+    },
+    {
+      "occupation": "Timing Device Assemblers and Adjusters",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "37040",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "790"
+    },
+    {
+      "occupation": "Audio and Video Equipment Technicians",
+      "automation_probability": "0.55",
+      "median_annual_wage_usd": "42230",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "69670"
+    },
+    {
+      "occupation": "Automotive Body and Related Repairers",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "41540",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "143940"
+    },
+    {
+      "occupation": "Bus Drivers, School or Special Client",
+      "automation_probability": "0.89",
+      "median_annual_wage_usd": "30150",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "515020"
+    },
+    {
+      "occupation": "Detectives and Criminal Investigators",
+      "automation_probability": "0.34",
+      "median_annual_wage_usd": "78120",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "104980"
+    },
+    {
+      "occupation": "Environmental Engineering Technicians",
+      "automation_probability": "0.25",
+      "median_annual_wage_usd": "49170",
+      "education_required": "Associate's degree",
+      "number_employed": "16550"
+    },
+    {
+      "occupation": "Fiberglass Laminators and Fabricators",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "30870",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "19400"
+    },
+    {
+      "occupation": "Healthcare Support Workers, All Other",
+      "automation_probability": "0.63",
+      "median_annual_wage_usd": "36330",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "93830"
+    },
+    {
+      "occupation": "Marine Engineers and Naval Architects",
+      "automation_probability": "0.01",
+      "median_annual_wage_usd": "93350",
+      "education_required": "Bachelor's degree",
+      "number_employed": "8120"
+    },
+    {
+      "occupation": "Plant and System Operators, All Other",
+      "automation_probability": "0.86",
+      "median_annual_wage_usd": "54930",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "11970"
+    },
+    {
+      "occupation": "Social and Community Service Managers",
+      "automation_probability": "0.0067",
+      "median_annual_wage_usd": "64680",
+      "education_required": "Bachelor's degree",
+      "number_employed": "126230"
+    },
+    {
+      "occupation": "Software Developers, Systems Software",
+      "automation_probability": "0.13",
+      "median_annual_wage_usd": "106860",
+      "education_required": "Bachelor's degree",
+      "number_employed": "409820"
+    },
+    {
+      "occupation": "Cement Masons and Concrete Finishers",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "39180",
+      "education_required": "No formal educational credential",
+      "number_employed": "173920"
+    },
+    {
+      "occupation": "Construction and Building Inspectors",
+      "automation_probability": "0.63",
+      "median_annual_wage_usd": "58480",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "94960"
+    },
+    {
+      "occupation": "Geological and Petroleum Technicians",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "56470",
+      "education_required": "Associate's degree",
+      "number_employed": "15100"
+    },
+    {
+      "occupation": "Grinding and Polishing Workers, Hand",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "28720",
+      "education_required": "No formal educational credential",
+      "number_employed": "26670"
+    },
+    {
+      "occupation": "Medical and Health Services Managers",
+      "automation_probability": "0.0073",
+      "median_annual_wage_usd": "96540",
+      "education_required": "Bachelor's degree",
+      "number_employed": "332150"
+    },
+    {
+      "occupation": "Police and Sheriff’s Patrol Officers",
+      "automation_probability": "0.098",
+      "median_annual_wage_usd": "59680",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "657690"
+    },
+    {
+      "occupation": "Postmasters and Mail Superintendents",
+      "automation_probability": "0.75",
+      "median_annual_wage_usd": "71670",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "14720"
+    },
+    {
+      "occupation": "Private Detectives and Investigators",
+      "automation_probability": "0.31",
+      "median_annual_wage_usd": "48190",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "28490"
+    },
+    {
+      "occupation": "Receptionists and Information Clerks",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "27920",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "997770"
+    },
+    {
+      "occupation": "Tool Grinders, Filers and Sharpeners",
+      "automation_probability": "0.88",
+      "median_annual_wage_usd": "36650",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "9550"
+    },
+    {
+      "occupation": "Training and Development Specialists",
+      "automation_probability": "0.014",
+      "median_annual_wage_usd": "59020",
+      "education_required": "Bachelor's degree",
+      "number_employed": "269710"
+    },
+    {
+      "occupation": "Advertising and Promotions Managers",
+      "automation_probability": "0.039",
+      "median_annual_wage_usd": "100810",
+      "education_required": "Bachelor's degree",
+      "number_employed": "28860"
+    },
+    {
+      "occupation": "Aircraft Cargo Handling Supervisors",
+      "automation_probability": "0.066",
+      "median_annual_wage_usd": "47360",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "7460"
+    },
+    {
+      "occupation": "Amusement and Recreation Attendants",
+      "automation_probability": "0.72",
+      "median_annual_wage_usd": "20160",
+      "education_required": "No formal educational credential",
+      "number_employed": "286740"
+    },
+    {
+      "occupation": "Cartographers and Photogrammetrists",
+      "automation_probability": "0.88",
+      "median_annual_wage_usd": "62750",
+      "education_required": "Bachelor's degree",
+      "number_employed": "12100"
+    },
+    {
+      "occupation": "Chemical Plant and System Operators",
+      "automation_probability": "0.85",
+      "median_annual_wage_usd": "59920",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "33300"
+    },
+    {
+      "occupation": "Commercial and Industrial Designers",
+      "automation_probability": "0.037",
+      "median_annual_wage_usd": "67790",
+      "education_required": "Bachelor's degree",
+      "number_employed": "31860"
+    },
+    {
+      "occupation": "Continuous Mining Machine Operators",
+      "automation_probability": "0.54",
+      "median_annual_wage_usd": "51840",
+      "education_required": "No formal educational credential",
+      "number_employed": "12030"
+    },
+    {
+      "occupation": "Court, Municipal and License Clerks",
+      "automation_probability": "0.46",
+      "median_annual_wage_usd": "36670",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "128620"
+    },
+    {
+      "occupation": "Demonstrators and Product Promoters",
+      "automation_probability": "0.51",
+      "median_annual_wage_usd": "25610",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "86500"
+    },
+    {
+      "occupation": "Drywall and Ceiling Tile Installers",
+      "automation_probability": "0.79",
+      "median_annual_wage_usd": "41090",
+      "education_required": "No formal educational credential",
+      "number_employed": "93180"
+    },
+    {
+      "occupation": "Electrical and Electronics Drafters",
+      "automation_probability": "0.81",
+      "median_annual_wage_usd": "59970",
+      "education_required": "Associate's degree",
+      "number_employed": "26750"
+    },
+    {
+      "occupation": "Engine and Other Machine Assemblers",
+      "automation_probability": "0.82",
+      "median_annual_wage_usd": "41210",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "38150"
+    },
+    {
+      "occupation": "Fishers and Related Fishing Workers",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "27110",
+      "education_required": "No formal educational credential",
+      "number_employed": "520"
+    },
+    {
+      "occupation": "Forest and Conservation Technicians",
+      "automation_probability": "0.42",
+      "median_annual_wage_usd": "35560",
+      "education_required": "Associate's degree",
+      "number_employed": "30090"
+    },
+    {
+      "occupation": "Hazardous Materials Removal Workers",
+      "automation_probability": "0.53",
+      "median_annual_wage_usd": "40640",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "44280"
+    },
+    {
+      "occupation": "Hotel, Motel and Resort Desk Clerks",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "22070",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "248440"
+    },
+    {
+      "occupation": "Museum Technicians and Conservators",
+      "automation_probability": "0.59",
+      "median_annual_wage_usd": "40040",
+      "education_required": "Bachelor's degree",
+      "number_employed": "10970"
+    },
+    {
+      "occupation": "Print Binding and Finishing Workers",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "31410",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "52730"
+    },
+    {
+      "occupation": "Railroad Conductors and Yardmasters",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "57480",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "42880"
+    },
+    {
+      "occupation": "Rotary Drill Operators, Oil and Gas",
+      "automation_probability": "0.53",
+      "median_annual_wage_usd": "54430",
+      "education_required": "No formal educational credential",
+      "number_employed": "17400"
+    },
+    {
+      "occupation": "Social and Human Service Assistants",
+      "automation_probability": "0.13",
+      "median_annual_wage_usd": "31810",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "360650"
+    },
+    {
+      "occupation": "Teachers and Instructors, All Other",
+      "automation_probability": "0.0095",
+      "median_annual_wage_usd": "28010",
+      "education_required": "Bachelor's degree",
+      "number_employed": "609960"
+    },
+    {
+      "occupation": "Bus Drivers, Transit and Intercity",
+      "automation_probability": "0.67",
+      "median_annual_wage_usd": "39790",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "169680"
+    },
+    {
+      "occupation": "Cabinetmakers and Bench Carpenters",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "33050",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "97980"
+    },
+    {
+      "occupation": "Cleaners of Vehicles and Equipment",
+      "automation_probability": "0.37",
+      "median_annual_wage_usd": "22220",
+      "education_required": "No formal educational credential",
+      "number_employed": "348770"
+    },
+    {
+      "occupation": "Coil Winders, Tapers and Finishers",
+      "automation_probability": "0.73",
+      "median_annual_wage_usd": "33940",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "14090"
+    },
+    {
+      "occupation": "Compensation and Benefits Managers",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "116240",
+      "education_required": "Bachelor's degree",
+      "number_employed": "15230"
+    },
+    {
+      "occupation": "Earth Drillers, Except Oil and Gas",
+      "automation_probability": "0.85",
+      "median_annual_wage_usd": "44360",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "18500"
+    },
+    {
+      "occupation": "Industrial Engineering Technicians",
+      "automation_probability": "0.03",
+      "median_annual_wage_usd": "53330",
+      "education_required": "Associate's degree",
+      "number_employed": "63220"
+    },
+    {
+      "occupation": "Mechanical Engineering Technicians",
+      "automation_probability": "0.38",
+      "median_annual_wage_usd": "54480",
+      "education_required": "Associate's degree",
+      "number_employed": "45510"
+    },
+    {
+      "occupation": "Miscellaneous Agricultural Workers",
+      "automation_probability": "0.87",
+      "median_annual_wage_usd": "22520",
+      "education_required": "No formal educational credential",
+      "number_employed": "342870"
+    },
+    {
+      "occupation": "Painters, Transportation Equipment",
+      "automation_probability": "0.69",
+      "median_annual_wage_usd": "42150",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "54860"
+    },
+    {
+      "occupation": "Power Distributors and Dispatchers",
+      "automation_probability": "0.64",
+      "median_annual_wage_usd": "81900",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "11380"
+    },
+    {
+      "occupation": "Reinforcing Iron and Rebar Workers",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "47600",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "20020"
+    },
+    {
+      "occupation": "Self-Enrichment Education Teachers",
+      "automation_probability": "0.13",
+      "median_annual_wage_usd": "37330",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "229840"
+    },
+    {
+      "occupation": "Shoe Machine Operators and Tenders",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "26150",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "3500"
+    },
+    {
+      "occupation": "Social Science Research Assistants",
+      "automation_probability": "0.65",
+      "median_annual_wage_usd": "43190",
+      "education_required": "Bachelor's degree",
+      "number_employed": "30030"
+    },
+    {
+      "occupation": "Zoologists and Wildlife Biologists",
+      "automation_probability": "0.3",
+      "median_annual_wage_usd": "60520",
+      "education_required": "Bachelor's degree",
+      "number_employed": "17720"
+    },
+    {
+      "occupation": "Anthropologists and Archeologists",
+      "automation_probability": "0.0077",
+      "median_annual_wage_usd": "63190",
+      "education_required": "Master's degree",
+      "number_employed": "6470"
+    },
+    {
+      "occupation": "Correctional Officers and Jailers",
+      "automation_probability": "0.6",
+      "median_annual_wage_usd": "42820",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "431600"
+    },
+    {
+      "occupation": "Elevator Installers and Repairers",
+      "automation_probability": "0.39",
+      "median_annual_wage_usd": "78890",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "22240"
+    },
+    {
+      "occupation": "Farm and Home Management Advisors",
+      "automation_probability": "0.0075",
+      "median_annual_wage_usd": "49490",
+      "education_required": "Master's degree",
+      "number_employed": "8620"
+    },
+    {
+      "occupation": "Fire Inspectors and Investigators",
+      "automation_probability": "0.48",
+      "median_annual_wage_usd": "58440",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "11910"
+    },
+    {
+      "occupation": "Food Scientists and Technologists",
+      "automation_probability": "0.077",
+      "median_annual_wage_usd": "63950",
+      "education_required": "Bachelor's degree",
+      "number_employed": "14200"
+    },
+    {
+      "occupation": "Insurance Appraisers, Auto Damage",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "63510",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "15130"
+    },
+    {
+      "occupation": "Layout Workers, Metal and Plastic",
+      "automation_probability": "0.84",
+      "median_annual_wage_usd": "45820",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "9070"
+    },
+    {
+      "occupation": "Ophthalmic Laboratory Technicians",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "30640",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "28570"
+    },
+    {
+      "occupation": "Signal and Track Switch Repairers",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "65350",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "8680"
+    },
+    {
+      "occupation": "Software Developers, Applications",
+      "automation_probability": "0.042",
+      "median_annual_wage_usd": "100080",
+      "education_required": "Bachelor's degree",
+      "number_employed": "794000"
+    },
+    {
+      "occupation": "Structural Iron and Steel Workers",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "51800",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "69440"
+    },
+    {
+      "occupation": "Surveying and Mapping Technicians",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "42450",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "53920"
+    },
+    {
+      "occupation": "Training and Development Managers",
+      "automation_probability": "0.0063",
+      "median_annual_wage_usd": "105830",
+      "education_required": "Bachelor's degree",
+      "number_employed": "32880"
+    },
+    {
+      "occupation": "Administrative Services Managers",
+      "automation_probability": "0.73",
+      "median_annual_wage_usd": "90050",
+      "education_required": "Bachelor's degree",
+      "number_employed": "266280"
+    },
+    {
+      "occupation": "Architectural and Civil Drafters",
+      "automation_probability": "0.52",
+      "median_annual_wage_usd": "51640",
+      "education_required": "Associate's degree",
+      "number_employed": "96810"
+    },
+    {
+      "occupation": "Atmospheric and Space Scientists",
+      "automation_probability": "0.67",
+      "median_annual_wage_usd": "92460",
+      "education_required": "Bachelor's degree",
+      "number_employed": "9800"
+    },
+    {
+      "occupation": "Biological Scientists, All Other",
+      "automation_probability": "0.015",
+      "median_annual_wage_usd": "74790",
+      "education_required": "Bachelor's degree",
+      "number_employed": "35110"
+    },
+    {
+      "occupation": "Cooks, Institution and Cafeteria",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "24750",
+      "education_required": "No formal educational credential",
+      "number_employed": "409850"
+    },
+    {
+      "occupation": "Customer Service Representatives",
+      "automation_probability": "0.55",
+      "median_annual_wage_usd": "32300",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "2707040"
+    },
+    {
+      "occupation": "Fabric and Apparel Patternmakers",
+      "automation_probability": "0.0049",
+      "median_annual_wage_usd": "39650",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "5310"
+    },
+    {
+      "occupation": "Financial Specialists, All Other",
+      "automation_probability": "0.33",
+      "median_annual_wage_usd": "69470",
+      "education_required": "Bachelor's degree",
+      "number_employed": "123270"
+    },
+    {
+      "occupation": "Laundry and Dry-Cleaning Workers",
+      "automation_probability": "0.71",
+      "median_annual_wage_usd": "21510",
+      "education_required": "No formal educational credential",
+      "number_employed": "207710"
+    },
+    {
+      "occupation": "Multimedia Artists and Animators",
+      "automation_probability": "0.015",
+      "median_annual_wage_usd": "65300",
+      "education_required": "Bachelor's degree",
+      "number_employed": "29810"
+    },
+    {
+      "occupation": "Patternmakers, Metal and Plastic",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "44210",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "3420"
+    },
+    {
+      "occupation": "Prepress Technicians and Workers",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "38930",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "33340"
+    },
+    {
+      "occupation": "Tank Car, Truck and Ship Loaders",
+      "automation_probability": "0.72",
+      "median_annual_wage_usd": "35770",
+      "education_required": "No formal educational credential",
+      "number_employed": "10920"
+    },
+    {
+      "occupation": "Airfield Operations Specialists",
+      "automation_probability": "0.71",
+      "median_annual_wage_usd": "48910",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "8760"
+    },
+    {
+      "occupation": "Athletes and Sports Competitors",
+      "automation_probability": "0.28",
+      "median_annual_wage_usd": "47710",
+      "education_required": "No formal educational credential",
+      "number_employed": "10260"
+    },
+    {
+      "occupation": "Computer Occupations, All Other",
+      "automation_probability": "0.22",
+      "median_annual_wage_usd": "86510",
+      "education_required": "Bachelor's degree",
+      "number_employed": "261210"
+    },
+    {
+      "occupation": "Diagnostic Medical Sonographers",
+      "automation_probability": "0.35",
+      "median_annual_wage_usd": "69650",
+      "education_required": "Associate's degree",
+      "number_employed": "65790"
+    },
+    {
+      "occupation": "Forest and Conservation Workers",
+      "automation_probability": "0.87",
+      "median_annual_wage_usd": "26940",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "7170"
+    },
+    {
+      "occupation": "General and Operations Managers",
+      "automation_probability": "0.16",
+      "median_annual_wage_usd": "99310",
+      "education_required": "Bachelor's degree",
+      "number_employed": "2188870"
+    },
+    {
+      "occupation": "Maids and Housekeeping Cleaners",
+      "automation_probability": "0.69",
+      "median_annual_wage_usd": "21820",
+      "education_required": "No formal educational credential",
+      "number_employed": "924640"
+    },
+    {
+      "occupation": "Model Makers, Metal and Plastic",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "48550",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "6250"
+    },
+    {
+      "occupation": "Nuclear Power Reactor Operators",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "91170",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "7170"
+    },
+    {
+      "occupation": "Occupational Therapy Assistants",
+      "automation_probability": "0.028",
+      "median_annual_wage_usd": "59010",
+      "education_required": "Associate's degree",
+      "number_employed": "38170"
+    },
+    {
+      "occupation": "Oral and Maxillofacial Surgeons",
+      "automation_probability": "0.0036",
+      "median_annual_wage_usd": "232870",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "5380"
+    },
+    {
+      "occupation": "Paralegals and Legal Assistants",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "49500",
+      "education_required": "Associate's degree",
+      "number_employed": "277310"
+    },
+    {
+      "occupation": "Radio and Television Announcers",
+      "automation_probability": "0.1",
+      "median_annual_wage_usd": "31400",
+      "education_required": "Bachelor's degree",
+      "number_employed": "29210"
+    },
+    {
+      "occupation": "Respiratory Therapy Technicians",
+      "automation_probability": "0.1",
+      "median_annual_wage_usd": "49780",
+      "education_required": "Associate's degree",
+      "number_employed": "10600"
+    },
+    {
+      "occupation": "Conveyor Operators and Tenders",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "31410",
+      "education_required": "No formal educational credential",
+      "number_employed": "28590"
+    },
+    {
+      "occupation": "Derrick Operators, Oil and Gas",
+      "automation_probability": "0.8",
+      "median_annual_wage_usd": "48130",
+      "education_required": "No formal educational credential",
+      "number_employed": "11580"
+    },
+    {
+      "occupation": "Electro-Mechanical Technicians",
+      "automation_probability": "0.81",
+      "median_annual_wage_usd": "55610",
+      "education_required": "Associate's degree",
+      "number_employed": "13710"
+    },
+    {
+      "occupation": "Emergency Management Directors",
+      "automation_probability": "0.003",
+      "median_annual_wage_usd": "70500",
+      "education_required": "Bachelor's degree",
+      "number_employed": "9570"
+    },
+    {
+      "occupation": "Fabric Menders, Except Garment",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "26920",
+      "education_required": "No formal educational credential",
+      "number_employed": "550"
+    },
+    {
+      "occupation": "Industrial Machinery Mechanics",
+      "automation_probability": "0.67",
+      "median_annual_wage_usd": "50040",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "334490"
+    },
+    {
+      "occupation": "Industrial Production Managers",
+      "automation_probability": "0.03",
+      "median_annual_wage_usd": "97140",
+      "education_required": "Bachelor's degree",
+      "number_employed": "168400"
+    },
+    {
+      "occupation": "Insulation Workers, Mechanical",
+      "automation_probability": "0.64",
+      "median_annual_wage_usd": "45430",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "27270"
+    },
+    {
+      "occupation": "Machine Feeders and Offbearers",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "28410",
+      "education_required": "No formal educational credential",
+      "number_employed": "88070"
+    },
+    {
+      "occupation": "Maintenance Workers, Machinery",
+      "automation_probability": "0.86",
+      "median_annual_wage_usd": "44550",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "89630"
+    },
+    {
+      "occupation": "Marriage and Family Therapists",
+      "automation_probability": "0.014",
+      "median_annual_wage_usd": "49170",
+      "education_required": "Master's degree",
+      "number_employed": "36960"
+    },
+    {
+      "occupation": "Nuclear Medicine Technologists",
+      "automation_probability": "0.13",
+      "median_annual_wage_usd": "74350",
+      "education_required": "Associate's degree",
+      "number_employed": "19650"
+    },
+    {
+      "occupation": "Payroll and Timekeeping Clerks",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "42390",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "159650"
+    },
+    {
+      "occupation": "Physical Scientists, All Other",
+      "automation_probability": "0.43",
+      "median_annual_wage_usd": "96070",
+      "education_required": "Bachelor's degree",
+      "number_employed": "18960"
+    },
+    {
+      "occupation": "Stock Clerks and Order Fillers",
+      "automation_probability": "0.64",
+      "median_annual_wage_usd": "23840",
+      "education_required": "No formal educational credential",
+      "number_employed": "2016340"
+    },
+    {
+      "occupation": "Subway and Streetcar Operators",
+      "automation_probability": "0.86",
+      "median_annual_wage_usd": "64680",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "12350"
+    },
+    {
+      "occupation": "Terrazzo Workers and Finishers",
+      "automation_probability": "0.88",
+      "median_annual_wage_usd": "40930",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "3420"
+    },
+    {
+      "occupation": "Biochemists and Biophysicists",
+      "automation_probability": "0.027",
+      "median_annual_wage_usd": "82180",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "29200"
+    },
+    {
+      "occupation": "Civil Engineering Technicians",
+      "automation_probability": "0.75",
+      "median_annual_wage_usd": "49980",
+      "education_required": "Associate's degree",
+      "number_employed": "72150"
+    },
+    {
+      "occupation": "Dental Laboratory Technicians",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "37680",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "37110"
+    },
+    {
+      "occupation": "Locksmiths and Safe Repairers",
+      "automation_probability": "0.77",
+      "median_annual_wage_usd": "40420",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "18640"
+    },
+    {
+      "occupation": "Medical Appliance Technicians",
+      "automation_probability": "0.45",
+      "median_annual_wage_usd": "35980",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "14570"
+    },
+    {
+      "occupation": "Motion Picture Projectionists",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "22100",
+      "education_required": "No formal educational credential",
+      "number_employed": "5480"
+    },
+    {
+      "occupation": "Music Directors and Composers",
+      "automation_probability": "0.015",
+      "median_annual_wage_usd": "50110",
+      "education_required": "Bachelor's degree",
+      "number_employed": "18380"
+    },
+    {
+      "occupation": "Physical Therapist Assistants",
+      "automation_probability": "0.018",
+      "median_annual_wage_usd": "56610",
+      "education_required": "Associate's degree",
+      "number_employed": "85580"
+    },
+    {
+      "occupation": "Production Workers, All Other",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "28770",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "251670"
+    },
+    {
+      "occupation": "Proofreaders and Copy Markers",
+      "automation_probability": "0.84",
+      "median_annual_wage_usd": "36960",
+      "education_required": "Bachelor's degree",
+      "number_employed": "11430"
+    },
+    {
+      "occupation": "Slaughterers and Meat Packers",
+      "automation_probability": "0.6",
+      "median_annual_wage_usd": "26590",
+      "education_required": "No formal educational credential",
+      "number_employed": "80780"
+    },
+    {
+      "occupation": "Sound Engineering Technicians",
+      "automation_probability": "0.13",
+      "median_annual_wage_usd": "53680",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "15210"
+    },
+    {
+      "occupation": "Baggage Porters and Bellhops",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "22260",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "44750"
+    },
+    {
+      "occupation": "Computer Support Specialists",
+      "automation_probability": "0.65",
+      "median_annual_wage_usd": "52160",
+      "education_required": "Bachelor's degree",
+      "number_employed": "791580"
+    },
+    {
+      "occupation": "Dietitians and Nutritionists",
+      "automation_probability": "0.0039",
+      "median_annual_wage_usd": "58920",
+      "education_required": "Bachelor's degree",
+      "number_employed": "61430"
+    },
+    {
+      "occupation": "Forensic Science Technicians",
+      "automation_probability": "0.0095",
+      "median_annual_wage_usd": "56750",
+      "education_required": "Bachelor's degree",
+      "number_employed": "14800"
+    },
+    {
+      "occupation": "Interpreters and Translators",
+      "automation_probability": "0.38",
+      "median_annual_wage_usd": "46120",
+      "education_required": "Bachelor's degree",
+      "number_employed": "51350"
+    },
+    {
+      "occupation": "Library Assistants, Clerical",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "25220",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "98560"
+    },
+    {
+      "occupation": "Loan Interviewers and Clerks",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "38630",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "224340"
+    },
+    {
+      "occupation": "Operations Research Analysts",
+      "automation_probability": "0.035",
+      "median_annual_wage_usd": "79200",
+      "education_required": "Bachelor's degree",
+      "number_employed": "109150"
+    },
+    {
+      "occupation": "Plasterers and Stucco Masons",
+      "automation_probability": "0.84",
+      "median_annual_wage_usd": "38890",
+      "education_required": "No formal educational credential",
+      "number_employed": "22810"
+    },
+    {
+      "occupation": "Postal Service Mail Carriers",
+      "automation_probability": "0.68",
+      "median_annual_wage_usd": "58110",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "328950"
+    },
+    {
+      "occupation": "Public Relations Specialists",
+      "automation_probability": "0.18",
+      "median_annual_wage_usd": "58020",
+      "education_required": "Bachelor's degree",
+      "number_employed": "226940"
+    },
+    {
+      "occupation": "Reporters and Correspondents",
+      "automation_probability": "0.11",
+      "median_annual_wage_usd": "37820",
+      "education_required": "Bachelor's degree",
+      "number_employed": "40090"
+    },
+    {
+      "occupation": "Speech-Language Pathologists",
+      "automation_probability": "0.0064",
+      "median_annual_wage_usd": "74680",
+      "education_required": "Master's degree",
+      "number_employed": "135980"
+    },
+    {
+      "occupation": "Bill and Account Collectors",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "35350",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "298960"
+    },
+    {
+      "occupation": "Brickmasons and Blockmasons",
+      "automation_probability": "0.82",
+      "median_annual_wage_usd": "49250",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "64370"
+    },
+    {
+      "occupation": "Computer Hardware Engineers",
+      "automation_probability": "0.22",
+      "median_annual_wage_usd": "115080",
+      "education_required": "Bachelor's degree",
+      "number_employed": "72950"
+    },
+    {
+      "occupation": "Floor Sanders and Finishers",
+      "automation_probability": "0.87",
+      "median_annual_wage_usd": "36860",
+      "education_required": "No formal educational credential",
+      "number_employed": "4590"
+    },
+    {
+      "occupation": "Food Servers, Nonrestaurant",
+      "automation_probability": "0.86",
+      "median_annual_wage_usd": "21240",
+      "education_required": "No formal educational credential",
+      "number_employed": "261520"
+    },
+    {
+      "occupation": "Foundry Mold and Coremakers",
+      "automation_probability": "0.67",
+      "median_annual_wage_usd": "34790",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "12810"
+    },
+    {
+      "occupation": "Highway Maintenance Workers",
+      "automation_probability": "0.87",
+      "median_annual_wage_usd": "38130",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "143320"
+    },
+    {
+      "occupation": "Logging Equipment Operators",
+      "automation_probability": "0.79",
+      "median_annual_wage_usd": "37490",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "27250"
+    },
+    {
+      "occupation": "Manicurists and Pedicurists",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "22150",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "90630"
+    },
+    {
+      "occupation": "Medical Equipment Preparers",
+      "automation_probability": "0.78",
+      "median_annual_wage_usd": "34400",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "52500"
+    },
+    {
+      "occupation": "Medical Equipment Repairers",
+      "automation_probability": "0.27",
+      "median_annual_wage_usd": "48070",
+      "education_required": "Associate's degree",
+      "number_employed": "43370"
+    },
+    {
+      "occupation": "Orthotists and Prosthetists",
+      "automation_probability": "0.0035",
+      "median_annual_wage_usd": "65630",
+      "education_required": "Master's degree",
+      "number_employed": "7500"
+    },
+    {
+      "occupation": "Packers and Packagers, Hand",
+      "automation_probability": "0.38",
+      "median_annual_wage_usd": "22130",
+      "education_required": "No formal educational credential",
+      "number_employed": "705660"
+    },
+    {
+      "occupation": "Parking Enforcement Workers",
+      "automation_probability": "0.84",
+      "median_annual_wage_usd": "37950",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "8920"
+    },
+    {
+      "occupation": "Personal Financial Advisors",
+      "automation_probability": "0.58",
+      "median_annual_wage_usd": "90530",
+      "education_required": "Bachelor's degree",
+      "number_employed": "201850"
+    },
+    {
+      "occupation": "Taxi Drivers and Chauffeurs",
+      "automation_probability": "0.89",
+      "median_annual_wage_usd": "24300",
+      "education_required": "No formal educational credential",
+      "number_employed": "188860"
+    },
+    {
+      "occupation": "Tire Repairers and Changers",
+      "automation_probability": "0.7",
+      "median_annual_wage_usd": "25040",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "109350"
+    },
+    {
+      "occupation": "Transit and Railroad Police",
+      "automation_probability": "0.57",
+      "median_annual_wage_usd": "66610",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "4810"
+    },
+    {
+      "occupation": "Urban and Regional Planners",
+      "automation_probability": "0.13",
+      "median_annual_wage_usd": "70020",
+      "education_required": "Master's degree",
+      "number_employed": "34810"
+    },
+    {
+      "occupation": "Word Processors and Typists",
+      "automation_probability": "0.81",
+      "median_annual_wage_usd": "38740",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "67230"
+    },
+    {
+      "occupation": "Billing and Posting Clerks",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "36150",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "485220"
+    },
+    {
+      "occupation": "Cutters and Trimmers, Hand",
+      "automation_probability": "0.64",
+      "median_annual_wage_usd": "27600",
+      "education_required": "No formal educational credential",
+      "number_employed": "14250"
+    },
+    {
+      "occupation": "Helpers–Extraction Workers",
+      "automation_probability": "0.37",
+      "median_annual_wage_usd": "35790",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "17660"
+    },
+    {
+      "occupation": "Helpers–Production Workers",
+      "automation_probability": "0.66",
+      "median_annual_wage_usd": "24830",
+      "education_required": "No formal educational credential",
+      "number_employed": "429890"
+    },
+    {
+      "occupation": "Instructional Coordinators",
+      "automation_probability": "0.0042",
+      "median_annual_wage_usd": "62460",
+      "education_required": "Master's degree",
+      "number_employed": "147330"
+    },
+    {
+      "occupation": "Mine Shuttle Car Operators",
+      "automation_probability": "0.37",
+      "median_annual_wage_usd": "56450",
+      "education_required": "No formal educational credential",
+      "number_employed": "1590"
+    },
+    {
+      "occupation": "Occupational Therapy Aides",
+      "automation_probability": "0.27",
+      "median_annual_wage_usd": "28330",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "7210"
+    },
+    {
+      "occupation": "Pourers and Casters, Metal",
+      "automation_probability": "0.87",
+      "median_annual_wage_usd": "36180",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "8560"
+    },
+    {
+      "occupation": "Butchers and Meat Cutters",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "29870",
+      "education_required": "No formal educational credential",
+      "number_employed": "133880"
+    },
+    {
+      "occupation": "Computer Systems Analysts",
+      "automation_probability": "0.0065",
+      "median_annual_wage_usd": "87220",
+      "education_required": "Bachelor's degree",
+      "number_employed": "568960"
+    },
+    {
+      "occupation": "Counter and Rental Clerks",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "25550",
+      "education_required": "No formal educational credential",
+      "number_employed": "450330"
+    },
+    {
+      "occupation": "Crane and Tower Operators",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "52170",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "45020"
+    },
+    {
+      "occupation": "Healthcare Social Workers",
+      "automation_probability": "0.0035",
+      "median_annual_wage_usd": "53760",
+      "education_required": "Master's degree",
+      "number_employed": "159310"
+    },
+    {
+      "occupation": "Hoist and Winch Operators",
+      "automation_probability": "0.65",
+      "median_annual_wage_usd": "42530",
+      "education_required": "No formal educational credential",
+      "number_employed": "2960"
+    },
+    {
+      "occupation": "Mechanical Door Repairers",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "38480",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "19840"
+    },
+    {
+      "occupation": "Medical Transcriptionists",
+      "automation_probability": "0.89",
+      "median_annual_wage_usd": "35720",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "54070"
+    },
+    {
+      "occupation": "Natural Sciences Managers",
+      "automation_probability": "0.018",
+      "median_annual_wage_usd": "119850",
+      "education_required": "Bachelor's degree",
+      "number_employed": "54780"
+    },
+    {
+      "occupation": "Nonfarm Animal Caretakers",
+      "automation_probability": "0.82",
+      "median_annual_wage_usd": "21990",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "187360"
+    },
+    {
+      "occupation": "Rehabilitation Counselors",
+      "automation_probability": "0.0094",
+      "median_annual_wage_usd": "34670",
+      "education_required": "Master's degree",
+      "number_employed": "103030"
+    },
+    {
+      "occupation": "Sailors and Marine Oilers",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "42060",
+      "education_required": "No formal educational credential",
+      "number_employed": "32530"
+    },
+    {
+      "occupation": "Set and Exhibit Designers",
+      "automation_probability": "0.0055",
+      "median_annual_wage_usd": "50990",
+      "education_required": "Bachelor's degree",
+      "number_employed": "12060"
+    },
+    {
+      "occupation": "Soil and Plant Scientists",
+      "automation_probability": "0.021",
+      "median_annual_wage_usd": "62300",
+      "education_required": "Bachelor's degree",
+      "number_employed": "14690"
+    },
+    {
+      "occupation": "Transportation Inspectors",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "72220",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "27430"
+    },
+    {
+      "occupation": "Tree Trimmers and Pruners",
+      "automation_probability": "0.77",
+      "median_annual_wage_usd": "35030",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "40680"
+    },
+    {
+      "occupation": "Accountants and Auditors",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "68150",
+      "education_required": "Bachelor's degree",
+      "number_employed": "1246540"
+    },
+    {
+      "occupation": "Advertising Sales Agents",
+      "automation_probability": "0.54",
+      "median_annual_wage_usd": "50380",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "141100"
+    },
+    {
+      "occupation": "Cargo and Freight Agents",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "41920",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "88920"
+    },
+    {
+      "occupation": "Cooks, Private Household",
+      "automation_probability": "0.3",
+      "median_annual_wage_usd": "32060",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "370"
+    },
+    {
+      "occupation": "Food Preparation Workers",
+      "automation_probability": "0.87",
+      "median_annual_wage_usd": "21440",
+      "education_required": "No formal educational credential",
+      "number_employed": "850670"
+    },
+    {
+      "occupation": "Home Appliance Repairers",
+      "automation_probability": "0.72",
+      "median_annual_wage_usd": "37570",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "33480"
+    },
+    {
+      "occupation": "Human Resources Managers",
+      "automation_probability": "0.0055",
+      "median_annual_wage_usd": "106910",
+      "education_required": "Bachelor's degree",
+      "number_employed": "129810"
+    },
+    {
+      "occupation": "Mathematical Technicians",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "49660",
+      "education_required": "Bachelor's degree",
+      "number_employed": "510"
+    },
+    {
+      "occupation": "Mental Health Counselors",
+      "automation_probability": "0.0048",
+      "median_annual_wage_usd": "42840",
+      "education_required": "Master's degree",
+      "number_employed": "139820"
+    },
+    {
+      "occupation": "Meter Readers, Utilities",
+      "automation_probability": "0.85",
+      "median_annual_wage_usd": "38940",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "34070"
+    },
+    {
+      "occupation": "Physical Therapist Aides",
+      "automation_probability": "0.61",
+      "median_annual_wage_usd": "25680",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "50030"
+    },
+    {
+      "occupation": "Printing Press Operators",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "35530",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "169910"
+    },
+    {
+      "occupation": "Psychologists, All Other",
+      "automation_probability": "0.0043",
+      "median_annual_wage_usd": "95710",
+      "education_required": "Master's degree",
+      "number_employed": "13310"
+    },
+    {
+      "occupation": "Real Estate Sales Agents",
+      "automation_probability": "0.86",
+      "median_annual_wage_usd": "44090",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "151840"
+    },
+    {
+      "occupation": "Roustabouts, Oil and Gas",
+      "automation_probability": "0.68",
+      "median_annual_wage_usd": "37340",
+      "education_required": "No formal educational credential",
+      "number_employed": "51290"
+    },
+    {
+      "occupation": "Semiconductor Processors",
+      "automation_probability": "0.88",
+      "median_annual_wage_usd": "35660",
+      "education_required": "Associate's degree",
+      "number_employed": "24430"
+    },
+    {
+      "occupation": "Sewing Machine Operators",
+      "automation_probability": "0.89",
+      "median_annual_wage_usd": "23670",
+      "education_required": "No formal educational credential",
+      "number_employed": "139500"
+    },
+    {
+      "occupation": "Agricultural Inspectors",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "42800",
+      "education_required": "Bachelor's degree",
+      "number_employed": "14710"
+    },
+    {
+      "occupation": "Air Traffic Controllers",
+      "automation_probability": "0.11",
+      "median_annual_wage_usd": "122410",
+      "education_required": "Associate's degree",
+      "number_employed": "23240"
+    },
+    {
+      "occupation": "Bridge and Lock Tenders",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "49090",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "3510"
+    },
+    {
+      "occupation": "Broadcast News Analysts",
+      "automation_probability": "0.067",
+      "median_annual_wage_usd": "56680",
+      "education_required": "Bachelor's degree",
+      "number_employed": "5070"
+    },
+    {
+      "occupation": "Conservation Scientists",
+      "automation_probability": "0.016",
+      "median_annual_wage_usd": "61810",
+      "education_required": "Bachelor's degree",
+      "number_employed": "20470"
+    },
+    {
+      "occupation": "Couriers and Messengers",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "28170",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "74120"
+    },
+    {
+      "occupation": "Database Administrators",
+      "automation_probability": "0.03",
+      "median_annual_wage_usd": "84950",
+      "education_required": "Bachelor's degree",
+      "number_employed": "113730"
+    },
+    {
+      "occupation": "Environmental Engineers",
+      "automation_probability": "0.018",
+      "median_annual_wage_usd": "84890",
+      "education_required": "Bachelor's degree",
+      "number_employed": "52280"
+    },
+    {
+      "occupation": "Log Graders and Scalers",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "37090",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "3020"
+    },
+    {
+      "occupation": "Occupational Therapists",
+      "automation_probability": "0.0035",
+      "median_annual_wage_usd": "81910",
+      "education_required": "Master's degree",
+      "number_employed": "118070"
+    },
+    {
+      "occupation": "Physicians and Surgeons",
+      "automation_probability": "0.0042",
+      "median_annual_wage_usd": "205560",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "649850"
+    },
+    {
+      "occupation": "Producers and Directors",
+      "automation_probability": "0.022",
+      "median_annual_wage_usd": "70950",
+      "education_required": "Bachelor's degree",
+      "number_employed": "114510"
+    },
+    {
+      "occupation": "Psychiatric Technicians",
+      "automation_probability": "0.043",
+      "median_annual_wage_usd": "30970",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "61720"
+    },
+    {
+      "occupation": "Recreational Therapists",
+      "automation_probability": "0.0028",
+      "median_annual_wage_usd": "46410",
+      "education_required": "Bachelor's degree",
+      "number_employed": "18100"
+    },
+    {
+      "occupation": "Tile and Marble Setters",
+      "automation_probability": "0.75",
+      "median_annual_wage_usd": "40460",
+      "education_required": "No formal educational credential",
+      "number_employed": "36830"
+    },
+    {
+      "occupation": "Tour Guides and Escorts",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "24920",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "38660"
+    },
+    {
+      "occupation": "Agricultural Engineers",
+      "automation_probability": "0.49",
+      "median_annual_wage_usd": "73640",
+      "education_required": "Bachelor's degree",
+      "number_employed": "1980"
+    },
+    {
+      "occupation": "Animal Control Workers",
+      "automation_probability": "0.21",
+      "median_annual_wage_usd": "34550",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "12970"
+    },
+    {
+      "occupation": "Biological Technicians",
+      "automation_probability": "0.3",
+      "median_annual_wage_usd": "42520",
+      "education_required": "Bachelor's degree",
+      "number_employed": "74720"
+    },
+    {
+      "occupation": "Farm Labor Contractors",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "35160",
+      "education_required": "No formal educational credential",
+      "number_employed": "810"
+    },
+    {
+      "occupation": "Film and Video Editors",
+      "automation_probability": "0.31",
+      "median_annual_wage_usd": "62760",
+      "education_required": "Bachelor's degree",
+      "number_employed": "29880"
+    },
+    {
+      "occupation": "Insurance Sales Agents",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "49990",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "385700"
+    },
+    {
+      "occupation": "Insurance Underwriters",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "67680",
+      "education_required": "Bachelor's degree",
+      "number_employed": "91650"
+    },
+    {
+      "occupation": "Office Clerks, General",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "30580",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "2955550"
+    },
+    {
+      "occupation": "Parking Lot Attendants",
+      "automation_probability": "0.87",
+      "median_annual_wage_usd": "21730",
+      "education_required": "No formal educational credential",
+      "number_employed": "146350"
+    },
+    {
+      "occupation": "Postsecondary Teachers",
+      "automation_probability": "0.032",
+      "median_annual_wage_usd": "66500",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1530010"
+    },
+    {
+      "occupation": "Respiratory Therapists",
+      "automation_probability": "0.066",
+      "median_annual_wage_usd": "58670",
+      "education_required": "Associate's degree",
+      "number_employed": "126770"
+    },
+    {
+      "occupation": "Rock Splitters, Quarry",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "34020",
+      "education_required": "No formal educational credential",
+      "number_employed": "3770"
+    },
+    {
+      "occupation": "Statistical Assistants",
+      "automation_probability": "0.66",
+      "median_annual_wage_usd": "46850",
+      "education_required": "Bachelor's degree",
+      "number_employed": "10900"
+    },
+    {
+      "occupation": "Surgical Technologists",
+      "automation_probability": "0.34",
+      "median_annual_wage_usd": "45160",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "105720"
+    },
+    {
+      "occupation": "Waiters and Waitresses",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "19990",
+      "education_required": "No formal educational credential",
+      "number_employed": "2564610"
+    },
+    {
+      "occupation": "Broadcast Technicians",
+      "automation_probability": "0.74",
+      "median_annual_wage_usd": "38550",
+      "education_required": "Associate's degree",
+      "number_employed": "30330"
+    },
+    {
+      "occupation": "Construction Laborers",
+      "automation_probability": "0.88",
+      "median_annual_wage_usd": "33430",
+      "education_required": "No formal educational credential",
+      "number_employed": "912100"
+    },
+    {
+      "occupation": "Construction Managers",
+      "automation_probability": "0.071",
+      "median_annual_wage_usd": "89300",
+      "education_required": "Bachelor's degree",
+      "number_employed": "249650"
+    },
+    {
+      "occupation": "Correspondence Clerks",
+      "automation_probability": "0.86",
+      "median_annual_wage_usd": "36370",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "6780"
+    },
+    {
+      "occupation": "Etchers and Engravers",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "31110",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "9520"
+    },
+    {
+      "occupation": "Fish and Game Wardens",
+      "automation_probability": "0.08",
+      "median_annual_wage_usd": "51730",
+      "education_required": "Bachelor's degree",
+      "number_employed": "6610"
+    },
+    {
+      "occupation": "Food Service Managers",
+      "automation_probability": "0.083",
+      "median_annual_wage_usd": "50820",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "201470"
+    },
+    {
+      "occupation": "Musicians and Singers",
+      "automation_probability": "0.074",
+      "median_annual_wage_usd": "45000.6",
+      "education_required": "No formal educational credential",
+      "number_employed": "40110"
+    },
+    {
+      "occupation": "Opticians, Dispensing",
+      "automation_probability": "0.71",
+      "median_annual_wage_usd": "35530",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "75270"
+    },
+    {
+      "occupation": "Pile-Driver Operators",
+      "automation_probability": "0.82",
+      "median_annual_wage_usd": "55070",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "3570"
+    },
+    {
+      "occupation": "Postal Service Clerks",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "56790",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "82030"
+    },
+    {
+      "occupation": "Power Plant Operators",
+      "automation_probability": "0.85",
+      "median_annual_wage_usd": "74690",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "35010"
+    },
+    {
+      "occupation": "Avionics Technicians",
+      "automation_probability": "0.7",
+      "median_annual_wage_usd": "60760",
+      "education_required": "Associate's degree",
+      "number_employed": "17330"
+    },
+    {
+      "occupation": "Biomedical Engineers",
+      "automation_probability": "0.037",
+      "median_annual_wage_usd": "85620",
+      "education_required": "Bachelor's degree",
+      "number_employed": "20590"
+    },
+    {
+      "occupation": "Chefs and Head Cooks",
+      "automation_probability": "0.1",
+      "median_annual_wage_usd": "43180",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "134190"
+    },
+    {
+      "occupation": "Chemical Technicians",
+      "automation_probability": "0.57",
+      "median_annual_wage_usd": "45840",
+      "education_required": "Associate's degree",
+      "number_employed": "65510"
+    },
+    {
+      "occupation": "Computer Programmers",
+      "automation_probability": "0.48",
+      "median_annual_wage_usd": "79840",
+      "education_required": "Bachelor's degree",
+      "number_employed": "271200"
+    },
+    {
+      "occupation": "Dietetic Technicians",
+      "automation_probability": "0.13",
+      "median_annual_wage_usd": "26350",
+      "education_required": "Associate's degree",
+      "number_employed": "32240"
+    },
+    {
+      "occupation": "Driver/Sales Workers",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "22830",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "426310"
+    },
+    {
+      "occupation": "Electrical Engineers",
+      "automation_probability": "0.1",
+      "median_annual_wage_usd": "94210",
+      "education_required": "Bachelor's degree",
+      "number_employed": "183770"
+    },
+    {
+      "occupation": "Engineers, All Other",
+      "automation_probability": "0.014",
+      "median_annual_wage_usd": "97300",
+      "education_required": "Bachelor's degree",
+      "number_employed": "123390"
+    },
+    {
+      "occupation": "Helpers–Electricians",
+      "automation_probability": "0.74",
+      "median_annual_wage_usd": "29530",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "71890"
+    },
+    {
+      "occupation": "Hunters and Trappers",
+      "automation_probability": "0.77",
+      "median_annual_wage_usd": "27110",
+      "education_required": "No formal educational credential",
+      "number_employed": "520"
+    },
+    {
+      "occupation": "Industrial Engineers",
+      "automation_probability": "0.029",
+      "median_annual_wage_usd": "84310",
+      "education_required": "Bachelor's degree",
+      "number_employed": "256550"
+    },
+    {
+      "occupation": "Landscape Architects",
+      "automation_probability": "0.045",
+      "median_annual_wage_usd": "63480",
+      "education_required": "Bachelor's degree",
+      "number_employed": "19420"
+    },
+    {
+      "occupation": "Locomotive Engineers",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "57670",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "39900"
+    },
+    {
+      "occupation": "Materials Scientists",
+      "automation_probability": "0.021",
+      "median_annual_wage_usd": "99430",
+      "education_required": "Bachelor's degree",
+      "number_employed": "7750"
+    },
+    {
+      "occupation": "Mechanical Engineers",
+      "automation_probability": "0.011",
+      "median_annual_wage_usd": "84190",
+      "education_required": "Bachelor's degree",
+      "number_employed": "285790"
+    },
+    {
+      "occupation": "Motorcycle Mechanics",
+      "automation_probability": "0.79",
+      "median_annual_wage_usd": "34720",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "16000"
+    },
+    {
+      "occupation": "Pest Control Workers",
+      "automation_probability": "0.66",
+      "median_annual_wage_usd": "33040",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "72830"
+    },
+    {
+      "occupation": "Pharmacy Technicians",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "30920",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "398390"
+    },
+    {
+      "occupation": "Physician Assistants",
+      "automation_probability": "0.14",
+      "median_annual_wage_usd": "101480",
+      "education_required": "Master's degree",
+      "number_employed": "104050"
+    },
+    {
+      "occupation": "Political Scientists",
+      "automation_probability": "0.039",
+      "median_annual_wage_usd": "114290",
+      "education_required": "Master's degree",
+      "number_employed": "6350"
+    },
+    {
+      "occupation": "Radiation Therapists",
+      "automation_probability": "0.34",
+      "median_annual_wage_usd": "80160",
+      "education_required": "Associate's degree",
+      "number_employed": "17450"
+    },
+    {
+      "occupation": "Residential Advisors",
+      "automation_probability": "0.064",
+      "median_annual_wage_usd": "25570",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "110330"
+    },
+    {
+      "occupation": "Roof Bolters, Mining",
+      "automation_probability": "0.49",
+      "median_annual_wage_usd": "56780",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "3930"
+    },
+    {
+      "occupation": "Skincare Specialists",
+      "automation_probability": "0.29",
+      "median_annual_wage_usd": "30270",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "43980"
+    },
+    {
+      "occupation": "Aerospace Engineers",
+      "automation_probability": "0.017",
+      "median_annual_wage_usd": "109650",
+      "education_required": "Bachelor's degree",
+      "number_employed": "68510"
+    },
+    {
+      "occupation": "Compliance Officers",
+      "automation_probability": "0.08",
+      "median_annual_wage_usd": "66540",
+      "education_required": "Bachelor's degree",
+      "number_employed": "273910"
+    },
+    {
+      "occupation": "Financial Examiners",
+      "automation_probability": "0.17",
+      "median_annual_wage_usd": "79280",
+      "education_required": "Bachelor's degree",
+      "number_employed": "49750"
+    },
+    {
+      "occupation": "Furniture Finishers",
+      "automation_probability": "0.87",
+      "median_annual_wage_usd": "30550",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "17370"
+    },
+    {
+      "occupation": "Gaming Cage Workers",
+      "automation_probability": "0.39",
+      "median_annual_wage_usd": "25990",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "18810"
+    },
+    {
+      "occupation": "Gas Plant Operators",
+      "automation_probability": "0.78",
+      "median_annual_wage_usd": "67580",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "17350"
+    },
+    {
+      "occupation": "Judicial Law Clerks",
+      "automation_probability": "0.41",
+      "median_annual_wage_usd": "51760",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "13410"
+    },
+    {
+      "occupation": "Library Technicians",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "32890",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "93410"
+    },
+    {
+      "occupation": "Management Analysts",
+      "automation_probability": "0.13",
+      "median_annual_wage_usd": "81330",
+      "education_required": "Bachelor's degree",
+      "number_employed": "637690"
+    },
+    {
+      "occupation": "Managers, All Other",
+      "automation_probability": "0.25",
+      "median_annual_wage_usd": "104970",
+      "education_required": "Bachelor's degree",
+      "number_employed": "403670"
+    },
+    {
+      "occupation": "Materials Engineers",
+      "automation_probability": "0.021",
+      "median_annual_wage_usd": "93310",
+      "education_required": "Bachelor's degree",
+      "number_employed": "26800"
+    },
+    {
+      "occupation": "Mechanical Drafters",
+      "automation_probability": "0.68",
+      "median_annual_wage_usd": "54480",
+      "education_required": "Associate's degree",
+      "number_employed": "63630"
+    },
+    {
+      "occupation": "Medical Secretaries",
+      "automation_probability": "0.81",
+      "median_annual_wage_usd": "33730",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "556820"
+    },
+    {
+      "occupation": "Motorboat Operators",
+      "automation_probability": "0.62",
+      "median_annual_wage_usd": "40210",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "3290"
+    },
+    {
+      "occupation": "New Accounts Clerks",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "34990",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "41630"
+    },
+    {
+      "occupation": "Nuclear Technicians",
+      "automation_probability": "0.85",
+      "median_annual_wage_usd": "79140",
+      "education_required": "Associate's degree",
+      "number_employed": "6840"
+    },
+    {
+      "occupation": "Patternmakers, Wood",
+      "automation_probability": "0.91",
+      "median_annual_wage_usd": "46510",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "970"
+    },
+    {
+      "occupation": "Personal Care Aides",
+      "automation_probability": "0.74",
+      "median_annual_wage_usd": "21920",
+      "education_required": "No formal educational credential",
+      "number_employed": "1492250"
+    },
+    {
+      "occupation": "Petroleum Engineers",
+      "automation_probability": "0.16",
+      "median_annual_wage_usd": "128230",
+      "education_required": "Bachelor's degree",
+      "number_employed": "32780"
+    },
+    {
+      "occupation": "Physical Therapists",
+      "automation_probability": "0.021",
+      "median_annual_wage_usd": "85400",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "216920"
+    },
+    {
+      "occupation": "Purchasing Managers",
+      "automation_probability": "0.03",
+      "median_annual_wage_usd": "111590",
+      "education_required": "Bachelor's degree",
+      "number_employed": "71750"
+    },
+    {
+      "occupation": "Real Estate Brokers",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "56790",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "40850"
+    },
+    {
+      "occupation": "Retail Salespersons",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "22680",
+      "education_required": "No formal educational credential",
+      "number_employed": "4528550"
+    },
+    {
+      "occupation": "Sheet Metal Workers",
+      "automation_probability": "0.82",
+      "median_annual_wage_usd": "46940",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "134450"
+    },
+    {
+      "occupation": "Telephone Operators",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "37000",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "8860"
+    },
+    {
+      "occupation": "Tool and Die Makers",
+      "automation_probability": "0.84",
+      "median_annual_wage_usd": "51060",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "72210"
+    },
+    {
+      "occupation": "Traffic Technicians",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "45150",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "6410"
+    },
+    {
+      "occupation": "Writers and Authors",
+      "automation_probability": "0.038",
+      "median_annual_wage_usd": "61240",
+      "education_required": "Bachelor's degree",
+      "number_employed": "44690"
+    },
+    {
+      "occupation": "Chemical Engineers",
+      "automation_probability": "0.017",
+      "median_annual_wage_usd": "98340",
+      "education_required": "Bachelor's degree",
+      "number_employed": "31990"
+    },
+    {
+      "occupation": "Coaches and Scouts",
+      "automation_probability": "0.013",
+      "median_annual_wage_usd": "31460",
+      "education_required": "Bachelor's degree",
+      "number_employed": "230930"
+    },
+    {
+      "occupation": "Computer Operators",
+      "automation_probability": "0.78",
+      "median_annual_wage_usd": "42270",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "46810"
+    },
+    {
+      "occupation": "Cooks, Short Order",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "21890",
+      "education_required": "No formal educational credential",
+      "number_employed": "183990"
+    },
+    {
+      "occupation": "Costume Attendants",
+      "automation_probability": "0.61",
+      "median_annual_wage_usd": "45900",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "6640"
+    },
+    {
+      "occupation": "Desktop Publishers",
+      "automation_probability": "0.16",
+      "median_annual_wage_usd": "41090",
+      "education_required": "Associate's degree",
+      "number_employed": "13090"
+    },
+    {
+      "occupation": "Financial Analysts",
+      "automation_probability": "0.23",
+      "median_annual_wage_usd": "81760",
+      "education_required": "Bachelor's degree",
+      "number_employed": "281610"
+    },
+    {
+      "occupation": "Financial Managers",
+      "automation_probability": "0.069",
+      "median_annual_wage_usd": "121750",
+      "education_required": "Bachelor's degree",
+      "number_employed": "543300"
+    },
+    {
+      "occupation": "Funeral Attendants",
+      "automation_probability": "0.37",
+      "median_annual_wage_usd": "24830",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "35770"
+    },
+    {
+      "occupation": "Gaming Supervisors",
+      "automation_probability": "0.28",
+      "median_annual_wage_usd": "50520",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "22130"
+    },
+    {
+      "occupation": "Helpers–Carpenters",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "28810",
+      "education_required": "No formal educational credential",
+      "number_employed": "35890"
+    },
+    {
+      "occupation": "Interior Designers",
+      "automation_probability": "0.022",
+      "median_annual_wage_usd": "49810",
+      "education_required": "Bachelor's degree",
+      "number_employed": "53160"
+    },
+    {
+      "occupation": "Marketing Managers",
+      "automation_probability": "0.014",
+      "median_annual_wage_usd": "131180",
+      "education_required": "Bachelor's degree",
+      "number_employed": "205900"
+    },
+    {
+      "occupation": "Massage Therapists",
+      "automation_probability": "0.54",
+      "median_annual_wage_usd": "39860",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "95830"
+    },
+    {
+      "occupation": "Medical Assistants",
+      "automation_probability": "0.3",
+      "median_annual_wage_usd": "31540",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "623560"
+    },
+    {
+      "occupation": "Model Makers, Wood",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "40890",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1040"
+    },
+    {
+      "occupation": "Parts Salespersons",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "29780",
+      "education_required": "No formal educational credential",
+      "number_employed": "248740"
+    },
+    {
+      "occupation": "Procurement Clerks",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "41410",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "72120"
+    },
+    {
+      "occupation": "Rail Car Repairers",
+      "automation_probability": "0.88",
+      "median_annual_wage_usd": "55000",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "22090"
+    },
+    {
+      "occupation": "Recreation Workers",
+      "automation_probability": "0.0061",
+      "median_annual_wage_usd": "23870",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "336880"
+    },
+    {
+      "occupation": "Survey Researchers",
+      "automation_probability": "0.23",
+      "median_annual_wage_usd": "54470",
+      "education_required": "Master's degree",
+      "number_employed": "11930"
+    },
+    {
+      "occupation": "Teacher Assistants",
+      "automation_probability": "0.56",
+      "median_annual_wage_usd": "25410",
+      "education_required": "Some college, no degree",
+      "number_employed": "1263820"
+    },
+    {
+      "occupation": "Animal Scientists",
+      "automation_probability": "0.061",
+      "median_annual_wage_usd": "60330",
+      "education_required": "Bachelor's degree",
+      "number_employed": "2470"
+    },
+    {
+      "occupation": "Athletic Trainers",
+      "automation_probability": "0.0071",
+      "median_annual_wage_usd": "45630",
+      "education_required": "Bachelor's degree",
+      "number_employed": "24130"
+    },
+    {
+      "occupation": "Bicycle Repairers",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "27630",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "12560"
+    },
+    {
+      "occupation": "Carpet Installers",
+      "automation_probability": "0.87",
+      "median_annual_wage_usd": "38280",
+      "education_required": "No formal educational credential",
+      "number_employed": "25660"
+    },
+    {
+      "occupation": "Childcare Workers",
+      "automation_probability": "0.084",
+      "median_annual_wage_usd": "21170",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "569370"
+    },
+    {
+      "occupation": "Commercial Divers",
+      "automation_probability": "0.18",
+      "median_annual_wage_usd": "49090",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "3370"
+    },
+    {
+      "occupation": "Commercial Pilots",
+      "automation_probability": "0.55",
+      "median_annual_wage_usd": "77200",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "38980"
+    },
+    {
+      "occupation": "Cooks, Restaurant",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "24140",
+      "education_required": "No formal educational credential",
+      "number_employed": "1217370"
+    },
+    {
+      "occupation": "Credit Counselors",
+      "automation_probability": "0.04",
+      "median_annual_wage_usd": "44380",
+      "education_required": "Bachelor's degree",
+      "number_employed": "34110"
+    },
+    {
+      "occupation": "Data Entry Keyers",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "30100",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "194810"
+    },
+    {
+      "occupation": "Dental Assistants",
+      "automation_probability": "0.51",
+      "median_annual_wage_usd": "36940",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "327290"
+    },
+    {
+      "occupation": "Dental Hygienists",
+      "automation_probability": "0.68",
+      "median_annual_wage_usd": "72910",
+      "education_required": "Associate's degree",
+      "number_employed": "204990"
+    },
+    {
+      "occupation": "Dentists, General",
+      "automation_probability": "0.0044",
+      "median_annual_wage_usd": "153900",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "105620"
+    },
+    {
+      "occupation": "Fashion Designers",
+      "automation_probability": "0.021",
+      "median_annual_wage_usd": "65170",
+      "education_required": "Bachelor's degree",
+      "number_employed": "19230"
+    },
+    {
+      "occupation": "Flight Attendants",
+      "automation_probability": "0.35",
+      "median_annual_wage_usd": "48500",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "113390"
+    },
+    {
+      "occupation": "Graphic Designers",
+      "automation_probability": "0.082",
+      "median_annual_wage_usd": "47640",
+      "education_required": "Bachelor's degree",
+      "number_employed": "210710"
+    },
+    {
+      "occupation": "Home Health Aides",
+      "automation_probability": "0.39",
+      "median_annual_wage_usd": "22600",
+      "education_required": "No formal educational credential",
+      "number_employed": "814300"
+    },
+    {
+      "occupation": "Legal Secretaries",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "44180",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "191200"
+    },
+    {
+      "occupation": "Locomotive Firers",
+      "automation_probability": "0.93",
+      "median_annual_wage_usd": "58230",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1210"
+    },
+    {
+      "occupation": "Nuclear Engineers",
+      "automation_probability": "0.07",
+      "median_annual_wage_usd": "102220",
+      "education_required": "Bachelor's degree",
+      "number_employed": "17680"
+    },
+    {
+      "occupation": "Psychiatric Aides",
+      "automation_probability": "0.47",
+      "median_annual_wage_usd": "26720",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "67410"
+    },
+    {
+      "occupation": "Registered Nurses",
+      "automation_probability": "0.009",
+      "median_annual_wage_usd": "124830",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "9800"
+    },
+    {
+      "occupation": "Technical Writers",
+      "automation_probability": "0.89",
+      "median_annual_wage_usd": "69850",
+      "education_required": "Bachelor's degree",
+      "number_employed": "49780"
+    },
+    {
+      "occupation": "Brokerage Clerks",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "49200",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "59820"
+    },
+    {
+      "occupation": "Chief Executives",
+      "automation_probability": "0.015",
+      "median_annual_wage_usd": "181210",
+      "education_required": "Bachelor's degree",
+      "number_employed": "223260"
+    },
+    {
+      "occupation": "Cooks, Fast Food",
+      "automation_probability": "0.81",
+      "median_annual_wage_usd": "19860",
+      "education_required": "No formal educational credential",
+      "number_employed": "513200"
+    },
+    {
+      "occupation": "Dredge Operators",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "42420",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1760"
+    },
+    {
+      "occupation": "Floral Designers",
+      "automation_probability": "0.047",
+      "median_annual_wage_usd": "25850",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "43990"
+    },
+    {
+      "occupation": "Food Batchmakers",
+      "automation_probability": "0.7",
+      "median_annual_wage_usd": "27810",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "148540"
+    },
+    {
+      "occupation": "Health Educators",
+      "automation_probability": "0.045",
+      "median_annual_wage_usd": "53070",
+      "education_required": "Bachelor's degree",
+      "number_employed": "57570"
+    },
+    {
+      "occupation": "Lodging Managers",
+      "automation_probability": "0.0039",
+      "median_annual_wage_usd": "51840",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "35410"
+    },
+    {
+      "occupation": "Segmental Pavers",
+      "automation_probability": "0.83",
+      "median_annual_wage_usd": "33530",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1720"
+    },
+    {
+      "occupation": "Slot Supervisors",
+      "automation_probability": "0.54",
+      "median_annual_wage_usd": "36080",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "7640"
+    },
+    {
+      "occupation": "Wellhead Pumpers",
+      "automation_probability": "0.84",
+      "median_annual_wage_usd": "49610",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "11610"
+    },
+    {
+      "occupation": "Animal Breeders",
+      "automation_probability": "0.95",
+      "median_annual_wage_usd": "35690",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1270"
+    },
+    {
+      "occupation": "Animal Trainers",
+      "automation_probability": "0.1",
+      "median_annual_wage_usd": "27690",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "13590"
+    },
+    {
+      "occupation": "Budget Analysts",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "73840",
+      "education_required": "Bachelor's degree",
+      "number_employed": "54700"
+    },
+    {
+      "occupation": "Civil Engineers",
+      "automation_probability": "0.019",
+      "median_annual_wage_usd": "83540",
+      "education_required": "Bachelor's degree",
+      "number_employed": "287800"
+    },
+    {
+      "occupation": "Cost Estimators",
+      "automation_probability": "0.57",
+      "median_annual_wage_usd": "61790",
+      "education_required": "Bachelor's degree",
+      "number_employed": "214610"
+    },
+    {
+      "occupation": "Court Reporters",
+      "automation_probability": "0.5",
+      "median_annual_wage_usd": "51320",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "17700"
+    },
+    {
+      "occupation": "Credit Analysts",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "69930",
+      "education_required": "Bachelor's degree",
+      "number_employed": "72930"
+    },
+    {
+      "occupation": "Crossing Guards",
+      "automation_probability": "0.49",
+      "median_annual_wage_usd": "26700",
+      "education_required": "No formal educational credential",
+      "number_employed": "72900"
+    },
+    {
+      "occupation": "Epidemiologists",
+      "automation_probability": "0.2",
+      "median_annual_wage_usd": "70820",
+      "education_required": "Master's degree",
+      "number_employed": "5690"
+    },
+    {
+      "occupation": "Gaming Managers",
+      "automation_probability": "0.091",
+      "median_annual_wage_usd": "69180",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "4280"
+    },
+    {
+      "occupation": "Helpers–Roofers",
+      "automation_probability": "0.72",
+      "median_annual_wage_usd": "27670",
+      "education_required": "No formal educational credential",
+      "number_employed": "10190"
+    },
+    {
+      "occupation": "Microbiologists",
+      "automation_probability": "0.012",
+      "median_annual_wage_usd": "66850",
+      "education_required": "Bachelor's degree",
+      "number_employed": "21670"
+    },
+    {
+      "occupation": "Prosthodontists",
+      "automation_probability": "0.055",
+      "median_annual_wage_usd": "126050",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "750"
+    },
+    {
+      "occupation": "Radio Operators",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "46250",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "870"
+    },
+    {
+      "occupation": "Sales Engineers",
+      "automation_probability": "0.0041",
+      "median_annual_wage_usd": "100000",
+      "education_required": "Bachelor's degree",
+      "number_employed": "74330"
+    },
+    {
+      "occupation": "Security Guards",
+      "automation_probability": "0.84",
+      "median_annual_wage_usd": "25770",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1103120"
+    },
+    {
+      "occupation": "Team Assemblers",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "30060",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1112780"
+    },
+    {
+      "occupation": "Watch Repairers",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "36740",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "1620"
+    },
+    {
+      "occupation": "Choreographers",
+      "automation_probability": "0.004",
+      "median_annual_wage_usd": "48240",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "5160"
+    },
+    {
+      "occupation": "Fence Erectors",
+      "automation_probability": "0.92",
+      "median_annual_wage_usd": "33150",
+      "education_required": "No formal educational credential",
+      "number_employed": "21500"
+    },
+    {
+      "occupation": "Gaming Dealers",
+      "automation_probability": "0.96",
+      "median_annual_wage_usd": "19290",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "94570"
+    },
+    {
+      "occupation": "Mathematicians",
+      "automation_probability": "0.047",
+      "median_annual_wage_usd": "105810",
+      "education_required": "Master's degree",
+      "number_employed": "2730"
+    },
+    {
+      "occupation": "Pharmacy Aides",
+      "automation_probability": "0.72",
+      "median_annual_wage_usd": "25240",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "36660"
+    },
+    {
+      "occupation": "Sales Managers",
+      "automation_probability": "0.013",
+      "median_annual_wage_usd": "117960",
+      "education_required": "Bachelor's degree",
+      "number_employed": "365230"
+    },
+    {
+      "occupation": "Ship Engineers",
+      "automation_probability": "0.041",
+      "median_annual_wage_usd": "70570",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "9750"
+    },
+    {
+      "occupation": "Art Directors",
+      "automation_probability": "0.023",
+      "median_annual_wage_usd": "89820",
+      "education_required": "Bachelor's degree",
+      "number_employed": "36210"
+    },
+    {
+      "occupation": "Chiropractors",
+      "automation_probability": "0.027",
+      "median_annual_wage_usd": "67520",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "32960"
+    },
+    {
+      "occupation": "Craft Artists",
+      "automation_probability": "0.035",
+      "median_annual_wage_usd": "33440",
+      "education_required": "No formal educational credential",
+      "number_employed": "5070"
+    },
+    {
+      "occupation": "Loan Officers",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "63650",
+      "education_required": "Bachelor's degree",
+      "number_employed": "305700"
+    },
+    {
+      "occupation": "Orthodontists",
+      "automation_probability": "0.023",
+      "median_annual_wage_usd": "228780",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "5200"
+    },
+    {
+      "occupation": "Photographers",
+      "automation_probability": "0.021",
+      "median_annual_wage_usd": "34070",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "48660"
+    },
+    {
+      "occupation": "Statisticians",
+      "automation_probability": "0.22",
+      "median_annual_wage_usd": "80500",
+      "education_required": "Master's degree",
+      "number_employed": "33440"
+    },
+    {
+      "occupation": "Tax Preparers",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "36550",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "70030"
+    },
+    {
+      "occupation": "Telemarketers",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "24300",
+      "education_required": "No formal educational credential",
+      "number_employed": "215290"
+    },
+    {
+      "occupation": "Tire Builders",
+      "automation_probability": "0.94",
+      "median_annual_wage_usd": "41680",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "22280"
+    },
+    {
+      "occupation": "Travel Agents",
+      "automation_probability": "0.099",
+      "median_annual_wage_usd": "36460",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "68680"
+    },
+    {
+      "occupation": "Travel Guides",
+      "automation_probability": "0.057",
+      "median_annual_wage_usd": "32100",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "3030"
+    },
+    {
+      "occupation": "Veterinarians",
+      "automation_probability": "0.038",
+      "median_annual_wage_usd": "88770",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "67650"
+    },
+    {
+      "occupation": "Audiologists",
+      "automation_probability": "0.0033",
+      "median_annual_wage_usd": "75980",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "12310"
+    },
+    {
+      "occupation": "Boilermakers",
+      "automation_probability": "0.68",
+      "median_annual_wage_usd": "62060",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "16660"
+    },
+    {
+      "occupation": "Electricians",
+      "automation_probability": "0.15",
+      "median_annual_wage_usd": "52720",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "607120"
+    },
+    {
+      "occupation": "Firefighters",
+      "automation_probability": "0.17",
+      "median_annual_wage_usd": "48030",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "315910"
+    },
+    {
+      "occupation": "Hydrologists",
+      "automation_probability": "0.014",
+      "median_annual_wage_usd": "80480",
+      "education_required": "Bachelor's degree",
+      "number_employed": "6300"
+    },
+    {
+      "occupation": "Logisticians",
+      "automation_probability": "0.012",
+      "median_annual_wage_usd": "74170",
+      "education_required": "Bachelor's degree",
+      "number_employed": "146060"
+    },
+    {
+      "occupation": "Optometrists",
+      "automation_probability": "0.14",
+      "median_annual_wage_usd": "106140",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "36430"
+    },
+    {
+      "occupation": "Order Clerks",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "33370",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "176850"
+    },
+    {
+      "occupation": "Paperhangers",
+      "automation_probability": "0.87",
+      "median_annual_wage_usd": "33770",
+      "education_required": "No formal educational credential",
+      "number_employed": "3190"
+    },
+    {
+      "occupation": "Sewers, Hand",
+      "automation_probability": "0.99",
+      "median_annual_wage_usd": "24520",
+      "education_required": "No formal educational credential",
+      "number_employed": "6540"
+    },
+    {
+      "occupation": "Sociologists",
+      "automation_probability": "0.059",
+      "median_annual_wage_usd": "79750",
+      "education_required": "Master's degree",
+      "number_employed": "2870"
+    },
+    {
+      "occupation": "Upholsterers",
+      "automation_probability": "0.39",
+      "median_annual_wage_usd": "33050",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "32520"
+    },
+    {
+      "occupation": "Astronomers",
+      "automation_probability": "0.041",
+      "median_annual_wage_usd": "104740",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "1830"
+    },
+    {
+      "occupation": "Dishwashers",
+      "automation_probability": "0.77",
+      "median_annual_wage_usd": "20800",
+      "education_required": "No formal educational credential",
+      "number_employed": "506450"
+    },
+    {
+      "occupation": "File Clerks",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "29090",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "130950"
+    },
+    {
+      "occupation": "Geographers",
+      "automation_probability": "0.25",
+      "median_annual_wage_usd": "74260",
+      "education_required": "Bachelor's degree",
+      "number_employed": "1370"
+    },
+    {
+      "occupation": "Millwrights",
+      "automation_probability": "0.59",
+      "median_annual_wage_usd": "52440",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "39670"
+    },
+    {
+      "occupation": "Pharmacists",
+      "automation_probability": "0.012",
+      "median_annual_wage_usd": "122230",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "305510"
+    },
+    {
+      "occupation": "Hosts and Hostesses",
+      "automation_probability": "0.0046",
+      "median_annual_wage_usd": "124830",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "9800"
+    },
+    {
+      "occupation": "Stonemasons",
+      "automation_probability": "0.89",
+      "median_annual_wage_usd": "39780",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "13190"
+    },
+    {
+      "occupation": "Archivists",
+      "automation_probability": "0.76",
+      "median_annual_wage_usd": "50500",
+      "education_required": "Master's degree",
+      "number_employed": "5760"
+    },
+    {
+      "occupation": "Bartenders",
+      "automation_probability": "0.77",
+      "median_annual_wage_usd": "20800",
+      "education_required": "No formal educational credential",
+      "number_employed": "603320"
+    },
+    {
+      "occupation": "Carpenters",
+      "automation_probability": "0.72",
+      "median_annual_wage_usd": "43600",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "676980"
+    },
+    {
+      "occupation": "Concierges",
+      "automation_probability": "0.21",
+      "median_annual_wage_usd": "29250",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "32020"
+    },
+    {
+      "occupation": "Economists",
+      "automation_probability": "0.43",
+      "median_annual_wage_usd": "101050",
+      "education_required": "Master's degree",
+      "number_employed": "19380"
+    },
+    {
+      "occupation": "Historians",
+      "automation_probability": "0.44",
+      "median_annual_wage_usd": "55110",
+      "education_required": "Master's degree",
+      "number_employed": "2950"
+    },
+    {
+      "occupation": "Librarians",
+      "automation_probability": "0.65",
+      "median_annual_wage_usd": "57680",
+      "education_required": "Master's degree",
+      "number_employed": "129350"
+    },
+    {
+      "occupation": "Machinists",
+      "automation_probability": "0.65",
+      "median_annual_wage_usd": "41700",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "391120"
+    },
+    {
+      "occupation": "Physicists",
+      "automation_probability": "0.1",
+      "median_annual_wage_usd": "115870",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "16680"
+    },
+    {
+      "occupation": "Pipelayers",
+      "automation_probability": "0.62",
+      "median_annual_wage_usd": "38410",
+      "education_required": "No formal educational credential",
+      "number_employed": "39620"
+    },
+    {
+      "occupation": "Shampooers",
+      "automation_probability": "0.79",
+      "median_annual_wage_usd": "19700",
+      "education_required": "No formal educational credential",
+      "number_employed": "15240"
+    },
+    {
+      "occupation": "Actuaries",
+      "automation_probability": "0.21",
+      "median_annual_wage_usd": "100610",
+      "education_required": "Bachelor's degree",
+      "number_employed": "19940"
+    },
+    {
+      "occupation": "Embalmers",
+      "automation_probability": "0.54",
+      "median_annual_wage_usd": "40150",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "3710"
+    },
+    {
+      "occupation": "Foresters",
+      "automation_probability": "0.0081",
+      "median_annual_wage_usd": "58700",
+      "education_required": "Bachelor's degree",
+      "number_employed": "8420"
+    },
+    {
+      "occupation": "Surveyors",
+      "automation_probability": "0.38",
+      "median_annual_wage_usd": "59390",
+      "education_required": "Bachelor's degree",
+      "number_employed": "43340"
+    },
+    {
+      "occupation": "Bailiffs",
+      "automation_probability": "0.36",
+      "median_annual_wage_usd": "42670",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "17880"
+    },
+    {
+      "occupation": "Cashiers",
+      "automation_probability": "0.97",
+      "median_annual_wage_usd": "20180",
+      "education_required": "No formal educational credential",
+      "number_employed": "3541010"
+    },
+    {
+      "occupation": "Chemists",
+      "automation_probability": "0.1",
+      "median_annual_wage_usd": "73740",
+      "education_required": "Bachelor's degree",
+      "number_employed": "86660"
+    },
+    {
+      "occupation": "Curators",
+      "automation_probability": "0.0068",
+      "median_annual_wage_usd": "53360",
+      "education_required": "Master's degree",
+      "number_employed": "11170"
+    },
+    {
+      "occupation": "Glaziers",
+      "automation_probability": "0.73",
+      "median_annual_wage_usd": "41920",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "47140"
+    },
+    {
+      "occupation": "Barbers",
+      "automation_probability": "0.8",
+      "median_annual_wage_usd": "25760",
+      "education_required": "Postsecondary nondegree award",
+      "number_employed": "15900"
+    },
+    {
+      "occupation": "Dancers",
+      "automation_probability": "0.13",
+      "median_annual_wage_usd": "24594.6",
+      "education_required": "No formal educational credential",
+      "number_employed": "10060"
+    },
+    {
+      "occupation": "Editors",
+      "automation_probability": "0.055",
+      "median_annual_wage_usd": "57210",
+      "education_required": "Bachelor's degree",
+      "number_employed": "97170"
+    },
+    {
+      "occupation": "Fallers",
+      "automation_probability": "0.76",
+      "median_annual_wage_usd": "37370",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "5370"
+    },
+    {
+      "occupation": "Lawyers",
+      "automation_probability": "0.035",
+      "median_annual_wage_usd": "118160",
+      "education_required": "Doctoral or professional degree",
+      "number_employed": "619530"
+    },
+    {
+      "occupation": "Riggers",
+      "automation_probability": "0.89",
+      "median_annual_wage_usd": "45690",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "21020"
+    },
+    {
+      "occupation": "Roofers",
+      "automation_probability": "0.9",
+      "median_annual_wage_usd": "37760",
+      "education_required": "No formal educational credential",
+      "number_employed": "116410"
+    },
+    {
+      "occupation": "Tellers",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "27260",
+      "education_required": "High school diploma or equivalent",
+      "number_employed": "496760"
+    },
+    {
+      "occupation": "Actors",
+      "automation_probability": "0.37",
+      "median_annual_wage_usd": "33473",
+      "education_required": "Some college, no degree",
+      "number_employed": "48620"
+    },
+    {
+      "occupation": "Bakers",
+      "automation_probability": "0.89",
+      "median_annual_wage_usd": "25090",
+      "education_required": "No formal educational credential",
+      "number_employed": "180450"
+    },
+    {
+      "occupation": "Clergy",
+      "automation_probability": "0.0081",
+      "median_annual_wage_usd": "45740",
+      "education_required": "Bachelor's degree",
+      "number_employed": "49320"
+    },
+    {
+      "occupation": "Models",
+      "automation_probability": "0.98",
+      "median_annual_wage_usd": "21870",
+      "education_required": "No formal educational credential",
+      "number_employed": "4390"
+    },
+    {
+      "occupation": "Tapers",
+      "automation_probability": "0.62",
+      "median_annual_wage_usd": "48990",
+      "education_required": "No formal educational credential",
+      "number_employed": "18480"
+    }
+  ],
+  "meta": {
+    "title": "US Job Automation Probability by Occupation - Free Download",
+    "description": "Estimated probability of automation for 702 US occupations, with median wages and employment levels, based on 2016 Bureau of Labor Statistics data. Contains 702 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US Job Automation Probability by Occupation | ListBase",
+    "seo_description": "Download US Job Automation Probability by Occupation — 702 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 702 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/plotly/datasets"
+    ]
+  }
+}

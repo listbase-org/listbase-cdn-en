@@ -1,0 +1,100 @@
+{
+  "id": "td-unesco-heritage",
+  "name": "Chad — UNESCO World Heritage Sites",
+  "title": "Chad — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Chad, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 1400,
+      "name": "Lakes of Ounianga",
+      "category": "natural",
+      "date_inscribed": 2012,
+      "criteria": "n7",
+      "lat": 19.055,
+      "lon": 20.50555556,
+      "area_hectares": 62808,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "td",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Chad — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Chad, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 1 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Chad — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Chad — UNESCO World Heritage Sites dataset with 1 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

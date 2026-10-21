@@ -1,0 +1,256 @@
+{
+  "id": "gn-airports-iata",
+  "name": "Guinea — IATA Airports",
+  "title": "Guinea — IATA Airports",
+  "description": "Airports with IATA codes in Guinea: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BKJ",
+      "icao_code": "GUOK",
+      "name": "Boke",
+      "city_name_list": "Boké",
+      "country_code": "GN",
+      "country_name": "Guinea",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Boke Region",
+      "latitude": 10.967,
+      "longitude": -14.281,
+      "elevation": 69,
+      "timezone": "Africa/Conakry",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bok%C3%A9_Baralande_Airport"
+    },
+    {
+      "iata_code": "CKY",
+      "icao_code": "GUCY",
+      "name": "Conakry International Airport",
+      "city_name_list": "Conakry",
+      "country_code": "GN",
+      "country_name": "Guinea",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Conakry",
+      "latitude": 9.576889,
+      "longitude": -13.611961,
+      "elevation": 21,
+      "timezone": "Africa/Conakry",
+      "wiki_link": "https://en.wikipedia.org/wiki/Conakry_International_Airport"
+    },
+    {
+      "iata_code": "FAA",
+      "icao_code": "GUFH",
+      "name": "Faranah Airport",
+      "city_name_list": "Faranah",
+      "country_code": "GN",
+      "country_name": "Guinea",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Faranah",
+      "latitude": 10.035467,
+      "longitude": -10.769825,
+      "elevation": 449,
+      "timezone": "Africa/Conakry",
+      "wiki_link": "https://en.wikipedia.org/wiki/Faranah_Airport"
+    },
+    {
+      "iata_code": "FIG",
+      "icao_code": "GUFA",
+      "name": "Fria Airport",
+      "city_name_list": "Fria",
+      "country_code": "GN",
+      "country_name": "Guinea",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Boke Region",
+      "latitude": 10.350556,
+      "longitude": -13.569167,
+      "elevation": "",
+      "timezone": "Africa/Conakry",
+      "wiki_link": "https://en.wikipedia.org/wiki/Fria_Airport"
+    },
+    {
+      "iata_code": "GII",
+      "icao_code": "GUSI",
+      "name": "Siguiri Airport",
+      "city_name_list": "Siguiri",
+      "country_code": "GN",
+      "country_name": "Guinea",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kankan Region",
+      "latitude": 11.4,
+      "longitude": -9.18,
+      "elevation": 362,
+      "timezone": "Africa/Conakry",
+      "wiki_link": "https://en.wikipedia.org/wiki/Siguiri_Airport"
+    },
+    {
+      "iata_code": "KNN",
+      "icao_code": "GUXD",
+      "name": "Kankan",
+      "city_name_list": "Kankan",
+      "country_code": "GN",
+      "country_name": "Guinea",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kankan Region",
+      "latitude": 10.4,
+      "longitude": -9.3,
+      "elevation": 377,
+      "timezone": "Africa/Conakry",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kankan_Airport"
+    },
+    {
+      "iata_code": "KSI",
+      "icao_code": "GUKU",
+      "name": "Kissidougou",
+      "city_name_list": "Kissidougou",
+      "country_code": "GN",
+      "country_name": "Guinea",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Faranah",
+      "latitude": 9.167,
+      "longitude": -10.12,
+      "elevation": 525,
+      "timezone": "Africa/Conakry",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kissidougou_Airport"
+    },
+    {
+      "iata_code": "LEK",
+      "icao_code": "GULB",
+      "name": "Tata Airport",
+      "city_name_list": "Labé",
+      "country_code": "GN",
+      "country_name": "Guinea",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Labe Region",
+      "latitude": 11.33321,
+      "longitude": -12.29623,
+      "elevation": 1035,
+      "timezone": "Africa/Conakry",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tata_Airport"
+    },
+    {
+      "iata_code": "MCA",
+      "icao_code": "GUMA",
+      "name": "Macenta Airport",
+      "city_name_list": "Macenta",
+      "country_code": "GN",
+      "country_name": "Guinea",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Nzerekore Region",
+      "latitude": 8.533,
+      "longitude": -9.467,
+      "elevation": 543,
+      "timezone": "Africa/Conakry",
+      "wiki_link": "https://en.wikipedia.org/wiki/Macenta_Airport"
+    },
+    {
+      "iata_code": "NZE",
+      "icao_code": "GUNZ",
+      "name": "Nzérékoré Airport",
+      "city_name_list": "Nzérékoré",
+      "country_code": "GN",
+      "country_name": "Guinea",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Nzerekore Region",
+      "latitude": 7.81306,
+      "longitude": -8.70306,
+      "elevation": "",
+      "timezone": "Africa/Conakry",
+      "wiki_link": "https://en.wikipedia.org/wiki/Nz%C3%A9r%C3%A9kor%C3%A9_Airport"
+    },
+    {
+      "iata_code": "SBI",
+      "icao_code": "GUSB",
+      "name": "Sambailo Airport",
+      "city_name_list": "Koundara",
+      "country_code": "GN",
+      "country_name": "Guinea",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Boke Region",
+      "latitude": 12.48,
+      "longitude": -13.3,
+      "elevation": "",
+      "timezone": "Africa/Conakry",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sambailo_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Guinea — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Guinea: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Guinea — IATA Airports | ListBase",
+    "seo_description": "Download Guinea — IATA Airports dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

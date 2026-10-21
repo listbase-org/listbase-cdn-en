@@ -1,0 +1,352 @@
+{
+  "id": "au-unesco-heritage",
+  "name": "Australia — UNESCO World Heritage Sites",
+  "title": "Australia — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Australia, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "number"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 147,
+      "name": "Kakadu National Park",
+      "category": "mixed",
+      "date_inscribed": 1981,
+      "criteria": "c1, c6, n7, n9, n10",
+      "lat": -12.83333333,
+      "lon": 132.8333333,
+      "area_hectares": 1980994.92,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 154,
+      "name": "Great Barrier Reef",
+      "category": "natural",
+      "date_inscribed": 1981,
+      "criteria": "n7, n8, n9, n10",
+      "lat": -18.28611111,
+      "lon": 147.7,
+      "area_hectares": 34870000,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 167,
+      "name": "Willandra Lakes Region",
+      "category": "mixed",
+      "date_inscribed": 1981,
+      "criteria": "c3, n8",
+      "lat": -34,
+      "lon": 143,
+      "area_hectares": 240000,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 181,
+      "name": "Tasmanian Wilderness",
+      "category": "mixed",
+      "date_inscribed": 1982,
+      "criteria": "c3, c4, c6, n7, n8, n9, n10",
+      "lat": -41.58333333,
+      "lon": 145.4166667,
+      "area_hectares": 1584233,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 186,
+      "name": "Lord Howe Island Group",
+      "category": "natural",
+      "date_inscribed": 1982,
+      "criteria": "n7, n10",
+      "lat": -31.56555556,
+      "lon": 159.0883333,
+      "area_hectares": 146300,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 368,
+      "name": "Gondwana Rainforests of Australia",
+      "category": "natural",
+      "date_inscribed": 1986,
+      "criteria": "n8, n9, n10",
+      "lat": -28.25,
+      "lon": 150.05,
+      "area_hectares": 370000,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 447,
+      "name": "Uluru-Kata Tjuta National Park",
+      "category": "mixed",
+      "date_inscribed": 1987,
+      "criteria": "c5, c6, n7, n8",
+      "lat": -25.33333333,
+      "lon": 131,
+      "area_hectares": 132566,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 486,
+      "name": "Wet Tropics of Queensland",
+      "category": "natural",
+      "date_inscribed": 1988,
+      "criteria": "n7, n8, n9, n10",
+      "lat": -15.65,
+      "lon": 144.9666667,
+      "area_hectares": 893453,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 578,
+      "name": "Shark Bay, Western Australia",
+      "category": "natural",
+      "date_inscribed": 1991,
+      "criteria": "n7, n8, n9, n10",
+      "lat": -25.48611111,
+      "lon": 113.4361111,
+      "area_hectares": 2200902,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 630,
+      "name": "Fraser Island",
+      "category": "natural",
+      "date_inscribed": 1992,
+      "criteria": "n7, n8, n9",
+      "lat": -25.21666667,
+      "lon": 153.1333333,
+      "area_hectares": 184000,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 698,
+      "name": "Australian Fossil Mammal Sites (Riversleigh / Naracoorte)",
+      "category": "natural",
+      "date_inscribed": 1994,
+      "criteria": "n8, n9",
+      "lat": -19.08333333,
+      "lon": 138.7166667,
+      "area_hectares": 10300,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 577,
+      "name": "Heard and McDonald Islands",
+      "category": "natural",
+      "date_inscribed": 1997,
+      "criteria": "n8, n9",
+      "lat": -53.1,
+      "lon": 73.5,
+      "area_hectares": 658903,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 629,
+      "name": "Macquarie Island",
+      "category": "natural",
+      "date_inscribed": 1997,
+      "criteria": "n7, n8",
+      "lat": -54.59472222,
+      "lon": 158.8955556,
+      "area_hectares": 540000,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 917,
+      "name": "Greater Blue Mountains Area",
+      "category": "natural",
+      "date_inscribed": 2000,
+      "criteria": "n9, n10",
+      "lat": -33.7,
+      "lon": 150,
+      "area_hectares": 1032649,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1094,
+      "name": "Purnululu National Park",
+      "category": "natural",
+      "date_inscribed": 2003,
+      "criteria": "n7, n8",
+      "lat": -17.5,
+      "lon": 128.5,
+      "area_hectares": 239723,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1131,
+      "name": "Royal Exhibition Building and Carlton Gardens",
+      "category": "cultural",
+      "date_inscribed": 2004,
+      "criteria": "c2",
+      "lat": -37.80611111,
+      "lon": 144.9702778,
+      "area_hectares": 26,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 166,
+      "name": "Sydney Opera House",
+      "category": "cultural",
+      "date_inscribed": 2007,
+      "criteria": "c1",
+      "lat": -33.85666667,
+      "lon": 151.2152778,
+      "area_hectares": 5.8,
+      "danger_list": "0",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1306,
+      "name": "Australian Convict Sites",
+      "category": "cultural",
+      "date_inscribed": 2010,
+      "criteria": "c4, c6",
+      "lat": -33.37833333,
+      "lon": 150.9944444,
+      "area_hectares": 1502.51,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1369,
+      "name": "Ningaloo Coast",
+      "category": "natural",
+      "date_inscribed": 2011,
+      "criteria": "n7, n10",
+      "lat": -22.5625,
+      "lon": 113.8102778,
+      "area_hectares": 705015,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "au",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Australia — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Australia, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Australia — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Australia — UNESCO World Heritage Sites dataset with 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

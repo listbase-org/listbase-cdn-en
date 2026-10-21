@@ -1,0 +1,214 @@
+{
+  "id": "gf-power-plants",
+  "name": "French Guiana — Power Plants",
+  "title": "French Guiana — Power Plants",
+  "description": "Power plants located in French Guiana from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Petit Saut",
+      "gppd_idnr": "WRI1022129",
+      "capacity_mw": 113.6,
+      "latitude": 5.0627,
+      "longitude": -53.0476,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1994,
+      "owner": "Électricité de France",
+      "source": "EDF Guiana",
+      "url": "https://www.edf.gf/edf-en-guyane/les-engagements-edf-en-guyane/sites-de-production-et-reseau",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 483.26; 2014: 471.13; 2015: 482.61; 2016: 414.74; 2017: 399.29",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Dégrad des Cannes",
+      "gppd_idnr": "WRI1023510",
+      "capacity_mw": 72,
+      "latitude": 4.8632,
+      "longitude": -52.2756,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Électricité de France",
+      "source": "EDF Guiana",
+      "url": "https://www.edf.gf/edf-en-guyane/les-engagements-edf-en-guyane/sites-de-production-et-reseau",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Dégrad des Cannes",
+      "gppd_idnr": "WRI1023509",
+      "capacity_mw": 40,
+      "latitude": 4.8626,
+      "longitude": -52.2748,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Électricité de France",
+      "source": "EDF Guiana",
+      "url": "https://www.edf.gf/edf-en-guyane/les-engagements-edf-en-guyane/sites-de-production-et-reseau",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kourou",
+      "gppd_idnr": "WRI1023512",
+      "capacity_mw": 20,
+      "latitude": 5.1636,
+      "longitude": -52.6702,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Électricité de France",
+      "source": "EDF Guiana",
+      "url": "https://www.edf.gf/edf-en-guyane/les-engagements-edf-en-guyane/sites-de-production-et-reseau",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Toucan",
+      "gppd_idnr": "WKS0065694",
+      "capacity_mw": 5,
+      "latitude": 4.8937,
+      "longitude": -52.5007,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 10.34; 2014: 10.15; 2015: 10.82; 2016: 9.96; 2017: 9.84",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kourou",
+      "gppd_idnr": "WRI1023511",
+      "capacity_mw": 2,
+      "latitude": 5.1636,
+      "longitude": -52.6702,
+      "primary_fuel": "Biomass",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Électricité de France",
+      "source": "EDF Guiana",
+      "url": "https://www.edf.gf/edf-en-guyane/les-engagements-edf-en-guyane/sites-de-production-et-reseau",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "French Guiana — Power Plants - Free Download",
+    "description": "Power plants located in French Guiana from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "French Guiana — Power Plants | ListBase",
+    "seo_description": "Download French Guiana — Power Plants dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

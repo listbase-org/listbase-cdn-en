@@ -1,0 +1,816 @@
+{
+  "id": "police-locals-city-demographics",
+  "name": "US Police Force Local Residency by City",
+  "title": "US Police Force Local Residency by City",
+  "description": "Share of police officers who live in the city they serve, broken down by race, for 75 major US cities. From FiveThirtyEight's 2015 investigation.",
+  "category": "society",
+  "source": "https://github.com/fivethirtyeight/data",
+  "source_url": "https://github.com/fivethirtyeight/data",
+  "updated": "2026-04",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "police_force_size",
+      "label": "Police Force Size",
+      "type": "number"
+    },
+    {
+      "key": "all",
+      "label": "All",
+      "type": "number"
+    },
+    {
+      "key": "white",
+      "label": "White",
+      "type": "number"
+    },
+    {
+      "key": "non-white",
+      "label": "Non White",
+      "type": "number"
+    },
+    {
+      "key": "black",
+      "label": "Black",
+      "type": "number"
+    },
+    {
+      "key": "hispanic",
+      "label": "Hispanic",
+      "type": "number"
+    },
+    {
+      "key": "asian",
+      "label": "Asian",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city": "New York",
+      "police_force_size": 32300,
+      "all": 0.617956656,
+      "white": 0.446386555,
+      "non-white": 0.764418938,
+      "black": 0.770891365,
+      "hispanic": 0.762860728,
+      "asian": 0.749235474
+    },
+    {
+      "city": "Chicago",
+      "police_force_size": 12120,
+      "all": 0.875,
+      "white": 0.871962617,
+      "non-white": 0.877400295,
+      "black": 0.89740566,
+      "hispanic": 0.83982684,
+      "asian": 0.966666667
+    },
+    {
+      "city": "Los Angeles",
+      "police_force_size": 10100,
+      "all": 0.228217822,
+      "white": 0.152777778,
+      "non-white": 0.263848397,
+      "black": 0.387387387,
+      "hispanic": 0.217679558,
+      "asian": 0.305263158
+    },
+    {
+      "city": "Washington",
+      "police_force_size": 9340,
+      "all": 0.115631692,
+      "white": 0.056774194,
+      "non-white": 0.15736505,
+      "black": 0.170189099,
+      "hispanic": 0.08988764,
+      "asian": 0.230769231
+    },
+    {
+      "city": "Houston",
+      "police_force_size": 7700,
+      "all": 0.292207792,
+      "white": 0.17373461,
+      "non-white": 0.399258344,
+      "black": 0.36637931,
+      "hispanic": 0.457142857,
+      "asian": 0.408163265
+    },
+    {
+      "city": "Philadelphia",
+      "police_force_size": 6045,
+      "all": 0.835401158,
+      "white": 0.776898734,
+      "non-white": 0.899480069,
+      "black": 0.924657534,
+      "hispanic": 0.817391304,
+      "asian": "**"
+    },
+    {
+      "city": "Phoenix",
+      "police_force_size": 4475,
+      "all": 0.311731844,
+      "white": 0.270801815,
+      "non-white": 0.427350427,
+      "black": 0.52173913,
+      "hispanic": 0.427710843,
+      "asian": "**"
+    },
+    {
+      "city": "San Diego",
+      "police_force_size": 4460,
+      "all": 0.362107623,
+      "white": 0.372983871,
+      "non-white": 0.348484848,
+      "black": 0.538461538,
+      "hispanic": 0.297794118,
+      "asian": 0.515625
+    },
+    {
+      "city": "Dallas",
+      "police_force_size": 3605,
+      "all": 0.191400832,
+      "white": 0.171503958,
+      "non-white": 0.213450292,
+      "black": 0.214634146,
+      "hispanic": 0.256880734,
+      "asian": "**"
+    },
+    {
+      "city": "Detroit",
+      "police_force_size": 3265,
+      "all": 0.370597243,
+      "white": 0.081967213,
+      "non-white": 0.542787286,
+      "black": 0.568,
+      "hispanic": 0.333333333,
+      "asian": "**"
+    },
+    {
+      "city": "San Francisco",
+      "police_force_size": 3020,
+      "all": 0.316225166,
+      "white": 0.259493671,
+      "non-white": 0.378472222,
+      "black": 0.186046512,
+      "hispanic": 0.253333333,
+      "asian": 0.486111111
+    },
+    {
+      "city": "San Antonio",
+      "police_force_size": 2955,
+      "all": 0.624365482,
+      "white": 0.443877551,
+      "non-white": 0.713924051,
+      "black": 0.574468085,
+      "hispanic": 0.739130435,
+      "asian": "**"
+    },
+    {
+      "city": "Atlanta",
+      "police_force_size": 2950,
+      "all": 0.137288136,
+      "white": 0.18627451,
+      "non-white": 0.111398964,
+      "black": 0.101983003,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Las Vegas",
+      "police_force_size": 2830,
+      "all": 0.374558304,
+      "white": 0.4,
+      "non-white": 0.307692308,
+      "black": 0.387755102,
+      "hispanic": 0.267857143,
+      "asian": "**"
+    },
+    {
+      "city": "Baltimore",
+      "police_force_size": 2800,
+      "all": 0.257142857,
+      "white": 0.1328125,
+      "non-white": 0.361842105,
+      "black": 0.391459075,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Boston",
+      "police_force_size": 2560,
+      "all": 0.4765625,
+      "white": 0.441558442,
+      "non-white": 0.582677165,
+      "black": 0.686567164,
+      "hispanic": 0.75,
+      "asian": "**"
+    },
+    {
+      "city": "Jacksonville, Fla.",
+      "police_force_size": 2335,
+      "all": 0.809421842,
+      "white": 0.713780919,
+      "non-white": 0.956521739,
+      "black": 1,
+      "hispanic": 0.888888889,
+      "asian": 1
+    },
+    {
+      "city": "El Paso, Texas",
+      "police_force_size": 2260,
+      "all": 0.851769912,
+      "white": 0.826446281,
+      "non-white": 0.86102719,
+      "black": "**",
+      "hispanic": 0.86102719,
+      "asian": "**"
+    },
+    {
+      "city": "Columbus, Ohio",
+      "police_force_size": 2245,
+      "all": 0.405345212,
+      "white": 0.379781421,
+      "non-white": 0.518072289,
+      "black": 0.571428571,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Cleveland",
+      "police_force_size": 2045,
+      "all": 0.557457213,
+      "white": 0.498127341,
+      "non-white": 0.669014085,
+      "black": 0.595959596,
+      "hispanic": 0.941176471,
+      "asian": "**"
+    },
+    {
+      "city": "Tucson, Ariz.",
+      "police_force_size": 2020,
+      "all": 0.398514851,
+      "white": 0.416666667,
+      "non-white": 0.375,
+      "black": "**",
+      "hispanic": 0.333333333,
+      "asian": "**"
+    },
+    {
+      "city": "Newark, N.J.",
+      "police_force_size": 2005,
+      "all": 0.279301746,
+      "white": 0.207964602,
+      "non-white": 0.371428571,
+      "black": 0.519480519,
+      "hispanic": 0.260416667,
+      "asian": "**"
+    },
+    {
+      "city": "Austin, Texas",
+      "police_force_size": 1985,
+      "all": 0.294710327,
+      "white": 0.194690265,
+      "non-white": 0.426900585,
+      "black": 0.25,
+      "hispanic": 0.453846154,
+      "asian": "**"
+    },
+    {
+      "city": "Memphis, Tenn.",
+      "police_force_size": 1970,
+      "all": 0.464467005,
+      "white": 0.339130435,
+      "non-white": 0.640243902,
+      "black": 0.668874172,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Milwaukee",
+      "police_force_size": 1960,
+      "all": 0.721938776,
+      "white": 0.692883895,
+      "non-white": 0.784,
+      "black": 0.931034483,
+      "hispanic": 0.733333333,
+      "asian": "**"
+    },
+    {
+      "city": "San Jose, Calif.",
+      "police_force_size": 1875,
+      "all": 0.466666667,
+      "white": 0.472340426,
+      "non-white": 0.457142857,
+      "black": "**",
+      "hispanic": 0.406976744,
+      "asian": 0.44
+    },
+    {
+      "city": "Miami",
+      "police_force_size": 1860,
+      "all": 0.072580645,
+      "white": 0.030612245,
+      "non-white": 0.087591241,
+      "black": 0,
+      "hispanic": 0.116751269,
+      "asian": "**"
+    },
+    {
+      "city": "Denver",
+      "police_force_size": 1820,
+      "all": 0.282967033,
+      "white": 0.149321267,
+      "non-white": 0.48951049,
+      "black": 0.580645161,
+      "hispanic": 0.391752577,
+      "asian": "**"
+    },
+    {
+      "city": "Sacramento, Calif.",
+      "police_force_size": 1820,
+      "all": 0.07967033,
+      "white": 0.063380282,
+      "non-white": 0.1375,
+      "black": 0.32,
+      "hispanic": 0,
+      "asian": "**"
+    },
+    {
+      "city": "Charlotte, N.C.",
+      "police_force_size": 1780,
+      "all": 0.362359551,
+      "white": 0.294545455,
+      "non-white": 0.592592593,
+      "black": 0.833333333,
+      "hispanic": 0.321428571,
+      "asian": "**"
+    },
+    {
+      "city": "Tampa, Fla.",
+      "police_force_size": 1715,
+      "all": 0.177842566,
+      "white": 0.131914894,
+      "non-white": 0.277777778,
+      "black": 0.276595745,
+      "hispanic": 0.326923077,
+      "asian": "**"
+    },
+    {
+      "city": "Indianapolis",
+      "police_force_size": 1620,
+      "all": 0.648148148,
+      "white": 0.71042471,
+      "non-white": 0.4,
+      "black": 0.383333333,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Santa Ana, Calif.",
+      "police_force_size": 1590,
+      "all": 0.094339623,
+      "white": 0.058823529,
+      "non-white": 0.120879121,
+      "black": "**",
+      "hispanic": 0.148648649,
+      "asian": 0
+    },
+    {
+      "city": "New Orleans",
+      "police_force_size": 1560,
+      "all": 0.5,
+      "white": 0.324074074,
+      "non-white": 0.593137255,
+      "black": 0.62371134,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Oakland, Calif.",
+      "police_force_size": 1530,
+      "all": 0.094771242,
+      "white": 0.026666667,
+      "non-white": 0.16025641,
+      "black": 0.0625,
+      "hispanic": 0.108108108,
+      "asian": 0.28125
+    },
+    {
+      "city": "Orlando, Fla.",
+      "police_force_size": 1530,
+      "all": 0.117647059,
+      "white": 0.09,
+      "non-white": 0.169811321,
+      "black": "**",
+      "hispanic": 0.111111111,
+      "asian": "**"
+    },
+    {
+      "city": "Oklahoma City, Okla.",
+      "police_force_size": 1500,
+      "all": 0.596666667,
+      "white": 0.547325103,
+      "non-white": 0.807017544,
+      "black": 0.62962963,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Seattle",
+      "police_force_size": 1445,
+      "all": 0.117647059,
+      "white": 0.115577889,
+      "non-white": 0.122222222,
+      "black": 0.1875,
+      "hispanic": 0,
+      "asian": "**"
+    },
+    {
+      "city": "Kansas City, Mo.",
+      "police_force_size": 1440,
+      "all": 0.777777778,
+      "white": 0.768,
+      "non-white": 0.842105263,
+      "black": 1,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Nashville, Tenn.",
+      "police_force_size": 1440,
+      "all": 0.618055556,
+      "white": 0.43715847,
+      "non-white": 0.933333333,
+      "black": 0.947368421,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Laredo, Texas",
+      "police_force_size": 1435,
+      "all": 0.93728223,
+      "white": 0.962962963,
+      "non-white": 0.931330472,
+      "black": "**",
+      "hispanic": 0.931330472,
+      "asian": "**"
+    },
+    {
+      "city": "Fort Worth, Texas",
+      "police_force_size": 1430,
+      "all": 0.426573427,
+      "white": 0.306748466,
+      "non-white": 0.585365854,
+      "black": 0.637931034,
+      "hispanic": 0.559322034,
+      "asian": "**"
+    },
+    {
+      "city": "Louisville, Ky.",
+      "police_force_size": 1430,
+      "all": 0.646853147,
+      "white": 0.620833333,
+      "non-white": 0.782608696,
+      "black": 0.772727273,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Norfolk, Va.",
+      "police_force_size": 1425,
+      "all": 0.21754386,
+      "white": 0.267080745,
+      "non-white": 0.153225806,
+      "black": 0.106796117,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Arlington, Va.",
+      "police_force_size": 1360,
+      "all": 0.202205882,
+      "white": 0.222222222,
+      "non-white": 0.1796875,
+      "black": 0.16,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Pittsburgh",
+      "police_force_size": 1350,
+      "all": 0.659259259,
+      "white": 0.67965368,
+      "non-white": 0.538461538,
+      "black": 0.533333333,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Albuquerque, N.M.",
+      "police_force_size": 1340,
+      "all": 0.615671642,
+      "white": 0.62962963,
+      "non-white": 0.601503759,
+      "black": "**",
+      "hispanic": 0.566371681,
+      "asian": "**"
+    },
+    {
+      "city": "Jersey City, N.J.",
+      "police_force_size": 1170,
+      "all": 0.252136752,
+      "white": 0.206451613,
+      "non-white": 0.341772152,
+      "black": 0.303030303,
+      "hispanic": 0.325581395,
+      "asian": "**"
+    },
+    {
+      "city": "Raleigh, N.C.",
+      "police_force_size": 1150,
+      "all": 0.269565217,
+      "white": 0.206349206,
+      "non-white": 0.56097561,
+      "black": "**",
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Rochester, N.Y.",
+      "police_force_size": 1150,
+      "all": 0.1,
+      "white": 0.040935673,
+      "non-white": 0.271186441,
+      "black": 0.195121951,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Cincinnati",
+      "police_force_size": 1145,
+      "all": 0.227074236,
+      "white": 0.147727273,
+      "non-white": 0.490566038,
+      "black": 0.648648649,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Long Beach, Calif.",
+      "police_force_size": 1115,
+      "all": 0.291479821,
+      "white": 0.277227723,
+      "non-white": 0.303278689,
+      "black": "**",
+      "hispanic": 0.3125,
+      "asian": 0
+    },
+    {
+      "city": "Birmingham, Ala.",
+      "police_force_size": 1110,
+      "all": 0.225225225,
+      "white": 0.086021505,
+      "non-white": 0.325581395,
+      "black": 0.328125,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Wichita, Kan.",
+      "police_force_size": 1075,
+      "all": 0.6,
+      "white": 0.511764706,
+      "non-white": 0.933333333,
+      "black": "**",
+      "hispanic": 0.896551724,
+      "asian": "**"
+    },
+    {
+      "city": "Virginia Beach, Va.",
+      "police_force_size": 1070,
+      "all": 0.789719626,
+      "white": 0.75625,
+      "non-white": 0.888888889,
+      "black": 0.727272727,
+      "hispanic": 1,
+      "asian": "**"
+    },
+    {
+      "city": "Fresno, Calif.",
+      "police_force_size": 1040,
+      "all": 0.514423077,
+      "white": 0.509615385,
+      "non-white": 0.519230769,
+      "black": 0.681818182,
+      "hispanic": 0.46031746,
+      "asian": "**"
+    },
+    {
+      "city": "Buffalo, N.Y.",
+      "police_force_size": 1010,
+      "all": 0.336633663,
+      "white": 0.292397661,
+      "non-white": 0.580645161,
+      "black": "**",
+      "hispanic": 0.523809524,
+      "asian": "**"
+    },
+    {
+      "city": "Minneapolis",
+      "police_force_size": 1000,
+      "all": 0.1,
+      "white": 0.052631579,
+      "non-white": 0.379310345,
+      "black": "**",
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Portland, Ore.",
+      "police_force_size": 1000,
+      "all": 0.21,
+      "white": 0.186440678,
+      "non-white": 0.391304348,
+      "black": "**",
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Reno, Nev.",
+      "police_force_size": 1000,
+      "all": 0.34,
+      "white": 0.323863636,
+      "non-white": 0.458333333,
+      "black": "**",
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Richmond, Va.",
+      "police_force_size": 1000,
+      "all": 0.11,
+      "white": 0.101694915,
+      "non-white": 0.12195122,
+      "black": 0.208333333,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Baton Rouge, La.",
+      "police_force_size": 980,
+      "all": 0.214285714,
+      "white": 0.144067797,
+      "non-white": 0.320512821,
+      "black": 0.342465753,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Jackson, Miss.",
+      "police_force_size": 960,
+      "all": 0.390625,
+      "white": 0.082191781,
+      "non-white": 0.579831933,
+      "black": 0.579831933,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Riverside, Calif.",
+      "police_force_size": 955,
+      "all": 0.219895288,
+      "white": 0.35,
+      "non-white": 0.076923077,
+      "black": 0,
+      "hispanic": 0.142857143,
+      "asian": "**"
+    },
+    {
+      "city": "Fort Lauderdale, Fla.",
+      "police_force_size": 950,
+      "all": 0.168421053,
+      "white": 0.220183486,
+      "non-white": 0.098765432,
+      "black": 0.102564103,
+      "hispanic": 0.114285714,
+      "asian": "**"
+    },
+    {
+      "city": "St. Louis",
+      "police_force_size": 950,
+      "all": 0.589473684,
+      "white": 0.538461538,
+      "non-white": 0.671232877,
+      "black": 0.682539683,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Brownsville, Texas",
+      "police_force_size": 925,
+      "all": 0.513513514,
+      "white": 0.5,
+      "non-white": 0.514124294,
+      "black": "**",
+      "hispanic": 0.520231214,
+      "asian": "**"
+    },
+    {
+      "city": "Albany, N.Y.",
+      "police_force_size": 890,
+      "all": 0.185393258,
+      "white": 0.16025641,
+      "non-white": 0.363636364,
+      "black": "**",
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Colorado Springs, Colo.",
+      "police_force_size": 860,
+      "all": 0.604651163,
+      "white": 0.553030303,
+      "non-white": 0.775,
+      "black": "**",
+      "hispanic": 0.913043478,
+      "asian": "**"
+    },
+    {
+      "city": "Savannah, Ga.",
+      "police_force_size": 860,
+      "all": 0.215116279,
+      "white": 0.076923077,
+      "non-white": 0.299065421,
+      "black": 0.170731707,
+      "hispanic": 0.75,
+      "asian": "**"
+    },
+    {
+      "city": "Winston-Salem, N.C.",
+      "police_force_size": 860,
+      "all": 0.575581395,
+      "white": 0.424778761,
+      "non-white": 0.86440678,
+      "black": 0.869565217,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Toledo, Ohio",
+      "police_force_size": 805,
+      "all": 0.565217391,
+      "white": 0.530769231,
+      "non-white": 0.709677419,
+      "black": 0.75,
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Madison, Wis.",
+      "police_force_size": 790,
+      "all": 0.278481013,
+      "white": 0.246478873,
+      "non-white": 0.5625,
+      "black": "**",
+      "hispanic": "**",
+      "asian": "**"
+    },
+    {
+      "city": "Corpus Christi, Texas",
+      "police_force_size": 770,
+      "all": 0.857142857,
+      "white": 0.893333333,
+      "non-white": 0.82278481,
+      "black": "**",
+      "hispanic": 0.847222222,
+      "asian": "**"
+    },
+    {
+      "city": "San Bernardino, Calif.",
+      "police_force_size": 755,
+      "all": 0.271523179,
+      "white": 0.263157895,
+      "non-white": 0.28,
+      "black": "**",
+      "hispanic": 0.274509804,
+      "asian": "**"
+    }
+  ],
+  "meta": {
+    "title": "US Police Force Local Residency by City - Free Download",
+    "description": "Share of police officers who live in the city they serve, broken down by race, for 75 major US cities. From FiveThirtyEight's 2015 investigation. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US Police Force Local Residency by City | ListBase",
+    "seo_description": "Download US Police Force Local Residency by City — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/fivethirtyeight/data"
+    ]
+  }
+}

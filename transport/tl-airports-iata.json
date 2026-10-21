@@ -1,0 +1,211 @@
+{
+  "id": "tl-airports-iata",
+  "name": "Timor Leste — IATA Airports",
+  "title": "Timor Leste — IATA Airports",
+  "description": "Airports with IATA codes in Timor Leste: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "AUT",
+      "icao_code": "WPAT",
+      "name": "Atauro Airport",
+      "city_name_list": "Atauro",
+      "country_code": "TL",
+      "country_name": "Timor Leste",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Dili Municipality",
+      "latitude": -8.21052,
+      "longitude": 125.616,
+      "elevation": "",
+      "timezone": "Asia/Dili",
+      "wiki_link": "https://en.wikipedia.org/wiki/Atauro_Island#Geography"
+    },
+    {
+      "iata_code": "BCH",
+      "icao_code": "WPEC",
+      "name": "Baucau Airport",
+      "city_name_list": "Baukau",
+      "country_code": "TL",
+      "country_name": "Timor Leste",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Baucau",
+      "latitude": -8.48555,
+      "longitude": 126.39939,
+      "elevation": 541,
+      "timezone": "Asia/Dili",
+      "wiki_link": "https://en.wikipedia.org/wiki/Baucau_Airport"
+    },
+    {
+      "iata_code": "DIC",
+      "icao_code": "",
+      "name": "Dili",
+      "city_name_list": "Dili",
+      "country_code": "TL",
+      "country_name": "East Timor",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Distrito Dili",
+      "latitude": -8.55,
+      "longitude": 125.6,
+      "elevation": "",
+      "timezone": "Asia/Dili",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dili"
+    },
+    {
+      "iata_code": "DIL",
+      "icao_code": "WPDL",
+      "name": "Nicolau Lobato Airport",
+      "city_name_list": "Dili",
+      "country_code": "TL",
+      "country_name": "Timor Leste",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Dili Municipality",
+      "latitude": -8.54655,
+      "longitude": 125.52472,
+      "elevation": 7,
+      "timezone": "Asia/Dili",
+      "wiki_link": "https://en.wikipedia.org/wiki/Presidente_Nicolau_Lobato_International_Airport"
+    },
+    {
+      "iata_code": "KCI",
+      "icao_code": "",
+      "name": "Kun Airport",
+      "city_name_list": "Kun",
+      "country_code": "TL",
+      "country_name": "East Timor",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Lautem",
+      "latitude": -8.349,
+      "longitude": 127.05092,
+      "elevation": "",
+      "timezone": "Asia/Dili",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "OEC",
+      "icao_code": "WPOC",
+      "name": "Oecusse Airport",
+      "city_name_list": "Oecusse",
+      "country_code": "TL",
+      "country_name": "Timor Leste",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Oecusse",
+      "latitude": -9.19789,
+      "longitude": 124.34725,
+      "elevation": 5,
+      "timezone": "Asia/Dili",
+      "wiki_link": "https://en.wikipedia.org/wiki/Oecusse_Airport"
+    },
+    {
+      "iata_code": "UAI",
+      "icao_code": "WPDB",
+      "name": "Suai Airport",
+      "city_name_list": "Suai",
+      "country_code": "TL",
+      "country_name": "Timor Leste",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Cova Lima",
+      "latitude": -9.30417,
+      "longitude": 125.28694,
+      "elevation": "",
+      "timezone": "Asia/Dili",
+      "wiki_link": "https://en.wikipedia.org/wiki/Suai_Airport"
+    },
+    {
+      "iata_code": "VIQ",
+      "icao_code": "WPVQ",
+      "name": "Viqueque Airport",
+      "city_name_list": "Viqueque",
+      "country_code": "TL",
+      "country_name": "Timor Leste",
+      "continent_name": "Oceania",
+      "adm1_name_ascii": "Viqueque",
+      "latitude": -8.8838,
+      "longitude": 126.373,
+      "elevation": "",
+      "timezone": "Asia/Dili",
+      "wiki_link": "https://en.wikipedia.org/wiki/Viqueque_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Timor Leste — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Timor Leste: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Timor Leste — IATA Airports | ListBase",
+    "seo_description": "Download Timor Leste — IATA Airports dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

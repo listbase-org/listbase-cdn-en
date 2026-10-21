@@ -1,0 +1,296 @@
+{
+  "id": "so-foreign-embassies",
+  "name": "Somalia — Foreign Embassies and Consulates",
+  "title": "Somalia — Foreign Embassies and Consulates",
+  "description": "Diplomatic missions of foreign countries and territories hosted in Somalia. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "date"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Egypt",
+      "operator_cc": "eg",
+      "host_country": "Somalia",
+      "host_cc": "so",
+      "city": "Mogadishu",
+      "address": "",
+      "type": "embassy",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Somalia",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106474256"
+    },
+    {
+      "operator": "People's Republic of China",
+      "operator_cc": "cn",
+      "host_country": "Somalia",
+      "host_cc": "so",
+      "city": "Mogadishu",
+      "address": "",
+      "type": "embassy",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Somalia",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "ChineseSomalia",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q116136156"
+    },
+    {
+      "operator": "Saudi Arabia",
+      "operator_cc": "sa",
+      "host_country": "Somalia",
+      "host_cc": "so",
+      "city": "Mogadishu",
+      "address": "",
+      "type": "embassy",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Somalia",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q108839227"
+    },
+    {
+      "operator": "Taiwan",
+      "operator_cc": "tw",
+      "host_country": "Somalia",
+      "host_cc": "so",
+      "city": "Hargeisa",
+      "address": "",
+      "type": "embassy",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Somaliland",
+      "phone": "",
+      "email": "",
+      "website": "https://www.roc-taiwan.org/smd/index.html",
+      "facebook": "TaiwaninSomaliland",
+      "twitter": "",
+      "youtube": "",
+      "creation": "2020-08-17T00:00:00Z",
+      "wikidata_qid": "Q105707055"
+    },
+    {
+      "operator": "Turkey",
+      "operator_cc": "tr",
+      "host_country": "Somalia",
+      "host_cc": "so",
+      "city": "Mogadishu",
+      "address": "",
+      "type": "embassy",
+      "latitude": 2.0338,
+      "longitude": 45.31078,
+      "jurisdictions": "Somalia",
+      "phone": "",
+      "email": "",
+      "website": "http://mogadishu.emb.mfa.gov.tr",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q110955567"
+    },
+    {
+      "operator": "United Arab Emirates",
+      "operator_cc": "ae",
+      "host_country": "Somalia",
+      "host_cc": "so",
+      "city": "",
+      "address": "",
+      "type": "embassy",
+      "latitude": 2.0366156,
+      "longitude": 45.3522735,
+      "jurisdictions": "Somalia",
+      "phone": "+252-61-9777715",
+      "email": "mailto:mogadishuemb@mofaic.gov.ae",
+      "website": "https://www.mofaic.gov.ae/missions/UAE-Missions-Abroad/UAE-Missions-Abroad-Details?countryId=22870c48-fc2c-4ce5-ad97-a6e032b9b561",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q81294789"
+    },
+    {
+      "operator": "United Kingdom",
+      "operator_cc": "gb",
+      "host_country": "Somalia",
+      "host_cc": "so",
+      "city": "Mogadishu",
+      "address": "",
+      "type": "embassy",
+      "latitude": 2.02998,
+      "longitude": 45.33649,
+      "jurisdictions": "Somalia",
+      "phone": "",
+      "email": "",
+      "website": "https://www.gov.uk/government/world/organisations/british-embassy-mogadishu/",
+      "facebook": "",
+      "twitter": "UKinSomalia",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q20982497"
+    },
+    {
+      "operator": "United States of America",
+      "operator_cc": "us",
+      "host_country": "Somalia",
+      "host_cc": "so",
+      "city": "Mogadishu",
+      "address": "",
+      "type": "embassy",
+      "latitude": 2.03583,
+      "longitude": 45.2947,
+      "jurisdictions": "Somalia",
+      "phone": "",
+      "email": "",
+      "website": "https://so.usembassy.gov/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q19360183"
+    },
+    {
+      "operator": "Vatican",
+      "operator_cc": "va",
+      "host_country": "Somalia",
+      "host_cc": "so",
+      "city": "",
+      "address": "",
+      "type": "apostolic nunciature",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Somalia",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q12785030"
+    }
+  ],
+  "meta": {
+    "title": "Somalia — Foreign Embassies and Consulates - Free Download",
+    "description": "Diplomatic missions of foreign countries and territories hosted in Somalia. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Somalia — Foreign Embassies and Consulates | ListBase",
+    "seo_description": "Download Somalia — Foreign Embassies and Consulates — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

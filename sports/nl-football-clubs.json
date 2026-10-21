@@ -1,0 +1,439 @@
+{
+  "id": "nl-football-clubs",
+  "name": "Netherlands — Football Clubs",
+  "title": "Netherlands — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Netherlands's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Venlo",
+      "matches_played": 454,
+      "seasons_count": 13,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2008-2009, eerste-divisie-2013-2014, eerste-divisie-2014-2015, er…"
+    },
+    {
+      "name": "DenHaag",
+      "matches_played": 436,
+      "seasons_count": 13,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2007-2008, eredivisie, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011,…"
+    },
+    {
+      "name": "Heracles",
+      "matches_played": 432,
+      "seasons_count": 13,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie-1999-2000, eerste-divisie-2002-2003, eredivisie, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, ered…"
+    },
+    {
+      "name": "Waalwijk",
+      "matches_played": 411,
+      "seasons_count": 12,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, eerste-divisie-2014-2015, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-200…"
+    },
+    {
+      "name": "SpartaRotterdam",
+      "matches_played": 407,
+      "seasons_count": 12,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-2002-2003, eerste-divisie-2010-2011, eerste-divisie-2011-2012, eerste-divisie-2013-2014, eerste-divisie-2014-2015, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie…"
+    },
+    {
+      "name": "Nijmegen",
+      "matches_played": 402,
+      "seasons_count": 12,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie-2014-2015, eredivisie, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivis…"
+    },
+    {
+      "name": "Roda",
+      "matches_played": 402,
+      "seasons_count": 12,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie-2014-2015, eredivisie, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivis…"
+    },
+    {
+      "name": "WillemII",
+      "matches_played": 402,
+      "seasons_count": 12,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie-2011-2012, eerste-divisie-2013-2014, eredivisie, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, ered…"
+    },
+    {
+      "name": "Breda",
+      "matches_played": 400,
+      "seasons_count": 12,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivisie-2011-2012, ered…"
+    },
+    {
+      "name": "AZAlkmaar",
+      "matches_played": 398,
+      "seasons_count": 12,
+      "leagues": "eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eredivisie, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivisie-2011-2012, eredivisie-2…"
+    },
+    {
+      "name": "Ajax",
+      "matches_played": 398,
+      "seasons_count": 12,
+      "leagues": "eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eredivisie, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivisie-2011-2012, eredivisie-2…"
+    },
+    {
+      "name": "Feyenoord",
+      "matches_played": 398,
+      "seasons_count": 12,
+      "leagues": "eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eredivisie, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivisie-2011-2012, eredivisie-2…"
+    },
+    {
+      "name": "Groningen",
+      "matches_played": 398,
+      "seasons_count": 12,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie-1999-2000, eredivisie, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivisie-2011-2012, eredivis…"
+    },
+    {
+      "name": "Heerenveen",
+      "matches_played": 398,
+      "seasons_count": 12,
+      "leagues": "eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eredivisie, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivisie-2011-2012, eredivisie-2…"
+    },
+    {
+      "name": "PSV",
+      "matches_played": 398,
+      "seasons_count": 12,
+      "leagues": "eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eredivisie, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivisie-2011-2012, eredivisie-2…"
+    },
+    {
+      "name": "Twente",
+      "matches_played": 398,
+      "seasons_count": 12,
+      "leagues": "eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eredivisie, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivisie-2011-2012, eredivisie-2…"
+    },
+    {
+      "name": "Utrecht",
+      "matches_played": 398,
+      "seasons_count": 12,
+      "leagues": "eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eredivisie, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivisie-2011-2012, eredivisie-2…"
+    },
+    {
+      "name": "Vitesse",
+      "matches_played": 398,
+      "seasons_count": 12,
+      "leagues": "eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eredivisie, eredivisie-1999-2000, eredivisie-2005-2006, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2009-2010, eredivisie-2010-2011, eredivisie-2011-2012, eredivisie-2…"
+    },
+    {
+      "name": "DenBosch",
+      "matches_played": 390,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, eerste-divisie-2011-2012, ee…"
+    },
+    {
+      "name": "EindhovenFC",
+      "matches_played": 390,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, ee…"
+    },
+    {
+      "name": "Emmen",
+      "matches_played": 390,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, ee…"
+    },
+    {
+      "name": "Helmond",
+      "matches_played": 390,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, ee…"
+    },
+    {
+      "name": "Maastricht",
+      "matches_played": 390,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, eerste-divisie-2011-2012, ee…"
+    },
+    {
+      "name": "Sittard",
+      "matches_played": 390,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, eerste-divisie-2011-2012, ee…"
+    },
+    {
+      "name": "Telstar",
+      "matches_played": 390,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, ee…"
+    },
+    {
+      "name": "Dordrecht",
+      "matches_played": 386,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, ee…"
+    },
+    {
+      "name": "Volendam",
+      "matches_played": 386,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2010-2011, eerste-divisie-2011-2012, ee…"
+    },
+    {
+      "name": "G.A.Eagles",
+      "matches_played": 381,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, ee…"
+    },
+    {
+      "name": "Cambuur",
+      "matches_played": 380,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, eerste-divisie-2011-2012, eredivisie, erediv…"
+    },
+    {
+      "name": "Zwolle",
+      "matches_played": 380,
+      "seasons_count": 11,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie-1999-2000, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, eerste-divisie-2011-2012, eredivisie, erediv…"
+    },
+    {
+      "name": "Oss",
+      "matches_played": 355,
+      "seasons_count": 10,
+      "leagues": "eerste-divisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2011-2012, ee…"
+    },
+    {
+      "name": "Graafschap",
+      "matches_played": 346,
+      "seasons_count": 10,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2013-2014, eerste-divisie-2014-2015, eredivisie, eredivisie-1999-2000, eredivisie-2007-2008, eredivisie-2008-2009, eredivisie-2010-20…"
+    },
+    {
+      "name": "Excelsior",
+      "matches_played": 342,
+      "seasons_count": 10,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie-1999-2000, eerste-divisie-2005-2006, eerste-divisie-2008-2009, eerste-divisie-2013-2014, eredivisie, eredivisie-2006-2007, eredivisie-2007-2008, eredivisie-2010-2011, eredivisie-2011-20…"
+    },
+    {
+      "name": "AlmereCity",
+      "matches_played": 321,
+      "seasons_count": 9,
+      "leagues": "eerste-divisie",
+      "first_season_year": 2005,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, eerste-divisie-2011-2012, eerste-divisie-2013-2014, ee…"
+    },
+    {
+      "name": "Veendam",
+      "matches_played": 288,
+      "seasons_count": 8,
+      "leagues": "eerste-divisie",
+      "first_season_year": 1999,
+      "last_season_year": 2011,
+      "seasons": "eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, eerste-divisie-201…"
+    },
+    {
+      "name": "Apeldoorn",
+      "matches_played": 220,
+      "seasons_count": 6,
+      "leagues": "eerste-divisie",
+      "first_season_year": 2005,
+      "last_season_year": 2011,
+      "seasons": "eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, eerste-divisie-2011-2012"
+    },
+    {
+      "name": "Haarlem",
+      "matches_played": 220,
+      "seasons_count": 6,
+      "leagues": "eerste-divisie",
+      "first_season_year": 1999,
+      "last_season_year": 2008,
+      "seasons": "eerste-divisie-1999-2000, eerste-divisie-2002-2003, eerste-divisie-2005-2006, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009"
+    },
+    {
+      "name": "Roosendaal",
+      "matches_played": 216,
+      "seasons_count": 6,
+      "leagues": "eerste-divisie, eredivisie",
+      "first_season_year": 1999,
+      "last_season_year": 2010,
+      "seasons": "eerste-divisie-1999-2000, eerste-divisie-2006-2007, eerste-divisie-2007-2008, eerste-divisie-2008-2009, eerste-divisie-2010-2011, eredivisie-2005-2006"
+    },
+    {
+      "name": "Achilles29",
+      "matches_played": 101,
+      "seasons_count": 3,
+      "leagues": "eerste-divisie",
+      "first_season_year": 2013,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-2013-2014, eerste-divisie-2014-2015"
+    },
+    {
+      "name": "JongAjax",
+      "matches_played": 101,
+      "seasons_count": 3,
+      "leagues": "eerste-divisie",
+      "first_season_year": 2013,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-2013-2014, eerste-divisie-2014-2015"
+    },
+    {
+      "name": "JongPSV",
+      "matches_played": 101,
+      "seasons_count": 3,
+      "leagues": "eerste-divisie",
+      "first_season_year": 2013,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie, eerste-divisie-2013-2014, eerste-divisie-2014-2015"
+    },
+    {
+      "name": "JongFCTwente",
+      "matches_played": 76,
+      "seasons_count": 2,
+      "leagues": "eerste-divisie",
+      "first_season_year": 2013,
+      "last_season_year": 2014,
+      "seasons": "eerste-divisie-2013-2014, eerste-divisie-2014-2015"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Netherlands's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Netherlands — Football Clubs | ListBase",
+    "seo_description": "Download Netherlands — Football Clubs dataset with 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

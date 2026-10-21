@@ -1,0 +1,212 @@
+{
+  "id": "bg-unesco-heritage",
+  "name": "Bulgaria — UNESCO World Heritage Sites",
+  "title": "Bulgaria — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Bulgaria, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 42,
+      "name": "Boyana Church",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c2, c3",
+      "lat": 42.65,
+      "lon": 23.26666667,
+      "area_hectares": 0.68,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "bg",
+      "transboundary": false
+    },
+    {
+      "ref_no": 43,
+      "name": "Madara Rider",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c1, c3",
+      "lat": 43.3,
+      "lon": 27.15,
+      "area_hectares": 1.2,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "bg",
+      "transboundary": false
+    },
+    {
+      "ref_no": 44,
+      "name": "Thracian Tomb of Kazanlak",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c1, c3, c4",
+      "lat": 42.61666667,
+      "lon": 25.4,
+      "area_hectares": 0.0155,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "bg",
+      "transboundary": false
+    },
+    {
+      "ref_no": 45,
+      "name": "Rock-Hewn Churches of Ivanovo",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c2, c3",
+      "lat": 43.71666667,
+      "lon": 25.96666667,
+      "area_hectares": 171.9,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "bg",
+      "transboundary": false
+    },
+    {
+      "ref_no": 216,
+      "name": "Rila Monastery",
+      "category": "cultural",
+      "date_inscribed": 1983,
+      "criteria": "c6",
+      "lat": 42.11666667,
+      "lon": 23.4,
+      "area_hectares": 10.7,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "bg",
+      "transboundary": false
+    },
+    {
+      "ref_no": 217,
+      "name": "Ancient City of Nessebar",
+      "category": "cultural",
+      "date_inscribed": 1983,
+      "criteria": "c3, c4",
+      "lat": 42.65611,
+      "lon": 27.73,
+      "area_hectares": 27.1,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "bg",
+      "transboundary": false
+    },
+    {
+      "ref_no": 219,
+      "name": "Srebarna Nature Reserve",
+      "category": "natural",
+      "date_inscribed": 1983,
+      "criteria": "n10",
+      "lat": 44.11444,
+      "lon": 27.07806,
+      "area_hectares": 638,
+      "danger_list": "P 1992-2003",
+      "unesco_region": "Europe and North America",
+      "countries": "bg",
+      "transboundary": false
+    },
+    {
+      "ref_no": 225,
+      "name": "Pirin National Park",
+      "category": "natural",
+      "date_inscribed": 1983,
+      "criteria": "n7, n8, n9",
+      "lat": 41.74272222,
+      "lon": 23.43047222,
+      "area_hectares": 38350.04,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "bg",
+      "transboundary": false
+    },
+    {
+      "ref_no": 359,
+      "name": "Thracian Tomb of Sveshtari",
+      "category": "cultural",
+      "date_inscribed": 1985,
+      "criteria": "c1, c3",
+      "lat": 43.66667,
+      "lon": 26.66667,
+      "area_hectares": 647.6,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "bg",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Bulgaria — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Bulgaria, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bulgaria — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Bulgaria — UNESCO World Heritage Sites dataset with 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

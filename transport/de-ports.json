@@ -1,0 +1,211 @@
+{
+  "id": "de-ports",
+  "name": "Germany — Ports",
+  "title": "Germany — Ports",
+  "description": "Ports and harbors in Germany: name, city, coordinates, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "asciiname",
+      "label": "Asciiname",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "unlc_list",
+      "label": "Unlc List",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "",
+      "name": "Kiel Port",
+      "asciiname": "Kiel Port",
+      "city_name_list": "",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "adm1_name_ascii": "Schleswig-Holstein",
+      "latitude": 54.31011,
+      "longitude": 10.1327,
+      "timezone": "Europe/Berlin",
+      "unlc_list": "DEKEL|"
+    },
+    {
+      "iata_code": "",
+      "name": "Rostock Port",
+      "asciiname": "Rostock Port",
+      "city_name_list": "",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "adm1_name_ascii": "Mecklenburg-Vorpommern",
+      "latitude": 54.14205,
+      "longitude": 12.10359,
+      "timezone": "Europe/Berlin",
+      "unlc_list": "DERSK|"
+    },
+    {
+      "iata_code": "",
+      "name": "Sassnitz Port",
+      "asciiname": "Sassnitz Port",
+      "city_name_list": "",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "adm1_name_ascii": "Mecklenburg-Vorpommern",
+      "latitude": 54.48686,
+      "longitude": 13.59023,
+      "timezone": "Europe/Rome",
+      "unlc_list": "DESAS|"
+    },
+    {
+      "iata_code": "",
+      "name": "Travemunde Port",
+      "asciiname": "Travemunde Port",
+      "city_name_list": "",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "adm1_name_ascii": "Schleswig-Holstein",
+      "latitude": 53.94075,
+      "longitude": 10.85852,
+      "timezone": "Europe/Berlin",
+      "unlc_list": "DETRV|"
+    },
+    {
+      "iata_code": "",
+      "name": "Stadthafen Sassnitz",
+      "asciiname": "Stadthafen Sassnitz",
+      "city_name_list": "",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "adm1_name_ascii": "Mecklenburg-Vorpommern",
+      "latitude": 54.50748,
+      "longitude": 13.63159,
+      "timezone": "Europe/Berlin",
+      "unlc_list": "DESAS|"
+    },
+    {
+      "iata_code": "",
+      "name": "Jade Weser Port",
+      "asciiname": "Jade Weser Port",
+      "city_name_list": "",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "adm1_name_ascii": "Lower Saxony",
+      "latitude": 53.59365,
+      "longitude": 8.14645,
+      "timezone": "Europe/Berlin",
+      "unlc_list": "DEPSW|"
+    },
+    {
+      "iata_code": "",
+      "name": "Duisburg Inner Harbour",
+      "asciiname": "Duisburg Inner Harbour",
+      "city_name_list": "",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "adm1_name_ascii": "North Rhine-Westphalia",
+      "latitude": 51.44172,
+      "longitude": 6.7691,
+      "timezone": "Europe/Berlin",
+      "unlc_list": "DEDUI|"
+    },
+    {
+      "iata_code": "",
+      "name": "Port of Hamburg",
+      "asciiname": "Port of Hamburg",
+      "city_name_list": "",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "adm1_name_ascii": "Free and Hanseatic City of Hamburg",
+      "latitude": 53.5423,
+      "longitude": 9.96558,
+      "timezone": "Europe/Berlin",
+      "unlc_list": "DEHAM|"
+    },
+    {
+      "iata_code": "",
+      "name": "Bremerhaven",
+      "asciiname": "Bremerhaven",
+      "city_name_list": "",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "adm1_name_ascii": "Free Hanseatic City of Bremen",
+      "latitude": 53.58217,
+      "longitude": 8.53696,
+      "timezone": "Europe/Berlin",
+      "unlc_list": "DEBRV|"
+    },
+    {
+      "iata_code": "",
+      "name": "Container Terminal Lübeck",
+      "asciiname": "Container Terminal Luebeck",
+      "city_name_list": "",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "adm1_name_ascii": "Schleswig-Holstein",
+      "latitude": 53.90417,
+      "longitude": 10.77036,
+      "timezone": "Europe/Berlin",
+      "unlc_list": "DELBC|"
+    }
+  ],
+  "meta": {
+    "title": "Germany — Ports - Free Download",
+    "description": "Ports and harbors in Germany: name, city, coordinates, timezone. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Germany — Ports | ListBase",
+    "seo_description": "Download Germany — Ports dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

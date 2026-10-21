@@ -1,0 +1,178 @@
+{
+  "id": "bn-power-plants",
+  "name": "Brunei Darussalam — Power Plants",
+  "title": "Brunei Darussalam — Power Plants",
+  "description": "Power plants located in Brunei Darussalam from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "number"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Lumut Cogen Power Station Brunei",
+      "gppd_idnr": "GEODB0045546",
+      "capacity_mw": 246,
+      "latitude": 4.6654,
+      "longitude": 114.4646,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1091.5",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Gadong 2 Power Plant Brunei Darussalam",
+      "gppd_idnr": "GEODB0045543",
+      "capacity_mw": 128,
+      "latitude": 4.9111,
+      "longitude": 114.9103,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 567.93",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Bukit Panggal CCGT Power Station Brunei",
+      "gppd_idnr": "GEODB0045547",
+      "capacity_mw": 110,
+      "latitude": 4.8282,
+      "longitude": 114.7461,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 488.07",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Berakas CCGT Power Plant Brunei",
+      "gppd_idnr": "GEODB0045545",
+      "capacity_mw": 102,
+      "latitude": 4.9707,
+      "longitude": 114.9303,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 452.57",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Brunei Darussalam — Power Plants - Free Download",
+    "description": "Power plants located in Brunei Darussalam from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 4 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Brunei Darussalam — Power Plants | ListBase",
+    "seo_description": "Download Brunei Darussalam — Power Plants dataset with 4 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 4 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

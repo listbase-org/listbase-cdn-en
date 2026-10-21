@@ -1,0 +1,232 @@
+{
+  "id": "lb-power-plants",
+  "name": "Lebanon — Power Plants",
+  "title": "Lebanon — Power Plants",
+  "description": "Power plants located in Lebanon from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Zouk 1",
+      "gppd_idnr": "WRI1023663",
+      "capacity_mw": 642.8,
+      "latitude": 33.969,
+      "longitude": 35.604,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1984,
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjK2LCH27rQAhWi4IMKHaveBssQFggbMAA&url=http%3A%2F%2Fwww.auptde.org%2FNewsDetails.aspx%3Flang%3Den%26NID%3D283&u…",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Deir Ammar",
+      "gppd_idnr": "WRI1023661",
+      "capacity_mw": 470,
+      "latitude": 34.465,
+      "longitude": 35.8942,
+      "primary_fuel": "Gas",
+      "other_fuels": "Oil",
+      "commissioning_year": 1998,
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjK2LCH27rQAhWi4IMKHaveBssQFggbMAA&url=http%3A%2F%2Fwww.auptde.org%2FNewsDetails.aspx%3Flang%3Den%26NID%3D283&u…",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Zahrani",
+      "gppd_idnr": "WRI1023662",
+      "capacity_mw": 470,
+      "latitude": 33.4961,
+      "longitude": 35.338,
+      "primary_fuel": "Gas",
+      "other_fuels": "Oil",
+      "commissioning_year": 1998,
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjK2LCH27rQAhWi4IMKHaveBssQFggbMAA&url=http%3A%2F%2Fwww.auptde.org%2FNewsDetails.aspx%3Flang%3Den%26NID%3D283&u…",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Jieh 1",
+      "gppd_idnr": "WRI1023664",
+      "capacity_mw": 347.5,
+      "latitude": 33.6475,
+      "longitude": 35.3996,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1971,
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjK2LCH27rQAhWi4IMKHaveBssQFggbMAA&url=http%3A%2F%2Fwww.auptde.org%2FNewsDetails.aspx%3Flang%3Den%26NID%3D283&u…",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Hreishi",
+      "gppd_idnr": "WRI1023665",
+      "capacity_mw": 70,
+      "latitude": 34.3795,
+      "longitude": 35.7584,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1983,
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjK2LCH27rQAhWi4IMKHaveBssQFggbMAA&url=http%3A%2F%2Fwww.auptde.org%2FNewsDetails.aspx%3Flang%3Den%26NID%3D283&u…",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Baalback",
+      "gppd_idnr": "WRI1023666",
+      "capacity_mw": 35,
+      "latitude": 34.0209,
+      "longitude": 36.1919,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1996,
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjK2LCH27rQAhWi4IMKHaveBssQFggbMAA&url=http%3A%2F%2Fwww.auptde.org%2FNewsDetails.aspx%3Flang%3Den%26NID%3D283&u…",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sour",
+      "gppd_idnr": "WRI1023667",
+      "capacity_mw": 35,
+      "latitude": 33.2761,
+      "longitude": 35.2289,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1996,
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjK2LCH27rQAhWi4IMKHaveBssQFggbMAA&url=http%3A%2F%2Fwww.auptde.org%2FNewsDetails.aspx%3Flang%3Den%26NID%3D283&u…",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Lebanon — Power Plants - Free Download",
+    "description": "Power plants located in Lebanon from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lebanon — Power Plants | ListBase",
+    "seo_description": "Download Lebanon — Power Plants dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

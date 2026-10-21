@@ -1,0 +1,659 @@
+{
+  "id": "math-fibonacci-sequence",
+  "name": "First 100 Fibonacci Numbers Dataset",
+  "category": "math",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "index",
+      "label": "Index (n)",
+      "type": "number"
+    },
+    {
+      "key": "fibonacci",
+      "label": "F(n)",
+      "type": "string"
+    },
+    {
+      "key": "digits",
+      "label": "Digits",
+      "type": "number"
+    },
+    {
+      "key": "ratio_to_previous",
+      "label": "F(n)/F(n-1)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "index": 1,
+      "fibonacci": "0",
+      "digits": 1,
+      "ratio_to_previous": null
+    },
+    {
+      "index": 2,
+      "fibonacci": "1",
+      "digits": 1,
+      "ratio_to_previous": null
+    },
+    {
+      "index": 3,
+      "fibonacci": "1",
+      "digits": 1,
+      "ratio_to_previous": "1.0000000000"
+    },
+    {
+      "index": 4,
+      "fibonacci": "2",
+      "digits": 1,
+      "ratio_to_previous": "2.0000000000"
+    },
+    {
+      "index": 5,
+      "fibonacci": "3",
+      "digits": 1,
+      "ratio_to_previous": "1.5000000000"
+    },
+    {
+      "index": 6,
+      "fibonacci": "5",
+      "digits": 1,
+      "ratio_to_previous": "1.6666666667"
+    },
+    {
+      "index": 7,
+      "fibonacci": "8",
+      "digits": 1,
+      "ratio_to_previous": "1.6000000000"
+    },
+    {
+      "index": 8,
+      "fibonacci": "13",
+      "digits": 2,
+      "ratio_to_previous": "1.6250000000"
+    },
+    {
+      "index": 9,
+      "fibonacci": "21",
+      "digits": 2,
+      "ratio_to_previous": "1.6153846154"
+    },
+    {
+      "index": 10,
+      "fibonacci": "34",
+      "digits": 2,
+      "ratio_to_previous": "1.6190476190"
+    },
+    {
+      "index": 11,
+      "fibonacci": "55",
+      "digits": 2,
+      "ratio_to_previous": "1.6176470588"
+    },
+    {
+      "index": 12,
+      "fibonacci": "89",
+      "digits": 2,
+      "ratio_to_previous": "1.6181818182"
+    },
+    {
+      "index": 13,
+      "fibonacci": "144",
+      "digits": 3,
+      "ratio_to_previous": "1.6179775281"
+    },
+    {
+      "index": 14,
+      "fibonacci": "233",
+      "digits": 3,
+      "ratio_to_previous": "1.6180555556"
+    },
+    {
+      "index": 15,
+      "fibonacci": "377",
+      "digits": 3,
+      "ratio_to_previous": "1.6180257511"
+    },
+    {
+      "index": 16,
+      "fibonacci": "610",
+      "digits": 3,
+      "ratio_to_previous": "1.6180371353"
+    },
+    {
+      "index": 17,
+      "fibonacci": "987",
+      "digits": 3,
+      "ratio_to_previous": "1.6180327869"
+    },
+    {
+      "index": 18,
+      "fibonacci": "1597",
+      "digits": 4,
+      "ratio_to_previous": "1.6180344478"
+    },
+    {
+      "index": 19,
+      "fibonacci": "2584",
+      "digits": 4,
+      "ratio_to_previous": "1.6180338134"
+    },
+    {
+      "index": 20,
+      "fibonacci": "4181",
+      "digits": 4,
+      "ratio_to_previous": "1.6180340557"
+    },
+    {
+      "index": 21,
+      "fibonacci": "6765",
+      "digits": 4,
+      "ratio_to_previous": "1.6180339632"
+    },
+    {
+      "index": 22,
+      "fibonacci": "10946",
+      "digits": 5,
+      "ratio_to_previous": "1.6180339985"
+    },
+    {
+      "index": 23,
+      "fibonacci": "17711",
+      "digits": 5,
+      "ratio_to_previous": "1.6180339850"
+    },
+    {
+      "index": 24,
+      "fibonacci": "28657",
+      "digits": 5,
+      "ratio_to_previous": "1.6180339902"
+    },
+    {
+      "index": 25,
+      "fibonacci": "46368",
+      "digits": 5,
+      "ratio_to_previous": "1.6180339882"
+    },
+    {
+      "index": 26,
+      "fibonacci": "75025",
+      "digits": 5,
+      "ratio_to_previous": "1.6180339890"
+    },
+    {
+      "index": 27,
+      "fibonacci": "121393",
+      "digits": 6,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 28,
+      "fibonacci": "196418",
+      "digits": 6,
+      "ratio_to_previous": "1.6180339888"
+    },
+    {
+      "index": 29,
+      "fibonacci": "317811",
+      "digits": 6,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 30,
+      "fibonacci": "514229",
+      "digits": 6,
+      "ratio_to_previous": "1.6180339888"
+    },
+    {
+      "index": 31,
+      "fibonacci": "832040",
+      "digits": 6,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 32,
+      "fibonacci": "1346269",
+      "digits": 7,
+      "ratio_to_previous": "1.6180339888"
+    },
+    {
+      "index": 33,
+      "fibonacci": "2178309",
+      "digits": 7,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 34,
+      "fibonacci": "3524578",
+      "digits": 7,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 35,
+      "fibonacci": "5702887",
+      "digits": 7,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 36,
+      "fibonacci": "9227465",
+      "digits": 7,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 37,
+      "fibonacci": "14930352",
+      "digits": 8,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 38,
+      "fibonacci": "24157817",
+      "digits": 8,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 39,
+      "fibonacci": "39088169",
+      "digits": 8,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 40,
+      "fibonacci": "63245986",
+      "digits": 8,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 41,
+      "fibonacci": "102334155",
+      "digits": 9,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 42,
+      "fibonacci": "165580141",
+      "digits": 9,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 43,
+      "fibonacci": "267914296",
+      "digits": 9,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 44,
+      "fibonacci": "433494437",
+      "digits": 9,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 45,
+      "fibonacci": "701408733",
+      "digits": 9,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 46,
+      "fibonacci": "1134903170",
+      "digits": 10,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 47,
+      "fibonacci": "1836311903",
+      "digits": 10,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 48,
+      "fibonacci": "2971215073",
+      "digits": 10,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 49,
+      "fibonacci": "4807526976",
+      "digits": 10,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 50,
+      "fibonacci": "7778742049",
+      "digits": 10,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 51,
+      "fibonacci": "12586269025",
+      "digits": 11,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 52,
+      "fibonacci": "20365011074",
+      "digits": 11,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 53,
+      "fibonacci": "32951280099",
+      "digits": 11,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 54,
+      "fibonacci": "53316291173",
+      "digits": 11,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 55,
+      "fibonacci": "86267571272",
+      "digits": 11,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 56,
+      "fibonacci": "139583862445",
+      "digits": 12,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 57,
+      "fibonacci": "225851433717",
+      "digits": 12,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 58,
+      "fibonacci": "365435296162",
+      "digits": 12,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 59,
+      "fibonacci": "591286729879",
+      "digits": 12,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 60,
+      "fibonacci": "956722026041",
+      "digits": 12,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 61,
+      "fibonacci": "1548008755920",
+      "digits": 13,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 62,
+      "fibonacci": "2504730781961",
+      "digits": 13,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 63,
+      "fibonacci": "4052739537881",
+      "digits": 13,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 64,
+      "fibonacci": "6557470319842",
+      "digits": 13,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 65,
+      "fibonacci": "10610209857723",
+      "digits": 14,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 66,
+      "fibonacci": "17167680177565",
+      "digits": 14,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 67,
+      "fibonacci": "27777890035288",
+      "digits": 14,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 68,
+      "fibonacci": "44945570212853",
+      "digits": 14,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 69,
+      "fibonacci": "72723460248141",
+      "digits": 14,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 70,
+      "fibonacci": "117669030460994",
+      "digits": 15,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 71,
+      "fibonacci": "190392490709135",
+      "digits": 15,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 72,
+      "fibonacci": "308061521170129",
+      "digits": 15,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 73,
+      "fibonacci": "498454011879264",
+      "digits": 15,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 74,
+      "fibonacci": "806515533049393",
+      "digits": 15,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 75,
+      "fibonacci": "1304969544928657",
+      "digits": 16,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 76,
+      "fibonacci": "2111485077978050",
+      "digits": 16,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 77,
+      "fibonacci": "3416454622906707",
+      "digits": 16,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 78,
+      "fibonacci": "5527939700884757",
+      "digits": 16,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 79,
+      "fibonacci": "8944394323791464",
+      "digits": 16,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 80,
+      "fibonacci": "14472334024676221",
+      "digits": 17,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 81,
+      "fibonacci": "23416728348467685",
+      "digits": 17,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 82,
+      "fibonacci": "37889062373143906",
+      "digits": 17,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 83,
+      "fibonacci": "61305790721611591",
+      "digits": 17,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 84,
+      "fibonacci": "99194853094755497",
+      "digits": 17,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 85,
+      "fibonacci": "160500643816367088",
+      "digits": 18,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 86,
+      "fibonacci": "259695496911122585",
+      "digits": 18,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 87,
+      "fibonacci": "420196140727489673",
+      "digits": 18,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 88,
+      "fibonacci": "679891637638612258",
+      "digits": 18,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 89,
+      "fibonacci": "1100087778366101931",
+      "digits": 19,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 90,
+      "fibonacci": "1779979416004714189",
+      "digits": 19,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 91,
+      "fibonacci": "2880067194370816120",
+      "digits": 19,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 92,
+      "fibonacci": "4660046610375530309",
+      "digits": 19,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 93,
+      "fibonacci": "7540113804746346429",
+      "digits": 19,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 94,
+      "fibonacci": "12200160415121876738",
+      "digits": 20,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 95,
+      "fibonacci": "19740274219868223167",
+      "digits": 20,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 96,
+      "fibonacci": "31940434634990099905",
+      "digits": 20,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 97,
+      "fibonacci": "51680708854858323072",
+      "digits": 20,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 98,
+      "fibonacci": "83621143489848422977",
+      "digits": 20,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 99,
+      "fibonacci": "135301852344706746049",
+      "digits": 21,
+      "ratio_to_previous": "1.6180339887"
+    },
+    {
+      "index": 100,
+      "fibonacci": "218922995834555169026",
+      "digits": 21,
+      "ratio_to_previous": "1.6180339887"
+    }
+  ],
+  "meta": {
+    "seo_title": "Fibonacci Sequence (First 100) - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download of the first 100 Fibonacci numbers, with index, value, digit count, and ratio data. Explore 100 records in Excel, CSV, and PDF formats for math and data analysis.",
+    "title": "First 100 Fibonacci Numbers Dataset",
+    "description": "This dataset provides the first 100 terms of the Fibonacci sequence, including each number's index, its value (F(n)), the count of its digits, and its ratio to the preceding term (F(n)/F(n-1)). It's ideal for mathematical study and data analysis.",
+    "key_takeaways": [
+      "Access the first 100 Fibonacci numbers with their values and properties.",
+      "Explore the growth pattern and ratios of the sequence.",
+      "Download comprehensive data on Fibonacci numbers up to F(100).",
+      "Leverage index, value, digit count, and ratio to previous term for analysis."
+    ],
+    "keywords": [
+      "fibonacci sequence data",
+      "first 100 fibonacci numbers",
+      "fibonacci ratio golden ratio",
+      "download fibonacci csv excel",
+      "mathematical sequence dataset",
+      "number theory data"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your Python scripts or SQL database for algorithmic research, calculating statistical properties, or generating visualizations of the sequence's growth.",
+      "Use the **Excel** file to easily filter, sort, and perform calculations like charting the digit growth or observing the ratio approaching the Golden Ratio with built-in functions.",
+      "Print the **PDF** version for a clear, offline reference of the first 100 Fibonacci numbers, ideal for classroom education, study guides, or quick lookups without a computer.",
+      "Analyze the progression of the Fibonacci sequence, understand its mathematical properties, and explore patterns related to digit count and the approximation of the Golden Ratio."
+    ]
+  },
+  "record_count": 100,
+  "title": "First 100 Fibonacci Numbers Dataset"
+}

@@ -1,0 +1,196 @@
+{
+  "id": "rs-airports-iata",
+  "name": "Serbia — IATA Airports",
+  "title": "Serbia — IATA Airports",
+  "description": "Airports with IATA codes in Serbia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BEG",
+      "icao_code": "LYBE",
+      "name": "Belgrade Nikola Tesla Airport",
+      "city_name_list": "Belgrade",
+      "country_code": "RS",
+      "country_name": "Serbia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Central Serbia",
+      "latitude": 44.81844,
+      "longitude": 20.30914,
+      "elevation": 102,
+      "timezone": "Europe/Belgrade",
+      "wiki_link": "https://en.wikipedia.org/wiki/Belgrade_Nikola_Tesla_Airport"
+    },
+    {
+      "iata_code": "BJY",
+      "icao_code": "LYBT",
+      "name": "Batajnica Air Base",
+      "city_name_list": "Belgrade",
+      "country_code": "RS",
+      "country_name": "Serbia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Vojvodina",
+      "latitude": 44.82,
+      "longitude": 20.3,
+      "elevation": "",
+      "timezone": "Europe/Belgrade",
+      "wiki_link": "https://en.wikipedia.org/wiki/Batajnica_Air_Base"
+    },
+    {
+      "iata_code": "INI",
+      "icao_code": "LYNI",
+      "name": "Niš Constantine the Great Airport",
+      "city_name_list": "Niš",
+      "country_code": "RS",
+      "country_name": "Serbia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Central Serbia",
+      "latitude": 43.33729,
+      "longitude": 21.85372,
+      "elevation": 197,
+      "timezone": "Europe/Belgrade",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ni%C5%A1_Constantine_the_Great_Airport"
+    },
+    {
+      "iata_code": "KVO",
+      "icao_code": "LYKV",
+      "name": "Morava Kraljevo Airport",
+      "city_name_list": "Kraljevo=Lađevci",
+      "country_code": "RS",
+      "country_name": "Serbia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Central Serbia",
+      "latitude": 43.81877,
+      "longitude": 20.58531,
+      "elevation": "",
+      "timezone": "Europe/Belgrade",
+      "wiki_link": "https://en.wikipedia.org/wiki/Morava_Airport"
+    },
+    {
+      "iata_code": "QBG",
+      "icao_code": "LYPA",
+      "name": "Pančevo Airport",
+      "city_name_list": "Pančevo Airport",
+      "country_code": "RS",
+      "country_name": "Serbia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Vojvodina",
+      "latitude": 44.90238,
+      "longitude": 20.63541,
+      "elevation": "",
+      "timezone": "Europe/Belgrade",
+      "wiki_link": "https://en.wikipedia.org/wiki/Pan%C4%8Devo_Airport"
+    },
+    {
+      "iata_code": "QND",
+      "icao_code": "LYNS",
+      "name": "Cenej Airport",
+      "city_name_list": "Novi Sad",
+      "country_code": "RS",
+      "country_name": "Serbia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Vojvodina",
+      "latitude": 45.25,
+      "longitude": 19.98,
+      "elevation": "",
+      "timezone": "Europe/Belgrade",
+      "wiki_link": "https://en.wikipedia.org/wiki/Novi_Sad_Airport"
+    },
+    {
+      "iata_code": "UZC",
+      "icao_code": "LYUZ",
+      "name": "Ponikve Airport",
+      "city_name_list": "Ponikve Airport",
+      "country_code": "RS",
+      "country_name": "Serbia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Central Serbia",
+      "latitude": 43.88,
+      "longitude": 19.7,
+      "elevation": "",
+      "timezone": "Europe/Belgrade",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ponikve_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Serbia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Serbia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Serbia — IATA Airports | ListBase",
+    "seo_description": "Download Serbia — IATA Airports dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

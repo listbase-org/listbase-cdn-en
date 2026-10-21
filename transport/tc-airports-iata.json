@@ -1,0 +1,196 @@
+{
+  "id": "tc-airports-iata",
+  "name": "Turks and Caicos Islands — IATA Airports",
+  "title": "Turks and Caicos Islands — IATA Airports",
+  "description": "Airports with IATA codes in Turks and Caicos Islands: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "GDT",
+      "icao_code": "MBGT",
+      "name": "JAGS McCartney International Airport",
+      "city_name_list": "Grand Turk",
+      "country_code": "TC",
+      "country_name": "Turks and Caicos Islands",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 21.4445,
+      "longitude": -71.1423,
+      "elevation": "",
+      "timezone": "America/Grand_Turk",
+      "wiki_link": "https://en.wikipedia.org/wiki/JAGS_McCartney_International_Airport"
+    },
+    {
+      "iata_code": "MDS",
+      "icao_code": "MBMC",
+      "name": "Middle Caicos Airport",
+      "city_name_list": "Middle Caicos",
+      "country_code": "TC",
+      "country_name": "Turks and Caicos Islands",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 21.8258,
+      "longitude": -71.8025,
+      "elevation": "",
+      "timezone": "America/Grand_Turk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Middle_Caicos_Airport"
+    },
+    {
+      "iata_code": "NCA",
+      "icao_code": "MBNC",
+      "name": "North Caicos Airport",
+      "city_name_list": "North Caicos Island",
+      "country_code": "TC",
+      "country_name": "Turks and Caicos Islands",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 21.9175,
+      "longitude": -71.9396,
+      "elevation": "",
+      "timezone": "America/Grand_Turk",
+      "wiki_link": "https://en.wikipedia.org/wiki/North_Caicos_Airport"
+    },
+    {
+      "iata_code": "PIC",
+      "icao_code": "MBPI",
+      "name": "Pine Cay Airport",
+      "city_name_list": "Pine Cay Airport",
+      "country_code": "TC",
+      "country_name": "Turks and Caicos Islands",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 21.92,
+      "longitude": -71.98,
+      "elevation": "",
+      "timezone": "America/Grand_Turk",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "PLS",
+      "icao_code": "MBPV",
+      "name": "Providenciales International Airport",
+      "city_name_list": "Providenciales Island",
+      "country_code": "TC",
+      "country_name": "Turks and Caicos Islands",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 21.77361,
+      "longitude": -72.26583,
+      "elevation": 5,
+      "timezone": "America/Grand_Turk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Providenciales_International_Airport"
+    },
+    {
+      "iata_code": "SLX",
+      "icao_code": "MBSY",
+      "name": "Salt Cay Airport",
+      "city_name_list": "Salt Cay",
+      "country_code": "TC",
+      "country_name": "Turks and Caicos Islands",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 21.33393,
+      "longitude": -71.20338,
+      "elevation": "",
+      "timezone": "America/Grand_Turk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Salt_Cay_Airport"
+    },
+    {
+      "iata_code": "XSC",
+      "icao_code": "MBSC",
+      "name": "South Caicos Airport",
+      "city_name_list": "South Caicos Island",
+      "country_code": "TC",
+      "country_name": "Turks and Caicos Islands",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 21.5157,
+      "longitude": -71.5285,
+      "elevation": "",
+      "timezone": "America/Grand_Turk",
+      "wiki_link": "https://en.wikipedia.org/wiki/South_Caicos_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Turks and Caicos Islands — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Turks and Caicos Islands: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Turks and Caicos Islands — IATA Airports | ListBase",
+    "seo_description": "Download Turks and Caicos Islands — IATA Airports dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

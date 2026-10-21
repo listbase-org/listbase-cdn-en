@@ -1,0 +1,322 @@
+{
+  "id": "qa-power-plants",
+  "name": "Qatar — Power Plants",
+  "title": "Qatar — Power Plants",
+  "description": "Power plants located in Qatar from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "number"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ras Laffan C (Ras Qartas) CCGT Power Plant Qatar",
+      "gppd_idnr": "GEODB0042860",
+      "capacity_mw": 2730,
+      "latitude": 25.936,
+      "longitude": 51.5235,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 13972.94",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Mesaieed CCGT Power Plant Qatar",
+      "gppd_idnr": "GEODB0042859",
+      "capacity_mw": 2007,
+      "latitude": 24.9753,
+      "longitude": 51.5783,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 10272.41",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Qatalum CCGT Power Plant Qatar",
+      "gppd_idnr": "GEODB0045477",
+      "capacity_mw": 1350,
+      "latitude": 24.9713,
+      "longitude": 51.5811,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 6909.69",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ras Laffan B CCGT Power Plant Qatar",
+      "gppd_idnr": "GEODB0005023",
+      "capacity_mw": 1025,
+      "latitude": 25.9243,
+      "longitude": 51.5481,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 5246.25",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ras Laffan A Cogen GT Power Plant Qatar",
+      "gppd_idnr": "GEODB0005022",
+      "capacity_mw": 756,
+      "latitude": 25.9228,
+      "longitude": 51.5452,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 3869.43",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ras Abu Fontas A OCGT Cogen Power Plant Qatar",
+      "gppd_idnr": "GEODB0005018",
+      "capacity_mw": 626,
+      "latitude": 25.2058,
+      "longitude": 51.6174,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 3204.05",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ras Abu Fontas B OCGT Cogen Power Plant Qatar",
+      "gppd_idnr": "GEODB0005019",
+      "capacity_mw": 609,
+      "latitude": 25.1989,
+      "longitude": 51.6166,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 3117.04",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ras Abu Fontas B-2 OCGT Cogen Power Plant Qatar",
+      "gppd_idnr": "GEODB0005021",
+      "capacity_mw": 567,
+      "latitude": 25.1964,
+      "longitude": 51.6159,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 2902.07",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ras Abu Fontas B-1 OCGT Power Plant Qatar",
+      "gppd_idnr": "GEODB0005020",
+      "capacity_mw": 376,
+      "latitude": 25.1978,
+      "longitude": 51.6167,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1924.47",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Al Wajbha GT Power Plant Qatar",
+      "gppd_idnr": "GEODB0002019",
+      "capacity_mw": 301,
+      "latitude": 25.2997,
+      "longitude": 51.4046,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1540.6",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Al Saliyah GT Power Plant Qatar",
+      "gppd_idnr": "GEODB0002017",
+      "capacity_mw": 134,
+      "latitude": 25.2065,
+      "longitude": 51.3926,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 685.85",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Doha South Super GT Power Plant Qatar",
+      "gppd_idnr": "GEODB0002951",
+      "capacity_mw": 67,
+      "latitude": 25.194,
+      "longitude": 51.5246,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 342.92",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Qatar — Power Plants - Free Download",
+    "description": "Power plants located in Qatar from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Qatar — Power Plants | ListBase",
+    "seo_description": "Download Qatar — Power Plants dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

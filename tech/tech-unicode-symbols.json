@@ -1,0 +1,554 @@
+{
+  "id": "tech-unicode-symbols",
+  "name": "Common Unicode Symbols & HTML Entities Dataset",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "html_entity",
+      "label": "HTML Entity",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "←",
+      "code_point": "U+2190",
+      "html_entity": "&larr;",
+      "name": "Leftwards Arrow",
+      "category": "Arrows"
+    },
+    {
+      "symbol": "→",
+      "code_point": "U+2192",
+      "html_entity": "&rarr;",
+      "name": "Rightwards Arrow",
+      "category": "Arrows"
+    },
+    {
+      "symbol": "↑",
+      "code_point": "U+2191",
+      "html_entity": "&uarr;",
+      "name": "Upwards Arrow",
+      "category": "Arrows"
+    },
+    {
+      "symbol": "↓",
+      "code_point": "U+2193",
+      "html_entity": "&darr;",
+      "name": "Downwards Arrow",
+      "category": "Arrows"
+    },
+    {
+      "symbol": "↔",
+      "code_point": "U+2194",
+      "html_entity": "&harr;",
+      "name": "Left Right Arrow",
+      "category": "Arrows"
+    },
+    {
+      "symbol": "↕",
+      "code_point": "U+2195",
+      "html_entity": "&varr;",
+      "name": "Up Down Arrow",
+      "category": "Arrows"
+    },
+    {
+      "symbol": "⇐",
+      "code_point": "U+21D0",
+      "html_entity": "&lArr;",
+      "name": "Leftwards Double Arrow",
+      "category": "Arrows"
+    },
+    {
+      "symbol": "⇒",
+      "code_point": "U+21D2",
+      "html_entity": "&rArr;",
+      "name": "Rightwards Double Arrow",
+      "category": "Arrows"
+    },
+    {
+      "symbol": "⇑",
+      "code_point": "U+21D1",
+      "html_entity": "&uArr;",
+      "name": "Upwards Double Arrow",
+      "category": "Arrows"
+    },
+    {
+      "symbol": "⇓",
+      "code_point": "U+21D3",
+      "html_entity": "&dArr;",
+      "name": "Downwards Double Arrow",
+      "category": "Arrows"
+    },
+    {
+      "symbol": "±",
+      "code_point": "U+00B1",
+      "html_entity": "&plusmn;",
+      "name": "Plus-Minus Sign",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "×",
+      "code_point": "U+00D7",
+      "html_entity": "&times;",
+      "name": "Multiplication Sign",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "÷",
+      "code_point": "U+00F7",
+      "html_entity": "&divide;",
+      "name": "Division Sign",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "≠",
+      "code_point": "U+2260",
+      "html_entity": "&ne;",
+      "name": "Not Equal To",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "≈",
+      "code_point": "U+2248",
+      "html_entity": "&asymp;",
+      "name": "Almost Equal To",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "≤",
+      "code_point": "U+2264",
+      "html_entity": "&le;",
+      "name": "Less-Than or Equal To",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "≥",
+      "code_point": "U+2265",
+      "html_entity": "&ge;",
+      "name": "Greater-Than or Equal To",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "∞",
+      "code_point": "U+221E",
+      "html_entity": "&infin;",
+      "name": "Infinity",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "√",
+      "code_point": "U+221A",
+      "html_entity": "&radic;",
+      "name": "Square Root",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "∑",
+      "code_point": "U+2211",
+      "html_entity": "&sum;",
+      "name": "N-Ary Summation",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "∏",
+      "code_point": "U+220F",
+      "html_entity": "&prod;",
+      "name": "N-Ary Product",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "∫",
+      "code_point": "U+222B",
+      "html_entity": "&int;",
+      "name": "Integral",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "∂",
+      "code_point": "U+2202",
+      "html_entity": "&part;",
+      "name": "Partial Differential",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "∇",
+      "code_point": "U+2207",
+      "html_entity": "&nabla;",
+      "name": "Nabla",
+      "category": "Math Operators"
+    },
+    {
+      "symbol": "α",
+      "code_point": "U+03B1",
+      "html_entity": "&alpha;",
+      "name": "Greek Small Letter Alpha",
+      "category": "Greek Letters"
+    },
+    {
+      "symbol": "β",
+      "code_point": "U+03B2",
+      "html_entity": "&beta;",
+      "name": "Greek Small Letter Beta",
+      "category": "Greek Letters"
+    },
+    {
+      "symbol": "γ",
+      "code_point": "U+03B3",
+      "html_entity": "&gamma;",
+      "name": "Greek Small Letter Gamma",
+      "category": "Greek Letters"
+    },
+    {
+      "symbol": "δ",
+      "code_point": "U+03B4",
+      "html_entity": "&delta;",
+      "name": "Greek Small Letter Delta",
+      "category": "Greek Letters"
+    },
+    {
+      "symbol": "π",
+      "code_point": "U+03C0",
+      "html_entity": "&pi;",
+      "name": "Greek Small Letter Pi",
+      "category": "Greek Letters"
+    },
+    {
+      "symbol": "σ",
+      "code_point": "U+03C3",
+      "html_entity": "&sigma;",
+      "name": "Greek Small Letter Sigma",
+      "category": "Greek Letters"
+    },
+    {
+      "symbol": "θ",
+      "code_point": "U+03B8",
+      "html_entity": "&theta;",
+      "name": "Greek Small Letter Theta",
+      "category": "Greek Letters"
+    },
+    {
+      "symbol": "λ",
+      "code_point": "U+03BB",
+      "html_entity": "&lambda;",
+      "name": "Greek Small Letter Lambda",
+      "category": "Greek Letters"
+    },
+    {
+      "symbol": "μ",
+      "code_point": "U+03BC",
+      "html_entity": "&mu;",
+      "name": "Greek Small Letter Mu",
+      "category": "Greek Letters"
+    },
+    {
+      "symbol": "Ω",
+      "code_point": "U+03A9",
+      "html_entity": "&Omega;",
+      "name": "Greek Capital Letter Omega",
+      "category": "Greek Letters"
+    },
+    {
+      "symbol": "$",
+      "code_point": "U+0024",
+      "html_entity": "&dollar;",
+      "name": "Dollar Sign",
+      "category": "Currency"
+    },
+    {
+      "symbol": "€",
+      "code_point": "U+20AC",
+      "html_entity": "&euro;",
+      "name": "Euro Sign",
+      "category": "Currency"
+    },
+    {
+      "symbol": "£",
+      "code_point": "U+00A3",
+      "html_entity": "&pound;",
+      "name": "Pound Sign",
+      "category": "Currency"
+    },
+    {
+      "symbol": "¥",
+      "code_point": "U+00A5",
+      "html_entity": "&yen;",
+      "name": "Yen Sign",
+      "category": "Currency"
+    },
+    {
+      "symbol": "₩",
+      "code_point": "U+20A9",
+      "html_entity": "&#8361;",
+      "name": "Won Sign",
+      "category": "Currency"
+    },
+    {
+      "symbol": "₹",
+      "code_point": "U+20B9",
+      "html_entity": "&#8377;",
+      "name": "Indian Rupee Sign",
+      "category": "Currency"
+    },
+    {
+      "symbol": "฿",
+      "code_point": "U+0E3F",
+      "html_entity": "&#3647;",
+      "name": "Thai Baht Sign",
+      "category": "Currency"
+    },
+    {
+      "symbol": "₿",
+      "code_point": "U+20BF",
+      "html_entity": "&#8383;",
+      "name": "Bitcoin Sign",
+      "category": "Currency"
+    },
+    {
+      "symbol": "©",
+      "code_point": "U+00A9",
+      "html_entity": "&copy;",
+      "name": "Copyright Sign",
+      "category": "Typography"
+    },
+    {
+      "symbol": "®",
+      "code_point": "U+00AE",
+      "html_entity": "&reg;",
+      "name": "Registered Sign",
+      "category": "Typography"
+    },
+    {
+      "symbol": "™",
+      "code_point": "U+2122",
+      "html_entity": "&trade;",
+      "name": "Trade Mark Sign",
+      "category": "Typography"
+    },
+    {
+      "symbol": "°",
+      "code_point": "U+00B0",
+      "html_entity": "&deg;",
+      "name": "Degree Sign",
+      "category": "Typography"
+    },
+    {
+      "symbol": "•",
+      "code_point": "U+2022",
+      "html_entity": "&bull;",
+      "name": "Bullet",
+      "category": "Typography"
+    },
+    {
+      "symbol": "…",
+      "code_point": "U+2026",
+      "html_entity": "&hellip;",
+      "name": "Horizontal Ellipsis",
+      "category": "Typography"
+    },
+    {
+      "symbol": "†",
+      "code_point": "U+2020",
+      "html_entity": "&dagger;",
+      "name": "Dagger",
+      "category": "Typography"
+    },
+    {
+      "symbol": "‡",
+      "code_point": "U+2021",
+      "html_entity": "&Dagger;",
+      "name": "Double Dagger",
+      "category": "Typography"
+    },
+    {
+      "symbol": "§",
+      "code_point": "U+00A7",
+      "html_entity": "&sect;",
+      "name": "Section Sign",
+      "category": "Typography"
+    },
+    {
+      "symbol": "¶",
+      "code_point": "U+00B6",
+      "html_entity": "&para;",
+      "name": "Pilcrow Sign",
+      "category": "Typography"
+    },
+    {
+      "symbol": "✓",
+      "code_point": "U+2713",
+      "html_entity": "&#10003;",
+      "name": "Check Mark",
+      "category": "Status"
+    },
+    {
+      "symbol": "✗",
+      "code_point": "U+2717",
+      "html_entity": "&#10007;",
+      "name": "Ballot X",
+      "category": "Status"
+    },
+    {
+      "symbol": "✔",
+      "code_point": "U+2714",
+      "html_entity": "&#10004;",
+      "name": "Heavy Check Mark",
+      "category": "Status"
+    },
+    {
+      "symbol": "✘",
+      "code_point": "U+2718",
+      "html_entity": "&#10008;",
+      "name": "Heavy Ballot X",
+      "category": "Status"
+    },
+    {
+      "symbol": "★",
+      "code_point": "U+2605",
+      "html_entity": "&#9733;",
+      "name": "Black Star",
+      "category": "Status"
+    },
+    {
+      "symbol": "☆",
+      "code_point": "U+2606",
+      "html_entity": "&#9734;",
+      "name": "White Star",
+      "category": "Status"
+    },
+    {
+      "symbol": "♥",
+      "code_point": "U+2665",
+      "html_entity": "&hearts;",
+      "name": "Black Heart Suit",
+      "category": "Status"
+    },
+    {
+      "symbol": "♦",
+      "code_point": "U+2666",
+      "html_entity": "&diams;",
+      "name": "Black Diamond Suit",
+      "category": "Status"
+    },
+    {
+      "symbol": "♣",
+      "code_point": "U+2663",
+      "html_entity": "&clubs;",
+      "name": "Black Club Suit",
+      "category": "Status"
+    },
+    {
+      "symbol": "♠",
+      "code_point": "U+2660",
+      "html_entity": "&spades;",
+      "name": "Black Spade Suit",
+      "category": "Status"
+    },
+    {
+      "symbol": "½",
+      "code_point": "U+00BD",
+      "html_entity": "&frac12;",
+      "name": "Vulgar Fraction One Half",
+      "category": "Fractions"
+    },
+    {
+      "symbol": "⅓",
+      "code_point": "U+2153",
+      "html_entity": "&#8531;",
+      "name": "Vulgar Fraction One Third",
+      "category": "Fractions"
+    },
+    {
+      "symbol": "¼",
+      "code_point": "U+00BC",
+      "html_entity": "&frac14;",
+      "name": "Vulgar Fraction One Quarter",
+      "category": "Fractions"
+    },
+    {
+      "symbol": "¾",
+      "code_point": "U+00BE",
+      "html_entity": "&frac34;",
+      "name": "Vulgar Fraction Three Quarters",
+      "category": "Fractions"
+    },
+    {
+      "symbol": "⅛",
+      "code_point": "U+215B",
+      "html_entity": "&#8539;",
+      "name": "Vulgar Fraction One Eighth",
+      "category": "Fractions"
+    },
+    {
+      "symbol": "²",
+      "code_point": "U+00B2",
+      "html_entity": "&sup2;",
+      "name": "Superscript Two",
+      "category": "Fractions"
+    },
+    {
+      "symbol": "³",
+      "code_point": "U+00B3",
+      "html_entity": "&sup3;",
+      "name": "Superscript Three",
+      "category": "Fractions"
+    },
+    {
+      "symbol": "¹",
+      "code_point": "U+00B9",
+      "html_entity": "&sup1;",
+      "name": "Superscript One",
+      "category": "Fractions"
+    }
+  ],
+  "meta": {
+    "seo_title": "Common Unicode Symbols - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download of 70 common Unicode symbols with code points, HTML entities, and categories. Available in Excel, CSV, and PDF formats for various uses.",
+    "title": "Common Unicode Symbols & HTML Entities Dataset",
+    "description": "This dataset provides a curated list of 70 common Unicode symbols, complete with their code points, HTML entities, names, and categories for easy reference.",
+    "key_takeaways": [
+      "Access 70 essential Unicode symbols, their code points, and HTML entities.",
+      "Explore various symbol categories like Arrows, Mathematical Operators, and more.",
+      "Download ready-to-use data for web development, text processing, and design projects.",
+      "Leverage symbols for improved digital content and internationalization."
+    ],
+    "keywords": [
+      "unicode symbols list",
+      "html entities csv",
+      "code points excel",
+      "special characters download",
+      "common unicode symbols",
+      "text symbols pdf"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your web application or database to dynamically display symbols based on user input or category.",
+      "Use the **Excel** file to quickly filter and find specific symbols or HTML entities for your content creation or design projects.",
+      "Print the **PDF** version for a handy offline reference guide of common Unicode symbols and their corresponding details.",
+      "Reference the dataset to ensure proper display of special characters across different platforms and international audiences."
+    ]
+  },
+  "record_count": 70,
+  "title": "Common Unicode Symbols & HTML Entities Dataset"
+}

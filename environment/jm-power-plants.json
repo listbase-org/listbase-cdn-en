@@ -1,0 +1,286 @@
+{
+  "id": "jm-power-plants",
+  "name": "Jamaica — Power Plants",
+  "title": "Jamaica — Power Plants",
+  "description": "Power plants located in Jamaica from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Old Harbour",
+      "gppd_idnr": "WRI1023917",
+      "capacity_mw": 347.5,
+      "latitude": 17.9006,
+      "longitude": -77.1071,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Jamaica Public Service Company",
+      "source": "Jamaica Public Service Company",
+      "url": "https://www.jpsco.com/about-jps/how-we-serve-you/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1052.8",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Hunts Bay",
+      "gppd_idnr": "WRI1023918",
+      "capacity_mw": 122.5,
+      "latitude": 17.975,
+      "longitude": -76.8176,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1992,
+      "owner": "Jamaica Public Service Company",
+      "source": "Jamaica Public Service Company",
+      "url": "https://www.jpsco.com/about-jps/how-we-serve-you/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 371.13",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Bogue",
+      "gppd_idnr": "WRI1023919",
+      "capacity_mw": 120,
+      "latitude": 18.4524,
+      "longitude": -77.9183,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Jamaica Public Service Company",
+      "source": "Jamaica Public Service Company",
+      "url": "https://www.jpsco.com/about-jps/how-we-serve-you/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 614.99",
+      "generation_data_source": ""
+    },
+    {
+      "name": "West Kingston",
+      "gppd_idnr": "WRI1023920",
+      "capacity_mw": 65,
+      "latitude": 17.9731,
+      "longitude": -76.8057,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 2013,
+      "owner": "Jamaica Energy Partners",
+      "source": "Jamaica Energy Partners",
+      "url": "http://www.jamenergy.com/index.php/projects/kingston",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 196.92",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Rockfort",
+      "gppd_idnr": "WRI1023921",
+      "capacity_mw": 64,
+      "latitude": 17.9701,
+      "longitude": -76.7519,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1997,
+      "owner": "Jamaica Private Power Company",
+      "source": "Jamaica Public Service Company",
+      "url": "https://www.jpsco.com/about-jps/how-we-serve-you/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 193.89",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Manchester",
+      "gppd_idnr": "WRI1023922",
+      "capacity_mw": 38.7,
+      "latitude": 17.9193,
+      "longitude": -77.5343,
+      "primary_fuel": "Wind",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Wigton Wind Farm Ltd.",
+      "source": "Jamaica Public Service Company",
+      "url": "https://www.jpsco.com/about-jps/how-we-serve-you/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 112.97",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Content",
+      "gppd_idnr": "WKS0064536",
+      "capacity_mw": 20,
+      "latitude": 17.944,
+      "longitude": -77.31,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 49.18; 2014: 51.02; 2015: 51.01; 2016: 44.82; 2017: 41.84",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Maggotty Hydro",
+      "gppd_idnr": "WRI1023924",
+      "capacity_mw": 6.4,
+      "latitude": 18.1598,
+      "longitude": -77.7609,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1959,
+      "owner": "Jamaica Public Service Company",
+      "source": "Jamaica Public Service Company",
+      "url": "https://www.jpsco.com/about-jps/how-we-serve-you/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 21.17; 2014: 19.51; 2015: 19.51; 2016: 20.37; 2017: 12.54",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Lower White River",
+      "gppd_idnr": "WRI1023925",
+      "capacity_mw": 4.8,
+      "latitude": 18.4122,
+      "longitude": -77.0696,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1952,
+      "owner": "Jamaica Public Service Company",
+      "source": "Jamaica Public Service Company",
+      "url": "https://www.jpsco.com/about-jps/how-we-serve-you/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 20.12; 2014: 18.83; 2015: 18.41; 2016: 20.7; 2017: 12.95",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Upper White River",
+      "gppd_idnr": "WRI1023927",
+      "capacity_mw": 3.6,
+      "latitude": 18.3751,
+      "longitude": -77.0514,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1945,
+      "owner": "Jamaica Public Service Company",
+      "source": "Jamaica Public Service Company",
+      "url": "https://www.jpsco.com/about-jps/how-we-serve-you/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 15.44; 2014: 14.42; 2015: 13.94; 2016: 15.87; 2017: 9.9",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Jamaica — Power Plants - Free Download",
+    "description": "Power plants located in Jamaica from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Jamaica — Power Plants | ListBase",
+    "seo_description": "Download Jamaica — Power Plants dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

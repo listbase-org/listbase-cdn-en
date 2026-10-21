@@ -1,0 +1,380 @@
+{
+  "id": "glacier-mass-balance",
+  "name": "Global Glacier Mass Balance (1956-2023)",
+  "title": "Global Glacier Mass Balance (1956-2023)",
+  "description": "Annual mean cumulative glacier mass balance. Duplicate of glacier-mass-balance-annual.",
+  "category": "science",
+  "source": "https://github.com/datasets/glacier-mass-balance",
+  "source_url": "https://github.com/datasets/glacier-mass-balance",
+  "updated": "2026-04",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "mean_cumulative_mass_balance_mwe",
+      "label": "Mean Cumulative Mass Balance Mwe",
+      "type": "number"
+    },
+    {
+      "key": "n_glaciers",
+      "label": "N Glaciers",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1956,
+      "mean_cumulative_mass_balance_mwe": 0
+    },
+    {
+      "year": 1957,
+      "mean_cumulative_mass_balance_mwe": -0.094,
+      "n_glaciers": 12
+    },
+    {
+      "year": 1958,
+      "mean_cumulative_mass_balance_mwe": -0.963,
+      "n_glaciers": 12
+    },
+    {
+      "year": 1959,
+      "mean_cumulative_mass_balance_mwe": -1.431,
+      "n_glaciers": 13
+    },
+    {
+      "year": 1960,
+      "mean_cumulative_mass_balance_mwe": -2.008,
+      "n_glaciers": 15
+    },
+    {
+      "year": 1961,
+      "mean_cumulative_mass_balance_mwe": -2.445,
+      "n_glaciers": 16
+    },
+    {
+      "year": 1962,
+      "mean_cumulative_mass_balance_mwe": -2.648,
+      "n_glaciers": 20
+    },
+    {
+      "year": 1963,
+      "mean_cumulative_mass_balance_mwe": -3,
+      "n_glaciers": 23
+    },
+    {
+      "year": 1964,
+      "mean_cumulative_mass_balance_mwe": -2.682,
+      "n_glaciers": 23
+    },
+    {
+      "year": 1965,
+      "mean_cumulative_mass_balance_mwe": -2.524,
+      "n_glaciers": 25
+    },
+    {
+      "year": 1966,
+      "mean_cumulative_mass_balance_mwe": -2.75,
+      "n_glaciers": 28
+    },
+    {
+      "year": 1967,
+      "mean_cumulative_mass_balance_mwe": -2.869,
+      "n_glaciers": 30
+    },
+    {
+      "year": 1968,
+      "mean_cumulative_mass_balance_mwe": -2.939,
+      "n_glaciers": 33
+    },
+    {
+      "year": 1969,
+      "mean_cumulative_mass_balance_mwe": -3.428,
+      "n_glaciers": 34
+    },
+    {
+      "year": 1970,
+      "mean_cumulative_mass_balance_mwe": -3.715,
+      "n_glaciers": 35
+    },
+    {
+      "year": 1971,
+      "mean_cumulative_mass_balance_mwe": -3.946,
+      "n_glaciers": 35
+    },
+    {
+      "year": 1972,
+      "mean_cumulative_mass_balance_mwe": -4.225,
+      "n_glaciers": 35
+    },
+    {
+      "year": 1973,
+      "mean_cumulative_mass_balance_mwe": -4.402,
+      "n_glaciers": 35
+    },
+    {
+      "year": 1974,
+      "mean_cumulative_mass_balance_mwe": -4.589,
+      "n_glaciers": 35
+    },
+    {
+      "year": 1975,
+      "mean_cumulative_mass_balance_mwe": -4.815,
+      "n_glaciers": 36
+    },
+    {
+      "year": 1976,
+      "mean_cumulative_mass_balance_mwe": -4.998,
+      "n_glaciers": 38
+    },
+    {
+      "year": 1977,
+      "mean_cumulative_mass_balance_mwe": -5.255,
+      "n_glaciers": 39
+    },
+    {
+      "year": 1978,
+      "mean_cumulative_mass_balance_mwe": -5.443,
+      "n_glaciers": 39
+    },
+    {
+      "year": 1979,
+      "mean_cumulative_mass_balance_mwe": -5.86,
+      "n_glaciers": 39
+    },
+    {
+      "year": 1980,
+      "mean_cumulative_mass_balance_mwe": -5.983,
+      "n_glaciers": 40
+    },
+    {
+      "year": 1981,
+      "mean_cumulative_mass_balance_mwe": -6.174,
+      "n_glaciers": 39
+    },
+    {
+      "year": 1982,
+      "mean_cumulative_mass_balance_mwe": -6.662,
+      "n_glaciers": 41
+    },
+    {
+      "year": 1983,
+      "mean_cumulative_mass_balance_mwe": -6.535,
+      "n_glaciers": 42
+    },
+    {
+      "year": 1984,
+      "mean_cumulative_mass_balance_mwe": -6.794,
+      "n_glaciers": 45
+    },
+    {
+      "year": 1985,
+      "mean_cumulative_mass_balance_mwe": -7.102,
+      "n_glaciers": 45
+    },
+    {
+      "year": 1986,
+      "mean_cumulative_mass_balance_mwe": -7.583,
+      "n_glaciers": 47
+    },
+    {
+      "year": 1987,
+      "mean_cumulative_mass_balance_mwe": -7.487,
+      "n_glaciers": 46
+    },
+    {
+      "year": 1988,
+      "mean_cumulative_mass_balance_mwe": -7.561,
+      "n_glaciers": 47
+    },
+    {
+      "year": 1989,
+      "mean_cumulative_mass_balance_mwe": -7.789,
+      "n_glaciers": 51
+    },
+    {
+      "year": 1990,
+      "mean_cumulative_mass_balance_mwe": -8.274,
+      "n_glaciers": 54
+    },
+    {
+      "year": 1991,
+      "mean_cumulative_mass_balance_mwe": -8.777,
+      "n_glaciers": 55
+    },
+    {
+      "year": 1992,
+      "mean_cumulative_mass_balance_mwe": -8.893,
+      "n_glaciers": 60
+    },
+    {
+      "year": 1993,
+      "mean_cumulative_mass_balance_mwe": -9.026,
+      "n_glaciers": 61
+    },
+    {
+      "year": 1994,
+      "mean_cumulative_mass_balance_mwe": -9.557,
+      "n_glaciers": 60
+    },
+    {
+      "year": 1995,
+      "mean_cumulative_mass_balance_mwe": -10.016,
+      "n_glaciers": 59
+    },
+    {
+      "year": 1996,
+      "mean_cumulative_mass_balance_mwe": -10.489,
+      "n_glaciers": 59
+    },
+    {
+      "year": 1997,
+      "mean_cumulative_mass_balance_mwe": -11.13,
+      "n_glaciers": 59
+    },
+    {
+      "year": 1998,
+      "mean_cumulative_mass_balance_mwe": -11.852,
+      "n_glaciers": 59
+    },
+    {
+      "year": 1999,
+      "mean_cumulative_mass_balance_mwe": -12.551,
+      "n_glaciers": 57
+    },
+    {
+      "year": 2000,
+      "mean_cumulative_mass_balance_mwe": -12.91,
+      "n_glaciers": 57
+    },
+    {
+      "year": 2001,
+      "mean_cumulative_mass_balance_mwe": -13.181,
+      "n_glaciers": 57
+    },
+    {
+      "year": 2002,
+      "mean_cumulative_mass_balance_mwe": -13.609,
+      "n_glaciers": 57
+    },
+    {
+      "year": 2003,
+      "mean_cumulative_mass_balance_mwe": -14.134,
+      "n_glaciers": 57
+    },
+    {
+      "year": 2004,
+      "mean_cumulative_mass_balance_mwe": -14.866,
+      "n_glaciers": 55
+    },
+    {
+      "year": 2005,
+      "mean_cumulative_mass_balance_mwe": -15.683,
+      "n_glaciers": 58
+    },
+    {
+      "year": 2006,
+      "mean_cumulative_mass_balance_mwe": -16.398,
+      "n_glaciers": 58
+    },
+    {
+      "year": 2007,
+      "mean_cumulative_mass_balance_mwe": -16.938,
+      "n_glaciers": 57
+    },
+    {
+      "year": 2008,
+      "mean_cumulative_mass_balance_mwe": -17.313,
+      "n_glaciers": 58
+    },
+    {
+      "year": 2009,
+      "mean_cumulative_mass_balance_mwe": -17.765,
+      "n_glaciers": 58
+    },
+    {
+      "year": 2010,
+      "mean_cumulative_mass_balance_mwe": -18.614,
+      "n_glaciers": 58
+    },
+    {
+      "year": 2011,
+      "mean_cumulative_mass_balance_mwe": -19.351,
+      "n_glaciers": 59
+    },
+    {
+      "year": 2012,
+      "mean_cumulative_mass_balance_mwe": -20.076,
+      "n_glaciers": 60
+    },
+    {
+      "year": 2013,
+      "mean_cumulative_mass_balance_mwe": -20.788,
+      "n_glaciers": 56
+    },
+    {
+      "year": 2014,
+      "mean_cumulative_mass_balance_mwe": -21.489,
+      "n_glaciers": 56
+    },
+    {
+      "year": 2015,
+      "mean_cumulative_mass_balance_mwe": -22.293,
+      "n_glaciers": 60
+    },
+    {
+      "year": 2016,
+      "mean_cumulative_mass_balance_mwe": -23.276,
+      "n_glaciers": 60
+    },
+    {
+      "year": 2017,
+      "mean_cumulative_mass_balance_mwe": -23.928,
+      "n_glaciers": 60
+    },
+    {
+      "year": 2018,
+      "mean_cumulative_mass_balance_mwe": -24.865,
+      "n_glaciers": 60
+    },
+    {
+      "year": 2019,
+      "mean_cumulative_mass_balance_mwe": -25.859,
+      "n_glaciers": 61
+    },
+    {
+      "year": 2020,
+      "mean_cumulative_mass_balance_mwe": -26.742,
+      "n_glaciers": 61
+    },
+    {
+      "year": 2021,
+      "mean_cumulative_mass_balance_mwe": -27.419,
+      "n_glaciers": 61
+    },
+    {
+      "year": 2022,
+      "mean_cumulative_mass_balance_mwe": -28.509,
+      "n_glaciers": 60
+    },
+    {
+      "year": 2023,
+      "mean_cumulative_mass_balance_mwe": -29.738,
+      "n_glaciers": 53
+    }
+  ],
+  "meta": {
+    "title": "Global Glacier Mass Balance (1956-2023) - Free Download",
+    "description": "Annual mean cumulative glacier mass balance. Duplicate of glacier-mass-balance-annual. Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Global Glacier Mass Balance (1956-2023) | ListBase",
+    "seo_description": "Download Global Glacier Mass Balance (1956-2023) — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/glacier-mass-balance"
+    ]
+  }
+}

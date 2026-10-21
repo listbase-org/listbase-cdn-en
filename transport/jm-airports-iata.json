@@ -1,0 +1,181 @@
+{
+  "id": "jm-airports-iata",
+  "name": "Jamaica — IATA Airports",
+  "title": "Jamaica — IATA Airports",
+  "description": "Airports with IATA codes in Jamaica: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "KIN",
+      "icao_code": "MKJP",
+      "name": "Norman Manley International Airport",
+      "city_name_list": "Kingston",
+      "country_code": "JM",
+      "country_name": "Jamaica",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Kingston",
+      "latitude": 17.935667,
+      "longitude": -76.7875,
+      "elevation": 3,
+      "timezone": "America/Jamaica",
+      "wiki_link": "https://en.wikipedia.org/wiki/Norman_Manley_International_Airport"
+    },
+    {
+      "iata_code": "KTP",
+      "icao_code": "MKTP",
+      "name": "Tinson Pen Aerodrome",
+      "city_name_list": "Kingston",
+      "country_code": "JM",
+      "country_name": "Jamaica",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Saint Andrew Parish",
+      "latitude": 17.98802,
+      "longitude": -76.82337,
+      "elevation": "",
+      "timezone": "America/Jamaica",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tinson_Pen_Aerodrome"
+    },
+    {
+      "iata_code": "MBJ",
+      "icao_code": "MKJS",
+      "name": "Sangster International Airport",
+      "city_name_list": "Montego Bay",
+      "country_code": "JM",
+      "country_name": "Jamaica",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Saint James Parish",
+      "latitude": 18.503717,
+      "longitude": -77.913358,
+      "elevation": 1,
+      "timezone": "America/Jamaica",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sangster_International_Airport"
+    },
+    {
+      "iata_code": "NEG",
+      "icao_code": "MKNG",
+      "name": "Negril Aerodrome",
+      "city_name_list": "Negril",
+      "country_code": "JM",
+      "country_name": "Jamaica",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Hanover",
+      "latitude": 18.3,
+      "longitude": -78.33,
+      "elevation": "",
+      "timezone": "America/Jamaica",
+      "wiki_link": "https://en.wikipedia.org/wiki/Negril_Aerodrome"
+    },
+    {
+      "iata_code": "OCJ",
+      "icao_code": "MKBS",
+      "name": "Ian Fleming International Airport",
+      "city_name_list": "Ocho Rios=Boscobel",
+      "country_code": "JM",
+      "country_name": "Jamaica",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Saint Mary Parish",
+      "latitude": 18.40411,
+      "longitude": -76.96949,
+      "elevation": "",
+      "timezone": "America/Jamaica",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ian_Fleming_International_Airport"
+    },
+    {
+      "iata_code": "POT",
+      "icao_code": "MKKJ",
+      "name": "Ken Jones Aerodrome",
+      "city_name_list": "Port Antonio",
+      "country_code": "JM",
+      "country_name": "Jamaica",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Portland Parish",
+      "latitude": 18.198806,
+      "longitude": -76.534528,
+      "elevation": "",
+      "timezone": "America/Jamaica",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ken_Jones_Aerodrome"
+    }
+  ],
+  "meta": {
+    "title": "Jamaica — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Jamaica: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Jamaica — IATA Airports | ListBase",
+    "seo_description": "Download Jamaica — IATA Airports dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

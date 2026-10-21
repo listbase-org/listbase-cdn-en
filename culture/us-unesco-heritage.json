@@ -1,0 +1,394 @@
+{
+  "id": "us-unesco-heritage",
+  "name": "United States — UNESCO World Heritage Sites",
+  "title": "United States — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in United States, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 27,
+      "name": "Mesa Verde National Park",
+      "category": "cultural",
+      "date_inscribed": 1978,
+      "criteria": "c3",
+      "lat": 37.26166667,
+      "lon": -108.4855556,
+      "area_hectares": 21043,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 28,
+      "name": "Yellowstone National Park",
+      "category": "natural",
+      "date_inscribed": 1978,
+      "criteria": "n7, n8, n9, n10",
+      "lat": 44.46056,
+      "lon": -110.82778,
+      "area_hectares": 898349,
+      "danger_list": "P 1995-2003",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 72,
+      "name": "Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek",
+      "category": "natural",
+      "date_inscribed": 1979,
+      "criteria": "n7, n8, n9, n10",
+      "lat": 61.19758333,
+      "lon": -140.9919722,
+      "area_hectares": 9839121,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ca, us",
+      "transboundary": true
+    },
+    {
+      "ref_no": 75,
+      "name": "Grand Canyon National Park",
+      "category": "natural",
+      "date_inscribed": 1979,
+      "criteria": "n7, n8, n9, n10",
+      "lat": 36.10083333,
+      "lon": -112.0905556,
+      "area_hectares": 493270,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 76,
+      "name": "Everglades National Park",
+      "category": "natural",
+      "date_inscribed": 1979,
+      "criteria": "n8, n9, n10",
+      "lat": 25.55444444,
+      "lon": -80.99638889,
+      "area_hectares": 567017,
+      "danger_list": "Y 2010 P 1993-2007",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 78,
+      "name": "Independence Hall",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c6",
+      "lat": 39.94861111,
+      "lon": -75.15,
+      "area_hectares": 2,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 134,
+      "name": "Redwood National and State Parks",
+      "category": "natural",
+      "date_inscribed": 1980,
+      "criteria": "n7, n9",
+      "lat": 41.37388889,
+      "lon": -123.9980556,
+      "area_hectares": 56883,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 150,
+      "name": "Mammoth Cave National Park",
+      "category": "natural",
+      "date_inscribed": 1981,
+      "criteria": "n7, n8, n10",
+      "lat": 37.18722222,
+      "lon": -86.10305556,
+      "area_hectares": 21191,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 151,
+      "name": "Olympic National Park",
+      "category": "natural",
+      "date_inscribed": 1981,
+      "criteria": "n7, n9",
+      "lat": 47.74833333,
+      "lon": -123.4488889,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 198,
+      "name": "Cahokia Mounds State Historic Site",
+      "category": "cultural",
+      "date_inscribed": 1982,
+      "criteria": "c3, c4",
+      "lat": 38.65861111,
+      "lon": -90.06138889,
+      "area_hectares": 591,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 259,
+      "name": "Great Smoky Mountains National Park",
+      "category": "natural",
+      "date_inscribed": 1983,
+      "criteria": "n7, n8, n9, n10",
+      "lat": 35.59305556,
+      "lon": -83.43555556,
+      "area_hectares": 209000,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 266,
+      "name": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
+      "category": "cultural",
+      "date_inscribed": 1983,
+      "criteria": "c6",
+      "lat": 18.46666667,
+      "lon": -66.125,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 307,
+      "name": "Statue of Liberty",
+      "category": "cultural",
+      "date_inscribed": 1984,
+      "criteria": "c1, c6",
+      "lat": 40.68944444,
+      "lon": -74.04472222,
+      "area_hectares": 5,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 308,
+      "name": "Yosemite National Park",
+      "category": "natural",
+      "date_inscribed": 1984,
+      "criteria": "n7, n8",
+      "lat": 37.74611111,
+      "lon": -119.5966667,
+      "area_hectares": 308283,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 353,
+      "name": "Chaco Culture",
+      "category": "cultural",
+      "date_inscribed": 1987,
+      "criteria": "c3",
+      "lat": 36.06377778,
+      "lon": -107.9708333,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 409,
+      "name": "Hawaii Volcanoes National Park",
+      "category": "natural",
+      "date_inscribed": 1987,
+      "criteria": "n8",
+      "lat": 19.40083333,
+      "lon": -155.1236111,
+      "area_hectares": 87940,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 442,
+      "name": "Monticello and the University of Virginia in Charlottesville",
+      "category": "cultural",
+      "date_inscribed": 1987,
+      "criteria": "c1, c4, c6",
+      "lat": 38.03277778,
+      "lon": -78.50388889,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 492,
+      "name": "Taos Pueblo",
+      "category": "cultural",
+      "date_inscribed": 1992,
+      "criteria": "c4",
+      "lat": 36.43889,
+      "lon": -105.54167,
+      "area_hectares": 19.01,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 354,
+      "name": "Waterton Glacier International Peace Park",
+      "category": "natural",
+      "date_inscribed": 1995,
+      "criteria": "n7, n9",
+      "lat": 48.99605556,
+      "lon": -113.9041667,
+      "area_hectares": 457614,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ca, us",
+      "transboundary": true
+    },
+    {
+      "ref_no": 721,
+      "name": "Carlsbad Caverns National Park",
+      "category": "natural",
+      "date_inscribed": 1995,
+      "criteria": "n7, n8",
+      "lat": 32.16666667,
+      "lon": -104.3833333,
+      "area_hectares": 18926,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1326,
+      "name": "Papahanaumokuakea",
+      "category": "mixed",
+      "date_inscribed": 2010,
+      "criteria": "c3, c6, n8, n9, n10",
+      "lat": 25.34907,
+      "lon": -170.14582,
+      "area_hectares": 36207499,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1435,
+      "name": "Monumental Earthworks of Poverty Point",
+      "category": "cultural",
+      "date_inscribed": 2014,
+      "criteria": "c3",
+      "lat": 32.63694444,
+      "lon": -91.40638889,
+      "area_hectares": 163,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "us",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "United States — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in United States, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "United States — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download United States — UNESCO World Heritage Sites dataset with 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

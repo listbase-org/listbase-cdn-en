@@ -1,0 +1,603 @@
+{
+  "id": "tech-keyboard-shortcuts",
+  "name": "Universal Keyboard Shortcuts Dataset for Windows & macOS",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "action",
+      "label": "Action",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_win",
+      "label": "Windows",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_mac",
+      "label": "macOS",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "application",
+      "label": "Application",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "action": "Copy",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Cmd+C",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Cut",
+      "shortcut_win": "Ctrl+X",
+      "shortcut_mac": "Cmd+X",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Paste",
+      "shortcut_win": "Ctrl+V",
+      "shortcut_mac": "Cmd+V",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Undo",
+      "shortcut_win": "Ctrl+Z",
+      "shortcut_mac": "Cmd+Z",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Redo",
+      "shortcut_win": "Ctrl+Y",
+      "shortcut_mac": "Cmd+Shift+Z",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Select All",
+      "shortcut_win": "Ctrl+A",
+      "shortcut_mac": "Cmd+A",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Save",
+      "shortcut_win": "Ctrl+S",
+      "shortcut_mac": "Cmd+S",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Find",
+      "shortcut_win": "Ctrl+F",
+      "shortcut_mac": "Cmd+F",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Find and Replace",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+H",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Print",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "New",
+      "shortcut_win": "Ctrl+N",
+      "shortcut_mac": "Cmd+N",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Open",
+      "shortcut_win": "Ctrl+O",
+      "shortcut_mac": "Cmd+O",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Close Window/Tab",
+      "shortcut_win": "Ctrl+W",
+      "shortcut_mac": "Cmd+W",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Quit Application",
+      "shortcut_win": "Alt+F4",
+      "shortcut_mac": "Cmd+Q",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Help",
+      "shortcut_win": "F1",
+      "shortcut_mac": "Cmd+Shift+?",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Show Desktop",
+      "shortcut_win": "Win+D",
+      "shortcut_mac": "F11",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Open File Explorer/Computer",
+      "shortcut_win": "Win+E",
+      "shortcut_mac": "Cmd+Shift+C",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Lock Screen",
+      "shortcut_win": "Win+L",
+      "shortcut_mac": "Ctrl+Cmd+Q",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Task View/Mission Control",
+      "shortcut_win": "Win+Tab",
+      "shortcut_mac": "Ctrl+Up",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Switch Applications",
+      "shortcut_win": "Alt+Tab",
+      "shortcut_mac": "Cmd+Tab",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Screenshot Selection",
+      "shortcut_win": "Win+Shift+S",
+      "shortcut_mac": "Cmd+Shift+4",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Screenshot Full",
+      "shortcut_win": "PrtScn",
+      "shortcut_mac": "Cmd+Shift+3",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Task Manager/Force Quit",
+      "shortcut_win": "Ctrl+Shift+Esc",
+      "shortcut_mac": "Cmd+Opt+Esc",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Run/Spotlight",
+      "shortcut_win": "Win+R",
+      "shortcut_mac": "Cmd+Space",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Settings/Preferences",
+      "shortcut_win": "Win+I",
+      "shortcut_mac": "Cmd+,",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "New Tab",
+      "shortcut_win": "Ctrl+T",
+      "shortcut_mac": "Cmd+T",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Reopen Closed Tab",
+      "shortcut_win": "Ctrl+Shift+T",
+      "shortcut_mac": "Cmd+Shift+T",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Next Tab",
+      "shortcut_win": "Ctrl+Tab",
+      "shortcut_mac": "Ctrl+Tab",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Previous Tab",
+      "shortcut_win": "Ctrl+Shift+Tab",
+      "shortcut_mac": "Ctrl+Shift+Tab",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Focus Address Bar",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+L",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Refresh Page",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Cmd+R",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Hard Refresh (Clear Cache)",
+      "shortcut_win": "Ctrl+Shift+R",
+      "shortcut_mac": "Cmd+Shift+R",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Bookmark Page",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Toggle Bookmarks Bar",
+      "shortcut_win": "Ctrl+Shift+B",
+      "shortcut_mac": "Cmd+Shift+B",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Downloads",
+      "shortcut_win": "Ctrl+J",
+      "shortcut_mac": "Cmd+Shift+J",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "History",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+Y",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "New Incognito Window",
+      "shortcut_win": "Ctrl+Shift+N",
+      "shortcut_mac": "Cmd+Shift+N",
+      "category": "Browser",
+      "application": "Chrome/Edge"
+    },
+    {
+      "action": "New Private Window",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Browser",
+      "application": "Firefox"
+    },
+    {
+      "action": "Developer Tools",
+      "shortcut_win": "F12",
+      "shortcut_mac": "Cmd+Opt+I",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "View Page Source",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+Opt+U",
+      "category": "Browser",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Command Palette",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Quick Open File",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Toggle Terminal",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Toggle Sidebar",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Toggle Line Comment",
+      "shortcut_win": "Ctrl+/",
+      "shortcut_mac": "Cmd+/",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Delete Line",
+      "shortcut_win": "Ctrl+Shift+K",
+      "shortcut_mac": "Cmd+Shift+K",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Move Line Up/Down",
+      "shortcut_win": "Alt+Up/Down",
+      "shortcut_mac": "Opt+Up/Down",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Select Next Occurrence",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Select All Occurrences",
+      "shortcut_win": "Ctrl+Shift+L",
+      "shortcut_mac": "Cmd+Shift+L",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Go to Line",
+      "shortcut_win": "Ctrl+G",
+      "shortcut_mac": "Ctrl+G",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Rename Symbol",
+      "shortcut_win": "F2",
+      "shortcut_mac": "F2",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Go to Definition",
+      "shortcut_win": "F12",
+      "shortcut_mac": "F12",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Search in Files",
+      "shortcut_win": "Ctrl+Shift+F",
+      "shortcut_mac": "Cmd+Shift+F",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Add Line Comment",
+      "shortcut_win": "Ctrl+K Ctrl+C",
+      "shortcut_mac": "Cmd+K Cmd+C",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Remove Line Comment",
+      "shortcut_win": "Ctrl+K Ctrl+U",
+      "shortcut_mac": "Cmd+K Cmd+U",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Move by Word",
+      "shortcut_win": "Ctrl+Left/Right",
+      "shortcut_mac": "Opt+Left/Right",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Select by Word",
+      "shortcut_win": "Ctrl+Shift+Left/Right",
+      "shortcut_mac": "Opt+Shift+Left/Right",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Go to Line Start/End",
+      "shortcut_win": "Home/End",
+      "shortcut_mac": "Cmd+Left/Right",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Go to Document Start/End",
+      "shortcut_win": "Ctrl+Home/End",
+      "shortcut_mac": "Cmd+Up/Down",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Delete Word Before",
+      "shortcut_win": "Ctrl+Backspace",
+      "shortcut_mac": "Opt+Backspace",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Delete Word After",
+      "shortcut_win": "Ctrl+Delete",
+      "shortcut_mac": "Opt+Delete",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Bold",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Text",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Italic",
+      "shortcut_win": "Ctrl+I",
+      "shortcut_mac": "Cmd+I",
+      "category": "Text",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Underline",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+U",
+      "category": "Text",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Insert Current Date",
+      "shortcut_win": "Ctrl+;",
+      "shortcut_mac": "Ctrl+;",
+      "category": "Spreadsheet",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Insert Current Time",
+      "shortcut_win": "Ctrl+Shift+;",
+      "shortcut_mac": "Cmd+;",
+      "category": "Spreadsheet",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Select Column",
+      "shortcut_win": "Ctrl+Space",
+      "shortcut_mac": "Ctrl+Space",
+      "category": "Spreadsheet",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Select Row",
+      "shortcut_win": "Shift+Space",
+      "shortcut_mac": "Shift+Space",
+      "category": "Spreadsheet",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Insert Cells",
+      "shortcut_win": "Ctrl+Shift++",
+      "shortcut_mac": "Cmd+Shift++",
+      "category": "Spreadsheet",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Delete Cells",
+      "shortcut_win": "Ctrl+-",
+      "shortcut_mac": "Cmd+-",
+      "category": "Spreadsheet",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Toggle Absolute Reference",
+      "shortcut_win": "F4",
+      "shortcut_mac": "Cmd+T",
+      "category": "Spreadsheet",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Show Formulas",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "Spreadsheet",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Cancel/Interrupt",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Ctrl+C",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Clear Screen",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+K",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Auto-complete",
+      "shortcut_win": "Tab",
+      "shortcut_mac": "Tab",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Command History",
+      "shortcut_win": "Up/Down",
+      "shortcut_mac": "Up/Down",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Search Command History",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Ctrl+R",
+      "category": "Terminal",
+      "application": "Terminal/Bash"
+    }
+  ],
+  "meta": {
+    "seo_title": "Keyboard Shortcuts - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Get 77 common keyboard shortcuts for Windows & macOS. Free download in Excel, CSV, and PDF formats for productivity boost.",
+    "title": "Universal Keyboard Shortcuts Dataset for Windows & macOS",
+    "description": "This dataset provides a comprehensive list of 77 common keyboard shortcuts for both Windows and macOS, categorized by action and application. Enhance your productivity with quick access to essential commands.",
+    "key_takeaways": [
+      "Access 77 essential keyboard shortcuts for Windows and macOS.",
+      "Explore universal and application-specific commands for productivity.",
+      "Download comprehensive shortcut lists in multiple convenient formats.",
+      "Improve workflow efficiency by mastering common computer operations."
+    ],
+    "keywords": [
+      "keyboard shortcuts excel",
+      "windows keyboard shortcuts csv",
+      "macOS keyboard shortcuts pdf",
+      "common shortcuts list",
+      "productivity shortcuts download",
+      "computer hotkeys"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your custom application or learning platform to integrate shortcut references for developers.",
+      "Use the **Excel** file to filter and sort shortcuts by category, application, or platform for personalized cheat sheets and training materials.",
+      "Print the **PDF** version for a handy desktop reference guide or to distribute in educational workshops on computer literacy.",
+      "Leverage this data to build interactive quizzes or helper tools that teach users efficient navigation and command execution."
+    ]
+  },
+  "record_count": 77,
+  "title": "Universal Keyboard Shortcuts Dataset for Windows & macOS"
+}

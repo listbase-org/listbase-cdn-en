@@ -1,0 +1,463 @@
+{
+  "id": "math-derivative-formulas",
+  "name": "Comprehensive Differentiation Formulas & Rules Dataset",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "derivative",
+      "label": "Derivative f'(x)",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Basic Rules",
+      "function": "c (constant)",
+      "derivative": "0",
+      "condition": "-",
+      "notes": "Constant rule"
+    },
+    {
+      "category": "Basic Rules",
+      "function": "x",
+      "derivative": "1",
+      "condition": "-",
+      "notes": "Identity function"
+    },
+    {
+      "category": "Basic Rules",
+      "function": "c·f(x)",
+      "derivative": "c·f'(x)",
+      "condition": "c is constant",
+      "notes": "Constant multiple rule"
+    },
+    {
+      "category": "Basic Rules",
+      "function": "f(x) + g(x)",
+      "derivative": "f'(x) + g'(x)",
+      "condition": "-",
+      "notes": "Sum rule"
+    },
+    {
+      "category": "Basic Rules",
+      "function": "f(x) - g(x)",
+      "derivative": "f'(x) - g'(x)",
+      "condition": "-",
+      "notes": "Difference rule"
+    },
+    {
+      "category": "Basic Rules",
+      "function": "f(x)·g(x)",
+      "derivative": "f'(x)g(x) + f(x)g'(x)",
+      "condition": "-",
+      "notes": "Product rule"
+    },
+    {
+      "category": "Basic Rules",
+      "function": "f(x)/g(x)",
+      "derivative": "[f'(x)g(x) - f(x)g'(x)]/[g(x)]²",
+      "condition": "g(x) ≠ 0",
+      "notes": "Quotient rule"
+    },
+    {
+      "category": "Basic Rules",
+      "function": "f(g(x))",
+      "derivative": "f'(g(x))·g'(x)",
+      "condition": "-",
+      "notes": "Chain rule"
+    },
+    {
+      "category": "Power",
+      "function": "x^n",
+      "derivative": "n·x^(n-1)",
+      "condition": "-",
+      "notes": "Power rule"
+    },
+    {
+      "category": "Power",
+      "function": "1/x",
+      "derivative": "-1/x²",
+      "condition": "x ≠ 0",
+      "notes": "Same as x^(-1)"
+    },
+    {
+      "category": "Power",
+      "function": "1/x^n",
+      "derivative": "-n/x^(n+1)",
+      "condition": "x ≠ 0",
+      "notes": "Negative power"
+    },
+    {
+      "category": "Power",
+      "function": "√x",
+      "derivative": "1/(2√x)",
+      "condition": "x > 0",
+      "notes": "Square root"
+    },
+    {
+      "category": "Power",
+      "function": "∜x (x^(1/n))",
+      "derivative": "1/(n·x^((n-1)/n))",
+      "condition": "x > 0",
+      "notes": "nth root"
+    },
+    {
+      "category": "Power",
+      "function": "x^x",
+      "derivative": "x^x(ln(x) + 1)",
+      "condition": "x > 0",
+      "notes": "Logarithmic differentiation"
+    },
+    {
+      "category": "Exponential",
+      "function": "e^x",
+      "derivative": "e^x",
+      "condition": "-",
+      "notes": "Natural exponential"
+    },
+    {
+      "category": "Exponential",
+      "function": "a^x",
+      "derivative": "a^x·ln(a)",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "General exponential"
+    },
+    {
+      "category": "Exponential",
+      "function": "e^(f(x))",
+      "derivative": "e^(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Chain rule applied"
+    },
+    {
+      "category": "Exponential",
+      "function": "a^(f(x))",
+      "derivative": "a^(f(x))·ln(a)·f'(x)",
+      "condition": "a > 0",
+      "notes": "General form with chain rule"
+    },
+    {
+      "category": "Logarithmic",
+      "function": "ln(x)",
+      "derivative": "1/x",
+      "condition": "x > 0",
+      "notes": "Natural logarithm"
+    },
+    {
+      "category": "Logarithmic",
+      "function": "log_a(x)",
+      "derivative": "1/(x·ln(a))",
+      "condition": "x > 0, a > 0",
+      "notes": "General logarithm"
+    },
+    {
+      "category": "Logarithmic",
+      "function": "ln(f(x))",
+      "derivative": "f'(x)/f(x)",
+      "condition": "f(x) > 0",
+      "notes": "Chain rule applied"
+    },
+    {
+      "category": "Logarithmic",
+      "function": "log_a(f(x))",
+      "derivative": "f'(x)/(f(x)·ln(a))",
+      "condition": "f(x) > 0",
+      "notes": "General form with chain rule"
+    },
+    {
+      "category": "Logarithmic",
+      "function": "ln|x|",
+      "derivative": "1/x",
+      "condition": "x ≠ 0",
+      "notes": "Absolute value logarithm"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "sin(x)",
+      "derivative": "cos(x)",
+      "condition": "-",
+      "notes": "Sine function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "cos(x)",
+      "derivative": "-sin(x)",
+      "condition": "-",
+      "notes": "Cosine function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "tan(x)",
+      "derivative": "sec²(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Tangent function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "cot(x)",
+      "derivative": "-csc²(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Cotangent function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "sec(x)",
+      "derivative": "sec(x)tan(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Secant function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "csc(x)",
+      "derivative": "-csc(x)cot(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Cosecant function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "sin(f(x))",
+      "derivative": "cos(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Chain rule applied"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "cos(f(x))",
+      "derivative": "-sin(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Chain rule applied"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "tan(f(x))",
+      "derivative": "sec²(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Chain rule applied"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "arcsin(x)",
+      "derivative": "1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Arcsine function"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "arccos(x)",
+      "derivative": "-1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Arccosine function"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "arctan(x)",
+      "derivative": "1/(1+x²)",
+      "condition": "-",
+      "notes": "Arctangent function"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "arccot(x)",
+      "derivative": "-1/(1+x²)",
+      "condition": "-",
+      "notes": "Arccotangent function"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "arcsec(x)",
+      "derivative": "1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Arcsecant function"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "arccsc(x)",
+      "derivative": "-1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Arccosecant function"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "arcsin(f(x))",
+      "derivative": "f'(x)/√(1-[f(x)]²)",
+      "condition": "|f(x)| < 1",
+      "notes": "Chain rule applied"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "arctan(f(x))",
+      "derivative": "f'(x)/(1+[f(x)]²)",
+      "condition": "-",
+      "notes": "Chain rule applied"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "sinh(x)",
+      "derivative": "cosh(x)",
+      "condition": "-",
+      "notes": "Hyperbolic sine"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "cosh(x)",
+      "derivative": "sinh(x)",
+      "condition": "-",
+      "notes": "Hyperbolic cosine"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "tanh(x)",
+      "derivative": "sech²(x)",
+      "condition": "-",
+      "notes": "Hyperbolic tangent"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "coth(x)",
+      "derivative": "-csch²(x)",
+      "condition": "x ≠ 0",
+      "notes": "Hyperbolic cotangent"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "sech(x)",
+      "derivative": "-sech(x)tanh(x)",
+      "condition": "-",
+      "notes": "Hyperbolic secant"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "csch(x)",
+      "derivative": "-csch(x)coth(x)",
+      "condition": "x ≠ 0",
+      "notes": "Hyperbolic cosecant"
+    },
+    {
+      "category": "Inverse Hyperbolic",
+      "function": "arcsinh(x)",
+      "derivative": "1/√(x²+1)",
+      "condition": "-",
+      "notes": "Inverse hyperbolic sine"
+    },
+    {
+      "category": "Inverse Hyperbolic",
+      "function": "arccosh(x)",
+      "derivative": "1/√(x²-1)",
+      "condition": "x > 1",
+      "notes": "Inverse hyperbolic cosine"
+    },
+    {
+      "category": "Inverse Hyperbolic",
+      "function": "arctanh(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Inverse hyperbolic tangent"
+    },
+    {
+      "category": "Inverse Hyperbolic",
+      "function": "arccoth(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| > 1",
+      "notes": "Inverse hyperbolic cotangent"
+    },
+    {
+      "category": "Inverse Hyperbolic",
+      "function": "arcsech(x)",
+      "derivative": "-1/(x√(1-x²))",
+      "condition": "0 < x < 1",
+      "notes": "Inverse hyperbolic secant"
+    },
+    {
+      "category": "Inverse Hyperbolic",
+      "function": "arccsch(x)",
+      "derivative": "-1/(|x|√(1+x²))",
+      "condition": "x ≠ 0",
+      "notes": "Inverse hyperbolic cosecant"
+    },
+    {
+      "category": "Special",
+      "function": "|x|",
+      "derivative": "x/|x| = sgn(x)",
+      "condition": "x ≠ 0",
+      "notes": "Absolute value"
+    },
+    {
+      "category": "Special",
+      "function": "[f(x)]^n",
+      "derivative": "n[f(x)]^(n-1)·f'(x)",
+      "condition": "-",
+      "notes": "Generalized power rule"
+    },
+    {
+      "category": "Special",
+      "function": "[f(x)]^g(x)",
+      "derivative": "[f(x)]^g(x)·[g'(x)ln(f(x)) + g(x)f'(x)/f(x)]",
+      "condition": "f(x) > 0",
+      "notes": "Logarithmic differentiation"
+    },
+    {
+      "category": "Special",
+      "function": "e^(x²)",
+      "derivative": "2x·e^(x²)",
+      "condition": "-",
+      "notes": "Gaussian form"
+    },
+    {
+      "category": "Special",
+      "function": "ln(ln(x))",
+      "derivative": "1/(x·ln(x))",
+      "condition": "x > 1",
+      "notes": "Nested logarithm"
+    }
+  ],
+  "meta": {
+    "seo_title": "Differentiation Formulas - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download 57 common differentiation formulas and derivative rules for calculus. Free in Excel, CSV, & PDF formats for students & professionals.",
+    "title": "Comprehensive Differentiation Formulas & Rules Dataset",
+    "description": "This dataset provides a comprehensive collection of 57 common differentiation formulas and rules, including basic rules, power rules, trigonometric functions, and more. Each entry lists the function, its derivative, conditions, and notes.",
+    "key_takeaways": [
+      "Access 57 essential differentiation formulas and derivative rules.",
+      "Explore calculus concepts with categorized functions and their derivatives.",
+      "Download ready-to-use data for academic study or professional reference.",
+      "Leverage detailed conditions and notes for each differentiation rule."
+    ],
+    "keywords": [
+      "differentiation formulas excel",
+      "derivative rules csv",
+      "calculus formulas pdf",
+      "mathematics derivatives list",
+      "common differentiation table",
+      "free download calculus data"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your Python scripts or SQL database to build custom calculus learning applications or study tools.",
+      "Use the **Excel** file to filter formulas by category, analyze conditions, or create study guides with ease.",
+      "Print the **PDF** version for quick offline reference during exams, classroom lectures, or personal study sessions.",
+      "Reference this dataset to quickly verify derivatives for complex functions in engineering, physics, or data science calculations."
+    ]
+  },
+  "record_count": 57,
+  "title": "Comprehensive Differentiation Formulas & Rules Dataset"
+}

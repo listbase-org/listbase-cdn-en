@@ -1,0 +1,9032 @@
+{
+  "id": "ietf-language-tags",
+  "name": "IETF Language Tags (BCP 47 / CLDR)",
+  "title": "IETF Language Tags (BCP 47 / CLDR)",
+  "description": "1122 IETF language tags from the Unicode CLDR registry, including language, lang type, territory variant, definition count, and source file.",
+  "category": "language",
+  "source": "https://github.com/datasets/language-codes",
+  "source_url": "https://github.com/datasets/language-codes",
+  "updated": "2026-04",
+  "record_count": 1122,
+  "columns": [
+    {
+      "key": "lang",
+      "label": "Lang",
+      "type": "string"
+    },
+    {
+      "key": "lang_type",
+      "label": "Lang Type",
+      "type": "string"
+    },
+    {
+      "key": "territory",
+      "label": "Territory",
+      "type": "string"
+    },
+    {
+      "key": "definitions",
+      "label": "Definitions",
+      "type": "number"
+    },
+    {
+      "key": "default",
+      "label": "Default",
+      "type": "number"
+    },
+    {
+      "key": "file",
+      "label": "File",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lang": "aa",
+      "lang_type": "aa",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "aa.xml"
+    },
+    {
+      "lang": "aa-DJ",
+      "lang_type": "aa",
+      "territory": "DJ",
+      "definitions": 2,
+      "default": 0,
+      "file": "aa_DJ.xml"
+    },
+    {
+      "lang": "aa-ER",
+      "lang_type": "aa",
+      "territory": "ER",
+      "definitions": 1,
+      "default": 0,
+      "file": "aa_ER.xml"
+    },
+    {
+      "lang": "aa-ET",
+      "lang_type": "aa",
+      "territory": "ET",
+      "definitions": 0,
+      "default": 0,
+      "file": "aa_ET.xml"
+    },
+    {
+      "lang": "ab",
+      "lang_type": "ab",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "ab.xml"
+    },
+    {
+      "lang": "ab-GE",
+      "lang_type": "ab",
+      "territory": "GE",
+      "definitions": 0,
+      "default": 0,
+      "file": "ab_GE.xml"
+    },
+    {
+      "lang": "af",
+      "lang_type": "af",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "af.xml"
+    },
+    {
+      "lang": "af-NA",
+      "lang_type": "af",
+      "territory": "NA",
+      "definitions": 2,
+      "default": 0,
+      "file": "af_NA.xml"
+    },
+    {
+      "lang": "af-ZA",
+      "lang_type": "af",
+      "territory": "ZA",
+      "definitions": 0,
+      "default": 0,
+      "file": "af_ZA.xml"
+    },
+    {
+      "lang": "agq",
+      "lang_type": "agq",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "agq.xml"
+    },
+    {
+      "lang": "agq-CM",
+      "lang_type": "agq",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "agq_CM.xml"
+    },
+    {
+      "lang": "ak",
+      "lang_type": "ak",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ak.xml"
+    },
+    {
+      "lang": "ak-GH",
+      "lang_type": "ak",
+      "territory": "GH",
+      "definitions": 0,
+      "default": 0,
+      "file": "ak_GH.xml"
+    },
+    {
+      "lang": "am",
+      "lang_type": "am",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "am.xml"
+    },
+    {
+      "lang": "am-ET",
+      "lang_type": "am",
+      "territory": "ET",
+      "definitions": 0,
+      "default": 0,
+      "file": "am_ET.xml"
+    },
+    {
+      "lang": "an",
+      "lang_type": "an",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "an.xml"
+    },
+    {
+      "lang": "an-ES",
+      "lang_type": "an",
+      "territory": "ES",
+      "definitions": 0,
+      "default": 0,
+      "file": "an_ES.xml"
+    },
+    {
+      "lang": "ann",
+      "lang_type": "ann",
+      "territory": "",
+      "definitions": 3,
+      "default": 0,
+      "file": "ann.xml"
+    },
+    {
+      "lang": "ann-NG",
+      "lang_type": "ann",
+      "territory": "NG",
+      "definitions": 0,
+      "default": 0,
+      "file": "ann_NG.xml"
+    },
+    {
+      "lang": "apc",
+      "lang_type": "apc",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "apc.xml"
+    },
+    {
+      "lang": "apc-SY",
+      "lang_type": "apc",
+      "territory": "SY",
+      "definitions": 0,
+      "default": 0,
+      "file": "apc_SY.xml"
+    },
+    {
+      "lang": "ar",
+      "lang_type": "ar",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "ar.xml"
+    },
+    {
+      "lang": "ar-001",
+      "lang_type": "ar",
+      "territory": "001",
+      "definitions": 0,
+      "default": 0,
+      "file": "ar_001.xml"
+    },
+    {
+      "lang": "ar-AE",
+      "lang_type": "ar",
+      "territory": "AE",
+      "definitions": 3,
+      "default": 0,
+      "file": "ar_AE.xml"
+    },
+    {
+      "lang": "ar-BH",
+      "lang_type": "ar",
+      "territory": "BH",
+      "definitions": 1,
+      "default": 0,
+      "file": "ar_BH.xml"
+    },
+    {
+      "lang": "ar-DJ",
+      "lang_type": "ar",
+      "territory": "DJ",
+      "definitions": 1,
+      "default": 0,
+      "file": "ar_DJ.xml"
+    },
+    {
+      "lang": "ar-DZ",
+      "lang_type": "ar",
+      "territory": "DZ",
+      "definitions": 3,
+      "default": 0,
+      "file": "ar_DZ.xml"
+    },
+    {
+      "lang": "ar-EG",
+      "lang_type": "ar",
+      "territory": "EG",
+      "definitions": 2,
+      "default": 0,
+      "file": "ar_EG.xml"
+    },
+    {
+      "lang": "ar-EH",
+      "lang_type": "ar",
+      "territory": "EH",
+      "definitions": 1,
+      "default": 0,
+      "file": "ar_EH.xml"
+    },
+    {
+      "lang": "ar-ER",
+      "lang_type": "ar",
+      "territory": "ER",
+      "definitions": 1,
+      "default": 0,
+      "file": "ar_ER.xml"
+    },
+    {
+      "lang": "ar-IL",
+      "lang_type": "ar",
+      "territory": "IL",
+      "definitions": 2,
+      "default": 0,
+      "file": "ar_IL.xml"
+    },
+    {
+      "lang": "ar-IQ",
+      "lang_type": "ar",
+      "territory": "IQ",
+      "definitions": 2,
+      "default": 0,
+      "file": "ar_IQ.xml"
+    },
+    {
+      "lang": "ar-JO",
+      "lang_type": "ar",
+      "territory": "JO",
+      "definitions": 2,
+      "default": 0,
+      "file": "ar_JO.xml"
+    },
+    {
+      "lang": "ar-KM",
+      "lang_type": "ar",
+      "territory": "KM",
+      "definitions": 2,
+      "default": 0,
+      "file": "ar_KM.xml"
+    },
+    {
+      "lang": "ar-KW",
+      "lang_type": "ar",
+      "territory": "KW",
+      "definitions": 1,
+      "default": 0,
+      "file": "ar_KW.xml"
+    },
+    {
+      "lang": "ar-LB",
+      "lang_type": "ar",
+      "territory": "LB",
+      "definitions": 3,
+      "default": 0,
+      "file": "ar_LB.xml"
+    },
+    {
+      "lang": "ar-LY",
+      "lang_type": "ar",
+      "territory": "LY",
+      "definitions": 4,
+      "default": 0,
+      "file": "ar_LY.xml"
+    },
+    {
+      "lang": "ar-MA",
+      "lang_type": "ar",
+      "territory": "MA",
+      "definitions": 3,
+      "default": 0,
+      "file": "ar_MA.xml"
+    },
+    {
+      "lang": "ar-MR",
+      "lang_type": "ar",
+      "territory": "MR",
+      "definitions": 3,
+      "default": 0,
+      "file": "ar_MR.xml"
+    },
+    {
+      "lang": "ar-OM",
+      "lang_type": "ar",
+      "territory": "OM",
+      "definitions": 1,
+      "default": 0,
+      "file": "ar_OM.xml"
+    },
+    {
+      "lang": "ar-PS",
+      "lang_type": "ar",
+      "territory": "PS",
+      "definitions": 2,
+      "default": 0,
+      "file": "ar_PS.xml"
+    },
+    {
+      "lang": "ar-QA",
+      "lang_type": "ar",
+      "territory": "QA",
+      "definitions": 1,
+      "default": 0,
+      "file": "ar_QA.xml"
+    },
+    {
+      "lang": "ar-SA",
+      "lang_type": "ar",
+      "territory": "SA",
+      "definitions": 5,
+      "default": 0,
+      "file": "ar_SA.xml"
+    },
+    {
+      "lang": "ar-SD",
+      "lang_type": "ar",
+      "territory": "SD",
+      "definitions": 1,
+      "default": 0,
+      "file": "ar_SD.xml"
+    },
+    {
+      "lang": "ar-SO",
+      "lang_type": "ar",
+      "territory": "SO",
+      "definitions": 2,
+      "default": 0,
+      "file": "ar_SO.xml"
+    },
+    {
+      "lang": "ar-SS",
+      "lang_type": "ar",
+      "territory": "SS",
+      "definitions": 1,
+      "default": 0,
+      "file": "ar_SS.xml"
+    },
+    {
+      "lang": "ar-SY",
+      "lang_type": "ar",
+      "territory": "SY",
+      "definitions": 2,
+      "default": 0,
+      "file": "ar_SY.xml"
+    },
+    {
+      "lang": "ar-TD",
+      "lang_type": "ar",
+      "territory": "TD",
+      "definitions": 1,
+      "default": 0,
+      "file": "ar_TD.xml"
+    },
+    {
+      "lang": "ar-TN",
+      "lang_type": "ar",
+      "territory": "TN",
+      "definitions": 3,
+      "default": 0,
+      "file": "ar_TN.xml"
+    },
+    {
+      "lang": "ar-YE",
+      "lang_type": "ar",
+      "territory": "YE",
+      "definitions": 1,
+      "default": 0,
+      "file": "ar_YE.xml"
+    },
+    {
+      "lang": "arn",
+      "lang_type": "arn",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "arn.xml"
+    },
+    {
+      "lang": "arn-CL",
+      "lang_type": "arn",
+      "territory": "CL",
+      "definitions": 0,
+      "default": 0,
+      "file": "arn_CL.xml"
+    },
+    {
+      "lang": "as",
+      "lang_type": "as",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "as.xml"
+    },
+    {
+      "lang": "as-IN",
+      "lang_type": "as",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "as_IN.xml"
+    },
+    {
+      "lang": "asa",
+      "lang_type": "asa",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "asa.xml"
+    },
+    {
+      "lang": "asa-TZ",
+      "lang_type": "asa",
+      "territory": "TZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "asa_TZ.xml"
+    },
+    {
+      "lang": "ast",
+      "lang_type": "ast",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ast.xml"
+    },
+    {
+      "lang": "ast-ES",
+      "lang_type": "ast",
+      "territory": "ES",
+      "definitions": 0,
+      "default": 0,
+      "file": "ast_ES.xml"
+    },
+    {
+      "lang": "az",
+      "lang_type": "az",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "az.xml"
+    },
+    {
+      "lang": "az-Arab",
+      "lang_type": "az",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "az_Arab.xml"
+    },
+    {
+      "lang": "az-Arab-IQ",
+      "lang_type": "az",
+      "territory": "IQ",
+      "definitions": 0,
+      "default": 0,
+      "file": "az_Arab_IQ.xml"
+    },
+    {
+      "lang": "az-Arab-IR",
+      "lang_type": "az",
+      "territory": "IR",
+      "definitions": 0,
+      "default": 0,
+      "file": "az_Arab_IR.xml"
+    },
+    {
+      "lang": "az-Arab-TR",
+      "lang_type": "az",
+      "territory": "TR",
+      "definitions": 0,
+      "default": 0,
+      "file": "az_Arab_TR.xml"
+    },
+    {
+      "lang": "az-Cyrl",
+      "lang_type": "az",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "az_Cyrl.xml"
+    },
+    {
+      "lang": "az-Cyrl-AZ",
+      "lang_type": "az",
+      "territory": "AZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "az_Cyrl_AZ.xml"
+    },
+    {
+      "lang": "az-Latn",
+      "lang_type": "az",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "az_Latn.xml"
+    },
+    {
+      "lang": "az-Latn-AZ",
+      "lang_type": "az",
+      "territory": "AZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "az_Latn_AZ.xml"
+    },
+    {
+      "lang": "ba",
+      "lang_type": "ba",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ba.xml"
+    },
+    {
+      "lang": "ba-RU",
+      "lang_type": "ba",
+      "territory": "RU",
+      "definitions": 0,
+      "default": 0,
+      "file": "ba_RU.xml"
+    },
+    {
+      "lang": "bal",
+      "lang_type": "bal",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "bal.xml"
+    },
+    {
+      "lang": "bal-Arab",
+      "lang_type": "bal",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "bal_Arab.xml"
+    },
+    {
+      "lang": "bal-Arab-PK",
+      "lang_type": "bal",
+      "territory": "PK",
+      "definitions": 0,
+      "default": 0,
+      "file": "bal_Arab_PK.xml"
+    },
+    {
+      "lang": "bal-Latn",
+      "lang_type": "bal",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "bal_Latn.xml"
+    },
+    {
+      "lang": "bal-Latn-PK",
+      "lang_type": "bal",
+      "territory": "PK",
+      "definitions": 0,
+      "default": 0,
+      "file": "bal_Latn_PK.xml"
+    },
+    {
+      "lang": "bas",
+      "lang_type": "bas",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "bas.xml"
+    },
+    {
+      "lang": "bas-CM",
+      "lang_type": "bas",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "bas_CM.xml"
+    },
+    {
+      "lang": "be",
+      "lang_type": "be",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "be.xml"
+    },
+    {
+      "lang": "be-BY",
+      "lang_type": "be",
+      "territory": "BY",
+      "definitions": 0,
+      "default": 0,
+      "file": "be_BY.xml"
+    },
+    {
+      "lang": "be-TARASK",
+      "lang_type": "be",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "be_TARASK.xml"
+    },
+    {
+      "lang": "bem",
+      "lang_type": "bem",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "bem.xml"
+    },
+    {
+      "lang": "bem-ZM",
+      "lang_type": "bem",
+      "territory": "ZM",
+      "definitions": 0,
+      "default": 0,
+      "file": "bem_ZM.xml"
+    },
+    {
+      "lang": "bew",
+      "lang_type": "bew",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "bew.xml"
+    },
+    {
+      "lang": "bew-ID",
+      "lang_type": "bew",
+      "territory": "ID",
+      "definitions": 0,
+      "default": 0,
+      "file": "bew_ID.xml"
+    },
+    {
+      "lang": "bez",
+      "lang_type": "bez",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "bez.xml"
+    },
+    {
+      "lang": "bez-TZ",
+      "lang_type": "bez",
+      "territory": "TZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "bez_TZ.xml"
+    },
+    {
+      "lang": "bg",
+      "lang_type": "bg",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "bg.xml"
+    },
+    {
+      "lang": "bg-BG",
+      "lang_type": "bg",
+      "territory": "BG",
+      "definitions": 0,
+      "default": 0,
+      "file": "bg_BG.xml"
+    },
+    {
+      "lang": "bgc",
+      "lang_type": "bgc",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "bgc.xml"
+    },
+    {
+      "lang": "bgc-IN",
+      "lang_type": "bgc",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "bgc_IN.xml"
+    },
+    {
+      "lang": "bgn",
+      "lang_type": "bgn",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "bgn.xml"
+    },
+    {
+      "lang": "bgn-AE",
+      "lang_type": "bgn",
+      "territory": "AE",
+      "definitions": 0,
+      "default": 0,
+      "file": "bgn_AE.xml"
+    },
+    {
+      "lang": "bgn-AF",
+      "lang_type": "bgn",
+      "territory": "AF",
+      "definitions": 0,
+      "default": 0,
+      "file": "bgn_AF.xml"
+    },
+    {
+      "lang": "bgn-IR",
+      "lang_type": "bgn",
+      "territory": "IR",
+      "definitions": 0,
+      "default": 0,
+      "file": "bgn_IR.xml"
+    },
+    {
+      "lang": "bgn-OM",
+      "lang_type": "bgn",
+      "territory": "OM",
+      "definitions": 0,
+      "default": 0,
+      "file": "bgn_OM.xml"
+    },
+    {
+      "lang": "bgn-PK",
+      "lang_type": "bgn",
+      "territory": "PK",
+      "definitions": 0,
+      "default": 0,
+      "file": "bgn_PK.xml"
+    },
+    {
+      "lang": "bho",
+      "lang_type": "bho",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "bho.xml"
+    },
+    {
+      "lang": "bho-IN",
+      "lang_type": "bho",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "bho_IN.xml"
+    },
+    {
+      "lang": "blo",
+      "lang_type": "blo",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "blo.xml"
+    },
+    {
+      "lang": "blo-BJ",
+      "lang_type": "blo",
+      "territory": "BJ",
+      "definitions": 0,
+      "default": 0,
+      "file": "blo_BJ.xml"
+    },
+    {
+      "lang": "blt",
+      "lang_type": "blt",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "blt.xml"
+    },
+    {
+      "lang": "blt-VN",
+      "lang_type": "blt",
+      "territory": "VN",
+      "definitions": 0,
+      "default": 0,
+      "file": "blt_VN.xml"
+    },
+    {
+      "lang": "bm",
+      "lang_type": "bm",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "bm.xml"
+    },
+    {
+      "lang": "bm-ML",
+      "lang_type": "bm",
+      "territory": "ML",
+      "definitions": 0,
+      "default": 0,
+      "file": "bm_ML.xml"
+    },
+    {
+      "lang": "bm-Nkoo",
+      "lang_type": "bm",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "bm_Nkoo.xml"
+    },
+    {
+      "lang": "bm-Nkoo-ML",
+      "lang_type": "bm",
+      "territory": "ML",
+      "definitions": 0,
+      "default": 0,
+      "file": "bm_Nkoo_ML.xml"
+    },
+    {
+      "lang": "bn",
+      "lang_type": "bn",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "bn.xml"
+    },
+    {
+      "lang": "bn-BD",
+      "lang_type": "bn",
+      "territory": "BD",
+      "definitions": 0,
+      "default": 0,
+      "file": "bn_BD.xml"
+    },
+    {
+      "lang": "bn-IN",
+      "lang_type": "bn",
+      "territory": "IN",
+      "definitions": 5,
+      "default": 0,
+      "file": "bn_IN.xml"
+    },
+    {
+      "lang": "bo",
+      "lang_type": "bo",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "bo.xml"
+    },
+    {
+      "lang": "bo-CN",
+      "lang_type": "bo",
+      "territory": "CN",
+      "definitions": 0,
+      "default": 0,
+      "file": "bo_CN.xml"
+    },
+    {
+      "lang": "bo-IN",
+      "lang_type": "bo",
+      "territory": "IN",
+      "definitions": 3,
+      "default": 0,
+      "file": "bo_IN.xml"
+    },
+    {
+      "lang": "bqi",
+      "lang_type": "bqi",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "bqi.xml"
+    },
+    {
+      "lang": "bqi-IR",
+      "lang_type": "bqi",
+      "territory": "IR",
+      "definitions": 0,
+      "default": 0,
+      "file": "bqi_IR.xml"
+    },
+    {
+      "lang": "br",
+      "lang_type": "br",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "br.xml"
+    },
+    {
+      "lang": "br-FR",
+      "lang_type": "br",
+      "territory": "FR",
+      "definitions": 0,
+      "default": 0,
+      "file": "br_FR.xml"
+    },
+    {
+      "lang": "brx",
+      "lang_type": "brx",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "brx.xml"
+    },
+    {
+      "lang": "brx-IN",
+      "lang_type": "brx",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "brx_IN.xml"
+    },
+    {
+      "lang": "bs",
+      "lang_type": "bs",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "bs.xml"
+    },
+    {
+      "lang": "bs-Cyrl",
+      "lang_type": "bs",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "bs_Cyrl.xml"
+    },
+    {
+      "lang": "bs-Cyrl-BA",
+      "lang_type": "bs",
+      "territory": "BA",
+      "definitions": 0,
+      "default": 0,
+      "file": "bs_Cyrl_BA.xml"
+    },
+    {
+      "lang": "bs-Latn",
+      "lang_type": "bs",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "bs_Latn.xml"
+    },
+    {
+      "lang": "bs-Latn-BA",
+      "lang_type": "bs",
+      "territory": "BA",
+      "definitions": 0,
+      "default": 0,
+      "file": "bs_Latn_BA.xml"
+    },
+    {
+      "lang": "bss",
+      "lang_type": "bss",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "bss.xml"
+    },
+    {
+      "lang": "bss-CM",
+      "lang_type": "bss",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "bss_CM.xml"
+    },
+    {
+      "lang": "bua",
+      "lang_type": "bua",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "bua.xml"
+    },
+    {
+      "lang": "bua-RU",
+      "lang_type": "bua",
+      "territory": "RU",
+      "definitions": 0,
+      "default": 0,
+      "file": "bua_RU.xml"
+    },
+    {
+      "lang": "byn",
+      "lang_type": "byn",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "byn.xml"
+    },
+    {
+      "lang": "byn-ER",
+      "lang_type": "byn",
+      "territory": "ER",
+      "definitions": 0,
+      "default": 0,
+      "file": "byn_ER.xml"
+    },
+    {
+      "lang": "ca",
+      "lang_type": "ca",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "ca.xml"
+    },
+    {
+      "lang": "ca-AD",
+      "lang_type": "ca",
+      "territory": "AD",
+      "definitions": 0,
+      "default": 0,
+      "file": "ca_AD.xml"
+    },
+    {
+      "lang": "ca-ES",
+      "lang_type": "ca",
+      "territory": "ES",
+      "definitions": 0,
+      "default": 0,
+      "file": "ca_ES.xml"
+    },
+    {
+      "lang": "ca-ES-VALENCIA",
+      "lang_type": "ca",
+      "territory": "ES",
+      "definitions": 4,
+      "default": 0,
+      "file": "ca_ES_VALENCIA.xml"
+    },
+    {
+      "lang": "ca-FR",
+      "lang_type": "ca",
+      "territory": "FR",
+      "definitions": 1,
+      "default": 0,
+      "file": "ca_FR.xml"
+    },
+    {
+      "lang": "ca-IT",
+      "lang_type": "ca",
+      "territory": "IT",
+      "definitions": 0,
+      "default": 0,
+      "file": "ca_IT.xml"
+    },
+    {
+      "lang": "cad",
+      "lang_type": "cad",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "cad.xml"
+    },
+    {
+      "lang": "cad-US",
+      "lang_type": "cad",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "cad_US.xml"
+    },
+    {
+      "lang": "cch",
+      "lang_type": "cch",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "cch.xml"
+    },
+    {
+      "lang": "cch-NG",
+      "lang_type": "cch",
+      "territory": "NG",
+      "definitions": 0,
+      "default": 0,
+      "file": "cch_NG.xml"
+    },
+    {
+      "lang": "ccp",
+      "lang_type": "ccp",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "ccp.xml"
+    },
+    {
+      "lang": "ccp-BD",
+      "lang_type": "ccp",
+      "territory": "BD",
+      "definitions": 0,
+      "default": 0,
+      "file": "ccp_BD.xml"
+    },
+    {
+      "lang": "ccp-IN",
+      "lang_type": "ccp",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "ccp_IN.xml"
+    },
+    {
+      "lang": "ce",
+      "lang_type": "ce",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "ce.xml"
+    },
+    {
+      "lang": "ce-RU",
+      "lang_type": "ce",
+      "territory": "RU",
+      "definitions": 0,
+      "default": 0,
+      "file": "ce_RU.xml"
+    },
+    {
+      "lang": "ceb",
+      "lang_type": "ceb",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "ceb.xml"
+    },
+    {
+      "lang": "ceb-PH",
+      "lang_type": "ceb",
+      "territory": "PH",
+      "definitions": 0,
+      "default": 0,
+      "file": "ceb_PH.xml"
+    },
+    {
+      "lang": "cgg",
+      "lang_type": "cgg",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "cgg.xml"
+    },
+    {
+      "lang": "cgg-UG",
+      "lang_type": "cgg",
+      "territory": "UG",
+      "definitions": 0,
+      "default": 0,
+      "file": "cgg_UG.xml"
+    },
+    {
+      "lang": "cho",
+      "lang_type": "cho",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "cho.xml"
+    },
+    {
+      "lang": "cho-US",
+      "lang_type": "cho",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "cho_US.xml"
+    },
+    {
+      "lang": "chr",
+      "lang_type": "chr",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "chr.xml"
+    },
+    {
+      "lang": "chr-US",
+      "lang_type": "chr",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "chr_US.xml"
+    },
+    {
+      "lang": "cic",
+      "lang_type": "cic",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "cic.xml"
+    },
+    {
+      "lang": "cic-US",
+      "lang_type": "cic",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "cic_US.xml"
+    },
+    {
+      "lang": "ckb",
+      "lang_type": "ckb",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "ckb.xml"
+    },
+    {
+      "lang": "ckb-IQ",
+      "lang_type": "ckb",
+      "territory": "IQ",
+      "definitions": 0,
+      "default": 0,
+      "file": "ckb_IQ.xml"
+    },
+    {
+      "lang": "ckb-IR",
+      "lang_type": "ckb",
+      "territory": "IR",
+      "definitions": 1,
+      "default": 0,
+      "file": "ckb_IR.xml"
+    },
+    {
+      "lang": "co",
+      "lang_type": "co",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "co.xml"
+    },
+    {
+      "lang": "co-FR",
+      "lang_type": "co",
+      "territory": "FR",
+      "definitions": 0,
+      "default": 0,
+      "file": "co_FR.xml"
+    },
+    {
+      "lang": "cop",
+      "lang_type": "cop",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "cop.xml"
+    },
+    {
+      "lang": "cop-EG",
+      "lang_type": "cop",
+      "territory": "EG",
+      "definitions": 0,
+      "default": 0,
+      "file": "cop_EG.xml"
+    },
+    {
+      "lang": "cs",
+      "lang_type": "cs",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "cs.xml"
+    },
+    {
+      "lang": "cs-CZ",
+      "lang_type": "cs",
+      "territory": "CZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "cs_CZ.xml"
+    },
+    {
+      "lang": "csw",
+      "lang_type": "csw",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "csw.xml"
+    },
+    {
+      "lang": "csw-CA",
+      "lang_type": "csw",
+      "territory": "CA",
+      "definitions": 0,
+      "default": 0,
+      "file": "csw_CA.xml"
+    },
+    {
+      "lang": "cu",
+      "lang_type": "cu",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "cu.xml"
+    },
+    {
+      "lang": "cu-RU",
+      "lang_type": "cu",
+      "territory": "RU",
+      "definitions": 0,
+      "default": 0,
+      "file": "cu_RU.xml"
+    },
+    {
+      "lang": "cv",
+      "lang_type": "cv",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "cv.xml"
+    },
+    {
+      "lang": "cv-RU",
+      "lang_type": "cv",
+      "territory": "RU",
+      "definitions": 0,
+      "default": 0,
+      "file": "cv_RU.xml"
+    },
+    {
+      "lang": "cy",
+      "lang_type": "cy",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "cy.xml"
+    },
+    {
+      "lang": "cy-GB",
+      "lang_type": "cy",
+      "territory": "GB",
+      "definitions": 0,
+      "default": 0,
+      "file": "cy_GB.xml"
+    },
+    {
+      "lang": "da",
+      "lang_type": "da",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "da.xml"
+    },
+    {
+      "lang": "da-DK",
+      "lang_type": "da",
+      "territory": "DK",
+      "definitions": 0,
+      "default": 0,
+      "file": "da_DK.xml"
+    },
+    {
+      "lang": "da-GL",
+      "lang_type": "da",
+      "territory": "GL",
+      "definitions": 0,
+      "default": 0,
+      "file": "da_GL.xml"
+    },
+    {
+      "lang": "dav",
+      "lang_type": "dav",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "dav.xml"
+    },
+    {
+      "lang": "dav-KE",
+      "lang_type": "dav",
+      "territory": "KE",
+      "definitions": 0,
+      "default": 0,
+      "file": "dav_KE.xml"
+    },
+    {
+      "lang": "de",
+      "lang_type": "de",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "de.xml"
+    },
+    {
+      "lang": "de-AT",
+      "lang_type": "de",
+      "territory": "AT",
+      "definitions": 4,
+      "default": 0,
+      "file": "de_AT.xml"
+    },
+    {
+      "lang": "de-BE",
+      "lang_type": "de",
+      "territory": "BE",
+      "definitions": 0,
+      "default": 0,
+      "file": "de_BE.xml"
+    },
+    {
+      "lang": "de-CH",
+      "lang_type": "de",
+      "territory": "CH",
+      "definitions": 7,
+      "default": 0,
+      "file": "de_CH.xml"
+    },
+    {
+      "lang": "de-DE",
+      "lang_type": "de",
+      "territory": "DE",
+      "definitions": 0,
+      "default": 0,
+      "file": "de_DE.xml"
+    },
+    {
+      "lang": "de-IT",
+      "lang_type": "de",
+      "territory": "IT",
+      "definitions": 1,
+      "default": 0,
+      "file": "de_IT.xml"
+    },
+    {
+      "lang": "de-LI",
+      "lang_type": "de",
+      "territory": "LI",
+      "definitions": 3,
+      "default": 0,
+      "file": "de_LI.xml"
+    },
+    {
+      "lang": "de-LU",
+      "lang_type": "de",
+      "territory": "LU",
+      "definitions": 2,
+      "default": 0,
+      "file": "de_LU.xml"
+    },
+    {
+      "lang": "dje",
+      "lang_type": "dje",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "dje.xml"
+    },
+    {
+      "lang": "dje-NE",
+      "lang_type": "dje",
+      "territory": "NE",
+      "definitions": 0,
+      "default": 0,
+      "file": "dje_NE.xml"
+    },
+    {
+      "lang": "doi",
+      "lang_type": "doi",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "doi.xml"
+    },
+    {
+      "lang": "doi-IN",
+      "lang_type": "doi",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "doi_IN.xml"
+    },
+    {
+      "lang": "dsb",
+      "lang_type": "dsb",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "dsb.xml"
+    },
+    {
+      "lang": "dsb-DE",
+      "lang_type": "dsb",
+      "territory": "DE",
+      "definitions": 0,
+      "default": 0,
+      "file": "dsb_DE.xml"
+    },
+    {
+      "lang": "dua",
+      "lang_type": "dua",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "dua.xml"
+    },
+    {
+      "lang": "dua-CM",
+      "lang_type": "dua",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "dua_CM.xml"
+    },
+    {
+      "lang": "dv",
+      "lang_type": "dv",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "dv.xml"
+    },
+    {
+      "lang": "dv-MV",
+      "lang_type": "dv",
+      "territory": "MV",
+      "definitions": 0,
+      "default": 0,
+      "file": "dv_MV.xml"
+    },
+    {
+      "lang": "dyo",
+      "lang_type": "dyo",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "dyo.xml"
+    },
+    {
+      "lang": "dyo-SN",
+      "lang_type": "dyo",
+      "territory": "SN",
+      "definitions": 0,
+      "default": 0,
+      "file": "dyo_SN.xml"
+    },
+    {
+      "lang": "dz",
+      "lang_type": "dz",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "dz.xml"
+    },
+    {
+      "lang": "dz-BT",
+      "lang_type": "dz",
+      "territory": "BT",
+      "definitions": 0,
+      "default": 0,
+      "file": "dz_BT.xml"
+    },
+    {
+      "lang": "ebu",
+      "lang_type": "ebu",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "ebu.xml"
+    },
+    {
+      "lang": "ebu-KE",
+      "lang_type": "ebu",
+      "territory": "KE",
+      "definitions": 0,
+      "default": 0,
+      "file": "ebu_KE.xml"
+    },
+    {
+      "lang": "ee",
+      "lang_type": "ee",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "ee.xml"
+    },
+    {
+      "lang": "ee-GH",
+      "lang_type": "ee",
+      "territory": "GH",
+      "definitions": 0,
+      "default": 0,
+      "file": "ee_GH.xml"
+    },
+    {
+      "lang": "ee-TG",
+      "lang_type": "ee",
+      "territory": "TG",
+      "definitions": 1,
+      "default": 0,
+      "file": "ee_TG.xml"
+    },
+    {
+      "lang": "el",
+      "lang_type": "el",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "el.xml"
+    },
+    {
+      "lang": "el-CY",
+      "lang_type": "el",
+      "territory": "CY",
+      "definitions": 0,
+      "default": 0,
+      "file": "el_CY.xml"
+    },
+    {
+      "lang": "el-GR",
+      "lang_type": "el",
+      "territory": "GR",
+      "definitions": 0,
+      "default": 0,
+      "file": "el_GR.xml"
+    },
+    {
+      "lang": "el-POLYTON",
+      "lang_type": "el",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "el_POLYTON.xml"
+    },
+    {
+      "lang": "en",
+      "lang_type": "en",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "en.xml"
+    },
+    {
+      "lang": "en-001",
+      "lang_type": "en",
+      "territory": "001",
+      "definitions": 7,
+      "default": 0,
+      "file": "en_001.xml"
+    },
+    {
+      "lang": "en-150",
+      "lang_type": "en",
+      "territory": "150",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_150.xml"
+    },
+    {
+      "lang": "en-AE",
+      "lang_type": "en",
+      "territory": "AE",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_AE.xml"
+    },
+    {
+      "lang": "en-AG",
+      "lang_type": "en",
+      "territory": "AG",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_AG.xml"
+    },
+    {
+      "lang": "en-AI",
+      "lang_type": "en",
+      "territory": "AI",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_AI.xml"
+    },
+    {
+      "lang": "en-AS",
+      "lang_type": "en",
+      "territory": "AS",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_AS.xml"
+    },
+    {
+      "lang": "en-AT",
+      "lang_type": "en",
+      "territory": "AT",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_AT.xml"
+    },
+    {
+      "lang": "en-AU",
+      "lang_type": "en",
+      "territory": "AU",
+      "definitions": 6,
+      "default": 0,
+      "file": "en_AU.xml"
+    },
+    {
+      "lang": "en-BB",
+      "lang_type": "en",
+      "territory": "BB",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_BB.xml"
+    },
+    {
+      "lang": "en-BE",
+      "lang_type": "en",
+      "territory": "BE",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_BE.xml"
+    },
+    {
+      "lang": "en-BI",
+      "lang_type": "en",
+      "territory": "BI",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_BI.xml"
+    },
+    {
+      "lang": "en-BM",
+      "lang_type": "en",
+      "territory": "BM",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_BM.xml"
+    },
+    {
+      "lang": "en-BS",
+      "lang_type": "en",
+      "territory": "BS",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_BS.xml"
+    },
+    {
+      "lang": "en-BW",
+      "lang_type": "en",
+      "territory": "BW",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_BW.xml"
+    },
+    {
+      "lang": "en-BZ",
+      "lang_type": "en",
+      "territory": "BZ",
+      "definitions": 3,
+      "default": 0,
+      "file": "en_BZ.xml"
+    },
+    {
+      "lang": "en-CA",
+      "lang_type": "en",
+      "territory": "CA",
+      "definitions": 8,
+      "default": 0,
+      "file": "en_CA.xml"
+    },
+    {
+      "lang": "en-CC",
+      "lang_type": "en",
+      "territory": "CC",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_CC.xml"
+    },
+    {
+      "lang": "en-CH",
+      "lang_type": "en",
+      "territory": "CH",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_CH.xml"
+    },
+    {
+      "lang": "en-CK",
+      "lang_type": "en",
+      "territory": "CK",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_CK.xml"
+    },
+    {
+      "lang": "en-CM",
+      "lang_type": "en",
+      "territory": "CM",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_CM.xml"
+    },
+    {
+      "lang": "en-CX",
+      "lang_type": "en",
+      "territory": "CX",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_CX.xml"
+    },
+    {
+      "lang": "en-CY",
+      "lang_type": "en",
+      "territory": "CY",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_CY.xml"
+    },
+    {
+      "lang": "en-CZ",
+      "lang_type": "en",
+      "territory": "CZ",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_CZ.xml"
+    },
+    {
+      "lang": "en-DE",
+      "lang_type": "en",
+      "territory": "DE",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_DE.xml"
+    },
+    {
+      "lang": "en-DG",
+      "lang_type": "en",
+      "territory": "DG",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_DG.xml"
+    },
+    {
+      "lang": "en-DK",
+      "lang_type": "en",
+      "territory": "DK",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_DK.xml"
+    },
+    {
+      "lang": "en-DM",
+      "lang_type": "en",
+      "territory": "DM",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_DM.xml"
+    },
+    {
+      "lang": "en-Dsrt",
+      "lang_type": "en",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "en_Dsrt.xml"
+    },
+    {
+      "lang": "en-Dsrt-US",
+      "lang_type": "en",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_Dsrt_US.xml"
+    },
+    {
+      "lang": "en-EE",
+      "lang_type": "en",
+      "territory": "EE",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_EE.xml"
+    },
+    {
+      "lang": "en-ER",
+      "lang_type": "en",
+      "territory": "ER",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_ER.xml"
+    },
+    {
+      "lang": "en-ES",
+      "lang_type": "en",
+      "territory": "ES",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_ES.xml"
+    },
+    {
+      "lang": "en-FI",
+      "lang_type": "en",
+      "territory": "FI",
+      "definitions": 3,
+      "default": 0,
+      "file": "en_FI.xml"
+    },
+    {
+      "lang": "en-FJ",
+      "lang_type": "en",
+      "territory": "FJ",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_FJ.xml"
+    },
+    {
+      "lang": "en-FK",
+      "lang_type": "en",
+      "territory": "FK",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_FK.xml"
+    },
+    {
+      "lang": "en-FM",
+      "lang_type": "en",
+      "territory": "FM",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_FM.xml"
+    },
+    {
+      "lang": "en-FR",
+      "lang_type": "en",
+      "territory": "FR",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_FR.xml"
+    },
+    {
+      "lang": "en-GB",
+      "lang_type": "en",
+      "territory": "GB",
+      "definitions": 4,
+      "default": 0,
+      "file": "en_GB.xml"
+    },
+    {
+      "lang": "en-GD",
+      "lang_type": "en",
+      "territory": "GD",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_GD.xml"
+    },
+    {
+      "lang": "en-GE",
+      "lang_type": "en",
+      "territory": "GE",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_GE.xml"
+    },
+    {
+      "lang": "en-GG",
+      "lang_type": "en",
+      "territory": "GG",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_GG.xml"
+    },
+    {
+      "lang": "en-GH",
+      "lang_type": "en",
+      "territory": "GH",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_GH.xml"
+    },
+    {
+      "lang": "en-GI",
+      "lang_type": "en",
+      "territory": "GI",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_GI.xml"
+    },
+    {
+      "lang": "en-GM",
+      "lang_type": "en",
+      "territory": "GM",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_GM.xml"
+    },
+    {
+      "lang": "en-GS",
+      "lang_type": "en",
+      "territory": "GS",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_GS.xml"
+    },
+    {
+      "lang": "en-GU",
+      "lang_type": "en",
+      "territory": "GU",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_GU.xml"
+    },
+    {
+      "lang": "en-GY",
+      "lang_type": "en",
+      "territory": "GY",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_GY.xml"
+    },
+    {
+      "lang": "en-HK",
+      "lang_type": "en",
+      "territory": "HK",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_HK.xml"
+    },
+    {
+      "lang": "en-HU",
+      "lang_type": "en",
+      "territory": "HU",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_HU.xml"
+    },
+    {
+      "lang": "en-ID",
+      "lang_type": "en",
+      "territory": "ID",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_ID.xml"
+    },
+    {
+      "lang": "en-IE",
+      "lang_type": "en",
+      "territory": "IE",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_IE.xml"
+    },
+    {
+      "lang": "en-IL",
+      "lang_type": "en",
+      "territory": "IL",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_IL.xml"
+    },
+    {
+      "lang": "en-IM",
+      "lang_type": "en",
+      "territory": "IM",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_IM.xml"
+    },
+    {
+      "lang": "en-IN",
+      "lang_type": "en",
+      "territory": "IN",
+      "definitions": 5,
+      "default": 0,
+      "file": "en_IN.xml"
+    },
+    {
+      "lang": "en-IO",
+      "lang_type": "en",
+      "territory": "IO",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_IO.xml"
+    },
+    {
+      "lang": "en-IT",
+      "lang_type": "en",
+      "territory": "IT",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_IT.xml"
+    },
+    {
+      "lang": "en-JE",
+      "lang_type": "en",
+      "territory": "JE",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_JE.xml"
+    },
+    {
+      "lang": "en-JM",
+      "lang_type": "en",
+      "territory": "JM",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_JM.xml"
+    },
+    {
+      "lang": "en-JP",
+      "lang_type": "en",
+      "territory": "JP",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_JP.xml"
+    },
+    {
+      "lang": "en-KE",
+      "lang_type": "en",
+      "territory": "KE",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_KE.xml"
+    },
+    {
+      "lang": "en-KI",
+      "lang_type": "en",
+      "territory": "KI",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_KI.xml"
+    },
+    {
+      "lang": "en-KN",
+      "lang_type": "en",
+      "territory": "KN",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_KN.xml"
+    },
+    {
+      "lang": "en-KY",
+      "lang_type": "en",
+      "territory": "KY",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_KY.xml"
+    },
+    {
+      "lang": "en-LC",
+      "lang_type": "en",
+      "territory": "LC",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_LC.xml"
+    },
+    {
+      "lang": "en-LR",
+      "lang_type": "en",
+      "territory": "LR",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_LR.xml"
+    },
+    {
+      "lang": "en-LS",
+      "lang_type": "en",
+      "territory": "LS",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_LS.xml"
+    },
+    {
+      "lang": "en-LT",
+      "lang_type": "en",
+      "territory": "LT",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_LT.xml"
+    },
+    {
+      "lang": "en-LV",
+      "lang_type": "en",
+      "territory": "LV",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_LV.xml"
+    },
+    {
+      "lang": "en-MG",
+      "lang_type": "en",
+      "territory": "MG",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_MG.xml"
+    },
+    {
+      "lang": "en-MH",
+      "lang_type": "en",
+      "territory": "MH",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_MH.xml"
+    },
+    {
+      "lang": "en-MO",
+      "lang_type": "en",
+      "territory": "MO",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_MO.xml"
+    },
+    {
+      "lang": "en-MP",
+      "lang_type": "en",
+      "territory": "MP",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_MP.xml"
+    },
+    {
+      "lang": "en-MS",
+      "lang_type": "en",
+      "territory": "MS",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_MS.xml"
+    },
+    {
+      "lang": "en-MT",
+      "lang_type": "en",
+      "territory": "MT",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_MT.xml"
+    },
+    {
+      "lang": "en-MU",
+      "lang_type": "en",
+      "territory": "MU",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_MU.xml"
+    },
+    {
+      "lang": "en-MV",
+      "lang_type": "en",
+      "territory": "MV",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_MV.xml"
+    },
+    {
+      "lang": "en-MW",
+      "lang_type": "en",
+      "territory": "MW",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_MW.xml"
+    },
+    {
+      "lang": "en-MY",
+      "lang_type": "en",
+      "territory": "MY",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_MY.xml"
+    },
+    {
+      "lang": "en-NA",
+      "lang_type": "en",
+      "territory": "NA",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_NA.xml"
+    },
+    {
+      "lang": "en-NF",
+      "lang_type": "en",
+      "territory": "NF",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_NF.xml"
+    },
+    {
+      "lang": "en-NG",
+      "lang_type": "en",
+      "territory": "NG",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_NG.xml"
+    },
+    {
+      "lang": "en-NL",
+      "lang_type": "en",
+      "territory": "NL",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_NL.xml"
+    },
+    {
+      "lang": "en-NO",
+      "lang_type": "en",
+      "territory": "NO",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_NO.xml"
+    },
+    {
+      "lang": "en-NR",
+      "lang_type": "en",
+      "territory": "NR",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_NR.xml"
+    },
+    {
+      "lang": "en-NU",
+      "lang_type": "en",
+      "territory": "NU",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_NU.xml"
+    },
+    {
+      "lang": "en-NZ",
+      "lang_type": "en",
+      "territory": "NZ",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_NZ.xml"
+    },
+    {
+      "lang": "en-PG",
+      "lang_type": "en",
+      "territory": "PG",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_PG.xml"
+    },
+    {
+      "lang": "en-PH",
+      "lang_type": "en",
+      "territory": "PH",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_PH.xml"
+    },
+    {
+      "lang": "en-PK",
+      "lang_type": "en",
+      "territory": "PK",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_PK.xml"
+    },
+    {
+      "lang": "en-PL",
+      "lang_type": "en",
+      "territory": "PL",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_PL.xml"
+    },
+    {
+      "lang": "en-PN",
+      "lang_type": "en",
+      "territory": "PN",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_PN.xml"
+    },
+    {
+      "lang": "en-PR",
+      "lang_type": "en",
+      "territory": "PR",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_PR.xml"
+    },
+    {
+      "lang": "en-PT",
+      "lang_type": "en",
+      "territory": "PT",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_PT.xml"
+    },
+    {
+      "lang": "en-PW",
+      "lang_type": "en",
+      "territory": "PW",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_PW.xml"
+    },
+    {
+      "lang": "en-RO",
+      "lang_type": "en",
+      "territory": "RO",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_RO.xml"
+    },
+    {
+      "lang": "en-RW",
+      "lang_type": "en",
+      "territory": "RW",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_RW.xml"
+    },
+    {
+      "lang": "en-SB",
+      "lang_type": "en",
+      "territory": "SB",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_SB.xml"
+    },
+    {
+      "lang": "en-SC",
+      "lang_type": "en",
+      "territory": "SC",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_SC.xml"
+    },
+    {
+      "lang": "en-SD",
+      "lang_type": "en",
+      "territory": "SD",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_SD.xml"
+    },
+    {
+      "lang": "en-SE",
+      "lang_type": "en",
+      "territory": "SE",
+      "definitions": 3,
+      "default": 0,
+      "file": "en_SE.xml"
+    },
+    {
+      "lang": "en-SG",
+      "lang_type": "en",
+      "territory": "SG",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_SG.xml"
+    },
+    {
+      "lang": "en-SH",
+      "lang_type": "en",
+      "territory": "SH",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_SH.xml"
+    },
+    {
+      "lang": "en-SI",
+      "lang_type": "en",
+      "territory": "SI",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_SI.xml"
+    },
+    {
+      "lang": "en-SK",
+      "lang_type": "en",
+      "territory": "SK",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_SK.xml"
+    },
+    {
+      "lang": "en-SL",
+      "lang_type": "en",
+      "territory": "SL",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_SL.xml"
+    },
+    {
+      "lang": "en-SS",
+      "lang_type": "en",
+      "territory": "SS",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_SS.xml"
+    },
+    {
+      "lang": "en-SX",
+      "lang_type": "en",
+      "territory": "SX",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_SX.xml"
+    },
+    {
+      "lang": "en-SZ",
+      "lang_type": "en",
+      "territory": "SZ",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_SZ.xml"
+    },
+    {
+      "lang": "en-Shaw",
+      "lang_type": "en",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "en_Shaw.xml"
+    },
+    {
+      "lang": "en-Shaw-GB",
+      "lang_type": "en",
+      "territory": "GB",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_Shaw_GB.xml"
+    },
+    {
+      "lang": "en-TC",
+      "lang_type": "en",
+      "territory": "TC",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_TC.xml"
+    },
+    {
+      "lang": "en-TK",
+      "lang_type": "en",
+      "territory": "TK",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_TK.xml"
+    },
+    {
+      "lang": "en-TO",
+      "lang_type": "en",
+      "territory": "TO",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_TO.xml"
+    },
+    {
+      "lang": "en-TT",
+      "lang_type": "en",
+      "territory": "TT",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_TT.xml"
+    },
+    {
+      "lang": "en-TV",
+      "lang_type": "en",
+      "territory": "TV",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_TV.xml"
+    },
+    {
+      "lang": "en-TZ",
+      "lang_type": "en",
+      "territory": "TZ",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_TZ.xml"
+    },
+    {
+      "lang": "en-UA",
+      "lang_type": "en",
+      "territory": "UA",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_UA.xml"
+    },
+    {
+      "lang": "en-UG",
+      "lang_type": "en",
+      "territory": "UG",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_UG.xml"
+    },
+    {
+      "lang": "en-UM",
+      "lang_type": "en",
+      "territory": "UM",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_UM.xml"
+    },
+    {
+      "lang": "en-US",
+      "lang_type": "en",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_US.xml"
+    },
+    {
+      "lang": "en-US-POSIX",
+      "lang_type": "en",
+      "territory": "US",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_US_POSIX.xml"
+    },
+    {
+      "lang": "en-VC",
+      "lang_type": "en",
+      "territory": "VC",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_VC.xml"
+    },
+    {
+      "lang": "en-VG",
+      "lang_type": "en",
+      "territory": "VG",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_VG.xml"
+    },
+    {
+      "lang": "en-VI",
+      "lang_type": "en",
+      "territory": "VI",
+      "definitions": 0,
+      "default": 0,
+      "file": "en_VI.xml"
+    },
+    {
+      "lang": "en-VU",
+      "lang_type": "en",
+      "territory": "VU",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_VU.xml"
+    },
+    {
+      "lang": "en-WS",
+      "lang_type": "en",
+      "territory": "WS",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_WS.xml"
+    },
+    {
+      "lang": "en-ZA",
+      "lang_type": "en",
+      "territory": "ZA",
+      "definitions": 3,
+      "default": 0,
+      "file": "en_ZA.xml"
+    },
+    {
+      "lang": "en-ZM",
+      "lang_type": "en",
+      "territory": "ZM",
+      "definitions": 2,
+      "default": 0,
+      "file": "en_ZM.xml"
+    },
+    {
+      "lang": "en-ZW",
+      "lang_type": "en",
+      "territory": "ZW",
+      "definitions": 1,
+      "default": 0,
+      "file": "en_ZW.xml"
+    },
+    {
+      "lang": "eo",
+      "lang_type": "eo",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "eo.xml"
+    },
+    {
+      "lang": "eo-001",
+      "lang_type": "eo",
+      "territory": "001",
+      "definitions": 0,
+      "default": 0,
+      "file": "eo_001.xml"
+    },
+    {
+      "lang": "es",
+      "lang_type": "es",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "es.xml"
+    },
+    {
+      "lang": "es-419",
+      "lang_type": "es",
+      "territory": "419",
+      "definitions": 7,
+      "default": 0,
+      "file": "es_419.xml"
+    },
+    {
+      "lang": "es-AR",
+      "lang_type": "es",
+      "territory": "AR",
+      "definitions": 4,
+      "default": 0,
+      "file": "es_AR.xml"
+    },
+    {
+      "lang": "es-BO",
+      "lang_type": "es",
+      "territory": "BO",
+      "definitions": 3,
+      "default": 0,
+      "file": "es_BO.xml"
+    },
+    {
+      "lang": "es-BR",
+      "lang_type": "es",
+      "territory": "BR",
+      "definitions": 2,
+      "default": 0,
+      "file": "es_BR.xml"
+    },
+    {
+      "lang": "es-BZ",
+      "lang_type": "es",
+      "territory": "BZ",
+      "definitions": 2,
+      "default": 0,
+      "file": "es_BZ.xml"
+    },
+    {
+      "lang": "es-CL",
+      "lang_type": "es",
+      "territory": "CL",
+      "definitions": 4,
+      "default": 0,
+      "file": "es_CL.xml"
+    },
+    {
+      "lang": "es-CO",
+      "lang_type": "es",
+      "territory": "CO",
+      "definitions": 4,
+      "default": 0,
+      "file": "es_CO.xml"
+    },
+    {
+      "lang": "es-CR",
+      "lang_type": "es",
+      "territory": "CR",
+      "definitions": 4,
+      "default": 0,
+      "file": "es_CR.xml"
+    },
+    {
+      "lang": "es-CU",
+      "lang_type": "es",
+      "territory": "CU",
+      "definitions": 1,
+      "default": 0,
+      "file": "es_CU.xml"
+    },
+    {
+      "lang": "es-DO",
+      "lang_type": "es",
+      "territory": "DO",
+      "definitions": 5,
+      "default": 0,
+      "file": "es_DO.xml"
+    },
+    {
+      "lang": "es-EA",
+      "lang_type": "es",
+      "territory": "EA",
+      "definitions": 0,
+      "default": 0,
+      "file": "es_EA.xml"
+    },
+    {
+      "lang": "es-EC",
+      "lang_type": "es",
+      "territory": "EC",
+      "definitions": 3,
+      "default": 0,
+      "file": "es_EC.xml"
+    },
+    {
+      "lang": "es-ES",
+      "lang_type": "es",
+      "territory": "ES",
+      "definitions": 0,
+      "default": 0,
+      "file": "es_ES.xml"
+    },
+    {
+      "lang": "es-GQ",
+      "lang_type": "es",
+      "territory": "GQ",
+      "definitions": 1,
+      "default": 0,
+      "file": "es_GQ.xml"
+    },
+    {
+      "lang": "es-GT",
+      "lang_type": "es",
+      "territory": "GT",
+      "definitions": 4,
+      "default": 0,
+      "file": "es_GT.xml"
+    },
+    {
+      "lang": "es-HN",
+      "lang_type": "es",
+      "territory": "HN",
+      "definitions": 3,
+      "default": 0,
+      "file": "es_HN.xml"
+    },
+    {
+      "lang": "es-IC",
+      "lang_type": "es",
+      "territory": "IC",
+      "definitions": 0,
+      "default": 0,
+      "file": "es_IC.xml"
+    },
+    {
+      "lang": "es-MX",
+      "lang_type": "es",
+      "territory": "MX",
+      "definitions": 8,
+      "default": 0,
+      "file": "es_MX.xml"
+    },
+    {
+      "lang": "es-NI",
+      "lang_type": "es",
+      "territory": "NI",
+      "definitions": 3,
+      "default": 0,
+      "file": "es_NI.xml"
+    },
+    {
+      "lang": "es-PA",
+      "lang_type": "es",
+      "territory": "PA",
+      "definitions": 3,
+      "default": 0,
+      "file": "es_PA.xml"
+    },
+    {
+      "lang": "es-PE",
+      "lang_type": "es",
+      "territory": "PE",
+      "definitions": 3,
+      "default": 0,
+      "file": "es_PE.xml"
+    },
+    {
+      "lang": "es-PH",
+      "lang_type": "es",
+      "territory": "PH",
+      "definitions": 2,
+      "default": 0,
+      "file": "es_PH.xml"
+    },
+    {
+      "lang": "es-PR",
+      "lang_type": "es",
+      "territory": "PR",
+      "definitions": 4,
+      "default": 0,
+      "file": "es_PR.xml"
+    },
+    {
+      "lang": "es-PY",
+      "lang_type": "es",
+      "territory": "PY",
+      "definitions": 5,
+      "default": 0,
+      "file": "es_PY.xml"
+    },
+    {
+      "lang": "es-SV",
+      "lang_type": "es",
+      "territory": "SV",
+      "definitions": 3,
+      "default": 0,
+      "file": "es_SV.xml"
+    },
+    {
+      "lang": "es-US",
+      "lang_type": "es",
+      "territory": "US",
+      "definitions": 10,
+      "default": 0,
+      "file": "es_US.xml"
+    },
+    {
+      "lang": "es-UY",
+      "lang_type": "es",
+      "territory": "UY",
+      "definitions": 2,
+      "default": 0,
+      "file": "es_UY.xml"
+    },
+    {
+      "lang": "es-VE",
+      "lang_type": "es",
+      "territory": "VE",
+      "definitions": 3,
+      "default": 0,
+      "file": "es_VE.xml"
+    },
+    {
+      "lang": "et",
+      "lang_type": "et",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "et.xml"
+    },
+    {
+      "lang": "et-EE",
+      "lang_type": "et",
+      "territory": "EE",
+      "definitions": 0,
+      "default": 0,
+      "file": "et_EE.xml"
+    },
+    {
+      "lang": "eu",
+      "lang_type": "eu",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "eu.xml"
+    },
+    {
+      "lang": "eu-ES",
+      "lang_type": "eu",
+      "territory": "ES",
+      "definitions": 0,
+      "default": 0,
+      "file": "eu_ES.xml"
+    },
+    {
+      "lang": "ewo",
+      "lang_type": "ewo",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "ewo.xml"
+    },
+    {
+      "lang": "ewo-CM",
+      "lang_type": "ewo",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "ewo_CM.xml"
+    },
+    {
+      "lang": "fa",
+      "lang_type": "fa",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "fa.xml"
+    },
+    {
+      "lang": "fa-AF",
+      "lang_type": "fa",
+      "territory": "AF",
+      "definitions": 4,
+      "default": 0,
+      "file": "fa_AF.xml"
+    },
+    {
+      "lang": "fa-IR",
+      "lang_type": "fa",
+      "territory": "IR",
+      "definitions": 0,
+      "default": 0,
+      "file": "fa_IR.xml"
+    },
+    {
+      "lang": "ff",
+      "lang_type": "ff",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "ff.xml"
+    },
+    {
+      "lang": "ff-Adlm",
+      "lang_type": "ff",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ff_Adlm.xml"
+    },
+    {
+      "lang": "ff-Adlm-BF",
+      "lang_type": "ff",
+      "territory": "BF",
+      "definitions": 1,
+      "default": 0,
+      "file": "ff_Adlm_BF.xml"
+    },
+    {
+      "lang": "ff-Adlm-CM",
+      "lang_type": "ff",
+      "territory": "CM",
+      "definitions": 1,
+      "default": 0,
+      "file": "ff_Adlm_CM.xml"
+    },
+    {
+      "lang": "ff-Adlm-GH",
+      "lang_type": "ff",
+      "territory": "GH",
+      "definitions": 2,
+      "default": 0,
+      "file": "ff_Adlm_GH.xml"
+    },
+    {
+      "lang": "ff-Adlm-GM",
+      "lang_type": "ff",
+      "territory": "GM",
+      "definitions": 2,
+      "default": 0,
+      "file": "ff_Adlm_GM.xml"
+    },
+    {
+      "lang": "ff-Adlm-GN",
+      "lang_type": "ff",
+      "territory": "GN",
+      "definitions": 0,
+      "default": 0,
+      "file": "ff_Adlm_GN.xml"
+    },
+    {
+      "lang": "ff-Adlm-GW",
+      "lang_type": "ff",
+      "territory": "GW",
+      "definitions": 1,
+      "default": 0,
+      "file": "ff_Adlm_GW.xml"
+    },
+    {
+      "lang": "ff-Adlm-LR",
+      "lang_type": "ff",
+      "territory": "LR",
+      "definitions": 2,
+      "default": 0,
+      "file": "ff_Adlm_LR.xml"
+    },
+    {
+      "lang": "ff-Adlm-MR",
+      "lang_type": "ff",
+      "territory": "MR",
+      "definitions": 2,
+      "default": 0,
+      "file": "ff_Adlm_MR.xml"
+    },
+    {
+      "lang": "ff-Adlm-NE",
+      "lang_type": "ff",
+      "territory": "NE",
+      "definitions": 1,
+      "default": 0,
+      "file": "ff_Adlm_NE.xml"
+    },
+    {
+      "lang": "ff-Adlm-NG",
+      "lang_type": "ff",
+      "territory": "NG",
+      "definitions": 1,
+      "default": 0,
+      "file": "ff_Adlm_NG.xml"
+    },
+    {
+      "lang": "ff-Adlm-SL",
+      "lang_type": "ff",
+      "territory": "SL",
+      "definitions": 2,
+      "default": 0,
+      "file": "ff_Adlm_SL.xml"
+    },
+    {
+      "lang": "ff-Adlm-SN",
+      "lang_type": "ff",
+      "territory": "SN",
+      "definitions": 1,
+      "default": 0,
+      "file": "ff_Adlm_SN.xml"
+    },
+    {
+      "lang": "ff-Latn",
+      "lang_type": "ff",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "ff_Latn.xml"
+    },
+    {
+      "lang": "ff-Latn-BF",
+      "lang_type": "ff",
+      "territory": "BF",
+      "definitions": 0,
+      "default": 0,
+      "file": "ff_Latn_BF.xml"
+    },
+    {
+      "lang": "ff-Latn-CM",
+      "lang_type": "ff",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "ff_Latn_CM.xml"
+    },
+    {
+      "lang": "ff-Latn-GH",
+      "lang_type": "ff",
+      "territory": "GH",
+      "definitions": 2,
+      "default": 0,
+      "file": "ff_Latn_GH.xml"
+    },
+    {
+      "lang": "ff-Latn-GM",
+      "lang_type": "ff",
+      "territory": "GM",
+      "definitions": 2,
+      "default": 0,
+      "file": "ff_Latn_GM.xml"
+    },
+    {
+      "lang": "ff-Latn-GN",
+      "lang_type": "ff",
+      "territory": "GN",
+      "definitions": 1,
+      "default": 0,
+      "file": "ff_Latn_GN.xml"
+    },
+    {
+      "lang": "ff-Latn-GW",
+      "lang_type": "ff",
+      "territory": "GW",
+      "definitions": 0,
+      "default": 0,
+      "file": "ff_Latn_GW.xml"
+    },
+    {
+      "lang": "ff-Latn-LR",
+      "lang_type": "ff",
+      "territory": "LR",
+      "definitions": 2,
+      "default": 0,
+      "file": "ff_Latn_LR.xml"
+    },
+    {
+      "lang": "ff-Latn-MR",
+      "lang_type": "ff",
+      "territory": "MR",
+      "definitions": 2,
+      "default": 0,
+      "file": "ff_Latn_MR.xml"
+    },
+    {
+      "lang": "ff-Latn-NE",
+      "lang_type": "ff",
+      "territory": "NE",
+      "definitions": 0,
+      "default": 0,
+      "file": "ff_Latn_NE.xml"
+    },
+    {
+      "lang": "ff-Latn-NG",
+      "lang_type": "ff",
+      "territory": "NG",
+      "definitions": 1,
+      "default": 0,
+      "file": "ff_Latn_NG.xml"
+    },
+    {
+      "lang": "ff-Latn-SL",
+      "lang_type": "ff",
+      "territory": "SL",
+      "definitions": 2,
+      "default": 0,
+      "file": "ff_Latn_SL.xml"
+    },
+    {
+      "lang": "ff-Latn-SN",
+      "lang_type": "ff",
+      "territory": "SN",
+      "definitions": 0,
+      "default": 0,
+      "file": "ff_Latn_SN.xml"
+    },
+    {
+      "lang": "fi",
+      "lang_type": "fi",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "fi.xml"
+    },
+    {
+      "lang": "fi-FI",
+      "lang_type": "fi",
+      "territory": "FI",
+      "definitions": 0,
+      "default": 0,
+      "file": "fi_FI.xml"
+    },
+    {
+      "lang": "fil",
+      "lang_type": "fil",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "fil.xml"
+    },
+    {
+      "lang": "fil-PH",
+      "lang_type": "fil",
+      "territory": "PH",
+      "definitions": 0,
+      "default": 0,
+      "file": "fil_PH.xml"
+    },
+    {
+      "lang": "fo",
+      "lang_type": "fo",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "fo.xml"
+    },
+    {
+      "lang": "fo-DK",
+      "lang_type": "fo",
+      "territory": "DK",
+      "definitions": 1,
+      "default": 0,
+      "file": "fo_DK.xml"
+    },
+    {
+      "lang": "fo-FO",
+      "lang_type": "fo",
+      "territory": "FO",
+      "definitions": 0,
+      "default": 0,
+      "file": "fo_FO.xml"
+    },
+    {
+      "lang": "fr",
+      "lang_type": "fr",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "fr.xml"
+    },
+    {
+      "lang": "fr-BE",
+      "lang_type": "fr",
+      "territory": "BE",
+      "definitions": 2,
+      "default": 0,
+      "file": "fr_BE.xml"
+    },
+    {
+      "lang": "fr-BF",
+      "lang_type": "fr",
+      "territory": "BF",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_BF.xml"
+    },
+    {
+      "lang": "fr-BI",
+      "lang_type": "fr",
+      "territory": "BI",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_BI.xml"
+    },
+    {
+      "lang": "fr-BJ",
+      "lang_type": "fr",
+      "territory": "BJ",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_BJ.xml"
+    },
+    {
+      "lang": "fr-BL",
+      "lang_type": "fr",
+      "territory": "BL",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_BL.xml"
+    },
+    {
+      "lang": "fr-CA",
+      "lang_type": "fr",
+      "territory": "CA",
+      "definitions": 9,
+      "default": 0,
+      "file": "fr_CA.xml"
+    },
+    {
+      "lang": "fr-CD",
+      "lang_type": "fr",
+      "territory": "CD",
+      "definitions": 2,
+      "default": 0,
+      "file": "fr_CD.xml"
+    },
+    {
+      "lang": "fr-CF",
+      "lang_type": "fr",
+      "territory": "CF",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_CF.xml"
+    },
+    {
+      "lang": "fr-CG",
+      "lang_type": "fr",
+      "territory": "CG",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_CG.xml"
+    },
+    {
+      "lang": "fr-CH",
+      "lang_type": "fr",
+      "territory": "CH",
+      "definitions": 4,
+      "default": 0,
+      "file": "fr_CH.xml"
+    },
+    {
+      "lang": "fr-CI",
+      "lang_type": "fr",
+      "territory": "CI",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_CI.xml"
+    },
+    {
+      "lang": "fr-CM",
+      "lang_type": "fr",
+      "territory": "CM",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_CM.xml"
+    },
+    {
+      "lang": "fr-DJ",
+      "lang_type": "fr",
+      "territory": "DJ",
+      "definitions": 2,
+      "default": 0,
+      "file": "fr_DJ.xml"
+    },
+    {
+      "lang": "fr-DZ",
+      "lang_type": "fr",
+      "territory": "DZ",
+      "definitions": 2,
+      "default": 0,
+      "file": "fr_DZ.xml"
+    },
+    {
+      "lang": "fr-FR",
+      "lang_type": "fr",
+      "territory": "FR",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_FR.xml"
+    },
+    {
+      "lang": "fr-GA",
+      "lang_type": "fr",
+      "territory": "GA",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_GA.xml"
+    },
+    {
+      "lang": "fr-GF",
+      "lang_type": "fr",
+      "territory": "GF",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_GF.xml"
+    },
+    {
+      "lang": "fr-GN",
+      "lang_type": "fr",
+      "territory": "GN",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_GN.xml"
+    },
+    {
+      "lang": "fr-GP",
+      "lang_type": "fr",
+      "territory": "GP",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_GP.xml"
+    },
+    {
+      "lang": "fr-GQ",
+      "lang_type": "fr",
+      "territory": "GQ",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_GQ.xml"
+    },
+    {
+      "lang": "fr-HT",
+      "lang_type": "fr",
+      "territory": "HT",
+      "definitions": 3,
+      "default": 0,
+      "file": "fr_HT.xml"
+    },
+    {
+      "lang": "fr-KM",
+      "lang_type": "fr",
+      "territory": "KM",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_KM.xml"
+    },
+    {
+      "lang": "fr-LU",
+      "lang_type": "fr",
+      "territory": "LU",
+      "definitions": 2,
+      "default": 0,
+      "file": "fr_LU.xml"
+    },
+    {
+      "lang": "fr-MA",
+      "lang_type": "fr",
+      "territory": "MA",
+      "definitions": 3,
+      "default": 0,
+      "file": "fr_MA.xml"
+    },
+    {
+      "lang": "fr-MC",
+      "lang_type": "fr",
+      "territory": "MC",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_MC.xml"
+    },
+    {
+      "lang": "fr-MF",
+      "lang_type": "fr",
+      "territory": "MF",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_MF.xml"
+    },
+    {
+      "lang": "fr-MG",
+      "lang_type": "fr",
+      "territory": "MG",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_MG.xml"
+    },
+    {
+      "lang": "fr-ML",
+      "lang_type": "fr",
+      "territory": "ML",
+      "definitions": 2,
+      "default": 0,
+      "file": "fr_ML.xml"
+    },
+    {
+      "lang": "fr-MQ",
+      "lang_type": "fr",
+      "territory": "MQ",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_MQ.xml"
+    },
+    {
+      "lang": "fr-MR",
+      "lang_type": "fr",
+      "territory": "MR",
+      "definitions": 2,
+      "default": 0,
+      "file": "fr_MR.xml"
+    },
+    {
+      "lang": "fr-MU",
+      "lang_type": "fr",
+      "territory": "MU",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_MU.xml"
+    },
+    {
+      "lang": "fr-NC",
+      "lang_type": "fr",
+      "territory": "NC",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_NC.xml"
+    },
+    {
+      "lang": "fr-NE",
+      "lang_type": "fr",
+      "territory": "NE",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_NE.xml"
+    },
+    {
+      "lang": "fr-PF",
+      "lang_type": "fr",
+      "territory": "PF",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_PF.xml"
+    },
+    {
+      "lang": "fr-PM",
+      "lang_type": "fr",
+      "territory": "PM",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_PM.xml"
+    },
+    {
+      "lang": "fr-RE",
+      "lang_type": "fr",
+      "territory": "RE",
+      "definitions": 2,
+      "default": 0,
+      "file": "fr_RE.xml"
+    },
+    {
+      "lang": "fr-RW",
+      "lang_type": "fr",
+      "territory": "RW",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_RW.xml"
+    },
+    {
+      "lang": "fr-SC",
+      "lang_type": "fr",
+      "territory": "SC",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_SC.xml"
+    },
+    {
+      "lang": "fr-SN",
+      "lang_type": "fr",
+      "territory": "SN",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_SN.xml"
+    },
+    {
+      "lang": "fr-SY",
+      "lang_type": "fr",
+      "territory": "SY",
+      "definitions": 2,
+      "default": 0,
+      "file": "fr_SY.xml"
+    },
+    {
+      "lang": "fr-TD",
+      "lang_type": "fr",
+      "territory": "TD",
+      "definitions": 1,
+      "default": 0,
+      "file": "fr_TD.xml"
+    },
+    {
+      "lang": "fr-TG",
+      "lang_type": "fr",
+      "territory": "TG",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_TG.xml"
+    },
+    {
+      "lang": "fr-TN",
+      "lang_type": "fr",
+      "territory": "TN",
+      "definitions": 2,
+      "default": 0,
+      "file": "fr_TN.xml"
+    },
+    {
+      "lang": "fr-VU",
+      "lang_type": "fr",
+      "territory": "VU",
+      "definitions": 2,
+      "default": 0,
+      "file": "fr_VU.xml"
+    },
+    {
+      "lang": "fr-WF",
+      "lang_type": "fr",
+      "territory": "WF",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_WF.xml"
+    },
+    {
+      "lang": "fr-YT",
+      "lang_type": "fr",
+      "territory": "YT",
+      "definitions": 0,
+      "default": 0,
+      "file": "fr_YT.xml"
+    },
+    {
+      "lang": "frr",
+      "lang_type": "frr",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "frr.xml"
+    },
+    {
+      "lang": "frr-DE",
+      "lang_type": "frr",
+      "territory": "DE",
+      "definitions": 0,
+      "default": 0,
+      "file": "frr_DE.xml"
+    },
+    {
+      "lang": "fur",
+      "lang_type": "fur",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "fur.xml"
+    },
+    {
+      "lang": "fur-IT",
+      "lang_type": "fur",
+      "territory": "IT",
+      "definitions": 0,
+      "default": 0,
+      "file": "fur_IT.xml"
+    },
+    {
+      "lang": "fy",
+      "lang_type": "fy",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "fy.xml"
+    },
+    {
+      "lang": "fy-NL",
+      "lang_type": "fy",
+      "territory": "NL",
+      "definitions": 0,
+      "default": 0,
+      "file": "fy_NL.xml"
+    },
+    {
+      "lang": "ga",
+      "lang_type": "ga",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ga.xml"
+    },
+    {
+      "lang": "ga-GB",
+      "lang_type": "ga",
+      "territory": "GB",
+      "definitions": 0,
+      "default": 0,
+      "file": "ga_GB.xml"
+    },
+    {
+      "lang": "ga-IE",
+      "lang_type": "ga",
+      "territory": "IE",
+      "definitions": 0,
+      "default": 0,
+      "file": "ga_IE.xml"
+    },
+    {
+      "lang": "gaa",
+      "lang_type": "gaa",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "gaa.xml"
+    },
+    {
+      "lang": "gaa-GH",
+      "lang_type": "gaa",
+      "territory": "GH",
+      "definitions": 0,
+      "default": 0,
+      "file": "gaa_GH.xml"
+    },
+    {
+      "lang": "gd",
+      "lang_type": "gd",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "gd.xml"
+    },
+    {
+      "lang": "gd-GB",
+      "lang_type": "gd",
+      "territory": "GB",
+      "definitions": 0,
+      "default": 0,
+      "file": "gd_GB.xml"
+    },
+    {
+      "lang": "gez",
+      "lang_type": "gez",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "gez.xml"
+    },
+    {
+      "lang": "gez-ER",
+      "lang_type": "gez",
+      "territory": "ER",
+      "definitions": 1,
+      "default": 0,
+      "file": "gez_ER.xml"
+    },
+    {
+      "lang": "gez-ET",
+      "lang_type": "gez",
+      "territory": "ET",
+      "definitions": 0,
+      "default": 0,
+      "file": "gez_ET.xml"
+    },
+    {
+      "lang": "gl",
+      "lang_type": "gl",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "gl.xml"
+    },
+    {
+      "lang": "gl-ES",
+      "lang_type": "gl",
+      "territory": "ES",
+      "definitions": 0,
+      "default": 0,
+      "file": "gl_ES.xml"
+    },
+    {
+      "lang": "gn",
+      "lang_type": "gn",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "gn.xml"
+    },
+    {
+      "lang": "gn-PY",
+      "lang_type": "gn",
+      "territory": "PY",
+      "definitions": 0,
+      "default": 0,
+      "file": "gn_PY.xml"
+    },
+    {
+      "lang": "gsw",
+      "lang_type": "gsw",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "gsw.xml"
+    },
+    {
+      "lang": "gsw-CH",
+      "lang_type": "gsw",
+      "territory": "CH",
+      "definitions": 0,
+      "default": 0,
+      "file": "gsw_CH.xml"
+    },
+    {
+      "lang": "gsw-FR",
+      "lang_type": "gsw",
+      "territory": "FR",
+      "definitions": 0,
+      "default": 0,
+      "file": "gsw_FR.xml"
+    },
+    {
+      "lang": "gsw-LI",
+      "lang_type": "gsw",
+      "territory": "LI",
+      "definitions": 0,
+      "default": 0,
+      "file": "gsw_LI.xml"
+    },
+    {
+      "lang": "gu",
+      "lang_type": "gu",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "gu.xml"
+    },
+    {
+      "lang": "gu-IN",
+      "lang_type": "gu",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "gu_IN.xml"
+    },
+    {
+      "lang": "guz",
+      "lang_type": "guz",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "guz.xml"
+    },
+    {
+      "lang": "guz-KE",
+      "lang_type": "guz",
+      "territory": "KE",
+      "definitions": 0,
+      "default": 0,
+      "file": "guz_KE.xml"
+    },
+    {
+      "lang": "gv",
+      "lang_type": "gv",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "gv.xml"
+    },
+    {
+      "lang": "gv-IM",
+      "lang_type": "gv",
+      "territory": "IM",
+      "definitions": 0,
+      "default": 0,
+      "file": "gv_IM.xml"
+    },
+    {
+      "lang": "ha",
+      "lang_type": "ha",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ha.xml"
+    },
+    {
+      "lang": "ha-Arab",
+      "lang_type": "ha",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "ha_Arab.xml"
+    },
+    {
+      "lang": "ha-Arab-NG",
+      "lang_type": "ha",
+      "territory": "NG",
+      "definitions": 0,
+      "default": 0,
+      "file": "ha_Arab_NG.xml"
+    },
+    {
+      "lang": "ha-Arab-SD",
+      "lang_type": "ha",
+      "territory": "SD",
+      "definitions": 0,
+      "default": 0,
+      "file": "ha_Arab_SD.xml"
+    },
+    {
+      "lang": "ha-GH",
+      "lang_type": "ha",
+      "territory": "GH",
+      "definitions": 2,
+      "default": 0,
+      "file": "ha_GH.xml"
+    },
+    {
+      "lang": "ha-NE",
+      "lang_type": "ha",
+      "territory": "NE",
+      "definitions": 1,
+      "default": 0,
+      "file": "ha_NE.xml"
+    },
+    {
+      "lang": "ha-NG",
+      "lang_type": "ha",
+      "territory": "NG",
+      "definitions": 0,
+      "default": 0,
+      "file": "ha_NG.xml"
+    },
+    {
+      "lang": "haw",
+      "lang_type": "haw",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "haw.xml"
+    },
+    {
+      "lang": "haw-US",
+      "lang_type": "haw",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "haw_US.xml"
+    },
+    {
+      "lang": "he",
+      "lang_type": "he",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "he.xml"
+    },
+    {
+      "lang": "he-IL",
+      "lang_type": "he",
+      "territory": "IL",
+      "definitions": 0,
+      "default": 0,
+      "file": "he_IL.xml"
+    },
+    {
+      "lang": "hi",
+      "lang_type": "hi",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "hi.xml"
+    },
+    {
+      "lang": "hi-IN",
+      "lang_type": "hi",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "hi_IN.xml"
+    },
+    {
+      "lang": "hi-Latn",
+      "lang_type": "hi",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "hi_Latn.xml"
+    },
+    {
+      "lang": "hi-Latn-IN",
+      "lang_type": "hi",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "hi_Latn_IN.xml"
+    },
+    {
+      "lang": "hnj",
+      "lang_type": "hnj",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "hnj.xml"
+    },
+    {
+      "lang": "hnj-Hmnp",
+      "lang_type": "hnj",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "hnj_Hmnp.xml"
+    },
+    {
+      "lang": "hnj-Hmnp-US",
+      "lang_type": "hnj",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "hnj_Hmnp_US.xml"
+    },
+    {
+      "lang": "hr",
+      "lang_type": "hr",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "hr.xml"
+    },
+    {
+      "lang": "hr-BA",
+      "lang_type": "hr",
+      "territory": "BA",
+      "definitions": 2,
+      "default": 0,
+      "file": "hr_BA.xml"
+    },
+    {
+      "lang": "hr-HR",
+      "lang_type": "hr",
+      "territory": "HR",
+      "definitions": 0,
+      "default": 0,
+      "file": "hr_HR.xml"
+    },
+    {
+      "lang": "hsb",
+      "lang_type": "hsb",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "hsb.xml"
+    },
+    {
+      "lang": "hsb-DE",
+      "lang_type": "hsb",
+      "territory": "DE",
+      "definitions": 0,
+      "default": 0,
+      "file": "hsb_DE.xml"
+    },
+    {
+      "lang": "ht",
+      "lang_type": "ht",
+      "territory": "",
+      "definitions": 3,
+      "default": 0,
+      "file": "ht.xml"
+    },
+    {
+      "lang": "ht-HT",
+      "lang_type": "ht",
+      "territory": "HT",
+      "definitions": 0,
+      "default": 0,
+      "file": "ht_HT.xml"
+    },
+    {
+      "lang": "hu",
+      "lang_type": "hu",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "hu.xml"
+    },
+    {
+      "lang": "hu-HU",
+      "lang_type": "hu",
+      "territory": "HU",
+      "definitions": 0,
+      "default": 0,
+      "file": "hu_HU.xml"
+    },
+    {
+      "lang": "hy",
+      "lang_type": "hy",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "hy.xml"
+    },
+    {
+      "lang": "hy-AM",
+      "lang_type": "hy",
+      "territory": "AM",
+      "definitions": 0,
+      "default": 0,
+      "file": "hy_AM.xml"
+    },
+    {
+      "lang": "ia",
+      "lang_type": "ia",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ia.xml"
+    },
+    {
+      "lang": "ia-001",
+      "lang_type": "ia",
+      "territory": "001",
+      "definitions": 0,
+      "default": 0,
+      "file": "ia_001.xml"
+    },
+    {
+      "lang": "id",
+      "lang_type": "id",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "id.xml"
+    },
+    {
+      "lang": "id-ID",
+      "lang_type": "id",
+      "territory": "ID",
+      "definitions": 0,
+      "default": 0,
+      "file": "id_ID.xml"
+    },
+    {
+      "lang": "ie",
+      "lang_type": "ie",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ie.xml"
+    },
+    {
+      "lang": "ie-EE",
+      "lang_type": "ie",
+      "territory": "EE",
+      "definitions": 0,
+      "default": 0,
+      "file": "ie_EE.xml"
+    },
+    {
+      "lang": "ig",
+      "lang_type": "ig",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ig.xml"
+    },
+    {
+      "lang": "ig-NG",
+      "lang_type": "ig",
+      "territory": "NG",
+      "definitions": 0,
+      "default": 0,
+      "file": "ig_NG.xml"
+    },
+    {
+      "lang": "ii",
+      "lang_type": "ii",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "ii.xml"
+    },
+    {
+      "lang": "ii-CN",
+      "lang_type": "ii",
+      "territory": "CN",
+      "definitions": 0,
+      "default": 0,
+      "file": "ii_CN.xml"
+    },
+    {
+      "lang": "io",
+      "lang_type": "io",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "io.xml"
+    },
+    {
+      "lang": "io-001",
+      "lang_type": "io",
+      "territory": "001",
+      "definitions": 0,
+      "default": 0,
+      "file": "io_001.xml"
+    },
+    {
+      "lang": "is",
+      "lang_type": "is",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "is.xml"
+    },
+    {
+      "lang": "is-IS",
+      "lang_type": "is",
+      "territory": "IS",
+      "definitions": 0,
+      "default": 0,
+      "file": "is_IS.xml"
+    },
+    {
+      "lang": "it",
+      "lang_type": "it",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "it.xml"
+    },
+    {
+      "lang": "it-CH",
+      "lang_type": "it",
+      "territory": "CH",
+      "definitions": 4,
+      "default": 0,
+      "file": "it_CH.xml"
+    },
+    {
+      "lang": "it-IT",
+      "lang_type": "it",
+      "territory": "IT",
+      "definitions": 0,
+      "default": 0,
+      "file": "it_IT.xml"
+    },
+    {
+      "lang": "it-SM",
+      "lang_type": "it",
+      "territory": "SM",
+      "definitions": 0,
+      "default": 0,
+      "file": "it_SM.xml"
+    },
+    {
+      "lang": "it-VA",
+      "lang_type": "it",
+      "territory": "VA",
+      "definitions": 0,
+      "default": 0,
+      "file": "it_VA.xml"
+    },
+    {
+      "lang": "iu",
+      "lang_type": "iu",
+      "territory": "",
+      "definitions": 3,
+      "default": 0,
+      "file": "iu.xml"
+    },
+    {
+      "lang": "iu-CA",
+      "lang_type": "iu",
+      "territory": "CA",
+      "definitions": 0,
+      "default": 0,
+      "file": "iu_CA.xml"
+    },
+    {
+      "lang": "iu-Latn",
+      "lang_type": "iu",
+      "territory": "",
+      "definitions": 1,
+      "default": 0,
+      "file": "iu_Latn.xml"
+    },
+    {
+      "lang": "iu-Latn-CA",
+      "lang_type": "iu",
+      "territory": "CA",
+      "definitions": 0,
+      "default": 0,
+      "file": "iu_Latn_CA.xml"
+    },
+    {
+      "lang": "ja",
+      "lang_type": "ja",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "ja.xml"
+    },
+    {
+      "lang": "ja-JP",
+      "lang_type": "ja",
+      "territory": "JP",
+      "definitions": 0,
+      "default": 0,
+      "file": "ja_JP.xml"
+    },
+    {
+      "lang": "jbo",
+      "lang_type": "jbo",
+      "territory": "",
+      "definitions": 3,
+      "default": 0,
+      "file": "jbo.xml"
+    },
+    {
+      "lang": "jbo-001",
+      "lang_type": "jbo",
+      "territory": "001",
+      "definitions": 0,
+      "default": 0,
+      "file": "jbo_001.xml"
+    },
+    {
+      "lang": "jgo",
+      "lang_type": "jgo",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "jgo.xml"
+    },
+    {
+      "lang": "jgo-CM",
+      "lang_type": "jgo",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "jgo_CM.xml"
+    },
+    {
+      "lang": "jmc",
+      "lang_type": "jmc",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "jmc.xml"
+    },
+    {
+      "lang": "jmc-TZ",
+      "lang_type": "jmc",
+      "territory": "TZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "jmc_TZ.xml"
+    },
+    {
+      "lang": "jv",
+      "lang_type": "jv",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "jv.xml"
+    },
+    {
+      "lang": "jv-ID",
+      "lang_type": "jv",
+      "territory": "ID",
+      "definitions": 0,
+      "default": 0,
+      "file": "jv_ID.xml"
+    },
+    {
+      "lang": "ka",
+      "lang_type": "ka",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "ka.xml"
+    },
+    {
+      "lang": "ka-GE",
+      "lang_type": "ka",
+      "territory": "GE",
+      "definitions": 0,
+      "default": 0,
+      "file": "ka_GE.xml"
+    },
+    {
+      "lang": "kaa",
+      "lang_type": "kaa",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "kaa.xml"
+    },
+    {
+      "lang": "kaa-Cyrl",
+      "lang_type": "kaa",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "kaa_Cyrl.xml"
+    },
+    {
+      "lang": "kaa-Cyrl-UZ",
+      "lang_type": "kaa",
+      "territory": "UZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "kaa_Cyrl_UZ.xml"
+    },
+    {
+      "lang": "kaa-Latn",
+      "lang_type": "kaa",
+      "territory": "",
+      "definitions": 1,
+      "default": 0,
+      "file": "kaa_Latn.xml"
+    },
+    {
+      "lang": "kaa-Latn-UZ",
+      "lang_type": "kaa",
+      "territory": "UZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "kaa_Latn_UZ.xml"
+    },
+    {
+      "lang": "kab",
+      "lang_type": "kab",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "kab.xml"
+    },
+    {
+      "lang": "kab-DZ",
+      "lang_type": "kab",
+      "territory": "DZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "kab_DZ.xml"
+    },
+    {
+      "lang": "kaj",
+      "lang_type": "kaj",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "kaj.xml"
+    },
+    {
+      "lang": "kaj-NG",
+      "lang_type": "kaj",
+      "territory": "NG",
+      "definitions": 0,
+      "default": 0,
+      "file": "kaj_NG.xml"
+    },
+    {
+      "lang": "kam",
+      "lang_type": "kam",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "kam.xml"
+    },
+    {
+      "lang": "kam-KE",
+      "lang_type": "kam",
+      "territory": "KE",
+      "definitions": 0,
+      "default": 0,
+      "file": "kam_KE.xml"
+    },
+    {
+      "lang": "kcg",
+      "lang_type": "kcg",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "kcg.xml"
+    },
+    {
+      "lang": "kcg-NG",
+      "lang_type": "kcg",
+      "territory": "NG",
+      "definitions": 0,
+      "default": 0,
+      "file": "kcg_NG.xml"
+    },
+    {
+      "lang": "kde",
+      "lang_type": "kde",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "kde.xml"
+    },
+    {
+      "lang": "kde-TZ",
+      "lang_type": "kde",
+      "territory": "TZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "kde_TZ.xml"
+    },
+    {
+      "lang": "kea",
+      "lang_type": "kea",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "kea.xml"
+    },
+    {
+      "lang": "kea-CV",
+      "lang_type": "kea",
+      "territory": "CV",
+      "definitions": 0,
+      "default": 0,
+      "file": "kea_CV.xml"
+    },
+    {
+      "lang": "kek",
+      "lang_type": "kek",
+      "territory": "",
+      "definitions": 3,
+      "default": 0,
+      "file": "kek.xml"
+    },
+    {
+      "lang": "kek-GT",
+      "lang_type": "kek",
+      "territory": "GT",
+      "definitions": 0,
+      "default": 0,
+      "file": "kek_GT.xml"
+    },
+    {
+      "lang": "ken",
+      "lang_type": "ken",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "ken.xml"
+    },
+    {
+      "lang": "ken-CM",
+      "lang_type": "ken",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "ken_CM.xml"
+    },
+    {
+      "lang": "kgp",
+      "lang_type": "kgp",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "kgp.xml"
+    },
+    {
+      "lang": "kgp-BR",
+      "lang_type": "kgp",
+      "territory": "BR",
+      "definitions": 0,
+      "default": 0,
+      "file": "kgp_BR.xml"
+    },
+    {
+      "lang": "khq",
+      "lang_type": "khq",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "khq.xml"
+    },
+    {
+      "lang": "khq-ML",
+      "lang_type": "khq",
+      "territory": "ML",
+      "definitions": 0,
+      "default": 0,
+      "file": "khq_ML.xml"
+    },
+    {
+      "lang": "ki",
+      "lang_type": "ki",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "ki.xml"
+    },
+    {
+      "lang": "ki-KE",
+      "lang_type": "ki",
+      "territory": "KE",
+      "definitions": 0,
+      "default": 0,
+      "file": "ki_KE.xml"
+    },
+    {
+      "lang": "kk",
+      "lang_type": "kk",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "kk.xml"
+    },
+    {
+      "lang": "kk-Arab",
+      "lang_type": "kk",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "kk_Arab.xml"
+    },
+    {
+      "lang": "kk-Arab-CN",
+      "lang_type": "kk",
+      "territory": "CN",
+      "definitions": 0,
+      "default": 0,
+      "file": "kk_Arab_CN.xml"
+    },
+    {
+      "lang": "kk-Cyrl",
+      "lang_type": "kk",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "kk_Cyrl.xml"
+    },
+    {
+      "lang": "kk-Cyrl-KZ",
+      "lang_type": "kk",
+      "territory": "KZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "kk_Cyrl_KZ.xml"
+    },
+    {
+      "lang": "kk-KZ",
+      "lang_type": "kk",
+      "territory": "KZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "kk_KZ.xml"
+    },
+    {
+      "lang": "kkj",
+      "lang_type": "kkj",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "kkj.xml"
+    },
+    {
+      "lang": "kkj-CM",
+      "lang_type": "kkj",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "kkj_CM.xml"
+    },
+    {
+      "lang": "kl",
+      "lang_type": "kl",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "kl.xml"
+    },
+    {
+      "lang": "kl-GL",
+      "lang_type": "kl",
+      "territory": "GL",
+      "definitions": 0,
+      "default": 0,
+      "file": "kl_GL.xml"
+    },
+    {
+      "lang": "kln",
+      "lang_type": "kln",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "kln.xml"
+    },
+    {
+      "lang": "kln-KE",
+      "lang_type": "kln",
+      "territory": "KE",
+      "definitions": 0,
+      "default": 0,
+      "file": "kln_KE.xml"
+    },
+    {
+      "lang": "km",
+      "lang_type": "km",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "km.xml"
+    },
+    {
+      "lang": "km-KH",
+      "lang_type": "km",
+      "territory": "KH",
+      "definitions": 0,
+      "default": 0,
+      "file": "km_KH.xml"
+    },
+    {
+      "lang": "kn",
+      "lang_type": "kn",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "kn.xml"
+    },
+    {
+      "lang": "kn-IN",
+      "lang_type": "kn",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "kn_IN.xml"
+    },
+    {
+      "lang": "ko",
+      "lang_type": "ko",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ko.xml"
+    },
+    {
+      "lang": "ko-CN",
+      "lang_type": "ko",
+      "territory": "CN",
+      "definitions": 1,
+      "default": 0,
+      "file": "ko_CN.xml"
+    },
+    {
+      "lang": "ko-KP",
+      "lang_type": "ko",
+      "territory": "KP",
+      "definitions": 2,
+      "default": 0,
+      "file": "ko_KP.xml"
+    },
+    {
+      "lang": "ko-KR",
+      "lang_type": "ko",
+      "territory": "KR",
+      "definitions": 0,
+      "default": 0,
+      "file": "ko_KR.xml"
+    },
+    {
+      "lang": "kok",
+      "lang_type": "kok",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "kok.xml"
+    },
+    {
+      "lang": "kok-Deva",
+      "lang_type": "kok",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "kok_Deva.xml"
+    },
+    {
+      "lang": "kok-Deva-IN",
+      "lang_type": "kok",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "kok_Deva_IN.xml"
+    },
+    {
+      "lang": "kok-Latn",
+      "lang_type": "kok",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "kok_Latn.xml"
+    },
+    {
+      "lang": "kok-Latn-IN",
+      "lang_type": "kok",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "kok_Latn_IN.xml"
+    },
+    {
+      "lang": "kpe",
+      "lang_type": "kpe",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "kpe.xml"
+    },
+    {
+      "lang": "kpe-GN",
+      "lang_type": "kpe",
+      "territory": "GN",
+      "definitions": 2,
+      "default": 0,
+      "file": "kpe_GN.xml"
+    },
+    {
+      "lang": "kpe-LR",
+      "lang_type": "kpe",
+      "territory": "LR",
+      "definitions": 0,
+      "default": 0,
+      "file": "kpe_LR.xml"
+    },
+    {
+      "lang": "ks",
+      "lang_type": "ks",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "ks.xml"
+    },
+    {
+      "lang": "ks-Arab",
+      "lang_type": "ks",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "ks_Arab.xml"
+    },
+    {
+      "lang": "ks-Arab-IN",
+      "lang_type": "ks",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "ks_Arab_IN.xml"
+    },
+    {
+      "lang": "ks-Deva",
+      "lang_type": "ks",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "ks_Deva.xml"
+    },
+    {
+      "lang": "ks-Deva-IN",
+      "lang_type": "ks",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "ks_Deva_IN.xml"
+    },
+    {
+      "lang": "ksb",
+      "lang_type": "ksb",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "ksb.xml"
+    },
+    {
+      "lang": "ksb-TZ",
+      "lang_type": "ksb",
+      "territory": "TZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "ksb_TZ.xml"
+    },
+    {
+      "lang": "ksf",
+      "lang_type": "ksf",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "ksf.xml"
+    },
+    {
+      "lang": "ksf-CM",
+      "lang_type": "ksf",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "ksf_CM.xml"
+    },
+    {
+      "lang": "ksh",
+      "lang_type": "ksh",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "ksh.xml"
+    },
+    {
+      "lang": "ksh-DE",
+      "lang_type": "ksh",
+      "territory": "DE",
+      "definitions": 0,
+      "default": 0,
+      "file": "ksh_DE.xml"
+    },
+    {
+      "lang": "ku",
+      "lang_type": "ku",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "ku.xml"
+    },
+    {
+      "lang": "ku-Arab",
+      "lang_type": "ku",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "ku_Arab.xml"
+    },
+    {
+      "lang": "ku-Arab-IQ",
+      "lang_type": "ku",
+      "territory": "IQ",
+      "definitions": 0,
+      "default": 0,
+      "file": "ku_Arab_IQ.xml"
+    },
+    {
+      "lang": "ku-Arab-IR",
+      "lang_type": "ku",
+      "territory": "IR",
+      "definitions": 0,
+      "default": 0,
+      "file": "ku_Arab_IR.xml"
+    },
+    {
+      "lang": "ku-Latn",
+      "lang_type": "ku",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "ku_Latn.xml"
+    },
+    {
+      "lang": "ku-Latn-IQ",
+      "lang_type": "ku",
+      "territory": "IQ",
+      "definitions": 0,
+      "default": 0,
+      "file": "ku_Latn_IQ.xml"
+    },
+    {
+      "lang": "ku-Latn-SY",
+      "lang_type": "ku",
+      "territory": "SY",
+      "definitions": 0,
+      "default": 0,
+      "file": "ku_Latn_SY.xml"
+    },
+    {
+      "lang": "ku-Latn-TR",
+      "lang_type": "ku",
+      "territory": "TR",
+      "definitions": 0,
+      "default": 0,
+      "file": "ku_Latn_TR.xml"
+    },
+    {
+      "lang": "ku-TR",
+      "lang_type": "ku",
+      "territory": "TR",
+      "definitions": 0,
+      "default": 0,
+      "file": "ku_TR.xml"
+    },
+    {
+      "lang": "kw",
+      "lang_type": "kw",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "kw.xml"
+    },
+    {
+      "lang": "kw-GB",
+      "lang_type": "kw",
+      "territory": "GB",
+      "definitions": 0,
+      "default": 0,
+      "file": "kw_GB.xml"
+    },
+    {
+      "lang": "kxv",
+      "lang_type": "kxv",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "kxv.xml"
+    },
+    {
+      "lang": "kxv-Deva",
+      "lang_type": "kxv",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "kxv_Deva.xml"
+    },
+    {
+      "lang": "kxv-Deva-IN",
+      "lang_type": "kxv",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "kxv_Deva_IN.xml"
+    },
+    {
+      "lang": "kxv-Latn",
+      "lang_type": "kxv",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "kxv_Latn.xml"
+    },
+    {
+      "lang": "kxv-Latn-IN",
+      "lang_type": "kxv",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "kxv_Latn_IN.xml"
+    },
+    {
+      "lang": "kxv-Orya",
+      "lang_type": "kxv",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "kxv_Orya.xml"
+    },
+    {
+      "lang": "kxv-Orya-IN",
+      "lang_type": "kxv",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "kxv_Orya_IN.xml"
+    },
+    {
+      "lang": "kxv-Telu",
+      "lang_type": "kxv",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "kxv_Telu.xml"
+    },
+    {
+      "lang": "kxv-Telu-IN",
+      "lang_type": "kxv",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "kxv_Telu_IN.xml"
+    },
+    {
+      "lang": "ky",
+      "lang_type": "ky",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "ky.xml"
+    },
+    {
+      "lang": "ky-KG",
+      "lang_type": "ky",
+      "territory": "KG",
+      "definitions": 0,
+      "default": 0,
+      "file": "ky_KG.xml"
+    },
+    {
+      "lang": "la",
+      "lang_type": "la",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "la.xml"
+    },
+    {
+      "lang": "la-VA",
+      "lang_type": "la",
+      "territory": "VA",
+      "definitions": 0,
+      "default": 0,
+      "file": "la_VA.xml"
+    },
+    {
+      "lang": "lag",
+      "lang_type": "lag",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "lag.xml"
+    },
+    {
+      "lang": "lag-TZ",
+      "lang_type": "lag",
+      "territory": "TZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "lag_TZ.xml"
+    },
+    {
+      "lang": "lb",
+      "lang_type": "lb",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "lb.xml"
+    },
+    {
+      "lang": "lb-LU",
+      "lang_type": "lb",
+      "territory": "LU",
+      "definitions": 0,
+      "default": 0,
+      "file": "lb_LU.xml"
+    },
+    {
+      "lang": "lg",
+      "lang_type": "lg",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "lg.xml"
+    },
+    {
+      "lang": "lg-UG",
+      "lang_type": "lg",
+      "territory": "UG",
+      "definitions": 0,
+      "default": 0,
+      "file": "lg_UG.xml"
+    },
+    {
+      "lang": "lij",
+      "lang_type": "lij",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "lij.xml"
+    },
+    {
+      "lang": "lij-IT",
+      "lang_type": "lij",
+      "territory": "IT",
+      "definitions": 0,
+      "default": 0,
+      "file": "lij_IT.xml"
+    },
+    {
+      "lang": "lkt",
+      "lang_type": "lkt",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "lkt.xml"
+    },
+    {
+      "lang": "lkt-US",
+      "lang_type": "lkt",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "lkt_US.xml"
+    },
+    {
+      "lang": "lld",
+      "lang_type": "lld",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "lld.xml"
+    },
+    {
+      "lang": "lld-IT",
+      "lang_type": "lld",
+      "territory": "IT",
+      "definitions": 0,
+      "default": 0,
+      "file": "lld_IT.xml"
+    },
+    {
+      "lang": "lmo",
+      "lang_type": "lmo",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "lmo.xml"
+    },
+    {
+      "lang": "lmo-IT",
+      "lang_type": "lmo",
+      "territory": "IT",
+      "definitions": 0,
+      "default": 0,
+      "file": "lmo_IT.xml"
+    },
+    {
+      "lang": "ln",
+      "lang_type": "ln",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "ln.xml"
+    },
+    {
+      "lang": "ln-AO",
+      "lang_type": "ln",
+      "territory": "AO",
+      "definitions": 1,
+      "default": 0,
+      "file": "ln_AO.xml"
+    },
+    {
+      "lang": "ln-CD",
+      "lang_type": "ln",
+      "territory": "CD",
+      "definitions": 0,
+      "default": 0,
+      "file": "ln_CD.xml"
+    },
+    {
+      "lang": "ln-CF",
+      "lang_type": "ln",
+      "territory": "CF",
+      "definitions": 0,
+      "default": 0,
+      "file": "ln_CF.xml"
+    },
+    {
+      "lang": "ln-CG",
+      "lang_type": "ln",
+      "territory": "CG",
+      "definitions": 0,
+      "default": 0,
+      "file": "ln_CG.xml"
+    },
+    {
+      "lang": "lo",
+      "lang_type": "lo",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "lo.xml"
+    },
+    {
+      "lang": "lo-LA",
+      "lang_type": "lo",
+      "territory": "LA",
+      "definitions": 0,
+      "default": 0,
+      "file": "lo_LA.xml"
+    },
+    {
+      "lang": "lrc",
+      "lang_type": "lrc",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "lrc.xml"
+    },
+    {
+      "lang": "lrc-IQ",
+      "lang_type": "lrc",
+      "territory": "IQ",
+      "definitions": 1,
+      "default": 0,
+      "file": "lrc_IQ.xml"
+    },
+    {
+      "lang": "lrc-IR",
+      "lang_type": "lrc",
+      "territory": "IR",
+      "definitions": 0,
+      "default": 0,
+      "file": "lrc_IR.xml"
+    },
+    {
+      "lang": "lt",
+      "lang_type": "lt",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "lt.xml"
+    },
+    {
+      "lang": "lt-LT",
+      "lang_type": "lt",
+      "territory": "LT",
+      "definitions": 0,
+      "default": 0,
+      "file": "lt_LT.xml"
+    },
+    {
+      "lang": "ltg",
+      "lang_type": "ltg",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "ltg.xml"
+    },
+    {
+      "lang": "ltg-LV",
+      "lang_type": "ltg",
+      "territory": "LV",
+      "definitions": 0,
+      "default": 0,
+      "file": "ltg_LV.xml"
+    },
+    {
+      "lang": "lu",
+      "lang_type": "lu",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "lu.xml"
+    },
+    {
+      "lang": "lu-CD",
+      "lang_type": "lu",
+      "territory": "CD",
+      "definitions": 0,
+      "default": 0,
+      "file": "lu_CD.xml"
+    },
+    {
+      "lang": "luo",
+      "lang_type": "luo",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "luo.xml"
+    },
+    {
+      "lang": "luo-KE",
+      "lang_type": "luo",
+      "territory": "KE",
+      "definitions": 0,
+      "default": 0,
+      "file": "luo_KE.xml"
+    },
+    {
+      "lang": "luy",
+      "lang_type": "luy",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "luy.xml"
+    },
+    {
+      "lang": "luy-KE",
+      "lang_type": "luy",
+      "territory": "KE",
+      "definitions": 0,
+      "default": 0,
+      "file": "luy_KE.xml"
+    },
+    {
+      "lang": "lv",
+      "lang_type": "lv",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "lv.xml"
+    },
+    {
+      "lang": "lv-LV",
+      "lang_type": "lv",
+      "territory": "LV",
+      "definitions": 0,
+      "default": 0,
+      "file": "lv_LV.xml"
+    },
+    {
+      "lang": "lzz",
+      "lang_type": "lzz",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "lzz.xml"
+    },
+    {
+      "lang": "lzz-TR",
+      "lang_type": "lzz",
+      "territory": "TR",
+      "definitions": 0,
+      "default": 0,
+      "file": "lzz_TR.xml"
+    },
+    {
+      "lang": "mai",
+      "lang_type": "mai",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "mai.xml"
+    },
+    {
+      "lang": "mai-IN",
+      "lang_type": "mai",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "mai_IN.xml"
+    },
+    {
+      "lang": "mas",
+      "lang_type": "mas",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "mas.xml"
+    },
+    {
+      "lang": "mas-KE",
+      "lang_type": "mas",
+      "territory": "KE",
+      "definitions": 0,
+      "default": 0,
+      "file": "mas_KE.xml"
+    },
+    {
+      "lang": "mas-TZ",
+      "lang_type": "mas",
+      "territory": "TZ",
+      "definitions": 1,
+      "default": 0,
+      "file": "mas_TZ.xml"
+    },
+    {
+      "lang": "mdf",
+      "lang_type": "mdf",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "mdf.xml"
+    },
+    {
+      "lang": "mdf-RU",
+      "lang_type": "mdf",
+      "territory": "RU",
+      "definitions": 0,
+      "default": 0,
+      "file": "mdf_RU.xml"
+    },
+    {
+      "lang": "mer",
+      "lang_type": "mer",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "mer.xml"
+    },
+    {
+      "lang": "mer-KE",
+      "lang_type": "mer",
+      "territory": "KE",
+      "definitions": 0,
+      "default": 0,
+      "file": "mer_KE.xml"
+    },
+    {
+      "lang": "mfe",
+      "lang_type": "mfe",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "mfe.xml"
+    },
+    {
+      "lang": "mfe-MU",
+      "lang_type": "mfe",
+      "territory": "MU",
+      "definitions": 0,
+      "default": 0,
+      "file": "mfe_MU.xml"
+    },
+    {
+      "lang": "mg",
+      "lang_type": "mg",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "mg.xml"
+    },
+    {
+      "lang": "mg-MG",
+      "lang_type": "mg",
+      "territory": "MG",
+      "definitions": 0,
+      "default": 0,
+      "file": "mg_MG.xml"
+    },
+    {
+      "lang": "mgh",
+      "lang_type": "mgh",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "mgh.xml"
+    },
+    {
+      "lang": "mgh-MZ",
+      "lang_type": "mgh",
+      "territory": "MZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "mgh_MZ.xml"
+    },
+    {
+      "lang": "mgo",
+      "lang_type": "mgo",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "mgo.xml"
+    },
+    {
+      "lang": "mgo-CM",
+      "lang_type": "mgo",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "mgo_CM.xml"
+    },
+    {
+      "lang": "mhn",
+      "lang_type": "mhn",
+      "territory": "",
+      "definitions": 1,
+      "default": 0,
+      "file": "mhn.xml"
+    },
+    {
+      "lang": "mhn-IT",
+      "lang_type": "mhn",
+      "territory": "IT",
+      "definitions": 0,
+      "default": 0,
+      "file": "mhn_IT.xml"
+    },
+    {
+      "lang": "mi",
+      "lang_type": "mi",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "mi.xml"
+    },
+    {
+      "lang": "mi-NZ",
+      "lang_type": "mi",
+      "territory": "NZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "mi_NZ.xml"
+    },
+    {
+      "lang": "mic",
+      "lang_type": "mic",
+      "territory": "",
+      "definitions": 3,
+      "default": 0,
+      "file": "mic.xml"
+    },
+    {
+      "lang": "mic-CA",
+      "lang_type": "mic",
+      "territory": "CA",
+      "definitions": 0,
+      "default": 0,
+      "file": "mic_CA.xml"
+    },
+    {
+      "lang": "mk",
+      "lang_type": "mk",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "mk.xml"
+    },
+    {
+      "lang": "mk-MK",
+      "lang_type": "mk",
+      "territory": "MK",
+      "definitions": 0,
+      "default": 0,
+      "file": "mk_MK.xml"
+    },
+    {
+      "lang": "ml",
+      "lang_type": "ml",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ml.xml"
+    },
+    {
+      "lang": "ml-IN",
+      "lang_type": "ml",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "ml_IN.xml"
+    },
+    {
+      "lang": "mn",
+      "lang_type": "mn",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "mn.xml"
+    },
+    {
+      "lang": "mn-MN",
+      "lang_type": "mn",
+      "territory": "MN",
+      "definitions": 0,
+      "default": 0,
+      "file": "mn_MN.xml"
+    },
+    {
+      "lang": "mn-Mong",
+      "lang_type": "mn",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "mn_Mong.xml"
+    },
+    {
+      "lang": "mn-Mong-CN",
+      "lang_type": "mn",
+      "territory": "CN",
+      "definitions": 0,
+      "default": 0,
+      "file": "mn_Mong_CN.xml"
+    },
+    {
+      "lang": "mn-Mong-MN",
+      "lang_type": "mn",
+      "territory": "MN",
+      "definitions": 5,
+      "default": 0,
+      "file": "mn_Mong_MN.xml"
+    },
+    {
+      "lang": "mni",
+      "lang_type": "mni",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "mni.xml"
+    },
+    {
+      "lang": "mni-Beng",
+      "lang_type": "mni",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "mni_Beng.xml"
+    },
+    {
+      "lang": "mni-Beng-IN",
+      "lang_type": "mni",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "mni_Beng_IN.xml"
+    },
+    {
+      "lang": "mni-Mtei",
+      "lang_type": "mni",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "mni_Mtei.xml"
+    },
+    {
+      "lang": "mni-Mtei-IN",
+      "lang_type": "mni",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "mni_Mtei_IN.xml"
+    },
+    {
+      "lang": "moh",
+      "lang_type": "moh",
+      "territory": "",
+      "definitions": 3,
+      "default": 0,
+      "file": "moh.xml"
+    },
+    {
+      "lang": "moh-CA",
+      "lang_type": "moh",
+      "territory": "CA",
+      "definitions": 0,
+      "default": 0,
+      "file": "moh_CA.xml"
+    },
+    {
+      "lang": "mr",
+      "lang_type": "mr",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "mr.xml"
+    },
+    {
+      "lang": "mr-IN",
+      "lang_type": "mr",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "mr_IN.xml"
+    },
+    {
+      "lang": "ms",
+      "lang_type": "ms",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ms.xml"
+    },
+    {
+      "lang": "ms-Arab",
+      "lang_type": "ms",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "ms_Arab.xml"
+    },
+    {
+      "lang": "ms-Arab-BN",
+      "lang_type": "ms",
+      "territory": "BN",
+      "definitions": 2,
+      "default": 0,
+      "file": "ms_Arab_BN.xml"
+    },
+    {
+      "lang": "ms-Arab-MY",
+      "lang_type": "ms",
+      "territory": "MY",
+      "definitions": 0,
+      "default": 0,
+      "file": "ms_Arab_MY.xml"
+    },
+    {
+      "lang": "ms-BN",
+      "lang_type": "ms",
+      "territory": "BN",
+      "definitions": 2,
+      "default": 0,
+      "file": "ms_BN.xml"
+    },
+    {
+      "lang": "ms-ID",
+      "lang_type": "ms",
+      "territory": "ID",
+      "definitions": 2,
+      "default": 0,
+      "file": "ms_ID.xml"
+    },
+    {
+      "lang": "ms-MY",
+      "lang_type": "ms",
+      "territory": "MY",
+      "definitions": 0,
+      "default": 0,
+      "file": "ms_MY.xml"
+    },
+    {
+      "lang": "ms-SG",
+      "lang_type": "ms",
+      "territory": "SG",
+      "definitions": 1,
+      "default": 0,
+      "file": "ms_SG.xml"
+    },
+    {
+      "lang": "mt",
+      "lang_type": "mt",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "mt.xml"
+    },
+    {
+      "lang": "mt-MT",
+      "lang_type": "mt",
+      "territory": "MT",
+      "definitions": 0,
+      "default": 0,
+      "file": "mt_MT.xml"
+    },
+    {
+      "lang": "mua",
+      "lang_type": "mua",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "mua.xml"
+    },
+    {
+      "lang": "mua-CM",
+      "lang_type": "mua",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "mua_CM.xml"
+    },
+    {
+      "lang": "mus",
+      "lang_type": "mus",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "mus.xml"
+    },
+    {
+      "lang": "mus-US",
+      "lang_type": "mus",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "mus_US.xml"
+    },
+    {
+      "lang": "mww",
+      "lang_type": "mww",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "mww.xml"
+    },
+    {
+      "lang": "mww-Hmnp",
+      "lang_type": "mww",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "mww_Hmnp.xml"
+    },
+    {
+      "lang": "mww-Hmnp-US",
+      "lang_type": "mww",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "mww_Hmnp_US.xml"
+    },
+    {
+      "lang": "my",
+      "lang_type": "my",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "my.xml"
+    },
+    {
+      "lang": "my-MM",
+      "lang_type": "my",
+      "territory": "MM",
+      "definitions": 0,
+      "default": 0,
+      "file": "my_MM.xml"
+    },
+    {
+      "lang": "myv",
+      "lang_type": "myv",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "myv.xml"
+    },
+    {
+      "lang": "myv-RU",
+      "lang_type": "myv",
+      "territory": "RU",
+      "definitions": 0,
+      "default": 0,
+      "file": "myv_RU.xml"
+    },
+    {
+      "lang": "mzn",
+      "lang_type": "mzn",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "mzn.xml"
+    },
+    {
+      "lang": "mzn-IR",
+      "lang_type": "mzn",
+      "territory": "IR",
+      "definitions": 0,
+      "default": 0,
+      "file": "mzn_IR.xml"
+    },
+    {
+      "lang": "naq",
+      "lang_type": "naq",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "naq.xml"
+    },
+    {
+      "lang": "naq-NA",
+      "lang_type": "naq",
+      "territory": "NA",
+      "definitions": 0,
+      "default": 0,
+      "file": "naq_NA.xml"
+    },
+    {
+      "lang": "nb",
+      "lang_type": "nb",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "nb.xml"
+    },
+    {
+      "lang": "nb-NO",
+      "lang_type": "nb",
+      "territory": "NO",
+      "definitions": 0,
+      "default": 0,
+      "file": "nb_NO.xml"
+    },
+    {
+      "lang": "nb-SJ",
+      "lang_type": "nb",
+      "territory": "SJ",
+      "definitions": 0,
+      "default": 0,
+      "file": "nb_SJ.xml"
+    },
+    {
+      "lang": "nd",
+      "lang_type": "nd",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "nd.xml"
+    },
+    {
+      "lang": "nd-ZW",
+      "lang_type": "nd",
+      "territory": "ZW",
+      "definitions": 0,
+      "default": 0,
+      "file": "nd_ZW.xml"
+    },
+    {
+      "lang": "nds",
+      "lang_type": "nds",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "nds.xml"
+    },
+    {
+      "lang": "nds-DE",
+      "lang_type": "nds",
+      "territory": "DE",
+      "definitions": 0,
+      "default": 0,
+      "file": "nds_DE.xml"
+    },
+    {
+      "lang": "nds-NL",
+      "lang_type": "nds",
+      "territory": "NL",
+      "definitions": 1,
+      "default": 0,
+      "file": "nds_NL.xml"
+    },
+    {
+      "lang": "ne",
+      "lang_type": "ne",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ne.xml"
+    },
+    {
+      "lang": "ne-IN",
+      "lang_type": "ne",
+      "territory": "IN",
+      "definitions": 1,
+      "default": 0,
+      "file": "ne_IN.xml"
+    },
+    {
+      "lang": "ne-NP",
+      "lang_type": "ne",
+      "territory": "NP",
+      "definitions": 0,
+      "default": 0,
+      "file": "ne_NP.xml"
+    },
+    {
+      "lang": "nl",
+      "lang_type": "nl",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "nl.xml"
+    },
+    {
+      "lang": "nl-AW",
+      "lang_type": "nl",
+      "territory": "AW",
+      "definitions": 1,
+      "default": 0,
+      "file": "nl_AW.xml"
+    },
+    {
+      "lang": "nl-BE",
+      "lang_type": "nl",
+      "territory": "BE",
+      "definitions": 3,
+      "default": 0,
+      "file": "nl_BE.xml"
+    },
+    {
+      "lang": "nl-BQ",
+      "lang_type": "nl",
+      "territory": "BQ",
+      "definitions": 1,
+      "default": 0,
+      "file": "nl_BQ.xml"
+    },
+    {
+      "lang": "nl-CW",
+      "lang_type": "nl",
+      "territory": "CW",
+      "definitions": 1,
+      "default": 0,
+      "file": "nl_CW.xml"
+    },
+    {
+      "lang": "nl-NL",
+      "lang_type": "nl",
+      "territory": "NL",
+      "definitions": 0,
+      "default": 0,
+      "file": "nl_NL.xml"
+    },
+    {
+      "lang": "nl-SR",
+      "lang_type": "nl",
+      "territory": "SR",
+      "definitions": 2,
+      "default": 0,
+      "file": "nl_SR.xml"
+    },
+    {
+      "lang": "nl-SX",
+      "lang_type": "nl",
+      "territory": "SX",
+      "definitions": 1,
+      "default": 0,
+      "file": "nl_SX.xml"
+    },
+    {
+      "lang": "nmg",
+      "lang_type": "nmg",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "nmg.xml"
+    },
+    {
+      "lang": "nmg-CM",
+      "lang_type": "nmg",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "nmg_CM.xml"
+    },
+    {
+      "lang": "nn",
+      "lang_type": "nn",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "nn.xml"
+    },
+    {
+      "lang": "nn-NO",
+      "lang_type": "nn",
+      "territory": "NO",
+      "definitions": 0,
+      "default": 0,
+      "file": "nn_NO.xml"
+    },
+    {
+      "lang": "nnh",
+      "lang_type": "nnh",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "nnh.xml"
+    },
+    {
+      "lang": "nnh-CM",
+      "lang_type": "nnh",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "nnh_CM.xml"
+    },
+    {
+      "lang": "no",
+      "lang_type": "no",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "no.xml"
+    },
+    {
+      "lang": "nqo",
+      "lang_type": "nqo",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "nqo.xml"
+    },
+    {
+      "lang": "nqo-GN",
+      "lang_type": "nqo",
+      "territory": "GN",
+      "definitions": 0,
+      "default": 0,
+      "file": "nqo_GN.xml"
+    },
+    {
+      "lang": "nr",
+      "lang_type": "nr",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "nr.xml"
+    },
+    {
+      "lang": "nr-ZA",
+      "lang_type": "nr",
+      "territory": "ZA",
+      "definitions": 0,
+      "default": 0,
+      "file": "nr_ZA.xml"
+    },
+    {
+      "lang": "nso",
+      "lang_type": "nso",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "nso.xml"
+    },
+    {
+      "lang": "nso-ZA",
+      "lang_type": "nso",
+      "territory": "ZA",
+      "definitions": 0,
+      "default": 0,
+      "file": "nso_ZA.xml"
+    },
+    {
+      "lang": "nus",
+      "lang_type": "nus",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "nus.xml"
+    },
+    {
+      "lang": "nus-SS",
+      "lang_type": "nus",
+      "territory": "SS",
+      "definitions": 0,
+      "default": 0,
+      "file": "nus_SS.xml"
+    },
+    {
+      "lang": "nv",
+      "lang_type": "nv",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "nv.xml"
+    },
+    {
+      "lang": "nv-US",
+      "lang_type": "nv",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "nv_US.xml"
+    },
+    {
+      "lang": "ny",
+      "lang_type": "ny",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "ny.xml"
+    },
+    {
+      "lang": "ny-MW",
+      "lang_type": "ny",
+      "territory": "MW",
+      "definitions": 0,
+      "default": 0,
+      "file": "ny_MW.xml"
+    },
+    {
+      "lang": "nyn",
+      "lang_type": "nyn",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "nyn.xml"
+    },
+    {
+      "lang": "nyn-UG",
+      "lang_type": "nyn",
+      "territory": "UG",
+      "definitions": 0,
+      "default": 0,
+      "file": "nyn_UG.xml"
+    },
+    {
+      "lang": "oc",
+      "lang_type": "oc",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "oc.xml"
+    },
+    {
+      "lang": "oc-ES",
+      "lang_type": "oc",
+      "territory": "ES",
+      "definitions": 6,
+      "default": 0,
+      "file": "oc_ES.xml"
+    },
+    {
+      "lang": "oc-FR",
+      "lang_type": "oc",
+      "territory": "FR",
+      "definitions": 0,
+      "default": 0,
+      "file": "oc_FR.xml"
+    },
+    {
+      "lang": "oka",
+      "lang_type": "oka",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "oka.xml"
+    },
+    {
+      "lang": "oka-CA",
+      "lang_type": "oka",
+      "territory": "CA",
+      "definitions": 0,
+      "default": 0,
+      "file": "oka_CA.xml"
+    },
+    {
+      "lang": "oka-US",
+      "lang_type": "oka",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "oka_US.xml"
+    },
+    {
+      "lang": "om",
+      "lang_type": "om",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "om.xml"
+    },
+    {
+      "lang": "om-ET",
+      "lang_type": "om",
+      "territory": "ET",
+      "definitions": 0,
+      "default": 0,
+      "file": "om_ET.xml"
+    },
+    {
+      "lang": "om-KE",
+      "lang_type": "om",
+      "territory": "KE",
+      "definitions": 2,
+      "default": 0,
+      "file": "om_KE.xml"
+    },
+    {
+      "lang": "or",
+      "lang_type": "or",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "or.xml"
+    },
+    {
+      "lang": "or-IN",
+      "lang_type": "or",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "or_IN.xml"
+    },
+    {
+      "lang": "os",
+      "lang_type": "os",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "os.xml"
+    },
+    {
+      "lang": "os-GE",
+      "lang_type": "os",
+      "territory": "GE",
+      "definitions": 0,
+      "default": 0,
+      "file": "os_GE.xml"
+    },
+    {
+      "lang": "os-RU",
+      "lang_type": "os",
+      "territory": "RU",
+      "definitions": 1,
+      "default": 0,
+      "file": "os_RU.xml"
+    },
+    {
+      "lang": "osa",
+      "lang_type": "osa",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "osa.xml"
+    },
+    {
+      "lang": "osa-US",
+      "lang_type": "osa",
+      "territory": "US",
+      "definitions": 0,
+      "default": 0,
+      "file": "osa_US.xml"
+    },
+    {
+      "lang": "pa",
+      "lang_type": "pa",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "pa.xml"
+    },
+    {
+      "lang": "pa-Arab",
+      "lang_type": "pa",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "pa_Arab.xml"
+    },
+    {
+      "lang": "pa-Arab-PK",
+      "lang_type": "pa",
+      "territory": "PK",
+      "definitions": 0,
+      "default": 0,
+      "file": "pa_Arab_PK.xml"
+    },
+    {
+      "lang": "pa-Guru",
+      "lang_type": "pa",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "pa_Guru.xml"
+    },
+    {
+      "lang": "pa-Guru-IN",
+      "lang_type": "pa",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "pa_Guru_IN.xml"
+    },
+    {
+      "lang": "pap",
+      "lang_type": "pap",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "pap.xml"
+    },
+    {
+      "lang": "pap-AW",
+      "lang_type": "pap",
+      "territory": "AW",
+      "definitions": 0,
+      "default": 0,
+      "file": "pap_AW.xml"
+    },
+    {
+      "lang": "pap-CW",
+      "lang_type": "pap",
+      "territory": "CW",
+      "definitions": 0,
+      "default": 0,
+      "file": "pap_CW.xml"
+    },
+    {
+      "lang": "pcm",
+      "lang_type": "pcm",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "pcm.xml"
+    },
+    {
+      "lang": "pcm-NG",
+      "lang_type": "pcm",
+      "territory": "NG",
+      "definitions": 0,
+      "default": 0,
+      "file": "pcm_NG.xml"
+    },
+    {
+      "lang": "pi",
+      "lang_type": "pi",
+      "territory": "",
+      "definitions": 1,
+      "default": 0,
+      "file": "pi.xml"
+    },
+    {
+      "lang": "pi-Latn",
+      "lang_type": "pi",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "pi_Latn.xml"
+    },
+    {
+      "lang": "pi-Latn-GB",
+      "lang_type": "pi",
+      "territory": "GB",
+      "definitions": 0,
+      "default": 0,
+      "file": "pi_Latn_GB.xml"
+    },
+    {
+      "lang": "pis",
+      "lang_type": "pis",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "pis.xml"
+    },
+    {
+      "lang": "pis-SB",
+      "lang_type": "pis",
+      "territory": "SB",
+      "definitions": 0,
+      "default": 0,
+      "file": "pis_SB.xml"
+    },
+    {
+      "lang": "pl",
+      "lang_type": "pl",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "pl.xml"
+    },
+    {
+      "lang": "pl-PL",
+      "lang_type": "pl",
+      "territory": "PL",
+      "definitions": 0,
+      "default": 0,
+      "file": "pl_PL.xml"
+    },
+    {
+      "lang": "pms",
+      "lang_type": "pms",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "pms.xml"
+    },
+    {
+      "lang": "pms-IT",
+      "lang_type": "pms",
+      "territory": "IT",
+      "definitions": 0,
+      "default": 0,
+      "file": "pms_IT.xml"
+    },
+    {
+      "lang": "prg",
+      "lang_type": "prg",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "prg.xml"
+    },
+    {
+      "lang": "prg-PL",
+      "lang_type": "prg",
+      "territory": "PL",
+      "definitions": 0,
+      "default": 0,
+      "file": "prg_PL.xml"
+    },
+    {
+      "lang": "ps",
+      "lang_type": "ps",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "ps.xml"
+    },
+    {
+      "lang": "ps-AF",
+      "lang_type": "ps",
+      "territory": "AF",
+      "definitions": 0,
+      "default": 0,
+      "file": "ps_AF.xml"
+    },
+    {
+      "lang": "ps-PK",
+      "lang_type": "ps",
+      "territory": "PK",
+      "definitions": 7,
+      "default": 0,
+      "file": "ps_PK.xml"
+    },
+    {
+      "lang": "pt",
+      "lang_type": "pt",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "pt.xml"
+    },
+    {
+      "lang": "pt-AO",
+      "lang_type": "pt",
+      "territory": "AO",
+      "definitions": 2,
+      "default": 0,
+      "file": "pt_AO.xml"
+    },
+    {
+      "lang": "pt-BR",
+      "lang_type": "pt",
+      "territory": "BR",
+      "definitions": 0,
+      "default": 0,
+      "file": "pt_BR.xml"
+    },
+    {
+      "lang": "pt-CH",
+      "lang_type": "pt",
+      "territory": "CH",
+      "definitions": 0,
+      "default": 0,
+      "file": "pt_CH.xml"
+    },
+    {
+      "lang": "pt-CV",
+      "lang_type": "pt",
+      "territory": "CV",
+      "definitions": 2,
+      "default": 0,
+      "file": "pt_CV.xml"
+    },
+    {
+      "lang": "pt-GQ",
+      "lang_type": "pt",
+      "territory": "GQ",
+      "definitions": 0,
+      "default": 0,
+      "file": "pt_GQ.xml"
+    },
+    {
+      "lang": "pt-GW",
+      "lang_type": "pt",
+      "territory": "GW",
+      "definitions": 1,
+      "default": 0,
+      "file": "pt_GW.xml"
+    },
+    {
+      "lang": "pt-LU",
+      "lang_type": "pt",
+      "territory": "LU",
+      "definitions": 1,
+      "default": 0,
+      "file": "pt_LU.xml"
+    },
+    {
+      "lang": "pt-MO",
+      "lang_type": "pt",
+      "territory": "MO",
+      "definitions": 2,
+      "default": 0,
+      "file": "pt_MO.xml"
+    },
+    {
+      "lang": "pt-MZ",
+      "lang_type": "pt",
+      "territory": "MZ",
+      "definitions": 2,
+      "default": 0,
+      "file": "pt_MZ.xml"
+    },
+    {
+      "lang": "pt-PT",
+      "lang_type": "pt",
+      "territory": "PT",
+      "definitions": 11,
+      "default": 0,
+      "file": "pt_PT.xml"
+    },
+    {
+      "lang": "pt-ST",
+      "lang_type": "pt",
+      "territory": "ST",
+      "definitions": 2,
+      "default": 0,
+      "file": "pt_ST.xml"
+    },
+    {
+      "lang": "pt-TL",
+      "lang_type": "pt",
+      "territory": "TL",
+      "definitions": 1,
+      "default": 0,
+      "file": "pt_TL.xml"
+    },
+    {
+      "lang": "qu",
+      "lang_type": "qu",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "qu.xml"
+    },
+    {
+      "lang": "qu-BO",
+      "lang_type": "qu",
+      "territory": "BO",
+      "definitions": 2,
+      "default": 0,
+      "file": "qu_BO.xml"
+    },
+    {
+      "lang": "qu-EC",
+      "lang_type": "qu",
+      "territory": "EC",
+      "definitions": 2,
+      "default": 0,
+      "file": "qu_EC.xml"
+    },
+    {
+      "lang": "qu-PE",
+      "lang_type": "qu",
+      "territory": "PE",
+      "definitions": 0,
+      "default": 0,
+      "file": "qu_PE.xml"
+    },
+    {
+      "lang": "quc",
+      "lang_type": "quc",
+      "territory": "",
+      "definitions": 3,
+      "default": 0,
+      "file": "quc.xml"
+    },
+    {
+      "lang": "quc-GT",
+      "lang_type": "quc",
+      "territory": "GT",
+      "definitions": 0,
+      "default": 0,
+      "file": "quc_GT.xml"
+    },
+    {
+      "lang": "raj",
+      "lang_type": "raj",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "raj.xml"
+    },
+    {
+      "lang": "raj-IN",
+      "lang_type": "raj",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "raj_IN.xml"
+    },
+    {
+      "lang": "rhg",
+      "lang_type": "rhg",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "rhg.xml"
+    },
+    {
+      "lang": "rhg-Rohg",
+      "lang_type": "rhg",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "rhg_Rohg.xml"
+    },
+    {
+      "lang": "rhg-Rohg-BD",
+      "lang_type": "rhg",
+      "territory": "BD",
+      "definitions": 1,
+      "default": 0,
+      "file": "rhg_Rohg_BD.xml"
+    },
+    {
+      "lang": "rhg-Rohg-MM",
+      "lang_type": "rhg",
+      "territory": "MM",
+      "definitions": 0,
+      "default": 0,
+      "file": "rhg_Rohg_MM.xml"
+    },
+    {
+      "lang": "rif",
+      "lang_type": "rif",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "rif.xml"
+    },
+    {
+      "lang": "rif-MA",
+      "lang_type": "rif",
+      "territory": "MA",
+      "definitions": 0,
+      "default": 0,
+      "file": "rif_MA.xml"
+    },
+    {
+      "lang": "rm",
+      "lang_type": "rm",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "rm.xml"
+    },
+    {
+      "lang": "rm-CH",
+      "lang_type": "rm",
+      "territory": "CH",
+      "definitions": 0,
+      "default": 0,
+      "file": "rm_CH.xml"
+    },
+    {
+      "lang": "rn",
+      "lang_type": "rn",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "rn.xml"
+    },
+    {
+      "lang": "rn-BI",
+      "lang_type": "rn",
+      "territory": "BI",
+      "definitions": 0,
+      "default": 0,
+      "file": "rn_BI.xml"
+    },
+    {
+      "lang": "ro",
+      "lang_type": "ro",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "ro.xml"
+    },
+    {
+      "lang": "ro-MD",
+      "lang_type": "ro",
+      "territory": "MD",
+      "definitions": 4,
+      "default": 0,
+      "file": "ro_MD.xml"
+    },
+    {
+      "lang": "ro-RO",
+      "lang_type": "ro",
+      "territory": "RO",
+      "definitions": 0,
+      "default": 0,
+      "file": "ro_RO.xml"
+    },
+    {
+      "lang": "rof",
+      "lang_type": "rof",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "rof.xml"
+    },
+    {
+      "lang": "rof-TZ",
+      "lang_type": "rof",
+      "territory": "TZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "rof_TZ.xml"
+    },
+    {
+      "lang": "root",
+      "lang_type": "root",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "root.xml"
+    },
+    {
+      "lang": "ru",
+      "lang_type": "ru",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "ru.xml"
+    },
+    {
+      "lang": "ru-BY",
+      "lang_type": "ru",
+      "territory": "BY",
+      "definitions": 1,
+      "default": 0,
+      "file": "ru_BY.xml"
+    },
+    {
+      "lang": "ru-KG",
+      "lang_type": "ru",
+      "territory": "KG",
+      "definitions": 1,
+      "default": 0,
+      "file": "ru_KG.xml"
+    },
+    {
+      "lang": "ru-KZ",
+      "lang_type": "ru",
+      "territory": "KZ",
+      "definitions": 1,
+      "default": 0,
+      "file": "ru_KZ.xml"
+    },
+    {
+      "lang": "ru-MD",
+      "lang_type": "ru",
+      "territory": "MD",
+      "definitions": 1,
+      "default": 0,
+      "file": "ru_MD.xml"
+    },
+    {
+      "lang": "ru-RU",
+      "lang_type": "ru",
+      "territory": "RU",
+      "definitions": 0,
+      "default": 0,
+      "file": "ru_RU.xml"
+    },
+    {
+      "lang": "ru-UA",
+      "lang_type": "ru",
+      "territory": "UA",
+      "definitions": 3,
+      "default": 0,
+      "file": "ru_UA.xml"
+    },
+    {
+      "lang": "rw",
+      "lang_type": "rw",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "rw.xml"
+    },
+    {
+      "lang": "rw-RW",
+      "lang_type": "rw",
+      "territory": "RW",
+      "definitions": 0,
+      "default": 0,
+      "file": "rw_RW.xml"
+    },
+    {
+      "lang": "rwk",
+      "lang_type": "rwk",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "rwk.xml"
+    },
+    {
+      "lang": "rwk-TZ",
+      "lang_type": "rwk",
+      "territory": "TZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "rwk_TZ.xml"
+    },
+    {
+      "lang": "sa",
+      "lang_type": "sa",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "sa.xml"
+    },
+    {
+      "lang": "sa-IN",
+      "lang_type": "sa",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "sa_IN.xml"
+    },
+    {
+      "lang": "sah",
+      "lang_type": "sah",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "sah.xml"
+    },
+    {
+      "lang": "sah-RU",
+      "lang_type": "sah",
+      "territory": "RU",
+      "definitions": 0,
+      "default": 0,
+      "file": "sah_RU.xml"
+    },
+    {
+      "lang": "saq",
+      "lang_type": "saq",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "saq.xml"
+    },
+    {
+      "lang": "saq-KE",
+      "lang_type": "saq",
+      "territory": "KE",
+      "definitions": 0,
+      "default": 0,
+      "file": "saq_KE.xml"
+    },
+    {
+      "lang": "sat",
+      "lang_type": "sat",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "sat.xml"
+    },
+    {
+      "lang": "sat-Deva",
+      "lang_type": "sat",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "sat_Deva.xml"
+    },
+    {
+      "lang": "sat-Deva-IN",
+      "lang_type": "sat",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "sat_Deva_IN.xml"
+    },
+    {
+      "lang": "sat-Olck",
+      "lang_type": "sat",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "sat_Olck.xml"
+    },
+    {
+      "lang": "sat-Olck-IN",
+      "lang_type": "sat",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "sat_Olck_IN.xml"
+    },
+    {
+      "lang": "sbp",
+      "lang_type": "sbp",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "sbp.xml"
+    },
+    {
+      "lang": "sbp-TZ",
+      "lang_type": "sbp",
+      "territory": "TZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "sbp_TZ.xml"
+    },
+    {
+      "lang": "sc",
+      "lang_type": "sc",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "sc.xml"
+    },
+    {
+      "lang": "sc-IT",
+      "lang_type": "sc",
+      "territory": "IT",
+      "definitions": 0,
+      "default": 0,
+      "file": "sc_IT.xml"
+    },
+    {
+      "lang": "scn",
+      "lang_type": "scn",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "scn.xml"
+    },
+    {
+      "lang": "scn-IT",
+      "lang_type": "scn",
+      "territory": "IT",
+      "definitions": 0,
+      "default": 0,
+      "file": "scn_IT.xml"
+    },
+    {
+      "lang": "sd",
+      "lang_type": "sd",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "sd.xml"
+    },
+    {
+      "lang": "sd-Arab",
+      "lang_type": "sd",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "sd_Arab.xml"
+    },
+    {
+      "lang": "sd-Arab-PK",
+      "lang_type": "sd",
+      "territory": "PK",
+      "definitions": 0,
+      "default": 0,
+      "file": "sd_Arab_PK.xml"
+    },
+    {
+      "lang": "sd-Deva",
+      "lang_type": "sd",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "sd_Deva.xml"
+    },
+    {
+      "lang": "sd-Deva-IN",
+      "lang_type": "sd",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "sd_Deva_IN.xml"
+    },
+    {
+      "lang": "sdh",
+      "lang_type": "sdh",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "sdh.xml"
+    },
+    {
+      "lang": "sdh-IQ",
+      "lang_type": "sdh",
+      "territory": "IQ",
+      "definitions": 0,
+      "default": 0,
+      "file": "sdh_IQ.xml"
+    },
+    {
+      "lang": "sdh-IR",
+      "lang_type": "sdh",
+      "territory": "IR",
+      "definitions": 0,
+      "default": 0,
+      "file": "sdh_IR.xml"
+    },
+    {
+      "lang": "se",
+      "lang_type": "se",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "se.xml"
+    },
+    {
+      "lang": "se-FI",
+      "lang_type": "se",
+      "territory": "FI",
+      "definitions": 3,
+      "default": 0,
+      "file": "se_FI.xml"
+    },
+    {
+      "lang": "se-NO",
+      "lang_type": "se",
+      "territory": "NO",
+      "definitions": 0,
+      "default": 0,
+      "file": "se_NO.xml"
+    },
+    {
+      "lang": "se-SE",
+      "lang_type": "se",
+      "territory": "SE",
+      "definitions": 1,
+      "default": 0,
+      "file": "se_SE.xml"
+    },
+    {
+      "lang": "seh",
+      "lang_type": "seh",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "seh.xml"
+    },
+    {
+      "lang": "seh-MZ",
+      "lang_type": "seh",
+      "territory": "MZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "seh_MZ.xml"
+    },
+    {
+      "lang": "ses",
+      "lang_type": "ses",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "ses.xml"
+    },
+    {
+      "lang": "ses-ML",
+      "lang_type": "ses",
+      "territory": "ML",
+      "definitions": 0,
+      "default": 0,
+      "file": "ses_ML.xml"
+    },
+    {
+      "lang": "sg",
+      "lang_type": "sg",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "sg.xml"
+    },
+    {
+      "lang": "sg-CF",
+      "lang_type": "sg",
+      "territory": "CF",
+      "definitions": 0,
+      "default": 0,
+      "file": "sg_CF.xml"
+    },
+    {
+      "lang": "sgs",
+      "lang_type": "sgs",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "sgs.xml"
+    },
+    {
+      "lang": "sgs-LT",
+      "lang_type": "sgs",
+      "territory": "LT",
+      "definitions": 0,
+      "default": 0,
+      "file": "sgs_LT.xml"
+    },
+    {
+      "lang": "shi",
+      "lang_type": "shi",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "shi.xml"
+    },
+    {
+      "lang": "shi-Latn",
+      "lang_type": "shi",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "shi_Latn.xml"
+    },
+    {
+      "lang": "shi-Latn-MA",
+      "lang_type": "shi",
+      "territory": "MA",
+      "definitions": 0,
+      "default": 0,
+      "file": "shi_Latn_MA.xml"
+    },
+    {
+      "lang": "shi-Tfng",
+      "lang_type": "shi",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "shi_Tfng.xml"
+    },
+    {
+      "lang": "shi-Tfng-MA",
+      "lang_type": "shi",
+      "territory": "MA",
+      "definitions": 0,
+      "default": 0,
+      "file": "shi_Tfng_MA.xml"
+    },
+    {
+      "lang": "shn",
+      "lang_type": "shn",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "shn.xml"
+    },
+    {
+      "lang": "shn-MM",
+      "lang_type": "shn",
+      "territory": "MM",
+      "definitions": 0,
+      "default": 0,
+      "file": "shn_MM.xml"
+    },
+    {
+      "lang": "shn-TH",
+      "lang_type": "shn",
+      "territory": "TH",
+      "definitions": 0,
+      "default": 0,
+      "file": "shn_TH.xml"
+    },
+    {
+      "lang": "si",
+      "lang_type": "si",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "si.xml"
+    },
+    {
+      "lang": "si-LK",
+      "lang_type": "si",
+      "territory": "LK",
+      "definitions": 0,
+      "default": 0,
+      "file": "si_LK.xml"
+    },
+    {
+      "lang": "sid",
+      "lang_type": "sid",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "sid.xml"
+    },
+    {
+      "lang": "sid-ET",
+      "lang_type": "sid",
+      "territory": "ET",
+      "definitions": 0,
+      "default": 0,
+      "file": "sid_ET.xml"
+    },
+    {
+      "lang": "sk",
+      "lang_type": "sk",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "sk.xml"
+    },
+    {
+      "lang": "sk-SK",
+      "lang_type": "sk",
+      "territory": "SK",
+      "definitions": 0,
+      "default": 0,
+      "file": "sk_SK.xml"
+    },
+    {
+      "lang": "skr",
+      "lang_type": "skr",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "skr.xml"
+    },
+    {
+      "lang": "skr-PK",
+      "lang_type": "skr",
+      "territory": "PK",
+      "definitions": 0,
+      "default": 0,
+      "file": "skr_PK.xml"
+    },
+    {
+      "lang": "sl",
+      "lang_type": "sl",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "sl.xml"
+    },
+    {
+      "lang": "sl-SI",
+      "lang_type": "sl",
+      "territory": "SI",
+      "definitions": 0,
+      "default": 0,
+      "file": "sl_SI.xml"
+    },
+    {
+      "lang": "sma",
+      "lang_type": "sma",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "sma.xml"
+    },
+    {
+      "lang": "sma-NO",
+      "lang_type": "sma",
+      "territory": "NO",
+      "definitions": 1,
+      "default": 0,
+      "file": "sma_NO.xml"
+    },
+    {
+      "lang": "sma-SE",
+      "lang_type": "sma",
+      "territory": "SE",
+      "definitions": 0,
+      "default": 0,
+      "file": "sma_SE.xml"
+    },
+    {
+      "lang": "smj",
+      "lang_type": "smj",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "smj.xml"
+    },
+    {
+      "lang": "smj-NO",
+      "lang_type": "smj",
+      "territory": "NO",
+      "definitions": 0,
+      "default": 0,
+      "file": "smj_NO.xml"
+    },
+    {
+      "lang": "smj-SE",
+      "lang_type": "smj",
+      "territory": "SE",
+      "definitions": 0,
+      "default": 0,
+      "file": "smj_SE.xml"
+    },
+    {
+      "lang": "smn",
+      "lang_type": "smn",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "smn.xml"
+    },
+    {
+      "lang": "smn-FI",
+      "lang_type": "smn",
+      "territory": "FI",
+      "definitions": 0,
+      "default": 0,
+      "file": "smn_FI.xml"
+    },
+    {
+      "lang": "sms",
+      "lang_type": "sms",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "sms.xml"
+    },
+    {
+      "lang": "sms-FI",
+      "lang_type": "sms",
+      "territory": "FI",
+      "definitions": 0,
+      "default": 0,
+      "file": "sms_FI.xml"
+    },
+    {
+      "lang": "sn",
+      "lang_type": "sn",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "sn.xml"
+    },
+    {
+      "lang": "sn-ZW",
+      "lang_type": "sn",
+      "territory": "ZW",
+      "definitions": 0,
+      "default": 0,
+      "file": "sn_ZW.xml"
+    },
+    {
+      "lang": "so",
+      "lang_type": "so",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "so.xml"
+    },
+    {
+      "lang": "so-DJ",
+      "lang_type": "so",
+      "territory": "DJ",
+      "definitions": 1,
+      "default": 0,
+      "file": "so_DJ.xml"
+    },
+    {
+      "lang": "so-ET",
+      "lang_type": "so",
+      "territory": "ET",
+      "definitions": 1,
+      "default": 0,
+      "file": "so_ET.xml"
+    },
+    {
+      "lang": "so-KE",
+      "lang_type": "so",
+      "territory": "KE",
+      "definitions": 2,
+      "default": 0,
+      "file": "so_KE.xml"
+    },
+    {
+      "lang": "so-SO",
+      "lang_type": "so",
+      "territory": "SO",
+      "definitions": 0,
+      "default": 0,
+      "file": "so_SO.xml"
+    },
+    {
+      "lang": "sq",
+      "lang_type": "sq",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "sq.xml"
+    },
+    {
+      "lang": "sq-AL",
+      "lang_type": "sq",
+      "territory": "AL",
+      "definitions": 0,
+      "default": 0,
+      "file": "sq_AL.xml"
+    },
+    {
+      "lang": "sq-MK",
+      "lang_type": "sq",
+      "territory": "MK",
+      "definitions": 2,
+      "default": 0,
+      "file": "sq_MK.xml"
+    },
+    {
+      "lang": "sq-XK",
+      "lang_type": "sq",
+      "territory": "XK",
+      "definitions": 1,
+      "default": 0,
+      "file": "sq_XK.xml"
+    },
+    {
+      "lang": "sr",
+      "lang_type": "sr",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "sr.xml"
+    },
+    {
+      "lang": "sr-Cyrl",
+      "lang_type": "sr",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "sr_Cyrl.xml"
+    },
+    {
+      "lang": "sr-Cyrl-BA",
+      "lang_type": "sr",
+      "territory": "BA",
+      "definitions": 6,
+      "default": 0,
+      "file": "sr_Cyrl_BA.xml"
+    },
+    {
+      "lang": "sr-Cyrl-ME",
+      "lang_type": "sr",
+      "territory": "ME",
+      "definitions": 2,
+      "default": 0,
+      "file": "sr_Cyrl_ME.xml"
+    },
+    {
+      "lang": "sr-Cyrl-RS",
+      "lang_type": "sr",
+      "territory": "RS",
+      "definitions": 0,
+      "default": 0,
+      "file": "sr_Cyrl_RS.xml"
+    },
+    {
+      "lang": "sr-Cyrl-XK",
+      "lang_type": "sr",
+      "territory": "XK",
+      "definitions": 2,
+      "default": 0,
+      "file": "sr_Cyrl_XK.xml"
+    },
+    {
+      "lang": "sr-Latn",
+      "lang_type": "sr",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "sr_Latn.xml"
+    },
+    {
+      "lang": "sr-Latn-BA",
+      "lang_type": "sr",
+      "territory": "BA",
+      "definitions": 6,
+      "default": 0,
+      "file": "sr_Latn_BA.xml"
+    },
+    {
+      "lang": "sr-Latn-ME",
+      "lang_type": "sr",
+      "territory": "ME",
+      "definitions": 2,
+      "default": 0,
+      "file": "sr_Latn_ME.xml"
+    },
+    {
+      "lang": "sr-Latn-RS",
+      "lang_type": "sr",
+      "territory": "RS",
+      "definitions": 0,
+      "default": 0,
+      "file": "sr_Latn_RS.xml"
+    },
+    {
+      "lang": "sr-Latn-XK",
+      "lang_type": "sr",
+      "territory": "XK",
+      "definitions": 2,
+      "default": 0,
+      "file": "sr_Latn_XK.xml"
+    },
+    {
+      "lang": "ss",
+      "lang_type": "ss",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "ss.xml"
+    },
+    {
+      "lang": "ss-SZ",
+      "lang_type": "ss",
+      "territory": "SZ",
+      "definitions": 1,
+      "default": 0,
+      "file": "ss_SZ.xml"
+    },
+    {
+      "lang": "ss-ZA",
+      "lang_type": "ss",
+      "territory": "ZA",
+      "definitions": 0,
+      "default": 0,
+      "file": "ss_ZA.xml"
+    },
+    {
+      "lang": "ssy",
+      "lang_type": "ssy",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "ssy.xml"
+    },
+    {
+      "lang": "ssy-ER",
+      "lang_type": "ssy",
+      "territory": "ER",
+      "definitions": 0,
+      "default": 0,
+      "file": "ssy_ER.xml"
+    },
+    {
+      "lang": "st",
+      "lang_type": "st",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "st.xml"
+    },
+    {
+      "lang": "st-LS",
+      "lang_type": "st",
+      "territory": "LS",
+      "definitions": 2,
+      "default": 0,
+      "file": "st_LS.xml"
+    },
+    {
+      "lang": "st-ZA",
+      "lang_type": "st",
+      "territory": "ZA",
+      "definitions": 0,
+      "default": 0,
+      "file": "st_ZA.xml"
+    },
+    {
+      "lang": "su",
+      "lang_type": "su",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "su.xml"
+    },
+    {
+      "lang": "su-Latn",
+      "lang_type": "su",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "su_Latn.xml"
+    },
+    {
+      "lang": "su-Latn-ID",
+      "lang_type": "su",
+      "territory": "ID",
+      "definitions": 0,
+      "default": 0,
+      "file": "su_Latn_ID.xml"
+    },
+    {
+      "lang": "suz",
+      "lang_type": "suz",
+      "territory": "",
+      "definitions": 1,
+      "default": 0,
+      "file": "suz.xml"
+    },
+    {
+      "lang": "suz-Deva",
+      "lang_type": "suz",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "suz_Deva.xml"
+    },
+    {
+      "lang": "suz-Deva-NP",
+      "lang_type": "suz",
+      "territory": "NP",
+      "definitions": 0,
+      "default": 0,
+      "file": "suz_Deva_NP.xml"
+    },
+    {
+      "lang": "suz-Sunu",
+      "lang_type": "suz",
+      "territory": "",
+      "definitions": 1,
+      "default": 0,
+      "file": "suz_Sunu.xml"
+    },
+    {
+      "lang": "suz-Sunu-NP",
+      "lang_type": "suz",
+      "territory": "NP",
+      "definitions": 0,
+      "default": 0,
+      "file": "suz_Sunu_NP.xml"
+    },
+    {
+      "lang": "sv",
+      "lang_type": "sv",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "sv.xml"
+    },
+    {
+      "lang": "sv-AX",
+      "lang_type": "sv",
+      "territory": "AX",
+      "definitions": 1,
+      "default": 0,
+      "file": "sv_AX.xml"
+    },
+    {
+      "lang": "sv-FI",
+      "lang_type": "sv",
+      "territory": "FI",
+      "definitions": 5,
+      "default": 0,
+      "file": "sv_FI.xml"
+    },
+    {
+      "lang": "sv-SE",
+      "lang_type": "sv",
+      "territory": "SE",
+      "definitions": 0,
+      "default": 0,
+      "file": "sv_SE.xml"
+    },
+    {
+      "lang": "sw",
+      "lang_type": "sw",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "sw.xml"
+    },
+    {
+      "lang": "sw-CD",
+      "lang_type": "sw",
+      "territory": "CD",
+      "definitions": 4,
+      "default": 0,
+      "file": "sw_CD.xml"
+    },
+    {
+      "lang": "sw-KE",
+      "lang_type": "sw",
+      "territory": "KE",
+      "definitions": 5,
+      "default": 0,
+      "file": "sw_KE.xml"
+    },
+    {
+      "lang": "sw-TZ",
+      "lang_type": "sw",
+      "territory": "TZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "sw_TZ.xml"
+    },
+    {
+      "lang": "sw-UG",
+      "lang_type": "sw",
+      "territory": "UG",
+      "definitions": 1,
+      "default": 0,
+      "file": "sw_UG.xml"
+    },
+    {
+      "lang": "syr",
+      "lang_type": "syr",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "syr.xml"
+    },
+    {
+      "lang": "syr-IQ",
+      "lang_type": "syr",
+      "territory": "IQ",
+      "definitions": 0,
+      "default": 0,
+      "file": "syr_IQ.xml"
+    },
+    {
+      "lang": "syr-SY",
+      "lang_type": "syr",
+      "territory": "SY",
+      "definitions": 0,
+      "default": 0,
+      "file": "syr_SY.xml"
+    },
+    {
+      "lang": "szl",
+      "lang_type": "szl",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "szl.xml"
+    },
+    {
+      "lang": "szl-PL",
+      "lang_type": "szl",
+      "territory": "PL",
+      "definitions": 0,
+      "default": 0,
+      "file": "szl_PL.xml"
+    },
+    {
+      "lang": "ta",
+      "lang_type": "ta",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "ta.xml"
+    },
+    {
+      "lang": "ta-IN",
+      "lang_type": "ta",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "ta_IN.xml"
+    },
+    {
+      "lang": "ta-LK",
+      "lang_type": "ta",
+      "territory": "LK",
+      "definitions": 2,
+      "default": 0,
+      "file": "ta_LK.xml"
+    },
+    {
+      "lang": "ta-MY",
+      "lang_type": "ta",
+      "territory": "MY",
+      "definitions": 2,
+      "default": 0,
+      "file": "ta_MY.xml"
+    },
+    {
+      "lang": "ta-SG",
+      "lang_type": "ta",
+      "territory": "SG",
+      "definitions": 2,
+      "default": 0,
+      "file": "ta_SG.xml"
+    },
+    {
+      "lang": "te",
+      "lang_type": "te",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "te.xml"
+    },
+    {
+      "lang": "te-IN",
+      "lang_type": "te",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "te_IN.xml"
+    },
+    {
+      "lang": "teo",
+      "lang_type": "teo",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "teo.xml"
+    },
+    {
+      "lang": "teo-KE",
+      "lang_type": "teo",
+      "territory": "KE",
+      "definitions": 1,
+      "default": 0,
+      "file": "teo_KE.xml"
+    },
+    {
+      "lang": "teo-UG",
+      "lang_type": "teo",
+      "territory": "UG",
+      "definitions": 0,
+      "default": 0,
+      "file": "teo_UG.xml"
+    },
+    {
+      "lang": "tg",
+      "lang_type": "tg",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "tg.xml"
+    },
+    {
+      "lang": "tg-TJ",
+      "lang_type": "tg",
+      "territory": "TJ",
+      "definitions": 0,
+      "default": 0,
+      "file": "tg_TJ.xml"
+    },
+    {
+      "lang": "th",
+      "lang_type": "th",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "th.xml"
+    },
+    {
+      "lang": "th-TH",
+      "lang_type": "th",
+      "territory": "TH",
+      "definitions": 0,
+      "default": 0,
+      "file": "th_TH.xml"
+    },
+    {
+      "lang": "ti",
+      "lang_type": "ti",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "ti.xml"
+    },
+    {
+      "lang": "ti-ER",
+      "lang_type": "ti",
+      "territory": "ER",
+      "definitions": 4,
+      "default": 0,
+      "file": "ti_ER.xml"
+    },
+    {
+      "lang": "ti-ET",
+      "lang_type": "ti",
+      "territory": "ET",
+      "definitions": 0,
+      "default": 0,
+      "file": "ti_ET.xml"
+    },
+    {
+      "lang": "tig",
+      "lang_type": "tig",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "tig.xml"
+    },
+    {
+      "lang": "tig-ER",
+      "lang_type": "tig",
+      "territory": "ER",
+      "definitions": 0,
+      "default": 0,
+      "file": "tig_ER.xml"
+    },
+    {
+      "lang": "tk",
+      "lang_type": "tk",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "tk.xml"
+    },
+    {
+      "lang": "tk-TM",
+      "lang_type": "tk",
+      "territory": "TM",
+      "definitions": 0,
+      "default": 0,
+      "file": "tk_TM.xml"
+    },
+    {
+      "lang": "tn",
+      "lang_type": "tn",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "tn.xml"
+    },
+    {
+      "lang": "tn-BW",
+      "lang_type": "tn",
+      "territory": "BW",
+      "definitions": 1,
+      "default": 0,
+      "file": "tn_BW.xml"
+    },
+    {
+      "lang": "tn-ZA",
+      "lang_type": "tn",
+      "territory": "ZA",
+      "definitions": 0,
+      "default": 0,
+      "file": "tn_ZA.xml"
+    },
+    {
+      "lang": "to",
+      "lang_type": "to",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "to.xml"
+    },
+    {
+      "lang": "to-TO",
+      "lang_type": "to",
+      "territory": "TO",
+      "definitions": 0,
+      "default": 0,
+      "file": "to_TO.xml"
+    },
+    {
+      "lang": "tok",
+      "lang_type": "tok",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "tok.xml"
+    },
+    {
+      "lang": "tok-001",
+      "lang_type": "tok",
+      "territory": "001",
+      "definitions": 0,
+      "default": 0,
+      "file": "tok_001.xml"
+    },
+    {
+      "lang": "tpi",
+      "lang_type": "tpi",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "tpi.xml"
+    },
+    {
+      "lang": "tpi-PG",
+      "lang_type": "tpi",
+      "territory": "PG",
+      "definitions": 0,
+      "default": 0,
+      "file": "tpi_PG.xml"
+    },
+    {
+      "lang": "tr",
+      "lang_type": "tr",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "tr.xml"
+    },
+    {
+      "lang": "tr-CY",
+      "lang_type": "tr",
+      "territory": "CY",
+      "definitions": 1,
+      "default": 0,
+      "file": "tr_CY.xml"
+    },
+    {
+      "lang": "tr-TR",
+      "lang_type": "tr",
+      "territory": "TR",
+      "definitions": 0,
+      "default": 0,
+      "file": "tr_TR.xml"
+    },
+    {
+      "lang": "trv",
+      "lang_type": "trv",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "trv.xml"
+    },
+    {
+      "lang": "trv-TW",
+      "lang_type": "trv",
+      "territory": "TW",
+      "definitions": 0,
+      "default": 0,
+      "file": "trv_TW.xml"
+    },
+    {
+      "lang": "trw",
+      "lang_type": "trw",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "trw.xml"
+    },
+    {
+      "lang": "trw-PK",
+      "lang_type": "trw",
+      "territory": "PK",
+      "definitions": 0,
+      "default": 0,
+      "file": "trw_PK.xml"
+    },
+    {
+      "lang": "ts",
+      "lang_type": "ts",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "ts.xml"
+    },
+    {
+      "lang": "ts-ZA",
+      "lang_type": "ts",
+      "territory": "ZA",
+      "definitions": 0,
+      "default": 0,
+      "file": "ts_ZA.xml"
+    },
+    {
+      "lang": "tt",
+      "lang_type": "tt",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "tt.xml"
+    },
+    {
+      "lang": "tt-RU",
+      "lang_type": "tt",
+      "territory": "RU",
+      "definitions": 0,
+      "default": 0,
+      "file": "tt_RU.xml"
+    },
+    {
+      "lang": "twq",
+      "lang_type": "twq",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "twq.xml"
+    },
+    {
+      "lang": "twq-NE",
+      "lang_type": "twq",
+      "territory": "NE",
+      "definitions": 0,
+      "default": 0,
+      "file": "twq_NE.xml"
+    },
+    {
+      "lang": "tyv",
+      "lang_type": "tyv",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "tyv.xml"
+    },
+    {
+      "lang": "tyv-RU",
+      "lang_type": "tyv",
+      "territory": "RU",
+      "definitions": 0,
+      "default": 0,
+      "file": "tyv_RU.xml"
+    },
+    {
+      "lang": "tzm",
+      "lang_type": "tzm",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "tzm.xml"
+    },
+    {
+      "lang": "tzm-MA",
+      "lang_type": "tzm",
+      "territory": "MA",
+      "definitions": 0,
+      "default": 0,
+      "file": "tzm_MA.xml"
+    },
+    {
+      "lang": "ug",
+      "lang_type": "ug",
+      "territory": "",
+      "definitions": 9,
+      "default": 0,
+      "file": "ug.xml"
+    },
+    {
+      "lang": "ug-CN",
+      "lang_type": "ug",
+      "territory": "CN",
+      "definitions": 0,
+      "default": 0,
+      "file": "ug_CN.xml"
+    },
+    {
+      "lang": "uk",
+      "lang_type": "uk",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "uk.xml"
+    },
+    {
+      "lang": "uk-UA",
+      "lang_type": "uk",
+      "territory": "UA",
+      "definitions": 0,
+      "default": 0,
+      "file": "uk_UA.xml"
+    },
+    {
+      "lang": "ur",
+      "lang_type": "ur",
+      "territory": "",
+      "definitions": 12,
+      "default": 0,
+      "file": "ur.xml"
+    },
+    {
+      "lang": "ur-IN",
+      "lang_type": "ur",
+      "territory": "IN",
+      "definitions": 5,
+      "default": 0,
+      "file": "ur_IN.xml"
+    },
+    {
+      "lang": "ur-PK",
+      "lang_type": "ur",
+      "territory": "PK",
+      "definitions": 0,
+      "default": 0,
+      "file": "ur_PK.xml"
+    },
+    {
+      "lang": "uz",
+      "lang_type": "uz",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "uz.xml"
+    },
+    {
+      "lang": "uz-Arab",
+      "lang_type": "uz",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "uz_Arab.xml"
+    },
+    {
+      "lang": "uz-Arab-AF",
+      "lang_type": "uz",
+      "territory": "AF",
+      "definitions": 0,
+      "default": 0,
+      "file": "uz_Arab_AF.xml"
+    },
+    {
+      "lang": "uz-Cyrl",
+      "lang_type": "uz",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "uz_Cyrl.xml"
+    },
+    {
+      "lang": "uz-Cyrl-UZ",
+      "lang_type": "uz",
+      "territory": "UZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "uz_Cyrl_UZ.xml"
+    },
+    {
+      "lang": "uz-Latn",
+      "lang_type": "uz",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "uz_Latn.xml"
+    },
+    {
+      "lang": "uz-Latn-UZ",
+      "lang_type": "uz",
+      "territory": "UZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "uz_Latn_UZ.xml"
+    },
+    {
+      "lang": "vai",
+      "lang_type": "vai",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "vai.xml"
+    },
+    {
+      "lang": "vai-Latn",
+      "lang_type": "vai",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "vai_Latn.xml"
+    },
+    {
+      "lang": "vai-Latn-LR",
+      "lang_type": "vai",
+      "territory": "LR",
+      "definitions": 0,
+      "default": 0,
+      "file": "vai_Latn_LR.xml"
+    },
+    {
+      "lang": "vai-Vaii",
+      "lang_type": "vai",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "vai_Vaii.xml"
+    },
+    {
+      "lang": "vai-Vaii-LR",
+      "lang_type": "vai",
+      "territory": "LR",
+      "definitions": 0,
+      "default": 0,
+      "file": "vai_Vaii_LR.xml"
+    },
+    {
+      "lang": "ve",
+      "lang_type": "ve",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "ve.xml"
+    },
+    {
+      "lang": "ve-ZA",
+      "lang_type": "ve",
+      "territory": "ZA",
+      "definitions": 0,
+      "default": 0,
+      "file": "ve_ZA.xml"
+    },
+    {
+      "lang": "vec",
+      "lang_type": "vec",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "vec.xml"
+    },
+    {
+      "lang": "vec-IT",
+      "lang_type": "vec",
+      "territory": "IT",
+      "definitions": 0,
+      "default": 0,
+      "file": "vec_IT.xml"
+    },
+    {
+      "lang": "vi",
+      "lang_type": "vi",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "vi.xml"
+    },
+    {
+      "lang": "vi-VN",
+      "lang_type": "vi",
+      "territory": "VN",
+      "definitions": 0,
+      "default": 0,
+      "file": "vi_VN.xml"
+    },
+    {
+      "lang": "vmw",
+      "lang_type": "vmw",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "vmw.xml"
+    },
+    {
+      "lang": "vmw-MZ",
+      "lang_type": "vmw",
+      "territory": "MZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "vmw_MZ.xml"
+    },
+    {
+      "lang": "vo",
+      "lang_type": "vo",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "vo.xml"
+    },
+    {
+      "lang": "vo-001",
+      "lang_type": "vo",
+      "territory": "001",
+      "definitions": 0,
+      "default": 0,
+      "file": "vo_001.xml"
+    },
+    {
+      "lang": "vun",
+      "lang_type": "vun",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "vun.xml"
+    },
+    {
+      "lang": "vun-TZ",
+      "lang_type": "vun",
+      "territory": "TZ",
+      "definitions": 0,
+      "default": 0,
+      "file": "vun_TZ.xml"
+    },
+    {
+      "lang": "wa",
+      "lang_type": "wa",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "wa.xml"
+    },
+    {
+      "lang": "wa-BE",
+      "lang_type": "wa",
+      "territory": "BE",
+      "definitions": 0,
+      "default": 0,
+      "file": "wa_BE.xml"
+    },
+    {
+      "lang": "wae",
+      "lang_type": "wae",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "wae.xml"
+    },
+    {
+      "lang": "wae-CH",
+      "lang_type": "wae",
+      "territory": "CH",
+      "definitions": 0,
+      "default": 0,
+      "file": "wae_CH.xml"
+    },
+    {
+      "lang": "wal",
+      "lang_type": "wal",
+      "territory": "",
+      "definitions": 4,
+      "default": 0,
+      "file": "wal.xml"
+    },
+    {
+      "lang": "wal-ET",
+      "lang_type": "wal",
+      "territory": "ET",
+      "definitions": 0,
+      "default": 0,
+      "file": "wal_ET.xml"
+    },
+    {
+      "lang": "wbp",
+      "lang_type": "wbp",
+      "territory": "",
+      "definitions": 2,
+      "default": 0,
+      "file": "wbp.xml"
+    },
+    {
+      "lang": "wbp-AU",
+      "lang_type": "wbp",
+      "territory": "AU",
+      "definitions": 0,
+      "default": 0,
+      "file": "wbp_AU.xml"
+    },
+    {
+      "lang": "wo",
+      "lang_type": "wo",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "wo.xml"
+    },
+    {
+      "lang": "wo-SN",
+      "lang_type": "wo",
+      "territory": "SN",
+      "definitions": 0,
+      "default": 0,
+      "file": "wo_SN.xml"
+    },
+    {
+      "lang": "xh",
+      "lang_type": "xh",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "xh.xml"
+    },
+    {
+      "lang": "xh-ZA",
+      "lang_type": "xh",
+      "territory": "ZA",
+      "definitions": 0,
+      "default": 0,
+      "file": "xh_ZA.xml"
+    },
+    {
+      "lang": "xnr",
+      "lang_type": "xnr",
+      "territory": "",
+      "definitions": 8,
+      "default": 0,
+      "file": "xnr.xml"
+    },
+    {
+      "lang": "xnr-IN",
+      "lang_type": "xnr",
+      "territory": "IN",
+      "definitions": 0,
+      "default": 0,
+      "file": "xnr_IN.xml"
+    },
+    {
+      "lang": "xog",
+      "lang_type": "xog",
+      "territory": "",
+      "definitions": 5,
+      "default": 0,
+      "file": "xog.xml"
+    },
+    {
+      "lang": "xog-UG",
+      "lang_type": "xog",
+      "territory": "UG",
+      "definitions": 0,
+      "default": 0,
+      "file": "xog_UG.xml"
+    },
+    {
+      "lang": "yav",
+      "lang_type": "yav",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "yav.xml"
+    },
+    {
+      "lang": "yav-CM",
+      "lang_type": "yav",
+      "territory": "CM",
+      "definitions": 0,
+      "default": 0,
+      "file": "yav_CM.xml"
+    },
+    {
+      "lang": "yi",
+      "lang_type": "yi",
+      "territory": "",
+      "definitions": 7,
+      "default": 0,
+      "file": "yi.xml"
+    },
+    {
+      "lang": "yi-UA",
+      "lang_type": "yi",
+      "territory": "UA",
+      "definitions": 0,
+      "default": 0,
+      "file": "yi_UA.xml"
+    },
+    {
+      "lang": "yo",
+      "lang_type": "yo",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "yo.xml"
+    },
+    {
+      "lang": "yo-BJ",
+      "lang_type": "yo",
+      "territory": "BJ",
+      "definitions": 9,
+      "default": 0,
+      "file": "yo_BJ.xml"
+    },
+    {
+      "lang": "yo-NG",
+      "lang_type": "yo",
+      "territory": "NG",
+      "definitions": 0,
+      "default": 0,
+      "file": "yo_NG.xml"
+    },
+    {
+      "lang": "yrl",
+      "lang_type": "yrl",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "yrl.xml"
+    },
+    {
+      "lang": "yrl-BR",
+      "lang_type": "yrl",
+      "territory": "BR",
+      "definitions": 0,
+      "default": 0,
+      "file": "yrl_BR.xml"
+    },
+    {
+      "lang": "yrl-CO",
+      "lang_type": "yrl",
+      "territory": "CO",
+      "definitions": 6,
+      "default": 0,
+      "file": "yrl_CO.xml"
+    },
+    {
+      "lang": "yrl-VE",
+      "lang_type": "yrl",
+      "territory": "VE",
+      "definitions": 6,
+      "default": 0,
+      "file": "yrl_VE.xml"
+    },
+    {
+      "lang": "yue",
+      "lang_type": "yue",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "yue.xml"
+    },
+    {
+      "lang": "yue-Hans",
+      "lang_type": "yue",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "yue_Hans.xml"
+    },
+    {
+      "lang": "yue-Hans-CN",
+      "lang_type": "yue",
+      "territory": "CN",
+      "definitions": 0,
+      "default": 0,
+      "file": "yue_Hans_CN.xml"
+    },
+    {
+      "lang": "yue-Hant",
+      "lang_type": "yue",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "yue_Hant.xml"
+    },
+    {
+      "lang": "yue-Hant-CN",
+      "lang_type": "yue",
+      "territory": "CN",
+      "definitions": 1,
+      "default": 0,
+      "file": "yue_Hant_CN.xml"
+    },
+    {
+      "lang": "yue-Hant-HK",
+      "lang_type": "yue",
+      "territory": "HK",
+      "definitions": 0,
+      "default": 0,
+      "file": "yue_Hant_HK.xml"
+    },
+    {
+      "lang": "yue-Hant-MO",
+      "lang_type": "yue",
+      "territory": "MO",
+      "definitions": 0,
+      "default": 0,
+      "file": "yue_Hant_MO.xml"
+    },
+    {
+      "lang": "za",
+      "lang_type": "za",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "za.xml"
+    },
+    {
+      "lang": "za-CN",
+      "lang_type": "za",
+      "territory": "CN",
+      "definitions": 0,
+      "default": 0,
+      "file": "za_CN.xml"
+    },
+    {
+      "lang": "zgh",
+      "lang_type": "zgh",
+      "territory": "",
+      "definitions": 6,
+      "default": 0,
+      "file": "zgh.xml"
+    },
+    {
+      "lang": "zgh-MA",
+      "lang_type": "zgh",
+      "territory": "MA",
+      "definitions": 0,
+      "default": 0,
+      "file": "zgh_MA.xml"
+    },
+    {
+      "lang": "zh",
+      "lang_type": "zh",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "zh.xml"
+    },
+    {
+      "lang": "zh-Hans",
+      "lang_type": "zh",
+      "territory": "",
+      "definitions": 0,
+      "default": 0,
+      "file": "zh_Hans.xml"
+    },
+    {
+      "lang": "zh-Hans-CN",
+      "lang_type": "zh",
+      "territory": "CN",
+      "definitions": 0,
+      "default": 0,
+      "file": "zh_Hans_CN.xml"
+    },
+    {
+      "lang": "zh-Hans-HK",
+      "lang_type": "zh",
+      "territory": "HK",
+      "definitions": 3,
+      "default": 0,
+      "file": "zh_Hans_HK.xml"
+    },
+    {
+      "lang": "zh-Hans-MO",
+      "lang_type": "zh",
+      "territory": "MO",
+      "definitions": 3,
+      "default": 0,
+      "file": "zh_Hans_MO.xml"
+    },
+    {
+      "lang": "zh-Hans-MY",
+      "lang_type": "zh",
+      "territory": "MY",
+      "definitions": 3,
+      "default": 0,
+      "file": "zh_Hans_MY.xml"
+    },
+    {
+      "lang": "zh-Hans-SG",
+      "lang_type": "zh",
+      "territory": "SG",
+      "definitions": 3,
+      "default": 0,
+      "file": "zh_Hans_SG.xml"
+    },
+    {
+      "lang": "zh-Hant",
+      "lang_type": "zh",
+      "territory": "",
+      "definitions": 11,
+      "default": 0,
+      "file": "zh_Hant.xml"
+    },
+    {
+      "lang": "zh-Hant-HK",
+      "lang_type": "zh",
+      "territory": "HK",
+      "definitions": 9,
+      "default": 0,
+      "file": "zh_Hant_HK.xml"
+    },
+    {
+      "lang": "zh-Hant-MO",
+      "lang_type": "zh",
+      "territory": "MO",
+      "definitions": 2,
+      "default": 0,
+      "file": "zh_Hant_MO.xml"
+    },
+    {
+      "lang": "zh-Hant-MY",
+      "lang_type": "zh",
+      "territory": "MY",
+      "definitions": 1,
+      "default": 0,
+      "file": "zh_Hant_MY.xml"
+    },
+    {
+      "lang": "zh-Hant-TW",
+      "lang_type": "zh",
+      "territory": "TW",
+      "definitions": 0,
+      "default": 0,
+      "file": "zh_Hant_TW.xml"
+    },
+    {
+      "lang": "zh-Latn",
+      "lang_type": "zh",
+      "territory": "",
+      "definitions": 1,
+      "default": 0,
+      "file": "zh_Latn.xml"
+    },
+    {
+      "lang": "zh-Latn-CN",
+      "lang_type": "zh",
+      "territory": "CN",
+      "definitions": 0,
+      "default": 0,
+      "file": "zh_Latn_CN.xml"
+    },
+    {
+      "lang": "zu",
+      "lang_type": "zu",
+      "territory": "",
+      "definitions": 10,
+      "default": 0,
+      "file": "zu.xml"
+    },
+    {
+      "lang": "zu-ZA",
+      "lang_type": "zu",
+      "territory": "ZA",
+      "definitions": 0,
+      "default": 0,
+      "file": "zu_ZA.xml"
+    }
+  ],
+  "meta": {
+    "title": "IETF Language Tags (BCP 47 / CLDR) - Free Download",
+    "description": "1122 IETF language tags from the Unicode CLDR registry, including language, lang type, territory variant, definition count, and source file. Contains 1122 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "IETF Language Tags (BCP 47 / CLDR) | ListBase",
+    "seo_description": "Download IETF Language Tags (BCP 47 / CLDR) — 1122 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1122 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/language-codes"
+    ]
+  }
+}

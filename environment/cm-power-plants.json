@@ -1,0 +1,250 @@
+{
+  "id": "cm-power-plants",
+  "name": "Cameroon — Power Plants",
+  "title": "Cameroon — Power Plants",
+  "description": "Power plants located in Cameroon from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Song Loulou",
+      "gppd_idnr": "WRI1023036",
+      "capacity_mw": 396,
+      "latitude": 4.078,
+      "longitude": 10.4649,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1980.09; 2014: 1980.09; 2015: 1980.09; 2016: 1985.52; 2017: 1897.03",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kribi",
+      "gppd_idnr": "WRI1023033",
+      "capacity_mw": 200,
+      "latitude": 3.01,
+      "longitude": 9.96,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Edea",
+      "gppd_idnr": "WRI1023031",
+      "capacity_mw": 154.2,
+      "latitude": 3.8127,
+      "longitude": 10.1278,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 794.79; 2014: 794.79; 2015: 794.79; 2016: 796.96; 2017: 772.49",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Lagdo",
+      "gppd_idnr": "WRI1023034",
+      "capacity_mw": 80,
+      "latitude": 9.0594,
+      "longitude": 13.6882,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 313.81; 2014: 307.95; 2015: 313.81; 2016: 323.9; 2017: 313.81",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Garoua",
+      "gppd_idnr": "WRI1023032",
+      "capacity_mw": 16,
+      "latitude": 9.3,
+      "longitude": 13.4,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 102.49",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Douala Bassa",
+      "gppd_idnr": "WRI1023030",
+      "capacity_mw": 14.14,
+      "latitude": 4.05,
+      "longitude": 9.7,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 90.57",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Bafoussam",
+      "gppd_idnr": "WRI1023028",
+      "capacity_mw": 10.62,
+      "latitude": 5.4667,
+      "longitude": 10.4167,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 68.02",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Limbe",
+      "gppd_idnr": "WRI1023035",
+      "capacity_mw": 10.62,
+      "latitude": 4.0167,
+      "longitude": 9.2,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 68.02",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Cameroon — Power Plants - Free Download",
+    "description": "Power plants located in Cameroon from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cameroon — Power Plants | ListBase",
+    "seo_description": "Download Cameroon — Power Plants dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

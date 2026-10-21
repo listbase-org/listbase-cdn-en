@@ -1,0 +1,271 @@
+{
+  "id": "fo-political-parties",
+  "name": "Faroe Islands — Political Parties",
+  "title": "Faroe Islands — Political Parties",
+  "description": "Political parties of Faroe Islands from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6177,
+      "name_short": "Sjfl",
+      "name": "Sjálvstýrisflokkurin",
+      "name_english": "Home Rule Party",
+      "name_other": "",
+      "year_first": 1906,
+      "year_last": "",
+      "share": 51.7,
+      "share_year": 1916,
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Self-Government",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5524,
+      "name_short": "JF",
+      "name": "Javnaðarflokkurin",
+      "name_english": "Social Democratic Party",
+      "name_other": "",
+      "year_first": 1925,
+      "year_last": 2015,
+      "share": 25.1,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_Democratic_Party_(Faroe_Islands)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5523,
+      "name_short": "TF",
+      "name": "Tjóðveldi / Tjóðveldisflokkurin",
+      "name_english": "Republic  / Republican Party",
+      "name_other": "",
+      "year_first": 1948,
+      "year_last": "",
+      "share": 20.8,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/Republic_(Faroe_Islands)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5527,
+      "name_short": "FF",
+      "name": "Hin føroyski fólkaflokkurin – radikalt sjálvstýri",
+      "name_english": "Faroese People's Party – Radical Self-Government",
+      "name_other": "",
+      "year_first": 1939,
+      "year_last": "",
+      "share": 18.9,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Party_(Faroe_Islands)",
+      "description": "Center-right, liberal conservative",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5529,
+      "name_short": "UP",
+      "name": "Sambandsflokkurin",
+      "name_english": "Union Party",
+      "name_other": "",
+      "year_first": 1906,
+      "year_last": "",
+      "share": 18.7,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_Party_(Faroe_Islands)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6180,
+      "name_short": "VMF",
+      "name": "Verkamannafylkingin",
+      "name_english": "Labor Front",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": 1998,
+      "share": 9.5,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/Workers%27_Union_(Faroe_Islands)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5522,
+      "name_short": "VMF",
+      "name": "Faroese: Verkamannafylkingin",
+      "name_english": "Workers’ Movement",
+      "name_other": "Workers´Union",
+      "year_first": 1994,
+      "year_last": 1998,
+      "share": 9.5,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/Workers%27_Union_(Faroe_Islands)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6179,
+      "name_short": "KF-FFoF",
+      "name": "Kristiligi Fólkaflokkurin, Føroya Framburðs- og Fiskivinnuflokkur",
+      "name_english": "Christian People’s Party and Fishing Industry Party",
+      "name_other": "",
+      "year_first": 1984,
+      "year_last": 2006,
+      "share": 8.2,
+      "share_year": 1980,
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_People%27s_Party_(Faroe_Islands)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5525,
+      "name_short": "BP",
+      "name": "Vinnuflokkurin",
+      "name_english": "Business Party",
+      "name_other": "",
+      "year_first": 1936,
+      "year_last": 1936,
+      "share": 8.1,
+      "share_year": 1936,
+      "wikipedia": "https://en.wikipedia.org/wiki/Business_Party_(Faroe_Islands)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5530,
+      "name_short": "F",
+      "name": "Framsókn",
+      "name_english": "Progress",
+      "name_other": "",
+      "year_first": 2011,
+      "year_last": "",
+      "share": 7,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/Progress_(Faroe_Islands)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5526,
+      "name_short": "MF",
+      "name": "Miðflokkurin",
+      "name_english": "Centre Party",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 5.5,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/Centre_Party_(Faroe_Islands)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5528,
+      "name_short": "NS",
+      "name": "Nýtt Sjálvstýri",
+      "name_english": "New Self-Government Party",
+      "name_other": "",
+      "year_first": 1906,
+      "year_last": "",
+      "share": 4.1,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Self-Government",
+      "description": "Liberal, autonomist party",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Faroe Islands — Political Parties - Free Download",
+    "description": "Political parties of Faroe Islands from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Faroe Islands — Political Parties | ListBase",
+    "seo_description": "Download Faroe Islands — Political Parties dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

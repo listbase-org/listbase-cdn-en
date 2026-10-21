@@ -1,0 +1,254 @@
+{
+  "id": "cz-unesco-heritage",
+  "name": "Czech Republic — UNESCO World Heritage Sites",
+  "title": "Czech Republic — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Czech Republic, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 616,
+      "name": "Historic Centre of Prague",
+      "category": "cultural",
+      "date_inscribed": 1992,
+      "criteria": "c2, c4, c6",
+      "lat": 50.08972,
+      "lon": 14.41944,
+      "area_hectares": 1106.36,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 617,
+      "name": "Historic Centre of Cesky Krumlov",
+      "category": "cultural",
+      "date_inscribed": 1992,
+      "criteria": "c4",
+      "lat": 48.81666667,
+      "lon": 14.31666667,
+      "area_hectares": 51.91,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 621,
+      "name": "Historic Centre of Telc",
+      "category": "cultural",
+      "date_inscribed": 1992,
+      "criteria": "c1, c4",
+      "lat": 49.18333,
+      "lon": 15.45,
+      "area_hectares": 36,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 690,
+      "name": "Pilgrimage Church of St John of Nepomuk at Zelena Hora",
+      "category": "cultural",
+      "date_inscribed": 1994,
+      "criteria": "c4",
+      "lat": 49.5802,
+      "lon": 15.94205833,
+      "area_hectares": 0.64,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 732,
+      "name": "Kutna Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec",
+      "category": "cultural",
+      "date_inscribed": 1995,
+      "criteria": "c2, c4",
+      "lat": 49.95,
+      "lon": 15.26666667,
+      "area_hectares": 62.437,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 763,
+      "name": "Lednice-Valtice Cultural Landscape",
+      "category": "cultural",
+      "date_inscribed": 1996,
+      "criteria": "c1, c2, c4",
+      "lat": 48.77583,
+      "lon": 16.775,
+      "area_hectares": 14320,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 860,
+      "name": "Gardens and Castle at Kromeriz",
+      "category": "cultural",
+      "date_inscribed": 1998,
+      "criteria": "c2, c4",
+      "lat": 49.3,
+      "lon": 17.37722222,
+      "area_hectares": 74.5,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 861,
+      "name": "Holasovice Historical Village Reservation",
+      "category": "cultural",
+      "date_inscribed": 1998,
+      "criteria": "c2, c4",
+      "lat": 48.95972222,
+      "lon": 14.25277778,
+      "area_hectares": 11.4,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 901,
+      "name": "Litomysl Castle",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c2, c4",
+      "lat": 49.87361,
+      "lon": 16.31444,
+      "area_hectares": 4.4,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 859,
+      "name": "Holy Trinity Column in Olomouc",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c1, c4",
+      "lat": 49.59393611,
+      "lon": 17.25045833,
+      "area_hectares": 0.0227,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1052,
+      "name": "Tugendhat Villa in Brno",
+      "category": "cultural",
+      "date_inscribed": 2001,
+      "criteria": "c2, c4",
+      "lat": 49.20718333,
+      "lon": 16.61605556,
+      "area_hectares": 0.73,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1078,
+      "name": "Jewish Quarter and St Procopius' Basilica in Trebic",
+      "category": "cultural",
+      "date_inscribed": 2003,
+      "criteria": "c2, c3",
+      "lat": 49.21722222,
+      "lon": 15.87888889,
+      "area_hectares": 5.73,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "cz",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Czech Republic — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Czech Republic, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Czech Republic — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Czech Republic — UNESCO World Heritage Sites dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

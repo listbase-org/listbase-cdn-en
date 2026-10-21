@@ -1,0 +1,301 @@
+{
+  "id": "rw-political-parties",
+  "name": "Rwanda — Political Parties",
+  "title": "Rwanda — Political Parties",
+  "description": "Political parties of Rwanda from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6055,
+      "name_short": "MRNDD",
+      "name": "Mouvement républicain national pour la démocratie et le développement",
+      "name_english": "National Republican Movement for Democracy and Development",
+      "name_other": "",
+      "year_first": 1975,
+      "year_last": 1994,
+      "share": 100,
+      "share_year": 1981,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Republican_Movement_for_Democracy_and_Development",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3283,
+      "name_short": "FPR",
+      "name": "Front patriotique rwandais",
+      "name_english": "Rwandan Patriotic Front",
+      "name_other": "",
+      "year_first": 1987,
+      "year_last": "",
+      "share": 79.2,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rwandan_Patriotic_Front",
+      "description": "",
+      "comment": "41 seats in 2013",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5330,
+      "name_short": "MDR-Parmehutu",
+      "name": "Parti du Mouvement de l'Emancipation Hutu / Mouvement démocratique republicain – Parmehutu",
+      "name_english": "Party of the Hutu Emancipation Movement / Republican Democratic Movement – Parmehutu",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1973,
+      "share": 77.6,
+      "share_year": 1961,
+      "wikipedia": "https://en.wikipedia.org/wiki/Parmehutu",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5328,
+      "name_short": "UNAR",
+      "name": "Union Nationale Rwandaise",
+      "name_english": "Rwandese National Union",
+      "name_other": "",
+      "year_first": 1959,
+      "year_last": 1963,
+      "share": 16.9,
+      "share_year": 1960,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rwandese_National_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3658,
+      "name_short": "PSD",
+      "name": "Parti social démocrate",
+      "name_english": "Social Democratic Party",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 13.1,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_Democratic_Party_%28Rwanda%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5701,
+      "name_short": "PDC",
+      "name": "Parti Democrate Centrist",
+      "name_english": "Centrist Democratic Party",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 8.6,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/Centrist_Democratic_Party_(Rwanda)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3657,
+      "name_short": "PL",
+      "name": "Parti libéral",
+      "name_english": "Liberal Party",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 7.5,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberal_Party_%28Rwanda%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7995,
+      "name_short": "PS-I",
+      "name": "Parti Social Imberakuri",
+      "name_english": "Social Party Imberakuri",
+      "name_other": "Kinyarwanda: Ishyaka ry’Imberakuri Riharanira Imibereho Myiza",
+      "year_first": 2008,
+      "year_last": "",
+      "share": 4.6,
+      "share_year": 2018,
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_Party_Imberakuri",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7996,
+      "name_short": "PVDR",
+      "name": "Parti vert démocratique du Rwanda",
+      "name_english": "Democratic Green Party of Rwanda",
+      "name_other": "",
+      "year_first": 2009,
+      "year_last": "",
+      "share": 4.6,
+      "share_year": 2018,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Green_Party_of_Rwanda",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8442,
+      "name_short": "MDR",
+      "name": "Mouvement démocratique républicain",
+      "name_english": "Republican Democratic Movement",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": 2003,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Republican_Democratic_Movement",
+      "description": "Prime minister 1992-2003",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7645,
+      "name_short": "PSR",
+      "name": "Parti Socialiste Rwandais",
+      "name_english": "Rwandan Socialist Party",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rwandan_Socialist_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7642,
+      "name_short": "UDPR",
+      "name": "Union Démocratique du Peuple Rwandais",
+      "name_english": "Democratic Union of the Rwandan People",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Union_of_the_Rwandan_People",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7643,
+      "name_short": "PDI",
+      "name": "Parti Démocratique Idéal",
+      "name_english": "Ideal Democratic Party",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ideal_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7644,
+      "name_short": "PPC",
+      "name": "Parti pour le Progrès et la Concorde",
+      "name_english": "Party for Progress and Concord",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_for_Progress_and_Concord",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Rwanda — Political Parties - Free Download",
+    "description": "Political parties of Rwanda from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rwanda — Political Parties | ListBase",
+    "seo_description": "Download Rwanda — Political Parties dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

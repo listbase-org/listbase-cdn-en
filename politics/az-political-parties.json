@@ -1,0 +1,241 @@
+{
+  "id": "az-political-parties",
+  "name": "Azerbaijan — Political Parties",
+  "title": "Azerbaijan — Political Parties",
+  "description": "Political parties of Azerbaijan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6223,
+      "name_short": "AKP",
+      "name": "Azərbaycan Kommunist Partiyası",
+      "name_english": "Communist Party of Azerbaijan (1921)",
+      "name_other": "Russian: Коммунистическая партия Азербайджана",
+      "year_first": 1920,
+      "year_last": 1991,
+      "share": 100,
+      "share_year": 1990,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Azerbaijan",
+      "description": "",
+      "comment": "Part of Union of Communist Parties – Communist Party of the Soviet Union",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1995,
+      "name_short": "YAP",
+      "name": "Yeni Azerbaycan Partiyasi",
+      "name_english": "New Azerbaijan Party",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 66.1,
+      "share_year": 1995,
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Azerbaijan_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1992,
+      "name_short": "AXC",
+      "name": "Azerbaycan Xalq Cebhesi",
+      "name_english": "Azerbaijan Popular Front",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 11,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Azerbaijani_Popular_Front_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1991,
+      "name_short": "AMIP",
+      "name": "Azerbaycan Milli Istiqlal Partiyasi",
+      "name_english": "Azerbaijan National Independence Party",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": 2000,
+      "share": 9.8,
+      "share_year": 1995,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5877,
+      "name_short": "AUP",
+      "name": "Azərbaycan Ümid Partiyası",
+      "name_english": "Azerbaijan Hope Party",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": "",
+      "share": 7.8,
+      "share_year": 2016,
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_of_Hope_(Azerbaijan)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1994,
+      "name_short": "VHP",
+      "name": "Vatandas Hamrayliyi Partiyasi",
+      "name_english": "Civil Solidarity Party",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": 2000,
+      "share": 6.4,
+      "share_year": 2000,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1993,
+      "name_short": "ACP",
+      "name": "Azərbaycan Kommunist Partiyası",
+      "name_english": "Azerbaijan Communist Party (1993)",
+      "name_other": "Azerbaijani: Азəрбаjҹан Коммунист Партиjасы",
+      "year_first": 1993,
+      "year_last": "",
+      "share": 6.3,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Azerbaijan_Communist_Party_(1993)",
+      "description": "Part of Union of Communist Parties – Communist Party of the Soviet Union",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1990,
+      "name_short": "AMDP",
+      "name": "Azerbaycan Müsteqil Demokrat Partiyasi",
+      "name_english": "Azerbaijan Independence Democrat Party",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": 1995,
+      "share": 4.2,
+      "share_year": 1995,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7050,
+      "name_short": "Musavat",
+      "name": "Müsavat Partiyası",
+      "name_english": "Equality Party",
+      "name_other": "",
+      "year_first": 1911,
+      "year_last": "",
+      "share": 4,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Musavat",
+      "description": "5 of 125 seats in 2005 Azerbaijani parliamentary election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3628,
+      "name_short": "M",
+      "name": "Musavat",
+      "name_english": "Musavat Party",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": "",
+      "share": 2,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/Musavat#New_Musavat",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Azerbaijan — Political Parties - Free Download",
+    "description": "Political parties of Azerbaijan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Azerbaijan — Political Parties | ListBase",
+    "seo_description": "Download Azerbaijan — Political Parties dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

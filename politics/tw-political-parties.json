@@ -1,0 +1,241 @@
+{
+  "id": "tw-political-parties",
+  "name": "Taiwan — Political Parties",
+  "title": "Taiwan — Political Parties",
+  "description": "Political parties of Taiwan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 1112,
+      "name_short": "KMT",
+      "name": "Kuomintang",
+      "name_english": "Nationalist Party",
+      "name_other": "",
+      "year_first": 1919,
+      "year_last": "",
+      "share": 90.5,
+      "share_year": 1986,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kuomintang",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1596,
+      "name_short": "DDP",
+      "name": "Minjin Dang",
+      "name_english": "Democratic Progressive Party",
+      "name_other": "",
+      "year_first": 1986,
+      "year_last": "",
+      "share": 47.6,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Progressive_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3665,
+      "name_short": "PFP",
+      "name": "Qinmin dang",
+      "name_english": "People First Party",
+      "name_other": "Chinese: 親民黨; pinyin: Qīnmíndǎng",
+      "year_first": 2000,
+      "year_last": "",
+      "share": 15.5,
+      "share_year": 2001,
+      "wikipedia": "https://en.wikipedia.org/wiki/People_First_Party_%28Republic_of_China%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3666,
+      "name_short": "C/NP",
+      "name": "Xin dang",
+      "name_english": "Chinese / New Party",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": "",
+      "share": 7.7,
+      "share_year": 1995,
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Party_%28Republic_of_China%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5935,
+      "name_short": "NPP",
+      "name": "Shídài Lìliàng",
+      "name_english": "New Power Party",
+      "name_other": "Chinese: 時代力量",
+      "year_first": 2016,
+      "year_last": "",
+      "share": 6.1,
+      "share_year": 2016,
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Power_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5936,
+      "name_short": "NPSU",
+      "name": "Wúdǎng Tuánjié Liánméng",
+      "name_english": "Non-Partisan Solidarity Union",
+      "name_other": "Chinese: 無黨團結聯盟",
+      "year_first": 2004,
+      "year_last": 2016,
+      "share": 3.9,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/Non-Partisan_Solidarity_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3664,
+      "name_short": "TSU",
+      "name": "Taiwan tuanjie lianmeng",
+      "name_english": "Taiwan Solidarity Union",
+      "name_other": "Chinese: 台灣團結聯盟; pinyin: Táiwān Tuánjié Liánméng",
+      "year_first": 2001,
+      "year_last": "",
+      "share": 3.7,
+      "share_year": 2001,
+      "wikipedia": "https://en.wikipedia.org/wiki/Taiwan_Solidarity_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6998,
+      "name_short": "GPT",
+      "name": "Tâi-ôan Le̍k Tóng",
+      "name_english": "Green Party Taiwan",
+      "name_other": "Chinese: 台灣綠黨; pinyin: Táiwān Lǜ Dǎng",
+      "year_first": 1996,
+      "year_last": "",
+      "share": 1.7,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Green_Party_Taiwan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7788,
+      "name_short": "PBC",
+      "name": "Pan-Blue Coalition",
+      "name_english": "Pan-Blue Coalition",
+      "name_other": "Traditional Chinese: 泛藍聯盟",
+      "year_first": 2000,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pan-Blue_Coalition",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7789,
+      "name_short": "PGC",
+      "name": "Pan-Green Coalition",
+      "name_english": "Pan-Green Coalition",
+      "name_other": "Traditional Chinese:  泛綠聯盟",
+      "year_first": 2000,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pan-Green_Coalition",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Taiwan — Political Parties - Free Download",
+    "description": "Political parties of Taiwan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Taiwan — Political Parties | ListBase",
+    "seo_description": "Download Taiwan — Political Parties dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "id": "kw-political-parties",
+  "name": "Kuwait — Political Parties",
+  "title": "Kuwait — Political Parties",
+  "description": "Political parties of Kuwait from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 7457,
+      "name_short": "Si",
+      "name": "Sunni Islamists",
+      "name_english": "Sunni Islamists [no-party]",
+      "name_other": "",
+      "year_first": 2008,
+      "year_last": "",
+      "share": 76.2,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/2008_Kuwaiti_general_election",
+      "description": "16 of 21 seats in 2008 Kuwaiti general election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7458,
+      "name_short": "I",
+      "name": "Islamists",
+      "name_english": "Islamists [no-party]",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": "",
+      "share": 42,
+      "share_year": 2003,
+      "wikipedia": "https://en.wikipedia.org/wiki/2003_Kuwaiti_general_election",
+      "description": "21 of 50 seats in 2003_Kuwaiti_general_election. // Consists of Sunni and Shia people (source: Wikipedia).",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7454,
+      "name_short": "PG",
+      "name": "Pro-Government",
+      "name_english": "Pro-Government [no-party]",
+      "name_other": "",
+      "year_first": 1963,
+      "year_last": "",
+      "share": 38,
+      "share_year": 1963,
+      "wikipedia": "https://en.wikipedia.org/wiki/1963_Kuwaiti_general_election",
+      "description": "19 of 50 seats in 1963 Kuwaiti general election. // Consists of some tribal groups and merchants (source: Nohlen).",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7450,
+      "name_short": "MG",
+      "name": "Merchants",
+      "name_english": "Merchants [no-party]",
+      "name_other": "",
+      "year_first": 1961,
+      "year_last": "",
+      "share": 32.3,
+      "share_year": 1961,
+      "wikipedia": "https://en.wikipedia.org/wiki/1961_Kuwaiti_Constitutional_Convention_election",
+      "description": "10 of 31 seats in 1961 Kuwaiti Constitutional Convention election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5276,
+      "name_short": "NDA",
+      "name": "National Democratic Alliance",
+      "name_english": "National Democratic Alliance",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 26,
+      "share_year": 1991,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Democratic_Alliance_(Kuwait)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7451,
+      "name_short": "L",
+      "name": "Liberals",
+      "name_english": "Liberals [no-party]",
+      "name_other": "",
+      "year_first": 1961,
+      "year_last": "",
+      "share": 16.1,
+      "share_year": 1961,
+      "wikipedia": "https://en.wikipedia.org/wiki/1961_Kuwaiti_Constitutional_Convention_election",
+      "description": "5 of 31 seats in 1961 Kuwaiti Constitutional Convention election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7456,
+      "name_short": "SO",
+      "name": "Secular Opposition",
+      "name_english": "Secular Opposition [no-party]",
+      "name_other": "",
+      "year_first": 1963,
+      "year_last": "",
+      "share": 16,
+      "share_year": 1963,
+      "wikipedia": "https://en.wikipedia.org/wiki/1963_Kuwaiti_general_election",
+      "description": "8 of 50 seats in 1963_Kuwaiti_general_election. // Consists of Arab nationalist, National Alliance, Kuwait Democratic Forum etc. (source: Nohlen).",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7455,
+      "name_short": "Su",
+      "name": "Sunni",
+      "name_english": "Sunni Religious [no-party]",
+      "name_other": "",
+      "year_first": 1963,
+      "year_last": "",
+      "share": 13,
+      "share_year": 1971,
+      "wikipedia": "https://en.wikipedia.org/wiki/1971_Kuwaiti_general_election",
+      "description": "7 of 50 seats in 1971 Kuwaiti general election. // Consists of Islamic Constitutional, Movement, Islamic Popular Grouping etc. (source: Nohlen).",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5275,
+      "name_short": "PAB",
+      "name": "Popular Action Bloc",
+      "name_english": "Popular Action Bloc",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 2012,
+      "share": 12,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Popular_Action_Bloc",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7452,
+      "name_short": "TCTG",
+      "name": "Tribal candidates // Tribal groups",
+      "name_english": "Tribal candidates // Tribal groups [no-party]",
+      "name_other": "",
+      "year_first": 1961,
+      "year_last": "",
+      "share": 9.7,
+      "share_year": 1961,
+      "wikipedia": "https://en.wikipedia.org/wiki/1961_Kuwaiti_Constitutional_Convention_election",
+      "description": "3 of 31 seats in 1961 Kuwaiti Constitutional Convention election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7453,
+      "name_short": "Sh",
+      "name": "Shi'ite",
+      "name_english": "Shi'ite Religious [no-party]",
+      "name_other": "",
+      "year_first": 1961,
+      "year_last": "",
+      "share": 6.5,
+      "share_year": 1961,
+      "wikipedia": "https://en.wikipedia.org/wiki/1961_Kuwaiti_Constitutional_Convention_election",
+      "description": "2 of 31 seats in 1961 Kuwaiti Constitutional Convention election. // Consists of National Islamic Coalition etc. (source: Nohlen).",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Kuwait — Political Parties - Free Download",
+    "description": "Political parties of Kuwait from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kuwait — Political Parties | ListBase",
+    "seo_description": "Download Kuwait — Political Parties dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

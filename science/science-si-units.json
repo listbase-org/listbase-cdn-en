@@ -1,0 +1,493 @@
+{
+  "id": "science-si-units",
+  "name": "International System of Units (SI Units) Dataset",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "quantity",
+      "label": "Quantity",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "definition",
+      "label": "Definition",
+      "type": "string"
+    },
+    {
+      "key": "dimension",
+      "label": "Dimension",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "metre",
+      "symbol": "m",
+      "quantity": "length",
+      "type": "Base Unit",
+      "definition": "Distance light travels in 1/299,792,458 second",
+      "dimension": "L"
+    },
+    {
+      "name": "kilogram",
+      "symbol": "kg",
+      "quantity": "mass",
+      "type": "Base Unit",
+      "definition": "Defined by Planck constant h = 6.62607015×10⁻³⁴ J·s",
+      "dimension": "M"
+    },
+    {
+      "name": "second",
+      "symbol": "s",
+      "quantity": "time",
+      "type": "Base Unit",
+      "definition": "9,192,631,770 periods of cesium-133 radiation",
+      "dimension": "T"
+    },
+    {
+      "name": "ampere",
+      "symbol": "A",
+      "quantity": "electric current",
+      "type": "Base Unit",
+      "definition": "Defined by elementary charge e = 1.602176634×10⁻¹⁹ C",
+      "dimension": "I"
+    },
+    {
+      "name": "kelvin",
+      "symbol": "K",
+      "quantity": "thermodynamic temperature",
+      "type": "Base Unit",
+      "definition": "Defined by Boltzmann constant k = 1.380649×10⁻²³ J/K",
+      "dimension": "Θ"
+    },
+    {
+      "name": "mole",
+      "symbol": "mol",
+      "quantity": "amount of substance",
+      "type": "Base Unit",
+      "definition": "Exactly 6.02214076×10²³ elementary entities",
+      "dimension": "N"
+    },
+    {
+      "name": "candela",
+      "symbol": "cd",
+      "quantity": "luminous intensity",
+      "type": "Base Unit",
+      "definition": "Luminous efficacy Kcd = 683 lm/W at 540 THz",
+      "dimension": "J"
+    },
+    {
+      "name": "hertz",
+      "symbol": "Hz",
+      "quantity": "frequency",
+      "type": "Derived Unit",
+      "definition": "s⁻¹",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "newton",
+      "symbol": "N",
+      "quantity": "force",
+      "type": "Derived Unit",
+      "definition": "kg·m·s⁻²",
+      "dimension": "M·L·T⁻²"
+    },
+    {
+      "name": "pascal",
+      "symbol": "Pa",
+      "quantity": "pressure, stress",
+      "type": "Derived Unit",
+      "definition": "N/m² = kg·m⁻¹·s⁻²",
+      "dimension": "M·L⁻¹·T⁻²"
+    },
+    {
+      "name": "joule",
+      "symbol": "J",
+      "quantity": "energy, work, heat",
+      "type": "Derived Unit",
+      "definition": "N·m = kg·m²·s⁻²",
+      "dimension": "M·L²·T⁻²"
+    },
+    {
+      "name": "watt",
+      "symbol": "W",
+      "quantity": "power, radiant flux",
+      "type": "Derived Unit",
+      "definition": "J/s = kg·m²·s⁻³",
+      "dimension": "M·L²·T⁻³"
+    },
+    {
+      "name": "coulomb",
+      "symbol": "C",
+      "quantity": "electric charge",
+      "type": "Derived Unit",
+      "definition": "A·s",
+      "dimension": "T·I"
+    },
+    {
+      "name": "volt",
+      "symbol": "V",
+      "quantity": "electric potential",
+      "type": "Derived Unit",
+      "definition": "W/A = kg·m²·s⁻³·A⁻¹",
+      "dimension": "M·L²·T⁻³·I⁻¹"
+    },
+    {
+      "name": "farad",
+      "symbol": "F",
+      "quantity": "capacitance",
+      "type": "Derived Unit",
+      "definition": "C/V = kg⁻¹·m⁻²·s⁴·A²",
+      "dimension": "M⁻¹·L⁻²·T⁴·I²"
+    },
+    {
+      "name": "ohm",
+      "symbol": "Ω",
+      "quantity": "electrical resistance",
+      "type": "Derived Unit",
+      "definition": "V/A = kg·m²·s⁻³·A⁻²",
+      "dimension": "M·L²·T⁻³·I⁻²"
+    },
+    {
+      "name": "siemens",
+      "symbol": "S",
+      "quantity": "electrical conductance",
+      "type": "Derived Unit",
+      "definition": "A/V = kg⁻¹·m⁻²·s³·A²",
+      "dimension": "M⁻¹·L⁻²·T³·I²"
+    },
+    {
+      "name": "weber",
+      "symbol": "Wb",
+      "quantity": "magnetic flux",
+      "type": "Derived Unit",
+      "definition": "V·s = kg·m²·s⁻²·A⁻¹",
+      "dimension": "M·L²·T⁻²·I⁻¹"
+    },
+    {
+      "name": "tesla",
+      "symbol": "T",
+      "quantity": "magnetic flux density",
+      "type": "Derived Unit",
+      "definition": "Wb/m² = kg·s⁻²·A⁻¹",
+      "dimension": "M·T⁻²·I⁻¹"
+    },
+    {
+      "name": "henry",
+      "symbol": "H",
+      "quantity": "inductance",
+      "type": "Derived Unit",
+      "definition": "Wb/A = kg·m²·s⁻²·A⁻²",
+      "dimension": "M·L²·T⁻²·I⁻²"
+    },
+    {
+      "name": "degree Celsius",
+      "symbol": "°C",
+      "quantity": "temperature",
+      "type": "Derived Unit",
+      "definition": "K - 273.15",
+      "dimension": "Θ"
+    },
+    {
+      "name": "lumen",
+      "symbol": "lm",
+      "quantity": "luminous flux",
+      "type": "Derived Unit",
+      "definition": "cd·sr",
+      "dimension": "J"
+    },
+    {
+      "name": "lux",
+      "symbol": "lx",
+      "quantity": "illuminance",
+      "type": "Derived Unit",
+      "definition": "lm/m² = cd·sr·m⁻²",
+      "dimension": "J·L⁻²"
+    },
+    {
+      "name": "becquerel",
+      "symbol": "Bq",
+      "quantity": "radioactivity",
+      "type": "Derived Unit",
+      "definition": "s⁻¹ (decays per second)",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "gray",
+      "symbol": "Gy",
+      "quantity": "absorbed dose",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "sievert",
+      "symbol": "Sv",
+      "quantity": "equivalent dose",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "katal",
+      "symbol": "kat",
+      "quantity": "catalytic activity",
+      "type": "Derived Unit",
+      "definition": "mol·s⁻¹",
+      "dimension": "N·T⁻¹"
+    },
+    {
+      "name": "radian",
+      "symbol": "rad",
+      "quantity": "plane angle",
+      "type": "Derived Unit",
+      "definition": "m/m = 1 (dimensionless)",
+      "dimension": "1"
+    },
+    {
+      "name": "steradian",
+      "symbol": "sr",
+      "quantity": "solid angle",
+      "type": "Derived Unit",
+      "definition": "m²/m² = 1 (dimensionless)",
+      "dimension": "1"
+    },
+    {
+      "name": "quetta",
+      "symbol": "Q",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10³⁰",
+      "dimension": "-"
+    },
+    {
+      "name": "ronna",
+      "symbol": "R",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "yotta",
+      "symbol": "Y",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "zetta",
+      "symbol": "Z",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "exa",
+      "symbol": "E",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "peta",
+      "symbol": "P",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "tera",
+      "symbol": "T",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "giga",
+      "symbol": "G",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "mega",
+      "symbol": "M",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "kilo",
+      "symbol": "k",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10³",
+      "dimension": "-"
+    },
+    {
+      "name": "hecto",
+      "symbol": "h",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10²",
+      "dimension": "-"
+    },
+    {
+      "name": "deca",
+      "symbol": "da",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10¹",
+      "dimension": "-"
+    },
+    {
+      "name": "deci",
+      "symbol": "d",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻¹",
+      "dimension": "-"
+    },
+    {
+      "name": "centi",
+      "symbol": "c",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻²",
+      "dimension": "-"
+    },
+    {
+      "name": "milli",
+      "symbol": "m",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻³",
+      "dimension": "-"
+    },
+    {
+      "name": "micro",
+      "symbol": "μ",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "nano",
+      "symbol": "n",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "pico",
+      "symbol": "p",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "femto",
+      "symbol": "f",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "atto",
+      "symbol": "a",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "zepto",
+      "symbol": "z",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "yocto",
+      "symbol": "y",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "ronto",
+      "symbol": "r",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "quecto",
+      "symbol": "q",
+      "quantity": "SI prefix",
+      "type": "Prefix",
+      "definition": "10⁻³⁰",
+      "dimension": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "SI Units & Definitions - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download 53 SI Units with definitions, symbols, and dimensions for free. Available in Excel, CSV, and PDF formats for science, education, and development.",
+    "title": "International System of Units (SI Units) Dataset",
+    "description": "This comprehensive dataset contains 53 fundamental and derived SI units, including their names, symbols, quantities, types, definitions, and dimensions. It's an essential resource for science, engineering, and education.",
+    "key_takeaways": [
+      "Access 53 comprehensive SI Units, including base and derived units.",
+      "Explore precise definitions, symbols, quantities, and dimensions for each unit.",
+      "Download unit data in flexible Excel, CSV, or printable PDF formats.",
+      "Leverage accurate SI unit information for scientific research and educational materials."
+    ],
+    "keywords": [
+      "si units list excel",
+      "international system of units csv",
+      "base derived units definitions",
+      "metric system data download",
+      "physical quantities dimensions",
+      "science education resources"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or Python scripts to power scientific applications or unit conversion tools.",
+      "Use the **Excel** file to create Pivot Tables, filter units by type, or generate custom reports for engineering projects and research.",
+      "Print the **PDF** version for classroom reference, educational posters, or quick offline consultation during lab experiments.",
+      "Reference this dataset to ensure accuracy and consistency in any project requiring precise measurement units and their fundamental definitions."
+    ]
+  },
+  "record_count": 53,
+  "title": "International System of Units (SI Units) Dataset"
+}

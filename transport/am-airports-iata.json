@@ -1,0 +1,136 @@
+{
+  "id": "am-airports-iata",
+  "name": "Armenia — IATA Airports",
+  "title": "Armenia — IATA Airports",
+  "description": "Airports with IATA codes in Armenia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "EVN",
+      "icao_code": "UDYZ",
+      "name": "Zvartnots International Airport",
+      "city_name_list": "Yerevan",
+      "country_code": "AM",
+      "country_name": "Armenia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Yerevan",
+      "latitude": 40.1525,
+      "longitude": 44.40222,
+      "elevation": 865,
+      "timezone": "Asia/Yerevan",
+      "wiki_link": "https://en.wikipedia.org/wiki/Zvartnots_International_Airport"
+    },
+    {
+      "iata_code": "LWN",
+      "icao_code": "UDSG",
+      "name": "Shirak Airport",
+      "city_name_list": "Gyumri",
+      "country_code": "AM",
+      "country_name": "Armenia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Shirak",
+      "latitude": 40.72,
+      "longitude": 43.83,
+      "elevation": 1524,
+      "timezone": "Asia/Yerevan",
+      "wiki_link": "https://en.wikipedia.org/wiki/Shirak_Airport"
+    },
+    {
+      "iata_code": "YUK",
+      "icao_code": "UDCK",
+      "name": "Syunik Airport",
+      "city_name_list": "Kapan",
+      "country_code": "AM",
+      "country_name": "Armenia",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Syunik",
+      "latitude": 39.20226,
+      "longitude": 46.45527,
+      "elevation": "",
+      "timezone": "Asia/Yerevan",
+      "wiki_link": "https://en.wikipedia.org/wiki/Syunik_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Armenia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Armenia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 3 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Armenia — IATA Airports | ListBase",
+    "seo_description": "Download Armenia — IATA Airports dataset with 3 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 3 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

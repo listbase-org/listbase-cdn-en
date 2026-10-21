@@ -1,0 +1,772 @@
+{
+  "id": "murder-2016-preliminary",
+  "name": "US City Murder Counts 2015–2016 (Preliminary)",
+  "title": "US City Murder Counts 2015–2016 (Preliminary)",
+  "description": "Preliminary murder counts for 79 US cities comparing 2015 and 2016 figures. Includes city, state, murder totals, and change.",
+  "category": "geography",
+  "source": "https://github.com/fivethirtyeight/data",
+  "source_url": "https://github.com/fivethirtyeight/data",
+  "updated": "2026-04",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "2015_murders",
+      "label": "2015 Murders",
+      "type": "number"
+    },
+    {
+      "key": "2016_murders",
+      "label": "2016 Murders",
+      "type": "number"
+    },
+    {
+      "key": "change",
+      "label": "Change",
+      "type": "number"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "as_of",
+      "label": "As Of",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city": "Chicago",
+      "state": "Illinois",
+      "2015_murders": "378",
+      "2016_murders": "536",
+      "change": "158",
+      "source": "https://portal.chicagopolice.org/portal/page/portal/ClearPath/News/Crime%20Statistics",
+      "as_of": "10/2/2016"
+    },
+    {
+      "city": "Orlando",
+      "state": "Florida",
+      "2015_murders": "19",
+      "2016_murders": "73",
+      "change": "54",
+      "source": "OPD ",
+      "as_of": "9/22/2016"
+    },
+    {
+      "city": "Memphis",
+      "state": "Tennessee",
+      "2015_murders": "114",
+      "2016_murders": "158",
+      "change": "44",
+      "source": "MPD",
+      "as_of": "9/11/2016"
+    },
+    {
+      "city": "Phoenix",
+      "state": "Arizona",
+      "2015_murders": "72",
+      "2016_murders": "111",
+      "change": "39",
+      "source": "PPD ",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "2015_murders": "90",
+      "2016_murders": "125",
+      "change": "35",
+      "source": "http://www.lvmpd.com/Sections/Homicide/HomicideLog/tabid/454/Default.aspx",
+      "as_of": "9/28/2016"
+    },
+    {
+      "city": "San Antonio",
+      "state": "Texas",
+      "2015_murders": "78",
+      "2016_murders": "111",
+      "change": "33",
+      "source": "SAPD ",
+      "as_of": "9/26/2016"
+    },
+    {
+      "city": "Louisville",
+      "state": "Kentucky",
+      "2015_murders": "52",
+      "2016_murders": "79",
+      "change": "27",
+      "source": "https://louisvilleky.gov/government/police/lmpd-transparency",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Dallas",
+      "state": "Texas",
+      "2015_murders": "95",
+      "2016_murders": "118",
+      "change": "23",
+      "source": "DPD",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "2015_murders": "191",
+      "2016_murders": "212",
+      "change": "21",
+      "source": "http://www.houstontx.gov/police/cs/index-2.htm",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Fort Wayne",
+      "state": "Indiana",
+      "2015_murders": "17",
+      "2016_murders": "34",
+      "change": "17",
+      "source": "FWPD ",
+      "as_of": "9/26/2016"
+    },
+    {
+      "city": "Atlanta",
+      "state": "Georgia",
+      "2015_murders": "68",
+      "2016_murders": "85",
+      "change": "17",
+      "source": "http://www.atlantapd.org/crimedatadownloads.aspx",
+      "as_of": "9/24/2016"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "2015_murders": "102",
+      "2016_murders": "117",
+      "change": "15",
+      "source": "IPD ",
+      "as_of": "10/2/2016"
+    },
+    {
+      "city": "Austin",
+      "state": "Texas",
+      "2015_murders": "13",
+      "2016_murders": "28",
+      "change": "15",
+      "source": "http://www.austintexas.gov/page/chiefs-monthly-reports",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Kansas City",
+      "state": "Missouri",
+      "2015_murders": "77",
+      "2016_murders": "90",
+      "change": "13",
+      "source": "http://kcmo.gov/police/homicide-3/crime-stats/",
+      "as_of": "10/4/2016"
+    },
+    {
+      "city": "Arlington",
+      "state": "Texas",
+      "2015_murders": "4",
+      "2016_murders": "17",
+      "change": "13",
+      "source": "http://www.arlington-tx.gov/police/wp-content/uploads/sites/9/2016/08/UCR-Crime-Summary.pdf",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "San Jose",
+      "state": "California",
+      "2015_murders": "22",
+      "2016_murders": "35",
+      "change": "13",
+      "source": "http://www.sjpd.org/CrimeStats/updates/Part_One_Crimes_Reported_YTD.pdf?cacheID=20160921",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "2015_murders": "35",
+      "2016_murders": "46",
+      "change": "11",
+      "source": "APD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "2015_murders": "67",
+      "2016_murders": "78",
+      "change": "11",
+      "source": "JPSO ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Santa Ana",
+      "state": "California",
+      "2015_murders": "10",
+      "2016_murders": "20",
+      "change": "10",
+      "source": "SAPD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "2015_murders": "43",
+      "2016_murders": "52",
+      "change": "9",
+      "source": "TPD ",
+      "as_of": "9/27/2016"
+    },
+    {
+      "city": "Lincoln",
+      "state": "Nebraska",
+      "2015_murders": "0",
+      "2016_murders": "9",
+      "change": "9",
+      "source": "http://www.lincoln.ne.gov/city/police/stats/stats.htm",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Stockton",
+      "state": "California",
+      "2015_murders": "30",
+      "2016_murders": "38",
+      "change": "8",
+      "source": "SPD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Anchorage",
+      "state": "Alaska",
+      "2015_murders": "19",
+      "2016_murders": "26",
+      "change": "7",
+      "source": "APD ",
+      "as_of": "9/27/2016"
+    },
+    {
+      "city": "Buffalo",
+      "state": "New York",
+      "2015_murders": "31",
+      "2016_murders": "38",
+      "change": "7",
+      "source": "http://www.bpdny.org/Home/Statistics",
+      "as_of": "9/24/2016"
+    },
+    {
+      "city": "San Diego",
+      "state": "California",
+      "2015_murders": "23",
+      "2016_murders": "30",
+      "change": "7",
+      "source": "http://crimestats.arjis.org/default.aspx",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Mobile",
+      "state": "Alabama",
+      "2015_murders": "6",
+      "2016_murders": "12",
+      "change": "6",
+      "source": "https://www.mobilepd.org/precinct/pdf/UCR_April_Public.pdf",
+      "as_of": "4/30/2016"
+    },
+    {
+      "city": "Greensboro",
+      "state": "North Carolina",
+      "2015_murders": "15",
+      "2016_murders": "20",
+      "change": "5",
+      "source": "http://www.greensboro-nc.gov/modules/showdocument.aspx?documentid=29678",
+      "as_of": "10/2/2016"
+    },
+    {
+      "city": "Durham",
+      "state": "North Carolina",
+      "2015_murders": "25",
+      "2016_murders": "30",
+      "change": "5",
+      "source": "https://durhamnc.gov/ArchiveCenter/ViewFile/Item/2419",
+      "as_of": "10/1/2016"
+    },
+    {
+      "city": "Detroit",
+      "state": "Michigan",
+      "2015_murders": "216",
+      "2016_murders": "221",
+      "change": "5",
+      "source": "DPD ",
+      "as_of": "9/25/2016"
+    },
+    {
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "2015_murders": "9",
+      "2016_murders": "14",
+      "change": "5",
+      "source": "SPPD ",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "2015_murders": "209",
+      "2016_murders": "213",
+      "change": "4",
+      "source": "https://www.phillypolice.com/crime-maps-stats/",
+      "as_of": "10/4/2016"
+    },
+    {
+      "city": "Long Beach",
+      "state": "California",
+      "2015_murders": "25",
+      "2016_murders": "29",
+      "change": "4",
+      "source": "http://homicide.latimes.com/neighborhood/long-beach/year/2016",
+      "as_of": "9/20/2016"
+    },
+    {
+      "city": "Lexington",
+      "state": "Kentucky",
+      "2015_murders": "13",
+      "2016_murders": "16",
+      "change": "3",
+      "source": "LPD ",
+      "as_of": "9/28/2016"
+    },
+    {
+      "city": "Aurora",
+      "state": "Colorado",
+      "2015_murders": "13",
+      "2016_murders": "16",
+      "change": "3",
+      "source": "APD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "2015_murders": "11",
+      "2016_murders": "14",
+      "change": "3",
+      "source": "http://www.njjcpd.org/node/5",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Plano",
+      "state": "Texas",
+      "2015_murders": "2",
+      "2016_murders": "5",
+      "change": "3",
+      "source": "http://www.plano.gov/DocumentCenter/View/119",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "2015_murders": "12",
+      "2016_murders": "15",
+      "change": "3",
+      "source": "http://www.krdo.com/news/local-news/springs-womans-shooting-death-ruled-homicide-/73436432",
+      "as_of": "8/2/2016"
+    },
+    {
+      "city": "Toledo",
+      "state": "Ohio",
+      "2015_murders": "5",
+      "2016_murders": "8",
+      "change": "3",
+      "source": "TPD ",
+      "as_of": "6/24/2016"
+    },
+    {
+      "city": "El Paso",
+      "state": "Texas",
+      "2015_murders": "12",
+      "2016_murders": "14",
+      "change": "2",
+      "source": "ELPD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Laredo",
+      "state": "Texas",
+      "2015_murders": "7",
+      "2016_murders": "9",
+      "change": "2",
+      "source": "LPD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Nashville",
+      "state": "Tennessee",
+      "2015_murders": "47",
+      "2016_murders": "49",
+      "change": "2",
+      "source": "NPD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "2015_murders": "28",
+      "2016_murders": "30",
+      "change": "2",
+      "source": "OKCPD ",
+      "as_of": "6/30/2016"
+    },
+    {
+      "city": "Henderson",
+      "state": "Nevada",
+      "2015_murders": "1",
+      "2016_murders": "3",
+      "change": "2",
+      "source": "HPD ",
+      "as_of": "4/30/2016"
+    },
+    {
+      "city": "Chandler",
+      "state": "Arizona",
+      "2015_murders": "2",
+      "2016_murders": "3",
+      "change": "1",
+      "source": "CPD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Denver",
+      "state": "Colorado",
+      "2015_murders": "32",
+      "2016_murders": "33",
+      "change": "1",
+      "source": "https://www.denvergov.org/content/dam/denvergov/Portals/720/documents/statistics/2016/UCR_Citywide_Reported_Offenses_2016.pdf",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Riverside",
+      "state": "California",
+      "2015_murders": "6",
+      "2016_murders": "7",
+      "change": "1",
+      "source": "http://www.riversideca.gov/rpd/crstats/cstats.asp",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Bakersfield",
+      "state": "California",
+      "2015_murders": "21",
+      "2016_murders": "22",
+      "change": "1",
+      "source": "BPD ",
+      "as_of": "6/23/2016"
+    },
+    {
+      "city": "Boston",
+      "state": "Massachusetts",
+      "2015_murders": "28",
+      "2016_murders": "28",
+      "change": "0",
+      "source": "BPD ",
+      "as_of": "9/27/2016"
+    },
+    {
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "2015_murders": "50",
+      "2016_murders": "50",
+      "change": "0",
+      "source": "http://www.cincinnati-oh.gov/police/crime-statistics/city-wide-stars-report/",
+      "as_of": "9/24/2016"
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "2015_murders": "46",
+      "2016_murders": "46",
+      "change": "0",
+      "source": "PPD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Columbus",
+      "state": "Ohio",
+      "2015_murders": "71",
+      "2016_murders": "70",
+      "change": "-1",
+      "source": "CPD ",
+      "as_of": "9/24/2016"
+    },
+    {
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "2015_murders": "8",
+      "2016_murders": "7",
+      "change": "-1",
+      "source": "RPD ",
+      "as_of": "7/17/2016"
+    },
+    {
+      "city": "Corpus Christi",
+      "state": "Texas",
+      "2015_murders": "10",
+      "2016_murders": "9",
+      "change": "-1",
+      "source": "CCPD ",
+      "as_of": "6/24/2016"
+    },
+    {
+      "city": "Charlotte-Mecklenburg",
+      "state": "North Carolina",
+      "2015_murders": "27",
+      "2016_murders": "25",
+      "change": "-2",
+      "source": "http://charlottenc.gov/CMPD/Safety/Pages/CrimeStats.aspx",
+      "as_of": "6/30/2016"
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "2015_murders": "130",
+      "2016_murders": "127",
+      "change": "-3",
+      "source": "NOPD ",
+      "as_of": "9/27/2016"
+    },
+    {
+      "city": "San Francisco",
+      "state": "California",
+      "2015_murders": "35",
+      "2016_murders": "32",
+      "change": "-3",
+      "source": "SFPD ",
+      "as_of": "9/27/2016"
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "2015_murders": "17",
+      "2016_murders": "14",
+      "change": "-3",
+      "source": "http://www.seattle.gov/seattle-police-department/crime-data/crime-dashboard",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "St. Louis",
+      "state": "Missouri",
+      "2015_murders": "136",
+      "2016_murders": "133",
+      "change": "-3",
+      "source": "http://www.slmpd.org/crime_stats.shtml",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "2015_murders": "12",
+      "2016_murders": "9",
+      "change": "-3",
+      "source": "HPD ",
+      "as_of": "6/30/2016"
+    },
+    {
+      "city": "Wichita",
+      "state": "Kansas",
+      "2015_murders": "13",
+      "2016_murders": "10",
+      "change": "-3",
+      "source": "MCCA",
+      "as_of": "6/30/2016"
+    },
+    {
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "2015_murders": "17",
+      "2016_murders": "13",
+      "change": "-4",
+      "source": "https://eprodmz.vbgov.com/MainUI/Crimes/CrimeSearch.aspx",
+      "as_of": "9/30/2016"
+    },
+    {
+      "city": "Newark",
+      "state": "New Jersey",
+      "2015_murders": "76",
+      "2016_murders": "72",
+      "change": "-4",
+      "source": "http://npd.newarkpublicsafety.org/comstat",
+      "as_of": "9/25/2016"
+    },
+    {
+      "city": "Los Angeles",
+      "state": "California",
+      "2015_murders": "209",
+      "2016_murders": "205",
+      "change": "-4",
+      "source": "http://assets.lapdonline.org/assets/pdf/cityprof.pdf",
+      "as_of": "9/17/2016"
+    },
+    {
+      "city": "Chula Vista",
+      "state": "California",
+      "2015_murders": "5",
+      "2016_murders": "1",
+      "change": "-4",
+      "source": "http://crimestats.arjis.org/default.aspx",
+      "as_of": "8/31/2016"
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "2015_murders": "19",
+      "2016_murders": "14",
+      "change": "-5",
+      "source": "PPD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Tucson",
+      "state": "Arizona",
+      "2015_murders": "23",
+      "2016_murders": "18",
+      "change": "-5",
+      "source": "TPD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Anaheim",
+      "state": "California",
+      "2015_murders": "10",
+      "2016_murders": "4",
+      "change": "-6",
+      "source": "APD ",
+      "as_of": "6/27/2016"
+    },
+    {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "2015_murders": "96",
+      "2016_murders": "89",
+      "change": "-7",
+      "source": "CPD ",
+      "as_of": "9/26/2016"
+    },
+    {
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "2015_murders": "34",
+      "2016_murders": "26",
+      "change": "-8",
+      "source": "http://www.minneapolismn.gov/police/statistics/crime-statistics_codefor_arrests",
+      "as_of": "10/3/2016"
+    },
+    {
+      "city": "Sacramento",
+      "state": "California",
+      "2015_murders": "31",
+      "2016_murders": "21",
+      "change": "-10",
+      "source": "SPD ",
+      "as_of": "9/22/2016"
+    },
+    {
+      "city": "Fresno",
+      "state": "California",
+      "2015_murders": "30",
+      "2016_murders": "19",
+      "change": "-11",
+      "source": "http://www.fresno.gov/CityOfFresno/Templates/StandardTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bA9D853FB-EBA4-4900-8435-B880D98AE480%7d&NRORIGINALURL=%2fGovernment%2fDepartmentDirectory%2fPolice%2fAboutFresnoPD%2fCrimeReportsandStatistics%2fMonthlyCrimeStatistics%2ehtm&NRCACHEHINT=Guest",
+      "as_of": "7/31/2016"
+    },
+    {
+      "city": "Fort Worth",
+      "state": "Texas",
+      "2015_murders": "61",
+      "2016_murders": "49",
+      "change": "-12",
+      "source": "FWPD ",
+      "as_of": "9/27/2016"
+    },
+    {
+      "city": "Oakland",
+      "state": "California",
+      "2015_murders": "65",
+      "2016_murders": "52",
+      "change": "-13",
+      "source": "http://www2.oaklandnet.com/government/o/OPD/s/Statistics/index.htm",
+      "as_of": "10/2/2016"
+    },
+    {
+      "city": "Washington",
+      "state": "D.C.",
+      "2015_murders": "119",
+      "2016_murders": "105",
+      "change": "-14",
+      "source": "http://mpdc.dc.gov/page/district-crime-data-glance",
+      "as_of": "9/30/2016"
+    },
+    {
+      "city": "New York",
+      "state": "New York",
+      "2015_murders": "266",
+      "2016_murders": "252",
+      "change": "-14",
+      "source": "https://compstat.nypdonline.org/",
+      "as_of": "9/25/2016"
+    },
+    {
+      "city": "Omaha",
+      "state": "Nebraska",
+      "2015_murders": "34",
+      "2016_murders": "20",
+      "change": "-14",
+      "source": "http://dataomaha.com/homicides",
+      "as_of": "9/5/2016"
+    },
+    {
+      "city": "Miami",
+      "state": "Florida",
+      "2015_murders": "62",
+      "2016_murders": "45",
+      "change": "-17",
+      "source": "MPD ",
+      "as_of": "9/21/2016"
+    },
+    {
+      "city": "Baltimore",
+      "state": "Maryland",
+      "2015_murders": "249",
+      "2016_murders": "230",
+      "change": "-19",
+      "source": "https://data.baltimorecity.gov/Public-Safety/Summarized-Crime-Data-By-District-Week-26/4nh3-w6zf",
+      "as_of": "10/1/2016"
+    },
+    {
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "2015_murders": "105",
+      "2016_murders": "84",
+      "change": "-21",
+      "source": "http://itmdapps.milwaukee.gov/publicApplication_SR/policeDistrict/policeDistrictfm.faces",
+      "as_of": "9/28/2016"
+    }
+  ],
+  "meta": {
+    "title": "US City Murder Counts 2015–2016 (Preliminary) - Free Download",
+    "description": "Preliminary murder counts for 79 US cities comparing 2015 and 2016 figures. Includes city, state, murder totals, and change. Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US City Murder Counts 2015–2016 (Preliminary) | ListBase",
+    "seo_description": "Download US City Murder Counts 2015–2016 (Preliminary) — 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/fivethirtyeight/data"
+    ]
+  }
+}

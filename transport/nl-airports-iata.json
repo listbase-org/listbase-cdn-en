@@ -1,0 +1,301 @@
+{
+  "id": "nl-airports-iata",
+  "name": "The Netherlands — IATA Airports",
+  "title": "The Netherlands — IATA Airports",
+  "description": "Airports with IATA codes in The Netherlands: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "AMS",
+      "icao_code": "EHAM",
+      "name": "Amsterdam Airport Schiphol",
+      "city_name_list": "Amsterdam=Schiphol",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "North Holland",
+      "latitude": 52.3103,
+      "longitude": 4.76028,
+      "elevation": -3,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol"
+    },
+    {
+      "iata_code": "DHR",
+      "icao_code": "EHKD",
+      "name": "De Kooy",
+      "city_name_list": "Den Helder",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "North Holland",
+      "latitude": 52.923353,
+      "longitude": 4.780625,
+      "elevation": 0,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/De_Kooy_Airfield"
+    },
+    {
+      "iata_code": "EIN",
+      "icao_code": "EHEH",
+      "name": "Eindhoven Airport",
+      "city_name_list": "Eindhoven",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "North Brabant",
+      "latitude": 51.450139,
+      "longitude": 5.374528,
+      "elevation": 22,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Eindhoven_Airport"
+    },
+    {
+      "iata_code": "ENS",
+      "icao_code": "EHTW",
+      "name": "Enschede Airport Twente",
+      "city_name_list": "Enschede",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Overijssel",
+      "latitude": 52.27,
+      "longitude": 6.87417,
+      "elevation": 34,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Enschede_Airport_Twente"
+    },
+    {
+      "iata_code": "GLZ",
+      "icao_code": "EHGR",
+      "name": "Gilze-Rijen Air Base",
+      "city_name_list": "Breda",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "North Brabant",
+      "latitude": 51.56739,
+      "longitude": 4.93183,
+      "elevation": 14,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gilze-Rijen_Air_Base"
+    },
+    {
+      "iata_code": "GRQ",
+      "icao_code": "EHGG",
+      "name": "Groningen Airport Eelde",
+      "city_name_list": "Groningen",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Drenthe",
+      "latitude": 53.11972,
+      "longitude": 6.579444,
+      "elevation": 5,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Groningen_Airport_Eelde"
+    },
+    {
+      "iata_code": "LEY",
+      "icao_code": "EHLE",
+      "name": "Lelystad Airport",
+      "city_name_list": "Lelystad",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Flevoland",
+      "latitude": 52.460278,
+      "longitude": 5.527222,
+      "elevation": -3,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lelystad_Airport"
+    },
+    {
+      "iata_code": "LID",
+      "icao_code": "",
+      "name": "Valkenburg",
+      "city_name_list": "Valkenburg",
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "South Holland",
+      "latitude": 52.18,
+      "longitude": 4.43194,
+      "elevation": 0,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Valkenburg"
+    },
+    {
+      "iata_code": "LID",
+      "icao_code": "EHVB",
+      "name": "Valkenburg Naval Air Base",
+      "city_name_list": "Valkenburg",
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "South Holland",
+      "latitude": 52.16614,
+      "longitude": 4.41794,
+      "elevation": 0,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Valkenburg_Naval_Air_Base"
+    },
+    {
+      "iata_code": "LWR",
+      "icao_code": "EHLW",
+      "name": "Leeuwarden Air Base",
+      "city_name_list": "Leeuwarden",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Friesland",
+      "latitude": 53.22861,
+      "longitude": 5.76056,
+      "elevation": 0,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Leeuwarden_Air_Base"
+    },
+    {
+      "iata_code": "MST",
+      "icao_code": "EHBK",
+      "name": "Maastricht Aachen Airport",
+      "city_name_list": "Maastricht",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Limburg",
+      "latitude": 50.91166,
+      "longitude": 5.77014,
+      "elevation": 114,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Maastricht_Aachen_Airport"
+    },
+    {
+      "iata_code": "RTM",
+      "icao_code": "EHRD",
+      "name": "Rotterdam The Hague Airport",
+      "city_name_list": "Rotterdam",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "South Holland",
+      "latitude": 51.95548,
+      "longitude": 4.43685,
+      "elevation": -4,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Rotterdam_The_Hague_Airport"
+    },
+    {
+      "iata_code": "UDE",
+      "icao_code": "EHVK",
+      "name": "Volkel Airport",
+      "city_name_list": "Uden",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "North Brabant",
+      "latitude": 51.65,
+      "longitude": 5.7,
+      "elevation": 21,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Volkel_Air_Base"
+    },
+    {
+      "iata_code": "WOE",
+      "icao_code": "EHWO",
+      "name": "Woensdrecht Airport",
+      "city_name_list": "Bergen op Zoom",
+      "country_code": "NL",
+      "country_name": "The Netherlands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "North Brabant",
+      "latitude": 51.44909,
+      "longitude": 4.34203,
+      "elevation": 19,
+      "timezone": "Europe/Amsterdam",
+      "wiki_link": "https://en.wikipedia.org/wiki/Woensdrecht_Air_Base"
+    }
+  ],
+  "meta": {
+    "title": "The Netherlands — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in The Netherlands: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "The Netherlands — IATA Airports | ListBase",
+    "seo_description": "Download The Netherlands — IATA Airports dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

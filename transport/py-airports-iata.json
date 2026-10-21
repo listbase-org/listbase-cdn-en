@@ -1,0 +1,301 @@
+{
+  "id": "py-airports-iata",
+  "name": "Paraguay — IATA Airports",
+  "title": "Paraguay — IATA Airports",
+  "description": "Airports with IATA codes in Paraguay: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "AGT",
+      "icao_code": "SGES",
+      "name": "Guaraní International Airport",
+      "city_name_list": "Ciudad del Este",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Alto Parana Department",
+      "latitude": -25.4555,
+      "longitude": -54.84359,
+      "elevation": 257,
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Guaran%C3%AD_International_Airport"
+    },
+    {
+      "iata_code": "ASU",
+      "icao_code": "SGAS",
+      "name": "Silvio Pettirossi International Airport",
+      "city_name_list": "Asunción",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Central Department",
+      "latitude": -25.23985,
+      "longitude": -57.51913,
+      "elevation": 89,
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport"
+    },
+    {
+      "iata_code": "AYO",
+      "icao_code": "SGAY",
+      "name": "Juan de Ayolas Airport",
+      "city_name_list": "Ayolas",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Misiones Department",
+      "latitude": -27.3723,
+      "longitude": -56.85382,
+      "elevation": "",
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Juan_de_Ayolas_Airport"
+    },
+    {
+      "iata_code": "BFA",
+      "icao_code": "SGBN",
+      "name": "Bahía Negra Airport",
+      "city_name_list": "Bahía Negra Airport",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Alto Paraguay",
+      "latitude": -20.23,
+      "longitude": -58.17,
+      "elevation": "",
+      "timezone": "America/Asuncion",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "CIO",
+      "icao_code": "SGCO",
+      "name": "Concepcion Airport",
+      "city_name_list": "Concepcion Airport",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Concepcion",
+      "latitude": -23.43,
+      "longitude": -57.42,
+      "elevation": 77,
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Teniente_Coronel_Carmelo_Peralta_Airport"
+    },
+    {
+      "iata_code": "ENO",
+      "icao_code": "SGEN",
+      "name": "Encarnacion Airport",
+      "city_name_list": "Encarnación",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Itapua",
+      "latitude": -27.227,
+      "longitude": -55.837,
+      "elevation": 91,
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Teniente_Amin_Ayub_Gonzalez_Airport"
+    },
+    {
+      "iata_code": "ESG",
+      "icao_code": "SGME",
+      "name": "Dr. Luis María Argaña International Airport",
+      "city_name_list": "Mariscal José Félix Estigarribia",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Boqueron Department",
+      "latitude": -22.04499,
+      "longitude": -60.62169,
+      "elevation": 168,
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dr._Luis_Mar%C3%ADa_Arga%C3%B1a_International_Airport"
+    },
+    {
+      "iata_code": "FLM",
+      "icao_code": "SGFI",
+      "name": "Filadelfia Airport",
+      "city_name_list": "Filadelfia",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Boqueron Department",
+      "latitude": -22.3541,
+      "longitude": -60.05395,
+      "elevation": "",
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Filadelfia_Airport"
+    },
+    {
+      "iata_code": "OLK",
+      "icao_code": "SGOL",
+      "name": "Fuerte Olimpo Airport",
+      "city_name_list": "Fuerte Olimpo",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Alto Paraguay",
+      "latitude": -21.0452,
+      "longitude": -57.8825,
+      "elevation": "",
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Fuerte_Olimpo_Airport"
+    },
+    {
+      "iata_code": "PBT",
+      "icao_code": "",
+      "name": "Puerto Leda Airport",
+      "city_name_list": "Puerto Leda",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Alto Paraguay",
+      "latitude": -20.90803,
+      "longitude": -57.92719,
+      "elevation": "",
+      "timezone": "America/Asuncion",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "PCJ",
+      "icao_code": "SGLV",
+      "name": "Puerto La Victoria Airport",
+      "city_name_list": "Puerto Casado",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Concepcion",
+      "latitude": -22.28,
+      "longitude": -57.93,
+      "elevation": "",
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/La_Victoria_Airport"
+    },
+    {
+      "iata_code": "PIL",
+      "icao_code": "SGPI",
+      "name": "Carlos Miguel Gimenez Airport",
+      "city_name_list": "Pilar",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Neembucu Department",
+      "latitude": -26.881467,
+      "longitude": -58.318036,
+      "elevation": "",
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Carlos_Miguel_Jim%C3%A9nez_Airport"
+    },
+    {
+      "iata_code": "PJC",
+      "icao_code": "SGPJ",
+      "name": "Dr Augusto Roberto Fuster International Airport",
+      "city_name_list": "Pedro Juan Caballero",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Amambay Department",
+      "latitude": -22.641425,
+      "longitude": -55.829989,
+      "elevation": "",
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dr._Augusto_Roberto_Fuster_International_Airport"
+    },
+    {
+      "iata_code": "VMI",
+      "icao_code": "SGVM",
+      "name": "Dr Juan Plate Airport",
+      "city_name_list": "Dr Juan Plate Airport",
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Concepcion",
+      "latitude": -22.25,
+      "longitude": -58,
+      "elevation": "",
+      "timezone": "America/Asuncion",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dr._Juan_Plate_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Paraguay — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Paraguay: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Paraguay — IATA Airports | ListBase",
+    "seo_description": "Download Paraguay — IATA Airports dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

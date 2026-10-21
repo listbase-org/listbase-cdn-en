@@ -1,0 +1,184 @@
+{
+  "id": "hr-unesco-heritage",
+  "name": "Croatia — UNESCO World Heritage Sites",
+  "title": "Croatia — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Croatia, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 95,
+      "name": "Old City of Dubrovnik",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c1, c3, c4",
+      "lat": 42.65056,
+      "lon": 18.09139,
+      "area_hectares": 96.7,
+      "danger_list": "P 1991-1998",
+      "unesco_region": "Europe and North America",
+      "countries": "hr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 97,
+      "name": "Historical Complex of Split with the Palace of Diocletian",
+      "category": "cultural",
+      "date_inscribed": 1979,
+      "criteria": "c2, c3, c4",
+      "lat": 43.50944,
+      "lon": 16.44333,
+      "area_hectares": 20.8,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "hr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 98,
+      "name": "Plitvice Lakes National Park",
+      "category": "natural",
+      "date_inscribed": 1979,
+      "criteria": "n7, n8, n9",
+      "lat": 44.87778,
+      "lon": 15.61444,
+      "area_hectares": 29482,
+      "danger_list": "P 1992-1997",
+      "unesco_region": "Europe and North America",
+      "countries": "hr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 809,
+      "name": "Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Porec",
+      "category": "cultural",
+      "date_inscribed": 1997,
+      "criteria": "c2, c3, c4",
+      "lat": 45.22917,
+      "lon": 13.59444,
+      "area_hectares": 1.1,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "hr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 810,
+      "name": "Historic City of Trogir",
+      "category": "cultural",
+      "date_inscribed": 1997,
+      "criteria": "c2, c4",
+      "lat": 43.5125,
+      "lon": 16.25167,
+      "area_hectares": 6.4,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "hr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 963,
+      "name": "The Cathedral of St James in Sibenik",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c1, c2, c4",
+      "lat": 43.73629,
+      "lon": 15.89038,
+      "area_hectares": 0.1,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "hr",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1240,
+      "name": "Stari Grad Plain",
+      "category": "cultural",
+      "date_inscribed": 2008,
+      "criteria": "c2, c3, c5",
+      "lat": 43.18166667,
+      "lon": 16.63861111,
+      "area_hectares": 1376.53,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "hr",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Croatia — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Croatia, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Croatia — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Croatia — UNESCO World Heritage Sites dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

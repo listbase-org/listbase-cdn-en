@@ -1,0 +1,322 @@
+{
+  "id": "mg-power-plants",
+  "name": "Madagascar — Power Plants",
+  "title": "Madagascar — Power Plants",
+  "description": "Power plants located in Madagascar from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ambatovy",
+      "gppd_idnr": "WRI1023098",
+      "capacity_mw": 120,
+      "latitude": -18.8356,
+      "longitude": 48.3125,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Andekaleka",
+      "gppd_idnr": "WRI1023093",
+      "capacity_mw": 58,
+      "latitude": -18.7942,
+      "longitude": 48.6193,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 241.96; 2014: 189.01; 2015: 190.1; 2016: 188.64; 2017: 176.43",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Mandroseza",
+      "gppd_idnr": "WRI1023099",
+      "capacity_mw": 40,
+      "latitude": -18.8491,
+      "longitude": 47.4807,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ambatolampy",
+      "gppd_idnr": "WKS0072179",
+      "capacity_mw": 25,
+      "latitude": -19.489,
+      "longitude": 47.445,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 56.49; 2014: 57.93; 2015: 56.85; 2016: 57.76; 2017: 57.96",
+      "generation_data_source": ""
+    },
+    {
+      "name": "La Mandraka",
+      "gppd_idnr": "WRI1023094",
+      "capacity_mw": 24,
+      "latitude": -18.9213,
+      "longitude": 47.9295,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 100.22; 2014: 67.91; 2015: 69.9; 2016: 48.8; 2017: 60.01",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ambohimanambola",
+      "gppd_idnr": "WRI1023092",
+      "capacity_mw": 19.71,
+      "latitude": -19.8,
+      "longitude": 46.6167,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tamatave",
+      "gppd_idnr": "WRI1023095",
+      "capacity_mw": 16.59,
+      "latitude": -18.1667,
+      "longitude": 49.3833,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sahanivotry",
+      "gppd_idnr": "WRI1026779",
+      "capacity_mw": 16.5,
+      "latitude": -20.2003,
+      "longitude": 47.1328,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "HYDELEC Madagascar SA",
+      "source": "CDM",
+      "url": "https://cdm.unfccc.int/Projects/DB/TUEV-SUED1269612670.69/view",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 55; 2014: 36.09; 2015: 36.09; 2016: 36.19; 2017: 36.09",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Majunga",
+      "gppd_idnr": "WRI1023100",
+      "capacity_mw": 13,
+      "latitude": -15.702,
+      "longitude": 46.4027,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Toliary (Tulear)",
+      "gppd_idnr": "WRI1023096",
+      "capacity_mw": 12.98,
+      "latitude": -23.35,
+      "longitude": 43.6667,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Antelomita",
+      "gppd_idnr": "WRI1023097",
+      "capacity_mw": 8.9,
+      "latitude": -19.0119,
+      "longitude": 47.7033,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 33.38; 2014: 27.8; 2015: 22.91; 2016: 27.99; 2017: 23.74",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tsiazompaniry",
+      "gppd_idnr": "WRI1026780",
+      "capacity_mw": 5.25,
+      "latitude": -19.2478,
+      "longitude": 47.8339,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "HENRI FRAISE FILS & CIE",
+      "source": "CDM",
+      "url": "https://cdm.unfccc.int/Projects/DB/RINA1323809385.82/view",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 19.15; 2014: 16.34; 2015: 13.45; 2016: 16.45; 2017: 13.94",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Madagascar — Power Plants - Free Download",
+    "description": "Power plants located in Madagascar from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Madagascar — Power Plants | ListBase",
+    "seo_description": "Download Madagascar — Power Plants dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

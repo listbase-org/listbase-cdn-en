@@ -1,0 +1,226 @@
+{
+  "id": "gf-airports-iata",
+  "name": "French Guiana — IATA Airports",
+  "title": "French Guiana — IATA Airports",
+  "description": "Airports with IATA codes in French Guiana: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "CAY",
+      "icao_code": "SOCA",
+      "name": "Cayenne-Rochambeau",
+      "city_name_list": "Cayenne",
+      "country_code": "GF",
+      "country_name": "French Guiana",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Guyane",
+      "latitude": 4.819808,
+      "longitude": -52.360447,
+      "elevation": 7,
+      "timezone": "America/Cayenne",
+      "wiki_link": "https://en.wikipedia.org/wiki/Cayenne_%E2%80%93_F%C3%A9lix_Ebou%C3%A9_Airport"
+    },
+    {
+      "iata_code": "GSI",
+      "icao_code": "SOGS",
+      "name": "Grand-Santi Airport",
+      "city_name_list": "Grand-Santi",
+      "country_code": "GF",
+      "country_name": "French Guiana",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Guyane",
+      "latitude": 4.28487,
+      "longitude": -54.37374,
+      "elevation": "",
+      "timezone": "America/Cayenne",
+      "wiki_link": "https://en.wikipedia.org/wiki/Grand-Santi_Airport"
+    },
+    {
+      "iata_code": "LDX",
+      "icao_code": "SOOM",
+      "name": "Saint-Laurent-du-Maroni Airport",
+      "city_name_list": "Saint-Laurent-du-Maroni",
+      "country_code": "GF",
+      "country_name": "French Guiana",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Guyane",
+      "latitude": 5.48333,
+      "longitude": -54.03333,
+      "elevation": "",
+      "timezone": "America/Cayenne",
+      "wiki_link": "https://en.wikipedia.org/wiki/Saint-Laurent-du-Maroni_Airport"
+    },
+    {
+      "iata_code": "MPY",
+      "icao_code": "SOOA",
+      "name": "Maripasoula Airport",
+      "city_name_list": "Maripasoula",
+      "country_code": "GF",
+      "country_name": "French Guiana",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Guyane",
+      "latitude": 3.65614,
+      "longitude": -54.039,
+      "elevation": "",
+      "timezone": "America/Cayenne",
+      "wiki_link": "https://en.wikipedia.org/wiki/Maripasoula_Airport"
+    },
+    {
+      "iata_code": "OYC",
+      "icao_code": "",
+      "name": "Camopi Airport",
+      "city_name_list": "Camopi",
+      "country_code": "GF",
+      "country_name": "French Guiana",
+      "continent_name": "South America",
+      "adm1_name_ascii": "",
+      "latitude": 3.17274,
+      "longitude": -52.3361,
+      "elevation": "",
+      "timezone": "America/Cayenne",
+      "wiki_link": "https://en.wikipedia.org/wiki/Camopi_Airport"
+    },
+    {
+      "iata_code": "OYP",
+      "icao_code": "SOOG",
+      "name": "Saint-Georges-de-l'Oyapock Airport",
+      "city_name_list": "Saint-Georges",
+      "country_code": "GF",
+      "country_name": "French Guiana",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Guyane",
+      "latitude": 3.89989,
+      "longitude": -51.80358,
+      "elevation": 11,
+      "timezone": "America/Cayenne",
+      "wiki_link": "https://en.wikipedia.org/wiki/Saint-Georges-de-l%27Oyapock_Airport"
+    },
+    {
+      "iata_code": "QKR",
+      "icao_code": "SOOK",
+      "name": "Kourou Airport",
+      "city_name_list": "Kourou",
+      "country_code": "GF",
+      "country_name": "French Guiana",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Guyane",
+      "latitude": 5.17587,
+      "longitude": -52.6942,
+      "elevation": "",
+      "timezone": "America/Cayenne",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kourou_Airport"
+    },
+    {
+      "iata_code": "REI",
+      "icao_code": "SOOR",
+      "name": "Régina Airport",
+      "city_name_list": "Régina",
+      "country_code": "GF",
+      "country_name": "French Guiana",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Guyane",
+      "latitude": 4.31308,
+      "longitude": -52.13274,
+      "elevation": "",
+      "timezone": "America/Cayenne",
+      "wiki_link": "https://en.wikipedia.org/wiki/R%C3%A9gina_Airport"
+    },
+    {
+      "iata_code": "XAU",
+      "icao_code": "SOOS",
+      "name": "Saül Airport",
+      "city_name_list": "Saül Airport",
+      "country_code": "GF",
+      "country_name": "French Guiana",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Guyane",
+      "latitude": 4.783,
+      "longitude": -52.42,
+      "elevation": "",
+      "timezone": "America/Cayenne",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sa%C3%BCl_Airport"
+    }
+  ],
+  "meta": {
+    "title": "French Guiana — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in French Guiana: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "French Guiana — IATA Airports | ListBase",
+    "seo_description": "Download French Guiana — IATA Airports dataset with 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

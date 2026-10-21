@@ -1,0 +1,301 @@
+{
+  "id": "gm-political-parties",
+  "name": "Gambia — Political Parties",
+  "title": "Gambia — Political Parties",
+  "description": "Political parties of Gambia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5084,
+      "name_short": "PPP",
+      "name": "People's Progressive Party",
+      "name_english": "People's Progressive Party",
+      "name_other": "",
+      "year_first": 1959,
+      "year_last": "",
+      "share": 87.5,
+      "share_year": 1972,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Progressive_Party_(Gambia)",
+      "description": "member of 6066",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3716,
+      "name_short": "APRC",
+      "name": "Alliance for Patriotic Reorientation and Construction",
+      "name_english": "Alliance for Patriotic Reorientation and Construction",
+      "name_other": "",
+      "year_first": 1996,
+      "year_last": "",
+      "share": 59.8,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Alliance_for_Patriotic_Reorientation_and_Construction",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6713,
+      "name_short": "STG",
+      "name": "Syndicat des travailleurs de Gambie",
+      "name_english": "Gambia Labour Union",
+      "name_other": "",
+      "year_first": 1947,
+      "year_last": 1947,
+      "share": 46.7,
+      "share_year": 1947,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6509,
+      "name_short": "DP",
+      "name": "Democratic Party",
+      "name_english": "Democratic Party",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": 1962,
+      "share": 40,
+      "share_year": 1951,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_(Gambia)",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6510,
+      "name_short": "MCP",
+      "name": "Muslim Congress Party",
+      "name_english": "Muslim Congress Party",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": 1962,
+      "share": 36.6,
+      "share_year": 1951,
+      "wikipedia": "https://en.wikipedia.org/wiki/Muslim_Congress_Party",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3715,
+      "name_short": "UDP",
+      "name": "United Democratic Party",
+      "name_english": "United Democratic Party",
+      "name_other": "",
+      "year_first": 1997,
+      "year_last": 2007,
+      "share": 34.1,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Democratic_Party_(Gambia)",
+      "description": "member of 6066",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5083,
+      "name_short": "UP",
+      "name": "United Party",
+      "name_english": "United Party",
+      "name_other": "",
+      "year_first": 1966,
+      "year_last": 1992,
+      "share": 33.3,
+      "share_year": 1966,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Party_(Gambia)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5954,
+      "name_short": "GDC",
+      "name": "Gambia Democratic Congress",
+      "name_english": "Gambia Democratic Congress",
+      "name_other": "",
+      "year_first": 2016,
+      "year_last": "",
+      "share": 17.4,
+      "share_year": 2017,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gambia_Democratic_Congress",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5082,
+      "name_short": "NCP",
+      "name": "National Convention Party",
+      "name_english": "National Convention Party",
+      "name_other": "",
+      "year_first": 1975,
+      "year_last": 2002,
+      "share": 16.7,
+      "share_year": 1992,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Convention_Party_(Gambia)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3718,
+      "name_short": "PDOIS",
+      "name": "People's Democratic Organisation for Independence and Socialism",
+      "name_english": "People's Democratic Organisation for Independence and Socialism",
+      "name_other": "",
+      "year_first": 1986,
+      "year_last": "",
+      "share": 7.9,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Democratic_Organisation_for_Independence_and_Socialism",
+      "description": "member of 6066",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6215,
+      "name_short": "Gpp",
+      "name": "Gambian People's Party",
+      "name_english": "Gambian People's Party",
+      "name_other": "",
+      "year_first": 1986,
+      "year_last": 1994,
+      "share": 6.9,
+      "share_year": 1992,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gambian_People%27s_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3717,
+      "name_short": "NRP",
+      "name": "National Reconciliation Party",
+      "name_english": "National Reconciliation Party",
+      "name_other": "",
+      "year_first": 1997,
+      "year_last": 2007,
+      "share": 5.7,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Reconciliation_Party",
+      "description": "member of 6066",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6066,
+      "name_short": "NADD",
+      "name": "National Alliance for Democracy and Development",
+      "name_english": "National Alliance for Democracy and Development",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": 2012,
+      "share": 5.3,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Alliance_for_Democracy_and_Development",
+      "description": "consists of 3717 3718 5084 3715",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6511,
+      "name_short": "DCA",
+      "name": "Democratic Congress Alliance",
+      "name_english": "Democratic Congress Alliance",
+      "name_other": "",
+      "year_first": 1960,
+      "year_last": 1966,
+      "share": 5.1,
+      "share_year": 1960,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Congress_Alliance",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Gambia — Political Parties - Free Download",
+    "description": "Political parties of Gambia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gambia — Political Parties | ListBase",
+    "seo_description": "Download Gambia — Political Parties dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

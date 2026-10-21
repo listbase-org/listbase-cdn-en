@@ -1,0 +1,346 @@
+{
+  "id": "ie-airports-iata",
+  "name": "Ireland — IATA Airports",
+  "title": "Ireland — IATA Airports",
+  "description": "Airports with IATA codes in Ireland: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BLY",
+      "icao_code": "EIBT",
+      "name": "Belmullet Aerodrome",
+      "city_name_list": "Belmullet",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Connacht",
+      "latitude": 54.23,
+      "longitude": -10,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Belmullet_Aerodrome"
+    },
+    {
+      "iata_code": "BYT",
+      "icao_code": "EIBN",
+      "name": "Bantry Aerodrome",
+      "city_name_list": "Bantry",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Munster",
+      "latitude": 51.68,
+      "longitude": -9.45,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bantry_Aerodrome"
+    },
+    {
+      "iata_code": "CFN",
+      "icao_code": "EIDL",
+      "name": "Donegal Airport",
+      "city_name_list": "Donegal",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Ulster",
+      "latitude": 55.04413,
+      "longitude": -8.34128,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Donegal_Airport"
+    },
+    {
+      "iata_code": "DUB",
+      "icao_code": "EIDW",
+      "name": "Dublin Airport",
+      "city_name_list": "Dublin",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Leinster",
+      "latitude": 53.42133,
+      "longitude": -6.27008,
+      "elevation": 73,
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dublin_Airport"
+    },
+    {
+      "iata_code": "GWY",
+      "icao_code": "EICM",
+      "name": "Galway Airport",
+      "city_name_list": "Galway",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Connacht",
+      "latitude": 53.300175,
+      "longitude": -8.941592,
+      "elevation": 25,
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Galway_Airport"
+    },
+    {
+      "iata_code": "IIA",
+      "icao_code": "EIMN",
+      "name": "Inishmaan Aerodrome",
+      "city_name_list": "Inishman",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Connacht",
+      "latitude": 53.09286,
+      "longitude": -9.56759,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Inishmaan_Aerodrome"
+    },
+    {
+      "iata_code": "INQ",
+      "icao_code": "EIIR",
+      "name": "Inisheer Aerodrome",
+      "city_name_list": "Inisheer",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Connacht",
+      "latitude": 53.03,
+      "longitude": -9.433,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Inisheer_Aerodrome"
+    },
+    {
+      "iata_code": "IOR",
+      "icao_code": "EIIM",
+      "name": "Inishmore Aerodrome",
+      "city_name_list": "Inishmore Aerodrome",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Connacht",
+      "latitude": 53.12,
+      "longitude": -9.75,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Inishmore_Aerodrome"
+    },
+    {
+      "iata_code": "KIR",
+      "icao_code": "EIKY",
+      "name": "Kerry Airport",
+      "city_name_list": "Kerry",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Munster",
+      "latitude": 52.1809,
+      "longitude": -9.52378,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kerry_Airport"
+    },
+    {
+      "iata_code": "KKY",
+      "icao_code": "EIKK",
+      "name": "Kilkenny Airport",
+      "city_name_list": "Kilkenny",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Leinster",
+      "latitude": 52.65,
+      "longitude": -7.25,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kilkenny_Airport"
+    },
+    {
+      "iata_code": "LTR",
+      "icao_code": "EILT",
+      "name": "Letterkenny Airport",
+      "city_name_list": "Letterkenny",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Ulster",
+      "latitude": 54.95,
+      "longitude": -7.733,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "NNR",
+      "icao_code": "EICA",
+      "name": "Connemara Regional Airport",
+      "city_name_list": "Spiddal",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Connacht",
+      "latitude": 53.25,
+      "longitude": -9.3,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Connemara_Airport"
+    },
+    {
+      "iata_code": "NOC",
+      "icao_code": "EIKN",
+      "name": "Ireland West Airport Knock",
+      "city_name_list": "Knock=Charlestown",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Connacht",
+      "latitude": 53.91028,
+      "longitude": -8.81806,
+      "elevation": 203,
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ireland_West_Airport"
+    },
+    {
+      "iata_code": "ORK",
+      "icao_code": "EICK",
+      "name": "Cork Airport",
+      "city_name_list": "Cork",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Munster",
+      "latitude": 51.841269,
+      "longitude": -8.491111,
+      "elevation": 153,
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Cork_Airport"
+    },
+    {
+      "iata_code": "SNN",
+      "icao_code": "EINN",
+      "name": "Shannon Airport",
+      "city_name_list": "Shannon",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Munster",
+      "latitude": 52.701978,
+      "longitude": -8.924817,
+      "elevation": 14,
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Shannon_Airport"
+    },
+    {
+      "iata_code": "SXL",
+      "icao_code": "EISG",
+      "name": "Sligo Airport",
+      "city_name_list": "Sligo",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Connacht",
+      "latitude": 54.280214,
+      "longitude": -8.599206,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sligo_Airport"
+    },
+    {
+      "iata_code": "WAT",
+      "icao_code": "EIWF",
+      "name": "Waterford Airport",
+      "city_name_list": "Waterford",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Munster",
+      "latitude": 52.1872,
+      "longitude": -7.086964,
+      "elevation": "",
+      "timezone": "Europe/Dublin",
+      "wiki_link": "https://en.wikipedia.org/wiki/Waterford_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Ireland — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Ireland: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ireland — IATA Airports | ListBase",
+    "seo_description": "Download Ireland — IATA Airports dataset with 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "tm-unesco-heritage",
+  "name": "Turkmenistan — UNESCO World Heritage Sites",
+  "title": "Turkmenistan — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Turkmenistan, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 886,
+      "name": "State Historical and Cultural Park ?Ancient Merv?",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c2, c3",
+      "lat": 37.70083,
+      "lon": 62.1775,
+      "area_hectares": 353.24,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "tm",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1199,
+      "name": "Kunya-Urgench",
+      "category": "cultural",
+      "date_inscribed": 2005,
+      "criteria": "c2, c3",
+      "lat": 42.18318,
+      "lon": 59.08494,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "tm",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1242,
+      "name": "Parthian Fortresses of Nisa",
+      "category": "cultural",
+      "date_inscribed": 2007,
+      "criteria": "c2, c3",
+      "lat": 37.99972222,
+      "lon": 58.19861111,
+      "area_hectares": 77.905,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "tm",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Turkmenistan — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Turkmenistan, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 3 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Turkmenistan — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Turkmenistan — UNESCO World Heritage Sites dataset with 3 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 3 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

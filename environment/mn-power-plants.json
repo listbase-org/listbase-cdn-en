@@ -1,0 +1,250 @@
+{
+  "id": "mn-power-plants",
+  "name": "Mongolia — Power Plants",
+  "title": "Mongolia — Power Plants",
+  "description": "Power plants located in Mongolia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ulaanbaatar-4 Thermal Power Plant",
+      "gppd_idnr": "WRI1000181",
+      "capacity_mw": 570,
+      "latitude": 47.8938,
+      "longitude": 106.8036,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": 1984,
+      "owner": "Thermal Power Plant-4 SSH Co",
+      "source": "GCPT",
+      "url": "https://endcoal.org/global-coal-plant-tracker/",
+      "geolocation_source": "GCPT",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 3295.04",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ulaanbaatar-3 Thermal Power Plant",
+      "gppd_idnr": "WRI1000182",
+      "capacity_mw": 198,
+      "latitude": 47.8956,
+      "longitude": 106.8651,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": 2014,
+      "owner": "Thermal Power Plant-3 SSH Co",
+      "source": "GCPT",
+      "url": "https://endcoal.org/global-coal-plant-tracker/",
+      "geolocation_source": "GCPT",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1144.59",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Salkhit",
+      "gppd_idnr": "WRI1000185",
+      "capacity_mw": 50,
+      "latitude": 47.163,
+      "longitude": 108.0391,
+      "primary_fuel": "Wind",
+      "other_fuels": "",
+      "commissioning_year": 2013,
+      "owner": "",
+      "source": "Global Engineering Management and Development Consultants",
+      "url": "https://www.mottmac.com/article/2321/salkhit-wind-farm-mongolia",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2014: 147.55; 2015: 199.94; 2016: 179.43; 2017: 125.39",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Dornod power station",
+      "gppd_idnr": "WRI1075838",
+      "capacity_mw": 36,
+      "latitude": 48.0793,
+      "longitude": 114.555,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": 1982,
+      "owner": "Central Energy System",
+      "source": "GCPT",
+      "url": "https://endcoal.org/global-coal-plant-tracker/",
+      "geolocation_source": "GCPT",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 208.1",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Khushight Kundi",
+      "gppd_idnr": "WKS0070951",
+      "capacity_mw": 15,
+      "latitude": 47.67,
+      "longitude": 106.77,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 24.36; 2014: 25.43; 2015: 25.38; 2016: 23.09; 2017: 23.84",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Zamyn-Üüd",
+      "gppd_idnr": "WKS0072178",
+      "capacity_mw": 15,
+      "latitude": 43.725,
+      "longitude": 111.827,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 24.63; 2014: 24.52; 2015: 25.18; 2016: 23.41; 2017: 22.62",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Darkhan",
+      "gppd_idnr": "WKS0068801",
+      "capacity_mw": 10,
+      "latitude": 49.4,
+      "longitude": 105.941,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 15.09; 2014: 14.78; 2015: 14.78; 2016: 15.14; 2017: 15.24",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sumber Soum",
+      "gppd_idnr": "WKS0070404",
+      "capacity_mw": 10,
+      "latitude": 46.44,
+      "longitude": 108.415,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 15.24; 2014: 14.95; 2015: 14.95; 2016: 15.13; 2017: 15.51",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Mongolia — Power Plants - Free Download",
+    "description": "Power plants located in Mongolia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mongolia — Power Plants | ListBase",
+    "seo_description": "Download Mongolia — Power Plants dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

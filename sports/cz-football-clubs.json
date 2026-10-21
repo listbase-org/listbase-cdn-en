@@ -1,0 +1,655 @@
+{
+  "id": "cz-football-clubs",
+  "name": "Czech Republic — Football Clubs",
+  "title": "Czech Republic — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Czech Republic's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "MladaBoleslav",
+      "matches_played": 495,
+      "seasons_count": 17,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2-1998-1999, division-2-1999-2000, division-2-2001-2002, division-2-2002-2003, division-2-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006, gambrinus-liga-2006-2007, gambrinus-li…"
+    },
+    {
+      "name": "Brno",
+      "matches_played": 467,
+      "seasons_count": 16,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2-2011-2012, gambrinus-liga-1998-1999, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006, gambrinus-liga-2006-20…"
+    },
+    {
+      "name": "Jablonec",
+      "matches_played": 467,
+      "seasons_count": 16,
+      "leagues": "gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "gambrinus-liga-1998-1999, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006, gambrinus-liga-2006-2007, gambrinus-liga-200…"
+    },
+    {
+      "name": "Liberec",
+      "matches_played": 467,
+      "seasons_count": 16,
+      "leagues": "gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "gambrinus-liga-1998-1999, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006, gambrinus-liga-2006-2007, gambrinus-liga-200…"
+    },
+    {
+      "name": "Ostrava",
+      "matches_played": 467,
+      "seasons_count": 16,
+      "leagues": "gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "gambrinus-liga-1998-1999, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006, gambrinus-liga-2006-2007, gambrinus-liga-200…"
+    },
+    {
+      "name": "Pribram",
+      "matches_played": 467,
+      "seasons_count": 16,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2-2007-2008, gambrinus-liga-1998-1999, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006, gambrinus-liga-2006-20…"
+    },
+    {
+      "name": "SlaviaPrague",
+      "matches_played": 467,
+      "seasons_count": 16,
+      "leagues": "gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "gambrinus-liga-1998-1999, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006, gambrinus-liga-2006-2007, gambrinus-liga-200…"
+    },
+    {
+      "name": "SpartaPrague",
+      "matches_played": 467,
+      "seasons_count": 16,
+      "leagues": "gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "gambrinus-liga-1998-1999, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006, gambrinus-liga-2006-2007, gambrinus-liga-200…"
+    },
+    {
+      "name": "Teplice",
+      "matches_played": 467,
+      "seasons_count": 16,
+      "leagues": "gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "gambrinus-liga-1998-1999, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006, gambrinus-liga-2006-2007, gambrinus-liga-200…"
+    },
+    {
+      "name": "Plzen",
+      "matches_played": 466,
+      "seasons_count": 16,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2-1999-2000, division-2-2001-2002, division-2-2002-2003, gambrinus-liga-1998-1999, gambrinus-liga-2003-2004, gambrinus-liga-2005-2006, gambrinus-liga-2006-2007, gambrinus-liga-2007-2008, gamb…"
+    },
+    {
+      "name": "SigmaOlomouc",
+      "matches_played": 466,
+      "seasons_count": 16,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2-2014-2015, gambrinus-liga-1998-1999, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006, gambrinus-liga-2006-20…"
+    },
+    {
+      "name": "Slovacko",
+      "matches_played": 465,
+      "seasons_count": 16,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2-1998-1999, division-2-1999-2000, division-2-2007-2008, division-2-2008-2009, gambrinus-liga-2001-2002, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006, gambrinu…"
+    },
+    {
+      "name": "CeskeBudejovice",
+      "matches_played": 463,
+      "seasons_count": 16,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-1998-1999, division-2-2001-2002, division-2-2005-2006, division-2-2013-2014, gambrinus-liga-1999-2000, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2006-20…"
+    },
+    {
+      "name": "Zlin",
+      "matches_played": 463,
+      "seasons_count": 16,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2-1998-1999, division-2-1999-2000, division-2-2001-2002, division-2-2009-2010, division-2-2010-2011, division-2-2011-2012, division-2-2012-2013, division-2-2013-2014, division-2-2014-2015, ga…"
+    },
+    {
+      "name": "Most",
+      "matches_played": 446,
+      "seasons_count": 15,
+      "leagues": "division-2, gambrinus-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2-1998-1999, division-2-1999-2000, division-2-2001-2002, division-2-2002-2003, division-2-2003-2004, division-2-2008-2009, division-2-2009-2010, division-2-2010-2011, division-2-2011-2012, di…"
+    },
+    {
+      "name": "HradecKralove",
+      "matches_played": 434,
+      "seasons_count": 15,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-2003-2004, division-2-2005-2006, division-2-2006-2007, division-2-2007-2008, division-2-2008-2009, division-2-2009-2010, division-2-2013-2014, gambrinus-liga-1998-1999, gambrinu…"
+    },
+    {
+      "name": "Zizkov",
+      "matches_played": 418,
+      "seasons_count": 14,
+      "leagues": "division-2, gambrinus-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2-2005-2006, division-2-2006-2007, division-2-2009-2010, division-2-2010-2011, division-2-2012-2013, division-2-2013-2014, division-2-2014-2015, gambrinus-liga-1998-1999, gambrinus-liga-1999-…"
+    },
+    {
+      "name": "Jihlava",
+      "matches_played": 407,
+      "seasons_count": 14,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 2001,
+      "last_season_year": 2014,
+      "seasons": "division-2-2001-2002, division-2-2002-2003, division-2-2003-2004, division-2-2006-2007, division-2-2007-2008, division-2-2008-2009, division-2-2009-2010, division-2-2010-2011, division-2-2011-2012, ga…"
+    },
+    {
+      "name": "Bohemians1905",
+      "matches_played": 406,
+      "seasons_count": 14,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2-1998-1999, division-2-2003-2004, division-2-2006-2007, division-2-2008-2009, division-2-2012-2013, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2007-2008, gambrinus-li…"
+    },
+    {
+      "name": "Opava",
+      "matches_played": 404,
+      "seasons_count": 14,
+      "leagues": "division-2, gambrinus-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-2002-2003, division-2-2006-2007, division-2-2007-2008, division-2-2008-2009, division-2-2009-2010, division-2-2011-2012, division-2-2012-2013, division-2-2014-2015, gambrinus-li…"
+    },
+    {
+      "name": "UstinadLabem",
+      "matches_played": 312,
+      "seasons_count": 11,
+      "leagues": "division-2, gambrinus-liga",
+      "first_season_year": 2005,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-2005-2006, division-2-2006-2007, division-2-2007-2008, division-2-2008-2009, division-2-2009-2010, division-2-2011-2012, division-2-2012-2013, division-2-2013-2014, division-2-2…"
+    },
+    {
+      "name": "Trinec",
+      "matches_played": 311,
+      "seasons_count": 11,
+      "leagues": "division-2",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-1998-1999, division-2-1999-2000, division-2-2006-2007, division-2-2007-2008, division-2-2008-2009, division-2-2009-2010, division-2-2010-2011, division-2-2011-2012, division-2-2…"
+    },
+    {
+      "name": "Vitkovice",
+      "matches_played": 298,
+      "seasons_count": 10,
+      "leagues": "division-2",
+      "first_season_year": 1998,
+      "last_season_year": 2009,
+      "seasons": "division-2-1998-1999, division-2-1999-2000, division-2-2001-2002, division-2-2002-2003, division-2-2003-2004, division-2-2005-2006, division-2-2006-2007, division-2-2007-2008, division-2-2008-2009, di…"
+    },
+    {
+      "name": "Sokolov",
+      "matches_played": 283,
+      "seasons_count": 10,
+      "leagues": "division-2",
+      "first_season_year": 2006,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-2006-2007, division-2-2007-2008, division-2-2008-2009, division-2-2009-2010, division-2-2010-2011, division-2-2011-2012, division-2-2012-2013, division-2-2013-2014, division-2-2…"
+    },
+    {
+      "name": "Karvina",
+      "matches_played": 281,
+      "seasons_count": 10,
+      "leagues": "division-2, gambrinus-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-1999-2000, division-2-2008-2009, division-2-2009-2010, division-2-2010-2011, division-2-2011-2012, division-2-2012-2013, division-2-2013-2014, division-2-2014-2015, gambrinus-li…"
+    },
+    {
+      "name": "DuklaPrague",
+      "matches_played": 257,
+      "seasons_count": 9,
+      "leagues": "division-2, gambrinus-liga, synot-liga",
+      "first_season_year": 2007,
+      "last_season_year": 2014,
+      "seasons": "division-2-2007-2008, division-2-2008-2009, division-2-2009-2010, division-2-2010-2011, gambrinus-liga-2011-2012, gambrinus-liga-2012-2013, gambrinus-liga-2013-2014, synot-liga, synot-liga-2014-2015"
+    },
+    {
+      "name": "HFKOlomouc",
+      "matches_played": 240,
+      "seasons_count": 8,
+      "leagues": "division-2",
+      "first_season_year": 2001,
+      "last_season_year": 2012,
+      "seasons": "division-2-2001-2002, division-2-2002-2003, division-2-2003-2004, division-2-2005-2006, division-2-2006-2007, division-2-2007-2008, division-2-2008-2009, division-2-2012-2013"
+    },
+    {
+      "name": "Blsany",
+      "matches_played": 210,
+      "seasons_count": 7,
+      "leagues": "division-2, gambrinus-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2006,
+      "seasons": "division-2-2006-2007, gambrinus-liga-1998-1999, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2003-2004, gambrinus-liga-2004-2005, gambrinus-liga-2005-2006"
+    },
+    {
+      "name": "Caslav",
+      "matches_played": 210,
+      "seasons_count": 7,
+      "leagues": "division-2",
+      "first_season_year": 2006,
+      "last_season_year": 2012,
+      "seasons": "division-2-2006-2007, division-2-2007-2008, division-2-2008-2009, division-2-2009-2010, division-2-2010-2011, division-2-2011-2012, division-2-2012-2013"
+    },
+    {
+      "name": "Kladno",
+      "matches_played": 210,
+      "seasons_count": 7,
+      "leagues": "division-2, gambrinus-liga",
+      "first_season_year": 2003,
+      "last_season_year": 2010,
+      "seasons": "division-2-2003-2004, division-2-2005-2006, division-2-2010-2011, gambrinus-liga-2006-2007, gambrinus-liga-2007-2008, gambrinus-liga-2008-2009, gambrinus-liga-2009-2010"
+    },
+    {
+      "name": "SpartaPragueB",
+      "matches_played": 210,
+      "seasons_count": 7,
+      "leagues": "division-2",
+      "first_season_year": 2002,
+      "last_season_year": 2011,
+      "seasons": "division-2-2002-2003, division-2-2003-2004, division-2-2005-2006, division-2-2008-2009, division-2-2009-2010, division-2-2010-2011, division-2-2011-2012"
+    },
+    {
+      "name": "Vlasim",
+      "matches_played": 192,
+      "seasons_count": 7,
+      "leagues": "division-2",
+      "first_season_year": 2009,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-2009-2010, division-2-2010-2011, division-2-2011-2012, division-2-2012-2013, division-2-2013-2014, division-2-2014-2015"
+    },
+    {
+      "name": "Drnovice",
+      "matches_played": 180,
+      "seasons_count": 6,
+      "leagues": "division-2, gambrinus-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2005,
+      "seasons": "division-2-2003-2004, division-2-2005-2006, gambrinus-liga-1998-1999, gambrinus-liga-1999-2000, gambrinus-liga-2001-2002, gambrinus-liga-2004-2005"
+    },
+    {
+      "name": "BohemiansPrague",
+      "matches_played": 179,
+      "seasons_count": 6,
+      "leagues": "division-2, gambrinus-liga",
+      "first_season_year": 2007,
+      "last_season_year": 2013,
+      "seasons": "division-2-2007-2008, division-2-2011-2012, division-2-2012-2013, division-2-2013-2014, gambrinus-liga-2008-2009, gambrinus-liga-2009-2010"
+    },
+    {
+      "name": "SCXaverov",
+      "matches_played": 178,
+      "seasons_count": 6,
+      "leagues": "division-2",
+      "first_season_year": 1998,
+      "last_season_year": 2005,
+      "seasons": "division-2-1998-1999, division-2-1999-2000, division-2-2001-2002, division-2-2002-2003, division-2-2003-2004, division-2-2005-2006"
+    },
+    {
+      "name": "SigmaOlomoucB",
+      "matches_played": 165,
+      "seasons_count": 6,
+      "leagues": "division-2",
+      "first_season_year": 2001,
+      "last_season_year": 2006,
+      "seasons": "division-2, division-2-2001-2002, division-2-2002-2003, division-2-2003-2004, division-2-2005-2006, division-2-2006-2007"
+    },
+    {
+      "name": "Varnsdorf",
+      "matches_played": 163,
+      "seasons_count": 6,
+      "leagues": "division-2",
+      "first_season_year": 2010,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-2010-2011, division-2-2011-2012, division-2-2012-2013, division-2-2013-2014, division-2-2014-2015"
+    },
+    {
+      "name": "Znojmo",
+      "matches_played": 163,
+      "seasons_count": 6,
+      "leagues": "division-2, gambrinus-liga",
+      "first_season_year": 2010,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-2010-2011, division-2-2011-2012, division-2-2012-2013, division-2-2014-2015, gambrinus-liga-2013-2014"
+    },
+    {
+      "name": "Hlucin",
+      "matches_played": 150,
+      "seasons_count": 5,
+      "leagues": "division-2",
+      "first_season_year": 2005,
+      "last_season_year": 2010,
+      "seasons": "division-2-2005-2006, division-2-2006-2007, division-2-2007-2008, division-2-2009-2010, division-2-2010-2011"
+    },
+    {
+      "name": "Frydek",
+      "matches_played": 134,
+      "seasons_count": 5,
+      "leagues": "division-2",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-1998-1999, division-2-1999-2000, division-2-2013-2014, division-2-2014-2015"
+    },
+    {
+      "name": "FKASPardubice",
+      "matches_played": 120,
+      "seasons_count": 4,
+      "leagues": "division-2",
+      "first_season_year": 2001,
+      "last_season_year": 2005,
+      "seasons": "division-2-2001-2002, division-2-2002-2003, division-2-2003-2004, division-2-2005-2006"
+    },
+    {
+      "name": "Prostejov",
+      "matches_played": 118,
+      "seasons_count": 4,
+      "leagues": "division-2",
+      "first_season_year": 1998,
+      "last_season_year": 2002,
+      "seasons": "division-2-1998-1999, division-2-1999-2000, division-2-2001-2002, division-2-2002-2003"
+    },
+    {
+      "name": "FKPardubice",
+      "matches_played": 102,
+      "seasons_count": 4,
+      "leagues": "division-2",
+      "first_season_year": 2012,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-2012-2013, division-2-2013-2014, division-2-2014-2015"
+    },
+    {
+      "name": "MasTaborsko",
+      "matches_played": 102,
+      "seasons_count": 4,
+      "leagues": "division-2",
+      "first_season_year": 2012,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-2012-2013, division-2-2013-2014, division-2-2014-2015"
+    },
+    {
+      "name": "FKKunovice",
+      "matches_played": 90,
+      "seasons_count": 3,
+      "leagues": "division-2",
+      "first_season_year": 2002,
+      "last_season_year": 2005,
+      "seasons": "division-2-2002-2003, division-2-2003-2004, division-2-2005-2006"
+    },
+    {
+      "name": "Neratovice",
+      "matches_played": 89,
+      "seasons_count": 3,
+      "leagues": "division-2",
+      "first_season_year": 1999,
+      "last_season_year": 2002,
+      "seasons": "division-2-1999-2000, division-2-2001-2002, division-2-2002-2003"
+    },
+    {
+      "name": "Mistek",
+      "matches_played": 67,
+      "seasons_count": 5,
+      "leagues": "division-2",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-2, division-2-1998-1999, division-2-1999-2000, division-2-2013-2014, division-2-2014-2015"
+    },
+    {
+      "name": "BrnoB",
+      "matches_played": 60,
+      "seasons_count": 2,
+      "leagues": "division-2",
+      "first_season_year": 2003,
+      "last_season_year": 2005,
+      "seasons": "division-2-2003-2004, division-2-2005-2006"
+    },
+    {
+      "name": "Chomutov",
+      "matches_played": 60,
+      "seasons_count": 2,
+      "leagues": "division-2",
+      "first_season_year": 2001,
+      "last_season_year": 2002,
+      "seasons": "division-2-2001-2002, division-2-2002-2003"
+    },
+    {
+      "name": "Fulnek",
+      "matches_played": 60,
+      "seasons_count": 2,
+      "leagues": "division-2",
+      "first_season_year": 2007,
+      "last_season_year": 2008,
+      "seasons": "division-2-2007-2008, division-2-2008-2009"
+    },
+    {
+      "name": "SezimovoUsti",
+      "matches_played": 60,
+      "seasons_count": 2,
+      "leagues": "division-2",
+      "first_season_year": 2010,
+      "last_season_year": 2011,
+      "seasons": "division-2-2010-2011, division-2-2011-2012"
+    },
+    {
+      "name": "Kolin",
+      "matches_played": 59,
+      "seasons_count": 2,
+      "leagues": "division-2",
+      "first_season_year": 2001,
+      "last_season_year": 2014,
+      "seasons": "division-2-2001-2002, division-2-2014-2015"
+    },
+    {
+      "name": "Ratiskovice",
+      "matches_played": 59,
+      "seasons_count": 2,
+      "leagues": "division-2",
+      "first_season_year": 1999,
+      "last_season_year": 2001,
+      "seasons": "division-2-1999-2000, division-2-2001-2002"
+    },
+    {
+      "name": "LazneBohdanec",
+      "matches_played": 58,
+      "seasons_count": 2,
+      "leagues": "division-2",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "division-2-1998-1999, division-2-1999-2000"
+    },
+    {
+      "name": "OstravaNH",
+      "matches_played": 58,
+      "seasons_count": 2,
+      "leagues": "division-2",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "division-2-1998-1999, division-2-1999-2000"
+    },
+    {
+      "name": "TatranPostorna",
+      "matches_played": 58,
+      "seasons_count": 2,
+      "leagues": "division-2",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "division-2-1998-1999, division-2-1999-2000"
+    },
+    {
+      "name": "Bystrc",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "division-2",
+      "first_season_year": 2006,
+      "last_season_year": 2006,
+      "seasons": "division-2-2006-2007"
+    },
+    {
+      "name": "DolniKounice",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "division-2",
+      "first_season_year": 2002,
+      "last_season_year": 2002,
+      "seasons": "division-2-2002-2003"
+    },
+    {
+      "name": "Jakubcovice",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "division-2",
+      "first_season_year": 2006,
+      "last_season_year": 2006,
+      "seasons": "division-2-2006-2007"
+    },
+    {
+      "name": "Krc",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "division-2",
+      "first_season_year": 2007,
+      "last_season_year": 2007,
+      "seasons": "division-2-2007-2008"
+    },
+    {
+      "name": "Kromeriz",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "division-2",
+      "first_season_year": 2005,
+      "last_season_year": 2005,
+      "seasons": "division-2-2005-2006"
+    },
+    {
+      "name": "TatranPrachatice",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "division-2",
+      "first_season_year": 2003,
+      "last_season_year": 2003,
+      "seasons": "division-2-2003-2004"
+    },
+    {
+      "name": "CeskaLipa",
+      "matches_played": 29,
+      "seasons_count": 1,
+      "leagues": "division-2",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "division-2-1998-1999"
+    },
+    {
+      "name": "Prerov",
+      "matches_played": 29,
+      "seasons_count": 1,
+      "leagues": "division-2",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "division-2-1998-1999"
+    },
+    {
+      "name": "Vltavin",
+      "matches_played": 29,
+      "seasons_count": 1,
+      "leagues": "division-2",
+      "first_season_year": 2013,
+      "last_season_year": 2013,
+      "seasons": "division-2-2013-2014"
+    },
+    {
+      "name": "Vysehrad",
+      "matches_played": 14,
+      "seasons_count": 1,
+      "leagues": "division-2",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "division-2"
+    }
+  ],
+  "meta": {
+    "title": "Czech Republic — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Czech Republic's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Czech Republic — Football Clubs | ListBase",
+    "seo_description": "Download Czech Republic — Football Clubs dataset with 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

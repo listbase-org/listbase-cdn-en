@@ -1,0 +1,114 @@
+{
+  "id": "af-unesco-heritage",
+  "name": "Afghanistan — UNESCO World Heritage Sites",
+  "title": "Afghanistan — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Afghanistan, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 211,
+      "name": "Minaret and Archaeological Remains of Jam",
+      "category": "cultural",
+      "date_inscribed": 2002,
+      "criteria": "c2, c3, c4",
+      "lat": 34.39655556,
+      "lon": 64.51605556,
+      "area_hectares": 70,
+      "danger_list": "Y 2002",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "af",
+      "transboundary": false
+    },
+    {
+      "ref_no": 208,
+      "name": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley",
+      "category": "cultural",
+      "date_inscribed": 2003,
+      "criteria": "c1, c2, c3, c4, c6",
+      "lat": 34.84694,
+      "lon": 67.82525,
+      "area_hectares": 158.9265,
+      "danger_list": "Y 2003",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "af",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Afghanistan — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Afghanistan, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Afghanistan — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Afghanistan — UNESCO World Heritage Sites dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

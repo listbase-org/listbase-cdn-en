@@ -1,0 +1,256 @@
+{
+  "id": "gd-political-parties",
+  "name": "Grenada — Political Parties",
+  "title": "Grenada — Political Parties",
+  "description": "Political parties of Grenada from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3859,
+      "name_short": "NNP",
+      "name": "New National Party",
+      "name_english": "New National Party",
+      "name_other": "",
+      "year_first": 1984,
+      "year_last": "",
+      "share": 62.2,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/New_National_Party_(Grenada)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4431,
+      "name_short": "GULP",
+      "name": "Grenada United Labour Party",
+      "name_english": "Grenada United Labour Party",
+      "name_other": "",
+      "year_first": 1950,
+      "year_last": "",
+      "share": 58.9,
+      "share_year": 1972,
+      "wikipedia": "https://en.wikipedia.org/wiki/Grenada_United_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3861,
+      "name_short": "GNP",
+      "name": "Grenada National Party",
+      "name_english": "Grenada National Party",
+      "name_other": "",
+      "year_first": 1955,
+      "year_last": 1984,
+      "share": 53.7,
+      "share_year": 1962,
+      "wikipedia": "https://en.wikipedia.org/wiki/Grenada_National_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4240,
+      "name_short": "NDC",
+      "name": "National Democratic Congress",
+      "name_english": "National Democratic Congress",
+      "name_other": "",
+      "year_first": 1987,
+      "year_last": "",
+      "share": 51.2,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Democratic_Congress_(Grenada)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6231,
+      "name_short": "AC",
+      "name": "Action Council",
+      "name_english": "Action Council",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": 1954,
+      "share": 25.1,
+      "share_year": 1951,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4239,
+      "name_short": "PDM",
+      "name": "People’s Democratic Movement",
+      "name_english": "People’s Democratic Movement",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1957,
+      "share": 21.6,
+      "share_year": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Democratic_Movement_(Grenada)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3857,
+      "name_short": "TNP",
+      "name": "The National Party",
+      "name_english": "The National Party",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": 1995,
+      "share": 17.5,
+      "share_year": 1990,
+      "wikipedia": "https://en.wikipedia.org/wiki/The_National_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4432,
+      "name_short": "PPM",
+      "name": "People’s Progressive Movement",
+      "name_english": "People’s Progressive Movement",
+      "name_other": "",
+      "year_first": 1961,
+      "year_last": 1961,
+      "share": 11,
+      "share_year": 1961,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3865,
+      "name_short": "MaBiPaMo",
+      "name": "Maurice Bishop Patriotic Movement",
+      "name_english": "Maurice Bishop Patriotic Movement",
+      "name_other": "",
+      "year_first": 1984,
+      "year_last": 1999,
+      "share": 5,
+      "share_year": 1984,
+      "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Bishop_Patriotic_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4241,
+      "name_short": "PLM",
+      "name": "People’s Labour Movement",
+      "name_english": "People’s Labour Movement",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": 2008,
+      "share": 2.2,
+      "share_year": 2003,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Labour_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8384,
+      "name_short": "NJM",
+      "name": "New JEWEL Movement",
+      "name_english": "New JEWEL Movement",
+      "name_other": "",
+      "year_first": 1973,
+      "year_last": 1983,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Jewel_Movement",
+      "description": "Prime minister 1979-1983",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Grenada — Political Parties - Free Download",
+    "description": "Political parties of Grenada from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Grenada — Political Parties | ListBase",
+    "seo_description": "Download Grenada — Political Parties dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

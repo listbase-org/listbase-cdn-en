@@ -1,0 +1,331 @@
+{
+  "id": "sr-airports-iata",
+  "name": "Suriname — IATA Airports",
+  "title": "Suriname — IATA Airports",
+  "description": "Airports with IATA codes in Suriname: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "AAJ",
+      "icao_code": "SMCA",
+      "name": "Cayana Airstrip",
+      "city_name_list": "Cajana=Awa Dam",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Sipaliwini District",
+      "latitude": 3.89789,
+      "longitude": -55.57889,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Cayana_Airstrip"
+    },
+    {
+      "iata_code": "ABN",
+      "icao_code": "SMBN",
+      "name": "Albina Airstrip",
+      "city_name_list": "Albina",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Marowijne District",
+      "latitude": 5.51279,
+      "longitude": -54.05012,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Albina_Airstrip"
+    },
+    {
+      "iata_code": "AGI",
+      "icao_code": "SMWA",
+      "name": "Wageningen Airport Airport",
+      "city_name_list": "Wageningen",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Nickerie District",
+      "latitude": 5.767,
+      "longitude": -56.68,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Wageningen_Airstrip"
+    },
+    {
+      "iata_code": "BTO",
+      "icao_code": "SMBO",
+      "name": "Botopasi Airport",
+      "city_name_list": "Botopasi",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Sipaliwini District",
+      "latitude": 4.21802,
+      "longitude": -55.44645,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Botopasi_Airstrip"
+    },
+    {
+      "iata_code": "DRJ",
+      "icao_code": "SMDA",
+      "name": "Drietabbetje",
+      "city_name_list": "Drietabbetje",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Sipaliwini District",
+      "latitude": 5.483,
+      "longitude": -54.05,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Drietabbetje_Airstrip"
+    },
+    {
+      "iata_code": "EAX",
+      "icao_code": "SMEG",
+      "name": "Eduard Alexander Gummels Airport",
+      "city_name_list": "Paramaribo",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Paramaribo District",
+      "latitude": 5.85956,
+      "longitude": -55.19267,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Eduard_Alexander_Gummels_Airport"
+    },
+    {
+      "iata_code": "ICK",
+      "icao_code": "SMNI",
+      "name": "Majoor Henry Fernandes Airport",
+      "city_name_list": "Nieuw Nickerie",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Nickerie District",
+      "latitude": 5.95583,
+      "longitude": -57.03975,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Majoor_Henry_Fernandes_Airport"
+    },
+    {
+      "iata_code": "KCB",
+      "icao_code": "SMTP",
+      "name": "Tepoe Airstrip",
+      "city_name_list": "Pelelu Tepu",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Sipaliwini District",
+      "latitude": 3.1517,
+      "longitude": -55.71686,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tepoe_Airstrip"
+    },
+    {
+      "iata_code": "LDO",
+      "icao_code": "SMDO",
+      "name": "Laduani Airstrip",
+      "city_name_list": "Laduani",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Sipaliwini District",
+      "latitude": 4.37688,
+      "longitude": -55.4047,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Laduani_Airstrip"
+    },
+    {
+      "iata_code": "MOJ",
+      "icao_code": "SMMO",
+      "name": "Moengo Airstrip",
+      "city_name_list": "Moengo",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Marowijne District",
+      "latitude": 5.60766,
+      "longitude": -54.39943,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Moengo_Airstrip"
+    },
+    {
+      "iata_code": "OEM",
+      "icao_code": "SMPA",
+      "name": "Vincent Fayks Airport",
+      "city_name_list": "Paloemeu",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Sipaliwini District",
+      "latitude": 3.34661,
+      "longitude": -55.44341,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Vincent_Fayks_Airport"
+    },
+    {
+      "iata_code": "ORG",
+      "icao_code": "SMZO",
+      "name": "Zorg en Hoop Airport",
+      "city_name_list": "Paramaribo",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Paramaribo District",
+      "latitude": 5.76946,
+      "longitude": -55.22235,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Zorg_en_Hoop_Airport"
+    },
+    {
+      "iata_code": "PBM",
+      "icao_code": "SMJP",
+      "name": "Johan Adolf Pengel International Airport",
+      "city_name_list": "Paramaribo",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Para District",
+      "latitude": 5.45283,
+      "longitude": -55.18778,
+      "elevation": 17,
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Johan_Adolf_Pengel_International_Airport"
+    },
+    {
+      "iata_code": "SMZ",
+      "icao_code": "SMST",
+      "name": "Stoelmans Eiland Airstrip",
+      "city_name_list": "Stoelmanseiland",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Sipaliwini District",
+      "latitude": 4.35103,
+      "longitude": -54.41833,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Stoelmans_Eiland_Airstrip"
+    },
+    {
+      "iata_code": "TOT",
+      "icao_code": "SMCO",
+      "name": "Totness Airstrip",
+      "city_name_list": "Totness",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Coronie District",
+      "latitude": 5.86565,
+      "longitude": -56.32725,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Totness_Airstrip"
+    },
+    {
+      "iata_code": "WSO",
+      "icao_code": "SMWS",
+      "name": "Washabo Airport",
+      "city_name_list": "Wasjabo",
+      "country_code": "SR",
+      "country_name": "Suriname",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Sipaliwini District",
+      "latitude": 5.21363,
+      "longitude": -57.1856,
+      "elevation": "",
+      "timezone": "America/Paramaribo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Washabo_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Suriname — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Suriname: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Suriname — IATA Airports | ListBase",
+    "seo_description": "Download Suriname — IATA Airports dataset with 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

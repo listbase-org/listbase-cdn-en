@@ -1,0 +1,121 @@
+{
+  "id": "sa-political-parties",
+  "name": "Saudi Arabia — Political Parties",
+  "title": "Saudi Arabia — Political Parties",
+  "description": "Political parties of Saudi Arabia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "string"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6331,
+      "name_short": "ASAP-AP",
+      "name": "Arab Socialist Action Party – Arabian Peninsula",
+      "name_english": "Arab Socialist Action Party – Arabian Peninsula",
+      "name_other": "",
+      "year_first": 1972,
+      "year_last": 1990,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arab_Socialist_Action_Party_%E2%80%93_Arabian_Peninsula",
+      "description": "opposition group",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6299,
+      "name_short": "NRP",
+      "name": "Hezb Enqilab Mile",
+      "name_english": "National Revolutionary Party",
+      "name_other": "",
+      "year_first": 1973,
+      "year_last": 1973,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Revolutionary_Party_of_Afghanistan",
+      "description": "founded in 1974 by President Khan",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Saudi Arabia — Political Parties - Free Download",
+    "description": "Political parties of Saudi Arabia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Saudi Arabia — Political Parties | ListBase",
+    "seo_description": "Download Saudi Arabia — Political Parties dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

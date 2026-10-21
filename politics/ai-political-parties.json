@@ -1,0 +1,271 @@
+{
+  "id": "ai-political-parties",
+  "name": "Anguilla — Political Parties",
+  "title": "Anguilla — Political Parties",
+  "description": "Political parties of Anguilla from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6923,
+      "name_short": "PPP",
+      "name": "People's Progressive Party",
+      "name_english": "People's Progressive Party",
+      "name_other": "",
+      "year_first": 1972,
+      "year_last": 1980,
+      "share": 85.7,
+      "share_year": 1976,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Progressive_Party_(Anguilla)",
+      "description": "6 of 7 seats in 1976 Anguillan general election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3872,
+      "name_short": "ANA",
+      "name": "Anguilla National Alliance",
+      "name_english": "Anguilla National Alliance",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": 2000,
+      "share": 42.8,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/Anguilla_National_Alliance",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6922,
+      "name_short": "APP",
+      "name": "Anguilla People's Party",
+      "name_english": "Anguilla People's Party",
+      "name_other": "",
+      "year_first": 1981,
+      "year_last": 1984,
+      "share": 41.7,
+      "share_year": 1984,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6432,
+      "name_short": "AUF",
+      "name": "Anguilla United Front",
+      "name_english": "Anguilla United Front",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": "",
+      "share": 39.4,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/Anguilla_United_Front",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3869,
+      "name_short": "ADP",
+      "name": "Anguilla Democratic Party",
+      "name_english": "Anguilla Democratic Party",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": 2000,
+      "share": 32.9,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/Anguilla_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3870,
+      "name_short": "AUM",
+      "name": "Anguilla United Movement",
+      "name_english": "Anguilla United Movement",
+      "name_other": "",
+      "year_first": 1979,
+      "year_last": 2010,
+      "share": 32.7,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/Anguilla_United_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3876,
+      "name_short": "ASA",
+      "name": "Anguilla Strategic Alliance",
+      "name_english": "Anguilla Strategic Alliance",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": 2005,
+      "share": 19.3,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Anguilla_Strategic_Alliance",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3871,
+      "name_short": "APP",
+      "name": "Anguilla Progressive Party",
+      "name_english": "Anguilla Progressive Party",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": 2010,
+      "share": 14.7,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/Anguilla_Progressive_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3873,
+      "name_short": "AGG",
+      "name": "Anguilla for Good Government",
+      "name_english": "Anguilla for Good Government",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": 1994,
+      "share": 11.7,
+      "share_year": 1994,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3868,
+      "name_short": "PACE",
+      "name": "Party for Anguilla’s Culturation and Economy",
+      "name_english": "Party for Anguilla’s Culturation and Economy",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": 1989,
+      "share": 4.7,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/Anguillan_general_election,_1989",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3875,
+      "name_short": "APM",
+      "name": "Anguilla Patriotic Movement",
+      "name_english": "Anguilla Patriotic Movement",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": 2005,
+      "share": 4.1,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Anguilla_Patriotic_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3874,
+      "name_short": "MGD",
+      "name": "Movement for Grass Roots Democracy",
+      "name_english": "Movement for Grass Roots Democracy",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": 2005,
+      "share": 3.7,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Movement_for_Grassroots_Democracy",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Anguilla — Political Parties - Free Download",
+    "description": "Political parties of Anguilla from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Anguilla — Political Parties | ListBase",
+    "seo_description": "Download Anguilla — Political Parties dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

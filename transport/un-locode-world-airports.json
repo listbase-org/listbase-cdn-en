@@ -1,0 +1,3556 @@
+{
+  "id": "un-locode-world-airports",
+  "name": "UN/LOCODE World Airports with IATA Codes",
+  "title": "UN/LOCODE World Airports with IATA Codes",
+  "description": "Airports worldwide listed in the UN Code for Trade and Transport Locations (UN/LOCODE) that have an IATA code. Each record has the IATA code, country, LOCODE, city/airport name, subdivision, and geographic coordinates.",
+  "category": "transport",
+  "source": "https://github.com/datasets/un-locode",
+  "source_url": "https://github.com/datasets/un-locode",
+  "updated": "2026-04",
+  "record_count": 349,
+  "columns": [
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_ascii",
+      "label": "Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata": "OAZ",
+      "country": "AF",
+      "locode": "AFCBN",
+      "name": "Shorabak",
+      "name_ascii": "Shorabak",
+      "subdivision": "HEL",
+      "coordinates": "3151N 06413E",
+      "status": "AS"
+    },
+    {
+      "iata": "BXG",
+      "country": "AU",
+      "locode": "AUBDG",
+      "name": "Bendigo",
+      "name_ascii": "Bendigo",
+      "subdivision": "VIC",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "OOM",
+      "country": "AU",
+      "locode": "AUCOM",
+      "name": "Cooma",
+      "name_ascii": "Cooma",
+      "subdivision": "NSW",
+      "coordinates": "3614S 14908E",
+      "status": "AC"
+    },
+    {
+      "iata": "JFM",
+      "country": "AU",
+      "locode": "AUFRE",
+      "name": "Fremantle",
+      "name_ascii": "Fremantle",
+      "subdivision": "WA",
+      "coordinates": "",
+      "status": "AC"
+    },
+    {
+      "iata": "XAR",
+      "country": "BF",
+      "locode": "BFABD",
+      "name": "Aribinda",
+      "name_ascii": "Aribinda",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "XBG",
+      "country": "BF",
+      "locode": "BFBOG",
+      "name": "Bogandé",
+      "name_ascii": "Bogande",
+      "subdivision": "",
+      "coordinates": "1259N 00008W",
+      "status": "AI"
+    },
+    {
+      "iata": "XBO",
+      "country": "BF",
+      "locode": "BFBOU",
+      "name": "Boulsa",
+      "name_ascii": "Boulsa",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "XDE",
+      "country": "BF",
+      "locode": "BFDBG",
+      "name": "Diébougou",
+      "name_ascii": "Diebougou",
+      "subdivision": "",
+      "coordinates": "1058N 00315W",
+      "status": "AI"
+    },
+    {
+      "iata": "XDJ",
+      "country": "BF",
+      "locode": "BFDJI",
+      "name": "Djibo",
+      "name_ascii": "Djibo",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "XGA",
+      "country": "BF",
+      "locode": "BFGAO",
+      "name": "Gaoua",
+      "name_ascii": "Gaoua",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "XGG",
+      "country": "BF",
+      "locode": "BFGOG",
+      "name": "Gorom-Gorom",
+      "name_ascii": "Gorom-Gorom",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "XKA",
+      "country": "BF",
+      "locode": "BFKAN",
+      "name": "Kantchari",
+      "name_ascii": "Kantchari",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "XKY",
+      "country": "BF",
+      "locode": "BFKAY",
+      "name": "Kaya",
+      "name_ascii": "Kaya",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "XLU",
+      "country": "BF",
+      "locode": "BFLEO",
+      "name": "Léo",
+      "name_ascii": "Leo",
+      "subdivision": "",
+      "coordinates": "1106N 00206W",
+      "status": "AI"
+    },
+    {
+      "iata": "XNU",
+      "country": "BF",
+      "locode": "BFNOU",
+      "name": "Nouna",
+      "name_ascii": "Nouna",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "XPA",
+      "country": "BF",
+      "locode": "BFPAM",
+      "name": "Pama",
+      "name_ascii": "Pama",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "XSE",
+      "country": "BF",
+      "locode": "BFSEB",
+      "name": "Sebba",
+      "name_ascii": "Sebba",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "XZA",
+      "country": "BF",
+      "locode": "BFZAB",
+      "name": "Zabré",
+      "name_ascii": "Zabre",
+      "subdivision": "",
+      "coordinates": "1110N 00038W",
+      "status": "AI"
+    },
+    {
+      "iata": "LAZ",
+      "country": "BR",
+      "locode": "BRBJL",
+      "name": "Bom Jesus da Lapa",
+      "name_ascii": "Bom Jesus da Lapa",
+      "subdivision": "BA",
+      "coordinates": "1315S 04325W",
+      "status": "AA"
+    },
+    {
+      "iata": "RBB",
+      "country": "BR",
+      "locode": "BRBOB",
+      "name": "Borba",
+      "name_ascii": "Borba",
+      "subdivision": "AM",
+      "coordinates": "0423S 05935W",
+      "status": "AA"
+    },
+    {
+      "iata": "OAL",
+      "country": "BR",
+      "locode": "BRCCL",
+      "name": "Cacoal",
+      "name_ascii": "Cacoal",
+      "subdivision": "RO",
+      "coordinates": "1126S 06126W",
+      "status": "AA"
+    },
+    {
+      "iata": "CCI",
+      "country": "BR",
+      "locode": "BRCCD",
+      "name": "Concórdia",
+      "name_ascii": "Concordia",
+      "subdivision": "SC",
+      "coordinates": "2714S 05201W",
+      "status": "AA"
+    },
+    {
+      "iata": "DIQ",
+      "country": "BR",
+      "locode": "BRDIV",
+      "name": "Divinópolis",
+      "name_ascii": "Divinopolis",
+      "subdivision": "MG",
+      "coordinates": "2008S 04453W",
+      "status": "AA"
+    },
+    {
+      "iata": "ITA",
+      "country": "BR",
+      "locode": "BRIAR",
+      "name": "Itacoatiara",
+      "name_ascii": "Itacoatiara",
+      "subdivision": "AM",
+      "coordinates": "0308S 05826W",
+      "status": "AA"
+    },
+    {
+      "iata": "QIT",
+      "country": "BR",
+      "locode": "BRITG",
+      "name": "Itapetinga",
+      "name_ascii": "Itapetinga",
+      "subdivision": "BA",
+      "coordinates": "1514S 04014W",
+      "status": "AA"
+    },
+    {
+      "iata": "JDO",
+      "country": "BR",
+      "locode": "BRJNE",
+      "name": "Juazeiro do Norte",
+      "name_ascii": "Juazeiro do Norte",
+      "subdivision": "CE",
+      "coordinates": "0712S 03919W",
+      "status": "AA"
+    },
+    {
+      "iata": "QDV",
+      "country": "BR",
+      "locode": "BRJUN",
+      "name": "Jundiaí",
+      "name_ascii": "Jundiai",
+      "subdivision": "SP",
+      "coordinates": "2311S 04653W",
+      "status": "AA"
+    },
+    {
+      "iata": "PPY",
+      "country": "BR",
+      "locode": "BRPAR",
+      "name": "Pouso Alegre",
+      "name_ascii": "Pouso Alegre",
+      "subdivision": "MG",
+      "coordinates": "2213S 04556W",
+      "status": "AA"
+    },
+    {
+      "iata": "BVH",
+      "country": "BR",
+      "locode": "BRVHA",
+      "name": "Vilhena",
+      "name_ascii": "Vilhena",
+      "subdivision": "RO",
+      "coordinates": "1244S 06008W",
+      "status": "AA"
+    },
+    {
+      "iata": "VDC",
+      "country": "BR",
+      "locode": "BRVCA",
+      "name": "Vitória da Conquista",
+      "name_ascii": "Vitoria da Conquista",
+      "subdivision": "BA",
+      "coordinates": "1450S 04050W",
+      "status": "AA"
+    },
+    {
+      "iata": "YAB",
+      "country": "CA",
+      "locode": "CAARB",
+      "name": "Arctic Bay",
+      "name_ascii": "Arctic Bay",
+      "subdivision": "NU",
+      "coordinates": "7302N 08510W",
+      "status": "AS"
+    },
+    {
+      "iata": "YBC",
+      "country": "CA",
+      "locode": "CABCO",
+      "name": "Baie Comeau",
+      "name_ascii": "Baie Comeau",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YBJ",
+      "country": "CA",
+      "locode": "CABJO",
+      "name": "Baie-Johan-Beetz",
+      "name_ascii": "Baie-Johan-Beetz",
+      "subdivision": "QC",
+      "coordinates": "5018N 06250W",
+      "status": "AS"
+    },
+    {
+      "iata": "ZBF",
+      "country": "CA",
+      "locode": "CABAT",
+      "name": "Bathurst",
+      "name_ascii": "Bathurst",
+      "subdivision": "NB",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YVM",
+      "country": "CA",
+      "locode": "CABRT",
+      "name": "Broughton Is",
+      "name_ascii": "Broughton Is",
+      "subdivision": "NU",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YYC",
+      "country": "CA",
+      "locode": "CACAL",
+      "name": "Calgary",
+      "name_ascii": "Calgary",
+      "subdivision": "AB",
+      "coordinates": "5102N 11404W",
+      "status": "AS"
+    },
+    {
+      "iata": "YBL",
+      "country": "CA",
+      "locode": "CACAM",
+      "name": "Campbell River",
+      "name_ascii": "Campbell River",
+      "subdivision": "BC",
+      "coordinates": "5001N 12515W",
+      "status": "AS"
+    },
+    {
+      "iata": "YTE",
+      "country": "CA",
+      "locode": "CACDO",
+      "name": "Cape Dorset",
+      "name_ascii": "Cape Dorset",
+      "subdivision": "NU",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YYG",
+      "country": "CA",
+      "locode": "CACHA",
+      "name": "Charlottetown",
+      "name_ascii": "Charlottetown",
+      "subdivision": "PE",
+      "coordinates": "4614N 06308W",
+      "status": "AS"
+    },
+    {
+      "iata": "YYQ",
+      "country": "CA",
+      "locode": "CACHV",
+      "name": "Churchill",
+      "name_ascii": "Churchill",
+      "subdivision": "MB",
+      "coordinates": "5846N 09411W",
+      "status": "AS"
+    },
+    {
+      "iata": "YCY",
+      "country": "CA",
+      "locode": "CACLR",
+      "name": "Clyde River",
+      "name_ascii": "Clyde River",
+      "subdivision": "NU",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YUL",
+      "country": "CA",
+      "locode": "CADOR",
+      "name": "Dorval",
+      "name_ascii": "Dorval",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YHD",
+      "country": "CA",
+      "locode": "CADRY",
+      "name": "Dryden",
+      "name_ascii": "Dryden",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YEA",
+      "country": "CA",
+      "locode": "CAEDM",
+      "name": "Edmonton",
+      "name_ascii": "Edmonton",
+      "subdivision": "AB",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "YET",
+      "country": "CA",
+      "locode": "CAEDS",
+      "name": "Edson",
+      "name_ascii": "Edson",
+      "subdivision": "AB",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YAG",
+      "country": "CA",
+      "locode": "CAFFS",
+      "name": "Fort Frances",
+      "name_ascii": "Fort Frances",
+      "subdivision": "ON",
+      "coordinates": "4836N 09324W",
+      "status": "AC"
+    },
+    {
+      "iata": "YYE",
+      "country": "CA",
+      "locode": "CAFNE",
+      "name": "Fort Nelson",
+      "name_ascii": "Fort Nelson",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YFS",
+      "country": "CA",
+      "locode": "CAFSI",
+      "name": "Fort Simpson",
+      "name_ascii": "Fort Simpson",
+      "subdivision": "NT",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "YSM",
+      "country": "CA",
+      "locode": "CAFSM",
+      "name": "Fort Smith",
+      "name_ascii": "Fort Smith",
+      "subdivision": "NT",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "YXJ",
+      "country": "CA",
+      "locode": "CAFSJ",
+      "name": "Fort-Saint-John",
+      "name_ascii": "Fort-Saint-John",
+      "subdivision": "BC",
+      "coordinates": "5615N 12050W",
+      "status": "AS"
+    },
+    {
+      "iata": "YFC",
+      "country": "CA",
+      "locode": "CAFRE",
+      "name": "Fredericton",
+      "name_ascii": "Fredericton",
+      "subdivision": "NB",
+      "coordinates": "4557N 06639W",
+      "status": "AS"
+    },
+    {
+      "iata": "YQX",
+      "country": "CA",
+      "locode": "CAGAN",
+      "name": "Gander",
+      "name_ascii": "Gander",
+      "subdivision": "NL",
+      "coordinates": "4857N 05433W",
+      "status": "AS"
+    },
+    {
+      "iata": "YGP",
+      "country": "CA",
+      "locode": "CAGPE",
+      "name": "Gaspé",
+      "name_ascii": "Gaspe",
+      "subdivision": "QC",
+      "coordinates": "4850N 06429W",
+      "status": "AS"
+    },
+    {
+      "iata": "XHM",
+      "country": "CA",
+      "locode": "CAGGW",
+      "name": "Georgetown",
+      "name_ascii": "Georgetown",
+      "subdivision": "ON",
+      "coordinates": "4339N 07955W",
+      "status": "AS"
+    },
+    {
+      "iata": "YYR",
+      "country": "CA",
+      "locode": "CAGOO",
+      "name": "Goose Bay",
+      "name_ascii": "Goose Bay",
+      "subdivision": "NL",
+      "coordinates": "5324N 06010W",
+      "status": "AS"
+    },
+    {
+      "iata": "YHT",
+      "country": "CA",
+      "locode": "CAHJU",
+      "name": "Haines Junction",
+      "name_ascii": "Haines Junction",
+      "subdivision": "YT",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YHC",
+      "country": "CA",
+      "locode": "CAHAL",
+      "name": "Halifax",
+      "name_ascii": "Halifax",
+      "subdivision": "NS",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YHM",
+      "country": "CA",
+      "locode": "CAHAM",
+      "name": "Hamilton",
+      "name_ascii": "Hamilton",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YDJ",
+      "country": "CA",
+      "locode": "CAHCK",
+      "name": "Hatchet Lake",
+      "name_ascii": "Hatchet Lake",
+      "subdivision": "NS",
+      "coordinates": "4435N 06341W",
+      "status": "RL"
+    },
+    {
+      "iata": "YGV",
+      "country": "CA",
+      "locode": "CAHSP",
+      "name": "Havre-Saint-Pierre",
+      "name_ascii": "Havre-Saint-Pierre",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YHO",
+      "country": "CA",
+      "locode": "CAHOP",
+      "name": "Hopedale",
+      "name_ascii": "Hopedale",
+      "subdivision": "NL",
+      "coordinates": "5527N 06013W",
+      "status": "AI"
+    },
+    {
+      "iata": "YGT",
+      "country": "CA",
+      "locode": "CAIGL",
+      "name": "Igloolik",
+      "name_ascii": "Igloolik",
+      "subdivision": "NU",
+      "coordinates": "6922N 08149W",
+      "status": "AS"
+    },
+    {
+      "iata": "XIB",
+      "country": "CA",
+      "locode": "CAIGS",
+      "name": "Ingersoll",
+      "name_ascii": "Ingersoll",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YJA",
+      "country": "CA",
+      "locode": "CAJPR",
+      "name": "Jasper",
+      "name_ascii": "Jasper",
+      "subdivision": "AB",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "XJL",
+      "country": "CA",
+      "locode": "CAJOL",
+      "name": "Joliette",
+      "name_ascii": "Joliette",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YKA",
+      "country": "CA",
+      "locode": "CAKML",
+      "name": "Kamloops",
+      "name_ascii": "Kamloops",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YLW",
+      "country": "CA",
+      "locode": "CAKWL",
+      "name": "Kelowna",
+      "name_ascii": "Kelowna",
+      "subdivision": "BC",
+      "coordinates": "4957N 11922W",
+      "status": "RL"
+    },
+    {
+      "iata": "YKD",
+      "country": "CA",
+      "locode": "CAKAC",
+      "name": "Kincardine",
+      "name_ascii": "Kincardine",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YGK",
+      "country": "CA",
+      "locode": "CAKGN",
+      "name": "Kingston",
+      "name_ascii": "Kingston",
+      "subdivision": "NS",
+      "coordinates": "4459N 06456W",
+      "status": "RL"
+    },
+    {
+      "iata": "YGK",
+      "country": "CA",
+      "locode": "CAKIN",
+      "name": "Kingston",
+      "name_ascii": "Kingston",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YKF",
+      "country": "CA",
+      "locode": "CAKTC",
+      "name": "Kitchener",
+      "name_ascii": "Kitchener",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AC"
+    },
+    {
+      "iata": "YVP",
+      "country": "CA",
+      "locode": "CAFCM",
+      "name": "Kuujjuaq",
+      "name_ascii": "Kuujjuaq",
+      "subdivision": "QC",
+      "coordinates": "5806N 06824W",
+      "status": "AI"
+    },
+    {
+      "iata": "YLR",
+      "country": "CA",
+      "locode": "CALRA",
+      "name": "Leaf Rapids",
+      "name_ascii": "Leaf Rapids",
+      "subdivision": "MB",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YQL",
+      "country": "CA",
+      "locode": "CALTB",
+      "name": "Lethbridge",
+      "name_ascii": "Lethbridge",
+      "subdivision": "AB",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YXU",
+      "country": "CA",
+      "locode": "CALOD",
+      "name": "London",
+      "name_ascii": "London",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "YSP",
+      "country": "CA",
+      "locode": "CAMAR",
+      "name": "Marathon",
+      "name_ascii": "Marathon",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "ZMT",
+      "country": "CA",
+      "locode": "CAMSS",
+      "name": "Masset",
+      "name_ascii": "Masset",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "YME",
+      "country": "CA",
+      "locode": "CAMNE",
+      "name": "Matane",
+      "name_ascii": "Matane",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YMX",
+      "country": "CA",
+      "locode": "CAMRB",
+      "name": "Mirabel",
+      "name_ascii": "Mirabel",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YQM",
+      "country": "CA",
+      "locode": "CAMNT",
+      "name": "Moncton",
+      "name_ascii": "Moncton",
+      "subdivision": "NB",
+      "coordinates": "",
+      "status": "AC"
+    },
+    {
+      "iata": "YMQ",
+      "country": "CA",
+      "locode": "CAMTR",
+      "name": "Montreal",
+      "name_ascii": "Montreal",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YMO",
+      "country": "CA",
+      "locode": "CAMOU",
+      "name": "Moosonee",
+      "name_ascii": "Moosonee",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "YDP",
+      "country": "CA",
+      "locode": "CANAI",
+      "name": "Nain",
+      "name_ascii": "Nain",
+      "subdivision": "NL",
+      "coordinates": "5633N 06141W",
+      "status": "AI"
+    },
+    {
+      "iata": "YCD",
+      "country": "CA",
+      "locode": "CANNO",
+      "name": "Nanaimo",
+      "name_ascii": "Nanaimo",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YSR",
+      "country": "CA",
+      "locode": "CANVK",
+      "name": "Nanisivik",
+      "name_ascii": "Nanisivik",
+      "subdivision": "NU",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "XEM",
+      "country": "CA",
+      "locode": "CANRC",
+      "name": "New Richmond",
+      "name_ascii": "New Richmond",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "XLV",
+      "country": "CA",
+      "locode": "CANIA",
+      "name": "Niagara Falls",
+      "name_ascii": "Niagara Falls",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YYB",
+      "country": "CA",
+      "locode": "CANOR",
+      "name": "North Bay",
+      "name_ascii": "North Bay",
+      "subdivision": "ON",
+      "coordinates": "4618N 07927W",
+      "status": "AC"
+    },
+    {
+      "iata": "XOK",
+      "country": "CA",
+      "locode": "CAOAK",
+      "name": "Oakville",
+      "name_ascii": "Oakville",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "ZOF",
+      "country": "CA",
+      "locode": "CAOFA",
+      "name": "Ocean Falls",
+      "name_ascii": "Ocean Falls",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "YOO",
+      "country": "CA",
+      "locode": "CAOSH",
+      "name": "Oshawa",
+      "name_ascii": "Oshawa",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YOW",
+      "country": "CA",
+      "locode": "CAOTT",
+      "name": "Ottawa",
+      "name_ascii": "Ottawa",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AC"
+    },
+    {
+      "iata": "YOS",
+      "country": "CA",
+      "locode": "CAOWS",
+      "name": "Owen Sound",
+      "name_ascii": "Owen Sound",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YPD",
+      "country": "CA",
+      "locode": "CAPRS",
+      "name": "Parry Sound",
+      "name_ascii": "Parry Sound",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YTA",
+      "country": "CA",
+      "locode": "CAPEM",
+      "name": "Pembroke",
+      "name_ascii": "Pembroke",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YPT",
+      "country": "CA",
+      "locode": "CAPEH",
+      "name": "Pender Harbour",
+      "name_ascii": "Pender Harbour",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YPQ",
+      "country": "CA",
+      "locode": "CAPBH",
+      "name": "Peterborough",
+      "name_ascii": "Peterborough",
+      "subdivision": "ON",
+      "coordinates": "4418N 07820W",
+      "status": "AC"
+    },
+    {
+      "iata": "YIO",
+      "country": "CA",
+      "locode": "CAPDI",
+      "name": "Pond Inlet",
+      "name_ascii": "Pond Inlet",
+      "subdivision": "NU",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YPB",
+      "country": "CA",
+      "locode": "CAPAB",
+      "name": "Port Alberni",
+      "name_ascii": "Port Alberni",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YZT",
+      "country": "CA",
+      "locode": "CAPHY",
+      "name": "Port Hardy",
+      "name_ascii": "Port Hardy",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YPS",
+      "country": "CA",
+      "locode": "CAPHW",
+      "name": "Port Hawkesbury",
+      "name_ascii": "Port Hawkesbury",
+      "subdivision": "NS",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "XPH",
+      "country": "CA",
+      "locode": "CAOPE",
+      "name": "Port Hope",
+      "name_ascii": "Port Hope",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YMP",
+      "country": "CA",
+      "locode": "CAPMA",
+      "name": "Port McNeill",
+      "name_ascii": "Port McNeill",
+      "subdivision": "BC",
+      "coordinates": "5035N 12706W",
+      "status": "AI"
+    },
+    {
+      "iata": "YPN",
+      "country": "CA",
+      "locode": "CAPME",
+      "name": "Port-Menier",
+      "name_ascii": "Port-Menier",
+      "subdivision": "QC",
+      "coordinates": "4949N 06421W",
+      "status": "AI"
+    },
+    {
+      "iata": "YPG",
+      "country": "CA",
+      "locode": "CAPLP",
+      "name": "Portage La Prairie",
+      "name_ascii": "Portage La Prairie",
+      "subdivision": "MB",
+      "coordinates": "4958N 09817W",
+      "status": "RL"
+    },
+    {
+      "iata": "YPW",
+      "country": "CA",
+      "locode": "CAPOW",
+      "name": "Powell River",
+      "name_ascii": "Powell River",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "XII",
+      "country": "CA",
+      "locode": "CAPRE",
+      "name": "Prescott",
+      "name_ascii": "Prescott",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YPA",
+      "country": "CA",
+      "locode": "CAPRA",
+      "name": "Prince Albert",
+      "name_ascii": "Prince Albert",
+      "subdivision": "SK",
+      "coordinates": "5311N 10545W",
+      "status": "RL"
+    },
+    {
+      "iata": "YXS",
+      "country": "CA",
+      "locode": "CAPRG",
+      "name": "Prince George",
+      "name_ascii": "Prince George",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YPR",
+      "country": "CA",
+      "locode": "CAPRR",
+      "name": "Prince Rupert",
+      "name_ascii": "Prince Rupert",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YQB",
+      "country": "CA",
+      "locode": "CAQUE",
+      "name": "Quebec",
+      "name_ascii": "Quebec",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YQZ",
+      "country": "CA",
+      "locode": "CAQSN",
+      "name": "Quesnel",
+      "name_ascii": "Quesnel",
+      "subdivision": "BC",
+      "coordinates": "5258N 12229W",
+      "status": "RL"
+    },
+    {
+      "iata": "YRL",
+      "country": "CA",
+      "locode": "CARLA",
+      "name": "Red Lake",
+      "name_ascii": "Red Lake",
+      "subdivision": "ON",
+      "coordinates": "5104N 09348W",
+      "status": "RL"
+    },
+    {
+      "iata": "YQR",
+      "country": "CA",
+      "locode": "CAREG",
+      "name": "Regina",
+      "name_ascii": "Regina",
+      "subdivision": "SK",
+      "coordinates": "",
+      "status": "AC"
+    },
+    {
+      "iata": "YRB",
+      "country": "CA",
+      "locode": "CAREB",
+      "name": "Resolute Bay",
+      "name_ascii": "Resolute Bay",
+      "subdivision": "NU",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YXK",
+      "country": "CA",
+      "locode": "CARIM",
+      "name": "Rimouski",
+      "name_ascii": "Rimouski",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YRI",
+      "country": "CA",
+      "locode": "CARDL",
+      "name": "Rivière-du-Loup",
+      "name_ascii": "Riviere-du-Loup",
+      "subdivision": "QC",
+      "coordinates": "4750N 06932W",
+      "status": "AS"
+    },
+    {
+      "iata": "YAY",
+      "country": "CA",
+      "locode": "CASAT",
+      "name": "Saint-Anthony",
+      "name_ascii": "Saint-Anthony",
+      "subdivision": "NL",
+      "coordinates": "5123N 05536W",
+      "status": "AI"
+    },
+    {
+      "iata": "YCM",
+      "country": "CA",
+      "locode": "CASCA",
+      "name": "Saint-Catharines",
+      "name_ascii": "Saint-Catharines",
+      "subdivision": "ON",
+      "coordinates": "4310N 07914W",
+      "status": "AS"
+    },
+    {
+      "iata": "YHU",
+      "country": "CA",
+      "locode": "CASHU",
+      "name": "Saint-Hubert",
+      "name_ascii": "Saint-Hubert",
+      "subdivision": "QC",
+      "coordinates": "4530N 07324W",
+      "status": "RL"
+    },
+    {
+      "iata": "YJN",
+      "country": "CA",
+      "locode": "CASJC",
+      "name": "Saint-Jean-Chrysostome",
+      "name_ascii": "Saint-Jean-Chrysostome",
+      "subdivision": "QC",
+      "coordinates": "4643N 07111W",
+      "status": "RL"
+    },
+    {
+      "iata": "YSJ",
+      "country": "CA",
+      "locode": "CASJB",
+      "name": "Saint-John",
+      "name_ascii": "Saint-John",
+      "subdivision": "NB",
+      "coordinates": "4516N 06604W",
+      "status": "AS"
+    },
+    {
+      "iata": "YQS",
+      "country": "CA",
+      "locode": "CASTH",
+      "name": "Saint-Thomas",
+      "name_ascii": "Saint-Thomas",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YZP",
+      "country": "CA",
+      "locode": "CASSP",
+      "name": "Sandspit",
+      "name_ascii": "Sandspit",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YZR",
+      "country": "CA",
+      "locode": "CASNI",
+      "name": "Sarnia",
+      "name_ascii": "Sarnia",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YXE",
+      "country": "CA",
+      "locode": "CASAK",
+      "name": "Saskatoon",
+      "name_ascii": "Saskatoon",
+      "subdivision": "SK",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YAM",
+      "country": "CA",
+      "locode": "CASSM",
+      "name": "Sault-Sainte-Marie",
+      "name_ascii": "Sault-Sainte-Marie",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YZV",
+      "country": "CA",
+      "locode": "CASEI",
+      "name": "Sept-Iles",
+      "name_ascii": "Sept-Iles",
+      "subdivision": "QC",
+      "coordinates": "5012N 06623W",
+      "status": "AS"
+    },
+    {
+      "iata": "XFL",
+      "country": "CA",
+      "locode": "CASHA",
+      "name": "Shawinigan",
+      "name_ascii": "Shawinigan",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YSC",
+      "country": "CA",
+      "locode": "CASBE",
+      "name": "Sherbrooke",
+      "name_ascii": "Sherbrooke",
+      "subdivision": "NS",
+      "coordinates": "4508N 06200W",
+      "status": "RL"
+    },
+    {
+      "iata": "YSC",
+      "country": "CA",
+      "locode": "CASBR",
+      "name": "Sherbrooke",
+      "name_ascii": "Sherbrooke",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "AC"
+    },
+    {
+      "iata": "YSE",
+      "country": "CA",
+      "locode": "CASQA",
+      "name": "Squamish",
+      "name_ascii": "Squamish",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YJT",
+      "country": "CA",
+      "locode": "CASTV",
+      "name": "Stephenville",
+      "name_ascii": "Stephenville",
+      "subdivision": "NL",
+      "coordinates": "4833N 05834W",
+      "status": "AS"
+    },
+    {
+      "iata": "ZST",
+      "country": "CA",
+      "locode": "CASTW",
+      "name": "Stewart",
+      "name_ascii": "Stewart",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "XFD",
+      "country": "CA",
+      "locode": "CASTR",
+      "name": "Stratford",
+      "name_ascii": "Stratford",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "XTY",
+      "country": "CA",
+      "locode": "CASTT",
+      "name": "Strathroy",
+      "name_ascii": "Strathroy",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YSB",
+      "country": "CA",
+      "locode": "CASUD",
+      "name": "Sudbury",
+      "name_ascii": "Sudbury",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YSU",
+      "country": "CA",
+      "locode": "CASUM",
+      "name": "Summerside",
+      "name_ascii": "Summerside",
+      "subdivision": "PE",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YQY",
+      "country": "CA",
+      "locode": "CASYD",
+      "name": "Sydney",
+      "name_ascii": "Sydney",
+      "subdivision": "NS",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "ZTS",
+      "country": "CA",
+      "locode": "CAPTA",
+      "name": "Tahsis",
+      "name_ascii": "Tahsis",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YTU",
+      "country": "CA",
+      "locode": "CATAS",
+      "name": "Tasu",
+      "name_ascii": "Tasu",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "YQT",
+      "country": "CA",
+      "locode": "CATHU",
+      "name": "Thunder Bay",
+      "name_ascii": "Thunder Bay",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YTO",
+      "country": "CA",
+      "locode": "CATOR",
+      "name": "Toronto",
+      "name_ascii": "Toronto",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YTR",
+      "country": "CA",
+      "locode": "CATTC",
+      "name": "Trenton",
+      "name_ascii": "Trenton",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YRQ",
+      "country": "CA",
+      "locode": "CATRR",
+      "name": "Trois-Rivieres (Three Rivers)",
+      "name_ascii": "Trois-Rivieres (Three Rivers)",
+      "subdivision": "QC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "XLZ",
+      "country": "CA",
+      "locode": "CATRU",
+      "name": "Truro",
+      "name_ascii": "Truro",
+      "subdivision": "NS",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YUB",
+      "country": "CA",
+      "locode": "CATUK",
+      "name": "Tuktoyaktuk",
+      "name_ascii": "Tuktoyaktuk",
+      "subdivision": "NT",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YVR",
+      "country": "CA",
+      "locode": "CAVAN",
+      "name": "Vancouver",
+      "name_ascii": "Vancouver",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YVE",
+      "country": "CA",
+      "locode": "CAVER",
+      "name": "Vernon",
+      "name_ascii": "Vernon",
+      "subdivision": "BC",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YYJ",
+      "country": "CA",
+      "locode": "CAVIC",
+      "name": "Victoria",
+      "name_ascii": "Victoria",
+      "subdivision": "BC",
+      "coordinates": "4826N 12321W",
+      "status": "AS"
+    },
+    {
+      "iata": "XWA",
+      "country": "CA",
+      "locode": "CAWTF",
+      "name": "Watford",
+      "name_ascii": "Watford",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YQH",
+      "country": "CA",
+      "locode": "CAWAT",
+      "name": "Watson Lake",
+      "name_ascii": "Watson Lake",
+      "subdivision": "YT",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YZU",
+      "country": "CA",
+      "locode": "CAWTC",
+      "name": "Whitecourt",
+      "name_ascii": "Whitecourt",
+      "subdivision": "AB",
+      "coordinates": "5409N 11541W",
+      "status": "RL"
+    },
+    {
+      "iata": "YQG",
+      "country": "CA",
+      "locode": "CAWND",
+      "name": "Windsor",
+      "name_ascii": "Windsor",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "YWG",
+      "country": "CA",
+      "locode": "CAWNP",
+      "name": "Winnipeg",
+      "name_ascii": "Winnipeg",
+      "subdivision": "MB",
+      "coordinates": "",
+      "status": "AC"
+    },
+    {
+      "iata": "XIP",
+      "country": "CA",
+      "locode": "CAWSK",
+      "name": "Woodstock",
+      "name_ascii": "Woodstock",
+      "subdivision": "ON",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "YQI",
+      "country": "CA",
+      "locode": "CAYRH",
+      "name": "Yarmouth",
+      "name_ascii": "Yarmouth",
+      "subdivision": "NS",
+      "coordinates": "",
+      "status": "AS"
+    },
+    {
+      "iata": "ACH",
+      "country": "CH",
+      "locode": "CHATR",
+      "name": "Altenrhein",
+      "name_ascii": "Altenrhein",
+      "subdivision": "SG",
+      "coordinates": "4729N 00933E",
+      "status": "RL"
+    },
+    {
+      "iata": "ACO",
+      "country": "CH",
+      "locode": "CHASC",
+      "name": "Ascona",
+      "name_ascii": "Ascona",
+      "subdivision": "TI",
+      "coordinates": "4609N 00846E",
+      "status": "RL"
+    },
+    {
+      "iata": "GXQ",
+      "country": "CL",
+      "locode": "CLCXQ",
+      "name": "Coyhaique",
+      "name_ascii": "Coyhaique",
+      "subdivision": "AI",
+      "coordinates": "4534S 07203W",
+      "status": "RL"
+    },
+    {
+      "iata": "WPR",
+      "country": "CL",
+      "locode": "CLPVR",
+      "name": "Porvenir",
+      "name_ascii": "Porvenir",
+      "subdivision": "MA",
+      "coordinates": "5318S 07022W",
+      "status": "RL"
+    },
+    {
+      "iata": "NSI",
+      "country": "CM",
+      "locode": "CMYAO",
+      "name": "Yaoundé",
+      "name_ascii": "Yaounde",
+      "subdivision": "CE",
+      "coordinates": "0352N 01131E",
+      "status": "AI"
+    },
+    {
+      "iata": "LNJ",
+      "country": "CN",
+      "locode": "CNLNC",
+      "name": "Lincang",
+      "name_ascii": "Lincang",
+      "subdivision": "YN",
+      "coordinates": "2354N 10002E",
+      "status": "RL"
+    },
+    {
+      "iata": "LXI",
+      "country": "CN",
+      "locode": "CNLNI",
+      "name": "Linxi",
+      "name_ascii": "Linxi",
+      "subdivision": "NM",
+      "coordinates": "2557N 10937E",
+      "status": "RL"
+    },
+    {
+      "iata": "HZH",
+      "country": "CN",
+      "locode": "CNLIP",
+      "name": "Liping",
+      "name_ascii": "Liping",
+      "subdivision": "GZ",
+      "coordinates": "3247N 10640E",
+      "status": "RL"
+    },
+    {
+      "iata": "WUA",
+      "country": "CN",
+      "locode": "CNWAA",
+      "name": "Wuhai",
+      "name_ascii": "Wuhai",
+      "subdivision": "NM",
+      "coordinates": "3120N 11821E",
+      "status": "RL"
+    },
+    {
+      "iata": "FMO",
+      "country": "DE",
+      "locode": "DEMSR",
+      "name": "Münster",
+      "name_ascii": "Munster",
+      "subdivision": "NW",
+      "coordinates": "5158N 00738E",
+      "status": "AF"
+    },
+    {
+      "iata": "AOC",
+      "country": "DE",
+      "locode": "DENBI",
+      "name": "Nobitz",
+      "name_ascii": "Nobitz",
+      "subdivision": "TH",
+      "coordinates": "5059N 01229E",
+      "status": "RL"
+    },
+    {
+      "iata": "RLG",
+      "country": "DE",
+      "locode": "DERSK",
+      "name": "Rostock",
+      "name_ascii": "Rostock",
+      "subdivision": "MV",
+      "coordinates": "5405N 01208E",
+      "status": "AF"
+    },
+    {
+      "iata": "SKS",
+      "country": "DK",
+      "locode": "DKSKR",
+      "name": "Skrydstrup",
+      "name_ascii": "Skrydstrup",
+      "subdivision": "",
+      "coordinates": "5514N 00915E",
+      "status": "RL"
+    },
+    {
+      "iata": "QDX",
+      "country": "EG",
+      "locode": "EGDAM",
+      "name": "Dumyat (Damietta)",
+      "name_ascii": "Dumyat (Damietta)",
+      "subdivision": "",
+      "coordinates": "3125N 03149E",
+      "status": "RL"
+    },
+    {
+      "iata": "OVD",
+      "country": "ES",
+      "locode": "ESAST",
+      "name": "Asturias",
+      "name_ascii": "Asturias",
+      "subdivision": "O",
+      "coordinates": "4333N 00602W",
+      "status": "RL"
+    },
+    {
+      "iata": "BCN",
+      "country": "ES",
+      "locode": "ESEPB",
+      "name": "El Prat de Llobregat",
+      "name_ascii": "El Prat de Llobregat",
+      "subdivision": "",
+      "coordinates": "4120N 00206E",
+      "status": "RL"
+    },
+    {
+      "iata": "REU",
+      "country": "ES",
+      "locode": "ESRUS",
+      "name": "Reus",
+      "name_ascii": "Reus",
+      "subdivision": "",
+      "coordinates": "4108N 00110E",
+      "status": "AI"
+    },
+    {
+      "iata": "XAB",
+      "country": "FR",
+      "locode": "FRABB",
+      "name": "Abbeville",
+      "name_ascii": "Abbeville",
+      "subdivision": "80",
+      "coordinates": "5006N 00150E",
+      "status": "AF"
+    },
+    {
+      "iata": "XAC",
+      "country": "FR",
+      "locode": "FRARC",
+      "name": "Arcachon",
+      "name_ascii": "Arcachon",
+      "subdivision": "33",
+      "coordinates": "4439N 00111W",
+      "status": "AF"
+    },
+    {
+      "iata": "QRV",
+      "country": "FR",
+      "locode": "FRARR",
+      "name": "Arras",
+      "name_ascii": "Arras",
+      "subdivision": "62",
+      "coordinates": "5017N 00247E",
+      "status": "AF"
+    },
+    {
+      "iata": "XOY",
+      "country": "FR",
+      "locode": "FRAUL",
+      "name": "Aulnoye-Aymeries",
+      "name_ascii": "Aulnoye-Aymeries",
+      "subdivision": "59",
+      "coordinates": "5012N 00350E",
+      "status": "AF"
+    },
+    {
+      "iata": "XBY",
+      "country": "FR",
+      "locode": "FRBAY",
+      "name": "Bayonne",
+      "name_ascii": "Bayonne",
+      "subdivision": "64",
+      "coordinates": "4330N 00129W",
+      "status": "AF"
+    },
+    {
+      "iata": "DCM",
+      "country": "FR",
+      "locode": "FRCAS",
+      "name": "Castres",
+      "name_ascii": "Castres",
+      "subdivision": "81",
+      "coordinates": "4336N 00214E",
+      "status": "AF"
+    },
+    {
+      "iata": "XCD",
+      "country": "FR",
+      "locode": "FRCSS",
+      "name": "Chalon-sur-Saône",
+      "name_ascii": "Chalon-sur-Saone",
+      "subdivision": "71",
+      "coordinates": "4647N 00451E",
+      "status": "AF"
+    },
+    {
+      "iata": "LYS",
+      "country": "FR",
+      "locode": "FRLIO",
+      "name": "Lyon",
+      "name_ascii": "Lyon",
+      "subdivision": "69",
+      "coordinates": "4546N 00450E",
+      "status": "AF"
+    },
+    {
+      "iata": "ETZ",
+      "country": "FR",
+      "locode": "FRMZM",
+      "name": "Metz",
+      "name_ascii": "Metz",
+      "subdivision": "57",
+      "coordinates": "4908N 00610E",
+      "status": "AF"
+    },
+    {
+      "iata": "XMJ",
+      "country": "FR",
+      "locode": "FRMDM",
+      "name": "Mont-de-Marsan",
+      "name_ascii": "Mont-de-Marsan",
+      "subdivision": "40",
+      "coordinates": "4353N 00030W",
+      "status": "AF"
+    },
+    {
+      "iata": "XOG",
+      "country": "FR",
+      "locode": "FRORA",
+      "name": "Orange",
+      "name_ascii": "Orange",
+      "subdivision": "84",
+      "coordinates": "4408N 00449E",
+      "status": "AF"
+    },
+    {
+      "iata": "SYT",
+      "country": "FR",
+      "locode": "FRSTY",
+      "name": "Saint-Yan",
+      "name_ascii": "Saint-Yan",
+      "subdivision": "71",
+      "coordinates": "4624N 00402E",
+      "status": "RL"
+    },
+    {
+      "iata": "XTB",
+      "country": "FR",
+      "locode": "FRTAB",
+      "name": "Tarbes",
+      "name_ascii": "Tarbes",
+      "subdivision": "65",
+      "coordinates": "4314N 00004E",
+      "status": "AF"
+    },
+    {
+      "iata": "XVS",
+      "country": "FR",
+      "locode": "FRVAL",
+      "name": "Valenciennes",
+      "name_ascii": "Valenciennes",
+      "subdivision": "59",
+      "coordinates": "5022N 00332E",
+      "status": "AF"
+    },
+    {
+      "iata": "XVF",
+      "country": "FR",
+      "locode": "FRVSS",
+      "name": "Villefranche-sur-Saône",
+      "name_ascii": "Villefranche-sur-Saone",
+      "subdivision": "69",
+      "coordinates": "4559N 00443E",
+      "status": "AF"
+    },
+    {
+      "iata": "ABZ",
+      "country": "GB",
+      "locode": "GBABD",
+      "name": "Aberdeen",
+      "name_ascii": "Aberdeen",
+      "subdivision": "ABE",
+      "coordinates": "5708N 00206W",
+      "status": "AF"
+    },
+    {
+      "iata": "ABB",
+      "country": "GB",
+      "locode": "GBAGN",
+      "name": "Abingdon",
+      "name_ascii": "Abingdon",
+      "subdivision": "OXF",
+      "coordinates": "5140N 00117W",
+      "status": "AF"
+    },
+    {
+      "iata": "AYH",
+      "country": "GB",
+      "locode": "GBALY",
+      "name": "Alconbury",
+      "name_ascii": "Alconbury",
+      "subdivision": "CAM",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "ADV",
+      "country": "GB",
+      "locode": "GBAVR",
+      "name": "Andover",
+      "name_ascii": "Andover",
+      "subdivision": "HAM",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "BOL",
+      "country": "GB",
+      "locode": "GBBKO",
+      "name": "Ballykelly",
+      "name_ascii": "Ballykelly",
+      "subdivision": "CCG",
+      "coordinates": "5504N 00701W",
+      "status": "AI"
+    },
+    {
+      "iata": "BWF",
+      "country": "GB",
+      "locode": "GBBIF",
+      "name": "Barrow in Furness",
+      "name_ascii": "Barrow in Furness",
+      "subdivision": "CMA",
+      "coordinates": "5407N 00314W",
+      "status": "AF"
+    },
+    {
+      "iata": "BFS",
+      "country": "GB",
+      "locode": "GBBEL",
+      "name": "Belfast",
+      "name_ascii": "Belfast",
+      "subdivision": "BFS",
+      "coordinates": "5459N 00555W",
+      "status": "AF"
+    },
+    {
+      "iata": "BEB",
+      "country": "GB",
+      "locode": "GBBBC",
+      "name": "Benbecula",
+      "name_ascii": "Benbecula",
+      "subdivision": "ELS",
+      "coordinates": "5728N 00721W",
+      "status": "AI"
+    },
+    {
+      "iata": "BEX",
+      "country": "GB",
+      "locode": "GBBES",
+      "name": "Benson",
+      "name_ascii": "Benson",
+      "subdivision": "OXF",
+      "coordinates": "5138N 00107W",
+      "status": "AI"
+    },
+    {
+      "iata": "BHX",
+      "country": "GB",
+      "locode": "GBBHM",
+      "name": "Birmingham",
+      "name_ascii": "Birmingham",
+      "subdivision": "BIR",
+      "coordinates": "5228N 00155W",
+      "status": "AF"
+    },
+    {
+      "iata": "LKZ",
+      "country": "GB",
+      "locode": "GBBRA",
+      "name": "Brandon",
+      "name_ascii": "Brandon",
+      "subdivision": "SFK",
+      "coordinates": "5445N 00137W",
+      "status": "AF"
+    },
+    {
+      "iata": "BUT",
+      "country": "GB",
+      "locode": "GBBNW",
+      "name": "Burtonwood",
+      "name_ascii": "Burtonwood",
+      "subdivision": "WRT",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "BEQ",
+      "country": "GB",
+      "locode": "GBBSE",
+      "name": "Bury Saint Edmunds",
+      "name_ascii": "Bury Saint Edmunds",
+      "subdivision": "SFK",
+      "coordinates": "5214N 00043E",
+      "status": "AF"
+    },
+    {
+      "iata": "CBG",
+      "country": "GB",
+      "locode": "GBCMG",
+      "name": "Cambridge",
+      "name_ascii": "Cambridge",
+      "subdivision": "CAM",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "CAL",
+      "country": "GB",
+      "locode": "GBCBT",
+      "name": "Campbeltown",
+      "name_ascii": "Campbeltown",
+      "subdivision": "AGB",
+      "coordinates": "5526N 00538W",
+      "status": "AF"
+    },
+    {
+      "iata": "CWL",
+      "country": "GB",
+      "locode": "GBCDF",
+      "name": "Cardiff",
+      "name_ascii": "Cardiff",
+      "subdivision": "CRF",
+      "coordinates": "5130N 00312W",
+      "status": "AF"
+    },
+    {
+      "iata": "CLF",
+      "country": "GB",
+      "locode": "GBCTA",
+      "name": "Coltishall",
+      "name_ascii": "Coltishall",
+      "subdivision": "NFK",
+      "coordinates": "5244N 00122E",
+      "status": "AI"
+    },
+    {
+      "iata": "DCS",
+      "country": "GB",
+      "locode": "GBDON",
+      "name": "Doncaster",
+      "name_ascii": "Doncaster",
+      "subdivision": "DNC",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "DND",
+      "country": "GB",
+      "locode": "GBDUN",
+      "name": "Dundee",
+      "name_ascii": "Dundee",
+      "subdivision": "DND",
+      "coordinates": "5630N 00258W",
+      "status": "AF"
+    },
+    {
+      "iata": "EXT",
+      "country": "GB",
+      "locode": "GBEXE",
+      "name": "Exeter",
+      "name_ascii": "Exeter",
+      "subdivision": "",
+      "coordinates": "5042N 00332W",
+      "status": "AF"
+    },
+    {
+      "iata": "FAB",
+      "country": "GB",
+      "locode": "GBFBO",
+      "name": "Farnborough",
+      "name_ascii": "Farnborough",
+      "subdivision": "HAM",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "FSS",
+      "country": "GB",
+      "locode": "GBFRS",
+      "name": "Forres",
+      "name_ascii": "Forres",
+      "subdivision": "MRY",
+      "coordinates": "5736N 00337W",
+      "status": "AF"
+    },
+    {
+      "iata": "GLA",
+      "country": "GB",
+      "locode": "GBGLW",
+      "name": "Glasgow",
+      "name_ascii": "Glasgow",
+      "subdivision": "GLG",
+      "coordinates": "5550N 00415W",
+      "status": "AF"
+    },
+    {
+      "iata": "HTF",
+      "country": "GB",
+      "locode": "GBHAT",
+      "name": "Hatfield",
+      "name_ascii": "Hatfield",
+      "subdivision": "HRT",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "HAW",
+      "country": "GB",
+      "locode": "GBHVR",
+      "name": "Haverfordwest",
+      "name_ascii": "Haverfordwest",
+      "subdivision": "PEM",
+      "coordinates": "5148N 00458W",
+      "status": "AF"
+    },
+    {
+      "iata": "HEN",
+      "country": "GB",
+      "locode": "GBHDO",
+      "name": "Hendon",
+      "name_ascii": "Hendon",
+      "subdivision": "BNE",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "HYC",
+      "country": "GB",
+      "locode": "GBHWY",
+      "name": "High Wycombe",
+      "name_ascii": "High Wycombe",
+      "subdivision": "BKM",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "IPW",
+      "country": "GB",
+      "locode": "GBIPS",
+      "name": "Ipswich",
+      "name_ascii": "Ipswich",
+      "subdivision": "SFK",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "SKL",
+      "country": "GB",
+      "locode": "GBSKY",
+      "name": "Isle of Skye Apt",
+      "name_ascii": "Isle of Skye Apt",
+      "subdivision": "",
+      "coordinates": "5715N 00549W",
+      "status": "AI"
+    },
+    {
+      "iata": "KOI",
+      "country": "GB",
+      "locode": "GBKWL",
+      "name": "Kirkwall",
+      "name_ascii": "Kirkwall",
+      "subdivision": "ORK",
+      "coordinates": "5859N 00257W",
+      "status": "AF"
+    },
+    {
+      "iata": "LWK",
+      "country": "GB",
+      "locode": "GBLER",
+      "name": "Lerwick",
+      "name_ascii": "Lerwick",
+      "subdivision": "ZET",
+      "coordinates": "6009N 00109W",
+      "status": "AF"
+    },
+    {
+      "iata": "LPL",
+      "country": "GB",
+      "locode": "GBLIV",
+      "name": "Liverpool",
+      "name_ascii": "Liverpool",
+      "subdivision": "LIV",
+      "coordinates": "5325N 00300W",
+      "status": "AF"
+    },
+    {
+      "iata": "LPH",
+      "country": "GB",
+      "locode": "GBLOH",
+      "name": "Lochgilphead",
+      "name_ascii": "Lochgilphead",
+      "subdivision": "AGB",
+      "coordinates": "5602N 00525W",
+      "status": "AI"
+    },
+    {
+      "iata": "LCY",
+      "country": "GB",
+      "locode": "GBLCT",
+      "name": "London City Airport",
+      "name_ascii": "London City Airport",
+      "subdivision": "LND",
+      "coordinates": "5130N 00003E",
+      "status": "RL"
+    },
+    {
+      "iata": "LMO",
+      "country": "GB",
+      "locode": "GBLSS",
+      "name": "Lossiemouth",
+      "name_ascii": "Lossiemouth",
+      "subdivision": "MRY",
+      "coordinates": "5742N 00317W",
+      "status": "AF"
+    },
+    {
+      "iata": "LTN",
+      "country": "GB",
+      "locode": "GBLUT",
+      "name": "Luton",
+      "name_ascii": "Luton",
+      "subdivision": "CBF",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "GQJ",
+      "country": "GB",
+      "locode": "GBMAC",
+      "name": "Machrihanish",
+      "name_ascii": "Machrihanish",
+      "subdivision": "AGB",
+      "coordinates": "5526N 00545W",
+      "status": "AF"
+    },
+    {
+      "iata": "MAN",
+      "country": "GB",
+      "locode": "GBMNC",
+      "name": "Manchester",
+      "name_ascii": "Manchester",
+      "subdivision": "MAN",
+      "coordinates": "5330N 00213W",
+      "status": "AF"
+    },
+    {
+      "iata": "MHZ",
+      "country": "GB",
+      "locode": "GBMLL",
+      "name": "Mildenhall",
+      "name_ascii": "Mildenhall",
+      "subdivision": "SFK",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "KYN",
+      "country": "GB",
+      "locode": "GBMIK",
+      "name": "Milton Keynes",
+      "name_ascii": "Milton Keynes",
+      "subdivision": "BKM",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "ULL",
+      "country": "GB",
+      "locode": "GBMUL",
+      "name": "Mull Apt",
+      "name_ascii": "Mull Apt",
+      "subdivision": "AGB",
+      "coordinates": "5631N 00554W",
+      "status": "AI"
+    },
+    {
+      "iata": "EWY",
+      "country": "GB",
+      "locode": "GBNBY",
+      "name": "Newbury",
+      "name_ascii": "Newbury",
+      "subdivision": "WBK",
+      "coordinates": "5123N 00119W",
+      "status": "AF"
+    },
+    {
+      "iata": "NRL",
+      "country": "GB",
+      "locode": "GBNRS",
+      "name": "North Ronaldsay Apt",
+      "name_ascii": "North Ronaldsay Apt",
+      "subdivision": "ORK",
+      "coordinates": "5922N 00226W",
+      "status": "AI"
+    },
+    {
+      "iata": "ORM",
+      "country": "GB",
+      "locode": "GBNHP",
+      "name": "Northampton",
+      "name_ascii": "Northampton",
+      "subdivision": "NTH",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "NWI",
+      "country": "GB",
+      "locode": "GBNRW",
+      "name": "Norwich",
+      "name_ascii": "Norwich",
+      "subdivision": "NFK",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "OKH",
+      "country": "GB",
+      "locode": "GBOKM",
+      "name": "Oakham",
+      "name_ascii": "Oakham",
+      "subdivision": "LEC",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "OBN",
+      "country": "GB",
+      "locode": "GBOBA",
+      "name": "Oban",
+      "name_ascii": "Oban",
+      "subdivision": "AGB",
+      "coordinates": "5625N 00528W",
+      "status": "AF"
+    },
+    {
+      "iata": "ODH",
+      "country": "GB",
+      "locode": "GBODM",
+      "name": "Odiham",
+      "name_ascii": "Odiham",
+      "subdivision": "HAM",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "PZE",
+      "country": "GB",
+      "locode": "GBPEN",
+      "name": "Penzance",
+      "name_ascii": "Penzance",
+      "subdivision": "CON",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "PSL",
+      "country": "GB",
+      "locode": "GBPER",
+      "name": "Perth",
+      "name_ascii": "Perth",
+      "subdivision": "PKN",
+      "coordinates": "5624N 00326W",
+      "status": "AF"
+    },
+    {
+      "iata": "PLH",
+      "country": "GB",
+      "locode": "GBPLY",
+      "name": "Plymouth",
+      "name_ascii": "Plymouth",
+      "subdivision": "",
+      "coordinates": "5024N 00407W",
+      "status": "AF"
+    },
+    {
+      "iata": "KRH",
+      "country": "GB",
+      "locode": "GBREH",
+      "name": "Redhill",
+      "name_ascii": "Redhill",
+      "subdivision": "SRY",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "ADX",
+      "country": "GB",
+      "locode": "GBSNW",
+      "name": "St Andrews",
+      "name_ascii": "St Andrews",
+      "subdivision": "FIF",
+      "coordinates": "5620N 00247W",
+      "status": "AF"
+    },
+    {
+      "iata": "SWS",
+      "country": "GB",
+      "locode": "GBSWA",
+      "name": "Swansea",
+      "name_ascii": "Swansea",
+      "subdivision": "SWA",
+      "coordinates": "5138N 00358W",
+      "status": "AF"
+    },
+    {
+      "iata": "SWI",
+      "country": "GB",
+      "locode": "GBSNN",
+      "name": "Swindon",
+      "name_ascii": "Swindon",
+      "subdivision": "WIL",
+      "coordinates": "5133N 00146W",
+      "status": "AF"
+    },
+    {
+      "iata": "TTK",
+      "country": "GB",
+      "locode": "GBTTT",
+      "name": "Tottenham",
+      "name_ascii": "Tottenham",
+      "subdivision": "HRY",
+      "coordinates": "5136N 00004W",
+      "status": "AF"
+    },
+    {
+      "iata": "WTN",
+      "country": "GB",
+      "locode": "GBWDD",
+      "name": "Waddington",
+      "name_ascii": "Waddington",
+      "subdivision": "LAN",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "WEM",
+      "country": "GB",
+      "locode": "GBWML",
+      "name": "West Malling",
+      "name_ascii": "West Malling",
+      "subdivision": "KEN",
+      "coordinates": "5117N 00024E",
+      "status": "AI"
+    },
+    {
+      "iata": "WHS",
+      "country": "GB",
+      "locode": "GBWHY",
+      "name": "Whalsay",
+      "name_ascii": "Whalsay",
+      "subdivision": "ZET",
+      "coordinates": "6022N 00057W",
+      "status": "AI"
+    },
+    {
+      "iata": "BWY",
+      "country": "GB",
+      "locode": "GBWBG",
+      "name": "Woodbridge",
+      "name_ascii": "Woodbridge",
+      "subdivision": "SFK",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "QSX",
+      "country": "GY",
+      "locode": "GYNAM",
+      "name": "New Amsterdam",
+      "name_ascii": "New Amsterdam",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "XPL",
+      "country": "HN",
+      "locode": "HNCMY",
+      "name": "Comayagua",
+      "name_ascii": "Comayagua",
+      "subdivision": "",
+      "coordinates": "1427N 08738W",
+      "status": "RL"
+    },
+    {
+      "iata": "TLV",
+      "country": "IL",
+      "locode": "ILBGA",
+      "name": "Ben Gurion International Apt",
+      "name_ascii": "Ben Gurion International Apt",
+      "subdivision": "TA",
+      "coordinates": "3201N 03453E",
+      "status": "RL"
+    },
+    {
+      "iata": "BOM",
+      "country": "IN",
+      "locode": "INCSI",
+      "name": "Chattrapati Shivaji International Apt",
+      "name_ascii": "Chattrapati Shivaji International Apt",
+      "subdivision": "MH",
+      "coordinates": "1905N 07252E",
+      "status": "RL"
+    },
+    {
+      "iata": "NMB",
+      "country": "IN",
+      "locode": "INDAM",
+      "name": "Daman",
+      "name_ascii": "Daman",
+      "subdivision": "DD",
+      "coordinates": "",
+      "status": "AA"
+    },
+    {
+      "iata": "QBR",
+      "country": "IR",
+      "locode": "IRBKM",
+      "name": "Bandar Khomeini",
+      "name_ascii": "Bandar Khomeini",
+      "subdivision": "06",
+      "coordinates": "3026N 04906E",
+      "status": "RL"
+    },
+    {
+      "iata": "RFN",
+      "country": "IS",
+      "locode": "ISRAU",
+      "name": "Raufarhöfn",
+      "name_ascii": "Raufarhofn",
+      "subdivision": "",
+      "coordinates": "6627N 01557W",
+      "status": "AC"
+    },
+    {
+      "iata": "BGY",
+      "country": "IT",
+      "locode": "ITBGO",
+      "name": "Bergamo",
+      "name_ascii": "Bergamo",
+      "subdivision": "BG",
+      "coordinates": "4541N 00943E",
+      "status": "RL"
+    },
+    {
+      "iata": "AHO",
+      "country": "IT",
+      "locode": "ITAGK",
+      "name": "Fertilia Apt/Alghero",
+      "name_ascii": "Fertilia Apt/Alghero",
+      "subdivision": "SS",
+      "coordinates": "4037N 00817E",
+      "status": "RL"
+    },
+    {
+      "iata": "VBS",
+      "country": "IT",
+      "locode": "ITMCH",
+      "name": "Montichiari",
+      "name_ascii": "Montichiari",
+      "subdivision": "BS",
+      "coordinates": "4525N 01023E",
+      "status": "RL"
+    },
+    {
+      "iata": "BGY",
+      "country": "IT",
+      "locode": "ITOAS",
+      "name": "Orio Al Serio",
+      "name_ascii": "Orio Al Serio",
+      "subdivision": "BG",
+      "coordinates": "4540N 00941E",
+      "status": "RL"
+    },
+    {
+      "iata": "TRS",
+      "country": "IT",
+      "locode": "ITRDL",
+      "name": "Ronchi dei Legionari",
+      "name_ascii": "Ronchi dei Legionari",
+      "subdivision": "GO",
+      "coordinates": "4549N 01331E",
+      "status": "RL"
+    },
+    {
+      "iata": "ISG",
+      "country": "JP",
+      "locode": "JPIGK",
+      "name": "Ishigaki Apt   Okinawa",
+      "name_ascii": "Ishigaki Apt   Okinawa",
+      "subdivision": "47",
+      "coordinates": "2424N 12415E",
+      "status": "AF"
+    },
+    {
+      "iata": "ITM",
+      "country": "JP",
+      "locode": "JPOSA",
+      "name": "Osaka",
+      "name_ascii": "Osaka",
+      "subdivision": "27",
+      "coordinates": "3440N 13530E",
+      "status": "AF"
+    },
+    {
+      "iata": "SDS",
+      "country": "JP",
+      "locode": "JPSOS",
+      "name": "Sado Shima Apt",
+      "name_ascii": "Sado Shima Apt",
+      "subdivision": "15",
+      "coordinates": "3804N 13825E",
+      "status": "RL"
+    },
+    {
+      "iata": "NEV",
+      "country": "KN",
+      "locode": "KNCHA",
+      "name": "Charlestown",
+      "name_ascii": "Charlestown",
+      "subdivision": "",
+      "coordinates": "1708N 06237W",
+      "status": "RL"
+    },
+    {
+      "iata": "CJU",
+      "country": "KR",
+      "locode": "KRCHA",
+      "name": "Jeju",
+      "name_ascii": "Jeju",
+      "subdivision": "49",
+      "coordinates": "3330N 12631E",
+      "status": "AF"
+    },
+    {
+      "iata": "TSE",
+      "country": "KZ",
+      "locode": "KZAST",
+      "name": "Nur-Sultan",
+      "name_ascii": "Nur-Sultan",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "CMN",
+      "country": "MA",
+      "locode": "MACAS",
+      "name": "Casablanca",
+      "name_ascii": "Casablanca",
+      "subdivision": "CAS",
+      "coordinates": "3335N 00736W",
+      "status": "AI"
+    },
+    {
+      "iata": "MLA",
+      "country": "MT",
+      "locode": "MTLUQ",
+      "name": "Luqa",
+      "name_ascii": "Luqa",
+      "subdivision": "25",
+      "coordinates": "3551N 01429E",
+      "status": "AA"
+    },
+    {
+      "iata": "CLQ",
+      "country": "MX",
+      "locode": "MXCOL",
+      "name": "Colima",
+      "name_ascii": "Colima",
+      "subdivision": "COL",
+      "coordinates": "1914N 10343W",
+      "status": "RL"
+    },
+    {
+      "iata": "CVJ",
+      "country": "MX",
+      "locode": "MXCVC",
+      "name": "Cuernavaca",
+      "name_ascii": "Cuernavaca",
+      "subdivision": "MOR",
+      "coordinates": "1855N 09915W",
+      "status": "RL"
+    },
+    {
+      "iata": "BJX",
+      "country": "MX",
+      "locode": "MXLEN",
+      "name": "Léon",
+      "name_ascii": "Leon",
+      "subdivision": "GUA",
+      "coordinates": "2107N 10140W",
+      "status": "RL"
+    },
+    {
+      "iata": "LOS",
+      "country": "NG",
+      "locode": "NGLOA",
+      "name": "Lagos Murtala Muhammed Apt",
+      "name_ascii": "Lagos Murtala Muhammed Apt",
+      "subdivision": "LA",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "QYC",
+      "country": "NL",
+      "locode": "NLDRA",
+      "name": "Drachten",
+      "name_ascii": "Drachten",
+      "subdivision": "",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "ANX",
+      "country": "NO",
+      "locode": "NOADN",
+      "name": "Andenes",
+      "name_ascii": "Andenes",
+      "subdivision": "18",
+      "coordinates": "6919N 01608E",
+      "status": "AA"
+    },
+    {
+      "iata": "VDB",
+      "country": "NO",
+      "locode": "NOFGN",
+      "name": "Fagernes",
+      "name_ascii": "Fagernes",
+      "subdivision": "05",
+      "coordinates": "",
+      "status": "AF"
+    },
+    {
+      "iata": "ZXO",
+      "country": "NO",
+      "locode": "NOFAN",
+      "name": "Farsund",
+      "name_ascii": "Farsund",
+      "subdivision": "10",
+      "coordinates": "5805N 00648E",
+      "status": "AA"
+    },
+    {
+      "iata": "VAW",
+      "country": "NO",
+      "locode": "NOVAO",
+      "name": "Vardø",
+      "name_ascii": "Vardo",
+      "subdivision": "20",
+      "coordinates": "7022N 03106E",
+      "status": "AA"
+    },
+    {
+      "iata": "PAC",
+      "country": "PA",
+      "locode": "PAPTY",
+      "name": "Panamá, Ciudad de",
+      "name_ascii": "Panama, Ciudad de",
+      "subdivision": "8",
+      "coordinates": "0858N 07932W",
+      "status": "AI"
+    },
+    {
+      "iata": "KOM",
+      "country": "PG",
+      "locode": "PGMAN",
+      "name": "Manda",
+      "name_ascii": "Manda",
+      "subdivision": "",
+      "coordinates": "0700S 14109E",
+      "status": "RL"
+    },
+    {
+      "iata": "SIG",
+      "country": "PR",
+      "locode": "PRSJU",
+      "name": "San Juan",
+      "name_ascii": "San Juan",
+      "subdivision": "",
+      "coordinates": "1827N 06605W",
+      "status": "AI"
+    },
+    {
+      "iata": "SBT",
+      "country": "RU",
+      "locode": "RUSAB",
+      "name": "Sabetta",
+      "name_ascii": "Sabetta",
+      "subdivision": "YAN",
+      "coordinates": "7115N 07205E",
+      "status": "RL"
+    },
+    {
+      "iata": "KLD",
+      "country": "RU",
+      "locode": "RUTVR",
+      "name": "Tver'",
+      "name_ascii": "Tver'",
+      "subdivision": "TVE",
+      "coordinates": "5651N 03553E",
+      "status": "RL"
+    },
+    {
+      "iata": "ZIA",
+      "country": "RU",
+      "locode": "RUZSY",
+      "name": "Zhukovskiy",
+      "name_ascii": "Zhukovskiy",
+      "subdivision": "MOS",
+      "coordinates": "5536N 03806E",
+      "status": "RL"
+    },
+    {
+      "iata": "GSP",
+      "country": "SE",
+      "locode": "SEGOT",
+      "name": "Göteborg",
+      "name_ascii": "Goteborg",
+      "subdivision": "O",
+      "coordinates": "5743N 01158E",
+      "status": "AA"
+    },
+    {
+      "iata": "GOT",
+      "country": "SE",
+      "locode": "SELAV",
+      "name": "Landvetter",
+      "name_ascii": "Landvetter",
+      "subdivision": "O",
+      "coordinates": "5741N 01212E",
+      "status": "RL"
+    },
+    {
+      "iata": "MMX",
+      "country": "SE",
+      "locode": "SEMMA",
+      "name": "Malmö",
+      "name_ascii": "Malmo",
+      "subdivision": "M",
+      "coordinates": "5536N 01300E",
+      "status": "AA"
+    },
+    {
+      "iata": "XYK",
+      "country": "SE",
+      "locode": "SENRK",
+      "name": "Norrköping",
+      "name_ascii": "Norrkoping",
+      "subdivision": "E",
+      "coordinates": "5836N 01611E",
+      "status": "AA"
+    },
+    {
+      "iata": "XWZ",
+      "country": "SE",
+      "locode": "SENYO",
+      "name": "Nyköping",
+      "name_ascii": "Nykoping",
+      "subdivision": "D",
+      "coordinates": "5855N 01710E",
+      "status": "AA"
+    },
+    {
+      "iata": "MQJ",
+      "country": "TR",
+      "locode": "TRBZI",
+      "name": "Balikesir",
+      "name_ascii": "Balikesir",
+      "subdivision": "10",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "AOE",
+      "country": "TR",
+      "locode": "TRESK",
+      "name": "Eskisehir",
+      "name_ascii": "Eskisehir",
+      "subdivision": "26",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "HTY",
+      "country": "TR",
+      "locode": "TRHAT",
+      "name": "Hatay",
+      "name_ascii": "Hatay",
+      "subdivision": "31",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "KFS",
+      "country": "TR",
+      "locode": "TRKTM",
+      "name": "Kastamonu",
+      "name_ascii": "Kastamonu",
+      "subdivision": "37",
+      "coordinates": "",
+      "status": "RN"
+    },
+    {
+      "iata": "BJV",
+      "country": "TR",
+      "locode": "TRMIL",
+      "name": "Milas",
+      "name_ascii": "Milas",
+      "subdivision": "48",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "NAV",
+      "country": "TR",
+      "locode": "TRNEV",
+      "name": "Nevsehir",
+      "name_ascii": "Nevsehir",
+      "subdivision": "50",
+      "coordinates": "",
+      "status": "RN"
+    },
+    {
+      "iata": "SZF",
+      "country": "TR",
+      "locode": "TRSSX",
+      "name": "Samsun",
+      "name_ascii": "Samsun",
+      "subdivision": "55",
+      "coordinates": "4117N 03620E",
+      "status": "AI"
+    },
+    {
+      "iata": "TEQ",
+      "country": "TR",
+      "locode": "TRTEK",
+      "name": "Tekirdag",
+      "name_ascii": "Tekirdag",
+      "subdivision": "59",
+      "coordinates": "4058N 02731E",
+      "status": "AI"
+    },
+    {
+      "iata": "USQ",
+      "country": "TR",
+      "locode": "TRUSA",
+      "name": "Usak",
+      "name_ascii": "Usak",
+      "subdivision": "64",
+      "coordinates": "",
+      "status": "RN"
+    },
+    {
+      "iata": "ONQ",
+      "country": "TR",
+      "locode": "TRCUM",
+      "name": "Çaycuma",
+      "name_ascii": "Caycuma",
+      "subdivision": "67",
+      "coordinates": "4125N 03205E",
+      "status": "RL"
+    },
+    {
+      "iata": "BJJ",
+      "country": "US",
+      "locode": "USIHV",
+      "name": "Smithville, Wayne",
+      "name_ascii": "Smithville, Wayne",
+      "subdivision": "OH",
+      "coordinates": "4052N 08152W",
+      "status": "RL"
+    },
+    {
+      "iata": "ANW",
+      "country": "US",
+      "locode": "USAW2",
+      "name": "Ainsworth",
+      "name_ascii": "Ainsworth",
+      "subdivision": "NE",
+      "coordinates": "4233N 09952W",
+      "status": "RL"
+    },
+    {
+      "iata": "CAK",
+      "country": "US",
+      "locode": "USAKH",
+      "name": "Akron",
+      "name_ascii": "Akron",
+      "subdivision": "OH",
+      "coordinates": "4104N 08132W",
+      "status": "RL"
+    },
+    {
+      "iata": "MER",
+      "country": "US",
+      "locode": "USATZ",
+      "name": "Atwater",
+      "name_ascii": "Atwater",
+      "subdivision": "CA",
+      "coordinates": "3720N 12036W",
+      "status": "RL"
+    },
+    {
+      "iata": "ABE",
+      "country": "US",
+      "locode": "USBEX",
+      "name": "Bethlehem",
+      "name_ascii": "Bethlehem",
+      "subdivision": "PA",
+      "coordinates": "4037N 07522W",
+      "status": "RL"
+    },
+    {
+      "iata": "TRI",
+      "country": "US",
+      "locode": "USBSO",
+      "name": "Bristol",
+      "name_ascii": "Bristol",
+      "subdivision": "TN",
+      "coordinates": "3635N 08211W",
+      "status": "RL"
+    },
+    {
+      "iata": "AVX",
+      "country": "US",
+      "locode": "USCKI",
+      "name": "Catalina Island",
+      "name_ascii": "Catalina Island",
+      "subdivision": "CA",
+      "coordinates": "3323N 11825W",
+      "status": "RL"
+    },
+    {
+      "iata": "MDW",
+      "country": "US",
+      "locode": "USCHI",
+      "name": "Chicago",
+      "name_ascii": "Chicago",
+      "subdivision": "IL",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "DFW",
+      "country": "US",
+      "locode": "USDAL",
+      "name": "Dallas",
+      "name_ascii": "Dallas",
+      "subdivision": "TX",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "DNV",
+      "country": "US",
+      "locode": "USDVI",
+      "name": "Danville",
+      "name_ascii": "Danville",
+      "subdivision": "IL",
+      "coordinates": "4007N 08737W",
+      "status": "RL"
+    },
+    {
+      "iata": "DMA",
+      "country": "US",
+      "locode": "USDFB",
+      "name": "Davis Monthan AFB",
+      "name_ascii": "Davis Monthan AFB",
+      "subdivision": "AZ",
+      "coordinates": "3209N 11052W",
+      "status": "RL"
+    },
+    {
+      "iata": "DCR",
+      "country": "US",
+      "locode": "USDEU",
+      "name": "Decatur",
+      "name_ascii": "Decatur",
+      "subdivision": "TX",
+      "coordinates": "3314N 09735W",
+      "status": "RL"
+    },
+    {
+      "iata": "SKA",
+      "country": "US",
+      "locode": "USFBS",
+      "name": "Fairchild Air Force Base",
+      "name_ascii": "Fairchild Air Force Base",
+      "subdivision": "WA",
+      "coordinates": "4738N 11738W",
+      "status": "RL"
+    },
+    {
+      "iata": "RSW",
+      "country": "US",
+      "locode": "USFMY",
+      "name": "Fort Myers",
+      "name_ascii": "Fort Myers",
+      "subdivision": "FL",
+      "coordinates": "2638N 08152W",
+      "status": "AI"
+    },
+    {
+      "iata": "DFW",
+      "country": "US",
+      "locode": "USFWT",
+      "name": "Fort Worth",
+      "name_ascii": "Fort Worth",
+      "subdivision": "TX",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "IAH",
+      "country": "US",
+      "locode": "USIA9",
+      "name": "George Bush Intercontinental Apt/Houston",
+      "name_ascii": "George Bush Intercontinental Apt/Houston",
+      "subdivision": "TX",
+      "coordinates": "2959N 09520W",
+      "status": "RL"
+    },
+    {
+      "iata": "MDT",
+      "country": "US",
+      "locode": "USHAR",
+      "name": "Harrisburg",
+      "name_ascii": "Harrisburg",
+      "subdivision": "PA",
+      "coordinates": "4016N 07653W",
+      "status": "AI"
+    },
+    {
+      "iata": "AVL",
+      "country": "US",
+      "locode": "USHEV",
+      "name": "Hendersonville",
+      "name_ascii": "Hendersonville",
+      "subdivision": "NC",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "HMN",
+      "country": "US",
+      "locode": "USOMN",
+      "name": "Holloman Air Force Base",
+      "name_ascii": "Holloman Air Force Base",
+      "subdivision": "NM",
+      "coordinates": "3250N 10604W",
+      "status": "RL"
+    },
+    {
+      "iata": "IAH",
+      "country": "US",
+      "locode": "USHOU",
+      "name": "Houston",
+      "name_ascii": "Houston",
+      "subdivision": "TX",
+      "coordinates": "2945N 09521W",
+      "status": "AI"
+    },
+    {
+      "iata": "IPL",
+      "country": "US",
+      "locode": "USIDO",
+      "name": "Imperial",
+      "name_ascii": "Imperial",
+      "subdivision": "CA",
+      "coordinates": "3250N 11534W",
+      "status": "RL"
+    },
+    {
+      "iata": "KOA",
+      "country": "US",
+      "locode": "USKHH",
+      "name": "Kailua Kona",
+      "name_ascii": "Kailua Kona",
+      "subdivision": "HI",
+      "coordinates": "1939N 15600W",
+      "status": "RL"
+    },
+    {
+      "iata": "MCI",
+      "country": "US",
+      "locode": "USKCK",
+      "name": "Kansas City",
+      "name_ascii": "Kansas City",
+      "subdivision": "KS",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "DLF",
+      "country": "US",
+      "locode": "USLFB",
+      "name": "Laughlin Air Force Base",
+      "name_ascii": "Laughlin Air Force Base",
+      "subdivision": "TX",
+      "coordinates": "2921N 10048W",
+      "status": "RL"
+    },
+    {
+      "iata": "PIB",
+      "country": "US",
+      "locode": "USURE",
+      "name": "Laurel",
+      "name_ascii": "Laurel",
+      "subdivision": "DE",
+      "coordinates": "3833N 07534W",
+      "status": "RL"
+    },
+    {
+      "iata": "SDF",
+      "country": "US",
+      "locode": "USLUI",
+      "name": "Louisville",
+      "name_ascii": "Louisville",
+      "subdivision": "KY",
+      "coordinates": "3814N 08546W",
+      "status": "RN"
+    },
+    {
+      "iata": "MCF",
+      "country": "US",
+      "locode": "USAF3",
+      "name": "MacDill AFB",
+      "name_ascii": "MacDill AFB",
+      "subdivision": "FL",
+      "coordinates": "2750N 08231W",
+      "status": "RL"
+    },
+    {
+      "iata": "GFA",
+      "country": "US",
+      "locode": "USMM6",
+      "name": "Malmstrom AFB",
+      "name_ascii": "Malmstrom AFB",
+      "subdivision": "MT",
+      "coordinates": "4730N 11111W",
+      "status": "RL"
+    },
+    {
+      "iata": "---",
+      "country": "US",
+      "locode": "USMFS",
+      "name": "McChord Air Force Base",
+      "name_ascii": "McChord Air Force Base",
+      "subdivision": "WA",
+      "coordinates": "4708N 12230W",
+      "status": "RL"
+    },
+    {
+      "iata": "MCC",
+      "country": "US",
+      "locode": "USMC2",
+      "name": "McClellan Air Force Base",
+      "name_ascii": "McClellan Air Force Base",
+      "subdivision": "CA",
+      "coordinates": "3840N 12124W",
+      "status": "RL"
+    },
+    {
+      "iata": "MSP",
+      "country": "US",
+      "locode": "USMES",
+      "name": "Minneapolis",
+      "name_ascii": "Minneapolis",
+      "subdivision": "MN",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "CWA",
+      "country": "US",
+      "locode": "USINX",
+      "name": "Mosinee",
+      "name_ascii": "Mosinee",
+      "subdivision": "WI",
+      "coordinates": "4447N 08942W",
+      "status": "RL"
+    },
+    {
+      "iata": "JCI",
+      "country": "US",
+      "locode": "USNXC",
+      "name": "New Century",
+      "name_ascii": "New Century",
+      "subdivision": "KS",
+      "coordinates": "3850N 09453W",
+      "status": "RL"
+    },
+    {
+      "iata": "MCO",
+      "country": "US",
+      "locode": "USORL",
+      "name": "Orlando",
+      "name_ascii": "Orlando",
+      "subdivision": "FL",
+      "coordinates": "2832N 08122W",
+      "status": "AI"
+    },
+    {
+      "iata": "PLN",
+      "country": "US",
+      "locode": "USPXN",
+      "name": "Pellston",
+      "name_ascii": "Pellston",
+      "subdivision": "MI",
+      "coordinates": "4533N 08447W",
+      "status": "RL"
+    },
+    {
+      "iata": "LCK",
+      "country": "US",
+      "locode": "USRIB",
+      "name": "Rickenbacker International Apt",
+      "name_ascii": "Rickenbacker International Apt",
+      "subdivision": "OH",
+      "coordinates": "4000N 08253W",
+      "status": "RL"
+    },
+    {
+      "iata": "SMF",
+      "country": "US",
+      "locode": "USSAC",
+      "name": "Sacramento",
+      "name_ascii": "Sacramento",
+      "subdivision": "CA",
+      "coordinates": "3834N 12129W",
+      "status": "AI"
+    },
+    {
+      "iata": "FPR",
+      "country": "US",
+      "locode": "USSL2",
+      "name": "Saint Lucie",
+      "name_ascii": "Saint Lucie",
+      "subdivision": "FL",
+      "coordinates": "2729N 08020W",
+      "status": "RL"
+    },
+    {
+      "iata": "MSP",
+      "country": "US",
+      "locode": "USSTP",
+      "name": "Saint Paul",
+      "name_ascii": "Saint Paul",
+      "subdivision": "MN",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "SBP",
+      "country": "US",
+      "locode": "USCSL",
+      "name": "San Luis Obispo",
+      "name_ascii": "San Luis Obispo",
+      "subdivision": "CA",
+      "coordinates": "3516N 12039W",
+      "status": "AI"
+    },
+    {
+      "iata": "ZSM",
+      "country": "US",
+      "locode": "USSCZ",
+      "name": "Santa Clara",
+      "name_ascii": "Santa Clara",
+      "subdivision": "CA",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "MSL",
+      "country": "US",
+      "locode": "USSHF",
+      "name": "Sheffield",
+      "name_ascii": "Sheffield",
+      "subdivision": "AL",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "TEX",
+      "country": "US",
+      "locode": "USQTR",
+      "name": "Telluride",
+      "name_ascii": "Telluride",
+      "subdivision": "CO",
+      "coordinates": "3756N 10748W",
+      "status": "RL"
+    },
+    {
+      "iata": "PAM",
+      "country": "US",
+      "locode": "USTJF",
+      "name": "Tyndall AFB",
+      "name_ascii": "Tyndall AFB",
+      "subdivision": "FL",
+      "coordinates": "3004N 08534W",
+      "status": "RL"
+    },
+    {
+      "iata": "EGE",
+      "country": "US",
+      "locode": "USVAC",
+      "name": "Vail",
+      "name_ascii": "Vail",
+      "subdivision": "CO",
+      "coordinates": "",
+      "status": "AI"
+    },
+    {
+      "iata": "VBG",
+      "country": "US",
+      "locode": "USVA3",
+      "name": "Vandenberg Air Force Base",
+      "name_ascii": "Vandenberg Air Force Base",
+      "subdivision": "CA",
+      "coordinates": "3443N 12034W",
+      "status": "RL"
+    },
+    {
+      "iata": "BDL",
+      "country": "US",
+      "locode": "USWLC",
+      "name": "Windsor Locks",
+      "name_ascii": "Windsor Locks",
+      "subdivision": "CT",
+      "coordinates": "",
+      "status": "RL"
+    },
+    {
+      "iata": "FFO",
+      "country": "US",
+      "locode": "USRW5",
+      "name": "Wright-Patterson",
+      "name_ascii": "Wright-Patterson",
+      "subdivision": "OH",
+      "coordinates": "3949N 08402W",
+      "status": "RL"
+    },
+    {
+      "iata": "VCL",
+      "country": "VN",
+      "locode": "VNDQT",
+      "name": "Dung Quat",
+      "name_ascii": "Dung Quat",
+      "subdivision": "29",
+      "coordinates": "1523N 10848E",
+      "status": "AS"
+    },
+    {
+      "iata": "VII",
+      "country": "VN",
+      "locode": "VNVNH",
+      "name": "Vinh",
+      "name_ascii": "Vinh",
+      "subdivision": "22",
+      "coordinates": "1844N 10540E",
+      "status": "RL"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE World Airports with IATA Codes - Free Download",
+    "description": "Airports worldwide listed in the UN Code for Trade and Transport Locations (UN/LOCODE) that have an IATA code. Each record has the IATA code, country, LOCODE, city/airport name, subdivision, and geographic coordinates. Contains 349 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "UN/LOCODE World Airports with IATA Codes | ListBase",
+    "seo_description": "Download UN/LOCODE World Airports with IATA Codes — 349 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 349 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/un-locode"
+    ]
+  }
+}

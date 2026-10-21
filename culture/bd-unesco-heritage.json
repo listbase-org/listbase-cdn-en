@@ -1,0 +1,128 @@
+{
+  "id": "bd-unesco-heritage",
+  "name": "Bangladesh — UNESCO World Heritage Sites",
+  "title": "Bangladesh — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Bangladesh, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 321,
+      "name": "Historic Mosque City of Bagerhat",
+      "category": "cultural",
+      "date_inscribed": 1985,
+      "criteria": "c4",
+      "lat": 22.66667,
+      "lon": 89.8,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "bd",
+      "transboundary": false
+    },
+    {
+      "ref_no": 322,
+      "name": "Ruins of the Buddhist Vihara at Paharpur",
+      "category": "cultural",
+      "date_inscribed": 1985,
+      "criteria": "c1, c2, c6",
+      "lat": 25.03333333,
+      "lon": 88.98333333,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "bd",
+      "transboundary": false
+    },
+    {
+      "ref_no": 798,
+      "name": "The Sundarbans",
+      "category": "natural",
+      "date_inscribed": 1997,
+      "criteria": "n9, n10",
+      "lat": 21.95,
+      "lon": 89.18333,
+      "area_hectares": 139500,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "bd",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Bangladesh — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Bangladesh, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 3 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bangladesh — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Bangladesh — UNESCO World Heritage Sites dataset with 3 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 3 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

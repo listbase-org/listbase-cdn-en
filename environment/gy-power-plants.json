@@ -1,0 +1,196 @@
+{
+  "id": "gy-power-plants",
+  "name": "Guyana — Power Plants",
+  "title": "Guyana — Power Plants",
+  "description": "Power plants located in Guyana from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Kingston 11",
+      "gppd_idnr": "WRI1022995",
+      "capacity_mw": 36.3,
+      "latitude": 6.8228,
+      "longitude": -58.1654,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Guyana Power & Light",
+      "source": "Guyana Power and Light",
+      "url": "http://www.gplinc.net/sites/default/files/Uploaded%20Files/D&E%20Programme%202013%20-%202017%20-%20F.pdf",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Skeldon",
+      "gppd_idnr": "WRI1023000",
+      "capacity_mw": 30,
+      "latitude": 5.8803,
+      "longitude": -57.1497,
+      "primary_fuel": "Biomass",
+      "other_fuels": "",
+      "commissioning_year": 2008,
+      "owner": "Guyana Power & Light",
+      "source": "Guyana Power and Light",
+      "url": "http://www.gplinc.net/sites/default/files/Uploaded%20Files/D&E%20Programme%202013%20-%202017%20-%20F.pdf",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Vreed en Hoop",
+      "gppd_idnr": "WRI1022998",
+      "capacity_mw": 26,
+      "latitude": 6.809,
+      "longitude": -58.179,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Guyana Power & Light",
+      "source": "Guyana Power and Light",
+      "url": "http://www.gplinc.net/sites/default/files/Uploaded%20Files/D&E%20Programme%202013%20-%202017%20-%20F.pdf",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kingston 1",
+      "gppd_idnr": "WRI1022994",
+      "capacity_mw": 22,
+      "latitude": 6.8136,
+      "longitude": -58.1649,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Guyana Power & Light",
+      "source": "Guyana Power and Light",
+      "url": "http://www.gplinc.net/sites/default/files/Uploaded%20Files/D&E%20Programme%202013%20-%202017%20-%20F.pdf",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Versailles Power Station",
+      "gppd_idnr": "WRI1022996",
+      "capacity_mw": 22,
+      "latitude": 6.7891,
+      "longitude": -58.1893,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Guyana Power & Light",
+      "source": "Guyana Power and Light",
+      "url": "http://www.gplinc.net/sites/default/files/Uploaded%20Files/D&E%20Programme%202013%20-%202017%20-%20F.pdf",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Guyana — Power Plants - Free Download",
+    "description": "Power plants located in Guyana from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Guyana — Power Plants | ListBase",
+    "seo_description": "Download Guyana — Power Plants dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

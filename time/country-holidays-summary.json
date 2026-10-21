@@ -1,0 +1,1664 @@
+{
+  "id": "country-holidays-summary",
+  "name": "Public Holidays by Country — Summary",
+  "title": "Public Holidays by Country — Summary",
+  "description": "Per-country summary of public holiday configuration: country code, English name, weekly day off, number of time zones, sample time zones, and the count of defined public holidays (from commenthol/date-holidays).",
+  "category": "time",
+  "source": "https://github.com/commenthol/date-holidays",
+  "source_url": "https://github.com/commenthol/date-holidays",
+  "updated": "2026-04",
+  "record_count": 201,
+  "columns": [
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "dayoff",
+      "label": "Dayoff",
+      "type": "string"
+    },
+    {
+      "key": "timezone_count",
+      "label": "Timezone Count",
+      "type": "number"
+    },
+    {
+      "key": "timezones",
+      "label": "Timezones",
+      "type": "string"
+    },
+    {
+      "key": "defined_holiday_count",
+      "label": "Defined Holiday Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country_code": "AD",
+      "name": "Andorra",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Andorra",
+      "defined_holiday_count": 18
+    },
+    {
+      "country_code": "AE",
+      "name": "United Arab Emirates",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Asia/Dubai",
+      "defined_holiday_count": 8
+    },
+    {
+      "country_code": "AG",
+      "name": "Antigua & Barbuda",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port_of_Spain",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "AI",
+      "name": "Anguilla",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port_of_Spain",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "AL",
+      "name": "Albania",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Tirane",
+      "defined_holiday_count": 23
+    },
+    {
+      "country_code": "AM",
+      "name": "Armenia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Asia/Yerevan",
+      "defined_holiday_count": 20
+    },
+    {
+      "country_code": "AO",
+      "name": "Angola",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Lagos",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "AR",
+      "name": "Argentina",
+      "dayoff": "sunday",
+      "timezone_count": 12,
+      "timezones": "America/Argentina/Buenos_Aires, America/Argentina/Cordoba, America/Argentina/Salta, America/Argentina/Jujuy, America/Argentina/Tucuman",
+      "defined_holiday_count": 79
+    },
+    {
+      "country_code": "AS",
+      "name": "American Samoa",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Pacific/Pago_Pago",
+      "defined_holiday_count": 8
+    },
+    {
+      "country_code": "AT",
+      "name": "Austria",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Vienna",
+      "defined_holiday_count": 20
+    },
+    {
+      "country_code": "AU",
+      "name": "Australia",
+      "dayoff": "sunday",
+      "timezone_count": 13,
+      "timezones": "Australia/Sydney, Australia/Lord_Howe, Antarctica/Macquarie, Australia/Hobart, Australia/Currie",
+      "defined_holiday_count": 12
+    },
+    {
+      "country_code": "AW",
+      "name": "Aruba",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Curacao",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "AX",
+      "name": "Åland Islands",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Helsinki",
+      "defined_holiday_count": 17
+    },
+    {
+      "country_code": "AZ",
+      "name": "Azerbaijan",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Asia/Baku",
+      "defined_holiday_count": 18
+    },
+    {
+      "country_code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Belgrade",
+      "defined_holiday_count": 21
+    },
+    {
+      "country_code": "BB",
+      "name": "Barbados",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Barbados",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "BD",
+      "name": "People's Republic of Bangladesh",
+      "dayoff": "friday",
+      "timezone_count": 1,
+      "timezones": "Asia/Dhaka",
+      "defined_holiday_count": 18
+    },
+    {
+      "country_code": "BE",
+      "name": "Belgium",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Brussels",
+      "defined_holiday_count": 18
+    },
+    {
+      "country_code": "BF",
+      "name": "Burkina Faso",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Africa/Abidjan",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "BG",
+      "name": "Bulgaria",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Europe/Sofia",
+      "defined_holiday_count": 17
+    },
+    {
+      "country_code": "BH",
+      "name": "Bahrain",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Asia/Qatar",
+      "defined_holiday_count": 10
+    },
+    {
+      "country_code": "BI",
+      "name": "Burundi",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Maputo",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "BJ",
+      "name": "Benin",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Africa/Lagos",
+      "defined_holiday_count": 15
+    },
+    {
+      "country_code": "BL",
+      "name": "St. Barths",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "America/St_Barthelemy",
+      "defined_holiday_count": 9
+    },
+    {
+      "country_code": "BM",
+      "name": "Bermuda",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Atlantic/Bermuda",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "BN",
+      "name": "Brunei",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Asia/Brunei",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "BO",
+      "name": "Bolivia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/La_Paz",
+      "defined_holiday_count": 28
+    },
+    {
+      "country_code": "BQ",
+      "name": "Caribbean Netherlands",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Curacao",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "BR",
+      "name": "Brazil",
+      "dayoff": "sunday",
+      "timezone_count": 16,
+      "timezones": "America/Sao_Paulo, America/Noronha, America/Belem, America/Fortaleza, America/Recife",
+      "defined_holiday_count": 20
+    },
+    {
+      "country_code": "BS",
+      "name": "Bahamas",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Nassau",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "BW",
+      "name": "Botswana",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Maputo",
+      "defined_holiday_count": 20
+    },
+    {
+      "country_code": "BY",
+      "name": "Belarus",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Europe/Minsk",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "BZ",
+      "name": "Belize",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Belize",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "CA",
+      "name": "Canada",
+      "dayoff": "",
+      "timezone_count": 28,
+      "timezones": "America/Toronto, America/St_Johns, America/Halifax, America/Glace_Bay, America/Moncton",
+      "defined_holiday_count": 18
+    },
+    {
+      "country_code": "CC",
+      "name": "Cocos (Keeling) Islands",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Indian/Cocos",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "CD",
+      "name": "Democratic Republic of the Congo",
+      "dayoff": "sunday",
+      "timezone_count": 2,
+      "timezones": "Africa/Maputo, Africa/Lagos",
+      "defined_holiday_count": 10
+    },
+    {
+      "country_code": "CF",
+      "name": "Central African Republic",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Lagos",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "CG",
+      "name": "Republic of the Congo",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Lagos",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "CH",
+      "name": "Switzerland",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Zurich",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "CI",
+      "name": "Republic of Côte d'Ivoire",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Abidjan",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "CK",
+      "name": "Cook Islands",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Pacific/Rarotonga",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "CL",
+      "name": "Chile",
+      "dayoff": "sunday",
+      "timezone_count": 2,
+      "timezones": "America/Santiago, Pacific/Easter",
+      "defined_holiday_count": 22
+    },
+    {
+      "country_code": "CM",
+      "name": "Cameroon",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Lagos",
+      "defined_holiday_count": 10
+    },
+    {
+      "country_code": "CN",
+      "name": "China",
+      "dayoff": "sunday",
+      "timezone_count": 2,
+      "timezones": "Asia/Shanghai, Asia/Urumqi",
+      "defined_holiday_count": 35
+    },
+    {
+      "country_code": "CO",
+      "name": "Colombia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Bogota",
+      "defined_holiday_count": 20
+    },
+    {
+      "country_code": "CR",
+      "name": "Costa Rica",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Costa_Rica",
+      "defined_holiday_count": 12
+    },
+    {
+      "country_code": "CU",
+      "name": "Cuba",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Havana",
+      "defined_holiday_count": 9
+    },
+    {
+      "country_code": "CV",
+      "name": "Cape Verde",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Atlantic/Cape_Verde",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "CW",
+      "name": "Curaçao",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Curacao",
+      "defined_holiday_count": 15
+    },
+    {
+      "country_code": "CX",
+      "name": "Christmas Island",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Indian/Christmas",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "CY",
+      "name": "Cyprus",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Asia/Nicosia",
+      "defined_holiday_count": 17
+    },
+    {
+      "country_code": "CZ",
+      "name": "Czech Republic",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Europe/Prague",
+      "defined_holiday_count": 18
+    },
+    {
+      "country_code": "DE",
+      "name": "Germany",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Berlin",
+      "defined_holiday_count": 31
+    },
+    {
+      "country_code": "DJ",
+      "name": "Djibouti",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Africa/Nairobi",
+      "defined_holiday_count": 10
+    },
+    {
+      "country_code": "DK",
+      "name": "Denmark",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Europe/Copenhagen",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "DM",
+      "name": "Dominica",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port_of_Spain",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "DO",
+      "name": "Dominican Republic",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Santo_Domingo",
+      "defined_holiday_count": 12
+    },
+    {
+      "country_code": "DZ",
+      "name": "Algeria",
+      "dayoff": "saturday",
+      "timezone_count": 1,
+      "timezones": "Africa/Algiers",
+      "defined_holiday_count": 10
+    },
+    {
+      "country_code": "EC",
+      "name": "Ecuador",
+      "dayoff": "sunday",
+      "timezone_count": 2,
+      "timezones": "America/Guayaquil, Pacific/Galapagos",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "EE",
+      "name": "Estonia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Tallinn",
+      "defined_holiday_count": 24
+    },
+    {
+      "country_code": "EG",
+      "name": "Egypt",
+      "dayoff": "saturday",
+      "timezone_count": 1,
+      "timezones": "Africa/Cairo",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "EH",
+      "name": "Western Sahara",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Africa/El_Aaiun",
+      "defined_holiday_count": 9
+    },
+    {
+      "country_code": "ER",
+      "name": "Eritrea",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Africa/Nairobi",
+      "defined_holiday_count": 19
+    },
+    {
+      "country_code": "ES",
+      "name": "Spain",
+      "dayoff": "",
+      "timezone_count": 3,
+      "timezones": "Europe/Madrid, Africa/Ceuta, Atlantic/Canary",
+      "defined_holiday_count": 23
+    },
+    {
+      "country_code": "ET",
+      "name": "Ethiopia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Nairobi",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "FI",
+      "name": "Finland",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Helsinki",
+      "defined_holiday_count": 18
+    },
+    {
+      "country_code": "FJ",
+      "name": "Fiji",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Pacific/Fiji",
+      "defined_holiday_count": 25
+    },
+    {
+      "country_code": "FO",
+      "name": "Faroe Islands",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Atlantic/Faroe",
+      "defined_holiday_count": 17
+    },
+    {
+      "country_code": "FR",
+      "name": "France",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Paris",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "GA",
+      "name": "Gabon",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Lagos",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "GB",
+      "name": "United Kingdom",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/London",
+      "defined_holiday_count": 19
+    },
+    {
+      "country_code": "GD",
+      "name": "Grenada",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port_of_Spain",
+      "defined_holiday_count": 19
+    },
+    {
+      "country_code": "GE",
+      "name": "Georgia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Asia/Tbilisi",
+      "defined_holiday_count": 17
+    },
+    {
+      "country_code": "GF",
+      "name": "French Guiana",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Cayenne",
+      "defined_holiday_count": 1
+    },
+    {
+      "country_code": "GG",
+      "name": "Guernsey",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Guernsey",
+      "defined_holiday_count": 1
+    },
+    {
+      "country_code": "GH",
+      "name": "Ghana",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Africa/Accra",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "GI",
+      "name": "Gibraltar",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Gibraltar",
+      "defined_holiday_count": 10
+    },
+    {
+      "country_code": "GL",
+      "name": "Greenland",
+      "dayoff": "sunday",
+      "timezone_count": 4,
+      "timezones": "America/Godthab, America/Danmarkshavn, America/Scoresbysund, America/Thule",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "GM",
+      "name": "The Gambia",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Africa/Abidjan",
+      "defined_holiday_count": 15
+    },
+    {
+      "country_code": "GN",
+      "name": "Guinea",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Abidjan",
+      "defined_holiday_count": 12
+    },
+    {
+      "country_code": "GP",
+      "name": "Guadeloupe",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Guadeloupe",
+      "defined_holiday_count": 4
+    },
+    {
+      "country_code": "GQ",
+      "name": "Republic of Equatorial Guinea",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Lagos",
+      "defined_holiday_count": 10
+    },
+    {
+      "country_code": "GR",
+      "name": "Greece",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Athens",
+      "defined_holiday_count": 15
+    },
+    {
+      "country_code": "GT",
+      "name": "Guatemala",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Guatemala",
+      "defined_holiday_count": 23
+    },
+    {
+      "country_code": "GU",
+      "name": "Guam",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Pacific/Guam",
+      "defined_holiday_count": 7
+    },
+    {
+      "country_code": "GW",
+      "name": "Guinea-Bissau",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Africa/Bissau",
+      "defined_holiday_count": 10
+    },
+    {
+      "country_code": "GY",
+      "name": "Guyana",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Guyana",
+      "defined_holiday_count": 35
+    },
+    {
+      "country_code": "HK",
+      "name": "Hong Kong",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Asia/Hong_Kong",
+      "defined_holiday_count": 33
+    },
+    {
+      "country_code": "HN",
+      "name": "Honduras",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Tegucigalpa",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "HR",
+      "name": "Croatia",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Europe/Belgrade",
+      "defined_holiday_count": 29
+    },
+    {
+      "country_code": "HT",
+      "name": "Haiti",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port-au-Prince",
+      "defined_holiday_count": 19
+    },
+    {
+      "country_code": "HU",
+      "name": "Hungary",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Budapest",
+      "defined_holiday_count": 35
+    },
+    {
+      "country_code": "IC",
+      "name": "Canary Islands",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Atlantic/Canary",
+      "defined_holiday_count": 3
+    },
+    {
+      "country_code": "ID",
+      "name": "Indonesia",
+      "dayoff": "sunday",
+      "timezone_count": 4,
+      "timezones": "Asia/Jakarta, Asia/Pontianak, Asia/Makassar, Asia/Jayapura",
+      "defined_holiday_count": 60
+    },
+    {
+      "country_code": "IE",
+      "name": "Ireland",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Dublin",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "IL",
+      "name": "Israel",
+      "dayoff": "Saturday",
+      "timezone_count": 1,
+      "timezones": "Asia/Jerusalem",
+      "defined_holiday_count": 36
+    },
+    {
+      "country_code": "IM",
+      "name": "Isle of Man",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Europe/Isle_of_Man",
+      "defined_holiday_count": 2
+    },
+    {
+      "country_code": "IN",
+      "name": "India",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Asia/Kolkata",
+      "defined_holiday_count": 6
+    },
+    {
+      "country_code": "IR",
+      "name": "Iran",
+      "dayoff": "Friday",
+      "timezone_count": 1,
+      "timezones": "Asia/Tehran",
+      "defined_holiday_count": 27
+    },
+    {
+      "country_code": "IS",
+      "name": "Iceland",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Atlantic/Reykjavik",
+      "defined_holiday_count": 28
+    },
+    {
+      "country_code": "IT",
+      "name": "Italia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Rome",
+      "defined_holiday_count": 15
+    },
+    {
+      "country_code": "JE",
+      "name": "Jersey",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Europe/Jersey",
+      "defined_holiday_count": 1
+    },
+    {
+      "country_code": "JM",
+      "name": "Jamaica",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Jamaica",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "JP",
+      "name": "Japan",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Asia/Tokyo",
+      "defined_holiday_count": 54
+    },
+    {
+      "country_code": "KE",
+      "name": "Kenya",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Nairobi",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "KM",
+      "name": "Comoros",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Nairobi",
+      "defined_holiday_count": 10
+    },
+    {
+      "country_code": "KN",
+      "name": "St. Kitts & Nevis",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port_of_Spain",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "KR",
+      "name": "South Korea",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Asia/Seoul",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "KY",
+      "name": "Cayman Islands",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Panama",
+      "defined_holiday_count": 23
+    },
+    {
+      "country_code": "LC",
+      "name": "St. Lucia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port_of_Spain",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "LI",
+      "name": "Liechtenstein",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Zurich",
+      "defined_holiday_count": 25
+    },
+    {
+      "country_code": "LK",
+      "name": "Sri Lanka",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Asia/Colombo",
+      "defined_holiday_count": 26
+    },
+    {
+      "country_code": "LR",
+      "name": "Liberia",
+      "dayoff": "Sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Monrovia",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "LS",
+      "name": "Lesotho",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Johannesburg",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "LT",
+      "name": "Lithuania",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Vilnius",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "LU",
+      "name": "Luxembourg",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Europe/Luxembourg",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "LV",
+      "name": "Latvia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Riga",
+      "defined_holiday_count": 15
+    },
+    {
+      "country_code": "LY",
+      "name": "Libya",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Africa/Tripoli",
+      "defined_holiday_count": 10
+    },
+    {
+      "country_code": "MA",
+      "name": "Kingdom of Morocco",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Casablanca",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "MC",
+      "name": "Monaco",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Monaco",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "MD",
+      "name": "Moldova",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Chisinau",
+      "defined_holiday_count": 12
+    },
+    {
+      "country_code": "ME",
+      "name": "Montenegro",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Belgrade",
+      "defined_holiday_count": 33
+    },
+    {
+      "country_code": "MF",
+      "name": "St. Martin",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Marigot",
+      "defined_holiday_count": 1
+    },
+    {
+      "country_code": "MG",
+      "name": "Madagascar",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Nairobi",
+      "defined_holiday_count": 15
+    },
+    {
+      "country_code": "MK",
+      "name": "Macedonia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Belgrade",
+      "defined_holiday_count": 29
+    },
+    {
+      "country_code": "ML",
+      "name": "Republic of Mali",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Abidjan",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "MQ",
+      "name": "Martinique",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Martinique",
+      "defined_holiday_count": 3
+    },
+    {
+      "country_code": "MR",
+      "name": "Mauritania",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Africa/Abidjan",
+      "defined_holiday_count": 8
+    },
+    {
+      "country_code": "MS",
+      "name": "Montserrat",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port_of_Spain",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "MT",
+      "name": "Malta",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Malta",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "MW",
+      "name": "Malawi",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Maputo",
+      "defined_holiday_count": 12
+    },
+    {
+      "country_code": "MX",
+      "name": "Mexico",
+      "dayoff": "sunday",
+      "timezone_count": 12,
+      "timezones": "America/Mexico_City, America/Cancun, America/Merida, America/Monterrey, America/Matamoros",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "MY",
+      "name": "Malaysia",
+      "dayoff": "Saturday",
+      "timezone_count": 2,
+      "timezones": "Asia/Kuala_Lumpur, Asia/Kuching",
+      "defined_holiday_count": 57
+    },
+    {
+      "country_code": "MZ",
+      "name": "Mozambique",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Maputo",
+      "defined_holiday_count": 19
+    },
+    {
+      "country_code": "NA",
+      "name": "Namibia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Windhoek",
+      "defined_holiday_count": 21
+    },
+    {
+      "country_code": "NC",
+      "name": "New Caledonia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Pacific/Noumea",
+      "defined_holiday_count": 2
+    },
+    {
+      "country_code": "NE",
+      "name": "Republic of the Niger",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Lagos",
+      "defined_holiday_count": 12
+    },
+    {
+      "country_code": "NG",
+      "name": "Nigeria",
+      "dayoff": "Saturday",
+      "timezone_count": 1,
+      "timezones": "Africa/Lagos",
+      "defined_holiday_count": 18
+    },
+    {
+      "country_code": "NI",
+      "name": "Nicaragua",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Managua",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "NL",
+      "name": "Netherlands",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Amsterdam",
+      "defined_holiday_count": 23
+    },
+    {
+      "country_code": "NZ",
+      "name": "New Zealand",
+      "dayoff": "sunday",
+      "timezone_count": 2,
+      "timezones": "Pacific/Auckland, Pacific/Chatham",
+      "defined_holiday_count": 44
+    },
+    {
+      "country_code": "PA",
+      "name": "Panama",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Panama",
+      "defined_holiday_count": 12
+    },
+    {
+      "country_code": "PE",
+      "name": "Peru",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Lima",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "PF",
+      "name": "French Polynesia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Pacific/Tahiti",
+      "defined_holiday_count": 4
+    },
+    {
+      "country_code": "PH",
+      "name": "Philippines",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Asia/Manila",
+      "defined_holiday_count": 33
+    },
+    {
+      "country_code": "PL",
+      "name": "Poland",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Warsaw",
+      "defined_holiday_count": 49
+    },
+    {
+      "country_code": "PM",
+      "name": "St. Pierre & Miquelon",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Miquelon",
+      "defined_holiday_count": 0
+    },
+    {
+      "country_code": "PR",
+      "name": "Puerto Rico",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Puerto_Rico",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "PT",
+      "name": "Portugal",
+      "dayoff": "sunday",
+      "timezone_count": 3,
+      "timezones": "Europe/Lisbon, Atlantic/Madeira, Atlantic/Azores",
+      "defined_holiday_count": 17
+    },
+    {
+      "country_code": "PY",
+      "name": "Paraguay",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Asuncion",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "RE",
+      "name": "Réunion",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Indian/Reunion",
+      "defined_holiday_count": 1
+    },
+    {
+      "country_code": "RO",
+      "name": "Romania",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Bucharest",
+      "defined_holiday_count": 22
+    },
+    {
+      "country_code": "RS",
+      "name": "Serbia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Belgrade",
+      "defined_holiday_count": 23
+    },
+    {
+      "country_code": "RU",
+      "name": "Russia",
+      "dayoff": "sunday",
+      "timezone_count": 21,
+      "timezones": "Europe/Moscow, Europe/Kaliningrad, Europe/Simferopol, Europe/Volgograd, Europe/Samara",
+      "defined_holiday_count": 10
+    },
+    {
+      "country_code": "RW",
+      "name": "Rwanda",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Maputo",
+      "defined_holiday_count": 15
+    },
+    {
+      "country_code": "SA",
+      "name": "Saudi Arabia",
+      "dayoff": "Saturday",
+      "timezone_count": 1,
+      "timezones": "Asia/Riyadh",
+      "defined_holiday_count": 4
+    },
+    {
+      "country_code": "SC",
+      "name": "Seychelles",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Indian/Mahe",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "SD",
+      "name": "Sudan",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Africa/Khartoum",
+      "defined_holiday_count": 9
+    },
+    {
+      "country_code": "SE",
+      "name": "Sweden",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Stockholm",
+      "defined_holiday_count": 32
+    },
+    {
+      "country_code": "SG",
+      "name": "Singapore",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Asia/Singapore",
+      "defined_holiday_count": 80
+    },
+    {
+      "country_code": "SH",
+      "name": "St. Helena",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Abidjan",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "SI",
+      "name": "Slovenia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Belgrade",
+      "defined_holiday_count": 26
+    },
+    {
+      "country_code": "SJ",
+      "name": "Svalbard & Jan Mayen",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Oslo",
+      "defined_holiday_count": 0
+    },
+    {
+      "country_code": "SK",
+      "name": "Slovakia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Bratislava",
+      "defined_holiday_count": 21
+    },
+    {
+      "country_code": "SL",
+      "name": "Sierra Leone",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Abidjan",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "SM",
+      "name": "San Marino",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Rome",
+      "defined_holiday_count": 20
+    },
+    {
+      "country_code": "SN",
+      "name": "Senegal",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Abidjan",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "SO",
+      "name": "Somalia",
+      "dayoff": "?",
+      "timezone_count": 1,
+      "timezones": "Africa/Nairobi",
+      "defined_holiday_count": 8
+    },
+    {
+      "country_code": "SR",
+      "name": "Suriname",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Paramaribo",
+      "defined_holiday_count": 48
+    },
+    {
+      "country_code": "SS",
+      "name": "South Sudan",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Maputo",
+      "defined_holiday_count": 12
+    },
+    {
+      "country_code": "ST",
+      "name": "São Tomé & Príncipe",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Abidjan",
+      "defined_holiday_count": 8
+    },
+    {
+      "country_code": "SV",
+      "name": "El Salvador",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/El_Salvador",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "SX",
+      "name": "Sint Maarten",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Curacao",
+      "defined_holiday_count": 15
+    },
+    {
+      "country_code": "SZ",
+      "name": "Swaziland",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Johannesburg",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "TC",
+      "name": "Turks & Caicos Islands",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Grand_Turk",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "TD",
+      "name": "Chad",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Ndjamena",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "TG",
+      "name": "Togolese Republic",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Abidjan",
+      "defined_holiday_count": 14
+    },
+    {
+      "country_code": "TH",
+      "name": "Thailand",
+      "dayoff": "Saturday",
+      "timezone_count": 1,
+      "timezones": "Asia/Bangkok",
+      "defined_holiday_count": 83
+    },
+    {
+      "country_code": "TN",
+      "name": "Tunisia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Tunis",
+      "defined_holiday_count": 12
+    },
+    {
+      "country_code": "TO",
+      "name": "Tonga",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Pacific/Tongatapu",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "TR",
+      "name": "Turkey",
+      "dayoff": "saturday",
+      "timezone_count": 1,
+      "timezones": "Europe/Istanbul",
+      "defined_holiday_count": 9
+    },
+    {
+      "country_code": "TT",
+      "name": "Trinidad & Tobago",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port_of_Spain",
+      "defined_holiday_count": 37
+    },
+    {
+      "country_code": "TW",
+      "name": "Taiwan",
+      "dayoff": "",
+      "timezone_count": 1,
+      "timezones": "Asia/Taipei",
+      "defined_holiday_count": 43
+    },
+    {
+      "country_code": "TZ",
+      "name": "Tanzania",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Nairobi",
+      "defined_holiday_count": 17
+    },
+    {
+      "country_code": "UA",
+      "name": "Ukraine",
+      "dayoff": "sunday",
+      "timezone_count": 3,
+      "timezones": "Europe/Kiev, Europe/Uzhgorod, Europe/Zaporozhye",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "UG",
+      "name": "Uganda",
+      "dayoff": "sundays",
+      "timezone_count": 1,
+      "timezones": "Africa/Nairobi",
+      "defined_holiday_count": 16
+    },
+    {
+      "country_code": "US",
+      "name": "United States of America",
+      "dayoff": "sunday",
+      "timezone_count": 29,
+      "timezones": "America/New_York, America/Detroit, America/Kentucky/Louisville, America/Kentucky/Monticello, America/Indiana/Indianapolis",
+      "defined_holiday_count": 24
+    },
+    {
+      "country_code": "UY",
+      "name": "Uruguay",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Montevideo",
+      "defined_holiday_count": 19
+    },
+    {
+      "country_code": "VA",
+      "name": "Vatican City",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Rome",
+      "defined_holiday_count": 33
+    },
+    {
+      "country_code": "VC",
+      "name": "St. Vincent & Grenadines",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port_of_Spain",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "VE",
+      "name": "Venezuela",
+      "dayoff": "sundays",
+      "timezone_count": 1,
+      "timezones": "America/Caracas",
+      "defined_holiday_count": 25
+    },
+    {
+      "country_code": "VG",
+      "name": "British Virgin Islands",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port_of_Spain",
+      "defined_holiday_count": 19
+    },
+    {
+      "country_code": "VI",
+      "name": "U.S. Virgin Islands",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "America/Port_of_Spain",
+      "defined_holiday_count": 12
+    },
+    {
+      "country_code": "VN",
+      "name": "Vietnam",
+      "dayoff": "",
+      "timezone_count": 2,
+      "timezones": "Asia/Ho_Chi_Minh, Asia/Bangkok",
+      "defined_holiday_count": 27
+    },
+    {
+      "country_code": "VU",
+      "name": "Vanuatu",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Pacific/Efate",
+      "defined_holiday_count": 17
+    },
+    {
+      "country_code": "WF",
+      "name": "Wallis and Futuna",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Pacific/Wallis",
+      "defined_holiday_count": 3
+    },
+    {
+      "country_code": "XK",
+      "name": "Kosovo",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Europe/Belgrade",
+      "defined_holiday_count": 11
+    },
+    {
+      "country_code": "YT",
+      "name": "Mayotte",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Nairobi",
+      "defined_holiday_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "name": "South Africa",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Johannesburg",
+      "defined_holiday_count": 27
+    },
+    {
+      "country_code": "ZM",
+      "name": "Zambia",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Maputo",
+      "defined_holiday_count": 13
+    },
+    {
+      "country_code": "ZW",
+      "name": "Zimbabwe",
+      "dayoff": "sunday",
+      "timezone_count": 1,
+      "timezones": "Africa/Maputo",
+      "defined_holiday_count": 14
+    }
+  ],
+  "meta": {
+    "title": "Public Holidays by Country — Summary - Free Download",
+    "description": "Per-country summary of public holiday configuration: country code, English name, weekly day off, number of time zones, sample time zones, and the count of defined public holidays (from commenthol/date-holidays). Contains 201 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Public Holidays by Country — Summary | ListBase",
+    "seo_description": "Download Public Holidays by Country — Summary — 201 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 201 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/commenthol/date-holidays"
+    ]
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "id": "tech-mime-types",
+  "name": "Common MIME Types & File Extensions Dataset",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "mime_type",
+      "label": "MIME Type",
+      "type": "string"
+    },
+    {
+      "key": "extension",
+      "label": "Extension",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mime_type": "text/plain",
+      "extension": ".txt",
+      "category": "Text",
+      "description": "Plain text"
+    },
+    {
+      "mime_type": "text/html",
+      "extension": ".html, .htm",
+      "category": "Text",
+      "description": "HTML document"
+    },
+    {
+      "mime_type": "text/css",
+      "extension": ".css",
+      "category": "Text",
+      "description": "Cascading Style Sheets"
+    },
+    {
+      "mime_type": "text/javascript",
+      "extension": ".js",
+      "category": "Text",
+      "description": "JavaScript"
+    },
+    {
+      "mime_type": "text/csv",
+      "extension": ".csv",
+      "category": "Text",
+      "description": "Comma-separated values"
+    },
+    {
+      "mime_type": "text/xml",
+      "extension": ".xml",
+      "category": "Text",
+      "description": "XML document"
+    },
+    {
+      "mime_type": "text/markdown",
+      "extension": ".md",
+      "category": "Text",
+      "description": "Markdown document"
+    },
+    {
+      "mime_type": "text/calendar",
+      "extension": ".ics",
+      "category": "Text",
+      "description": "iCalendar format"
+    },
+    {
+      "mime_type": "application/pdf",
+      "extension": ".pdf",
+      "category": "Document",
+      "description": "Adobe PDF"
+    },
+    {
+      "mime_type": "application/msword",
+      "extension": ".doc",
+      "category": "Document",
+      "description": "Microsoft Word"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "extension": ".docx",
+      "category": "Document",
+      "description": "Microsoft Word (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.ms-excel",
+      "extension": ".xls",
+      "category": "Document",
+      "description": "Microsoft Excel"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "extension": ".xlsx",
+      "category": "Document",
+      "description": "Microsoft Excel (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.ms-powerpoint",
+      "extension": ".ppt",
+      "category": "Document",
+      "description": "Microsoft PowerPoint"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "extension": ".pptx",
+      "category": "Document",
+      "description": "Microsoft PowerPoint (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.oasis.opendocument.text",
+      "extension": ".odt",
+      "category": "Document",
+      "description": "OpenDocument Text"
+    },
+    {
+      "mime_type": "application/vnd.oasis.opendocument.spreadsheet",
+      "extension": ".ods",
+      "category": "Document",
+      "description": "OpenDocument Spreadsheet"
+    },
+    {
+      "mime_type": "application/rtf",
+      "extension": ".rtf",
+      "category": "Document",
+      "description": "Rich Text Format"
+    },
+    {
+      "mime_type": "application/epub+zip",
+      "extension": ".epub",
+      "category": "Document",
+      "description": "Electronic Publication (EPUB)"
+    },
+    {
+      "mime_type": "application/json",
+      "extension": ".json",
+      "category": "Data",
+      "description": "JSON format"
+    },
+    {
+      "mime_type": "application/xml",
+      "extension": ".xml",
+      "category": "Data",
+      "description": "XML data"
+    },
+    {
+      "mime_type": "application/ld+json",
+      "extension": ".jsonld",
+      "category": "Data",
+      "description": "JSON-LD format"
+    },
+    {
+      "mime_type": "application/x-yaml",
+      "extension": ".yaml, .yml",
+      "category": "Data",
+      "description": "YAML format"
+    },
+    {
+      "mime_type": "application/sql",
+      "extension": ".sql",
+      "category": "Data",
+      "description": "SQL script"
+    },
+    {
+      "mime_type": "application/zip",
+      "extension": ".zip",
+      "category": "Archive",
+      "description": "ZIP archive"
+    },
+    {
+      "mime_type": "application/gzip",
+      "extension": ".gz",
+      "category": "Archive",
+      "description": "GZIP archive"
+    },
+    {
+      "mime_type": "application/x-tar",
+      "extension": ".tar",
+      "category": "Archive",
+      "description": "TAR archive"
+    },
+    {
+      "mime_type": "application/x-rar-compressed",
+      "extension": ".rar",
+      "category": "Archive",
+      "description": "RAR archive"
+    },
+    {
+      "mime_type": "application/x-7z-compressed",
+      "extension": ".7z",
+      "category": "Archive",
+      "description": "7-Zip archive"
+    },
+    {
+      "mime_type": "application/x-bzip2",
+      "extension": ".bz2",
+      "category": "Archive",
+      "description": "Bzip2 archive"
+    },
+    {
+      "mime_type": "application/octet-stream",
+      "extension": ".bin",
+      "category": "Binary",
+      "description": "Binary data"
+    },
+    {
+      "mime_type": "application/x-executable",
+      "extension": ".exe",
+      "category": "Binary",
+      "description": "Executable file"
+    },
+    {
+      "mime_type": "application/x-msdownload",
+      "extension": ".exe, .dll",
+      "category": "Binary",
+      "description": "Microsoft executable"
+    },
+    {
+      "mime_type": "application/x-shockwave-flash",
+      "extension": ".swf",
+      "category": "Binary",
+      "description": "Adobe Flash"
+    },
+    {
+      "mime_type": "application/java-archive",
+      "extension": ".jar",
+      "category": "Binary",
+      "description": "Java Archive"
+    },
+    {
+      "mime_type": "application/vnd.android.package-archive",
+      "extension": ".apk",
+      "category": "Binary",
+      "description": "Android Package"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "extension": ".jpg, .jpeg",
+      "category": "Image",
+      "description": "JPEG image"
+    },
+    {
+      "mime_type": "image/png",
+      "extension": ".png",
+      "category": "Image",
+      "description": "PNG image"
+    },
+    {
+      "mime_type": "image/gif",
+      "extension": ".gif",
+      "category": "Image",
+      "description": "GIF image"
+    },
+    {
+      "mime_type": "image/webp",
+      "extension": ".webp",
+      "category": "Image",
+      "description": "WebP image"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "extension": ".svg",
+      "category": "Image",
+      "description": "SVG image"
+    },
+    {
+      "mime_type": "image/bmp",
+      "extension": ".bmp",
+      "category": "Image",
+      "description": "Bitmap image"
+    },
+    {
+      "mime_type": "image/tiff",
+      "extension": ".tiff, .tif",
+      "category": "Image",
+      "description": "TIFF image"
+    },
+    {
+      "mime_type": "image/x-icon",
+      "extension": ".ico",
+      "category": "Image",
+      "description": "Icon format"
+    },
+    {
+      "mime_type": "image/avif",
+      "extension": ".avif",
+      "category": "Image",
+      "description": "AVIF image"
+    },
+    {
+      "mime_type": "image/heic",
+      "extension": ".heic",
+      "category": "Image",
+      "description": "HEIC image (Apple)"
+    },
+    {
+      "mime_type": "audio/mpeg",
+      "extension": ".mp3",
+      "category": "Audio",
+      "description": "MP3 audio"
+    },
+    {
+      "mime_type": "audio/wav",
+      "extension": ".wav",
+      "category": "Audio",
+      "description": "WAV audio"
+    },
+    {
+      "mime_type": "audio/ogg",
+      "extension": ".ogg",
+      "category": "Audio",
+      "description": "OGG audio"
+    },
+    {
+      "mime_type": "audio/webm",
+      "extension": ".weba",
+      "category": "Audio",
+      "description": "WebM audio"
+    },
+    {
+      "mime_type": "audio/aac",
+      "extension": ".aac",
+      "category": "Audio",
+      "description": "AAC audio"
+    },
+    {
+      "mime_type": "audio/flac",
+      "extension": ".flac",
+      "category": "Audio",
+      "description": "FLAC audio"
+    },
+    {
+      "mime_type": "audio/midi",
+      "extension": ".mid, .midi",
+      "category": "Audio",
+      "description": "MIDI audio"
+    },
+    {
+      "mime_type": "audio/x-m4a",
+      "extension": ".m4a",
+      "category": "Audio",
+      "description": "M4A audio (Apple)"
+    },
+    {
+      "mime_type": "video/mp4",
+      "extension": ".mp4",
+      "category": "Video",
+      "description": "MP4 video"
+    },
+    {
+      "mime_type": "video/webm",
+      "extension": ".webm",
+      "category": "Video",
+      "description": "WebM video"
+    },
+    {
+      "mime_type": "video/ogg",
+      "extension": ".ogv",
+      "category": "Video",
+      "description": "OGG video"
+    },
+    {
+      "mime_type": "video/x-msvideo",
+      "extension": ".avi",
+      "category": "Video",
+      "description": "AVI video"
+    },
+    {
+      "mime_type": "video/quicktime",
+      "extension": ".mov",
+      "category": "Video",
+      "description": "QuickTime video"
+    },
+    {
+      "mime_type": "video/x-matroska",
+      "extension": ".mkv",
+      "category": "Video",
+      "description": "Matroska video"
+    },
+    {
+      "mime_type": "video/x-flv",
+      "extension": ".flv",
+      "category": "Video",
+      "description": "Flash video"
+    },
+    {
+      "mime_type": "video/mpeg",
+      "extension": ".mpeg, .mpg",
+      "category": "Video",
+      "description": "MPEG video"
+    },
+    {
+      "mime_type": "video/3gpp",
+      "extension": ".3gp",
+      "category": "Video",
+      "description": "3GPP video"
+    },
+    {
+      "mime_type": "font/woff",
+      "extension": ".woff",
+      "category": "Font",
+      "description": "Web Open Font Format"
+    },
+    {
+      "mime_type": "font/woff2",
+      "extension": ".woff2",
+      "category": "Font",
+      "description": "Web Open Font Format 2"
+    },
+    {
+      "mime_type": "font/ttf",
+      "extension": ".ttf",
+      "category": "Font",
+      "description": "TrueType Font"
+    },
+    {
+      "mime_type": "font/otf",
+      "extension": ".otf",
+      "category": "Font",
+      "description": "OpenType Font"
+    },
+    {
+      "mime_type": "application/vnd.ms-fontobject",
+      "extension": ".eot",
+      "category": "Font",
+      "description": "Embedded OpenType"
+    },
+    {
+      "mime_type": "multipart/form-data",
+      "extension": "",
+      "category": "Multipart",
+      "description": "Form data with file upload"
+    },
+    {
+      "mime_type": "multipart/byteranges",
+      "extension": "",
+      "category": "Multipart",
+      "description": "Partial content ranges"
+    }
+  ],
+  "meta": {
+    "seo_title": "Common MIME Types List - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download of 70 common MIME types, extensions, and categories. Ideal for developers & data analysts. Available in Excel, CSV, and PDF formats.",
+    "title": "Common MIME Types & File Extensions Dataset",
+    "description": "This dataset provides a comprehensive list of 70 common MIME types, their associated file extensions, categories, and descriptions. Essential for web development, data processing, and system administration.",
+    "key_takeaways": [
+      "Access a curated list of 70 common MIME types and their details.",
+      "Explore file extensions, categories, and descriptions for various data formats.",
+      "Download essential MIME type information for web development and data handling.",
+      "Get precise data for content type identification and server configuration."
+    ],
+    "keywords": [
+      "mime types list",
+      "file extensions dataset",
+      "common mime types csv",
+      "web content types excel",
+      "data formats list",
+      "free mime types download"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your backend application or database to validate file uploads and set content types programmatically.",
+      "Use the **Excel** file to quickly filter and cross-reference MIME types for documentation, system audits, or preparing content type mappings.",
+      "Print the **PDF** version as a quick reference guide for development teams, system administrators, or for educational purposes in computer science classes.",
+      "Leverage this dataset to enhance content negotiation, implement robust file handling, or improve server configuration for web applications."
+    ]
+  },
+  "record_count": 70,
+  "title": "Common MIME Types & File Extensions Dataset"
+}

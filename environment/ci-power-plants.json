@@ -1,0 +1,250 @@
+{
+  "id": "ci-power-plants",
+  "name": "Cote DIvoire — Power Plants",
+  "title": "Cote DIvoire — Power Plants",
+  "description": "Power plants located in Cote DIvoire from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "number"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Azito OCGT Power Plant Ivory Coast",
+      "gppd_idnr": "GEODB0042570",
+      "capacity_mw": 294,
+      "latitude": 5.3015,
+      "longitude": -4.0763,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Taabo Hydroelectric Power Plant Cote dIvoire",
+      "gppd_idnr": "GEODB0042576",
+      "capacity_mw": 210,
+      "latitude": 6.2093,
+      "longitude": -5.0829,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 588.06; 2014: 712.57; 2015: 630.07; 2016: 810.54; 2017: 826.99",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Vridi CIPREL OCGT Power Plant Cote DIvoire",
+      "gppd_idnr": "GEODB0042574",
+      "capacity_mw": 210,
+      "latitude": 5.2612,
+      "longitude": -4.0096,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kossou Hydroelectric Power Plant Cote dIvoire",
+      "gppd_idnr": "GEODB0042577",
+      "capacity_mw": 174,
+      "latitude": 7.0304,
+      "longitude": -5.473,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 466.85; 2014: 594.51; 2015: 541.04; 2016: 509.5; 2017: 550.52",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Buyo Hydroelectric Power Plant Cote dIvoire",
+      "gppd_idnr": "GEODB0042575",
+      "capacity_mw": 165,
+      "latitude": 6.2422,
+      "longitude": -7.0453,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 495.86; 2014: 616.67; 2015: 527.43; 2016: 563.6; 2017: 598.96",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Centrale Vridi OCGT Power Plant Cote DIvoire",
+      "gppd_idnr": "GEODB0042573",
+      "capacity_mw": 100,
+      "latitude": 5.2579,
+      "longitude": -4.0079,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ayame (Ayme) II Hydroelectric Power Plant Cote dIvoire",
+      "gppd_idnr": "GEODB0042578",
+      "capacity_mw": 30,
+      "latitude": 5.5819,
+      "longitude": -3.1591,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 88.55; 2014: 106.81; 2015: 104.14; 2016: 92.78; 2017: 97.26",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ayame (Ayme) I Hydroelectric Power Plant Cote dIvoire",
+      "gppd_idnr": "GEODB0042579",
+      "capacity_mw": 20,
+      "latitude": 5.6058,
+      "longitude": -3.1691,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 63.12; 2014: 78.59; 2015: 75.17; 2016: 67.76; 2017: 71.84",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Cote DIvoire — Power Plants - Free Download",
+    "description": "Power plants located in Cote DIvoire from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cote DIvoire — Power Plants | ListBase",
+    "seo_description": "Download Cote DIvoire — Power Plants dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "id": "arthritis-clinical-trial-1987",
+  "name": "Arthritis Clinical Trial — Treatment Outcomes (1987)",
+  "title": "Arthritis Clinical Trial — Treatment Outcomes (1987)",
+  "description": "Results of a double-blind clinical trial of 84 patients testing a new treatment for rheumatoid arthritis, recording treatment type, sex, age, and degree of improvement.",
+  "category": "health",
+  "source": "https://github.com/vincentarelbundock/Rdatasets",
+  "source_url": "https://github.com/vincentarelbundock/Rdatasets",
+  "updated": "2026-04",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "ID",
+      "label": "ID",
+      "type": "number"
+    },
+    {
+      "key": "Treatment",
+      "label": "Treatment",
+      "type": "string"
+    },
+    {
+      "key": "Sex",
+      "label": "Sex",
+      "type": "string"
+    },
+    {
+      "key": "Age",
+      "label": "Age",
+      "type": "number"
+    },
+    {
+      "key": "Improved",
+      "label": "Improved",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ID": "57",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "27",
+      "Improved": "Some"
+    },
+    {
+      "ID": "46",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "29",
+      "Improved": "None"
+    },
+    {
+      "ID": "77",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "30",
+      "Improved": "None"
+    },
+    {
+      "ID": "17",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "32",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "36",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "46",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "23",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "58",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "75",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "59",
+      "Improved": "None"
+    },
+    {
+      "ID": "39",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "59",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "33",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "63",
+      "Improved": "None"
+    },
+    {
+      "ID": "55",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "63",
+      "Improved": "None"
+    },
+    {
+      "ID": "30",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "64",
+      "Improved": "None"
+    },
+    {
+      "ID": "5",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "64",
+      "Improved": "Some"
+    },
+    {
+      "ID": "63",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "69",
+      "Improved": "None"
+    },
+    {
+      "ID": "83",
+      "Treatment": "Treated",
+      "Sex": "Male",
+      "Age": "70",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "66",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "23",
+      "Improved": "None"
+    },
+    {
+      "ID": "40",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "32",
+      "Improved": "None"
+    },
+    {
+      "ID": "6",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "37",
+      "Improved": "Some"
+    },
+    {
+      "ID": "7",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "41",
+      "Improved": "None"
+    },
+    {
+      "ID": "72",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "41",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "37",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "48",
+      "Improved": "None"
+    },
+    {
+      "ID": "82",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "48",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "53",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "55",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "79",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "55",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "26",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "56",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "28",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "57",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "60",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "57",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "22",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "57",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "27",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "58",
+      "Improved": "None"
+    },
+    {
+      "ID": "2",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "59",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "59",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "59",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "62",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "60",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "84",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "61",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "64",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "62",
+      "Improved": "Some"
+    },
+    {
+      "ID": "34",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "62",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "58",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "66",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "13",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "67",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "61",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "68",
+      "Improved": "Some"
+    },
+    {
+      "ID": "65",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "68",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "11",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "69",
+      "Improved": "None"
+    },
+    {
+      "ID": "56",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "69",
+      "Improved": "Some"
+    },
+    {
+      "ID": "43",
+      "Treatment": "Treated",
+      "Sex": "Female",
+      "Age": "70",
+      "Improved": "Some"
+    },
+    {
+      "ID": "9",
+      "Treatment": "Placebo",
+      "Sex": "Male",
+      "Age": "37",
+      "Improved": "None"
+    },
+    {
+      "ID": "14",
+      "Treatment": "Placebo",
+      "Sex": "Male",
+      "Age": "44",
+      "Improved": "None"
+    },
+    {
+      "ID": "73",
+      "Treatment": "Placebo",
+      "Sex": "Male",
+      "Age": "50",
+      "Improved": "None"
+    },
+    {
+      "ID": "74",
+      "Treatment": "Placebo",
+      "Sex": "Male",
+      "Age": "51",
+      "Improved": "None"
+    },
+    {
+      "ID": "25",
+      "Treatment": "Placebo",
+      "Sex": "Male",
+      "Age": "52",
+      "Improved": "None"
+    },
+    {
+      "ID": "18",
+      "Treatment": "Placebo",
+      "Sex": "Male",
+      "Age": "53",
+      "Improved": "None"
+    },
+    {
+      "ID": "21",
+      "Treatment": "Placebo",
+      "Sex": "Male",
+      "Age": "59",
+      "Improved": "None"
+    },
+    {
+      "ID": "52",
+      "Treatment": "Placebo",
+      "Sex": "Male",
+      "Age": "59",
+      "Improved": "None"
+    },
+    {
+      "ID": "45",
+      "Treatment": "Placebo",
+      "Sex": "Male",
+      "Age": "62",
+      "Improved": "None"
+    },
+    {
+      "ID": "41",
+      "Treatment": "Placebo",
+      "Sex": "Male",
+      "Age": "62",
+      "Improved": "None"
+    },
+    {
+      "ID": "8",
+      "Treatment": "Placebo",
+      "Sex": "Male",
+      "Age": "63",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "80",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "23",
+      "Improved": "None"
+    },
+    {
+      "ID": "12",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "30",
+      "Improved": "None"
+    },
+    {
+      "ID": "29",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "30",
+      "Improved": "None"
+    },
+    {
+      "ID": "50",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "31",
+      "Improved": "Some"
+    },
+    {
+      "ID": "38",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "32",
+      "Improved": "None"
+    },
+    {
+      "ID": "35",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "33",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "51",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "37",
+      "Improved": "None"
+    },
+    {
+      "ID": "54",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "44",
+      "Improved": "None"
+    },
+    {
+      "ID": "76",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "45",
+      "Improved": "None"
+    },
+    {
+      "ID": "16",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "46",
+      "Improved": "None"
+    },
+    {
+      "ID": "69",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "48",
+      "Improved": "None"
+    },
+    {
+      "ID": "31",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "49",
+      "Improved": "None"
+    },
+    {
+      "ID": "20",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "51",
+      "Improved": "None"
+    },
+    {
+      "ID": "68",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "53",
+      "Improved": "None"
+    },
+    {
+      "ID": "81",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "54",
+      "Improved": "None"
+    },
+    {
+      "ID": "4",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "54",
+      "Improved": "None"
+    },
+    {
+      "ID": "78",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "54",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "70",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "55",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "49",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "57",
+      "Improved": "None"
+    },
+    {
+      "ID": "10",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "57",
+      "Improved": "Some"
+    },
+    {
+      "ID": "47",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "58",
+      "Improved": "Some"
+    },
+    {
+      "ID": "44",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "59",
+      "Improved": "Some"
+    },
+    {
+      "ID": "24",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "59",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "48",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "61",
+      "Improved": "None"
+    },
+    {
+      "ID": "19",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "63",
+      "Improved": "Some"
+    },
+    {
+      "ID": "3",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "64",
+      "Improved": "None"
+    },
+    {
+      "ID": "67",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "65",
+      "Improved": "Marked"
+    },
+    {
+      "ID": "32",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "66",
+      "Improved": "None"
+    },
+    {
+      "ID": "42",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "66",
+      "Improved": "None"
+    },
+    {
+      "ID": "15",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "66",
+      "Improved": "Some"
+    },
+    {
+      "ID": "71",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "68",
+      "Improved": "Some"
+    },
+    {
+      "ID": "1",
+      "Treatment": "Placebo",
+      "Sex": "Female",
+      "Age": "74",
+      "Improved": "Marked"
+    }
+  ],
+  "meta": {
+    "title": "Arthritis Clinical Trial — Treatment Outcomes (1987) - Free Download",
+    "description": "Results of a double-blind clinical trial of 84 patients testing a new treatment for rheumatoid arthritis, recording treatment type, sex, age, and degree of improvement. Contains 84 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Arthritis Clinical Trial — Treatment Outcomes (1987) | ListBase",
+    "seo_description": "Download Arthritis Clinical Trial — Treatment Outcomes (1987) — 84 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 84 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/vincentarelbundock/Rdatasets"
+    ]
+  }
+}

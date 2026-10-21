@@ -1,0 +1,106 @@
+{
+  "id": "fo-airports-iata",
+  "name": "Faroe Islands — IATA Airports",
+  "title": "Faroe Islands — IATA Airports",
+  "description": "Airports with IATA codes in Faroe Islands: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "FAE",
+      "icao_code": "EKVG",
+      "name": "Vágar Airport",
+      "city_name_list": "Faroe Islands=Vága Municipality",
+      "country_code": "FO",
+      "country_name": "Faroe Islands",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Vagar",
+      "latitude": 62.06565,
+      "longitude": -7.28055,
+      "elevation": 85,
+      "timezone": "Atlantic/Faroe",
+      "wiki_link": "https://en.wikipedia.org/wiki/V%C3%A1gar_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Faroe Islands — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Faroe Islands: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 1 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Faroe Islands — IATA Airports | ListBase",
+    "seo_description": "Download Faroe Islands — IATA Airports dataset with 1 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

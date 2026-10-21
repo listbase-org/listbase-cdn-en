@@ -1,0 +1,750 @@
+{
+  "id": "finance-hs-codes",
+  "name": "HS Code (Harmonized System) Chapters Dataset",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chapter",
+      "label": "Chapter",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    },
+    {
+      "key": "section_name",
+      "label": "Section Name",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chapter": "01",
+      "name": "Live animals",
+      "section": "I",
+      "section_name": "Live Animals; Animal Products",
+      "examples": "Horses, cattle, sheep, poultry"
+    },
+    {
+      "chapter": "02",
+      "name": "Meat and edible meat offal",
+      "section": "I",
+      "section_name": "Live Animals; Animal Products",
+      "examples": "Beef, pork, lamb, poultry meat"
+    },
+    {
+      "chapter": "03",
+      "name": "Fish and crustaceans",
+      "section": "I",
+      "section_name": "Live Animals; Animal Products",
+      "examples": "Fish, shrimp, lobster, squid"
+    },
+    {
+      "chapter": "04",
+      "name": "Dairy produce; eggs; honey",
+      "section": "I",
+      "section_name": "Live Animals; Animal Products",
+      "examples": "Milk, cheese, eggs, honey"
+    },
+    {
+      "chapter": "05",
+      "name": "Products of animal origin",
+      "section": "I",
+      "section_name": "Live Animals; Animal Products",
+      "examples": "Bones, horns, ivory, feathers"
+    },
+    {
+      "chapter": "06",
+      "name": "Live trees and plants",
+      "section": "II",
+      "section_name": "Vegetable Products",
+      "examples": "Plants, bulbs, cut flowers"
+    },
+    {
+      "chapter": "07",
+      "name": "Edible vegetables",
+      "section": "II",
+      "section_name": "Vegetable Products",
+      "examples": "Potatoes, tomatoes, onions"
+    },
+    {
+      "chapter": "08",
+      "name": "Edible fruit and nuts",
+      "section": "II",
+      "section_name": "Vegetable Products",
+      "examples": "Apples, oranges, bananas, almonds"
+    },
+    {
+      "chapter": "09",
+      "name": "Coffee, tea, spices",
+      "section": "II",
+      "section_name": "Vegetable Products",
+      "examples": "Coffee, tea, pepper, vanilla"
+    },
+    {
+      "chapter": "10",
+      "name": "Cereals",
+      "section": "II",
+      "section_name": "Vegetable Products",
+      "examples": "Wheat, rice, corn, barley"
+    },
+    {
+      "chapter": "11",
+      "name": "Milling industry products",
+      "section": "II",
+      "section_name": "Vegetable Products",
+      "examples": "Flour, starch, malt"
+    },
+    {
+      "chapter": "12",
+      "name": "Oil seeds and oleaginous fruits",
+      "section": "II",
+      "section_name": "Vegetable Products",
+      "examples": "Soybeans, peanuts, sunflower seeds"
+    },
+    {
+      "chapter": "13",
+      "name": "Lac, gums, resins",
+      "section": "II",
+      "section_name": "Vegetable Products",
+      "examples": "Natural gums, resins, plant saps"
+    },
+    {
+      "chapter": "14",
+      "name": "Vegetable plaiting materials",
+      "section": "II",
+      "section_name": "Vegetable Products",
+      "examples": "Bamboo, rattan, reeds"
+    },
+    {
+      "chapter": "15",
+      "name": "Animal or vegetable fats and oils",
+      "section": "III",
+      "section_name": "Animal or Vegetable Fats",
+      "examples": "Olive oil, palm oil, butter, margarine"
+    },
+    {
+      "chapter": "16",
+      "name": "Preparations of meat or fish",
+      "section": "IV",
+      "section_name": "Prepared Foodstuffs",
+      "examples": "Sausages, canned fish, meat extracts"
+    },
+    {
+      "chapter": "17",
+      "name": "Sugars and sugar confectionery",
+      "section": "IV",
+      "section_name": "Prepared Foodstuffs",
+      "examples": "Sugar, candy, chocolate"
+    },
+    {
+      "chapter": "18",
+      "name": "Cocoa and cocoa preparations",
+      "section": "IV",
+      "section_name": "Prepared Foodstuffs",
+      "examples": "Cocoa beans, cocoa powder, chocolate"
+    },
+    {
+      "chapter": "19",
+      "name": "Preparations of cereals, flour",
+      "section": "IV",
+      "section_name": "Prepared Foodstuffs",
+      "examples": "Bread, pasta, cookies, cakes"
+    },
+    {
+      "chapter": "20",
+      "name": "Preparations of vegetables, fruit",
+      "section": "IV",
+      "section_name": "Prepared Foodstuffs",
+      "examples": "Canned vegetables, fruit juice, jams"
+    },
+    {
+      "chapter": "21",
+      "name": "Miscellaneous edible preparations",
+      "section": "IV",
+      "section_name": "Prepared Foodstuffs",
+      "examples": "Sauces, soups, ice cream, yeast"
+    },
+    {
+      "chapter": "22",
+      "name": "Beverages, spirits and vinegar",
+      "section": "IV",
+      "section_name": "Prepared Foodstuffs",
+      "examples": "Water, wine, beer, whisky, vinegar"
+    },
+    {
+      "chapter": "23",
+      "name": "Residues from food industries",
+      "section": "IV",
+      "section_name": "Prepared Foodstuffs",
+      "examples": "Animal feed, bran, oil-cake"
+    },
+    {
+      "chapter": "24",
+      "name": "Tobacco and manufactured substitutes",
+      "section": "IV",
+      "section_name": "Prepared Foodstuffs",
+      "examples": "Cigarettes, cigars, tobacco"
+    },
+    {
+      "chapter": "25",
+      "name": "Salt; sulphur; earths and stone",
+      "section": "V",
+      "section_name": "Mineral Products",
+      "examples": "Salt, sand, gravel, marble, gypsum"
+    },
+    {
+      "chapter": "26",
+      "name": "Ores, slag and ash",
+      "section": "V",
+      "section_name": "Mineral Products",
+      "examples": "Iron ore, copper ore, ash"
+    },
+    {
+      "chapter": "27",
+      "name": "Mineral fuels and oils",
+      "section": "V",
+      "section_name": "Mineral Products",
+      "examples": "Coal, petroleum, natural gas"
+    },
+    {
+      "chapter": "28",
+      "name": "Inorganic chemicals",
+      "section": "VI",
+      "section_name": "Chemical Products",
+      "examples": "Acids, oxides, salts, rare gases"
+    },
+    {
+      "chapter": "29",
+      "name": "Organic chemicals",
+      "section": "VI",
+      "section_name": "Chemical Products",
+      "examples": "Hydrocarbons, alcohols, acids"
+    },
+    {
+      "chapter": "30",
+      "name": "Pharmaceutical products",
+      "section": "VI",
+      "section_name": "Chemical Products",
+      "examples": "Medicines, vaccines, bandages"
+    },
+    {
+      "chapter": "31",
+      "name": "Fertilizers",
+      "section": "VI",
+      "section_name": "Chemical Products",
+      "examples": "Nitrogen, phosphate, potash fertilizers"
+    },
+    {
+      "chapter": "32",
+      "name": "Tanning or dyeing extracts",
+      "section": "VI",
+      "section_name": "Chemical Products",
+      "examples": "Dyes, paints, inks, putty"
+    },
+    {
+      "chapter": "33",
+      "name": "Essential oils and cosmetics",
+      "section": "VI",
+      "section_name": "Chemical Products",
+      "examples": "Perfumes, makeup, shampoo, soap"
+    },
+    {
+      "chapter": "34",
+      "name": "Soap, waxes, candles",
+      "section": "VI",
+      "section_name": "Chemical Products",
+      "examples": "Soap, detergents, candles, polish"
+    },
+    {
+      "chapter": "35",
+      "name": "Albuminoidal substances; glues",
+      "section": "VI",
+      "section_name": "Chemical Products",
+      "examples": "Gelatin, glues, enzymes"
+    },
+    {
+      "chapter": "36",
+      "name": "Explosives; matches; pyrotechnics",
+      "section": "VI",
+      "section_name": "Chemical Products",
+      "examples": "Explosives, matches, fireworks"
+    },
+    {
+      "chapter": "37",
+      "name": "Photographic goods",
+      "section": "VI",
+      "section_name": "Chemical Products",
+      "examples": "Film, photographic plates, chemicals"
+    },
+    {
+      "chapter": "38",
+      "name": "Miscellaneous chemical products",
+      "section": "VI",
+      "section_name": "Chemical Products",
+      "examples": "Insecticides, herbicides, antifreeze"
+    },
+    {
+      "chapter": "39",
+      "name": "Plastics and articles thereof",
+      "section": "VII",
+      "section_name": "Plastics and Rubber",
+      "examples": "Plastic sheets, pipes, containers"
+    },
+    {
+      "chapter": "40",
+      "name": "Rubber and articles thereof",
+      "section": "VII",
+      "section_name": "Plastics and Rubber",
+      "examples": "Tires, rubber tubes, gloves"
+    },
+    {
+      "chapter": "41",
+      "name": "Raw hides and skins, leather",
+      "section": "VIII",
+      "section_name": "Leather and Travel Goods",
+      "examples": "Leather, hides, skins"
+    },
+    {
+      "chapter": "42",
+      "name": "Leather articles; travel goods",
+      "section": "VIII",
+      "section_name": "Leather and Travel Goods",
+      "examples": "Bags, wallets, belts, suitcases"
+    },
+    {
+      "chapter": "43",
+      "name": "Furskins and artificial fur",
+      "section": "VIII",
+      "section_name": "Leather and Travel Goods",
+      "examples": "Fur coats, fur trimmings"
+    },
+    {
+      "chapter": "44",
+      "name": "Wood and articles of wood",
+      "section": "IX",
+      "section_name": "Wood and Wood Products",
+      "examples": "Lumber, plywood, furniture parts"
+    },
+    {
+      "chapter": "45",
+      "name": "Cork and articles of cork",
+      "section": "IX",
+      "section_name": "Wood and Wood Products",
+      "examples": "Cork stoppers, cork sheets"
+    },
+    {
+      "chapter": "46",
+      "name": "Manufactures of straw, basketware",
+      "section": "IX",
+      "section_name": "Wood and Wood Products",
+      "examples": "Baskets, mats, wickerwork"
+    },
+    {
+      "chapter": "47",
+      "name": "Pulp of wood or fibrous material",
+      "section": "X",
+      "section_name": "Pulp and Paper",
+      "examples": "Wood pulp, paper pulp"
+    },
+    {
+      "chapter": "48",
+      "name": "Paper and paperboard",
+      "section": "X",
+      "section_name": "Pulp and Paper",
+      "examples": "Paper, cardboard, boxes"
+    },
+    {
+      "chapter": "49",
+      "name": "Printed books, newspapers",
+      "section": "X",
+      "section_name": "Pulp and Paper",
+      "examples": "Books, magazines, maps, stamps"
+    },
+    {
+      "chapter": "50",
+      "name": "Silk",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Silk yarn, silk fabric"
+    },
+    {
+      "chapter": "51",
+      "name": "Wool and animal hair",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Wool yarn, wool fabric"
+    },
+    {
+      "chapter": "52",
+      "name": "Cotton",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Cotton yarn, cotton fabric"
+    },
+    {
+      "chapter": "53",
+      "name": "Other vegetable textile fibres",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Flax, hemp, jute fabrics"
+    },
+    {
+      "chapter": "54",
+      "name": "Man-made filaments",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Nylon, polyester filaments"
+    },
+    {
+      "chapter": "55",
+      "name": "Man-made staple fibres",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Synthetic staple fibres, yarn"
+    },
+    {
+      "chapter": "56",
+      "name": "Wadding, felt, nonwovens",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Wadding, felt, rope, twine"
+    },
+    {
+      "chapter": "57",
+      "name": "Carpets and textile floor coverings",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Carpets, rugs, mats"
+    },
+    {
+      "chapter": "58",
+      "name": "Special woven fabrics",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Tapestries, lace, embroidery"
+    },
+    {
+      "chapter": "59",
+      "name": "Impregnated textile fabrics",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Coated fabrics, tire cord"
+    },
+    {
+      "chapter": "60",
+      "name": "Knitted or crocheted fabrics",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Knitted fabrics"
+    },
+    {
+      "chapter": "61",
+      "name": "Knitted apparel and accessories",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Sweaters, T-shirts, socks"
+    },
+    {
+      "chapter": "62",
+      "name": "Woven apparel and accessories",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Suits, shirts, dresses, coats"
+    },
+    {
+      "chapter": "63",
+      "name": "Other made-up textile articles",
+      "section": "XI",
+      "section_name": "Textiles",
+      "examples": "Blankets, curtains, bags, tents"
+    },
+    {
+      "chapter": "64",
+      "name": "Footwear",
+      "section": "XII",
+      "section_name": "Footwear and Headgear",
+      "examples": "Shoes, boots, sandals, slippers"
+    },
+    {
+      "chapter": "65",
+      "name": "Headgear",
+      "section": "XII",
+      "section_name": "Footwear and Headgear",
+      "examples": "Hats, caps, helmets"
+    },
+    {
+      "chapter": "66",
+      "name": "Umbrellas, walking-sticks",
+      "section": "XII",
+      "section_name": "Footwear and Headgear",
+      "examples": "Umbrellas, canes, whips"
+    },
+    {
+      "chapter": "67",
+      "name": "Prepared feathers; artificial flowers",
+      "section": "XII",
+      "section_name": "Footwear and Headgear",
+      "examples": "Artificial flowers, wigs"
+    },
+    {
+      "chapter": "68",
+      "name": "Articles of stone, cement",
+      "section": "XIII",
+      "section_name": "Stone, Ceramic, Glass",
+      "examples": "Stone tiles, cement products"
+    },
+    {
+      "chapter": "69",
+      "name": "Ceramic products",
+      "section": "XIII",
+      "section_name": "Stone, Ceramic, Glass",
+      "examples": "Bricks, tiles, pottery, porcelain"
+    },
+    {
+      "chapter": "70",
+      "name": "Glass and glassware",
+      "section": "XIII",
+      "section_name": "Stone, Ceramic, Glass",
+      "examples": "Glass bottles, mirrors, glassware"
+    },
+    {
+      "chapter": "71",
+      "name": "Pearls, precious stones, metals",
+      "section": "XIV",
+      "section_name": "Precious Metals and Stones",
+      "examples": "Diamonds, gold, silver, jewelry"
+    },
+    {
+      "chapter": "72",
+      "name": "Iron and steel",
+      "section": "XV",
+      "section_name": "Base Metals",
+      "examples": "Iron, steel, ferroalloys"
+    },
+    {
+      "chapter": "73",
+      "name": "Articles of iron or steel",
+      "section": "XV",
+      "section_name": "Base Metals",
+      "examples": "Steel pipes, containers, wire"
+    },
+    {
+      "chapter": "74",
+      "name": "Copper and articles thereof",
+      "section": "XV",
+      "section_name": "Base Metals",
+      "examples": "Copper wire, tubes, plates"
+    },
+    {
+      "chapter": "75",
+      "name": "Nickel and articles thereof",
+      "section": "XV",
+      "section_name": "Base Metals",
+      "examples": "Nickel bars, plates, wire"
+    },
+    {
+      "chapter": "76",
+      "name": "Aluminium and articles thereof",
+      "section": "XV",
+      "section_name": "Base Metals",
+      "examples": "Aluminum sheets, foil, cans"
+    },
+    {
+      "chapter": "78",
+      "name": "Lead and articles thereof",
+      "section": "XV",
+      "section_name": "Base Metals",
+      "examples": "Lead plates, sheets, pipes"
+    },
+    {
+      "chapter": "79",
+      "name": "Zinc and articles thereof",
+      "section": "XV",
+      "section_name": "Base Metals",
+      "examples": "Zinc plates, bars, dust"
+    },
+    {
+      "chapter": "80",
+      "name": "Tin and articles thereof",
+      "section": "XV",
+      "section_name": "Base Metals",
+      "examples": "Tin bars, plates, foil"
+    },
+    {
+      "chapter": "81",
+      "name": "Other base metals",
+      "section": "XV",
+      "section_name": "Base Metals",
+      "examples": "Tungsten, titanium, molybdenum"
+    },
+    {
+      "chapter": "82",
+      "name": "Tools of base metal",
+      "section": "XV",
+      "section_name": "Base Metals",
+      "examples": "Knives, scissors, hand tools"
+    },
+    {
+      "chapter": "83",
+      "name": "Miscellaneous base metal articles",
+      "section": "XV",
+      "section_name": "Base Metals",
+      "examples": "Locks, fittings, safes, bells"
+    },
+    {
+      "chapter": "84",
+      "name": "Nuclear reactors, boilers, machinery",
+      "section": "XVI",
+      "section_name": "Machinery",
+      "examples": "Engines, pumps, computers, AC units"
+    },
+    {
+      "chapter": "85",
+      "name": "Electrical machinery and equipment",
+      "section": "XVI",
+      "section_name": "Machinery",
+      "examples": "Phones, TVs, motors, batteries"
+    },
+    {
+      "chapter": "86",
+      "name": "Railway locomotives, rolling-stock",
+      "section": "XVII",
+      "section_name": "Vehicles",
+      "examples": "Trains, trams, railway cars"
+    },
+    {
+      "chapter": "87",
+      "name": "Vehicles other than railway",
+      "section": "XVII",
+      "section_name": "Vehicles",
+      "examples": "Cars, trucks, motorcycles, bicycles"
+    },
+    {
+      "chapter": "88",
+      "name": "Aircraft, spacecraft",
+      "section": "XVII",
+      "section_name": "Vehicles",
+      "examples": "Airplanes, helicopters, drones"
+    },
+    {
+      "chapter": "89",
+      "name": "Ships, boats",
+      "section": "XVII",
+      "section_name": "Vehicles",
+      "examples": "Ships, yachts, boats"
+    },
+    {
+      "chapter": "90",
+      "name": "Optical, medical, measuring instruments",
+      "section": "XVIII",
+      "section_name": "Instruments",
+      "examples": "Cameras, medical devices, sensors"
+    },
+    {
+      "chapter": "91",
+      "name": "Clocks and watches",
+      "section": "XVIII",
+      "section_name": "Instruments",
+      "examples": "Watches, clocks, clock parts"
+    },
+    {
+      "chapter": "92",
+      "name": "Musical instruments",
+      "section": "XVIII",
+      "section_name": "Instruments",
+      "examples": "Pianos, guitars, drums"
+    },
+    {
+      "chapter": "93",
+      "name": "Arms and ammunition",
+      "section": "XIX",
+      "section_name": "Arms and Ammunition",
+      "examples": "Weapons, ammunition, parts"
+    },
+    {
+      "chapter": "94",
+      "name": "Furniture; bedding; lamps",
+      "section": "XX",
+      "section_name": "Miscellaneous Articles",
+      "examples": "Chairs, beds, lamps, prefab buildings"
+    },
+    {
+      "chapter": "95",
+      "name": "Toys, games, sports equipment",
+      "section": "XX",
+      "section_name": "Miscellaneous Articles",
+      "examples": "Toys, video games, sports gear"
+    },
+    {
+      "chapter": "96",
+      "name": "Miscellaneous manufactured articles",
+      "section": "XX",
+      "section_name": "Miscellaneous Articles",
+      "examples": "Pens, buttons, lighters, brooms"
+    },
+    {
+      "chapter": "97",
+      "name": "Works of art, antiques",
+      "section": "XXI",
+      "section_name": "Works of Art",
+      "examples": "Paintings, sculptures, antiques"
+    },
+    {
+      "chapter": "98",
+      "name": "Special classification provisions",
+      "section": "XXII",
+      "section_name": "Special",
+      "examples": "National special provisions"
+    },
+    {
+      "chapter": "99",
+      "name": "Special import provisions",
+      "section": "XXII",
+      "section_name": "Special",
+      "examples": "Temporary imports, re-imports"
+    }
+  ],
+  "meta": {
+    "seo_title": "HS Code Chapters List - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download all 98 HS Code Chapters for free. Access detailed descriptions, sections, and examples in Excel, CSV, and PDF formats.",
+    "title": "HS Code (Harmonized System) Chapters Dataset",
+    "description": "This comprehensive dataset provides all 98 chapters of the Harmonized System (HS) Codes, crucial for international trade and customs classification. Each record includes chapter number, description, section details, and illustrative examples.",
+    "key_takeaways": [
+      "Access all 98 official HS Code Chapters, indispensable for global trade.",
+      "Explore detailed descriptions, section classifications, and practical examples for each chapter.",
+      "Download the entire Harmonized System Chapter list instantly in multiple formats.",
+      "Leverage structured data for customs declarations, tariff lookup, and market analysis."
+    ],
+    "keywords": [
+      "hs code chapters list",
+      "harmonized system dataset",
+      "international trade classification excel",
+      "customs codes csv",
+      "hs code sections free download",
+      "trade tariff data"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or Python script to automate product classification and trade data analysis.",
+      "Use the **Excel** file to filter, sort, and create Pivot Tables for tariff research, compliance reporting, or market intelligence.",
+      "Print the **PDF** version for quick offline reference, classroom teaching, or as a handy desk guide for customs brokers.",
+      "Integrate this dataset into your ERP or e-commerce platform to accurately categorize products and streamline international shipping."
+    ]
+  },
+  "record_count": 98,
+  "title": "HS Code (Harmonized System) Chapters Dataset"
+}

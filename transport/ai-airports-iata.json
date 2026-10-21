@@ -1,0 +1,106 @@
+{
+  "id": "ai-airports-iata",
+  "name": "Anguilla — IATA Airports",
+  "title": "Anguilla — IATA Airports",
+  "description": "Airports with IATA codes in Anguilla: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "AXA",
+      "icao_code": "TQPF",
+      "name": "Clayton J. Lloyd International Airport",
+      "city_name_list": "Anguilla",
+      "country_code": "AI",
+      "country_name": "Anguilla",
+      "continent_name": "North America",
+      "adm1_name_ascii": "",
+      "latitude": 18.20483,
+      "longitude": -63.05508,
+      "elevation": 38,
+      "timezone": "America/Anguilla",
+      "wiki_link": "https://en.wikipedia.org/wiki/Clayton_J._Lloyd_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Anguilla — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Anguilla: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 1 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Anguilla — IATA Airports | ListBase",
+    "seo_description": "Download Anguilla — IATA Airports dataset with 1 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

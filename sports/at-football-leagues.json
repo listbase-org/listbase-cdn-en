@@ -1,0 +1,480 @@
+{
+  "id": "at-football-leagues",
+  "name": "Austria — Football Leagues",
+  "title": "Austria — Football Leagues",
+  "description": "Domestic football (soccer) leagues and cup competitions of Austria. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/leagues",
+  "source_url": "https://github.com/openfootball/leagues",
+  "updated": "2026-04",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "year_span",
+      "label": "Year Span",
+      "type": "string"
+    },
+    {
+      "key": "tier_kind",
+      "label": "Tier Kind",
+      "type": "string"
+    },
+    {
+      "key": "tier_level",
+      "label": "Tier Level",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "1",
+      "name": "Bundesliga",
+      "aliases": "aut.bl, at.bl, ö.bl, ö.1, ö",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 1
+    },
+    {
+      "code": "2",
+      "name": "2. Liga",
+      "aliases": "Erste Liga, Zweite Liga, ö.2",
+      "year_span": "2018/19-",
+      "tier_kind": "league",
+      "tier_level": 2
+    },
+    {
+      "code": "2",
+      "name": "Erste Liga",
+      "aliases": "1. Liga",
+      "year_span": "-2017/18",
+      "tier_kind": "league",
+      "tier_level": 2
+    },
+    {
+      "code": "3.m",
+      "name": "Regionalliga Mitte",
+      "aliases": "aut.rlm, at.rlm",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "3.o",
+      "name": "Regionalliga Ost",
+      "aliases": "aut.rlo, at.rlo",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "3.sbg",
+      "name": "Regionalliga Salzburg",
+      "aliases": "rl.sbg",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "3.t",
+      "name": "Regionalliga Tirol",
+      "aliases": "rl.tir",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "3.v",
+      "name": "Regionalliga Vorarlberg",
+      "aliases": "Eliteliga Vorarlberg, rl.vbg",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "3.w",
+      "name": "Regionalliga West",
+      "aliases": "aut.rlw, at.rlw",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "4.mitte.k",
+      "name": "Kärtner Liga",
+      "aliases": "Landesliga Kärnten",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 4
+    },
+    {
+      "code": "4.mitte.o",
+      "name": "Landesliga Oberösterreich",
+      "aliases": "OÖ Liga, Oberösterreich Liga",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 4
+    },
+    {
+      "code": "4.mitte.st",
+      "name": "Steirische Landesliga",
+      "aliases": "Landesliga Steiermark",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 4
+    },
+    {
+      "code": "4.ost.b",
+      "name": "Landesliga Burgenland",
+      "aliases": "Burgendland Liga, Burgenlandliga",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 4
+    },
+    {
+      "code": "4.ost.n",
+      "name": "Landesliga Niederösterreich",
+      "aliases": "1. Niederösterreichische Landesliga",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 4
+    },
+    {
+      "code": "4.ost.w",
+      "name": "Wiener Stadtliga",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 4
+    },
+    {
+      "code": "4.west.s",
+      "name": "Salzburger Liga",
+      "aliases": "Landesliga Salzburg, 1. Salzburger Landesliga",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 4
+    },
+    {
+      "code": "4.west.t",
+      "name": "Tiroler Liga",
+      "aliases": "Tirol Liga",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 4
+    },
+    {
+      "code": "4.west.v",
+      "name": "Vorarlberg Liga",
+      "aliases": "Vorarlbergliga",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 4
+    },
+    {
+      "code": "5.n.ost",
+      "name": "2. Landesliga Ost (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 5
+    },
+    {
+      "code": "5.n.west",
+      "name": "2. Landesliga West (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 5
+    },
+    {
+      "code": "6.n.ost.nnw",
+      "name": "Gebietsliga Nord/Nordwest (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 6
+    },
+    {
+      "code": "6.n.ost.sso",
+      "name": "Gebietsliga Süd/Südost (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 6
+    },
+    {
+      "code": "6.n.west.nww",
+      "name": "Gebietsliga Nordwest/Waldviertel (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 6
+    },
+    {
+      "code": "6.n.west.w",
+      "name": "Gebietsliga West (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 6
+    },
+    {
+      "code": "7.n.ost.nnw.n",
+      "name": "1. Klasse Nord (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 7
+    },
+    {
+      "code": "7.n.ost.nnw.nw",
+      "name": "1. Klasse Nordwest (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 7
+    },
+    {
+      "code": "7.n.ost.sso.o",
+      "name": "1. Klasse Ost (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 7
+    },
+    {
+      "code": "7.n.ost.sso.s",
+      "name": "1. Klasse Süd (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 7
+    },
+    {
+      "code": "7.n.west.nww.nwm",
+      "name": "1. Klasse Nordwest-Mitte (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 7
+    },
+    {
+      "code": "7.n.west.nww.w",
+      "name": "1. Klasse Waldviertel (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 7
+    },
+    {
+      "code": "7.n.west.w.w",
+      "name": "1. Klasse West (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 7
+    },
+    {
+      "code": "7.n.west.w.wm",
+      "name": "1. Klasse West-Mitte (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 7
+    },
+    {
+      "code": "8.n.alpenvorland",
+      "name": "2. Klasse Alpenvorland (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.donau",
+      "name": "2. Klasse Donau (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.marchfeld",
+      "name": "2. Klasse Marchfeld (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.ost",
+      "name": "2. Klasse Ost (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.ostmitte",
+      "name": "2. Klasse Ost/Mitte (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.pulkautal",
+      "name": "2. Klasse Pulkautal (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.schmidatal",
+      "name": "2. Klasse Schmidatal (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.steinfeld",
+      "name": "2. Klasse Steinfeld (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.traisental",
+      "name": "2. Klasse Traisental (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.triestingtal",
+      "name": "2. Klasse Triestingtal (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.wachau",
+      "name": "2. Klasse Wachau (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.waldviertel.s",
+      "name": "2. Klasse Waldviertel/Süd (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.waldviertelthayatal",
+      "name": "2. Klasse Waldviertel Thayatal (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.wechsel",
+      "name": "2. Klasse Wechsel (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.weinviertel.n",
+      "name": "2. Klasse Weinviertel Nord (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.weinviertel.s",
+      "name": "2. Klasse Weinviertel Süd (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.ybbstal",
+      "name": "2. Klasse Ybbstal (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "8.n.yspertal",
+      "name": "2. Klasse Yspertal (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 8
+    },
+    {
+      "code": "9.n.hornerwald",
+      "name": "3. Klasse Hornerwald (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 9
+    },
+    {
+      "code": "9.n.mistelbach",
+      "name": "3. Klasse Mistelbach (NÖ)",
+      "aliases": "",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 9
+    },
+    {
+      "code": "cup",
+      "name": "ÖFB Cup,                cup",
+      "aliases": "Austrian Cup",
+      "year_span": "",
+      "tier_kind": "national-cup",
+      "tier_level": ""
+    }
+  ],
+  "meta": {
+    "title": "Austria — Football Leagues - Free Download",
+    "description": "Domestic football (soccer) leagues and cup competitions of Austria. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry. Contains 53 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Austria — Football Leagues | ListBase",
+    "seo_description": "Download Austria — Football Leagues — 53 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 53 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/leagues"
+    ]
+  }
+}

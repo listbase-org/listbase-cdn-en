@@ -1,0 +1,336 @@
+{
+  "id": "cv-foreign-embassies",
+  "name": "Cape Verde — Foreign Embassies and Consulates",
+  "title": "Cape Verde — Foreign Embassies and Consulates",
+  "description": "Diplomatic missions of foreign countries and territories hosted in Cape Verde. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "date"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Angola",
+      "operator_cc": "ao",
+      "host_country": "Cape Verde",
+      "host_cc": "cv",
+      "city": "Praia",
+      "address": "",
+      "type": "embassy",
+      "latitude": 14.906041,
+      "longitude": -23.512628,
+      "jurisdictions": "Cape Verde",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106301455"
+    },
+    {
+      "operator": "Brazil",
+      "operator_cc": "br",
+      "host_country": "Cape Verde",
+      "host_cc": "cv",
+      "city": "Praia",
+      "address": "",
+      "type": "embassy",
+      "latitude": 14.91048,
+      "longitude": -23.51209,
+      "jurisdictions": "Cape Verde",
+      "phone": "",
+      "email": "",
+      "website": "http://praia.itamaraty.gov.br",
+      "facebook": "brasembpraia",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q105769988"
+    },
+    {
+      "operator": "France",
+      "operator_cc": "fr",
+      "host_country": "Cape Verde",
+      "host_cc": "cv",
+      "city": "",
+      "address": "",
+      "type": "embassy",
+      "latitude": 14.9184,
+      "longitude": -23.50704,
+      "jurisdictions": "Cape Verde",
+      "phone": "",
+      "email": "",
+      "website": "https://cv.ambafrance.org/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q2841632"
+    },
+    {
+      "operator": "Guinea-Bissau",
+      "operator_cc": "gw",
+      "host_country": "Cape Verde",
+      "host_cc": "cv",
+      "city": "Praia",
+      "address": "",
+      "type": "embassy",
+      "latitude": 14.90978,
+      "longitude": -23.52971,
+      "jurisdictions": "Cape Verde",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "Embaixada-da-Guiné-Bissau-em-Cabo-Verde-367772850380426",
+      "twitter": "",
+      "youtube": "",
+      "creation": "2021-02-15T00:00:00Z",
+      "wikidata_qid": "Q106314438"
+    },
+    {
+      "operator": "Luxembourg",
+      "operator_cc": "lu",
+      "host_country": "Cape Verde",
+      "host_cc": "cv",
+      "city": "Praia",
+      "address": "",
+      "type": "embassy",
+      "latitude": 14.904,
+      "longitude": -23.5195,
+      "jurisdictions": "Cape Verde",
+      "phone": "",
+      "email": "",
+      "website": "https://praia.mae.lu",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q104891218"
+    },
+    {
+      "operator": "People's Republic of China",
+      "operator_cc": "cn",
+      "host_country": "Cape Verde",
+      "host_cc": "cv",
+      "city": "Praia",
+      "address": "",
+      "type": "embassy",
+      "latitude": 14.905856,
+      "longitude": -23.514348,
+      "jurisdictions": "Cape Verde",
+      "phone": "",
+      "email": "",
+      "website": "http://cv.chineseembassy.org/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q104759770"
+    },
+    {
+      "operator": "Portugal",
+      "operator_cc": "pt",
+      "host_country": "Cape Verde",
+      "host_cc": "cv",
+      "city": "Praia",
+      "address": "",
+      "type": "embassy",
+      "latitude": 14.907,
+      "longitude": -23.5133,
+      "jurisdictions": "Cape Verde",
+      "phone": "",
+      "email": "",
+      "website": "https://praia.embaixadaportugal.mne.gov.pt",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q105492132"
+    },
+    {
+      "operator": "Russia",
+      "operator_cc": "ru",
+      "host_country": "Cape Verde",
+      "host_cc": "cv",
+      "city": "Praia",
+      "address": "",
+      "type": "embassy",
+      "latitude": 14.90522,
+      "longitude": -23.51474,
+      "jurisdictions": "Cape Verde",
+      "phone": "",
+      "email": "",
+      "website": "https://capeverde.mid.ru",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q109924093"
+    },
+    {
+      "operator": "Spain",
+      "operator_cc": "es",
+      "host_country": "Cape Verde",
+      "host_cc": "cv",
+      "city": "",
+      "address": "",
+      "type": "embassy",
+      "latitude": 14.908,
+      "longitude": -23.5176,
+      "jurisdictions": "Cape Verde",
+      "phone": "",
+      "email": "",
+      "website": "http://www.exteriores.gob.es/Embajadas/Praia",
+      "facebook": "",
+      "twitter": "EmbEspCaboVerde",
+      "youtube": "",
+      "creation": "1977-01-01T00:00:00Z",
+      "wikidata_qid": "Q61998949"
+    },
+    {
+      "operator": "United States of America",
+      "operator_cc": "us",
+      "host_country": "Cape Verde",
+      "host_cc": "cv",
+      "city": "Praia",
+      "address": "",
+      "type": "embassy",
+      "latitude": 14.921102,
+      "longitude": -23.506416,
+      "jurisdictions": "Cape Verde",
+      "phone": "",
+      "email": "",
+      "website": "https://cv.usembassy.gov/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q104759613"
+    },
+    {
+      "operator": "Vatican",
+      "operator_cc": "va",
+      "host_country": "Cape Verde",
+      "host_cc": "cv",
+      "city": "",
+      "address": "",
+      "type": "apostolic nunciature",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Cape Verde",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q12784978"
+    }
+  ],
+  "meta": {
+    "title": "Cape Verde — Foreign Embassies and Consulates - Free Download",
+    "description": "Diplomatic missions of foreign countries and territories hosted in Cape Verde. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cape Verde — Foreign Embassies and Consulates | ListBase",
+    "seo_description": "Download Cape Verde — Foreign Embassies and Consulates — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "id": "bg-airports-iata",
+  "name": "Bulgaria — IATA Airports",
+  "title": "Bulgaria — IATA Airports",
+  "description": "Airports with IATA codes in Bulgaria: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BOJ",
+      "icao_code": "LBBG",
+      "name": "Burgas Airport",
+      "city_name_list": "Burgas",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Burgas",
+      "latitude": 42.569583,
+      "longitude": 27.515236,
+      "elevation": 41,
+      "timezone": "Europe/Sofia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Burgas_Airport"
+    },
+    {
+      "iata_code": "GOZ",
+      "icao_code": "LBGO",
+      "name": "Gorna Orechovista",
+      "city_name_list": "Gorna Oryahovitsa",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Veliko Tarnovo",
+      "latitude": 43.15144,
+      "longitude": 25.71289,
+      "elevation": 86,
+      "timezone": "Europe/Sofia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gorna_Oryahovitsa_Airport"
+    },
+    {
+      "iata_code": "HKV",
+      "icao_code": "LBHS",
+      "name": "Haskovo Malevo Airport",
+      "city_name_list": "Malevo=Haskovo",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Haskovo",
+      "latitude": 41.8718,
+      "longitude": 25.6048,
+      "elevation": "",
+      "timezone": "Europe/Sofia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Haskovo_Malevo_Airport"
+    },
+    {
+      "iata_code": "JAM",
+      "icao_code": "LBIA",
+      "name": "Bezmer Air Base",
+      "city_name_list": "Yambol",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Burgas",
+      "latitude": 42.4549,
+      "longitude": 26.3522,
+      "elevation": "",
+      "timezone": "Europe/Sofia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bezmer_Air_Base"
+    },
+    {
+      "iata_code": "PDV",
+      "icao_code": "LBPD",
+      "name": "Plovdiv Airport",
+      "city_name_list": "Plovdiv",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Plovdiv",
+      "latitude": 42.067806,
+      "longitude": 24.850833,
+      "elevation": 181,
+      "timezone": "Europe/Sofia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Plovdiv_Airport"
+    },
+    {
+      "iata_code": "PVN",
+      "icao_code": "LBPL",
+      "name": "Dolna Mitropoliya Air Base",
+      "city_name_list": "Dolna Mitropoliya Air Base",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Lovech",
+      "latitude": 43.4514,
+      "longitude": 24.5028,
+      "elevation": "",
+      "timezone": "Europe/Sofia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dolna_Mitropoliya_Air_Base"
+    },
+    {
+      "iata_code": "ROU",
+      "icao_code": "LBRS",
+      "name": "Ruse Airport",
+      "city_name_list": "Ruse",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Razgrad",
+      "latitude": 43.69494,
+      "longitude": 26.05635,
+      "elevation": "",
+      "timezone": "Europe/Sofia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ruse_Airport"
+    },
+    {
+      "iata_code": "SLS",
+      "icao_code": "LBSS",
+      "name": "Silistra Polkovnik Lambrinovo Airfield",
+      "city_name_list": "Silistra",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Razgrad",
+      "latitude": 44.02,
+      "longitude": 27.18,
+      "elevation": "",
+      "timezone": "Europe/Sofia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Silistra_Airfield"
+    },
+    {
+      "iata_code": "SOF",
+      "icao_code": "LBSF",
+      "name": "Sofia Airport",
+      "city_name_list": "Sofia",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Sofia-Capital",
+      "latitude": 42.695194,
+      "longitude": 23.406167,
+      "elevation": 530,
+      "timezone": "Europe/Sofia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sofia_Airport"
+    },
+    {
+      "iata_code": "SZR",
+      "icao_code": "",
+      "name": "Stara Zagora Airport",
+      "city_name_list": "Stara Zagora",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Stara Zagora",
+      "latitude": 42.37668,
+      "longitude": 25.65514,
+      "elevation": "",
+      "timezone": "Europe/Sofia",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "TGV",
+      "icao_code": "LBTG",
+      "name": "Targovishte Bukhovtsi Airport",
+      "city_name_list": "Targovishte",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Razgrad",
+      "latitude": 43.3067,
+      "longitude": 26.7008,
+      "elevation": "",
+      "timezone": "Europe/Sofia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Targovishte_Airport"
+    },
+    {
+      "iata_code": "VAR",
+      "icao_code": "LBWN",
+      "name": "Varna Airport",
+      "city_name_list": "Varna",
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Varna",
+      "latitude": 43.232072,
+      "longitude": 27.825106,
+      "elevation": 70,
+      "timezone": "Europe/Sofia",
+      "wiki_link": "https://en.wikipedia.org/wiki/Varna_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Bulgaria — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Bulgaria: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bulgaria — IATA Airports | ListBase",
+    "seo_description": "Download Bulgaria — IATA Airports dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

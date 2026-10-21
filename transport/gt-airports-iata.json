@@ -1,0 +1,376 @@
+{
+  "id": "gt-airports-iata",
+  "name": "Guatemala — IATA Airports",
+  "title": "Guatemala — IATA Airports",
+  "description": "Airports with IATA codes in Guatemala: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "AAZ",
+      "icao_code": "MGQZ",
+      "name": "Quezaltenango",
+      "city_name_list": "Quetzaltenango",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Quetzaltenango",
+      "latitude": 14.86,
+      "longitude": -91.5,
+      "elevation": 2500,
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Quetzaltenango_Airport"
+    },
+    {
+      "iata_code": "AQB",
+      "icao_code": "MGQC",
+      "name": "Quiché Airport",
+      "city_name_list": "Santa Cruz del Quiché",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Quiche",
+      "latitude": 15.0122,
+      "longitude": -91.1506,
+      "elevation": "",
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Quich%C3%A9_Airport"
+    },
+    {
+      "iata_code": "CBV",
+      "icao_code": "MGCB",
+      "name": "Coban",
+      "city_name_list": "Cobán",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Alta Verapaz",
+      "latitude": 15.46896,
+      "longitude": -90.40674,
+      "elevation": 1322,
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Cob%C3%A1n_Airport"
+    },
+    {
+      "iata_code": "CIQ",
+      "icao_code": "",
+      "name": "Chiquimula Airport",
+      "city_name_list": "Chiquimula",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Chiquimula",
+      "latitude": 14.8,
+      "longitude": -89.55,
+      "elevation": "",
+      "timezone": "America/Guatemala",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "CMM",
+      "icao_code": "MGCR",
+      "name": "Carmelita Airport",
+      "city_name_list": "Carmelita",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Peten",
+      "latitude": 17.5,
+      "longitude": -90.17,
+      "elevation": "",
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Carmelita_Airport"
+    },
+    {
+      "iata_code": "CTF",
+      "icao_code": "MGCT",
+      "name": "Coatepeque Airport",
+      "city_name_list": "Coatepeque",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Totonicapan",
+      "latitude": 14.69461,
+      "longitude": -91.88149,
+      "elevation": "",
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Coatepeque_Airport"
+    },
+    {
+      "iata_code": "DON",
+      "icao_code": "MGDL",
+      "name": "Dos Lagunas Airport",
+      "city_name_list": "Dos Lagunas",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Peten",
+      "latitude": 17.63,
+      "longitude": -89.67,
+      "elevation": "",
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dos_Lagunas_Airport"
+    },
+    {
+      "iata_code": "ENJ",
+      "icao_code": "",
+      "name": "El Naranjo Airport",
+      "city_name_list": "El Naranjo Airport",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Peten",
+      "latitude": 14.1,
+      "longitude": -90.83,
+      "elevation": "",
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/El_Naranjo_Airport"
+    },
+    {
+      "iata_code": "FRS",
+      "icao_code": "MGMM",
+      "name": "Mundo Maya International Airport",
+      "city_name_list": "Santa Elena=Flores",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Peten",
+      "latitude": 16.91382,
+      "longitude": -89.86638,
+      "elevation": 118,
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mundo_Maya_International_Airport"
+    },
+    {
+      "iata_code": "GSJ",
+      "icao_code": "MGSJ",
+      "name": "San José Airport",
+      "city_name_list": "Puerto San José",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Escuintla",
+      "latitude": 13.93619,
+      "longitude": -90.83583,
+      "elevation": 8,
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/San_Jos%C3%A9_Airport_%28Guatemala%29"
+    },
+    {
+      "iata_code": "GUA",
+      "icao_code": "MGGT",
+      "name": "La Aurora International Airport",
+      "city_name_list": "La Aurora=Guatemala City",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Guatemala",
+      "latitude": 14.58327,
+      "longitude": -90.52748,
+      "elevation": 1509,
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/La_Aurora_International_Airport"
+    },
+    {
+      "iata_code": "HUG",
+      "icao_code": "MGHT",
+      "name": "Huehuetenango",
+      "city_name_list": "Huehuetenango",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Huehuetenango",
+      "latitude": 15.33,
+      "longitude": -91.47,
+      "elevation": 1901,
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Huehuetenango_Airport"
+    },
+    {
+      "iata_code": "LCF",
+      "icao_code": "MGRD",
+      "name": "Las Vegas Airport",
+      "city_name_list": "Río Dulce",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Izabal Department",
+      "latitude": 15.66858,
+      "longitude": -88.96248,
+      "elevation": "",
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/R%C3%ADo_Dulce_Airport"
+    },
+    {
+      "iata_code": "PBR",
+      "icao_code": "MGPB",
+      "name": "Puerto Barrios Airport",
+      "city_name_list": "Puerto Barrios",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Izabal Department",
+      "latitude": 15.730878,
+      "longitude": -88.583767,
+      "elevation": 10,
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Puerto_Barrios_Airport"
+    },
+    {
+      "iata_code": "PKJ",
+      "icao_code": "MGPG",
+      "name": "Playa Grande Airport",
+      "city_name_list": "Playa Grande",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Quiche",
+      "latitude": 15.64,
+      "longitude": -90.76,
+      "elevation": "",
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Playa_Grande_Airport"
+    },
+    {
+      "iata_code": "PON",
+      "icao_code": "MGPP",
+      "name": "Poptún Airport",
+      "city_name_list": "Poptún Airport",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Peten",
+      "latitude": 16.35,
+      "longitude": -89.43,
+      "elevation": "",
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Popt%C3%BAn_Airport"
+    },
+    {
+      "iata_code": "RER",
+      "icao_code": "MGRT",
+      "name": "Retalhuleu Airport",
+      "city_name_list": "Retalhuleu",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Retalhuleu",
+      "latitude": 14.52102,
+      "longitude": -91.69726,
+      "elevation": 199,
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Retalhuleu_Airport"
+    },
+    {
+      "iata_code": "RUV",
+      "icao_code": "MGRB",
+      "name": "Rubelsanto Airport",
+      "city_name_list": "Rubelsanto",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Alta Verapaz",
+      "latitude": 15.992,
+      "longitude": -90.4453,
+      "elevation": "",
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Rubelsanto_Airport"
+    },
+    {
+      "iata_code": "UAX",
+      "icao_code": "MGUX",
+      "name": "Uaxactun Airport",
+      "city_name_list": "Uaxactún",
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Peten",
+      "latitude": 17.39389,
+      "longitude": -89.63274,
+      "elevation": "",
+      "timezone": "America/Guatemala",
+      "wiki_link": "https://en.wikipedia.org/wiki/Uaxactun_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Guatemala — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Guatemala: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Guatemala — IATA Airports | ListBase",
+    "seo_description": "Download Guatemala — IATA Airports dataset with 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "bh-airports-iata",
+  "name": "Bahrain — IATA Airports",
+  "title": "Bahrain — IATA Airports",
+  "description": "Airports with IATA codes in Bahrain: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BAH",
+      "icao_code": "OBBI",
+      "name": "Bahrain International Airport",
+      "city_name_list": "Kingdom of Bahrain",
+      "country_code": "BH",
+      "country_name": "Bahrain",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Muharraq",
+      "latitude": 26.27083,
+      "longitude": 50.63361,
+      "elevation": 1,
+      "timezone": "Asia/Bahrain",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bahrain_International_Airport"
+    },
+    {
+      "iata_code": "GBQ",
+      "icao_code": "",
+      "name": "Muharraq BH",
+      "city_name_list": "Muharraq BH",
+      "country_code": "BH",
+      "country_name": "Bahrain",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 26.25,
+      "longitude": 50.65,
+      "elevation": "",
+      "timezone": "Asia/Bahrain",
+      "wiki_link": ""
+    }
+  ],
+  "meta": {
+    "title": "Bahrain — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Bahrain: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bahrain — IATA Airports | ListBase",
+    "seo_description": "Download Bahrain — IATA Airports dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "id": "us-gdp-annual",
+  "name": "US GDP Annual (1929–present)",
+  "title": "US GDP Annual (1929–present)",
+  "description": "US Gross Domestic Product at annual frequency from 1929, with current-dollar and chained-dollar levels plus year-over-year change rates.",
+  "category": "finance",
+  "source": "https://github.com/datasets/gdp-us",
+  "source_url": "https://github.com/datasets/gdp-us",
+  "updated": "2026-04",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "gdp_current_billions",
+      "label": "Gdp Current Billions",
+      "type": "number"
+    },
+    {
+      "key": "gdp_chained_billions",
+      "label": "Gdp Chained Billions",
+      "type": "number"
+    },
+    {
+      "key": "change_current_pct",
+      "label": "Change Current Pct",
+      "type": "number"
+    },
+    {
+      "key": "change_chained_pct",
+      "label": "Change Chained Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1929,
+      "gdp_current_billions": 104.6,
+      "gdp_chained_billions": 1191.1,
+      "change_current_pct": -11.9,
+      "change_chained_pct": -8.5
+    },
+    {
+      "year": 1930,
+      "gdp_current_billions": 92.2,
+      "gdp_chained_billions": 1089.8,
+      "change_current_pct": -16,
+      "change_chained_pct": -6.4
+    },
+    {
+      "year": 1931,
+      "gdp_current_billions": 77.4,
+      "gdp_chained_billions": 1020,
+      "change_current_pct": -23.1,
+      "change_chained_pct": -12.9
+    },
+    {
+      "year": 1932,
+      "gdp_current_billions": 59.5,
+      "gdp_chained_billions": 888.4,
+      "change_current_pct": -4,
+      "change_chained_pct": -1.2
+    },
+    {
+      "year": 1933,
+      "gdp_current_billions": 57.2,
+      "gdp_chained_billions": 877.4,
+      "change_current_pct": 16.9,
+      "change_chained_pct": 10.8
+    },
+    {
+      "year": 1934,
+      "gdp_current_billions": 66.8,
+      "gdp_chained_billions": 972.3,
+      "change_current_pct": 11.1,
+      "change_chained_pct": 8.9
+    },
+    {
+      "year": 1935,
+      "gdp_current_billions": 74.2,
+      "gdp_chained_billions": 1058.8,
+      "change_current_pct": 14.3,
+      "change_chained_pct": 12.9
+    },
+    {
+      "year": 1936,
+      "gdp_current_billions": 84.8,
+      "gdp_chained_billions": 1195.3,
+      "change_current_pct": 9.6,
+      "change_chained_pct": 5.1
+    },
+    {
+      "year": 1937,
+      "gdp_current_billions": 93,
+      "gdp_chained_billions": 1256.5,
+      "change_current_pct": -6.1,
+      "change_chained_pct": -3.3
+    },
+    {
+      "year": 1938,
+      "gdp_current_billions": 87.4,
+      "gdp_chained_billions": 1214.9,
+      "change_current_pct": 7,
+      "change_chained_pct": 8
+    },
+    {
+      "year": 1939,
+      "gdp_current_billions": 93.4,
+      "gdp_chained_billions": 1312.4,
+      "change_current_pct": 10.1,
+      "change_chained_pct": 8.8
+    },
+    {
+      "year": 1940,
+      "gdp_current_billions": 102.9,
+      "gdp_chained_billions": 1428.1,
+      "change_current_pct": 25.7,
+      "change_chained_pct": 17.7
+    },
+    {
+      "year": 1941,
+      "gdp_current_billions": 129.3,
+      "gdp_chained_billions": 1681,
+      "change_current_pct": 28.3,
+      "change_chained_pct": 18.9
+    },
+    {
+      "year": 1942,
+      "gdp_current_billions": 166,
+      "gdp_chained_billions": 1998.5,
+      "change_current_pct": 22.4,
+      "change_chained_pct": 17
+    },
+    {
+      "year": 1943,
+      "gdp_current_billions": 203.1,
+      "gdp_chained_billions": 2338.8,
+      "change_current_pct": 10.5,
+      "change_chained_pct": 7.9
+    },
+    {
+      "year": 1944,
+      "gdp_current_billions": 224.4,
+      "gdp_chained_billions": 2524.8,
+      "change_current_pct": 1.6,
+      "change_chained_pct": -1
+    },
+    {
+      "year": 1945,
+      "gdp_current_billions": 228,
+      "gdp_chained_billions": 2500.1,
+      "change_current_pct": -0.2,
+      "change_chained_pct": -11.6
+    },
+    {
+      "year": 1946,
+      "gdp_current_billions": 227.5,
+      "gdp_chained_billions": 2209.9,
+      "change_current_pct": 9.7,
+      "change_chained_pct": -1.1
+    },
+    {
+      "year": 1947,
+      "gdp_current_billions": 249.6,
+      "gdp_chained_billions": 2184.6,
+      "change_current_pct": 10,
+      "change_chained_pct": 4.1
+    },
+    {
+      "year": 1948,
+      "gdp_current_billions": 274.5,
+      "gdp_chained_billions": 2274.6,
+      "change_current_pct": -0.7,
+      "change_chained_pct": -0.6
+    },
+    {
+      "year": 1949,
+      "gdp_current_billions": 272.5,
+      "gdp_chained_billions": 2261.9,
+      "change_current_pct": 10,
+      "change_chained_pct": 8.7
+    },
+    {
+      "year": 1950,
+      "gdp_current_billions": 299.8,
+      "gdp_chained_billions": 2458.5,
+      "change_current_pct": 15.7,
+      "change_chained_pct": 8
+    },
+    {
+      "year": 1951,
+      "gdp_current_billions": 346.9,
+      "gdp_chained_billions": 2656.3,
+      "change_current_pct": 5.9,
+      "change_chained_pct": 4.1
+    },
+    {
+      "year": 1952,
+      "gdp_current_billions": 367.3,
+      "gdp_chained_billions": 2764.8,
+      "change_current_pct": 6,
+      "change_chained_pct": 4.7
+    },
+    {
+      "year": 1953,
+      "gdp_current_billions": 389.2,
+      "gdp_chained_billions": 2894.4,
+      "change_current_pct": 0.3,
+      "change_chained_pct": -0.6
+    },
+    {
+      "year": 1954,
+      "gdp_current_billions": 390.5,
+      "gdp_chained_billions": 2877.7,
+      "change_current_pct": 8.9,
+      "change_chained_pct": 7.1
+    },
+    {
+      "year": 1955,
+      "gdp_current_billions": 425.5,
+      "gdp_chained_billions": 3083,
+      "change_current_pct": 5.6,
+      "change_chained_pct": 2.1
+    },
+    {
+      "year": 1956,
+      "gdp_current_billions": 449.4,
+      "gdp_chained_billions": 3148.8,
+      "change_current_pct": 5.5,
+      "change_chained_pct": 2.1
+    },
+    {
+      "year": 1957,
+      "gdp_current_billions": 474,
+      "gdp_chained_billions": 3215.1,
+      "change_current_pct": 1.5,
+      "change_chained_pct": -0.7
+    },
+    {
+      "year": 1958,
+      "gdp_current_billions": 481.2,
+      "gdp_chained_billions": 3191.2,
+      "change_current_pct": 8.4,
+      "change_chained_pct": 6.9
+    },
+    {
+      "year": 1959,
+      "gdp_current_billions": 521.7,
+      "gdp_chained_billions": 3412.4,
+      "change_current_pct": 4,
+      "change_chained_pct": 2.6
+    },
+    {
+      "year": 1960,
+      "gdp_current_billions": 542.4,
+      "gdp_chained_billions": 3500.3,
+      "change_current_pct": 3.7,
+      "change_chained_pct": 2.6
+    },
+    {
+      "year": 1961,
+      "gdp_current_billions": 562.2,
+      "gdp_chained_billions": 3590.1,
+      "change_current_pct": 7.4,
+      "change_chained_pct": 6.1
+    },
+    {
+      "year": 1962,
+      "gdp_current_billions": 603.9,
+      "gdp_chained_billions": 3810.1,
+      "change_current_pct": 5.6,
+      "change_chained_pct": 4.4
+    },
+    {
+      "year": 1963,
+      "gdp_current_billions": 637.5,
+      "gdp_chained_billions": 3976.1,
+      "change_current_pct": 7.4,
+      "change_chained_pct": 5.8
+    },
+    {
+      "year": 1964,
+      "gdp_current_billions": 684.5,
+      "gdp_chained_billions": 4205.3,
+      "change_current_pct": 8.4,
+      "change_chained_pct": 6.5
+    },
+    {
+      "year": 1965,
+      "gdp_current_billions": 742.3,
+      "gdp_chained_billions": 4478.6,
+      "change_current_pct": 9.6,
+      "change_chained_pct": 6.6
+    },
+    {
+      "year": 1966,
+      "gdp_current_billions": 813.4,
+      "gdp_chained_billions": 4773.9,
+      "change_current_pct": 5.7,
+      "change_chained_pct": 2.7
+    },
+    {
+      "year": 1967,
+      "gdp_current_billions": 860,
+      "gdp_chained_billions": 4904.9,
+      "change_current_pct": 9.4,
+      "change_chained_pct": 4.9
+    },
+    {
+      "year": 1968,
+      "gdp_current_billions": 940.7,
+      "gdp_chained_billions": 5145.9,
+      "change_current_pct": 8.2,
+      "change_chained_pct": 3.1
+    },
+    {
+      "year": 1969,
+      "gdp_current_billions": 1017.6,
+      "gdp_chained_billions": 5306.6,
+      "change_current_pct": 5.5,
+      "change_chained_pct": 0.2
+    },
+    {
+      "year": 1970,
+      "gdp_current_billions": 1073.3,
+      "gdp_chained_billions": 5316.4,
+      "change_current_pct": 8.5,
+      "change_chained_pct": 3.3
+    },
+    {
+      "year": 1971,
+      "gdp_current_billions": 1164.9,
+      "gdp_chained_billions": 5491.4,
+      "change_current_pct": 9.8,
+      "change_chained_pct": 5.3
+    },
+    {
+      "year": 1972,
+      "gdp_current_billions": 1279.1,
+      "gdp_chained_billions": 5780,
+      "change_current_pct": 11.4,
+      "change_chained_pct": 5.6
+    },
+    {
+      "year": 1973,
+      "gdp_current_billions": 1425.4,
+      "gdp_chained_billions": 6106.4,
+      "change_current_pct": 8.4,
+      "change_chained_pct": -0.5
+    },
+    {
+      "year": 1974,
+      "gdp_current_billions": 1545.2,
+      "gdp_chained_billions": 6073.4,
+      "change_current_pct": 9,
+      "change_chained_pct": -0.2
+    },
+    {
+      "year": 1975,
+      "gdp_current_billions": 1684.9,
+      "gdp_chained_billions": 6060.9,
+      "change_current_pct": 11.2,
+      "change_chained_pct": 5.4
+    },
+    {
+      "year": 1976,
+      "gdp_current_billions": 1873.4,
+      "gdp_chained_billions": 6387.4,
+      "change_current_pct": 11.1,
+      "change_chained_pct": 4.6
+    },
+    {
+      "year": 1977,
+      "gdp_current_billions": 2081.8,
+      "gdp_chained_billions": 6682.8,
+      "change_current_pct": 13,
+      "change_chained_pct": 5.5
+    },
+    {
+      "year": 1978,
+      "gdp_current_billions": 2351.6,
+      "gdp_chained_billions": 7052.7,
+      "change_current_pct": 11.7,
+      "change_chained_pct": 3.2
+    },
+    {
+      "year": 1979,
+      "gdp_current_billions": 2627.3,
+      "gdp_chained_billions": 7276,
+      "change_current_pct": 8.8,
+      "change_chained_pct": -0.3
+    },
+    {
+      "year": 1980,
+      "gdp_current_billions": 2857.3,
+      "gdp_chained_billions": 7257.3,
+      "change_current_pct": 12.2,
+      "change_chained_pct": 2.5
+    },
+    {
+      "year": 1981,
+      "gdp_current_billions": 3207,
+      "gdp_chained_billions": 7441.5,
+      "change_current_pct": 4.3,
+      "change_chained_pct": -1.8
+    },
+    {
+      "year": 1982,
+      "gdp_current_billions": 3343.8,
+      "gdp_chained_billions": 7307.3,
+      "change_current_pct": 8.7,
+      "change_chained_pct": 4.6
+    },
+    {
+      "year": 1983,
+      "gdp_current_billions": 3634,
+      "gdp_chained_billions": 7642.3,
+      "change_current_pct": 11.1,
+      "change_chained_pct": 7.2
+    },
+    {
+      "year": 1984,
+      "gdp_current_billions": 4037.6,
+      "gdp_chained_billions": 8195.3,
+      "change_current_pct": 7.5,
+      "change_chained_pct": 4.2
+    },
+    {
+      "year": 1985,
+      "gdp_current_billions": 4339,
+      "gdp_chained_billions": 8537,
+      "change_current_pct": 5.5,
+      "change_chained_pct": 3.5
+    },
+    {
+      "year": 1986,
+      "gdp_current_billions": 4579.6,
+      "gdp_chained_billions": 8832.6,
+      "change_current_pct": 6,
+      "change_chained_pct": 3.5
+    },
+    {
+      "year": 1987,
+      "gdp_current_billions": 4855.2,
+      "gdp_chained_billions": 9137.7,
+      "change_current_pct": 7.9,
+      "change_chained_pct": 4.2
+    },
+    {
+      "year": 1988,
+      "gdp_current_billions": 5236.4,
+      "gdp_chained_billions": 9519.4,
+      "change_current_pct": 7.7,
+      "change_chained_pct": 3.7
+    },
+    {
+      "year": 1989,
+      "gdp_current_billions": 5641.6,
+      "gdp_chained_billions": 9869,
+      "change_current_pct": 5.7,
+      "change_chained_pct": 1.9
+    },
+    {
+      "year": 1990,
+      "gdp_current_billions": 5963.1,
+      "gdp_chained_billions": 10055.1,
+      "change_current_pct": 3.3,
+      "change_chained_pct": -0.1
+    },
+    {
+      "year": 1991,
+      "gdp_current_billions": 6158.1,
+      "gdp_chained_billions": 10044.2,
+      "change_current_pct": 5.9,
+      "change_chained_pct": 3.5
+    },
+    {
+      "year": 1992,
+      "gdp_current_billions": 6520.3,
+      "gdp_chained_billions": 10398,
+      "change_current_pct": 5.2,
+      "change_chained_pct": 2.7
+    },
+    {
+      "year": 1993,
+      "gdp_current_billions": 6858.6,
+      "gdp_chained_billions": 10684.2,
+      "change_current_pct": 6.3,
+      "change_chained_pct": 4
+    },
+    {
+      "year": 1994,
+      "gdp_current_billions": 7287.2,
+      "gdp_chained_billions": 11114.6,
+      "change_current_pct": 4.8,
+      "change_chained_pct": 2.7
+    },
+    {
+      "year": 1995,
+      "gdp_current_billions": 7639.7,
+      "gdp_chained_billions": 11413,
+      "change_current_pct": 5.7,
+      "change_chained_pct": 3.8
+    },
+    {
+      "year": 1996,
+      "gdp_current_billions": 8073.1,
+      "gdp_chained_billions": 11843.6,
+      "change_current_pct": 6.2,
+      "change_chained_pct": 4.4
+    },
+    {
+      "year": 1997,
+      "gdp_current_billions": 8577.6,
+      "gdp_chained_billions": 12370.3,
+      "change_current_pct": 5.7,
+      "change_chained_pct": 4.5
+    },
+    {
+      "year": 1998,
+      "gdp_current_billions": 9062.8,
+      "gdp_chained_billions": 12924.9,
+      "change_current_pct": 6.3,
+      "change_chained_pct": 4.8
+    },
+    {
+      "year": 1999,
+      "gdp_current_billions": 9631.2,
+      "gdp_chained_billions": 13543.8,
+      "change_current_pct": 6.4,
+      "change_chained_pct": 4.1
+    },
+    {
+      "year": 2000,
+      "gdp_current_billions": 10251,
+      "gdp_chained_billions": 14096,
+      "change_current_pct": 3.2,
+      "change_chained_pct": 1
+    },
+    {
+      "year": 2001,
+      "gdp_current_billions": 10581.9,
+      "gdp_chained_billions": 14230.7,
+      "change_current_pct": 3.3,
+      "change_chained_pct": 1.7
+    },
+    {
+      "year": 2002,
+      "gdp_current_billions": 10929.1,
+      "gdp_chained_billions": 14472.7,
+      "change_current_pct": 4.8,
+      "change_chained_pct": 2.8
+    },
+    {
+      "year": 2003,
+      "gdp_current_billions": 11456.5,
+      "gdp_chained_billions": 14877.3,
+      "change_current_pct": 6.6,
+      "change_chained_pct": 3.8
+    },
+    {
+      "year": 2004,
+      "gdp_current_billions": 12217.2,
+      "gdp_chained_billions": 15449.8,
+      "change_current_pct": 6.7,
+      "change_chained_pct": 3.5
+    },
+    {
+      "year": 2005,
+      "gdp_current_billions": 13039.2,
+      "gdp_chained_billions": 15988,
+      "change_current_pct": 6,
+      "change_chained_pct": 2.8
+    },
+    {
+      "year": 2006,
+      "gdp_current_billions": 13815.6,
+      "gdp_chained_billions": 16433.1,
+      "change_current_pct": 4.8,
+      "change_chained_pct": 2
+    },
+    {
+      "year": 2007,
+      "gdp_current_billions": 14474.2,
+      "gdp_chained_billions": 16762.4,
+      "change_current_pct": 2,
+      "change_chained_pct": 0.1
+    },
+    {
+      "year": 2008,
+      "gdp_current_billions": 14769.9,
+      "gdp_chained_billions": 16781.5,
+      "change_current_pct": -2,
+      "change_chained_pct": -2.6
+    },
+    {
+      "year": 2009,
+      "gdp_current_billions": 14478.1,
+      "gdp_chained_billions": 16349.1,
+      "change_current_pct": 3.9,
+      "change_chained_pct": 2.7
+    },
+    {
+      "year": 2010,
+      "gdp_current_billions": 15049,
+      "gdp_chained_billions": 16789.8,
+      "change_current_pct": 3.7,
+      "change_chained_pct": 1.6
+    },
+    {
+      "year": 2011,
+      "gdp_current_billions": 15599.7,
+      "gdp_chained_billions": 17052.4,
+      "change_current_pct": 4.2,
+      "change_chained_pct": 2.3
+    },
+    {
+      "year": 2012,
+      "gdp_current_billions": 16254,
+      "gdp_chained_billions": 17442.8,
+      "change_current_pct": 3.9,
+      "change_chained_pct": 2.1
+    },
+    {
+      "year": 2013,
+      "gdp_current_billions": 16880.7,
+      "gdp_chained_billions": 17812.2,
+      "change_current_pct": 4.3,
+      "change_chained_pct": 2.5
+    },
+    {
+      "year": 2014,
+      "gdp_current_billions": 17608.1,
+      "gdp_chained_billions": 18261.7,
+      "change_current_pct": 3.9,
+      "change_chained_pct": 2.9
+    },
+    {
+      "year": 2015,
+      "gdp_current_billions": 18295,
+      "gdp_chained_billions": 18799.6,
+      "change_current_pct": 2.8,
+      "change_chained_pct": 1.8
+    },
+    {
+      "year": 2016,
+      "gdp_current_billions": 18804.9,
+      "gdp_chained_billions": 19141.7,
+      "change_current_pct": 4.3,
+      "change_chained_pct": 2.5
+    },
+    {
+      "year": 2017,
+      "gdp_current_billions": 19612.1,
+      "gdp_chained_billions": 19612.1,
+      "change_current_pct": 5.3,
+      "change_chained_pct": 3
+    },
+    {
+      "year": 2018,
+      "gdp_current_billions": 20656.5,
+      "gdp_chained_billions": 20193.9,
+      "change_current_pct": 4.3,
+      "change_chained_pct": 2.6
+    },
+    {
+      "year": 2019,
+      "gdp_current_billions": 21540,
+      "gdp_chained_billions": 20715.7,
+      "change_current_pct": -0.9,
+      "change_chained_pct": -2.2
+    },
+    {
+      "year": 2020,
+      "gdp_current_billions": 21354.1,
+      "gdp_chained_billions": 20267.6,
+      "change_current_pct": 10.9,
+      "change_chained_pct": 6.1
+    },
+    {
+      "year": 2021,
+      "gdp_current_billions": 23681.2,
+      "gdp_chained_billions": 21494.8,
+      "change_current_pct": 9.8,
+      "change_chained_pct": 2.5
+    },
+    {
+      "year": 2022,
+      "gdp_current_billions": 26006.9,
+      "gdp_chained_billions": 22034.8,
+      "change_current_pct": 6.6,
+      "change_chained_pct": 2.9
+    },
+    {
+      "year": 2023,
+      "gdp_current_billions": 27720.7,
+      "gdp_chained_billions": 22671.1,
+      "change_current_pct": 5.3,
+      "change_chained_pct": 2.8
+    }
+  ],
+  "meta": {
+    "title": "US GDP Annual (1929–present) - Free Download",
+    "description": "US Gross Domestic Product at annual frequency from 1929, with current-dollar and chained-dollar levels plus year-over-year change rates. Contains 95 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US GDP Annual (1929–present) | ListBase",
+    "seo_description": "Download US GDP Annual (1929–present) — 95 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 95 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/gdp-us"
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "id": "mt-political-parties",
+  "name": "Malta — Political Parties",
+  "title": "Malta — Political Parties",
+  "description": "Political parties of Malta from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 808,
+      "name_short": "MLP",
+      "name": "Partit Laburista",
+      "name_english": "Malta Labour Party",
+      "name_other": "",
+      "year_first": 1945,
+      "year_last": "",
+      "share": 59.9,
+      "share_year": 1947,
+      "wikipedia": "https://en.wikipedia.org/wiki/Malta_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 699,
+      "name_short": "PN",
+      "name": "Partit Nazzjonalista",
+      "name_english": "Nationalist Party",
+      "name_other": "",
+      "year_first": 1926,
+      "year_last": "",
+      "share": 51.8,
+      "share_year": 1998,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nationalist_Party_%28Malta%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1910,
+      "name_short": "UPM",
+      "name": "Unione Politica Maltese",
+      "name_english": "Maltese Political Union",
+      "name_other": "",
+      "year_first": 1921,
+      "year_last": 1927,
+      "share": 44.9,
+      "share_year": 1921,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1604,
+      "name_short": "MWP",
+      "name": "Malta Workers' Party",
+      "name_english": "Malta Workers' Party",
+      "name_other": "",
+      "year_first": 1949,
+      "year_last": 1953,
+      "share": 23.2,
+      "share_year": 1950,
+      "wikipedia": "https://en.wikipedia.org/wiki/Malta_Workers_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1899,
+      "name_short": "PDN",
+      "name": "Partito Democratico Nazionalista",
+      "name_english": "Democratic Nationalist Party (1921)",
+      "name_other": "",
+      "year_first": 1921,
+      "year_last": 1926,
+      "share": 14.6,
+      "share_year": 1924,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Nationalist_Party_%28Malta,_1921%E2%80%9326%29",
+      "description": "12.0% in 1921 election",
+      "comment": "see McHale (1983, 631)",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 420,
+      "name_short": "DAP",
+      "name": "Democratic Action Party",
+      "name_english": "Democratic Action Party",
+      "name_other": "",
+      "year_first": 1947,
+      "year_last": 1950,
+      "share": 13.3,
+      "share_year": 1947,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Action_Party_%28Malta%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 15,
+      "name_short": "CP",
+      "name": "Constitutional Party",
+      "name_english": "Constitutional Party",
+      "name_other": "",
+      "year_first": 1927,
+      "year_last": 1953,
+      "share": 10,
+      "share_year": 1950,
+      "wikipedia": "https://en.wikipedia.org/wiki/Constitutional_Party_%28Malta%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 385,
+      "name_short": "CWP",
+      "name": "Christian Workers' Party",
+      "name_english": "Christian Workers' Party",
+      "name_other": "",
+      "year_first": 1961,
+      "year_last": 1966,
+      "share": 9.5,
+      "share_year": 1962,
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_Workers'_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1487,
+      "name_short": "PDN",
+      "name": "Partit Democratiku Nazzjonalista",
+      "name_english": "Democratic Nationalist Party",
+      "name_other": "",
+      "year_first": 1959,
+      "year_last": 1966,
+      "share": 9.3,
+      "share_year": 1962,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Nationalist_Party_%28Malta,_1959%E2%80%9366%29",
+      "description": "",
+      "comment": "see McHale (1983, 631)",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 476,
+      "name_short": "GP",
+      "name": "Gozo Party",
+      "name_english": "Gozo Party",
+      "name_other": "",
+      "year_first": 1947,
+      "year_last": 1947,
+      "share": 5.2,
+      "share_year": 1950,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gozo_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 320,
+      "name_short": "PCP",
+      "name": "Progressive Constitutional Party",
+      "name_english": "Progressive Constitutional Party",
+      "name_other": "",
+      "year_first": 1953,
+      "year_last": 1971,
+      "share": 4.8,
+      "share_year": 1962,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 416,
+      "name_short": "JP",
+      "name": "Jones Party",
+      "name_english": "Jones Party",
+      "name_other": "",
+      "year_first": 1945,
+      "year_last": 1951,
+      "share": 3.5,
+      "share_year": 1947,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 515,
+      "name_short": "IE",
+      "name": "Imperium Europa",
+      "name_english": "Imperium Europa",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": "",
+      "share": 2.7,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Imperium_Europa",
+      "description": "2.7% in 2014 EP election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7354,
+      "name_short": "PD",
+      "name": "Partit Demokratiku",
+      "name_english": "Democratic Party",
+      "name_other": "",
+      "year_first": 2016,
+      "year_last": "",
+      "share": 2,
+      "share_year": 2019,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_(Malta)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 62,
+      "name_short": "AD",
+      "name": "Alternattiva Demokratika",
+      "name_english": "Democratic Alternative",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 1.8,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Alternative_(Malta)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1861,
+      "name_short": "PKM",
+      "name": "Partit Komunista Malti",
+      "name_english": "Communist Party of Malta",
+      "name_other": "",
+      "year_first": 1969,
+      "year_last": "",
+      "share": 0.1,
+      "share_year": 1987,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Malta",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Malta — Political Parties - Free Download",
+    "description": "Political parties of Malta from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Malta — Political Parties | ListBase",
+    "seo_description": "Download Malta — Political Parties dataset with 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

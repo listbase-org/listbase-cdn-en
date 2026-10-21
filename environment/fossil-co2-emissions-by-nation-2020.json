@@ -1,0 +1,2286 @@
+{
+  "id": "fossil-co2-emissions-by-nation-2020",
+  "name": "Fossil Fuel CO2 Emissions by Nation (2020)",
+  "title": "Fossil Fuel CO2 Emissions by Nation (2020)",
+  "description": "Per-country fossil-fuel CO2 emissions in 2020, broken down by solid fuel, liquid fuel, gas fuel and cement, plus per-capita emissions. Data from the Carbon Dioxide Information Analysis Center (CDIAC).",
+  "category": "environment",
+  "source": "https://github.com/datasets/co2-fossil-by-nation",
+  "source_url": "https://github.com/datasets/co2-fossil-by-nation",
+  "updated": "2026-04",
+  "record_count": 222,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "total_mt",
+      "label": "Total Mt",
+      "type": "number"
+    },
+    {
+      "key": "solid_fuel_mt",
+      "label": "Solid Fuel Mt",
+      "type": "number"
+    },
+    {
+      "key": "liquid_fuel_mt",
+      "label": "Liquid Fuel Mt",
+      "type": "number"
+    },
+    {
+      "key": "gas_fuel_mt",
+      "label": "Gas Fuel Mt",
+      "type": "number"
+    },
+    {
+      "key": "cement_mt",
+      "label": "Cement Mt",
+      "type": "number"
+    },
+    {
+      "key": "per_capita_t",
+      "label": "Per Capita T",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country": "China (Mainland)",
+      "year": 2020,
+      "total_mt": 2915650,
+      "solid_fuel_mt": 2095946,
+      "liquid_fuel_mt": 415680,
+      "gas_fuel_mt": 184627,
+      "cement_mt": 219397,
+      "per_capita_t": 2.047509753915947
+    },
+    {
+      "country": "United States Of America",
+      "year": 2020,
+      "total_mt": 1223749,
+      "solid_fuel_mt": 235075,
+      "liquid_fuel_mt": 521588,
+      "gas_fuel_mt": 449812,
+      "cement_mt": 11104,
+      "per_capita_t": 3.610047378993988
+    },
+    {
+      "country": "India",
+      "year": 2020,
+      "total_mt": 650069,
+      "solid_fuel_mt": 433040,
+      "liquid_fuel_mt": 153249,
+      "gas_fuel_mt": 32848,
+      "cement_mt": 30514,
+      "per_capita_t": 0.467686737034619
+    },
+    {
+      "country": "Russian Federation",
+      "year": 2020,
+      "total_mt": 484656,
+      "solid_fuel_mt": 122587,
+      "liquid_fuel_mt": 91380,
+      "gas_fuel_mt": 255262,
+      "cement_mt": 5533,
+      "per_capita_t": 3.324988754517316
+    },
+    {
+      "country": "Japan",
+      "year": 2020,
+      "total_mt": 272364,
+      "solid_fuel_mt": 105567,
+      "liquid_fuel_mt": 102489,
+      "gas_fuel_mt": 57560,
+      "cement_mt": 6748,
+      "per_capita_t": 2.169493633145785
+    },
+    {
+      "country": "Islamic Republic Of Iran",
+      "year": 2020,
+      "total_mt": 198727,
+      "solid_fuel_mt": 1016,
+      "liquid_fuel_mt": 56520,
+      "gas_fuel_mt": 114466,
+      "cement_mt": 8350,
+      "per_capita_t": 2.284476503959149
+    },
+    {
+      "country": "Indonesia",
+      "year": 2020,
+      "total_mt": 178159,
+      "solid_fuel_mt": 92896,
+      "liquid_fuel_mt": 53064,
+      "gas_fuel_mt": 22166,
+      "cement_mt": 6731,
+      "per_capita_t": 0.6578343577058738
+    },
+    {
+      "country": "Saudi Arabia",
+      "year": 2020,
+      "total_mt": 165097,
+      "solid_fuel_mt": 118,
+      "liquid_fuel_mt": 87180,
+      "gas_fuel_mt": 71250,
+      "cement_mt": 6531,
+      "per_capita_t": 4.556922006922887
+    },
+    {
+      "country": "Germany",
+      "year": 2020,
+      "total_mt": 163396,
+      "solid_fuel_mt": 47114,
+      "liquid_fuel_mt": 66103,
+      "gas_fuel_mt": 46593,
+      "cement_mt": 3579,
+      "per_capita_t": 1.962302342515488
+    },
+    {
+      "country": "Republic Of Korea",
+      "year": 2020,
+      "total_mt": 160069,
+      "solid_fuel_mt": 76804,
+      "liquid_fuel_mt": 46765,
+      "gas_fuel_mt": 30906,
+      "cement_mt": 5594,
+      "per_capita_t": 3.086676207198003
+    },
+    {
+      "country": "Canada",
+      "year": 2020,
+      "total_mt": 150623,
+      "solid_fuel_mt": 9569,
+      "liquid_fuel_mt": 67801,
+      "gas_fuel_mt": 70303,
+      "cement_mt": 1790,
+      "per_capita_t": 3.989150299553977
+    },
+    {
+      "country": "Mexico",
+      "year": 2020,
+      "total_mt": 118811,
+      "solid_fuel_mt": 9199,
+      "liquid_fuel_mt": 52846,
+      "gas_fuel_mt": 50072,
+      "cement_mt": 4884,
+      "per_capita_t": 0.9458650084455488
+    },
+    {
+      "country": "South Africa",
+      "year": 2020,
+      "total_mt": 118618,
+      "solid_fuel_mt": 102044,
+      "liquid_fuel_mt": 12601,
+      "gas_fuel_mt": 2632,
+      "cement_mt": 1341,
+      "per_capita_t": 2.028832834323814
+    },
+    {
+      "country": "Brazil",
+      "year": 2020,
+      "total_mt": 112682,
+      "solid_fuel_mt": 14437,
+      "liquid_fuel_mt": 74801,
+      "gas_fuel_mt": 16554,
+      "cement_mt": 6164,
+      "per_capita_t": 0.5301059855342557
+    },
+    {
+      "country": "Turkey",
+      "year": 2020,
+      "total_mt": 107313,
+      "solid_fuel_mt": 42099,
+      "liquid_fuel_mt": 29397,
+      "gas_fuel_mt": 24805,
+      "cement_mt": 11011,
+      "per_capita_t": 1.280403149041105
+    },
+    {
+      "country": "Australia",
+      "year": 2020,
+      "total_mt": 101037,
+      "solid_fuel_mt": 41744,
+      "liquid_fuel_mt": 33081,
+      "gas_fuel_mt": 23693,
+      "cement_mt": 745,
+      "per_capita_t": 3.955387244754609
+    },
+    {
+      "country": "Viet Nam",
+      "year": 2020,
+      "total_mt": 94323,
+      "solid_fuel_mt": 58902,
+      "liquid_fuel_mt": 18906,
+      "gas_fuel_mt": 4621,
+      "cement_mt": 11894,
+      "per_capita_t": 0.9804552242772218
+    },
+    {
+      "country": "United Kingdom",
+      "year": 2020,
+      "total_mt": 82709,
+      "solid_fuel_mt": 5740,
+      "liquid_fuel_mt": 36650,
+      "gas_fuel_mt": 38664,
+      "cement_mt": 986,
+      "per_capita_t": 1.233816663875666
+    },
+    {
+      "country": "Poland",
+      "year": 2020,
+      "total_mt": 76432,
+      "solid_fuel_mt": 43236,
+      "liquid_fuel_mt": 20461,
+      "gas_fuel_mt": 10685,
+      "cement_mt": 2039,
+      "per_capita_t": 1.98638909363831
+    },
+    {
+      "country": "Thailand",
+      "year": 2020,
+      "total_mt": 75175,
+      "solid_fuel_mt": 16133,
+      "liquid_fuel_mt": 30890,
+      "gas_fuel_mt": 23837,
+      "cement_mt": 4315,
+      "per_capita_t": 1.05302210168661
+    },
+    {
+      "country": "Italy (Including San Marino)",
+      "year": 2020,
+      "total_mt": 74851,
+      "solid_fuel_mt": 5287,
+      "liquid_fuel_mt": 31259,
+      "gas_fuel_mt": 36404,
+      "cement_mt": 1901,
+      "per_capita_t": 1.25432664730101
+    },
+    {
+      "country": "France (Including Monaco)",
+      "year": 2020,
+      "total_mt": 72604,
+      "solid_fuel_mt": 5490,
+      "liquid_fuel_mt": 43715,
+      "gas_fuel_mt": 21795,
+      "cement_mt": 1603,
+      "per_capita_t": 1.124970412892466
+    },
+    {
+      "country": "Malaysia",
+      "year": 2020,
+      "total_mt": 71797,
+      "solid_fuel_mt": 22425,
+      "liquid_fuel_mt": 24289,
+      "gas_fuel_mt": 22446,
+      "cement_mt": 2112,
+      "per_capita_t": 2.17542881726121
+    },
+    {
+      "country": "Taiwan",
+      "year": 2020,
+      "total_mt": 67946,
+      "solid_fuel_mt": 37843,
+      "liquid_fuel_mt": 15518,
+      "gas_fuel_mt": 13336,
+      "cement_mt": 1249,
+      "per_capita_t": 2.854758076310596
+    },
+    {
+      "country": "United Arab Emirates",
+      "year": 2020,
+      "total_mt": 62271,
+      "solid_fuel_mt": 2207,
+      "liquid_fuel_mt": 21786,
+      "gas_fuel_mt": 36122,
+      "cement_mt": 1822,
+      "per_capita_t": 6.733743307241997
+    },
+    {
+      "country": "Egypt",
+      "year": 2020,
+      "total_mt": 61267,
+      "solid_fuel_mt": 1474,
+      "liquid_fuel_mt": 22663,
+      "gas_fuel_mt": 31831,
+      "cement_mt": 5298,
+      "per_capita_t": 0.5750642762991305
+    },
+    {
+      "country": "Kazakhstan",
+      "year": 2020,
+      "total_mt": 56644,
+      "solid_fuel_mt": 33929,
+      "liquid_fuel_mt": 8914,
+      "gas_fuel_mt": 12600,
+      "cement_mt": 1200,
+      "per_capita_t": 3.003205794220789
+    },
+    {
+      "country": "Spain",
+      "year": 2020,
+      "total_mt": 55383,
+      "solid_fuel_mt": 3099,
+      "liquid_fuel_mt": 32618,
+      "gas_fuel_mt": 17443,
+      "cement_mt": 2223,
+      "per_capita_t": 1.170148267851687
+    },
+    {
+      "country": "Pakistan",
+      "year": 2020,
+      "total_mt": 54407,
+      "solid_fuel_mt": 15205,
+      "liquid_fuel_mt": 16465,
+      "gas_fuel_mt": 18140,
+      "cement_mt": 4597,
+      "per_capita_t": 0.2416885422765274
+    },
+    {
+      "country": "Ukraine",
+      "year": 2020,
+      "total_mt": 47790,
+      "solid_fuel_mt": 23320,
+      "liquid_fuel_mt": 10609,
+      "gas_fuel_mt": 12775,
+      "cement_mt": 1086,
+      "per_capita_t": 1.083908898470769
+    },
+    {
+      "country": "Argentina",
+      "year": 2020,
+      "total_mt": 45636,
+      "solid_fuel_mt": 1080,
+      "liquid_fuel_mt": 18653,
+      "gas_fuel_mt": 24313,
+      "cement_mt": 1012,
+      "per_capita_t": 1.016195257423559
+    },
+    {
+      "country": "Iraq",
+      "year": 2020,
+      "total_mt": 44585,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 22817,
+      "gas_fuel_mt": 9224,
+      "cement_mt": 3423,
+      "per_capita_t": 1.060470687749773
+    },
+    {
+      "country": "Algeria",
+      "year": 2020,
+      "total_mt": 43211,
+      "solid_fuel_mt": 137,
+      "liquid_fuel_mt": 14912,
+      "gas_fuel_mt": 24091,
+      "cement_mt": 2396,
+      "per_capita_t": 1.002778227722788
+    },
+    {
+      "country": "Netherlands",
+      "year": 2020,
+      "total_mt": 37725,
+      "solid_fuel_mt": 4262,
+      "liquid_fuel_mt": 13818,
+      "gas_fuel_mt": 19635,
+      "cement_mt": 0,
+      "per_capita_t": 2.167830511994822
+    },
+    {
+      "country": "Philippines",
+      "year": 2020,
+      "total_mt": 36252,
+      "solid_fuel_mt": 19084,
+      "liquid_fuel_mt": 12637,
+      "gas_fuel_mt": 2095,
+      "cement_mt": 2436,
+      "per_capita_t": 0.3257491803342767
+    },
+    {
+      "country": "Nigeria",
+      "year": 2020,
+      "total_mt": 33131,
+      "solid_fuel_mt": 31,
+      "liquid_fuel_mt": 17690,
+      "gas_fuel_mt": 9632,
+      "cement_mt": 2906,
+      "per_capita_t": 0.1610017408104005
+    },
+    {
+      "country": "Uzbekistan",
+      "year": 2020,
+      "total_mt": 29701,
+      "solid_fuel_mt": 3142,
+      "liquid_fuel_mt": 3465,
+      "gas_fuel_mt": 21627,
+      "cement_mt": 1467,
+      "per_capita_t": 0.89344658177158
+    },
+    {
+      "country": "Bangladesh",
+      "year": 2020,
+      "total_mt": 28489,
+      "solid_fuel_mt": 2369,
+      "liquid_fuel_mt": 6419,
+      "gas_fuel_mt": 16374,
+      "cement_mt": 3326,
+      "per_capita_t": 0.1711792766946165
+    },
+    {
+      "country": "Qatar",
+      "year": 2020,
+      "total_mt": 28167,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 3418,
+      "gas_fuel_mt": 23695,
+      "cement_mt": 477,
+      "per_capita_t": 9.957918877336379
+    },
+    {
+      "country": "Kuwait",
+      "year": 2020,
+      "total_mt": 26768,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 11858,
+      "gas_fuel_mt": 14107,
+      "cement_mt": 416,
+      "per_capita_t": 5.990626077884039
+    },
+    {
+      "country": "Colombia",
+      "year": 2020,
+      "total_mt": 24291,
+      "solid_fuel_mt": 4579,
+      "liquid_fuel_mt": 11799,
+      "gas_fuel_mt": 6537,
+      "cement_mt": 1215,
+      "per_capita_t": 0.4799008731454675
+    },
+    {
+      "country": "Belgium",
+      "year": 2020,
+      "total_mt": 24232,
+      "solid_fuel_mt": 2189,
+      "liquid_fuel_mt": 11910,
+      "gas_fuel_mt": 9449,
+      "cement_mt": 684,
+      "per_capita_t": 2.099614001898107
+    },
+    {
+      "country": "Czech Republic",
+      "year": 2020,
+      "total_mt": 23294,
+      "solid_fuel_mt": 12809,
+      "liquid_fuel_mt": 5436,
+      "gas_fuel_mt": 4544,
+      "cement_mt": 505,
+      "per_capita_t": 2.210534092898353
+    },
+    {
+      "country": "Chile",
+      "year": 2020,
+      "total_mt": 22077,
+      "solid_fuel_mt": 6876,
+      "liquid_fuel_mt": 11745,
+      "gas_fuel_mt": 3014,
+      "cement_mt": 439,
+      "per_capita_t": 1.149422635490304
+    },
+    {
+      "country": "Venezuela",
+      "year": 2020,
+      "total_mt": 19615,
+      "solid_fuel_mt": 47,
+      "liquid_fuel_mt": 5280,
+      "gas_fuel_mt": 7018,
+      "cement_mt": 151,
+      "per_capita_t": 0.6851527132208137
+    },
+    {
+      "country": "Oman",
+      "year": 2020,
+      "total_mt": 18055,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 1958,
+      "gas_fuel_mt": 14014,
+      "cement_mt": 762,
+      "per_capita_t": 3.934319569958267
+    },
+    {
+      "country": "Romania",
+      "year": 2020,
+      "total_mt": 17988,
+      "solid_fuel_mt": 3702,
+      "liquid_fuel_mt": 7238,
+      "gas_fuel_mt": 5987,
+      "cement_mt": 1061,
+      "per_capita_t": 0.9229428480435594
+    },
+    {
+      "country": "Morocco",
+      "year": 2020,
+      "total_mt": 17705,
+      "solid_fuel_mt": 6920,
+      "liquid_fuel_mt": 9050,
+      "gas_fuel_mt": 425,
+      "cement_mt": 1310,
+      "per_capita_t": 0.4852175025664694
+    },
+    {
+      "country": "Turkmenistan",
+      "year": 2020,
+      "total_mt": 17645,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 5739,
+      "gas_fuel_mt": 11685,
+      "cement_mt": 222,
+      "per_capita_t": 2.844022042864653
+    },
+    {
+      "country": "Belarus",
+      "year": 2020,
+      "total_mt": 15701,
+      "solid_fuel_mt": 895,
+      "liquid_fuel_mt": 4761,
+      "gas_fuel_mt": 9421,
+      "cement_mt": 625,
+      "per_capita_t": 1.625197995157518
+    },
+    {
+      "country": "Israel",
+      "year": 2020,
+      "total_mt": 15408,
+      "solid_fuel_mt": 4666,
+      "liquid_fuel_mt": 4994,
+      "gas_fuel_mt": 5107,
+      "cement_mt": 641,
+      "per_capita_t": 1.77397973993653
+    },
+    {
+      "country": "Austria",
+      "year": 2020,
+      "total_mt": 15387,
+      "solid_fuel_mt": 2586,
+      "liquid_fuel_mt": 7752,
+      "gas_fuel_mt": 4549,
+      "cement_mt": 500,
+      "per_capita_t": 1.728610836762468
+    },
+    {
+      "country": "Singapore",
+      "year": 2020,
+      "total_mt": 14960,
+      "solid_fuel_mt": 509,
+      "liquid_fuel_mt": 8861,
+      "gas_fuel_mt": 5590,
+      "cement_mt": 0,
+      "per_capita_t": 2.538398156347676
+    },
+    {
+      "country": "Democratic People S Republic Of Korea",
+      "year": 2020,
+      "total_mt": 13606,
+      "solid_fuel_mt": 12171,
+      "liquid_fuel_mt": 832,
+      "gas_fuel_mt": "",
+      "cement_mt": 603,
+      "per_capita_t": 0.5270881265794397
+    },
+    {
+      "country": "Greece",
+      "year": 2020,
+      "total_mt": 13482,
+      "solid_fuel_mt": 1966,
+      "liquid_fuel_mt": 7621,
+      "gas_fuel_mt": 3078,
+      "cement_mt": 816,
+      "per_capita_t": 1.278709294475532
+    },
+    {
+      "country": "Peru",
+      "year": 2020,
+      "total_mt": 12679,
+      "solid_fuel_mt": 512,
+      "liquid_fuel_mt": 7596,
+      "gas_fuel_mt": 3595,
+      "cement_mt": 937,
+      "per_capita_t": 0.3831716262548511
+    },
+    {
+      "country": "Libyan Arab Jamahiriyah",
+      "year": 2020,
+      "total_mt": 12635,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 6912,
+      "gas_fuel_mt": 4337,
+      "cement_mt": 346,
+      "per_capita_t": 1.910889419706027
+    },
+    {
+      "country": "Hungary",
+      "year": 2020,
+      "total_mt": 12446,
+      "solid_fuel_mt": 1810,
+      "liquid_fuel_mt": 4902,
+      "gas_fuel_mt": 5474,
+      "cement_mt": 260,
+      "per_capita_t": 1.273921921230972
+    },
+    {
+      "country": "Serbia",
+      "year": 2020,
+      "total_mt": 12327,
+      "solid_fuel_mt": 8469,
+      "liquid_fuel_mt": 2348,
+      "gas_fuel_mt": 1243,
+      "cement_mt": 267,
+      "per_capita_t": 1.669383736506969
+    },
+    {
+      "country": "Portugal",
+      "year": 2020,
+      "total_mt": 10743,
+      "solid_fuel_mt": 718,
+      "liquid_fuel_mt": 6146,
+      "gas_fuel_mt": 3230,
+      "cement_mt": 649,
+      "per_capita_t": 1.043137137434109
+    },
+    {
+      "country": "Norway",
+      "year": 2020,
+      "total_mt": 10701,
+      "solid_fuel_mt": 852,
+      "liquid_fuel_mt": 6633,
+      "gas_fuel_mt": 2837,
+      "cement_mt": 200,
+      "per_capita_t": 1.993498236721433
+    },
+    {
+      "country": "Azerbaijan",
+      "year": 2020,
+      "total_mt": 10527,
+      "solid_fuel_mt": 1,
+      "liquid_fuel_mt": 2877,
+      "gas_fuel_mt": 6641,
+      "cement_mt": 379,
+      "per_capita_t": 1.024665207506405
+    },
+    {
+      "country": "Finland",
+      "year": 2020,
+      "total_mt": 10136,
+      "solid_fuel_mt": 3060,
+      "liquid_fuel_mt": 5596,
+      "gas_fuel_mt": 1319,
+      "cement_mt": 162,
+      "per_capita_t": 1.834586756742886
+    },
+    {
+      "country": "Bahrain",
+      "year": 2020,
+      "total_mt": 10102,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 985,
+      "gas_fuel_mt": 9042,
+      "cement_mt": 75,
+      "per_capita_t": 6.761594098657794
+    },
+    {
+      "country": "Mongolia",
+      "year": 2020,
+      "total_mt": 10101,
+      "solid_fuel_mt": 8621,
+      "liquid_fuel_mt": 1356,
+      "gas_fuel_mt": "",
+      "cement_mt": 125,
+      "per_capita_t": 3.092432076950337
+    },
+    {
+      "country": "Bulgaria",
+      "year": 2020,
+      "total_mt": 9536,
+      "solid_fuel_mt": 4433,
+      "liquid_fuel_mt": 3249,
+      "gas_fuel_mt": 1571,
+      "cement_mt": 284,
+      "per_capita_t": 1.358420614822723
+    },
+    {
+      "country": "Myanmar (Formerly Burma)",
+      "year": 2020,
+      "total_mt": 9465,
+      "solid_fuel_mt": 1180,
+      "liquid_fuel_mt": 5253,
+      "gas_fuel_mt": 2374,
+      "cement_mt": 644,
+      "per_capita_t": 0.1778158200759307
+    },
+    {
+      "country": "Trinidad And Tobago",
+      "year": 2020,
+      "total_mt": 9456,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 940,
+      "gas_fuel_mt": 8451,
+      "cement_mt": 65,
+      "per_capita_t": 6.245832235946892
+    },
+    {
+      "country": "New Zealand",
+      "year": 2020,
+      "total_mt": 9195,
+      "solid_fuel_mt": 1696,
+      "liquid_fuel_mt": 4746,
+      "gas_fuel_mt": 2424,
+      "cement_mt": 316,
+      "per_capita_t": 1.829350055488811
+    },
+    {
+      "country": "Hong Kong Special Adminstrative Region Of China",
+      "year": 2020,
+      "total_mt": 9145,
+      "solid_fuel_mt": 3397,
+      "liquid_fuel_mt": 3015,
+      "gas_fuel_mt": 2574,
+      "cement_mt": 159,
+      "per_capita_t": 1.219043507337534
+    },
+    {
+      "country": "Ireland",
+      "year": 2020,
+      "total_mt": 8995,
+      "solid_fuel_mt": 1094,
+      "liquid_fuel_mt": 4592,
+      "gas_fuel_mt": 2845,
+      "cement_mt": 465,
+      "per_capita_t": 1.826455973699945
+    },
+    {
+      "country": "Sweden",
+      "year": 2020,
+      "total_mt": 8870,
+      "solid_fuel_mt": 1593,
+      "liquid_fuel_mt": 6148,
+      "gas_fuel_mt": 783,
+      "cement_mt": 346,
+      "per_capita_t": 0.8593748068073399
+    },
+    {
+      "country": "Ecuador",
+      "year": 2020,
+      "total_mt": 8747,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 7631,
+      "gas_fuel_mt": 281,
+      "cement_mt": 513,
+      "per_capita_t": 0.5001702941752186
+    },
+    {
+      "country": "Switzerland",
+      "year": 2020,
+      "total_mt": 8570,
+      "solid_fuel_mt": 93,
+      "liquid_fuel_mt": 6253,
+      "gas_fuel_mt": 1780,
+      "cement_mt": 444,
+      "per_capita_t": 0.995756544019234
+    },
+    {
+      "country": "Slovakia",
+      "year": 2020,
+      "total_mt": 7803,
+      "solid_fuel_mt": 2435,
+      "liquid_fuel_mt": 2393,
+      "gas_fuel_mt": 2553,
+      "cement_mt": 418,
+      "per_capita_t": 1.429718105663492
+    },
+    {
+      "country": "Tunisia",
+      "year": 2020,
+      "total_mt": 7523,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 3401,
+      "gas_fuel_mt": 3291,
+      "cement_mt": 763,
+      "per_capita_t": 0.6213837385330934
+    },
+    {
+      "country": "Syrian Arab Republic",
+      "year": 2020,
+      "total_mt": 7302,
+      "solid_fuel_mt": 1,
+      "liquid_fuel_mt": 4881,
+      "gas_fuel_mt": 1569,
+      "cement_mt": 293,
+      "per_capita_t": 0.3564515602158992
+    },
+    {
+      "country": "Denmark",
+      "year": 2020,
+      "total_mt": 6685,
+      "solid_fuel_mt": 735,
+      "liquid_fuel_mt": 4288,
+      "gas_fuel_mt": 1319,
+      "cement_mt": 318,
+      "per_capita_t": 1.150430293693645
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2020,
+      "total_mt": 6395,
+      "solid_fuel_mt": 889,
+      "liquid_fuel_mt": 4308,
+      "gas_fuel_mt": 666,
+      "cement_mt": 531,
+      "per_capita_t": 0.584589984027383
+    },
+    {
+      "country": "Lebanon",
+      "year": 2020,
+      "total_mt": 6088,
+      "solid_fuel_mt": 171,
+      "liquid_fuel_mt": 5677,
+      "gas_fuel_mt": "",
+      "cement_mt": 239,
+      "per_capita_t": 1.069048564116281
+    },
+    {
+      "country": "Jordan",
+      "year": 2020,
+      "total_mt": 5856,
+      "solid_fuel_mt": 211,
+      "liquid_fuel_mt": 3231,
+      "gas_fuel_mt": 2009,
+      "cement_mt": 406,
+      "per_capita_t": 0.541392954825042
+    },
+    {
+      "country": "Kenya",
+      "year": 2020,
+      "total_mt": 5827,
+      "solid_fuel_mt": 595,
+      "liquid_fuel_mt": 4396,
+      "gas_fuel_mt": "",
+      "cement_mt": 835,
+      "per_capita_t": 0.1132303819352781
+    },
+    {
+      "country": "Cuba",
+      "year": 2020,
+      "total_mt": 5778,
+      "solid_fuel_mt": 1,
+      "liquid_fuel_mt": 5204,
+      "gas_fuel_mt": 469,
+      "cement_mt": 104,
+      "per_capita_t": 0.5109280490742257
+    },
+    {
+      "country": "Bosnia & Herzegovina",
+      "year": 2020,
+      "total_mt": 5695,
+      "solid_fuel_mt": 4291,
+      "liquid_fuel_mt": 1170,
+      "gas_fuel_mt": 107,
+      "cement_mt": 127,
+      "per_capita_t": 1.704571679045863
+    },
+    {
+      "country": "Sri Lanka",
+      "year": 2020,
+      "total_mt": 5634,
+      "solid_fuel_mt": 1936,
+      "liquid_fuel_mt": 3418,
+      "gas_fuel_mt": "",
+      "cement_mt": 281,
+      "per_capita_t": 0.259828045374563
+    },
+    {
+      "country": "Ghana",
+      "year": 2020,
+      "total_mt": 5613,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 3346,
+      "gas_fuel_mt": 1694,
+      "cement_mt": 572,
+      "per_capita_t": 0.1762429495505168
+    },
+    {
+      "country": "Lao People S Democratic Republic",
+      "year": 2020,
+      "total_mt": 5380,
+      "solid_fuel_mt": 3834,
+      "liquid_fuel_mt": 893,
+      "gas_fuel_mt": "",
+      "cement_mt": 653,
+      "per_capita_t": 0.7405224188383344
+    },
+    {
+      "country": "Republic Of Sudan",
+      "year": 2020,
+      "total_mt": 5320,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 5054,
+      "gas_fuel_mt": "",
+      "cement_mt": 267,
+      "per_capita_t": 0.1213924783999149
+    },
+    {
+      "country": "Plurinational State Of Bolivia",
+      "year": 2020,
+      "total_mt": 5006,
+      "solid_fuel_mt": 7,
+      "liquid_fuel_mt": 2821,
+      "gas_fuel_mt": 1804,
+      "cement_mt": 329,
+      "per_capita_t": 0.4219873301621788
+    },
+    {
+      "country": "Ethiopia",
+      "year": 2020,
+      "total_mt": 4919,
+      "solid_fuel_mt": 561,
+      "liquid_fuel_mt": 3274,
+      "gas_fuel_mt": "",
+      "cement_mt": 1084,
+      "per_capita_t": 0.04253639363270112
+    },
+    {
+      "country": "Angola",
+      "year": 2020,
+      "total_mt": 4810,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 2652,
+      "gas_fuel_mt": 679,
+      "cement_mt": 304,
+      "per_capita_t": 0.1462041918785548
+    },
+    {
+      "country": "Equatorial Guinea",
+      "year": 2020,
+      "total_mt": 4631,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 267,
+      "gas_fuel_mt": 1019,
+      "cement_mt": "",
+      "per_capita_t": 2.934005604505399
+    },
+    {
+      "country": "Cambodia",
+      "year": 2020,
+      "total_mt": 4573,
+      "solid_fuel_mt": 1192,
+      "liquid_fuel_mt": 2544,
+      "gas_fuel_mt": "",
+      "cement_mt": 837,
+      "per_capita_t": 0.280598360582906
+    },
+    {
+      "country": "Guatemala",
+      "year": 2020,
+      "total_mt": 4446,
+      "solid_fuel_mt": 795,
+      "liquid_fuel_mt": 3564,
+      "gas_fuel_mt": "",
+      "cement_mt": 87,
+      "per_capita_t": 0.2580330603761933
+    },
+    {
+      "country": "Croatia",
+      "year": 2020,
+      "total_mt": 4432,
+      "solid_fuel_mt": 374,
+      "liquid_fuel_mt": 2147,
+      "gas_fuel_mt": 1577,
+      "cement_mt": 334,
+      "per_capita_t": 1.077130648975871
+    },
+    {
+      "country": "Nepal",
+      "year": 2020,
+      "total_mt": 4082,
+      "solid_fuel_mt": 1259,
+      "liquid_fuel_mt": 1948,
+      "gas_fuel_mt": "",
+      "cement_mt": 874,
+      "per_capita_t": 0.1407462720594981
+    },
+    {
+      "country": "United Republic Of Tanzania",
+      "year": 2020,
+      "total_mt": 3907,
+      "solid_fuel_mt": 500,
+      "liquid_fuel_mt": 2226,
+      "gas_fuel_mt": 454,
+      "cement_mt": 726,
+      "per_capita_t": 0.06428178999507767
+    },
+    {
+      "country": "Lithuania",
+      "year": 2020,
+      "total_mt": 3638,
+      "solid_fuel_mt": 160,
+      "liquid_fuel_mt": 2100,
+      "gas_fuel_mt": 1232,
+      "cement_mt": 147,
+      "per_capita_t": 1.282933952557263
+    },
+    {
+      "country": "Cote D Ivoire",
+      "year": 2020,
+      "total_mt": 3541,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 1791,
+      "gas_fuel_mt": 1192,
+      "cement_mt": 559,
+      "per_capita_t": 0.133753710592972
+    },
+    {
+      "country": "Slovenia",
+      "year": 2020,
+      "total_mt": 3243,
+      "solid_fuel_mt": 1109,
+      "liquid_fuel_mt": 1544,
+      "gas_fuel_mt": 459,
+      "cement_mt": 131,
+      "per_capita_t": 1.532511191213793
+    },
+    {
+      "country": "Afghanistan",
+      "year": 2020,
+      "total_mt": 3236,
+      "solid_fuel_mt": 1201,
+      "liquid_fuel_mt": 1985,
+      "gas_fuel_mt": 42,
+      "cement_mt": 8,
+      "per_capita_t": 0.08444149152219718
+    },
+    {
+      "country": "Brunei (Darussalam)",
+      "year": 2020,
+      "total_mt": 3124,
+      "solid_fuel_mt": 582,
+      "liquid_fuel_mt": 915,
+      "gas_fuel_mt": 1455,
+      "cement_mt": 26,
+      "per_capita_t": 7.101902730891376
+    },
+    {
+      "country": "Senegal",
+      "year": 2020,
+      "total_mt": 2996,
+      "solid_fuel_mt": 368,
+      "liquid_fuel_mt": 1834,
+      "gas_fuel_mt": 7,
+      "cement_mt": 787,
+      "per_capita_t": 0.1847437214904581
+    },
+    {
+      "country": "Georgia",
+      "year": 2020,
+      "total_mt": 2916,
+      "solid_fuel_mt": 234,
+      "liquid_fuel_mt": 944,
+      "gas_fuel_mt": 1453,
+      "cement_mt": 286,
+      "per_capita_t": 0.7736432896162682
+    },
+    {
+      "country": "Panama",
+      "year": 2020,
+      "total_mt": 2815,
+      "solid_fuel_mt": 699,
+      "liquid_fuel_mt": 1820,
+      "gas_fuel_mt": 219,
+      "cement_mt": 77,
+      "per_capita_t": 0.6599315495971085
+    },
+    {
+      "country": "Estonia",
+      "year": 2020,
+      "total_mt": 2659,
+      "solid_fuel_mt": 2593,
+      "liquid_fuel_mt": -157,
+      "gas_fuel_mt": 217,
+      "cement_mt": 5,
+      "per_capita_t": 2.000464525105437
+    },
+    {
+      "country": "Honduras",
+      "year": 2020,
+      "total_mt": 2579,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 2427,
+      "gas_fuel_mt": "",
+      "cement_mt": 152,
+      "per_capita_t": 0.2568579675535935
+    },
+    {
+      "country": "Yemen",
+      "year": 2020,
+      "total_mt": 2569,
+      "solid_fuel_mt": 78,
+      "liquid_fuel_mt": 2213,
+      "gas_fuel_mt": 70,
+      "cement_mt": 208,
+      "per_capita_t": 0.08046060959630914
+    },
+    {
+      "country": "Tajikistan",
+      "year": 2020,
+      "total_mt": 2469,
+      "solid_fuel_mt": 934,
+      "liquid_fuel_mt": 917,
+      "gas_fuel_mt": 121,
+      "cement_mt": 496,
+      "per_capita_t": 0.2614396691156887
+    },
+    {
+      "country": "Kosovo",
+      "year": 2020,
+      "total_mt": 2349,
+      "solid_fuel_mt": 1664,
+      "liquid_fuel_mt": 593,
+      "gas_fuel_mt": "",
+      "cement_mt": 92,
+      "per_capita_t": 1.402297600828793
+    },
+    {
+      "country": "Benin",
+      "year": 2020,
+      "total_mt": 2279,
+      "solid_fuel_mt": 80,
+      "liquid_fuel_mt": 1847,
+      "gas_fuel_mt": 87,
+      "cement_mt": 266,
+      "per_capita_t": 0.1828285709450021
+    },
+    {
+      "country": "Kyrgyzstan",
+      "year": 2020,
+      "total_mt": 2255,
+      "solid_fuel_mt": 866,
+      "liquid_fuel_mt": 992,
+      "gas_fuel_mt": 177,
+      "cement_mt": 219,
+      "per_capita_t": 0.3539102960276247
+    },
+    {
+      "country": "Zambia",
+      "year": 2020,
+      "total_mt": 2240,
+      "solid_fuel_mt": 704,
+      "liquid_fuel_mt": 1223,
+      "gas_fuel_mt": "",
+      "cement_mt": 313,
+      "per_capita_t": 0.1200648185266748
+    },
+    {
+      "country": "Republic Of Cameroon",
+      "year": 2020,
+      "total_mt": 2207,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 1358,
+      "gas_fuel_mt": 464,
+      "cement_mt": 384,
+      "per_capita_t": 0.0844287197725504
+    },
+    {
+      "country": "Luxembourg",
+      "year": 2020,
+      "total_mt": 2172,
+      "solid_fuel_mt": 40,
+      "liquid_fuel_mt": 1633,
+      "gas_fuel_mt": 388,
+      "cement_mt": 111,
+      "per_capita_t": 3.469572867937935
+    },
+    {
+      "country": "Zimbabwe",
+      "year": 2020,
+      "total_mt": 2150,
+      "solid_fuel_mt": 1176,
+      "liquid_fuel_mt": 831,
+      "gas_fuel_mt": "",
+      "cement_mt": 143,
+      "per_capita_t": 0.138667340779167
+    },
+    {
+      "country": "Papua New Guinea",
+      "year": 2020,
+      "total_mt": 2094,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 1553,
+      "gas_fuel_mt": 527,
+      "cement_mt": 14,
+      "per_capita_t": 0.2170229501686113
+    },
+    {
+      "country": "Paraguay",
+      "year": 2020,
+      "total_mt": 2040,
+      "solid_fuel_mt": 1,
+      "liquid_fuel_mt": 1937,
+      "gas_fuel_mt": "",
+      "cement_mt": 103,
+      "per_capita_t": 0.3103250246108166
+    },
+    {
+      "country": "Macedonia",
+      "year": 2020,
+      "total_mt": 1898,
+      "solid_fuel_mt": 944,
+      "liquid_fuel_mt": 798,
+      "gas_fuel_mt": 157,
+      "cement_mt": 0,
+      "per_capita_t": 0.8979055442808866
+    },
+    {
+      "country": "Costa Rica",
+      "year": 2020,
+      "total_mt": 1842,
+      "solid_fuel_mt": 0,
+      "liquid_fuel_mt": 1743,
+      "gas_fuel_mt": "",
+      "cement_mt": 99,
+      "per_capita_t": 0.3608744764080254
+    },
+    {
+      "country": "Armenia",
+      "year": 2020,
+      "total_mt": 1826,
+      "solid_fuel_mt": 9,
+      "liquid_fuel_mt": 397,
+      "gas_fuel_mt": 1337,
+      "cement_mt": 84,
+      "per_capita_t": 0.6494163060854131
+    },
+    {
+      "country": "El Salvador",
+      "year": 2020,
+      "total_mt": 1796,
+      "solid_fuel_mt": 0,
+      "liquid_fuel_mt": 1694,
+      "gas_fuel_mt": "",
+      "cement_mt": 102,
+      "per_capita_t": 0.2859221544225513
+    },
+    {
+      "country": "Cyprus",
+      "year": 2020,
+      "total_mt": 1785,
+      "solid_fuel_mt": 17,
+      "liquid_fuel_mt": 1528,
+      "gas_fuel_mt": "",
+      "cement_mt": 241,
+      "per_capita_t": 1.446924446699487
+    },
+    {
+      "country": "Uganda",
+      "year": 2020,
+      "total_mt": 1777,
+      "solid_fuel_mt": 0,
+      "liquid_fuel_mt": 1359,
+      "gas_fuel_mt": "",
+      "cement_mt": 418,
+      "per_capita_t": 0.0406674626526206
+    },
+    {
+      "country": "Uruguay",
+      "year": 2020,
+      "total_mt": 1764,
+      "solid_fuel_mt": 1,
+      "liquid_fuel_mt": 1644,
+      "gas_fuel_mt": 34,
+      "cement_mt": 85,
+      "per_capita_t": 0.514486647934192
+    },
+    {
+      "country": "Latvia",
+      "year": 2020,
+      "total_mt": 1763,
+      "solid_fuel_mt": 25,
+      "liquid_fuel_mt": 1016,
+      "gas_fuel_mt": 569,
+      "cement_mt": 154,
+      "per_capita_t": 0.9246030167089266
+    },
+    {
+      "country": "Mali",
+      "year": 2020,
+      "total_mt": 1762,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 1572,
+      "gas_fuel_mt": "",
+      "cement_mt": 190,
+      "per_capita_t": 0.08433564032676936
+    },
+    {
+      "country": "Mozambique",
+      "year": 2020,
+      "total_mt": 1757,
+      "solid_fuel_mt": 21,
+      "liquid_fuel_mt": 970,
+      "gas_fuel_mt": 453,
+      "cement_mt": 313,
+      "per_capita_t": 0.05718880418961472
+    },
+    {
+      "country": "Jamaica",
+      "year": 2020,
+      "total_mt": 1756,
+      "solid_fuel_mt": 79,
+      "liquid_fuel_mt": 1230,
+      "gas_fuel_mt": 352,
+      "cement_mt": 96,
+      "per_capita_t": 0.6240430190660915
+    },
+    {
+      "country": "Botswana",
+      "year": 2020,
+      "total_mt": 1515,
+      "solid_fuel_mt": 799,
+      "liquid_fuel_mt": 716,
+      "gas_fuel_mt": "",
+      "cement_mt": 0,
+      "per_capita_t": 0.6004052066747253
+    },
+    {
+      "country": "Burkina Faso",
+      "year": 2020,
+      "total_mt": 1430,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 1186,
+      "gas_fuel_mt": "",
+      "cement_mt": 245,
+      "per_capita_t": 0.06736503711656798
+    },
+    {
+      "country": "Republic Of Moldova",
+      "year": 2020,
+      "total_mt": 1413,
+      "solid_fuel_mt": 78,
+      "liquid_fuel_mt": 707,
+      "gas_fuel_mt": 482,
+      "cement_mt": 145,
+      "per_capita_t": 0.4563932576474828
+    },
+    {
+      "country": "Guinea",
+      "year": 2020,
+      "total_mt": 1400,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 1228,
+      "gas_fuel_mt": "",
+      "cement_mt": 172,
+      "per_capita_t": 0.1073755070893985
+    },
+    {
+      "country": "New Caledonia",
+      "year": 2020,
+      "total_mt": 1344,
+      "solid_fuel_mt": 687,
+      "liquid_fuel_mt": 649,
+      "gas_fuel_mt": "",
+      "cement_mt": 8,
+      "per_capita_t": 4.705389133275948
+    },
+    {
+      "country": "Gabon",
+      "year": 2020,
+      "total_mt": 1312,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 547,
+      "gas_fuel_mt": 264,
+      "cement_mt": 57,
+      "per_capita_t": 0.5783328226032245
+    },
+    {
+      "country": "Albania",
+      "year": 2020,
+      "total_mt": 1294,
+      "solid_fuel_mt": 155,
+      "liquid_fuel_mt": 826,
+      "gas_fuel_mt": 28,
+      "cement_mt": 285,
+      "per_capita_t": 0.4504004720389199
+    },
+    {
+      "country": "Nicaragua",
+      "year": 2020,
+      "total_mt": 1294,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 1242,
+      "gas_fuel_mt": "",
+      "cement_mt": 52,
+      "per_capita_t": 0.192812013344849
+    },
+    {
+      "country": "Mauritania",
+      "year": 2020,
+      "total_mt": 1232,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 1124,
+      "gas_fuel_mt": "",
+      "cement_mt": 108,
+      "per_capita_t": 0.2774171283376714
+    },
+    {
+      "country": "Congo",
+      "year": 2020,
+      "total_mt": 1103,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 498,
+      "gas_fuel_mt": 537,
+      "cement_mt": 67,
+      "per_capita_t": 0.1956560825285238
+    },
+    {
+      "country": "Madagascar",
+      "year": 2020,
+      "total_mt": 1083,
+      "solid_fuel_mt": 375,
+      "liquid_fuel_mt": 691,
+      "gas_fuel_mt": "",
+      "cement_mt": 17,
+      "per_capita_t": 0.03883372691925009
+    },
+    {
+      "country": "Mauritius",
+      "year": 2020,
+      "total_mt": 1039,
+      "solid_fuel_mt": 423,
+      "liquid_fuel_mt": 615,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.8008473055673047
+    },
+    {
+      "country": "Namibia",
+      "year": 2020,
+      "total_mt": 977,
+      "solid_fuel_mt": 20,
+      "liquid_fuel_mt": 857,
+      "gas_fuel_mt": "",
+      "cement_mt": 101,
+      "per_capita_t": 0.3961695862292561
+    },
+    {
+      "country": "Occupied Palestinian Territory",
+      "year": 2020,
+      "total_mt": 908,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 908,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.1829064376454181
+    },
+    {
+      "country": "Democratic Republic Of The Congo (Formerly Zaire)",
+      "year": 2020,
+      "total_mt": 894,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 750,
+      "gas_fuel_mt": "",
+      "cement_mt": 144,
+      "per_capita_t": 0.009786059423892735
+    },
+    {
+      "country": "Suriname",
+      "year": 2020,
+      "total_mt": 797,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 788,
+      "gas_fuel_mt": 4,
+      "cement_mt": 5,
+      "per_capita_t": 1.320174897524863
+    },
+    {
+      "country": "Niger",
+      "year": 2020,
+      "total_mt": 780,
+      "solid_fuel_mt": 98,
+      "liquid_fuel_mt": 624,
+      "gas_fuel_mt": 20,
+      "cement_mt": 39,
+      "per_capita_t": 0.03267842670263285
+    },
+    {
+      "country": "Guyana",
+      "year": 2020,
+      "total_mt": 724,
+      "solid_fuel_mt": 2,
+      "liquid_fuel_mt": 681,
+      "gas_fuel_mt": "",
+      "cement_mt": 41,
+      "per_capita_t": 0.9141547808780033
+    },
+    {
+      "country": "Haiti",
+      "year": 2020,
+      "total_mt": 685,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 654,
+      "gas_fuel_mt": "",
+      "cement_mt": 31,
+      "per_capita_t": 0.06093027393811994
+    },
+    {
+      "country": "Montenegro",
+      "year": 2020,
+      "total_mt": 657,
+      "solid_fuel_mt": 413,
+      "liquid_fuel_mt": 244,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.043250625029767
+    },
+    {
+      "country": "Bahamas",
+      "year": 2020,
+      "total_mt": 596,
+      "solid_fuel_mt": 1,
+      "liquid_fuel_mt": 594,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.468522767319157
+    },
+    {
+      "country": "Lesotho",
+      "year": 2020,
+      "total_mt": 593,
+      "solid_fuel_mt": 420,
+      "liquid_fuel_mt": 173,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.2649078810361117
+    },
+    {
+      "country": "Togo",
+      "year": 2020,
+      "total_mt": 587,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 364,
+      "gas_fuel_mt": 50,
+      "cement_mt": 173,
+      "per_capita_t": 0.07041527882932105
+    },
+    {
+      "country": "Chad",
+      "year": 2020,
+      "total_mt": 548,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 504,
+      "gas_fuel_mt": "",
+      "cement_mt": 44,
+      "per_capita_t": 0.03343319951511629
+    },
+    {
+      "country": "Iceland",
+      "year": 2020,
+      "total_mt": 518,
+      "solid_fuel_mt": 96,
+      "liquid_fuel_mt": 422,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.421641038590328
+    },
+    {
+      "country": "Malawi",
+      "year": 2020,
+      "total_mt": 503,
+      "solid_fuel_mt": 60,
+      "liquid_fuel_mt": 385,
+      "gas_fuel_mt": "",
+      "cement_mt": 58,
+      "per_capita_t": 0.02632448544999128
+    },
+    {
+      "country": "Curacao",
+      "year": 2020,
+      "total_mt": 493,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 493,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 2.614686061801447
+    },
+    {
+      "country": "Republic Of South Sudan",
+      "year": 2020,
+      "total_mt": 462,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 462,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.04382576318998893
+    },
+    {
+      "country": "Maldives",
+      "year": 2020,
+      "total_mt": 450,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 450,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.8816780520268552
+    },
+    {
+      "country": "Malta",
+      "year": 2020,
+      "total_mt": 432,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 233,
+      "gas_fuel_mt": 199,
+      "cement_mt": "",
+      "per_capita_t": 0.8468046782248648
+    },
+    {
+      "country": "Rwanda",
+      "year": 2020,
+      "total_mt": 385,
+      "solid_fuel_mt": 3,
+      "liquid_fuel_mt": 303,
+      "gas_fuel_mt": 24,
+      "cement_mt": 55,
+      "per_capita_t": 0.02965959249055869
+    },
+    {
+      "country": "Barbados",
+      "year": 2020,
+      "total_mt": 333,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 304,
+      "gas_fuel_mt": 8,
+      "cement_mt": 18,
+      "per_capita_t": 1.188068994782956
+    },
+    {
+      "country": "Sierra Leone",
+      "year": 2020,
+      "total_mt": 318,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 280,
+      "gas_fuel_mt": "",
+      "cement_mt": 39,
+      "per_capita_t": 0.03908949143689062
+    },
+    {
+      "country": "Swaziland",
+      "year": 2020,
+      "total_mt": 298,
+      "solid_fuel_mt": 54,
+      "liquid_fuel_mt": 244,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.2538364976980503
+    },
+    {
+      "country": "Fiji",
+      "year": 2020,
+      "total_mt": 284,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 274,
+      "gas_fuel_mt": "",
+      "cement_mt": 10,
+      "per_capita_t": 0.3093986914151212
+    },
+    {
+      "country": "Macau Special Adminstrative Region Of China",
+      "year": 2020,
+      "total_mt": 282,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 244,
+      "gas_fuel_mt": 38,
+      "cement_mt": 0,
+      "per_capita_t": 0.4214686807389044
+    },
+    {
+      "country": "Bhutan",
+      "year": 2020,
+      "total_mt": 249,
+      "solid_fuel_mt": 53,
+      "liquid_fuel_mt": 111,
+      "gas_fuel_mt": "",
+      "cement_mt": 86,
+      "per_capita_t": 0.3236102929335432
+    },
+    {
+      "country": "Aruba",
+      "year": 2020,
+      "total_mt": 243,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 243,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 2.276244984437695
+    },
+    {
+      "country": "French Polynesia",
+      "year": 2020,
+      "total_mt": 231,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 231,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.7683695659402412
+    },
+    {
+      "country": "Burundi",
+      "year": 2020,
+      "total_mt": 223,
+      "solid_fuel_mt": 7,
+      "liquid_fuel_mt": 193,
+      "gas_fuel_mt": "",
+      "cement_mt": 23,
+      "per_capita_t": 0.01853585939883176
+    },
+    {
+      "country": "Liberia",
+      "year": 2020,
+      "total_mt": 212,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 166,
+      "gas_fuel_mt": "",
+      "cement_mt": 46,
+      "per_capita_t": 0.04216470213386819
+    },
+    {
+      "country": "Faeroe Islands",
+      "year": 2020,
+      "total_mt": 207,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 207,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 3.973269866277283
+    },
+    {
+      "country": "Gambia",
+      "year": 2020,
+      "total_mt": 191,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 191,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.07512369891332281
+    },
+    {
+      "country": "Timor-Leste (Formerly East Timor)",
+      "year": 2020,
+      "total_mt": 179,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 161,
+      "gas_fuel_mt": 0,
+      "cement_mt": "",
+      "per_capita_t": 0.1390435493900387
+    },
+    {
+      "country": "Saint Martin (Dutch Portion)",
+      "year": 2020,
+      "total_mt": 178,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 178,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 4.11600733953424
+    },
+    {
+      "country": "Eritrea",
+      "year": 2020,
+      "total_mt": 176,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 158,
+      "gas_fuel_mt": "",
+      "cement_mt": 18,
+      "per_capita_t": 0.04998247273497135
+    },
+    {
+      "country": "Gibraltar",
+      "year": 2020,
+      "total_mt": 172,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 143,
+      "gas_fuel_mt": 29,
+      "cement_mt": "",
+      "per_capita_t": 5.258493716172828
+    },
+    {
+      "country": "Cayman Islands",
+      "year": 2020,
+      "total_mt": 170,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 170,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 2.546548650025472
+    },
+    {
+      "country": "Antigua & Barbuda",
+      "year": 2020,
+      "total_mt": 169,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 169,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.830807452071403
+    },
+    {
+      "country": "Belize",
+      "year": 2020,
+      "total_mt": 167,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 167,
+      "gas_fuel_mt": 0,
+      "cement_mt": "",
+      "per_capita_t": 0.4252553857287743
+    },
+    {
+      "country": "Seychelles",
+      "year": 2020,
+      "total_mt": 166,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 166,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.57872407291012
+    },
+    {
+      "country": "Somalia",
+      "year": 2020,
+      "total_mt": 163,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 163,
+      "gas_fuel_mt": "",
+      "cement_mt": 0,
+      "per_capita_t": 0.01003288542807562
+    },
+    {
+      "country": "Greenland",
+      "year": 2020,
+      "total_mt": 150,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 150,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 2.679367647584654
+    },
+    {
+      "country": "Cape Verde",
+      "year": 2020,
+      "total_mt": 141,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 141,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.2439855121195035
+    },
+    {
+      "country": "Saint Lucia",
+      "year": 2020,
+      "total_mt": 132,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 132,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.7393473133544226
+    },
+    {
+      "country": "Bermuda",
+      "year": 2020,
+      "total_mt": 125,
+      "solid_fuel_mt": 0,
+      "liquid_fuel_mt": 125,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.951448527226368
+    },
+    {
+      "country": "Djibouti",
+      "year": 2020,
+      "total_mt": 106,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 79,
+      "gas_fuel_mt": "",
+      "cement_mt": 27,
+      "per_capita_t": 0.09749438256229073
+    },
+    {
+      "country": "Comoros",
+      "year": 2020,
+      "total_mt": 104,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 104,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.1300458709850362
+    },
+    {
+      "country": "Andorra",
+      "year": 2020,
+      "total_mt": 102,
+      "solid_fuel_mt": 0,
+      "liquid_fuel_mt": 102,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.326207478576993
+    },
+    {
+      "country": "Turks And Caicos Islands",
+      "year": 2020,
+      "total_mt": 98,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 98,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 2.233735805171706
+    },
+    {
+      "country": "Guinea Bissau",
+      "year": 2020,
+      "total_mt": 81,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 81,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.04074305311335005
+    },
+    {
+      "country": "Grenada",
+      "year": 2020,
+      "total_mt": 79,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 79,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.6390235386776445
+    },
+    {
+      "country": "Solomon Islands",
+      "year": 2020,
+      "total_mt": 79,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 79,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.1152465159460358
+    },
+    {
+      "country": "Isle Of Man",
+      "year": 2020,
+      "total_mt": 70,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": "",
+      "gas_fuel_mt": 70,
+      "cement_mt": "",
+      "per_capita_t": ""
+    },
+    {
+      "country": "St. Vincent & The Grenadines",
+      "year": 2020,
+      "total_mt": 67,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 67,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.6396592558637023
+    },
+    {
+      "country": "Samoa",
+      "year": 2020,
+      "total_mt": 66,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 66,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.3104433513721551
+    },
+    {
+      "country": "Central African Republic",
+      "year": 2020,
+      "total_mt": 65,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 65,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.01238717335612533
+    },
+    {
+      "country": "St. Kitts-Nevis",
+      "year": 2020,
+      "total_mt": 63,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 63,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.316955391036262
+    },
+    {
+      "country": "Palau",
+      "year": 2020,
+      "total_mt": 58,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 58,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 3.218936312475623
+    },
+    {
+      "country": "Vanuatu",
+      "year": 2020,
+      "total_mt": 55,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 55,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.1794270258335174
+    },
+    {
+      "country": "Tonga",
+      "year": 2020,
+      "total_mt": 50,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 50,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.479007942940509
+    },
+    {
+      "country": "British Virgin Islands",
+      "year": 2020,
+      "total_mt": 44,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 44,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.442595903771131
+    },
+    {
+      "country": "Dominica",
+      "year": 2020,
+      "total_mt": 43,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 43,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.5950023688757594
+    },
+    {
+      "country": "Federated States Of Micronesia",
+      "year": 2020,
+      "total_mt": 40,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 40,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.3601430248501196
+    },
+    {
+      "country": "Marshall Islands",
+      "year": 2020,
+      "total_mt": 40,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 40,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.911685306594678
+    },
+    {
+      "country": "Anguilla",
+      "year": 2020,
+      "total_mt": 39,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 39,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 2.485543723781865
+    },
+    {
+      "country": "Sao Tome & Principe",
+      "year": 2020,
+      "total_mt": 38,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 38,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.1742479951161306
+    },
+    {
+      "country": "Guadeloupe",
+      "year": 2020,
+      "total_mt": 32,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": "",
+      "gas_fuel_mt": "",
+      "cement_mt": 32,
+      "per_capita_t": 0.08010746673618509
+    },
+    {
+      "country": "Bonaire, Saint Eustatius, And Saba",
+      "year": 2020,
+      "total_mt": 31,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 31,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.197782546494993
+    },
+    {
+      "country": "Reunion",
+      "year": 2020,
+      "total_mt": 24,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": "",
+      "gas_fuel_mt": "",
+      "cement_mt": 24,
+      "per_capita_t": 0.02554998647115209
+    },
+    {
+      "country": "Cook Islands",
+      "year": 2020,
+      "total_mt": 18,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 18,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.080893140073939
+    },
+    {
+      "country": "Kiribati",
+      "year": 2020,
+      "total_mt": 18,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 18,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.1470548317046688
+    },
+    {
+      "country": "St. Pierre & Miquelon",
+      "year": 2020,
+      "total_mt": 17,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 17,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 2.829503210544103
+    },
+    {
+      "country": "Martinique",
+      "year": 2020,
+      "total_mt": 15,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": "",
+      "gas_fuel_mt": "",
+      "cement_mt": 15,
+      "per_capita_t": 0.04128496755636189
+    },
+    {
+      "country": "Nauru",
+      "year": 2020,
+      "total_mt": 14,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 14,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.165131794368042
+    },
+    {
+      "country": "Liechtenstein",
+      "year": 2020,
+      "total_mt": 13,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": "",
+      "gas_fuel_mt": 13,
+      "cement_mt": "",
+      "per_capita_t": 0.3343553288979782
+    },
+    {
+      "country": "Falkland Islands (Malvinas)",
+      "year": 2020,
+      "total_mt": 11,
+      "solid_fuel_mt": 1,
+      "liquid_fuel_mt": 10,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 3.01760278372591
+    },
+    {
+      "country": "French Guiana",
+      "year": 2020,
+      "total_mt": 9,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": "",
+      "gas_fuel_mt": "",
+      "cement_mt": 9,
+      "per_capita_t": 0.03205990062888711
+    },
+    {
+      "country": "Wallis And Futuna Islands",
+      "year": 2020,
+      "total_mt": 7,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 7,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.574097882917631
+    },
+    {
+      "country": "Montserrat",
+      "year": 2020,
+      "total_mt": 6,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 6,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 1.286663007683864
+    },
+    {
+      "country": "Saint Helena",
+      "year": 2020,
+      "total_mt": 5,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 5,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.9241169977924945
+    },
+    {
+      "country": "Tuvalu",
+      "year": 2020,
+      "total_mt": 3,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 3,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.2283824331696672
+    },
+    {
+      "country": "Niue",
+      "year": 2020,
+      "total_mt": 2,
+      "solid_fuel_mt": "",
+      "liquid_fuel_mt": 2,
+      "gas_fuel_mt": "",
+      "cement_mt": "",
+      "per_capita_t": 0.8622554067971163
+    }
+  ],
+  "meta": {
+    "title": "Fossil Fuel CO2 Emissions by Nation (2020) - Free Download",
+    "description": "Per-country fossil-fuel CO2 emissions in 2020, broken down by solid fuel, liquid fuel, gas fuel and cement, plus per-capita emissions. Data from the Carbon Dioxide Information Analysis Center (CDIAC). Contains 222 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fossil Fuel CO2 Emissions by Nation (2020) | ListBase",
+    "seo_description": "Download Fossil Fuel CO2 Emissions by Nation (2020) — 222 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 222 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/co2-fossil-by-nation"
+    ]
+  }
+}

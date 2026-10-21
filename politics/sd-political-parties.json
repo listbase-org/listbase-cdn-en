@@ -1,0 +1,271 @@
+{
+  "id": "sd-political-parties",
+  "name": "Sudan — Political Parties",
+  "title": "Sudan — Political Parties",
+  "description": "Political parties of Sudan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5494,
+      "name_short": "SSU",
+      "name": "Al-Ittihad Al-Ishtiraki Al-Sudaniy",
+      "name_english": "Sudanese Socialist Union",
+      "name_other": "",
+      "year_first": 1971,
+      "year_last": 1985,
+      "share": 100,
+      "share_year": 1974,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sudanese_Socialist_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5496,
+      "name_short": "NCP",
+      "name": "al-Mu'tamar al-Waṭanī",
+      "name_english": "National Congress Party",
+      "name_other": "Arabic: المؤتمر الوطني‎‎",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 98.8,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Congress_(Sudan)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4756,
+      "name_short": "Umma",
+      "name": "Hizb al-Umma",
+      "name_english": "Umma National Party // Sudanese Independence // Nation Party",
+      "name_other": "Arabic: حزب الأمة",
+      "year_first": 1945,
+      "year_last": "",
+      "share": 22.7,
+      "share_year": 1953,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Umma_Party_Sudan",
+      "description": "26 of 74 seats in 1948 Sudanese parliamentary election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5495,
+      "name_short": "SPLM",
+      "name": "Al-Ḥarakat ash-Shaʿbiyyat liTaḥrīr as-Sūdān",
+      "name_english": "Sudan People's Liberation Movement",
+      "name_other": "",
+      "year_first": 1983,
+      "year_last": 2012,
+      "share": 22,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sudan_People%27s_Liberation_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7318,
+      "name_short": "SSFP",
+      "name": "Southern Sudan Federal Party",
+      "name_english": "Southern Sudan Federal Party",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1958,
+      "share": 21.9,
+      "share_year": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/Southern_Sudan_Federal_Party",
+      "description": "38 of 173 seats in 1958 Sudanese parliamentary election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5493,
+      "name_short": "NF",
+      "name": "al-Jabhah al-Islamiyah al-Qawmiyah",
+      "name_english": "National Islamic Front",
+      "name_other": "",
+      "year_first": 1976,
+      "year_last": 1989,
+      "share": 19.6,
+      "share_year": 1986,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Islamic_Front",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4755,
+      "name_short": "SLP",
+      "name": "Liberal Party // Southern Party // Southern Liberal Party",
+      "name_english": "Liberal Party // Southern Party // Southern Liberal Party",
+      "name_other": "",
+      "year_first": 1952,
+      "year_last": 1958,
+      "share": 9.3,
+      "share_year": 1953,
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberal_Party_%28Sudan%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6611,
+      "name_short": "SANU",
+      "name": "Ettihad Al-Wataniy Al-Afriqiy Al-Sudan",
+      "name_english": "Sudan African National Union",
+      "name_other": "Juba Arabic: اتحاد الوطنى الافريقى السودان",
+      "year_first": 1963,
+      "year_last": "",
+      "share": 6.9,
+      "share_year": 1968,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sudan_African_National_Union",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7381,
+      "name_short": "IF",
+      "name": "Independence Front",
+      "name_english": "Independence Front",
+      "name_other": "",
+      "year_first": 1948,
+      "year_last": 1948,
+      "share": 5.4,
+      "share_year": 1948,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4754,
+      "name_short": "NUP / DUP",
+      "name": "Al Hizb Al-Ittihadi Al-Dimuqrati",
+      "name_english": "National Unionist Party / Democratic Unionist Party",
+      "name_other": "Arabic: الحزب الإتحادي الديموقراطي",
+      "year_first": 1952,
+      "year_last": "",
+      "share": 4.8,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Unionist_Party_%28Sudan%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6346,
+      "name_short": "PDP",
+      "name": "People’s Democratic Party",
+      "name_english": "People’s Democratic Party",
+      "name_other": "",
+      "year_first": 1956,
+      "year_last": 1967,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Democratic_Party_(Sudan)",
+      "description": "1956-58 Khalil [Umma/PDP]",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6347,
+      "name_short": "SNC",
+      "name": "al-Muʾtamar al-Waṭanī",
+      "name_english": "Sudanese National Congress",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": 1989,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Congress_(Sudan)",
+      "description": "1989 Al-Bashir [Mil, SNC]",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Sudan — Political Parties - Free Download",
+    "description": "Political parties of Sudan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sudan — Political Parties | ListBase",
+    "seo_description": "Download Sudan — Political Parties dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

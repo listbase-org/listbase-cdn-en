@@ -1,0 +1,232 @@
+{
+  "id": "kr-rail-stations",
+  "name": "South Korea — Rail Stations",
+  "title": "South Korea — Rail Stations",
+  "description": "Railway stations in South Korea: name, city, state/province, coordinates, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "asciiname",
+      "label": "Asciiname",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "uic_list",
+      "label": "Uic List",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Susaek Railway Station",
+      "asciiname": "Susaek Railway Station",
+      "city_name_list": "",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Seoul",
+      "latitude": 37.58132,
+      "longitude": 126.89477,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "Singyeongju",
+      "asciiname": "Singyeongju",
+      "city_name_list": "Gyeongju",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Gyeongsangbuk-do",
+      "latitude": 35.79722,
+      "longitude": 129.1394,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "Dongdaeguyeok",
+      "asciiname": "Dongdaeguyeok",
+      "city_name_list": "Daegu",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Daegu",
+      "latitude": 35.87946,
+      "longitude": 128.62931,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "Suncheonyeok",
+      "asciiname": "Suncheonyeok",
+      "city_name_list": "Yeosu",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Jeollanam-do",
+      "latitude": 34.94591,
+      "longitude": 127.50347,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "Jinju Railway Station",
+      "asciiname": "Jinju Railway Station",
+      "city_name_list": "Chinju",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Gyeongsangnam-do",
+      "latitude": 35.15078,
+      "longitude": 128.11802,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "Mokpoyeok",
+      "asciiname": "Mokpoyeok",
+      "city_name_list": "Mokpo",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Jeollanam-do",
+      "latitude": 34.79111,
+      "longitude": 126.3867,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "Ulsan Station",
+      "asciiname": "Ulsan Station",
+      "city_name_list": "Ulsan",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Ulsan",
+      "latitude": 35.55141,
+      "longitude": 129.13864,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "Busanyeok",
+      "asciiname": "Busanyeok",
+      "city_name_list": "Busan",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Busan",
+      "latitude": 35.11507,
+      "longitude": 129.04228,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "Songjeongniyeok",
+      "asciiname": "Songjeongniyeok",
+      "city_name_list": "Gwangju",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Gwangju",
+      "latitude": 35.13829,
+      "longitude": 126.79047,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "Pohang station",
+      "asciiname": "Pohang station",
+      "city_name_list": "Pohang",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Gyeongsangbuk-do",
+      "latitude": 36.0719,
+      "longitude": 129.34203,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "Seoul Station",
+      "asciiname": "Seoul Station",
+      "city_name_list": "Seoul",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Seoul",
+      "latitude": 37.55502,
+      "longitude": 126.97066,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "Gwangmyeong",
+      "asciiname": "Gwangmyeong",
+      "city_name_list": "Gwangmyeong",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Gyeonggi-do",
+      "latitude": 37.41588,
+      "longitude": 126.88499,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    },
+    {
+      "name": "YeosuEXPOyeok",
+      "asciiname": "YeosuEXPOyeok",
+      "city_name_list": "Yeosu",
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "adm1_name_ascii": "Jeollanam-do",
+      "latitude": 34.75308,
+      "longitude": 127.7489,
+      "timezone": "Asia/Seoul",
+      "uic_list": ""
+    }
+  ],
+  "meta": {
+    "title": "South Korea — Rail Stations - Free Download",
+    "description": "Railway stations in South Korea: name, city, state/province, coordinates, timezone. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "South Korea — Rail Stations | ListBase",
+    "seo_description": "Download South Korea — Rail Stations dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

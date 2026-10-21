@@ -1,0 +1,376 @@
+{
+  "id": "bz-airports-iata",
+  "name": "Belize — IATA Airports",
+  "title": "Belize — IATA Airports",
+  "description": "Airports with IATA codes in Belize: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BCV",
+      "icao_code": "",
+      "name": "Belmopan Hector Silva Airport",
+      "city_name_list": "Belmopan",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Cayo District",
+      "latitude": 17.26968,
+      "longitude": -88.77691,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hector_Silva_Airstrip"
+    },
+    {
+      "iata_code": "BGK",
+      "icao_code": "",
+      "name": "Big Creek Airport",
+      "city_name_list": "Big Creek",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Southern District",
+      "latitude": 16.52187,
+      "longitude": -88.41333,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Big_Creek_Airport_%28Belize%29"
+    },
+    {
+      "iata_code": "BZE",
+      "icao_code": "MZBZ",
+      "name": "Belize International Airport",
+      "city_name_list": "Belize City",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Belize District",
+      "latitude": 17.53914,
+      "longitude": -88.3082,
+      "elevation": 4,
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Philip_S._W._Goldson_International_Airport"
+    },
+    {
+      "iata_code": "CUK",
+      "icao_code": "MZCK",
+      "name": "Caye Caulker Airport",
+      "city_name_list": "Caye Caulker",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Belize District",
+      "latitude": 17.77,
+      "longitude": -88,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Caye_Caulker_Airport"
+    },
+    {
+      "iata_code": "CYC",
+      "icao_code": "MZCP",
+      "name": "Cay Chapel Airstrip",
+      "city_name_list": "Cay Chapel",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Belize District",
+      "latitude": 17.68377,
+      "longitude": -88.04516,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Caye_Chapel_Airport"
+    },
+    {
+      "iata_code": "CYD",
+      "icao_code": "MZMF",
+      "name": "San Ignacio Town Airstrip",
+      "city_name_list": "San Ignacio",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Cayo District",
+      "latitude": 17.10492,
+      "longitude": -89.10099,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "CZH",
+      "icao_code": "MZCZ",
+      "name": "Corozal Airport",
+      "city_name_list": "Corozal",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Corozal District",
+      "latitude": 18.38174,
+      "longitude": -88.41179,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Corozal_Airport"
+    },
+    {
+      "iata_code": "DGA",
+      "icao_code": "MZPB",
+      "name": "Dangriga Airport",
+      "city_name_list": "Dangriga",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Southern District",
+      "latitude": 16.98251,
+      "longitude": -88.23099,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dangriga_Airport"
+    },
+    {
+      "iata_code": "INB",
+      "icao_code": "MZSV",
+      "name": "Independence Airport",
+      "city_name_list": "Mango Creek=Independence and Mango Creek",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Southern District",
+      "latitude": 16.5346,
+      "longitude": -88.44149,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Independence_Airport_(Belize)"
+    },
+    {
+      "iata_code": "MDB",
+      "icao_code": "",
+      "name": "Melinda Airstrip",
+      "city_name_list": "Melinda Airstrip",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Southern District",
+      "latitude": 16.98,
+      "longitude": -88.32,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Melinda_Airport"
+    },
+    {
+      "iata_code": "MZE",
+      "icao_code": "MZSL",
+      "name": "Spanish Lookout Airstrip",
+      "city_name_list": "Spanish Lookout",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Cayo District",
+      "latitude": 17.27848,
+      "longitude": -89.02608,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Manatee_Airport"
+    },
+    {
+      "iata_code": "ORZ",
+      "icao_code": "",
+      "name": "Orange Walk Airport",
+      "city_name_list": "Orange Walk",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Orange Walk District",
+      "latitude": 18.07447,
+      "longitude": -88.54837,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Orange_Walk_Airport"
+    },
+    {
+      "iata_code": "PLJ",
+      "icao_code": "MZPL",
+      "name": "Placencia Airport",
+      "city_name_list": "Placencia",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Southern District",
+      "latitude": 16.53729,
+      "longitude": -88.36171,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Placencia_Airport"
+    },
+    {
+      "iata_code": "PND",
+      "icao_code": "MZPG",
+      "name": "Punta Gorda Airport",
+      "city_name_list": "Punta Gorda",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Toledo District",
+      "latitude": 16.102,
+      "longitude": -88.80891,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Punta_Gorda_Airport_%28Belize%29"
+    },
+    {
+      "iata_code": "SJX",
+      "icao_code": "MZSJ",
+      "name": "Sarteneja Airport",
+      "city_name_list": "Sarteneja",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Corozal District",
+      "latitude": 18.35579,
+      "longitude": -88.13102,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sarteneja_Airport"
+    },
+    {
+      "iata_code": "SPR",
+      "icao_code": "MZSP",
+      "name": "John Greif II Airport",
+      "city_name_list": "San Pedro",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Belize District",
+      "latitude": 17.91406,
+      "longitude": -87.97096,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/John_Greif_II_Airport"
+    },
+    {
+      "iata_code": "SQS",
+      "icao_code": "",
+      "name": "Matthew Spain Airport",
+      "city_name_list": "San Ignacio",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Cayo District",
+      "latitude": 17.1859,
+      "longitude": -89.01033,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Matthew_Spain_Airport"
+    },
+    {
+      "iata_code": "SVK",
+      "icao_code": "",
+      "name": "Silver Creek Airport",
+      "city_name_list": "Stann Creek District=Silver Creek Camp",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Southern District",
+      "latitude": 16.68475,
+      "longitude": -88.34986,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Silver_Creek_Airport"
+    },
+    {
+      "iata_code": "TZA",
+      "icao_code": "MZBE",
+      "name": "Belize City Municipal Airport",
+      "city_name_list": "Belize City",
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Belize District",
+      "latitude": 17.51566,
+      "longitude": -88.19491,
+      "elevation": "",
+      "timezone": "America/Belize",
+      "wiki_link": "https://en.wikipedia.org/wiki/Belize_City_Municipal_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Belize — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Belize: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Belize — IATA Airports | ListBase",
+    "seo_description": "Download Belize — IATA Airports dataset with 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

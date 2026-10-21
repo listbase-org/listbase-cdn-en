@@ -1,0 +1,751 @@
+{
+  "id": "us-surnames",
+  "name": "United States — Popular Surnames",
+  "title": "United States — Popular Surnames",
+  "description": "Most common family names (surnames) reported in United States, ranked by frequency, with localized and romanized spellings and population counts where available. Compiled from Wikipedia 'Lists of most common surnames' (accessed Jul 2023) via the sigpwned/popular-names-by-country-dataset project.",
+  "category": "geography",
+  "source": "https://github.com/sigpwned/popular-names-by-country-dataset",
+  "source_url": "https://github.com/sigpwned/popular-names-by-country-dataset",
+  "updated": "2026-04",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "US-1",
+      "rank": 1,
+      "localized": "Smith",
+      "romanized": "Smith",
+      "count": 2376207
+    },
+    {
+      "id": "US-2",
+      "rank": 2,
+      "localized": "Johnson",
+      "romanized": "Johnson",
+      "count": 1857160
+    },
+    {
+      "id": "US-3",
+      "rank": 3,
+      "localized": "Williams",
+      "romanized": "Williams",
+      "count": 1534042
+    },
+    {
+      "id": "US-4",
+      "rank": 4,
+      "localized": "Brown",
+      "romanized": "Brown",
+      "count": 1380145
+    },
+    {
+      "id": "US-5",
+      "rank": 5,
+      "localized": "Jones",
+      "romanized": "Jones",
+      "count": 1362755
+    },
+    {
+      "id": "US-6",
+      "rank": 6,
+      "localized": "Miller",
+      "romanized": "Miller",
+      "count": 1127803
+    },
+    {
+      "id": "US-7",
+      "rank": 7,
+      "localized": "Davis",
+      "romanized": "Davis",
+      "count": 1072335
+    },
+    {
+      "id": "US-8",
+      "rank": 8,
+      "localized": "Garcia",
+      "romanized": "Garcia",
+      "count": 858289
+    },
+    {
+      "id": "US-9",
+      "rank": 9,
+      "localized": "Rodriguez",
+      "romanized": "Rodriguez",
+      "count": 804240
+    },
+    {
+      "id": "US-10",
+      "rank": 10,
+      "localized": "Wilson",
+      "romanized": "Wilson",
+      "count": 783051
+    },
+    {
+      "id": "US-11",
+      "rank": 11,
+      "localized": "Martinez",
+      "romanized": "Martinez",
+      "count": 775072
+    },
+    {
+      "id": "US-12",
+      "rank": 12,
+      "localized": "Anderson",
+      "romanized": "Anderson",
+      "count": 762394
+    },
+    {
+      "id": "US-13",
+      "rank": 13,
+      "localized": "Taylor",
+      "romanized": "Taylor",
+      "count": 720370
+    },
+    {
+      "id": "US-14",
+      "rank": 14,
+      "localized": "Thomas",
+      "romanized": "Thomas",
+      "count": 710696
+    },
+    {
+      "id": "US-15",
+      "rank": 15,
+      "localized": "Hernandez",
+      "romanized": "Hernandez",
+      "count": 706372
+    },
+    {
+      "id": "US-16",
+      "rank": 16,
+      "localized": "Moore",
+      "romanized": "Moore",
+      "count": 698671
+    },
+    {
+      "id": "US-17",
+      "rank": 17,
+      "localized": "Martin",
+      "romanized": "Martin",
+      "count": 672711
+    },
+    {
+      "id": "US-18",
+      "rank": 18,
+      "localized": "Jackson",
+      "romanized": "Jackson",
+      "count": 666125
+    },
+    {
+      "id": "US-19",
+      "rank": 19,
+      "localized": "Thompson",
+      "romanized": "Thompson",
+      "count": 644368
+    },
+    {
+      "id": "US-20",
+      "rank": 20,
+      "localized": "White",
+      "romanized": "White",
+      "count": 639515
+    },
+    {
+      "id": "US-21",
+      "rank": 21,
+      "localized": "Lopez",
+      "romanized": "Lopez",
+      "count": 621536
+    },
+    {
+      "id": "US-22",
+      "rank": 22,
+      "localized": "Lee",
+      "romanized": "Lee",
+      "count": 605860
+    },
+    {
+      "id": "US-23",
+      "rank": 23,
+      "localized": "Gonzalez",
+      "romanized": "Gonzalez",
+      "count": 597718
+    },
+    {
+      "id": "US-24",
+      "rank": 24,
+      "localized": "Harris",
+      "romanized": "Harris",
+      "count": 593542
+    },
+    {
+      "id": "US-25",
+      "rank": 25,
+      "localized": "Clark",
+      "romanized": "Clark",
+      "count": 548369
+    },
+    {
+      "id": "US-26",
+      "rank": 26,
+      "localized": "Lewis",
+      "romanized": "Lewis",
+      "count": 509930
+    },
+    {
+      "id": "US-27",
+      "rank": 27,
+      "localized": "Robinson",
+      "romanized": "Robinson",
+      "count": 503028
+    },
+    {
+      "id": "US-28",
+      "rank": 28,
+      "localized": "Walker",
+      "romanized": "Walker",
+      "count": 501307
+    },
+    {
+      "id": "US-29",
+      "rank": 29,
+      "localized": "Perez",
+      "romanized": "Perez",
+      "count": 488521
+    },
+    {
+      "id": "US-30",
+      "rank": 30,
+      "localized": "Hall",
+      "romanized": "Hall",
+      "count": 473568
+    },
+    {
+      "id": "US-31",
+      "rank": 31,
+      "localized": "Young",
+      "romanized": "Young",
+      "count": 465948
+    },
+    {
+      "id": "US-32",
+      "rank": 32,
+      "localized": "Allen",
+      "romanized": "Allen",
+      "count": 463368
+    },
+    {
+      "id": "US-33",
+      "rank": 33,
+      "localized": "Sanchez",
+      "romanized": "Sanchez",
+      "count": 441242
+    },
+    {
+      "id": "US-34",
+      "rank": 34,
+      "localized": "Wright",
+      "romanized": "Wright",
+      "count": 440367
+    },
+    {
+      "id": "US-35",
+      "rank": 35,
+      "localized": "King",
+      "romanized": "King",
+      "count": 438986
+    },
+    {
+      "id": "US-36",
+      "rank": 36,
+      "localized": "Scott",
+      "romanized": "Scott",
+      "count": 420091
+    },
+    {
+      "id": "US-37",
+      "rank": 37,
+      "localized": "Green",
+      "romanized": "Green",
+      "count": 413477
+    },
+    {
+      "id": "US-38",
+      "rank": 38,
+      "localized": "Baker",
+      "romanized": "Baker",
+      "count": 413351
+    },
+    {
+      "id": "US-39",
+      "rank": 39,
+      "localized": "Adams",
+      "romanized": "Adams",
+      "count": 413086
+    },
+    {
+      "id": "US-40",
+      "rank": 40,
+      "localized": "Nelson",
+      "romanized": "Nelson",
+      "count": 412236
+    },
+    {
+      "id": "US-41",
+      "rank": 41,
+      "localized": "Hill",
+      "romanized": "Hill",
+      "count": 411770
+    },
+    {
+      "id": "US-42",
+      "rank": 42,
+      "localized": "Ramirez",
+      "romanized": "Ramirez",
+      "count": 388987
+    },
+    {
+      "id": "US-43",
+      "rank": 43,
+      "localized": "Campbell",
+      "romanized": "Campbell",
+      "count": 371953
+    },
+    {
+      "id": "US-44",
+      "rank": 44,
+      "localized": "Mitchell",
+      "romanized": "Mitchell",
+      "count": 367433
+    },
+    {
+      "id": "US-45",
+      "rank": 45,
+      "localized": "Roberts",
+      "romanized": "Roberts",
+      "count": 366215
+    },
+    {
+      "id": "US-46",
+      "rank": 46,
+      "localized": "Carter",
+      "romanized": "Carter",
+      "count": 362548
+    },
+    {
+      "id": "US-47",
+      "rank": 47,
+      "localized": "Phillips",
+      "romanized": "Phillips",
+      "count": 351848
+    },
+    {
+      "id": "US-48",
+      "rank": 48,
+      "localized": "Evans",
+      "romanized": "Evans",
+      "count": 342237
+    },
+    {
+      "id": "US-49",
+      "rank": 49,
+      "localized": "Turner",
+      "romanized": "Turner",
+      "count": 335663
+    },
+    {
+      "id": "US-50",
+      "rank": 50,
+      "localized": "Torres",
+      "romanized": "Torres",
+      "count": 325169
+    },
+    {
+      "id": "US-51",
+      "rank": 51,
+      "localized": "Parker",
+      "romanized": "Parker",
+      "count": 324246
+    },
+    {
+      "id": "US-52",
+      "rank": 52,
+      "localized": "Collins",
+      "romanized": "Collins",
+      "count": 317848
+    },
+    {
+      "id": "US-53",
+      "rank": 53,
+      "localized": "Edwards",
+      "romanized": "Edwards",
+      "count": 317070
+    },
+    {
+      "id": "US-54",
+      "rank": 54,
+      "localized": "Stewart",
+      "romanized": "Stewart",
+      "count": 312899
+    },
+    {
+      "id": "US-55",
+      "rank": 55,
+      "localized": "Flores",
+      "romanized": "Flores",
+      "count": 312615
+    },
+    {
+      "id": "US-56",
+      "rank": 56,
+      "localized": "Morris",
+      "romanized": "Morris",
+      "count": 311754
+    },
+    {
+      "id": "US-57",
+      "rank": 57,
+      "localized": "Nguyen",
+      "romanized": "Nguyen",
+      "count": 310125
+    },
+    {
+      "id": "US-58",
+      "rank": 58,
+      "localized": "Murphy",
+      "romanized": "Murphy",
+      "count": 300501
+    },
+    {
+      "id": "US-59",
+      "rank": 59,
+      "localized": "Rivera",
+      "romanized": "Rivera",
+      "count": 299463
+    },
+    {
+      "id": "US-60",
+      "rank": 60,
+      "localized": "Cook",
+      "romanized": "Cook",
+      "count": 294795
+    },
+    {
+      "id": "US-61",
+      "rank": 61,
+      "localized": "Rogers",
+      "romanized": "Rogers",
+      "count": 294403
+    },
+    {
+      "id": "US-62",
+      "rank": 62,
+      "localized": "Morgan",
+      "romanized": "Morgan",
+      "count": 276400
+    },
+    {
+      "id": "US-63",
+      "rank": 63,
+      "localized": "Peterson",
+      "romanized": "Peterson",
+      "count": 275041
+    },
+    {
+      "id": "US-64",
+      "rank": 64,
+      "localized": "Cooper",
+      "romanized": "Cooper",
+      "count": 270097
+    },
+    {
+      "id": "US-65",
+      "rank": 65,
+      "localized": "Reed",
+      "romanized": "Reed",
+      "count": 267443
+    },
+    {
+      "id": "US-66",
+      "rank": 66,
+      "localized": "Bailey",
+      "romanized": "Bailey",
+      "count": 265916
+    },
+    {
+      "id": "US-67",
+      "rank": 67,
+      "localized": "Bell",
+      "romanized": "Bell",
+      "count": 264752
+    },
+    {
+      "id": "US-68",
+      "rank": 68,
+      "localized": "Gomez",
+      "romanized": "Gomez",
+      "count": 263590
+    },
+    {
+      "id": "US-69",
+      "rank": 69,
+      "localized": "Kelly",
+      "romanized": "Kelly",
+      "count": 260385
+    },
+    {
+      "id": "US-70",
+      "rank": 70,
+      "localized": "Howard",
+      "romanized": "Howard",
+      "count": 254779
+    },
+    {
+      "id": "US-71",
+      "rank": 71,
+      "localized": "Ward",
+      "romanized": "Ward",
+      "count": 254121
+    },
+    {
+      "id": "US-72",
+      "rank": 72,
+      "localized": "Cox",
+      "romanized": "Cox",
+      "count": 253771
+    },
+    {
+      "id": "US-73",
+      "rank": 73,
+      "localized": "Diaz",
+      "romanized": "Diaz",
+      "count": 251772
+    },
+    {
+      "id": "US-74",
+      "rank": 74,
+      "localized": "Richardson",
+      "romanized": "Richardson",
+      "count": 249533
+    },
+    {
+      "id": "US-75",
+      "rank": 75,
+      "localized": "Wood",
+      "romanized": "Wood",
+      "count": 247299
+    },
+    {
+      "id": "US-76",
+      "rank": 76,
+      "localized": "Watson",
+      "romanized": "Watson",
+      "count": 242432
+    },
+    {
+      "id": "US-77",
+      "rank": 77,
+      "localized": "Brooks",
+      "romanized": "Brooks",
+      "count": 240751
+    },
+    {
+      "id": "US-78",
+      "rank": 78,
+      "localized": "Bennett",
+      "romanized": "Bennett",
+      "count": 239055
+    },
+    {
+      "id": "US-79",
+      "rank": 79,
+      "localized": "Gray",
+      "romanized": "Gray",
+      "count": 236713
+    },
+    {
+      "id": "US-80",
+      "rank": 80,
+      "localized": "James",
+      "romanized": "James",
+      "count": 233224
+    },
+    {
+      "id": "US-81",
+      "rank": 81,
+      "localized": "Reyes",
+      "romanized": "Reyes",
+      "count": 232511
+    },
+    {
+      "id": "US-82",
+      "rank": 82,
+      "localized": "Cruz",
+      "romanized": "Cruz",
+      "count": 231065
+    },
+    {
+      "id": "US-83",
+      "rank": 83,
+      "localized": "Hughes",
+      "romanized": "Hughes",
+      "count": 229390
+    },
+    {
+      "id": "US-84",
+      "rank": 84,
+      "localized": "Price",
+      "romanized": "Price",
+      "count": 228756
+    },
+    {
+      "id": "US-85",
+      "rank": 85,
+      "localized": "Myers",
+      "romanized": "Myers",
+      "count": 224824
+    },
+    {
+      "id": "US-86",
+      "rank": 86,
+      "localized": "Long",
+      "romanized": "Long",
+      "count": 223494
+    },
+    {
+      "id": "US-87",
+      "rank": 87,
+      "localized": "Foster",
+      "romanized": "Foster",
+      "count": 221040
+    },
+    {
+      "id": "US-88",
+      "rank": 88,
+      "localized": "Sanders",
+      "romanized": "Sanders",
+      "count": 220902
+    },
+    {
+      "id": "US-89",
+      "rank": 89,
+      "localized": "Ross",
+      "romanized": "Ross",
+      "count": 219961
+    },
+    {
+      "id": "US-90",
+      "rank": 90,
+      "localized": "Morales",
+      "romanized": "Morales",
+      "count": 217642
+    },
+    {
+      "id": "US-91",
+      "rank": 91,
+      "localized": "Powell",
+      "romanized": "Powell",
+      "count": 216553
+    },
+    {
+      "id": "US-92",
+      "rank": 92,
+      "localized": "Sullivan",
+      "romanized": "Sullivan",
+      "count": 215640
+    },
+    {
+      "id": "US-93",
+      "rank": 93,
+      "localized": "Russell",
+      "romanized": "Russell",
+      "count": 215432
+    },
+    {
+      "id": "US-94",
+      "rank": 94,
+      "localized": "Ortiz",
+      "romanized": "Ortiz",
+      "count": 214683
+    },
+    {
+      "id": "US-95",
+      "rank": 95,
+      "localized": "Jenkins",
+      "romanized": "Jenkins",
+      "count": 213737
+    },
+    {
+      "id": "US-96",
+      "rank": 96,
+      "localized": "Gutierrez",
+      "romanized": "Gutierrez",
+      "count": 212905
+    },
+    {
+      "id": "US-97",
+      "rank": 97,
+      "localized": "Perry",
+      "romanized": "Perry",
+      "count": 212644
+    },
+    {
+      "id": "US-98",
+      "rank": 98,
+      "localized": "Butler",
+      "romanized": "Butler",
+      "count": 210879
+    },
+    {
+      "id": "US-99",
+      "rank": 99,
+      "localized": "Barnes",
+      "romanized": "Barnes",
+      "count": 210426
+    },
+    {
+      "id": "US-100",
+      "rank": 100,
+      "localized": "Fisher",
+      "romanized": "Fisher",
+      "count": 210279
+    }
+  ],
+  "meta": {
+    "title": "United States — Popular Surnames - Free Download",
+    "description": "Most common family names (surnames) reported in United States, ranked by frequency, with localized and romanized spellings and population counts where available. Compiled from Wikipedia 'Lists of most common surnames' (accessed Jul 2023) via the sigpwned/popular-names-by-country-dataset project. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "United States — Popular Surnames | ListBase",
+    "seo_description": "Download United States — Popular Surnames dataset with 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records with 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/sigpwned/popular-names-by-country-dataset"
+    ]
+  }
+}

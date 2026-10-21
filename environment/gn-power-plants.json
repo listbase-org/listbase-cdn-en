@@ -1,0 +1,268 @@
+{
+  "id": "gn-power-plants",
+  "name": "Guinea — Power Plants",
+  "title": "Guinea — Power Plants",
+  "description": "Power plants located in Guinea from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Kaleta",
+      "gppd_idnr": "WRI1023083",
+      "capacity_mw": 240,
+      "latitude": 10.4627,
+      "longitude": -13.2765,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 842.88; 2014: 757.04; 2015: 814.65; 2016: 637.96; 2017: 819.75",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Garafiri",
+      "gppd_idnr": "WRI1023081",
+      "capacity_mw": 75,
+      "latitude": 10.5283,
+      "longitude": -12.6635,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 274.18; 2014: 264.24; 2015: 252.47; 2016: 226.68; 2017: 264.67",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tombo",
+      "gppd_idnr": "WRI1023087",
+      "capacity_mw": 49.25,
+      "latitude": 9.5092,
+      "longitude": -13.7122,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Boke",
+      "gppd_idnr": "WRI1023079",
+      "capacity_mw": 45,
+      "latitude": 10.9333,
+      "longitude": -14.3,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 165.02; 2014: 158.23; 2015: 149.79; 2016: 115.55; 2017: 159.05",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Grandes Chutes",
+      "gppd_idnr": "WRI1023082",
+      "capacity_mw": 28.32,
+      "latitude": 9.9211,
+      "longitude": -13.0986,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 96.99; 2014: 83.38; 2015: 92.77; 2016: 73.33; 2017: 83.38",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kamsar",
+      "gppd_idnr": "WRI1023084",
+      "capacity_mw": 26.28,
+      "latitude": 10.6667,
+      "longitude": -14.6,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sangaredi",
+      "gppd_idnr": "WRI1023085",
+      "capacity_mw": 16.57,
+      "latitude": 11.097,
+      "longitude": -13.79,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Donkea",
+      "gppd_idnr": "WRI1023080",
+      "capacity_mw": 15,
+      "latitude": 9.95,
+      "longitude": -12.995,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 44.8; 2014: 37.93; 2015: 43.9; 2016: 33.91; 2017: 37.93",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tinkisso",
+      "gppd_idnr": "WRI1023086",
+      "capacity_mw": 15,
+      "latitude": 10.75,
+      "longitude": -11.1167,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 45.72; 2014: 38.85; 2015: 43.58; 2016: 28.67; 2017: 38.85",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Guinea — Power Plants - Free Download",
+    "description": "Power plants located in Guinea from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Guinea — Power Plants | ListBase",
+    "seo_description": "Download Guinea — Power Plants dataset with 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

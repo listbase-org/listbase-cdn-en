@@ -1,0 +1,775 @@
+{
+  "id": "world-cup-2014-matches",
+  "name": "FIFA World Cup 2014 — Matches",
+  "title": "FIFA World Cup 2014 — Matches",
+  "description": "All 64 matches of the FIFA World Cup 2014, with round, date, teams and full-time/half-time scores.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/world-cup.json",
+  "source_url": "https://github.com/openfootball/world-cup.json",
+  "updated": "2026-04",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "round",
+      "label": "Round",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "team1",
+      "label": "Team1",
+      "type": "string"
+    },
+    {
+      "key": "team2",
+      "label": "Team2",
+      "type": "string"
+    },
+    {
+      "key": "score_ft",
+      "label": "Score Ft",
+      "type": "string"
+    },
+    {
+      "key": "team1_ft",
+      "label": "Team1 Ft",
+      "type": "number"
+    },
+    {
+      "key": "team2_ft",
+      "label": "Team2 Ft",
+      "type": "number"
+    },
+    {
+      "key": "team1_ht",
+      "label": "Team1 Ht",
+      "type": "number"
+    },
+    {
+      "key": "team2_ht",
+      "label": "Team2 Ht",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "round": "Matchday 1",
+      "date": "2014-06-12",
+      "team1": "Brazil",
+      "team2": "Croatia",
+      "score_ft": "3-1",
+      "team1_ft": 3,
+      "team2_ft": 1,
+      "team1_ht": 1,
+      "team2_ht": 1
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2014-06-13",
+      "team1": "Mexico",
+      "team2": "Cameroon",
+      "score_ft": "1-0",
+      "team1_ft": 1,
+      "team2_ft": 0,
+      "team1_ht": 0,
+      "team2_ht": 0
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2014-06-17",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "score_ft": "0-0",
+      "team1_ft": 0,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2014-06-18",
+      "team1": "Cameroon",
+      "team2": "Croatia",
+      "score_ft": "0-4",
+      "team1_ft": 0,
+      "team2_ft": 4,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2014-06-23",
+      "team1": "Cameroon",
+      "team2": "Brazil",
+      "score_ft": "1-4",
+      "team1_ft": 1,
+      "team2_ft": 4,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2014-06-23",
+      "team1": "Croatia",
+      "team2": "Mexico",
+      "score_ft": "1-3",
+      "team1_ft": 1,
+      "team2_ft": 3,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2014-06-13",
+      "team1": "Spain",
+      "team2": "Netherlands",
+      "score_ft": "1-5",
+      "team1_ft": 1,
+      "team2_ft": 5,
+      "team1_ht": 1,
+      "team2_ht": 1
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2014-06-13",
+      "team1": "Chile",
+      "team2": "Australia",
+      "score_ft": "3-1",
+      "team1_ft": 3,
+      "team2_ft": 1,
+      "team1_ht": 2,
+      "team2_ht": 1
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2014-06-18",
+      "team1": "Australia",
+      "team2": "Netherlands",
+      "score_ft": "2-3",
+      "team1_ft": 2,
+      "team2_ft": 3,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2014-06-18",
+      "team1": "Spain",
+      "team2": "Chile",
+      "score_ft": "0-2",
+      "team1_ft": 0,
+      "team2_ft": 2,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2014-06-23",
+      "team1": "Australia",
+      "team2": "Spain",
+      "score_ft": "0-3",
+      "team1_ft": 0,
+      "team2_ft": 3,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2014-06-23",
+      "team1": "Netherlands",
+      "team2": "Chile",
+      "score_ft": "2-0",
+      "team1_ft": 2,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2014-06-14",
+      "team1": "Colombia",
+      "team2": "Greece",
+      "score_ft": "3-0",
+      "team1_ft": 3,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2014-06-14",
+      "team1": "Côte d'Ivoire",
+      "team2": "Japan",
+      "score_ft": "2-1",
+      "team1_ft": 2,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2014-06-19",
+      "team1": "Colombia",
+      "team2": "Côte d'Ivoire",
+      "score_ft": "2-1",
+      "team1_ft": 2,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2014-06-19",
+      "team1": "Japan",
+      "team2": "Greece",
+      "score_ft": "0-0",
+      "team1_ft": 0,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2014-06-24",
+      "team1": "Japan",
+      "team2": "Colombia",
+      "score_ft": "1-4",
+      "team1_ft": 1,
+      "team2_ft": 4,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2014-06-24",
+      "team1": "Greece",
+      "team2": "Côte d'Ivoire",
+      "score_ft": "2-1",
+      "team1_ft": 2,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2014-06-14",
+      "team1": "Uruguay",
+      "team2": "Costa Rica",
+      "score_ft": "1-3",
+      "team1_ft": 1,
+      "team2_ft": 3,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2014-06-14",
+      "team1": "England",
+      "team2": "Italy",
+      "score_ft": "1-2",
+      "team1_ft": 1,
+      "team2_ft": 2,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2014-06-19",
+      "team1": "Uruguay",
+      "team2": "England",
+      "score_ft": "2-1",
+      "team1_ft": 2,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2014-06-20",
+      "team1": "Italy",
+      "team2": "Costa Rica",
+      "score_ft": "0-1",
+      "team1_ft": 0,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2014-06-24",
+      "team1": "Italy",
+      "team2": "Uruguay",
+      "score_ft": "0-1",
+      "team1_ft": 0,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2014-06-24",
+      "team1": "Costa Rica",
+      "team2": "England",
+      "score_ft": "0-0",
+      "team1_ft": 0,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2014-06-15",
+      "team1": "Switzerland",
+      "team2": "Ecuador",
+      "score_ft": "2-1",
+      "team1_ft": 2,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2014-06-15",
+      "team1": "France",
+      "team2": "Honduras",
+      "score_ft": "3-0",
+      "team1_ft": 3,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2014-06-20",
+      "team1": "Switzerland",
+      "team2": "France",
+      "score_ft": "2-5",
+      "team1_ft": 2,
+      "team2_ft": 5,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2014-06-20",
+      "team1": "Honduras",
+      "team2": "Ecuador",
+      "score_ft": "1-2",
+      "team1_ft": 1,
+      "team2_ft": 2,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2014-06-25",
+      "team1": "Honduras",
+      "team2": "Switzerland",
+      "score_ft": "0-3",
+      "team1_ft": 0,
+      "team2_ft": 3,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2014-06-25",
+      "team1": "Ecuador",
+      "team2": "France",
+      "score_ft": "0-0",
+      "team1_ft": 0,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2014-06-15",
+      "team1": "Argentina",
+      "team2": "Bosnia-Herzegovina",
+      "score_ft": "2-1",
+      "team1_ft": 2,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2014-06-16",
+      "team1": "Iran",
+      "team2": "Nigeria",
+      "score_ft": "0-0",
+      "team1_ft": 0,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2014-06-21",
+      "team1": "Argentina",
+      "team2": "Iran",
+      "score_ft": "1-0",
+      "team1_ft": 1,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2014-06-21",
+      "team1": "Nigeria",
+      "team2": "Bosnia-Herzegovina",
+      "score_ft": "1-0",
+      "team1_ft": 1,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2014-06-25",
+      "team1": "Nigeria",
+      "team2": "Argentina",
+      "score_ft": "2-3",
+      "team1_ft": 2,
+      "team2_ft": 3,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2014-06-25",
+      "team1": "Bosnia-Herzegovina",
+      "team2": "Iran",
+      "score_ft": "3-1",
+      "team1_ft": 3,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2014-06-16",
+      "team1": "Germany",
+      "team2": "Portugal",
+      "score_ft": "4-0",
+      "team1_ft": 4,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2014-06-16",
+      "team1": "Ghana",
+      "team2": "USA",
+      "score_ft": "1-2",
+      "team1_ft": 1,
+      "team2_ft": 2,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2014-06-21",
+      "team1": "Germany",
+      "team2": "Ghana",
+      "score_ft": "2-2",
+      "team1_ft": 2,
+      "team2_ft": 2,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2014-06-22",
+      "team1": "USA",
+      "team2": "Portugal",
+      "score_ft": "2-2",
+      "team1_ft": 2,
+      "team2_ft": 2,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2014-06-26",
+      "team1": "USA",
+      "team2": "Germany",
+      "score_ft": "0-1",
+      "team1_ft": 0,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2014-06-26",
+      "team1": "Portugal",
+      "team2": "Ghana",
+      "score_ft": "2-1",
+      "team1_ft": 2,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2014-06-17",
+      "team1": "Belgium",
+      "team2": "Algeria",
+      "score_ft": "2-1",
+      "team1_ft": 2,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2014-06-17",
+      "team1": "Russia",
+      "team2": "South Korea",
+      "score_ft": "1-1",
+      "team1_ft": 1,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2014-06-22",
+      "team1": "Belgium",
+      "team2": "Russia",
+      "score_ft": "1-0",
+      "team1_ft": 1,
+      "team2_ft": 0,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2014-06-22",
+      "team1": "South Korea",
+      "team2": "Algeria",
+      "score_ft": "2-4",
+      "team1_ft": 2,
+      "team2_ft": 4,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2014-06-26",
+      "team1": "South Korea",
+      "team2": "Belgium",
+      "score_ft": "0-1",
+      "team1_ft": 0,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2014-06-26",
+      "team1": "Algeria",
+      "team2": "Russia",
+      "score_ft": "1-1",
+      "team1_ft": 1,
+      "team2_ft": 1,
+      "team1_ht": "",
+      "team2_ht": ""
+    },
+    {
+      "round": "Round of 16",
+      "date": "2014-06-28",
+      "team1": "Brazil",
+      "team2": "Chile",
+      "score_ft": "1-1",
+      "team1_ft": 1,
+      "team2_ft": 1,
+      "team1_ht": 1,
+      "team2_ht": 1
+    },
+    {
+      "round": "Round of 16",
+      "date": "2014-06-28",
+      "team1": "Colombia",
+      "team2": "Uruguay",
+      "score_ft": "2-0",
+      "team1_ft": 2,
+      "team2_ft": 0,
+      "team1_ht": 1,
+      "team2_ht": 0
+    },
+    {
+      "round": "Round of 16",
+      "date": "2014-06-29",
+      "team1": "Netherlands",
+      "team2": "Mexico",
+      "score_ft": "2-1",
+      "team1_ft": 2,
+      "team2_ft": 1,
+      "team1_ht": 0,
+      "team2_ht": 0
+    },
+    {
+      "round": "Round of 16",
+      "date": "2014-06-29",
+      "team1": "Costa Rica",
+      "team2": "Greece",
+      "score_ft": "1-1",
+      "team1_ft": 1,
+      "team2_ft": 1,
+      "team1_ht": 0,
+      "team2_ht": 0
+    },
+    {
+      "round": "Round of 16",
+      "date": "2014-06-30",
+      "team1": "France",
+      "team2": "Nigeria",
+      "score_ft": "2-0",
+      "team1_ft": 2,
+      "team2_ft": 0,
+      "team1_ht": 0,
+      "team2_ht": 0
+    },
+    {
+      "round": "Round of 16",
+      "date": "2014-06-30",
+      "team1": "Germany",
+      "team2": "Algeria",
+      "score_ft": "0-0",
+      "team1_ft": 0,
+      "team2_ft": 0,
+      "team1_ht": 0,
+      "team2_ht": 0
+    },
+    {
+      "round": "Round of 16",
+      "date": "2014-07-01",
+      "team1": "Argentina",
+      "team2": "Switzerland",
+      "score_ft": "0-0",
+      "team1_ft": 0,
+      "team2_ft": 0,
+      "team1_ht": 0,
+      "team2_ht": 0
+    },
+    {
+      "round": "Round of 16",
+      "date": "2014-07-01",
+      "team1": "Belgium",
+      "team2": "USA",
+      "score_ft": "0-0",
+      "team1_ft": 0,
+      "team2_ft": 0,
+      "team1_ht": 0,
+      "team2_ht": 0
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "2014-07-04",
+      "team1": "France",
+      "team2": "Germany",
+      "score_ft": "0-1",
+      "team1_ft": 0,
+      "team2_ft": 1,
+      "team1_ht": 0,
+      "team2_ht": 1
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "2014-07-04",
+      "team1": "Brazil",
+      "team2": "Colombia",
+      "score_ft": "2-1",
+      "team1_ft": 2,
+      "team2_ft": 1,
+      "team1_ht": 1,
+      "team2_ht": 0
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "2014-07-05",
+      "team1": "Argentina",
+      "team2": "Belgium",
+      "score_ft": "1-0",
+      "team1_ft": 1,
+      "team2_ft": 0,
+      "team1_ht": 1,
+      "team2_ht": 0
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "2014-07-05",
+      "team1": "Netherlands",
+      "team2": "Costa Rica",
+      "score_ft": "0-0",
+      "team1_ft": 0,
+      "team2_ft": 0,
+      "team1_ht": 0,
+      "team2_ht": 0
+    },
+    {
+      "round": "Semi-finals",
+      "date": "2014-07-08",
+      "team1": "Brazil",
+      "team2": "Germany",
+      "score_ft": "1-7",
+      "team1_ft": 1,
+      "team2_ft": 7,
+      "team1_ht": 0,
+      "team2_ht": 5
+    },
+    {
+      "round": "Semi-finals",
+      "date": "2014-07-09",
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "score_ft": "0-0",
+      "team1_ft": 0,
+      "team2_ft": 0,
+      "team1_ht": 0,
+      "team2_ht": 0
+    },
+    {
+      "round": "Match for third place",
+      "date": "2014-07-12",
+      "team1": "Brazil",
+      "team2": "Netherlands",
+      "score_ft": "0-3",
+      "team1_ft": 0,
+      "team2_ft": 3,
+      "team1_ht": 0,
+      "team2_ht": 2
+    },
+    {
+      "round": "Final",
+      "date": "2014-07-13",
+      "team1": "Germany",
+      "team2": "Argentina",
+      "score_ft": "0-0",
+      "team1_ft": 0,
+      "team2_ft": 0,
+      "team1_ht": 0,
+      "team2_ht": 0
+    }
+  ],
+  "meta": {
+    "title": "FIFA World Cup 2014 — Matches - Free Download",
+    "description": "All 64 matches of the FIFA World Cup 2014, with round, date, teams and full-time/half-time scores. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FIFA World Cup 2014 — Matches | ListBase",
+    "seo_description": "Download FIFA World Cup 2014 — Matches — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/world-cup.json"
+    ]
+  }
+}

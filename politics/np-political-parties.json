@@ -1,0 +1,286 @@
+{
+  "id": "np-political-parties",
+  "name": "Nepal — Political Parties",
+  "title": "Nepal — Political Parties",
+  "description": "Political parties of Nepal from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3759,
+      "name_short": "UCPNM",
+      "name": "Communist Party of Nepal (Maoist)",
+      "name_english": "Communist Party of Nepal (Maoist)",
+      "name_other": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)",
+      "year_first": 1994,
+      "year_last": 2008,
+      "share": 30.5,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Nepal_(Maoist_Centre)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3756,
+      "name_short": "NC",
+      "name": "Nepali Congress",
+      "name_english": "Nepali Congress",
+      "name_other": "नेपाली कांग्रेस",
+      "year_first": 1947,
+      "year_last": 2008,
+      "share": 22.8,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nepali_Congress",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3755,
+      "name_short": "CPN-UML",
+      "name": "Communist Party of Nepal (Unified-Marxist- Leninist)",
+      "name_english": "Communist Party of Nepal (Unified Marxist–Leninist)",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": 2008,
+      "share": 21.6,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Nepal_(Unified_Marxist%E2%80%93Leninist)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3753,
+      "name_short": "RPP",
+      "name": "Rastriya Prajatantra Party",
+      "name_english": "National Democratic Party",
+      "name_other": "Nepali: राष्ट्रिय प्रजातन्त्र पार्टी",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 17.9,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rastriya_Prajatantra_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6978,
+      "name_short": "NRGP",
+      "name": "Nepal Rashtrabadi Gorkha Parishad",
+      "name_english": "Nepal Nationalist Gorkha Council",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": "",
+      "share": 17.1,
+      "share_year": 1959,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nepal_Rashtrabadi_Gorkha_Parishad",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3754,
+      "name_short": "MJF",
+      "name": "Madeshi Jana Adhikar Forum Nepal",
+      "name_english": "Madeshi People's Rights Forum Nepal",
+      "name_other": "",
+      "year_first": 2008,
+      "year_last": 2008,
+      "share": 6.2,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Madhesi_Jana_Adhikar_Forum,_Nepal",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6724,
+      "name_short": "SJM",
+      "name": "Sanyukta Janamorcha Nepal",
+      "name_english": "United People's Front of Nepal",
+      "name_other": "Nepali: संयुक्त जनमोर्चा नेपाल",
+      "year_first": 1991,
+      "year_last": 2002,
+      "share": 5,
+      "share_year": 1991,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_People%27s_Front_of_Nepal",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7991,
+      "name_short": "RJPN",
+      "name": "Rastriya Janata Party Nepal",
+      "name_english": "National People's Party Nepal",
+      "name_other": "Nepali: राष्ट्रिय जनता पार्टी",
+      "year_first": 2017,
+      "year_last": "",
+      "share": 5,
+      "share_year": 2017,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rastriya_Janata_Party_Nepal",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7625,
+      "name_short": "FSFN",
+      "name": "संघीय समाजवादी फोरम, नेपाल",
+      "name_english": "Federal Socialist Forum, Nepal",
+      "name_other": "",
+      "year_first": 2015,
+      "year_last": 2019,
+      "share": 4.9,
+      "share_year": 2017,
+      "wikipedia": "https://en.wikipedia.org/wiki/Federal_Socialist_Forum,_Nepal",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3758,
+      "name_short": "TMLP",
+      "name": "Terai-Madesh Loktantrik Party",
+      "name_english": "Terai-Madesh Loktantrik Party",
+      "name_other": "तराई-मधेश लोकतान्त्रिक पार्टी",
+      "year_first": 2008,
+      "year_last": 2008,
+      "share": 3.4,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Tarai-Madhesh_Loktantrik_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6412,
+      "name_short": "NSP",
+      "name": "Nepal Sadbhavana Party",
+      "name_english": "Nepal Sadbhavana Party",
+      "name_other": "Nepali: नेपाल सदभावना पार्टी",
+      "year_first": 1990,
+      "year_last": 2007,
+      "share": 3.2,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nepal_Sadbhawana_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6411,
+      "name_short": "NWPP",
+      "name": "Nepal Majdoor Kisan Party",
+      "name_english": "Nepal Workers’ and Peasants’ Party",
+      "name_other": "Nepali: नेपाल मजदुर किसान पार्टी, abbreviated नेमकिपा",
+      "year_first": 1975,
+      "year_last": "",
+      "share": 1.2,
+      "share_year": 1991,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nepal_Workers_Peasants_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7626,
+      "name_short": "NPF",
+      "name": "Rastriya Janamorcha",
+      "name_english": "National People's Front",
+      "name_other": "Nepali: राष्ट्रिय जनमोर्चा",
+      "year_first": 1999,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rastriya_Janamorcha",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Nepal — Political Parties - Free Download",
+    "description": "Political parties of Nepal from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nepal — Political Parties | ListBase",
+    "seo_description": "Download Nepal — Political Parties dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

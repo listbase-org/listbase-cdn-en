@@ -1,0 +1,316 @@
+{
+  "id": "sn-airports-iata",
+  "name": "Senegal — IATA Airports",
+  "title": "Senegal — IATA Airports",
+  "description": "Airports with IATA codes in Senegal: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BXE",
+      "icao_code": "GOTB",
+      "name": "Bakel",
+      "city_name_list": "Bakel",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Tambacounda",
+      "latitude": 14.847256,
+      "longitude": -12.468264,
+      "elevation": "",
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bakel_Airport"
+    },
+    {
+      "iata_code": "CSK",
+      "icao_code": "GOGS",
+      "name": "Cap Skirring Airport",
+      "city_name_list": "Cap Skirring",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Ziguinchor",
+      "latitude": 12.39064,
+      "longitude": -16.74342,
+      "elevation": 15,
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Cap_Skirring_Airport"
+    },
+    {
+      "iata_code": "DKR",
+      "icao_code": "GOOY",
+      "name": "Léopold Sédar Senghor International Airport",
+      "city_name_list": "Dakar",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Dakar",
+      "latitude": 14.739708,
+      "longitude": -17.490225,
+      "elevation": 25,
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/L%C3%A9opold_S%C3%A9dar_Senghor_International_Airport"
+    },
+    {
+      "iata_code": "DSS",
+      "icao_code": "GOBD",
+      "name": "Blaise Diagne International Airport",
+      "city_name_list": "Dakar=Thiès",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Thies",
+      "latitude": 14.67111,
+      "longitude": -17.06694,
+      "elevation": "",
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Blaise_Diagne_International_Airport"
+    },
+    {
+      "iata_code": "KDA",
+      "icao_code": "GODK",
+      "name": "Kolda North Airport",
+      "city_name_list": "Kolda",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kolda",
+      "latitude": 12.899,
+      "longitude": -14.96806,
+      "elevation": 10,
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kolda_North_Airport"
+    },
+    {
+      "iata_code": "KGG",
+      "icao_code": "GOTK",
+      "name": "Kédougou",
+      "city_name_list": "Kédougou",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kedougou",
+      "latitude": 12.572292,
+      "longitude": -12.220333,
+      "elevation": "",
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/K%C3%A9dougou_Airport"
+    },
+    {
+      "iata_code": "KLC",
+      "icao_code": "GOOK",
+      "name": "Kaolack Airport",
+      "city_name_list": "Kaolack",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kaolack",
+      "latitude": 14.14678,
+      "longitude": -16.0518,
+      "elevation": "",
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kaolack_Airport"
+    },
+    {
+      "iata_code": "MAX",
+      "icao_code": "GOSM",
+      "name": "Ouro Sogui Airport",
+      "city_name_list": "Matam",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Saint-Louis",
+      "latitude": 15.59353,
+      "longitude": -13.32315,
+      "elevation": 15,
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ouro_Sogui_Airport"
+    },
+    {
+      "iata_code": "NIK",
+      "icao_code": "",
+      "name": "Niokolo-Koba",
+      "city_name_list": "Niokolo-Koba",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Tambacounda",
+      "latitude": 13.07,
+      "longitude": -12.72,
+      "elevation": "",
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Niokolo-Koba_Airport"
+    },
+    {
+      "iata_code": "POD",
+      "icao_code": "GOSP",
+      "name": "Podor",
+      "city_name_list": "Podor",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Saint-Louis",
+      "latitude": 16.67,
+      "longitude": -14.97,
+      "elevation": 6,
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Podor_Airport"
+    },
+    {
+      "iata_code": "RDT",
+      "icao_code": "GOSR",
+      "name": "Richard Toll",
+      "city_name_list": "Richard-Toll",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Saint-Louis",
+      "latitude": 16.43333,
+      "longitude": -15.65,
+      "elevation": "",
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Richard_Toll_Airport"
+    },
+    {
+      "iata_code": "SMY",
+      "icao_code": "GOTS",
+      "name": "Simenti Airport",
+      "city_name_list": "Simenti",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Tambacounda",
+      "latitude": 13.04645,
+      "longitude": -13.29535,
+      "elevation": "",
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Simenti_Airport"
+    },
+    {
+      "iata_code": "TUD",
+      "icao_code": "GOTT",
+      "name": "Tambacounda",
+      "city_name_list": "Tambacounda",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Tambacounda",
+      "latitude": 13.736817,
+      "longitude": -13.653122,
+      "elevation": "",
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tambacounda_Airport"
+    },
+    {
+      "iata_code": "XLS",
+      "icao_code": "GOSS",
+      "name": "Saint-Louis",
+      "city_name_list": "Saint-Louis",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Saint-Louis",
+      "latitude": 16.05076,
+      "longitude": -16.46317,
+      "elevation": 2,
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Saint-Louis_Airport"
+    },
+    {
+      "iata_code": "ZIG",
+      "icao_code": "GOGG",
+      "name": "Ziguinchor Airport",
+      "city_name_list": "Ziguinchor",
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Ziguinchor",
+      "latitude": 12.55569,
+      "longitude": -16.28268,
+      "elevation": "",
+      "timezone": "Africa/Dakar",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ziguinchor_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Senegal — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Senegal: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Senegal — IATA Airports | ListBase",
+    "seo_description": "Download Senegal — IATA Airports dataset with 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

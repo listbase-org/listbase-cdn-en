@@ -1,0 +1,250 @@
+{
+  "id": "bh-power-plants",
+  "name": "Bahrain — Power Plants",
+  "title": "Bahrain — Power Plants",
+  "description": "Power plants located in Bahrain from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alba Power Station",
+      "gppd_idnr": "WRI1023718",
+      "capacity_mw": 2204,
+      "latitude": 26.0945,
+      "longitude": 50.6008,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Aluminum Bahrain",
+      "source": "Aluminum Bahrain",
+      "url": "http://www.albasmelter.com/Range/OProducts/Pages/Power.aspx",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 14257.01",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Al Dur Power and Water",
+      "gppd_idnr": "WRI1023714",
+      "capacity_mw": 1540,
+      "latitude": 25.9714,
+      "longitude": 50.6076,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2012,
+      "owner": "Al Dur Power & Water Company",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 9961.79",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sitra Power an Water Station",
+      "gppd_idnr": "WRI1023717",
+      "capacity_mw": 1205,
+      "latitude": 26.1833,
+      "longitude": 50.6237,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 7794.78",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Hidd Power and Water station 1",
+      "gppd_idnr": "WRI1023712",
+      "capacity_mw": 963,
+      "latitude": 26.2223,
+      "longitude": 50.6621,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 1999,
+      "owner": "International Power PLC  Sumitomo Corporation  Suez Tractebel",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 6229.35",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Al Ezzel Power Station",
+      "gppd_idnr": "WRI1023713",
+      "capacity_mw": 962,
+      "latitude": 26.2175,
+      "longitude": 50.6595,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2007,
+      "owner": "Gulf Investment Corporation  Suez Tractebel  Pension Fund of Bahrain",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 6222.88",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Rifa'a Power Station",
+      "gppd_idnr": "WRI1023715",
+      "capacity_mw": 700,
+      "latitude": 26.1199,
+      "longitude": 50.5889,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 4528.09",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Hawar Power ad Water Station",
+      "gppd_idnr": "WRI1023716",
+      "capacity_mw": 7.3,
+      "latitude": 26.1981,
+      "longitude": 50.5919,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1985,
+      "owner": "",
+      "source": "Arab Union of Electricity",
+      "url": "http://www.auptde.org/NewsDetails.aspx?lang=en&NID=283",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0.04",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Awali",
+      "gppd_idnr": "WKS0063150",
+      "capacity_mw": 5,
+      "latitude": 26.1,
+      "longitude": 50.58,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 9.98; 2014: 10.37; 2015: 10.06; 2016: 10; 2017: 9.76",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Bahrain — Power Plants - Free Download",
+    "description": "Power plants located in Bahrain from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bahrain — Power Plants | ListBase",
+    "seo_description": "Download Bahrain — Power Plants dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

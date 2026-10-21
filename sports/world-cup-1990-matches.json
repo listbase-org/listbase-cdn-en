@@ -1,0 +1,586 @@
+{
+  "id": "world-cup-1990-matches",
+  "name": "FIFA World Cup 1990 Matches",
+  "title": "FIFA World Cup 1990 Matches",
+  "description": "All 52 matches from the 1990 FIFA World Cup (hosted by Italy) including teams, scores, groups, and venues.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/world-cup.json",
+  "source_url": "https://github.com/openfootball/world-cup.json",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "round",
+      "label": "Round",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "team1",
+      "label": "Team1",
+      "type": "string"
+    },
+    {
+      "key": "team2",
+      "label": "Team2",
+      "type": "string"
+    },
+    {
+      "key": "score_team1",
+      "label": "Score Team1",
+      "type": "number"
+    },
+    {
+      "key": "score_team2",
+      "label": "Score Team2",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "ground",
+      "label": "Ground",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-09",
+      "team1": "Italy",
+      "team2": "Austria",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group A",
+      "ground": "Stadio Olimpico, Rome"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-10",
+      "team1": "United States",
+      "team2": "Czechoslovakia",
+      "score_team1": 1,
+      "score_team2": 5,
+      "group": "Group A",
+      "ground": "Stadio Comunale, Florence"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1990-06-14",
+      "team1": "Italy",
+      "team2": "United States",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group A",
+      "ground": "Stadio Olimpico, Rome"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1990-06-15",
+      "team1": "Austria",
+      "team2": "Czechoslovakia",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group A",
+      "ground": "Stadio Comunale, Florence"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-19",
+      "team1": "Italy",
+      "team2": "Czechoslovakia",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group A",
+      "ground": "Stadio Olimpico, Rome"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-19",
+      "team1": "Austria",
+      "team2": "United States",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group A",
+      "ground": "Stadio Comunale, Florence"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-08",
+      "team1": "Argentina",
+      "team2": "Cameroon",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group B",
+      "ground": "San Siro, Milan"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-09",
+      "team1": "Soviet Union",
+      "team2": "Romania",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "Group B",
+      "ground": "Stadio San Nicola, Bari"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-13",
+      "team1": "Argentina",
+      "team2": "Soviet Union",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group B",
+      "ground": "Stadio San Paolo, Naples"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1990-06-14",
+      "team1": "Cameroon",
+      "team2": "Romania",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group B",
+      "ground": "Stadio San Nicola, Bari"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-18",
+      "team1": "Argentina",
+      "team2": "Romania",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group B",
+      "ground": "Stadio San Paolo, Naples"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-18",
+      "team1": "Cameroon",
+      "team2": "Soviet Union",
+      "score_team1": 0,
+      "score_team2": 4,
+      "group": "Group B",
+      "ground": "Stadio San Nicola, Bari"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-10",
+      "team1": "Brazil",
+      "team2": "Sweden",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group C",
+      "ground": "Stadio Delle Alpi, Turin"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-11",
+      "team1": "Costa Rica",
+      "team2": "Scotland",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group C",
+      "ground": "Stadio Luigi Ferraris, Genoa"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1990-06-16",
+      "team1": "Brazil",
+      "team2": "Costa Rica",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group C",
+      "ground": "Stadio Delle Alpi, Turin"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1990-06-16",
+      "team1": "Sweden",
+      "team2": "Scotland",
+      "score_team1": 1,
+      "score_team2": 2,
+      "group": "Group C",
+      "ground": "Stadio Luigi Ferraris, Genoa"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-20",
+      "team1": "Brazil",
+      "team2": "Scotland",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group C",
+      "ground": "Stadio Delle Alpi, Turin"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-20",
+      "team1": "Sweden",
+      "team2": "Costa Rica",
+      "score_team1": 1,
+      "score_team2": 2,
+      "group": "Group C",
+      "ground": "Stadio Luigi Ferraris, Genoa"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-09",
+      "team1": "United Arab Emirates",
+      "team2": "Colombia",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "Group D",
+      "ground": "Stadio Renato Dall'Ara, Bologna"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-10",
+      "team1": "West Germany",
+      "team2": "Yugoslavia",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "Group D",
+      "ground": "San Siro, Milan"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1990-06-14",
+      "team1": "Yugoslavia",
+      "team2": "Colombia",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group D",
+      "ground": "Stadio Renato Dall'Ara, Bologna"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1990-06-15",
+      "team1": "West Germany",
+      "team2": "United Arab Emirates",
+      "score_team1": 5,
+      "score_team2": 1,
+      "group": "Group D",
+      "ground": "San Siro, Milan"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-19",
+      "team1": "West Germany",
+      "team2": "Colombia",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group D",
+      "ground": "San Siro, Milan"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-19",
+      "team1": "Yugoslavia",
+      "team2": "United Arab Emirates",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "Group D",
+      "ground": "Stadio Renato Dall'Ara, Bologna"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-12",
+      "team1": "Belgium",
+      "team2": "South Korea",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group E",
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-13",
+      "team1": "Uruguay",
+      "team2": "Spain",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group E",
+      "ground": "Stadio Friuli, Udine"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1990-06-17",
+      "team1": "Belgium",
+      "team2": "Uruguay",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "Group E",
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1990-06-17",
+      "team1": "South Korea",
+      "team2": "Spain",
+      "score_team1": 1,
+      "score_team2": 3,
+      "group": "Group E",
+      "ground": "Stadio Friuli, Udine"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-21",
+      "team1": "Belgium",
+      "team2": "Spain",
+      "score_team1": 1,
+      "score_team2": 2,
+      "group": "Group E",
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-21",
+      "team1": "South Korea",
+      "team2": "Uruguay",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group E",
+      "ground": "Stadio Friuli, Udine"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-11",
+      "team1": "England",
+      "team2": "Ireland",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group F",
+      "ground": "Stadio Sant'Elia, Cagliari"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1990-06-12",
+      "team1": "Netherlands",
+      "team2": "Egypt",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group F",
+      "ground": "Stadio La Favorita, Palermo"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1990-06-16",
+      "team1": "England",
+      "team2": "Netherlands",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group F",
+      "ground": "Stadio Sant'Elia, Cagliari"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1990-06-17",
+      "team1": "Ireland",
+      "team2": "Egypt",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group F",
+      "ground": "Stadio La Favorita, Palermo"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-21",
+      "team1": "England",
+      "team2": "Egypt",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group F",
+      "ground": "Stadio Sant'Elia, Cagliari"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1990-06-21",
+      "team1": "Ireland",
+      "team2": "Netherlands",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group F",
+      "ground": "Stadio La Favorita, Palermo"
+    },
+    {
+      "round": "Round of 16",
+      "date": "1990-06-23",
+      "team1": "Cameroon",
+      "team2": "Colombia",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "",
+      "ground": "Stadio San Paolo, Naples"
+    },
+    {
+      "round": "Round of 16",
+      "date": "1990-06-23",
+      "team1": "Czechoslovakia",
+      "team2": "Costa Rica",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Stadio San Nicola, Bari"
+    },
+    {
+      "round": "Round of 16",
+      "date": "1990-06-24",
+      "team1": "Brazil",
+      "team2": "Argentina",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Stadio Delle Alpi, Turin"
+    },
+    {
+      "round": "Round of 16",
+      "date": "1990-06-24",
+      "team1": "West Germany",
+      "team2": "Netherlands",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "",
+      "ground": "San Siro, Milan"
+    },
+    {
+      "round": "Round of 16",
+      "date": "1990-06-25",
+      "team1": "Ireland",
+      "team2": "Romania",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "",
+      "ground": "Stadio Luigi Ferraris, Genoa"
+    },
+    {
+      "round": "Round of 16",
+      "date": "1990-06-25",
+      "team1": "Italy",
+      "team2": "Uruguay",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "",
+      "ground": "Stadio Olimpico, Rome"
+    },
+    {
+      "round": "Round of 16",
+      "date": "1990-06-26",
+      "team1": "Spain",
+      "team2": "Yugoslavia",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona"
+    },
+    {
+      "round": "Round of 16",
+      "date": "1990-06-26",
+      "team1": "England",
+      "team2": "Belgium",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "",
+      "ground": "Stadio Renato Dall'Ara, Bologna"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1990-06-30",
+      "team1": "Yugoslavia",
+      "team2": "Argentina",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "",
+      "ground": "Stadio Artemio Franchi, Florence"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1990-06-30",
+      "team1": "Italy",
+      "team2": "Ireland",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "",
+      "ground": "Stadio Olimpico, Rome"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1990-07-01",
+      "team1": "West Germany",
+      "team2": "Czechoslovakia",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "",
+      "ground": "San Siro, Milan"
+    },
+    {
+      "round": "Quarter-finals",
+      "date": "1990-07-01",
+      "team1": "England",
+      "team2": "Cameroon",
+      "score_team1": 2,
+      "score_team2": 2,
+      "group": "",
+      "ground": "Stadio San Paolo, Naples"
+    },
+    {
+      "round": "Semi-finals",
+      "date": "1990-07-03",
+      "team1": "Italy",
+      "team2": "Argentina",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Stadio San Paolo, Naples"
+    },
+    {
+      "round": "Semi-finals",
+      "date": "1990-07-04",
+      "team1": "West Germany",
+      "team2": "England",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Stadio delle Alpi, Turin"
+    },
+    {
+      "round": "Third place match",
+      "date": "1990-07-07",
+      "team1": "Italy",
+      "team2": "England",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Stadio San Nicola, Bari"
+    },
+    {
+      "round": "Final",
+      "date": "1990-07-08",
+      "team1": "West Germany",
+      "team2": "Argentina",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "",
+      "ground": "Stadio Olimpico, Rome"
+    }
+  ],
+  "meta": {
+    "title": "FIFA World Cup 1990 Matches - Free Download",
+    "description": "All 52 matches from the 1990 FIFA World Cup (hosted by Italy) including teams, scores, groups, and venues. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FIFA World Cup 1990 Matches | ListBase",
+    "seo_description": "Download FIFA World Cup 1990 Matches — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/world-cup.json"
+    ]
+  }
+}

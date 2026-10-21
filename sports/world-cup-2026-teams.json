@@ -1,0 +1,440 @@
+{
+  "id": "world-cup-2026-teams",
+  "name": "FIFA World Cup 2026 Teams",
+  "title": "FIFA World Cup 2026 Teams",
+  "description": "The 48 national teams qualified for the 2026 FIFA World Cup in USA/Canada/Mexico, with group, continent, and confederation.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/world-cup.json",
+  "source_url": "https://github.com/openfootball/world-cup.json",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fifa_code",
+      "label": "Fifa Code",
+      "type": "string"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "confederation",
+      "label": "Confederation",
+      "type": "string"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Mexico",
+      "fifa_code": "MEX",
+      "continent": "North America",
+      "group": "A",
+      "confederation": "CONCACAF",
+      "flag": "🇲🇽"
+    },
+    {
+      "name": "South Africa",
+      "fifa_code": "RSA",
+      "continent": "Africa",
+      "group": "A",
+      "confederation": "CAF",
+      "flag": "🇿🇦"
+    },
+    {
+      "name": "South Korea",
+      "fifa_code": "KOR",
+      "continent": "Asia",
+      "group": "A",
+      "confederation": "AFC",
+      "flag": "🇰🇷"
+    },
+    {
+      "name": "Czech Republic",
+      "fifa_code": "CZE",
+      "continent": "Europe",
+      "group": "A",
+      "confederation": "UEFA",
+      "flag": "🇨🇿"
+    },
+    {
+      "name": "Canada",
+      "fifa_code": "CAN",
+      "continent": "North America",
+      "group": "B",
+      "confederation": "CONCACAF",
+      "flag": "🇨🇦"
+    },
+    {
+      "name": "Bosnia & Herzegovina",
+      "fifa_code": "BIH",
+      "continent": "Europe",
+      "group": "B",
+      "confederation": "UEFA",
+      "flag": "🇧🇦"
+    },
+    {
+      "name": "Qatar",
+      "fifa_code": "QAT",
+      "continent": "Asia",
+      "group": "B",
+      "confederation": "AFC",
+      "flag": "🇶🇦"
+    },
+    {
+      "name": "Switzerland",
+      "fifa_code": "SUI",
+      "continent": "Europe",
+      "group": "B",
+      "confederation": "UEFA",
+      "flag": "🇨🇭"
+    },
+    {
+      "name": "Brazil",
+      "fifa_code": "BRA",
+      "continent": "South America",
+      "group": "C",
+      "confederation": "CONMEBOL",
+      "flag": "🇧🇷"
+    },
+    {
+      "name": "Morocco",
+      "fifa_code": "MAR",
+      "continent": "Africa",
+      "group": "C",
+      "confederation": "CAF",
+      "flag": "🇲🇦"
+    },
+    {
+      "name": "Haiti",
+      "fifa_code": "HAI",
+      "continent": "North America",
+      "group": "C",
+      "confederation": "CONCACAF",
+      "flag": "🇭🇹"
+    },
+    {
+      "name": "Scotland",
+      "fifa_code": "SCO",
+      "continent": "Europe",
+      "group": "C",
+      "confederation": "UEFA",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    {
+      "name": "USA",
+      "fifa_code": "USA",
+      "continent": "North America",
+      "group": "D",
+      "confederation": "CONCACAF",
+      "flag": "🇺🇸"
+    },
+    {
+      "name": "Paraguay",
+      "fifa_code": "PAR",
+      "continent": "South America",
+      "group": "D",
+      "confederation": "CONMEBOL",
+      "flag": "🇵🇾"
+    },
+    {
+      "name": "Australia",
+      "fifa_code": "AUS",
+      "continent": "Oceania",
+      "group": "D",
+      "confederation": "AFC",
+      "flag": "🇦🇺"
+    },
+    {
+      "name": "Turkey",
+      "fifa_code": "TUR",
+      "continent": "Europe",
+      "group": "D",
+      "confederation": "UEFA",
+      "flag": "🇹🇷"
+    },
+    {
+      "name": "Germany",
+      "fifa_code": "GER",
+      "continent": "Europe",
+      "group": "E",
+      "confederation": "UEFA",
+      "flag": "🇩🇪"
+    },
+    {
+      "name": "Curaçao",
+      "fifa_code": "CUW",
+      "continent": "North America",
+      "group": "E",
+      "confederation": "CONCACAF",
+      "flag": "🇨🇼"
+    },
+    {
+      "name": "Ivory Coast",
+      "fifa_code": "CIV",
+      "continent": "Africa",
+      "group": "E",
+      "confederation": "CAF",
+      "flag": "🇨🇮"
+    },
+    {
+      "name": "Ecuador",
+      "fifa_code": "ECU",
+      "continent": "South America",
+      "group": "E",
+      "confederation": "CONMEBOL",
+      "flag": "🇪🇨"
+    },
+    {
+      "name": "Netherlands",
+      "fifa_code": "NED",
+      "continent": "Europe",
+      "group": "F",
+      "confederation": "UEFA",
+      "flag": "🇳🇱"
+    },
+    {
+      "name": "Japan",
+      "fifa_code": "JPN",
+      "continent": "Asia",
+      "group": "F",
+      "confederation": "AFC",
+      "flag": "🇯🇵"
+    },
+    {
+      "name": "Sweden",
+      "fifa_code": "SWE",
+      "continent": "Europe",
+      "group": "F",
+      "confederation": "UEFA",
+      "flag": "🇸🇪"
+    },
+    {
+      "name": "Tunisia",
+      "fifa_code": "TUN",
+      "continent": "Africa",
+      "group": "F",
+      "confederation": "CAF",
+      "flag": "🇹🇳"
+    },
+    {
+      "name": "Belgium",
+      "fifa_code": "BEL",
+      "continent": "Europe",
+      "group": "G",
+      "confederation": "UEFA",
+      "flag": "🇧🇪"
+    },
+    {
+      "name": "Egypt",
+      "fifa_code": "EGY",
+      "continent": "Africa",
+      "group": "G",
+      "confederation": "CAF",
+      "flag": "🇪🇬"
+    },
+    {
+      "name": "Iran",
+      "fifa_code": "IRN",
+      "continent": "Asia",
+      "group": "G",
+      "confederation": "AFC",
+      "flag": "🇮🇷"
+    },
+    {
+      "name": "New Zealand",
+      "fifa_code": "NZL",
+      "continent": "Oceania",
+      "group": "G",
+      "confederation": "OFC",
+      "flag": "🇳🇿"
+    },
+    {
+      "name": "Spain",
+      "fifa_code": "ESP",
+      "continent": "Europe",
+      "group": "H",
+      "confederation": "UEFA",
+      "flag": "🇪🇸"
+    },
+    {
+      "name": "Cape Verde",
+      "fifa_code": "CPV",
+      "continent": "Africa",
+      "group": "H",
+      "confederation": "CAF",
+      "flag": "🇨🇻"
+    },
+    {
+      "name": "Saudi Arabia",
+      "fifa_code": "KSA",
+      "continent": "Asia",
+      "group": "H",
+      "confederation": "AFC",
+      "flag": "🇸🇦"
+    },
+    {
+      "name": "Uruguay",
+      "fifa_code": "URU",
+      "continent": "South America",
+      "group": "H",
+      "confederation": "CONMEBOL",
+      "flag": "🇺🇾"
+    },
+    {
+      "name": "France",
+      "fifa_code": "FRA",
+      "continent": "Europe",
+      "group": "I",
+      "confederation": "UEFA",
+      "flag": "🇫🇷"
+    },
+    {
+      "name": "Senegal",
+      "fifa_code": "SEN",
+      "continent": "Africa",
+      "group": "I",
+      "confederation": "CAF",
+      "flag": "🇸🇳"
+    },
+    {
+      "name": "Iraq",
+      "fifa_code": "IRQ",
+      "continent": "Asia",
+      "group": "I",
+      "confederation": "AFC",
+      "flag": "🇮🇶"
+    },
+    {
+      "name": "Norway",
+      "fifa_code": "NOR",
+      "continent": "Europe",
+      "group": "I",
+      "confederation": "UEFA",
+      "flag": "🇳🇴"
+    },
+    {
+      "name": "Argentina",
+      "fifa_code": "ARG",
+      "continent": "South America",
+      "group": "J",
+      "confederation": "CONMEBOL",
+      "flag": "🇦🇷"
+    },
+    {
+      "name": "Algeria",
+      "fifa_code": "ALG",
+      "continent": "Africa",
+      "group": "J",
+      "confederation": "CAF",
+      "flag": "🇩🇿"
+    },
+    {
+      "name": "Austria",
+      "fifa_code": "AUT",
+      "continent": "Europe",
+      "group": "J",
+      "confederation": "UEFA",
+      "flag": "🇦🇹"
+    },
+    {
+      "name": "Jordan",
+      "fifa_code": "JOR",
+      "continent": "Asia",
+      "group": "J",
+      "confederation": "AFC",
+      "flag": "🇯🇴"
+    },
+    {
+      "name": "Portugal",
+      "fifa_code": "POR",
+      "continent": "Europe",
+      "group": "K",
+      "confederation": "UEFA",
+      "flag": "🇵🇹"
+    },
+    {
+      "name": "DR Congo",
+      "fifa_code": "COD",
+      "continent": "Africa",
+      "group": "K",
+      "confederation": "CAF",
+      "flag": "🇨🇩"
+    },
+    {
+      "name": "Uzbekistan",
+      "fifa_code": "UZB",
+      "continent": "Asia",
+      "group": "K",
+      "confederation": "AFC",
+      "flag": "🇺🇿"
+    },
+    {
+      "name": "Colombia",
+      "fifa_code": "COL",
+      "continent": "South America",
+      "group": "K",
+      "confederation": "CONMEBOL",
+      "flag": "🇨🇴"
+    },
+    {
+      "name": "England",
+      "fifa_code": "ENG",
+      "continent": "Europe",
+      "group": "L",
+      "confederation": "UEFA",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    },
+    {
+      "name": "Croatia",
+      "fifa_code": "CRO",
+      "continent": "Europe",
+      "group": "L",
+      "confederation": "UEFA",
+      "flag": "🇭🇷"
+    },
+    {
+      "name": "Ghana",
+      "fifa_code": "GHA",
+      "continent": "Africa",
+      "group": "L",
+      "confederation": "CAF",
+      "flag": "🇬🇭"
+    },
+    {
+      "name": "Panama",
+      "fifa_code": "PAN",
+      "continent": "North America",
+      "group": "L",
+      "confederation": "CONCACAF",
+      "flag": "🇵🇦"
+    }
+  ],
+  "meta": {
+    "title": "FIFA World Cup 2026 Teams - Free Download",
+    "description": "The 48 national teams qualified for the 2026 FIFA World Cup in USA/Canada/Mexico, with group, continent, and confederation. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FIFA World Cup 2026 Teams | ListBase",
+    "seo_description": "Download FIFA World Cup 2026 Teams — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/world-cup.json"
+    ]
+  }
+}

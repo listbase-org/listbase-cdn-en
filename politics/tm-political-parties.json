@@ -1,0 +1,166 @@
+{
+  "id": "tm-political-parties",
+  "name": "Turkmenistan — Political Parties",
+  "title": "Turkmenistan — Political Parties",
+  "description": "Political parties of Turkmenistan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5287,
+      "name_short": "CPT",
+      "name": "Communist Party of Turkmenistan",
+      "name_english": "Communist Party of Turkmenistan",
+      "name_other": "",
+      "year_first": 1924,
+      "year_last": 1991,
+      "share": 100,
+      "share_year": 1990,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Turkmenistan",
+      "description": "",
+      "comment": "Renamed to Democratic Party of Turkmenistan to 1991.",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5202,
+      "name_short": "DPT",
+      "name": "Türkmenistanyň Demokratik partiýasy",
+      "name_english": "Democratic Party of Turkmenistan",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 100,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_of_Turkmenistan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5889,
+      "name_short": "WU",
+      "name": "Women's Union",
+      "name_english": "Women's Union of Turkmenistan",
+      "name_other": "",
+      "year_first": 2013,
+      "year_last": 2015,
+      "share": 12.8,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Women%27s_Union_of_Turkmenistan",
+      "description": "",
+      "comment": "Just took part in one election (2013).",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5890,
+      "name_short": "PIE",
+      "name": "Party of Industrialists and Entrepreneurs",
+      "name_english": "Party of Industrialists and Entrepreneurs",
+      "name_other": "Turkmen: Senagatçylar we Telekeçiler partiýasy",
+      "year_first": 2012,
+      "year_last": 2015,
+      "share": 11.2,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_of_Industrialists_and_Entrepreneurs",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7663,
+      "name_short": "AP",
+      "name": "Agrarian Party",
+      "name_english": "Agrarian Party",
+      "name_other": "",
+      "year_first": 2018,
+      "year_last": 2018,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "There is no available information on Wikipedia for the items above",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Turkmenistan — Political Parties - Free Download",
+    "description": "Political parties of Turkmenistan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Turkmenistan — Political Parties | ListBase",
+    "seo_description": "Download Turkmenistan — Political Parties dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

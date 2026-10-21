@@ -1,0 +1,626 @@
+{
+  "id": "airline-safety-records",
+  "name": "Major Airlines Safety Records (1985-2014)",
+  "title": "Major Airlines Safety Records (1985-2014)",
+  "description": "Safety records for 56 major commercial airlines including incidents, fatal accidents, and fatalities across two periods (1985-1999 and 2000-2014), with available seat kilometers as a normalization base.",
+  "category": "transport",
+  "source": "https://github.com/fivethirtyeight/data",
+  "source_url": "https://github.com/fivethirtyeight/data",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "airline",
+      "label": "Airline",
+      "type": "string"
+    },
+    {
+      "key": "available_seat_km_per_week",
+      "label": "Available Seat Km Per Week",
+      "type": "number"
+    },
+    {
+      "key": "incidents_1985_1999",
+      "label": "Incidents 1985 1999",
+      "type": "number"
+    },
+    {
+      "key": "fatal_accidents_1985_1999",
+      "label": "Fatal Accidents 1985 1999",
+      "type": "number"
+    },
+    {
+      "key": "fatalities_1985_1999",
+      "label": "Fatalities 1985 1999",
+      "type": "number"
+    },
+    {
+      "key": "incidents_2000_2014",
+      "label": "Incidents 2000 2014",
+      "type": "number"
+    },
+    {
+      "key": "fatal_accidents_2000_2014",
+      "label": "Fatal Accidents 2000 2014",
+      "type": "number"
+    },
+    {
+      "key": "fatalities_2000_2014",
+      "label": "Fatalities 2000 2014",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "airline": "Aer Lingus",
+      "available_seat_km_per_week": 320906734,
+      "incidents_1985_1999": 2,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 0,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Aeroflot*",
+      "available_seat_km_per_week": 1197672318,
+      "incidents_1985_1999": 76,
+      "fatal_accidents_1985_1999": 14,
+      "fatalities_1985_1999": 128,
+      "incidents_2000_2014": 6,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 88
+    },
+    {
+      "airline": "Aerolineas Argentinas",
+      "available_seat_km_per_week": 385803648,
+      "incidents_1985_1999": 6,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 1,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Aeromexico*",
+      "available_seat_km_per_week": 596871813,
+      "incidents_1985_1999": 3,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 64,
+      "incidents_2000_2014": 5,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Air Canada",
+      "available_seat_km_per_week": 1865253802,
+      "incidents_1985_1999": 2,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 2,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Air France",
+      "available_seat_km_per_week": 3004002661,
+      "incidents_1985_1999": 14,
+      "fatal_accidents_1985_1999": 4,
+      "fatalities_1985_1999": 79,
+      "incidents_2000_2014": 6,
+      "fatal_accidents_2000_2014": 2,
+      "fatalities_2000_2014": 337
+    },
+    {
+      "airline": "Air India*",
+      "available_seat_km_per_week": 869253552,
+      "incidents_1985_1999": 2,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 329,
+      "incidents_2000_2014": 4,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 158
+    },
+    {
+      "airline": "Air New Zealand*",
+      "available_seat_km_per_week": 710174817,
+      "incidents_1985_1999": 3,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 5,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 7
+    },
+    {
+      "airline": "Alaska Airlines*",
+      "available_seat_km_per_week": 965346773,
+      "incidents_1985_1999": 5,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 5,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 88
+    },
+    {
+      "airline": "Alitalia",
+      "available_seat_km_per_week": 698012498,
+      "incidents_1985_1999": 7,
+      "fatal_accidents_1985_1999": 2,
+      "fatalities_1985_1999": 50,
+      "incidents_2000_2014": 4,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "All Nippon Airways",
+      "available_seat_km_per_week": 1841234177,
+      "incidents_1985_1999": 3,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 1,
+      "incidents_2000_2014": 7,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "American*",
+      "available_seat_km_per_week": 5228357340,
+      "incidents_1985_1999": 21,
+      "fatal_accidents_1985_1999": 5,
+      "fatalities_1985_1999": 101,
+      "incidents_2000_2014": 17,
+      "fatal_accidents_2000_2014": 3,
+      "fatalities_2000_2014": 416
+    },
+    {
+      "airline": "Austrian Airlines",
+      "available_seat_km_per_week": 358239823,
+      "incidents_1985_1999": 1,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 1,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Avianca",
+      "available_seat_km_per_week": 396922563,
+      "incidents_1985_1999": 5,
+      "fatal_accidents_1985_1999": 3,
+      "fatalities_1985_1999": 323,
+      "incidents_2000_2014": 0,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "British Airways*",
+      "available_seat_km_per_week": 3179760952,
+      "incidents_1985_1999": 4,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 6,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Cathay Pacific*",
+      "available_seat_km_per_week": 2582459303,
+      "incidents_1985_1999": 0,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 2,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "China Airlines",
+      "available_seat_km_per_week": 813216487,
+      "incidents_1985_1999": 12,
+      "fatal_accidents_1985_1999": 6,
+      "fatalities_1985_1999": 535,
+      "incidents_2000_2014": 2,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 225
+    },
+    {
+      "airline": "Condor",
+      "available_seat_km_per_week": 417982610,
+      "incidents_1985_1999": 2,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 16,
+      "incidents_2000_2014": 0,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "COPA",
+      "available_seat_km_per_week": 550491507,
+      "incidents_1985_1999": 3,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 47,
+      "incidents_2000_2014": 0,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Delta / Northwest*",
+      "available_seat_km_per_week": 6525658894,
+      "incidents_1985_1999": 24,
+      "fatal_accidents_1985_1999": 12,
+      "fatalities_1985_1999": 407,
+      "incidents_2000_2014": 24,
+      "fatal_accidents_2000_2014": 2,
+      "fatalities_2000_2014": 51
+    },
+    {
+      "airline": "Egyptair",
+      "available_seat_km_per_week": 557699891,
+      "incidents_1985_1999": 8,
+      "fatal_accidents_1985_1999": 3,
+      "fatalities_1985_1999": 282,
+      "incidents_2000_2014": 4,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 14
+    },
+    {
+      "airline": "El Al",
+      "available_seat_km_per_week": 335448023,
+      "incidents_1985_1999": 1,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 4,
+      "incidents_2000_2014": 1,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Ethiopian Airlines",
+      "available_seat_km_per_week": 488560643,
+      "incidents_1985_1999": 25,
+      "fatal_accidents_1985_1999": 5,
+      "fatalities_1985_1999": 167,
+      "incidents_2000_2014": 5,
+      "fatal_accidents_2000_2014": 2,
+      "fatalities_2000_2014": 92
+    },
+    {
+      "airline": "Finnair",
+      "available_seat_km_per_week": 506464950,
+      "incidents_1985_1999": 1,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 0,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Garuda Indonesia",
+      "available_seat_km_per_week": 613356665,
+      "incidents_1985_1999": 10,
+      "fatal_accidents_1985_1999": 3,
+      "fatalities_1985_1999": 260,
+      "incidents_2000_2014": 4,
+      "fatal_accidents_2000_2014": 2,
+      "fatalities_2000_2014": 22
+    },
+    {
+      "airline": "Gulf Air",
+      "available_seat_km_per_week": 301379762,
+      "incidents_1985_1999": 1,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 3,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 143
+    },
+    {
+      "airline": "Hawaiian Airlines",
+      "available_seat_km_per_week": 493877795,
+      "incidents_1985_1999": 0,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 1,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Iberia",
+      "available_seat_km_per_week": 1173203126,
+      "incidents_1985_1999": 4,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 148,
+      "incidents_2000_2014": 5,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Japan Airlines",
+      "available_seat_km_per_week": 1574217531,
+      "incidents_1985_1999": 3,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 520,
+      "incidents_2000_2014": 0,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Kenya Airways",
+      "available_seat_km_per_week": 277414794,
+      "incidents_1985_1999": 2,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 2,
+      "fatal_accidents_2000_2014": 2,
+      "fatalities_2000_2014": 283
+    },
+    {
+      "airline": "KLM*",
+      "available_seat_km_per_week": 1874561773,
+      "incidents_1985_1999": 7,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 3,
+      "incidents_2000_2014": 1,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Korean Air",
+      "available_seat_km_per_week": 1734522605,
+      "incidents_1985_1999": 12,
+      "fatal_accidents_1985_1999": 5,
+      "fatalities_1985_1999": 425,
+      "incidents_2000_2014": 1,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "LAN Airlines",
+      "available_seat_km_per_week": 1001965891,
+      "incidents_1985_1999": 3,
+      "fatal_accidents_1985_1999": 2,
+      "fatalities_1985_1999": 21,
+      "incidents_2000_2014": 0,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Lufthansa*",
+      "available_seat_km_per_week": 3426529504,
+      "incidents_1985_1999": 6,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 2,
+      "incidents_2000_2014": 3,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Malaysia Airlines",
+      "available_seat_km_per_week": 1039171244,
+      "incidents_1985_1999": 3,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 34,
+      "incidents_2000_2014": 3,
+      "fatal_accidents_2000_2014": 2,
+      "fatalities_2000_2014": 537
+    },
+    {
+      "airline": "Pakistan International",
+      "available_seat_km_per_week": 348563137,
+      "incidents_1985_1999": 8,
+      "fatal_accidents_1985_1999": 3,
+      "fatalities_1985_1999": 234,
+      "incidents_2000_2014": 10,
+      "fatal_accidents_2000_2014": 2,
+      "fatalities_2000_2014": 46
+    },
+    {
+      "airline": "Philippine Airlines",
+      "available_seat_km_per_week": 413007158,
+      "incidents_1985_1999": 7,
+      "fatal_accidents_1985_1999": 4,
+      "fatalities_1985_1999": 74,
+      "incidents_2000_2014": 2,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 1
+    },
+    {
+      "airline": "Qantas*",
+      "available_seat_km_per_week": 1917428984,
+      "incidents_1985_1999": 1,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 5,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Royal Air Maroc",
+      "available_seat_km_per_week": 295705339,
+      "incidents_1985_1999": 5,
+      "fatal_accidents_1985_1999": 3,
+      "fatalities_1985_1999": 51,
+      "incidents_2000_2014": 3,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "SAS*",
+      "available_seat_km_per_week": 682971852,
+      "incidents_1985_1999": 5,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 6,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 110
+    },
+    {
+      "airline": "Saudi Arabian",
+      "available_seat_km_per_week": 859673901,
+      "incidents_1985_1999": 7,
+      "fatal_accidents_1985_1999": 2,
+      "fatalities_1985_1999": 313,
+      "incidents_2000_2014": 11,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Singapore Airlines",
+      "available_seat_km_per_week": 2376857805,
+      "incidents_1985_1999": 2,
+      "fatal_accidents_1985_1999": 2,
+      "fatalities_1985_1999": 6,
+      "incidents_2000_2014": 2,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 83
+    },
+    {
+      "airline": "South African",
+      "available_seat_km_per_week": 651502442,
+      "incidents_1985_1999": 2,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 159,
+      "incidents_2000_2014": 1,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Southwest Airlines",
+      "available_seat_km_per_week": 3276525770,
+      "incidents_1985_1999": 1,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 8,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Sri Lankan / AirLanka",
+      "available_seat_km_per_week": 325582976,
+      "incidents_1985_1999": 2,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 14,
+      "incidents_2000_2014": 4,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "SWISS*",
+      "available_seat_km_per_week": 792601299,
+      "incidents_1985_1999": 2,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 229,
+      "incidents_2000_2014": 3,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "TACA",
+      "available_seat_km_per_week": 259373346,
+      "incidents_1985_1999": 3,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 3,
+      "incidents_2000_2014": 1,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 3
+    },
+    {
+      "airline": "TAM",
+      "available_seat_km_per_week": 1509195646,
+      "incidents_1985_1999": 8,
+      "fatal_accidents_1985_1999": 3,
+      "fatalities_1985_1999": 98,
+      "incidents_2000_2014": 7,
+      "fatal_accidents_2000_2014": 2,
+      "fatalities_2000_2014": 188
+    },
+    {
+      "airline": "TAP - Air Portugal",
+      "available_seat_km_per_week": 619130754,
+      "incidents_1985_1999": 0,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 0,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Thai Airways",
+      "available_seat_km_per_week": 1702802250,
+      "incidents_1985_1999": 8,
+      "fatal_accidents_1985_1999": 4,
+      "fatalities_1985_1999": 308,
+      "incidents_2000_2014": 2,
+      "fatal_accidents_2000_2014": 1,
+      "fatalities_2000_2014": 1
+    },
+    {
+      "airline": "Turkish Airlines",
+      "available_seat_km_per_week": 1946098294,
+      "incidents_1985_1999": 8,
+      "fatal_accidents_1985_1999": 3,
+      "fatalities_1985_1999": 64,
+      "incidents_2000_2014": 8,
+      "fatal_accidents_2000_2014": 2,
+      "fatalities_2000_2014": 84
+    },
+    {
+      "airline": "United / Continental*",
+      "available_seat_km_per_week": 7139291291,
+      "incidents_1985_1999": 19,
+      "fatal_accidents_1985_1999": 8,
+      "fatalities_1985_1999": 319,
+      "incidents_2000_2014": 14,
+      "fatal_accidents_2000_2014": 2,
+      "fatalities_2000_2014": 109
+    },
+    {
+      "airline": "US Airways / America West*",
+      "available_seat_km_per_week": 2455687887,
+      "incidents_1985_1999": 16,
+      "fatal_accidents_1985_1999": 7,
+      "fatalities_1985_1999": 224,
+      "incidents_2000_2014": 11,
+      "fatal_accidents_2000_2014": 2,
+      "fatalities_2000_2014": 23
+    },
+    {
+      "airline": "Vietnam Airlines",
+      "available_seat_km_per_week": 625084918,
+      "incidents_1985_1999": 7,
+      "fatal_accidents_1985_1999": 3,
+      "fatalities_1985_1999": 171,
+      "incidents_2000_2014": 1,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Virgin Atlantic",
+      "available_seat_km_per_week": 1005248585,
+      "incidents_1985_1999": 1,
+      "fatal_accidents_1985_1999": 0,
+      "fatalities_1985_1999": 0,
+      "incidents_2000_2014": 0,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    },
+    {
+      "airline": "Xiamen Airlines",
+      "available_seat_km_per_week": 430462962,
+      "incidents_1985_1999": 9,
+      "fatal_accidents_1985_1999": 1,
+      "fatalities_1985_1999": 82,
+      "incidents_2000_2014": 2,
+      "fatal_accidents_2000_2014": 0,
+      "fatalities_2000_2014": 0
+    }
+  ],
+  "meta": {
+    "title": "Major Airlines Safety Records (1985-2014) - Free Download",
+    "description": "Safety records for 56 major commercial airlines including incidents, fatal accidents, and fatalities across two periods (1985-1999 and 2000-2014), with available seat kilometers as a normalization base. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Major Airlines Safety Records (1985-2014) | ListBase",
+    "seo_description": "Download Major Airlines Safety Records (1985-2014) — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/fivethirtyeight/data"
+    ]
+  }
+}

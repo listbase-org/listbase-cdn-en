@@ -1,0 +1,2617 @@
+{
+  "id": "go-libraries-directory",
+  "name": "Go Libraries Directory",
+  "title": "Go Libraries Directory",
+  "description": "284 curated Go libraries with repository links, categories, and technology tags. Covers networking, cloud, databases, and more.",
+  "category": "tech",
+  "source": "https://github.com/sourcerer-io/awesome-libraries",
+  "source_url": "https://github.com/sourcerer-io/awesome-libraries",
+  "updated": "2026-04",
+  "record_count": 284,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "repo",
+      "label": "Repo",
+      "type": "string"
+    },
+    {
+      "key": "tags",
+      "label": "Tags",
+      "type": "string"
+    },
+    {
+      "key": "tech",
+      "label": "Tech",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "imports",
+      "label": "Imports",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "go.amazon-product-advertising-api",
+      "name": "Amazon Product Advertising API",
+      "repo": "ngs/go-amazon-product-advertising-api",
+      "tags": "advertising",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/ngs/go-amazon-product-advertising-api"
+    },
+    {
+      "id": "go.anaconda",
+      "name": "Anaconda",
+      "repo": "ChimeraCoder/anaconda",
+      "tags": "twitter",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/ChimeraCoder/anaconda"
+    },
+    {
+      "id": "go.brewery-db",
+      "name": "BreweryDB",
+      "repo": "naegelejd/brewerydb",
+      "tags": "beer",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/naegelejd/brewerydb"
+    },
+    {
+      "id": "go.cachet",
+      "name": "Cachet",
+      "repo": "andygrunwald/cachet",
+      "tags": "status-page",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/andygrunwald/cachet"
+    },
+    {
+      "id": "go.facebook-go",
+      "name": "Facebook Go",
+      "repo": "huandu/facebook",
+      "tags": "facebook",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/huandu/facebook"
+    },
+    {
+      "id": "go.gads",
+      "name": "gads",
+      "repo": "emiddleton/gads",
+      "tags": "adwords",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/emiddleton/gads"
+    },
+    {
+      "id": "go.gami",
+      "name": "GAMI",
+      "repo": "bit4bit/gami",
+      "tags": "asterisk",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/bit4bit/gami"
+    },
+    {
+      "id": "go.githubql",
+      "name": "githubql",
+      "repo": "shurcooL/githubql",
+      "tags": "github",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/shurcooL/githubql"
+    },
+    {
+      "id": "go.go-github",
+      "name": "go-github",
+      "repo": "google/go-github",
+      "tags": "github",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/google/go-github"
+    },
+    {
+      "id": "go.go-hacknews",
+      "name": "go-hacknews",
+      "repo": "PaulRosset/go-hacknews",
+      "tags": "hacknews",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/PaulRosset/go-hacknews"
+    },
+    {
+      "id": "go.go-imgur",
+      "name": "go-imgur",
+      "repo": "koffeinsource/go-imgur",
+      "tags": "imgur",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/koffeinsource/go-imgur"
+    },
+    {
+      "id": "go.go-jira",
+      "name": "go-jira",
+      "repo": "andygrunwald/go-jira",
+      "tags": "jira",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/andygrunwald/go-jira"
+    },
+    {
+      "id": "go.go-lyrics",
+      "name": "GoLyrics",
+      "repo": "mamal72/golyrics",
+      "tags": "lyrics",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/mamal72/golyrics"
+    },
+    {
+      "id": "go.go-marathon",
+      "name": "Go-Marathon",
+      "repo": "gambol99/go-marathon",
+      "tags": "marathon",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/gambol99/go-marathon"
+    },
+    {
+      "id": "go.go-myanimelist",
+      "name": "go-myanimelist",
+      "repo": "nstratos/go-myanimelist",
+      "tags": "myanimelist",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/nstratos/go-myanimelist"
+    },
+    {
+      "id": "go.go-shopify",
+      "name": "go-shopify",
+      "repo": "rapito/go-shopify",
+      "tags": "shopify",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/rapito/go-shopify"
+    },
+    {
+      "id": "go.go-spotify",
+      "name": "go-spotify",
+      "repo": "rapito/go-spotify",
+      "tags": "spotify",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/rapito/go-spotify"
+    },
+    {
+      "id": "go.go-steam",
+      "name": "go-steam",
+      "repo": "sostronk/go-steam",
+      "tags": "steam",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/sostronk/go-steam"
+    },
+    {
+      "id": "go.go-stripe",
+      "name": "Go Stripe",
+      "repo": "stripe/stripe-go",
+      "tags": "stripe",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/stripe/stripe-go"
+    },
+    {
+      "id": "go.go-telegraph",
+      "name": "go-telegraph",
+      "repo": "toby3d/go-telegraph",
+      "tags": "telegraph",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/toby3d/go-telegraph"
+    },
+    {
+      "id": "go.go-tmdb",
+      "name": "go-tmdb",
+      "repo": "jbrodriguez/go-tmdb",
+      "tags": "imdb",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/jbrodriguez/go-tmdb"
+    },
+    {
+      "id": "go.go-trello-api",
+      "name": "Go Trello API",
+      "repo": "adlio/trello",
+      "tags": "trello",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/adlio/trello"
+    },
+    {
+      "id": "go.go-trending",
+      "name": "go-trending",
+      "repo": "andygrunwald/go-trending",
+      "tags": "github",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/andygrunwald/go-trending"
+    },
+    {
+      "id": "go.go-twitch",
+      "name": "go-twitch",
+      "repo": "knspriggs/go-twitch",
+      "tags": "twitch",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/knspriggs/go-twitch"
+    },
+    {
+      "id": "go.go-twitter",
+      "name": "go-twitter",
+      "repo": "dghubble/go-twitter",
+      "tags": "twitter",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/dghubble/go-twitter"
+    },
+    {
+      "id": "go.go-xkcd",
+      "name": "go-xkcd",
+      "repo": "nishanths/go-xkcd",
+      "tags": "xkcd",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/nishanths/go-xkcd"
+    },
+    {
+      "id": "go.gomusicbrainz",
+      "name": "gomusicbrainz",
+      "repo": "michiwend/gomusicbrainz",
+      "tags": "musicbrainz",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/michiwend/gomusicbrainz"
+    },
+    {
+      "id": "go.google-analytics-api",
+      "name": "Google Analytics API",
+      "repo": "chonthu/go-google-analytics",
+      "tags": "ga",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/chonthu/go-google-analytics"
+    },
+    {
+      "id": "go.google-api",
+      "name": "Google API",
+      "repo": "google/google-api-go-client",
+      "tags": "google",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/google/google-api-go-client"
+    },
+    {
+      "id": "go.google-email-audit-api",
+      "name": "Google Email Audit API",
+      "repo": "ngs/go-google-email-audit-api",
+      "tags": "google-email-audit",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/ngs/go-google-email-audit-api"
+    },
+    {
+      "id": "go.google-translate-api",
+      "name": "Google Translate API",
+      "repo": "poorny/translate",
+      "tags": "google-translate",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/poorny/translate"
+    },
+    {
+      "id": "go.gumblr",
+      "name": "gumblr",
+      "repo": "mattcunningham/gumblr",
+      "tags": "gumblr",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/mattcunningham/gumblr"
+    },
+    {
+      "id": "go.medium-sdk",
+      "name": "Medium SDK",
+      "repo": "Medium/medium-sdk-go",
+      "tags": "medium-oauth",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/Medium/medium-sdk-go"
+    },
+    {
+      "id": "go.mixpanel",
+      "name": "mixpanel",
+      "repo": "dukex/mixpanel",
+      "tags": "mixpanel",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/dukex/mixpanel"
+    },
+    {
+      "id": "go.patreon-go",
+      "name": "patreon-go",
+      "repo": "mxpv/patreon-go",
+      "tags": "patreon",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/mxpv/patreon-go"
+    },
+    {
+      "id": "go.playlyfe-go-sdk",
+      "name": "Playlyfe Go SDK",
+      "repo": "playlyfe/playlyfe-go-sdk",
+      "tags": "playlyfe",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/playlyfe/playlyfe-go-sdk"
+    },
+    {
+      "id": "go.smite-go",
+      "name": "SmiteGo",
+      "repo": "sergiotapia/smitego",
+      "tags": "smite-game",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/sergiotapia/smitego"
+    },
+    {
+      "id": "go.textbelt",
+      "name": "textbelt",
+      "repo": "dietsche/textbelt",
+      "tags": "textbelt",
+      "tech": "api",
+      "status": "insufficient-data",
+      "imports": "github.com/dietsche/textbelt"
+    },
+    {
+      "id": "go.unsplash",
+      "name": "Unsplash",
+      "repo": "hbagdi/go-unsplash",
+      "tags": "unsplash",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/hbagdi/go-unsplash"
+    },
+    {
+      "id": "go.webhooks",
+      "name": "webhooks",
+      "repo": "go-playground/webhooks",
+      "tags": "webhooks",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/go-playground/webhooks"
+    },
+    {
+      "id": "go.zooz-api",
+      "name": "Zooz API",
+      "repo": "gojuno/go-zooz",
+      "tags": "zooz",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "github.com/gojuno/go-zooz"
+    },
+    {
+      "id": "go.command",
+      "name": "command",
+      "repo": "txgruppi/command",
+      "tags": "dispatcher",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "github.com/txgruppi/command"
+    },
+    {
+      "id": "go.consul",
+      "name": "Consul",
+      "repo": "hashicorp/consul",
+      "tags": "service-infrastucture",
+      "tech": "app-arch",
+      "status": "awaiting-model",
+      "imports": "github.com/hashicorp/consul"
+    },
+    {
+      "id": "go.go-trigger",
+      "name": "Go Trigger",
+      "repo": "sadlil/go-trigger",
+      "tags": "events",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "github.com/sadlil/go-trigger"
+    },
+    {
+      "id": "go.gojq",
+      "name": "gojq",
+      "repo": "elgs/gojq",
+      "tags": "query-language",
+      "tech": "app-arch",
+      "status": "insufficient-data",
+      "imports": "github.com/elgs/gojq"
+    },
+    {
+      "id": "go.clockwerk",
+      "name": "clockwerk",
+      "repo": "onatm/clockwerk",
+      "tags": "scheduler",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/onatm/clockwerk"
+    },
+    {
+      "id": "go.cron",
+      "name": "cron",
+      "repo": "robfig/cron",
+      "tags": "cron",
+      "tech": "app-blocks",
+      "status": "awaiting-model",
+      "imports": "github.com/robfig/cron"
+    },
+    {
+      "id": "go.death",
+      "name": "death",
+      "repo": "vrecan/death",
+      "tags": "termination",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/vrecan/death"
+    },
+    {
+      "id": "go.excelize",
+      "name": "Excelize",
+      "repo": "Luxurioust/excelize",
+      "tags": "excel",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/Luxurioust/excelize"
+    },
+    {
+      "id": "go.go-cron",
+      "name": "go-cron",
+      "repo": "rk/go-cron",
+      "tags": "scheduler",
+      "tech": "app-blocks",
+      "status": "insufficient-data",
+      "imports": "github.com/rk/go-cron"
+    },
+    {
+      "id": "go.go-sitemap-generator",
+      "name": "go-sitemap-generator",
+      "repo": "ikeikeikeike/go-sitemap-generator",
+      "tags": "sitemaps",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/ikeikeikeike/go-sitemap-generator"
+    },
+    {
+      "id": "go.godaemon",
+      "name": "godaemon",
+      "repo": "VividCortex/godaemon",
+      "tags": "deamons",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/VividCortex/godaemon"
+    },
+    {
+      "id": "go.godropbox",
+      "name": "godropbox",
+      "repo": "dropbox/godropbox",
+      "tags": "server-side",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/dropbox/godropbox"
+    },
+    {
+      "id": "go.gofpdf",
+      "name": "gofpdf",
+      "repo": "jung-kurt/gofpdf",
+      "tags": "pdf-generator",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/jung-kurt/gofpdf"
+    },
+    {
+      "id": "go.gohper",
+      "name": "gohper",
+      "repo": "cosiner/gohper",
+      "tags": "misc",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/cosiner/gohper"
+    },
+    {
+      "id": "go.goxlsxwriter",
+      "name": "goxlsxwriter",
+      "repo": "fterrag/goxlsxwriter",
+      "tags": "excel",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/fterrag/goxlsxwriter"
+    },
+    {
+      "id": "go.gron",
+      "name": "gron",
+      "repo": "roylee0704/gron",
+      "tags": "scheduler",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/roylee0704/gron"
+    },
+    {
+      "id": "go.gts",
+      "name": "GTS",
+      "repo": "carlescere/scheduler",
+      "tags": "scheduler",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/carlescere/scheduler"
+    },
+    {
+      "id": "go.job-runner",
+      "name": "JobRunner",
+      "repo": "bamzi/jobrunner",
+      "tags": "scheduler",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/bamzi/jobrunner"
+    },
+    {
+      "id": "go.pm",
+      "name": "pm",
+      "repo": "VividCortex/pm",
+      "tags": "process-manager",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/VividCortex/pm"
+    },
+    {
+      "id": "go.rate",
+      "name": "rate",
+      "repo": "beefsack/go-rate",
+      "tags": "rate-limiter",
+      "tech": "app-blocks",
+      "status": "insufficient-data",
+      "imports": "github.com/beefsack/go-rate"
+    },
+    {
+      "id": "go.rerate",
+      "name": "rerate",
+      "repo": "abo/rerate",
+      "tags": "rate-limiter",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/abo/rerate"
+    },
+    {
+      "id": "go.xlsx",
+      "name": "XLSX",
+      "repo": "tealeg/xlsx",
+      "tags": "excel",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "github.com/tealeg/xlsx"
+    },
+    {
+      "id": "go.deepcopier",
+      "name": "Deepcopier",
+      "repo": "ulule/deepcopier",
+      "tags": "copying",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/ulule/deepcopier"
+    },
+    {
+      "id": "go.elastic",
+      "name": "Elastic",
+      "repo": "olivere/elastic",
+      "tags": "elasticsearch-client",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "github.com/olivere/elastic"
+    },
+    {
+      "id": "go.filetype",
+      "name": "filetype",
+      "repo": "h2non/filetype",
+      "tags": "formats",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/h2non/filetype"
+    },
+    {
+      "id": "go.filler",
+      "name": "filler",
+      "repo": "yaronsumel/filler",
+      "tags": "transformations",
+      "tech": "app-data",
+      "status": "insufficient-data",
+      "imports": "github.com/yaronsumel/filler"
+    },
+    {
+      "id": "go.gjson",
+      "name": "GJSON",
+      "repo": "tidwall/gjson",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/tidwall/gjson"
+    },
+    {
+      "id": "go.govalidator",
+      "name": "govalidator",
+      "repo": "asaskevich/govalidator",
+      "tags": "validation",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/asaskevich/govalidator"
+    },
+    {
+      "id": "go.jsongo",
+      "name": "Jsongo",
+      "repo": "ricardolonga/jsongo",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/ricardolonga/jsongo"
+    },
+    {
+      "id": "go.jsonhal",
+      "name": "jsonhal",
+      "repo": "RichardKnop/jsonhal",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/RichardKnop/jsonhal"
+    },
+    {
+      "id": "go.kazaam",
+      "name": "Kazaam",
+      "repo": "Qntfy/kazaam",
+      "tags": "transformations",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/Qntfy/kazaam"
+    },
+    {
+      "id": "go.mapstructure",
+      "name": "mapstructure",
+      "repo": "mitchellh/mapstructure",
+      "tags": "transformations",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/mitchellh/mapstructure"
+    },
+    {
+      "id": "go.mergo",
+      "name": "Mergo",
+      "repo": "imdario/mergo",
+      "tags": "transformations",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/imdario/mergo"
+    },
+    {
+      "id": "go.ozzo-validation",
+      "name": "ozzo-validation",
+      "repo": "go-ozzo/ozzo-validation",
+      "tags": "validation",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/go-ozzo/ozzo-validation"
+    },
+    {
+      "id": "go.package-validator",
+      "name": "Package Validator",
+      "repo": "go-playground/validator",
+      "tags": "validation",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/go-playground/validator"
+    },
+    {
+      "id": "go.structomap",
+      "name": "structomap",
+      "repo": "tuvistavie/structomap",
+      "tags": "transformations",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/tuvistavie/structomap"
+    },
+    {
+      "id": "go.transform",
+      "name": "transform",
+      "repo": "golang.org/x/text/transform",
+      "tags": "text-transformations",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "golang.org/x/text/transform"
+    },
+    {
+      "id": "go.validate",
+      "name": "validate",
+      "repo": "markbates/validate",
+      "tags": "validation",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "github.com/markbates/validate"
+    },
+    {
+      "id": "go.yaml",
+      "name": "yaml",
+      "repo": "ghodss/yaml",
+      "tags": "yaml-marshaling",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "github.com/ghodss/yaml"
+    },
+    {
+      "id": "go.yaml.v2",
+      "name": "yaml.v2",
+      "repo": "go-yaml/yaml",
+      "tags": "yaml",
+      "tech": "app-data",
+      "status": "awaiting-model",
+      "imports": "gopkg.in/yaml.v2"
+    },
+    {
+      "id": "go.go-storm",
+      "name": "GoStorm",
+      "repo": "jsgilmore/gostorm",
+      "tags": "distributed-computing",
+      "tech": "big-data",
+      "status": "model-ready",
+      "imports": "github.com/jsgilmore/gostorm"
+    },
+    {
+      "id": "go.go-ethereum",
+      "name": "go-ethereum",
+      "repo": "ethereum/go-ethereum",
+      "tags": "ethereum",
+      "tech": "blockchain",
+      "status": "awaiting-model",
+      "imports": "go-ethereum"
+    },
+    {
+      "id": "go.discord-go",
+      "name": "DiscordGo",
+      "repo": "bwmarrin/discordgo",
+      "tags": "discord",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "github.com/bwmarrin/discordgo"
+    },
+    {
+      "id": "go.ghost",
+      "name": "Ghost",
+      "repo": "neuegram/ghost",
+      "tags": "snap",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "github.com/neuegram/ghost"
+    },
+    {
+      "id": "go.go-tgbot",
+      "name": "go-tgbot",
+      "repo": "olebedev/go-tgbot",
+      "tags": "telegram",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "github.com/olebedev/go-tgbot"
+    },
+    {
+      "id": "go.go-vk-bot",
+      "name": "Go VK bot",
+      "repo": "nikepan/govkbot",
+      "tags": "vk-bots",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "github.com/nikepan/govkbot"
+    },
+    {
+      "id": "go.hipchat-go",
+      "name": "hipchat-go",
+      "repo": "andybons/hipchat",
+      "tags": "hipchat",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "github.com/andybons/hipchat"
+    },
+    {
+      "id": "go.micha",
+      "name": "micha",
+      "repo": "onrik/micha",
+      "tags": "telegram",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "github.com/onrik/micha"
+    },
+    {
+      "id": "go.slack-api",
+      "name": "Slack API",
+      "repo": "nlopes/slack",
+      "tags": "slack",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "github.com/nlopes/slack"
+    },
+    {
+      "id": "go.tbot",
+      "name": "tbot",
+      "repo": "yanzay/tbot",
+      "tags": "telegram",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "github.com/yanzay/tbot"
+    },
+    {
+      "id": "go.telebot",
+      "name": "Telebot",
+      "repo": "tucnak/telebot",
+      "tags": "telegram",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "github.com/tucnak/telebot"
+    },
+    {
+      "id": "go.telegram-bot-api",
+      "name": "telegram-bot-api",
+      "repo": "Syfaro/telegram-bot-api",
+      "tags": "telegram",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "github.com/Syfaro/telegram-bot-api"
+    },
+    {
+      "id": "go.cli",
+      "name": "cli",
+      "repo": "urfave/cli",
+      "tags": "cli-apps",
+      "tech": "cli",
+      "status": "awaiting-model",
+      "imports": "github.com/urfave/cli-apps"
+    },
+    {
+      "id": "go.cobra",
+      "name": "Cobra",
+      "repo": "spf13/cobra",
+      "tags": "cli-apps",
+      "tech": "cli",
+      "status": "awaiting-model",
+      "imports": "github.com/spf13/cobra"
+    },
+    {
+      "id": "go.complete",
+      "name": "complete",
+      "repo": "posener/complete",
+      "tags": "bash-completion",
+      "tech": "cli",
+      "status": "awaiting-model",
+      "imports": "github.com/posener/complete"
+    },
+    {
+      "id": "go.pty",
+      "name": "pty",
+      "repo": "kr/pty",
+      "tags": "unix-terminals",
+      "tech": "cli",
+      "status": "awaiting-model",
+      "imports": "github.com/kr/pty"
+    },
+    {
+      "id": "go.spinner",
+      "name": "Spinner",
+      "repo": "briandowns/spinner",
+      "tags": "progress-indicator",
+      "tech": "cli",
+      "status": "model-ready",
+      "imports": "github.com/briandowns/spinner"
+    },
+    {
+      "id": "go.termui",
+      "name": "termui",
+      "repo": "gizak/termui",
+      "tags": "dashboard",
+      "tech": "cli",
+      "status": "awaiting-model",
+      "imports": "github.com/gizak/termui"
+    },
+    {
+      "id": "go.uilive",
+      "name": "uilive",
+      "repo": "gosuri/uilive",
+      "tags": "live-updates",
+      "tech": "cli",
+      "status": "awaiting-model",
+      "imports": "github.com/gosuri/uilive"
+    },
+    {
+      "id": "go.aws-sdk",
+      "name": "AWS SDK",
+      "repo": "aws/aws-sdk-go",
+      "tags": "api",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "github.com/aws/aws-sdk-go"
+    },
+    {
+      "id": "go.azure-sdk-for-go",
+      "name": "Azure SDK",
+      "repo": "Azure/azure-sdk-for-go",
+      "tags": "ms-azure-sdk",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "github.com/azure/azure-sdk-for-go"
+    },
+    {
+      "id": "go.cadvisor",
+      "name": "cAdvisor",
+      "repo": "google/cadvisor",
+      "tags": "containers-analysis",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "github.com/google/cadvisor"
+    },
+    {
+      "id": "go.distribution",
+      "name": "Distribution",
+      "repo": "docker/distribution",
+      "tags": "docker-distribution",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "github.com/docker/distribution"
+    },
+    {
+      "id": "go.docker",
+      "name": "docker",
+      "repo": "docker/docker",
+      "tags": "docker",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "github.com/docker/docker"
+    },
+    {
+      "id": "go.gizmo",
+      "name": "Gizmo",
+      "repo": "NYTimes/gizmo",
+      "tags": "microservices",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "github.com/NYTimes/gizmo"
+    },
+    {
+      "id": "go.go-ipfs",
+      "name": "IPFS",
+      "repo": "ipfs/go-ipfs",
+      "tags": "p2p-filesystem",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "github.com/ipfs/go-ipfs"
+    },
+    {
+      "id": "go.go-micro",
+      "name": "go-micro",
+      "repo": "micro/go-micro",
+      "tags": "microservices",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "github.com/micro/go-micro"
+    },
+    {
+      "id": "go.goa",
+      "name": "goa",
+      "repo": "goadesign/goa",
+      "tags": "microservices",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "github.com/goadesign/goa"
+    },
+    {
+      "id": "go.goamz",
+      "name": "goamz",
+      "repo": "mitchellh/goamz",
+      "tags": "aws",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "github.com/mitchellh/goamz"
+    },
+    {
+      "id": "go.google-gloud-api",
+      "name": "Google Gloud API",
+      "repo": "GoogleCloudPlatform/gcloud-golang",
+      "tags": "gcloud",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "github.com/GoogleCloudPlatform/gcloud-golang"
+    },
+    {
+      "id": "go.grpc",
+      "name": "grpc",
+      "repo": "grpc/grpc-go",
+      "tags": "microservices",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "google.golang.org/grpc"
+    },
+    {
+      "id": "go.grpc-gateway",
+      "name": "grpc-gateway",
+      "repo": "grpc-ecosystem/grpc-gateway",
+      "tags": "microservices",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "github.com/grpc-ecosystem/grpc-gateway"
+    },
+    {
+      "id": "go.kit",
+      "name": "Go kit",
+      "repo": "go-kit/kit",
+      "tags": "microservices",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "github.com/go-kit/kit"
+    },
+    {
+      "id": "go.kops",
+      "name": "kops",
+      "repo": "kubernetes/kops",
+      "tags": "kubernetes-ops",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "github.com/kubernetes/kops"
+    },
+    {
+      "id": "go.libcompose",
+      "name": "libcompose",
+      "repo": "docker/libcompose",
+      "tags": "docker-compose",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "github.com/docker/libcompose"
+    },
+    {
+      "id": "go.megos",
+      "name": "megos",
+      "repo": "andygrunwald/megos",
+      "tags": "distributed-kernel",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "github.com/andygrunwald/megos"
+    },
+    {
+      "id": "go.microservice",
+      "name": "microservice",
+      "repo": "claygod/microservice",
+      "tags": "microservices",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "github.com/claygod/microservice"
+    },
+    {
+      "id": "go.nsqd",
+      "name": "nsqd",
+      "repo": "nsqio/nsq/nsqd",
+      "tags": "message-queue",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "github.com/nsqio/nsq/nsqd"
+    },
+    {
+      "id": "go.proto",
+      "name": "proto",
+      "repo": "golang/protobuf",
+      "tags": "microservices",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "github.com/golang/protobuf/proto"
+    },
+    {
+      "id": "go.sarama",
+      "name": "sarama",
+      "repo": "Shopify/sarama",
+      "tags": "kafka-client",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "github.com/shopify/sarama"
+    },
+    {
+      "id": "go.terraform",
+      "name": "Terraform",
+      "repo": "hashicorp/terraform",
+      "tags": "infrastructure-as-code",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "github.com/hashicorp/terraform"
+    },
+    {
+      "id": "go.git-hub-api",
+      "name": "GitHub API",
+      "repo": "rjeczalik/gh",
+      "tags": "github-api",
+      "tech": "code-processing",
+      "status": "model-ready",
+      "imports": "github.com/rjeczalik/gh"
+    },
+    {
+      "id": "go.git2go",
+      "name": "git2go",
+      "repo": "libgit2/git2go",
+      "tags": "git",
+      "tech": "code-processing",
+      "status": "model-ready",
+      "imports": "github.com/libgit2/git2go"
+    },
+    {
+      "id": "go.go-vcs",
+      "name": "go-vcs",
+      "repo": "sourcegraph/go-vcs",
+      "tags": "vcs",
+      "tech": "code-processing",
+      "status": "model-ready",
+      "imports": "github.com/sourcegraph/go-vcs"
+    },
+    {
+      "id": "go.hgo",
+      "name": "hgo",
+      "repo": "beyang/hgo",
+      "tags": "mercurial",
+      "tech": "code-processing",
+      "status": "model-ready",
+      "imports": "github.com/beyang/hgo"
+    },
+    {
+      "id": "go.clarifai",
+      "name": "Clarifai",
+      "repo": "samuelcouch/clarifai",
+      "tags": "clarfiai-api",
+      "tech": "computer-vision",
+      "status": "model-ready",
+      "imports": "github.com/samuelcouch/clarifai"
+    },
+    {
+      "id": "go.go-toml",
+      "name": "go-toml",
+      "repo": "pelletier/go-toml",
+      "tags": "toml-parsing",
+      "tech": "configuration",
+      "status": "awaiting-model",
+      "imports": "github.com/pelletier/go-toml"
+    },
+    {
+      "id": "go.ini",
+      "name": "ini",
+      "repo": "go-ini/ini",
+      "tags": "ini-parser",
+      "tech": "configuration",
+      "status": "awaiting-model",
+      "imports": "github.com/go-ini/ini"
+    },
+    {
+      "id": "go.bloom",
+      "name": "Bloom filters",
+      "repo": "willf/bloom",
+      "tags": "bloom-filters",
+      "tech": "data-structures",
+      "status": "awaiting-model",
+      "imports": "github.com/willf/bloom"
+    },
+    {
+      "id": "go.go-underscore",
+      "name": "go-underscore",
+      "repo": "tobyhede/go-underscore",
+      "tags": "collections",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "github.com/tobyhede/go-underscore"
+    },
+    {
+      "id": "go.gods",
+      "name": "gods",
+      "repo": "emirpasic/gods",
+      "tags": "data-structures",
+      "tech": "data-structures",
+      "status": "awaiting-model",
+      "imports": "github.com/emirpasic/gods"
+    },
+    {
+      "id": "go.go-debug",
+      "name": "go-debug",
+      "repo": "tj/go-debug",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "invalid-repo",
+      "imports": "github.com/tj/go-debug"
+    },
+    {
+      "id": "go.go-dlog",
+      "name": "go-dlog",
+      "repo": "kirillDanshin/dlog",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "insufficient-data",
+      "imports": "github.com/kirillDanshin/dlog"
+    },
+    {
+      "id": "go.golarm",
+      "name": "golarm",
+      "repo": "msempere/golarm",
+      "tags": "alarms",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "github.com/msempere/golarm"
+    },
+    {
+      "id": "go.jaeger",
+      "name": "jaeger",
+      "repo": "jaegertracing/jaeger",
+      "tags": "distributed-tracing",
+      "tech": "diagnostics",
+      "status": "awaiting-model",
+      "imports": "github.com/jaegertracing/jaeger"
+    },
+    {
+      "id": "go.logrus",
+      "name": "logrus",
+      "repo": "Sirupsen/Logrus",
+      "tags": "logging",
+      "tech": "diagnostics",
+      "status": "model-ready",
+      "imports": "github.com/sirupsen/logrus"
+    },
+    {
+      "id": "go.zap",
+      "name": "zap",
+      "repo": "uber-go/zap",
+      "tags": "structured-logging",
+      "tech": "diagnostics",
+      "status": "awaiting-model",
+      "imports": "go.uber.org/zap"
+    },
+    {
+      "id": "go.zwrap",
+      "name": "zwrap",
+      "repo": "go.uber.org/zap/zwrap",
+      "tags": "structured-logging",
+      "tech": "diagnostics",
+      "status": "awaiting-model",
+      "imports": "go.uber.org/zap/zwrap"
+    },
+    {
+      "id": "go.paypalsdk",
+      "name": "paypalsdk",
+      "repo": "logpacker/paypalsdk",
+      "tags": "payments",
+      "tech": "e-commerce",
+      "status": "model-ready",
+      "imports": "github.com/logpacker/paypalsdk"
+    },
+    {
+      "id": "go.fastlz",
+      "name": "fastlz",
+      "repo": "digitalcrab/fastlz",
+      "tags": "compression",
+      "tech": "efficient-data",
+      "status": "insufficient-data",
+      "imports": "github.com/digitalcrab/fastlz"
+    },
+    {
+      "id": "go.go",
+      "name": "go",
+      "repo": "ugorji/go",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "awaiting-model",
+      "imports": "github.com/ugorji/go"
+    },
+    {
+      "id": "go.go-json-iterator",
+      "name": "Go JSON Iterator",
+      "repo": "json-iterator/go",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "github.com/json-iterator/go"
+    },
+    {
+      "id": "go.protobuf",
+      "name": "Protocol Buffers with Gadgets",
+      "repo": "gogo/protobuf",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "awaiting-model",
+      "imports": "github.com/gogo/protobuf"
+    },
+    {
+      "id": "go.astitodo",
+      "name": "astitodo",
+      "repo": "asticode/go-astitodo",
+      "tags": "parse-todo",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "github.com/asticode/go-astitodo"
+    },
+    {
+      "id": "go.circle-ci",
+      "name": "CircleCI",
+      "repo": "jszwedko/go-circleci",
+      "tags": "ci",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "github.com/jszwedko/go-circleci"
+    },
+    {
+      "id": "go.delve",
+      "name": "Delve",
+      "repo": "derekparker/delve",
+      "tags": "debugger",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "github.com/derekparker/delve"
+    },
+    {
+      "id": "go.generate",
+      "name": "generate",
+      "repo": "go-playground/generate",
+      "tags": "generate",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "github.com/go-playground/generate"
+    },
+    {
+      "id": "go.go-torch",
+      "name": "go-torch",
+      "repo": "uber/go-torch",
+      "tags": "profiler",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "github.com/uber/go-torch"
+    },
+    {
+      "id": "go.gojson",
+      "name": "gojson",
+      "repo": "ChimeraCoder/gojson",
+      "tags": "code-generators",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "github.com/ChimeraCoder/gojson"
+    },
+    {
+      "id": "go.gpath",
+      "name": "gpath",
+      "repo": "tenntenn/gpath",
+      "tags": "reflection",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "github.com/tenntenn/gpath"
+    },
+    {
+      "id": "go.minify",
+      "name": "Minify",
+      "repo": "tdewolff/minify",
+      "tags": "minification",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "github.com/tdewolff/minify"
+    },
+    {
+      "id": "go.netbug",
+      "name": "netbug",
+      "repo": "e-dard/netbug",
+      "tags": "profiling",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "github.com/e-dard/netbug"
+    },
+    {
+      "id": "go.profile",
+      "name": "profile",
+      "repo": "pkg/profile",
+      "tags": "profiling",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "github.com/pkg/profile"
+    },
+    {
+      "id": "go.coop",
+      "name": "coop",
+      "repo": "rakyll/coop",
+      "tags": "concurrency",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "github.com/rakyll/coop"
+    },
+    {
+      "id": "go.one-cache",
+      "name": "OneCache",
+      "repo": "adelowo/onecache",
+      "tags": "caching",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "github.com/adelowo/onecache"
+    },
+    {
+      "id": "go.s2",
+      "name": "S2",
+      "repo": "codingsince1985/geo-golang",
+      "tags": "google-maps",
+      "tech": "geo-maps",
+      "status": "model-ready",
+      "imports": "github.com/codingsince1985/geo-golang"
+    },
+    {
+      "id": "go.ace",
+      "name": "Ace",
+      "repo": "yosssi/ace",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/yosssi/ace"
+    },
+    {
+      "id": "go.air",
+      "name": "Air",
+      "repo": "sheng/air",
+      "tags": "rest",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/sheng/air"
+    },
+    {
+      "id": "go.algernon",
+      "name": "Algernon",
+      "repo": "xyproto/algernon",
+      "tags": "web-server",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/xyproto/algernon"
+    },
+    {
+      "id": "go.amber",
+      "name": "Amber",
+      "repo": "eknkc/amber",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/eknkc/amber"
+    },
+    {
+      "id": "go.api",
+      "name": "api",
+      "repo": "resoursea/api",
+      "tags": "rest",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/resoursea/api"
+    },
+    {
+      "id": "go.beego",
+      "name": "Beego",
+      "repo": "astaxie/beego",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/astaxie/beego/"
+    },
+    {
+      "id": "go.caddy",
+      "name": "Caddy",
+      "repo": "mholt/caddy",
+      "tags": "web-server",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/mholt/caddy"
+    },
+    {
+      "id": "go.damsel",
+      "name": "Damsel",
+      "repo": "dskinner/damsel",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/dskinner/damsel"
+    },
+    {
+      "id": "go.devd",
+      "name": "devd",
+      "repo": "cortesi/devd",
+      "tags": "local-web-server",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/cortesi/devd"
+    },
+    {
+      "id": "go.echo",
+      "name": "echo",
+      "repo": "labstack/echo",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/labstack/echo"
+    },
+    {
+      "id": "go.ego",
+      "name": "Ego",
+      "repo": "benbjohnson/ego",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/benbjohnson/ego"
+    },
+    {
+      "id": "go.fasttemplate",
+      "name": "fasttemplate",
+      "repo": "valyala/fasttemplate",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/valyala/fasttemplate"
+    },
+    {
+      "id": "go.fireball",
+      "name": "Fireball",
+      "repo": "zpatrick/fireball",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/zpatrick/fireball"
+    },
+    {
+      "id": "go.flow-rest",
+      "name": "Flo(w)Rest",
+      "repo": "jabong/florest-core",
+      "tags": "rest",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/jabong/florest-core"
+    },
+    {
+      "id": "go.gem",
+      "name": "Gem",
+      "repo": "go-gem/gem",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/go-gem/gem"
+    },
+    {
+      "id": "go.gin",
+      "name": "Gin",
+      "repo": "gin-gonic/gin",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/gin-gonic/gin"
+    },
+    {
+      "id": "go.go-json-rest",
+      "name": "Go-Json-Rest",
+      "repo": "ant0ine/go-json-rest",
+      "tags": "rest-json",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/ant0ine/go-json-rest"
+    },
+    {
+      "id": "go.go-razor",
+      "name": "GoRazor",
+      "repo": "sipin/gorazor",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/sipin/gorazor"
+    },
+    {
+      "id": "go.go-relax",
+      "name": "Go-Relax",
+      "repo": "codehack/go-relax",
+      "tags": "rest",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/codehack/go-relax"
+    },
+    {
+      "id": "go.go-rest",
+      "name": "go-rest",
+      "repo": "ungerik/go-rest",
+      "tags": "rest",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/ungerik/go-rest"
+    },
+    {
+      "id": "go.go-restful",
+      "name": "go-restful",
+      "repo": "emicklei/go-restful",
+      "tags": "restful-webservice",
+      "tech": "go-web",
+      "status": "awaiting-model",
+      "imports": "github.com/emicklei/go-restful"
+    },
+    {
+      "id": "go.goat",
+      "name": "Goat",
+      "repo": "bahlo/goat",
+      "tags": "rest",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/bahlo/goat"
+    },
+    {
+      "id": "go.golf",
+      "name": "golf",
+      "repo": "dinever/golf",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/dinever/golf"
+    },
+    {
+      "id": "go.gondola",
+      "name": "Gondola",
+      "repo": "rainycape/gondola",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/rainycape/gondola"
+    },
+    {
+      "id": "go.gongular",
+      "name": "gongular",
+      "repo": "mustafaakin/gongular",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/mustafaakin/gongular"
+    },
+    {
+      "id": "go.goquery",
+      "name": "goquery",
+      "repo": "PuerkitoBio/goquery",
+      "tags": "selector-strings",
+      "tech": "go-web",
+      "status": "awaiting-model",
+      "imports": "github.com/puerkitobio/goquery"
+    },
+    {
+      "id": "go.grender",
+      "name": "Grender",
+      "repo": "dannyvankooten/grender",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/dannyvankooten/grender"
+    },
+    {
+      "id": "go.gziphandler",
+      "name": "Gzip Handler",
+      "repo": "NYTimes/gziphandler",
+      "tags": "gzip-middleware",
+      "tech": "go-web, https://github.com/NYTimes/gziphandler",
+      "status": "awaiting-model",
+      "imports": "github.com/nytimes/gziphandler"
+    },
+    {
+      "id": "go.hero",
+      "name": "Hero",
+      "repo": "shiyanhui/hero",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/shiyanhui/hero"
+    },
+    {
+      "id": "go.httprouter",
+      "name": "HttpRouter",
+      "repo": "JulienSchmidt/httprouter",
+      "tags": "http-router",
+      "tech": "go-web",
+      "status": "awaiting-model",
+      "imports": "github.com/julienschmidt/httprouter"
+    },
+    {
+      "id": "go.iris",
+      "name": "iris",
+      "repo": "kataras/iris",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "awaiting-model",
+      "imports": "github.com/kataras/iris"
+    },
+    {
+      "id": "go.jet",
+      "name": "Jet",
+      "repo": "CloudyKit/jet",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/CloudyKit/jet"
+    },
+    {
+      "id": "go.kasia-go",
+      "name": "Kasia.go",
+      "repo": "ziutek/kasia.go",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/ziutek/kasia.go"
+    },
+    {
+      "id": "go.liquid",
+      "name": "Liquid",
+      "repo": "osteele/liquid",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/osteele/liquid"
+    },
+    {
+      "id": "go.live-reload-server",
+      "name": "LiveReload Server",
+      "repo": "jaschaephraim/lrserver",
+      "tags": "livereload",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/jaschaephraim/lrserver"
+    },
+    {
+      "id": "go.macaron",
+      "name": "Macaron",
+      "repo": "go-macaron/macaron",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/go-macaron/macaron"
+    },
+    {
+      "id": "go.martini",
+      "name": "martini",
+      "repo": "go-martini/martini",
+      "tags": "modular-webapps",
+      "tech": "go-web",
+      "status": "awaiting-model",
+      "imports": "github.com/go-martini/martini"
+    },
+    {
+      "id": "go.mustache-go",
+      "name": "mustache.go",
+      "repo": "hoisie/mustache",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/hoisie/mustache"
+    },
+    {
+      "id": "go.mux",
+      "name": "mux",
+      "repo": "gorilla/mux",
+      "tags": "routing",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "mux"
+    },
+    {
+      "id": "go.neo",
+      "name": "Neo",
+      "repo": "ivpusic/neo",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/ivpusic/neo"
+    },
+    {
+      "id": "go.php-session-decoder",
+      "name": "php_session_decoder",
+      "repo": "yvasiyarov/php_session_decoder",
+      "tags": "go-php",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/yvasiyarov/php_session_decoder"
+    },
+    {
+      "id": "go.pongo2",
+      "name": "pongo2",
+      "repo": "flosch/pongo2",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/flosch/pongo2"
+    },
+    {
+      "id": "go.quicktemplate",
+      "name": "Quicktemplate",
+      "repo": "valyala/quicktemplate",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/valyala/quicktemplate"
+    },
+    {
+      "id": "go.raymond",
+      "name": "raymond",
+      "repo": "aymerick/raymond",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/aymerick/raymond"
+    },
+    {
+      "id": "go.revel",
+      "name": "Revel",
+      "repo": "revel/revel",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/revel/revel"
+    },
+    {
+      "id": "go.rex",
+      "name": "Rex",
+      "repo": "goanywhere/rex",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/goanywhere/rex"
+    },
+    {
+      "id": "go.sawsij",
+      "name": "sawsij",
+      "repo": "jaybill/sawsij",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/jaybill/sawsij"
+    },
+    {
+      "id": "go.soy",
+      "name": "soy",
+      "repo": "robfig/soy",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/robfig/soy"
+    },
+    {
+      "id": "go.tango",
+      "name": "Tango",
+      "repo": "lunny/tango",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/lunny/tango"
+    },
+    {
+      "id": "go.tiger-tonic",
+      "name": "Tiger Tonic",
+      "repo": "rcrowley/go-tigertonic",
+      "tags": "rest",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/rcrowley/go-tigertonic"
+    },
+    {
+      "id": "go.traffic",
+      "name": "traffic",
+      "repo": "pilu/traffic",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/pilu/traffic"
+    },
+    {
+      "id": "go.utron",
+      "name": "utron",
+      "repo": "gernest/utron",
+      "tags": "framework",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/gernest/utron"
+    },
+    {
+      "id": "go.velvet",
+      "name": "Velvet",
+      "repo": "gobuffalo/velvet",
+      "tags": "templates",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/gobuffalo/velvet"
+    },
+    {
+      "id": "go.violetear",
+      "name": "violetear",
+      "repo": "nbari/violetear",
+      "tags": "routing",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/nbari/violetear"
+    },
+    {
+      "id": "go.yarf",
+      "name": "YARF",
+      "repo": "yarf-framework/yarf",
+      "tags": "rest",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/yarf-framework/yarf"
+    },
+    {
+      "id": "go.zerver",
+      "name": "Zerver",
+      "repo": "cosiner/zerver",
+      "tags": "rest",
+      "tech": "go-web",
+      "status": "model-ready",
+      "imports": "github.com/cosiner/zerver"
+    },
+    {
+      "id": "go.d3d9",
+      "name": "d3d9",
+      "repo": "gonutz/d3d9",
+      "tags": "directx",
+      "tech": "graphics-gaming",
+      "status": "model-ready",
+      "imports": "github.com/gonutz/d3d9"
+    },
+    {
+      "id": "go.goplaceholder",
+      "name": "goplaceholder",
+      "repo": "michiwend/goplaceholder",
+      "tags": "placeholders",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "github.com/michiwend/goplaceholder"
+    },
+    {
+      "id": "go.fasthttp",
+      "name": "fasthttp",
+      "repo": "valyala/fasthttp",
+      "tags": "http",
+      "tech": "internet",
+      "status": "awaiting-model",
+      "imports": "github.com/valyala/fasthttp"
+    },
+    {
+      "id": "go.gentleman",
+      "name": "gentleman",
+      "repo": "h2non/gentleman",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/h2non/gentleman"
+    },
+    {
+      "id": "go.go-req",
+      "name": "GoReq",
+      "repo": "smallnest/goreq",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/smallnest/goreq"
+    },
+    {
+      "id": "go.go-request",
+      "name": "GoRequest",
+      "repo": "parnurzeal/gorequest",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/parnurzeal/gorequest"
+    },
+    {
+      "id": "go.gopencils",
+      "name": "Gopencils",
+      "repo": "bndr/gopencils",
+      "tags": "rest-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/bndr/gopencils"
+    },
+    {
+      "id": "go.grequests",
+      "name": "GRequests",
+      "repo": "levigross/grequests",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/levigross/grequests"
+    },
+    {
+      "id": "go.httpcontrol",
+      "name": "httpcontrol",
+      "repo": "facebookgo/httpcontrol",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/facebookgo/httpcontrol"
+    },
+    {
+      "id": "go.jsonapi-errors",
+      "name": "jsonapi-errors",
+      "repo": "AmuzaTkts/jsonapi-errors",
+      "tags": "json-api",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/AmuzaTkts/jsonapi-errors"
+    },
+    {
+      "id": "go.jwt-go",
+      "name": "jwt-go",
+      "repo": "dgrijalva/jwt-go",
+      "tags": "jwt",
+      "tech": "internet",
+      "status": "awaiting-model",
+      "imports": "github.com/dgrijalva/jwt-go"
+    },
+    {
+      "id": "go.pester",
+      "name": "pester",
+      "repo": "sethgrid/pester",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/sethgrid/pester"
+    },
+    {
+      "id": "go.rclient",
+      "name": "rclient",
+      "repo": "zpatrick/rclient",
+      "tags": "rest-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/zpatrick/rclient"
+    },
+    {
+      "id": "go.request",
+      "name": "request",
+      "repo": "mozillazg/request",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/mozillazg/request"
+    },
+    {
+      "id": "go.respond",
+      "name": "respond",
+      "repo": "nicklaw5/go-respond",
+      "tags": "http-json",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/nicklaw5/go-respond"
+    },
+    {
+      "id": "go.resty",
+      "name": "Resty",
+      "repo": "go-resty/resty",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/go-resty/resty"
+    },
+    {
+      "id": "go.sftp",
+      "name": "sftp",
+      "repo": "pkg/sftp",
+      "tags": "sftp",
+      "tech": "internet",
+      "status": "awaiting-model",
+      "imports": "github.com/pkg/sftp"
+    },
+    {
+      "id": "go.sling",
+      "name": "Sling",
+      "repo": "dghubble/sling",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "github.com/dghubble/sling"
+    },
+    {
+      "id": "go.vegeta",
+      "name": "vegeta",
+      "repo": "tsenart/vegeta",
+      "tags": "http-load-testing",
+      "tech": "internet",
+      "status": "awaiting-model",
+      "imports": "github.com/tsenart/vegeta/lib"
+    },
+    {
+      "id": "go.intrinsic",
+      "name": "intrinsic",
+      "repo": "mengzhuo/intrinsic",
+      "tags": "go-x86",
+      "tech": "interoperability",
+      "status": "model-ready",
+      "imports": "github.com/mengzhuo/intrinsic"
+    },
+    {
+      "id": "go.astisub",
+      "name": "astisub",
+      "repo": "asticode/go-astisub",
+      "tags": "subtitles",
+      "tech": "media",
+      "status": "model-ready",
+      "imports": "github.com/asticode/go-astisub"
+    },
+    {
+      "id": "go.goav",
+      "name": "goav",
+      "repo": "giorgisio/goav",
+      "tags": "ffmpeg",
+      "tech": "media",
+      "status": "model-ready",
+      "imports": "github.com/giorgisio/goav"
+    },
+    {
+      "id": "go.gst",
+      "name": "gst",
+      "repo": "ziutek/gst",
+      "tags": "gstreamer",
+      "tech": "media",
+      "status": "model-ready",
+      "imports": "github.com/ziutek/gst"
+    },
+    {
+      "id": "go.libgosubs",
+      "name": "libgosubs",
+      "repo": "wargarblgarbl/libgosubs",
+      "tags": "subtitles",
+      "tech": "media",
+      "status": "model-ready",
+      "imports": "github.com/wargarblgarbl/libgosubs"
+    },
+    {
+      "id": "go.v4l",
+      "name": "v4l",
+      "repo": "korandiz/v4l",
+      "tags": "video4linux",
+      "tech": "media",
+      "status": "model-ready",
+      "imports": "github.com/korandiz/v4l"
+    },
+    {
+      "id": "go.fcm",
+      "name": "FCM",
+      "repo": "maddevsio/fcm",
+      "tags": "push-notifications",
+      "tech": "mobile",
+      "status": "model-ready",
+      "imports": "github.com/maddevsio/fcm"
+    },
+    {
+      "id": "go.gcm",
+      "name": "GCM",
+      "repo": "Aorioli/gcm",
+      "tags": "messaging",
+      "tech": "mobile",
+      "status": "model-ready",
+      "imports": "github.com/Aorioli/gcm"
+    },
+    {
+      "id": "go.pushover",
+      "name": "pushover",
+      "repo": "gregdel/pushover",
+      "tags": "push-notifications",
+      "tech": "mobile",
+      "status": "model-ready",
+      "imports": "github.com/gregdel/pushover"
+    },
+    {
+      "id": "go.mango",
+      "name": "Mango",
+      "repo": "paulbellamy/mango",
+      "tags": "framework",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "github.com/paulbellamy/mango"
+    },
+    {
+      "id": "go.rrdaclient",
+      "name": "rrdaclient",
+      "repo": "Omie/rrdaclient",
+      "tags": "dns",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "github.com/Omie/rrdaclient"
+    },
+    {
+      "id": "go.websocket",
+      "name": "websocket",
+      "repo": "gorilla/websocket",
+      "tags": "websocket",
+      "tech": "networking",
+      "status": "awaiting-model",
+      "imports": "github.com/gorilla/websocket"
+    },
+    {
+      "id": "go.circuitbreaker",
+      "name": "Circuitbreaker",
+      "repo": "rubyist/circuitbreaker",
+      "tags": "circuit-breaker",
+      "tech": "reliable-code",
+      "status": "model-ready",
+      "imports": "github.com/rubyist/circuitbreaker"
+    },
+    {
+      "id": "go.goback",
+      "name": "Goback",
+      "repo": "carlescere/goback",
+      "tags": "resilience",
+      "tech": "reliable-code",
+      "status": "model-ready",
+      "imports": "github.com/carlescere/goback"
+    },
+    {
+      "id": "go.hystrix",
+      "name": "Hystrix",
+      "repo": "afex/hystrix-go",
+      "tags": "resilience",
+      "tech": "reliable-code",
+      "status": "model-ready",
+      "imports": "github.com/afex/hystrix-go"
+    },
+    {
+      "id": "go.retry",
+      "name": "retry",
+      "repo": "kamilsk/retry",
+      "tags": "resilience",
+      "tech": "reliable-code",
+      "status": "model-ready",
+      "imports": "github.com/kamilsk/retry"
+    },
+    {
+      "id": "go.robustly",
+      "name": "robustly",
+      "repo": "VividCortex/robustly",
+      "tags": "resilience",
+      "tech": "reliable-code",
+      "status": "model-ready",
+      "imports": "github.com/VividCortex/robustly"
+    },
+    {
+      "id": "go.vault",
+      "name": "Vault",
+      "repo": "hashicorp/vault",
+      "tags": "secrets-management",
+      "tech": "security",
+      "status": "awaiting-model",
+      "imports": "github.com/hashicorp/vault"
+    },
+    {
+      "id": "go.bolt",
+      "name": "Bolt",
+      "repo": "boltdb/bolt",
+      "tags": "key-value-db",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "github.com/boltdb/bolt"
+    },
+    {
+      "id": "go.cayley",
+      "name": "Сayley",
+      "repo": "cayleygraph/cayley",
+      "tags": "graph-database",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "github.com/cayleygraph/cayley"
+    },
+    {
+      "id": "go.diskv",
+      "name": "diskv",
+      "repo": "peterbourgon/diskv",
+      "tags": "persistent-key-value",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "github.com/peterbourgon/diskv"
+    },
+    {
+      "id": "go.etcd",
+      "name": "etcd",
+      "repo": "etcd-io/etcd",
+      "tags": "nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "github.com/etcd-io/etcd"
+    },
+    {
+      "id": "go.goseaweedfs",
+      "name": "goseaweedfs",
+      "repo": "linxGnu/goseaweedfs",
+      "tags": "distributed-fs",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "github.com/linxGnu/goseaweedfs"
+    },
+    {
+      "id": "go.influxdb",
+      "name": "InfluxDB",
+      "repo": "influxdata/influxdb",
+      "tags": "time-series-db",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "github.com/influxdata/influxdb"
+    },
+    {
+      "id": "go.libkv",
+      "name": "libkv",
+      "repo": "docker/libkv",
+      "tags": "key-value-store",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "github.com/docker/libkv"
+    },
+    {
+      "id": "go.minio",
+      "name": "Minio",
+      "repo": "minio/minio",
+      "tags": "s3",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "github.com/minio/minio"
+    },
+    {
+      "id": "go.minio-go",
+      "name": "minio-go",
+      "repo": "minio/minio-go",
+      "tags": "s3",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "github.com/minio/minio-go"
+    },
+    {
+      "id": "go.mssqlx",
+      "name": "mssqlx",
+      "repo": "linxGnu/mssqlx",
+      "tags": "sql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "github.com/linxGnu/mssqlx"
+    },
+    {
+      "id": "go.mysql",
+      "name": "Go MySQL Driver",
+      "repo": "go-sql-driver/mysql",
+      "tags": "mysql-driver",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "github.com/go-sql-driver/mysql"
+    },
+    {
+      "id": "go.redis",
+      "name": "redis",
+      "repo": "go-redis/redis",
+      "tags": "redis-client",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "github.com/go-redis/redis"
+    },
+    {
+      "id": "go.sqlx",
+      "name": "sqlx",
+      "repo": "jmoiron/sqlx",
+      "tags": "sql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "github.com/jmoiron/sqlx"
+    },
+    {
+      "id": "go.storm",
+      "name": "Storm",
+      "repo": "asdine/storm",
+      "tags": "embedded",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "github.com/asdine/storm"
+    },
+    {
+      "id": "go.yakvs",
+      "name": "YAKVS",
+      "repo": "sci4me/yakvs",
+      "tags": "nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "github.com/sci4me/yakvs"
+    },
+    {
+      "id": "go.goconvey",
+      "name": "goconvey",
+      "repo": "smartystreets/goconvey",
+      "tags": "bdd-framework",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "github.com/smartystreets/goconvey"
+    },
+    {
+      "id": "go.mock",
+      "name": "mock",
+      "repo": "golang/mock",
+      "tags": "mocking-framework",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "github.com/golang/mock"
+    },
+    {
+      "id": "go.testify",
+      "name": "Testify",
+      "repo": "stretchr/testify",
+      "tags": "assertions-mocking",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "github.com/stretchr/testify"
+    },
+    {
+      "id": "go.text",
+      "name": "text",
+      "repo": "golang.org/x/text",
+      "tags": "i18n-l10n",
+      "tech": "text",
+      "status": "awaiting-model",
+      "imports": "golang.org/x/text"
+    },
+    {
+      "id": "go.abutil",
+      "name": "abutil",
+      "repo": "bahlo/abutil",
+      "tags": "helpers",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/bahlo/abutil"
+    },
+    {
+      "id": "go.go-dry",
+      "name": "go-dry",
+      "repo": "ungerik/go-dry",
+      "tags": "dry",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/ungerik/go-dry"
+    },
+    {
+      "id": "go.go-funk",
+      "name": "go-funk",
+      "repo": "thoas/go-funk",
+      "tags": "helpers",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/thoas/go-funk"
+    },
+    {
+      "id": "go.go-httpheader",
+      "name": "go-httpheader",
+      "repo": "mozillazg/go-httpheader",
+      "tags": "http",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/mozillazg/go-httpheader"
+    },
+    {
+      "id": "go.go.uuid",
+      "name": "UUID package",
+      "repo": "satori/go.uuid",
+      "tags": "uuid",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "github.com/satori/go.uuid"
+    },
+    {
+      "id": "go.gotenv",
+      "name": "gotenv",
+      "repo": "subosito/gotenv",
+      "tags": "env-vars",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/subosito/gotenv"
+    },
+    {
+      "id": "go.gtm",
+      "name": "gtm",
+      "repo": "git-time-metric/gtm",
+      "tags": "date-time",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/git-time-metric/gtm"
+    },
+    {
+      "id": "go.multitick",
+      "name": "multitick",
+      "repo": "VividCortex/multitick",
+      "tags": "date-time",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/VividCortex/multitick"
+    },
+    {
+      "id": "go.semver",
+      "name": "semver",
+      "repo": "Masterminds/semver",
+      "tags": "semantic-versions",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "github.com/masterminds/semver"
+    },
+    {
+      "id": "go.toolbox",
+      "name": "toolbox",
+      "repo": "viant/toolbox",
+      "tags": "toolkit",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/viant/toolbox"
+    },
+    {
+      "id": "go.ugo",
+      "name": "ugo",
+      "repo": "alxrm/ugo",
+      "tags": "toolkit",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/alxrm/ugo"
+    },
+    {
+      "id": "go.unis",
+      "name": "unis",
+      "repo": "esemplastic/unis",
+      "tags": "strings",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/esemplastic/unis"
+    },
+    {
+      "id": "go.util",
+      "name": "util",
+      "repo": "shomali11/util",
+      "tags": "toolkit",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/shomali11/util"
+    },
+    {
+      "id": "go.viper",
+      "name": "viper",
+      "repo": "spf13/viper",
+      "tags": "configuration",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "github.com/spf13/viper"
+    },
+    {
+      "id": "go.go-ole",
+      "name": "Go OLE",
+      "repo": "go-ole/go-ole",
+      "tags": "ole",
+      "tech": "windows",
+      "status": "model-ready",
+      "imports": "github.com/go-ole/go-ole"
+    }
+  ],
+  "meta": {
+    "title": "Go Libraries Directory - Free Download",
+    "description": "284 curated Go libraries with repository links, categories, and technology tags. Covers networking, cloud, databases, and more. Contains 284 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Go Libraries Directory | ListBase",
+    "seo_description": "Download Go Libraries Directory — 284 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 284 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/sourcerer-io/awesome-libraries"
+    ]
+  }
+}

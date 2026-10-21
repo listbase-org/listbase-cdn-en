@@ -1,0 +1,142 @@
+{
+  "id": "ml-unesco-heritage",
+  "name": "Mali — UNESCO World Heritage Sites",
+  "title": "Mali — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Mali, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 116,
+      "name": "Old Towns of Djenne",
+      "category": "cultural",
+      "date_inscribed": 1988,
+      "criteria": "c3, c4",
+      "lat": 13.90639,
+      "lon": -4.555,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "ml",
+      "transboundary": false
+    },
+    {
+      "ref_no": 119,
+      "name": "Timbuktu",
+      "category": "cultural",
+      "date_inscribed": 1988,
+      "criteria": "c2, c4, c5",
+      "lat": 16.77333333,
+      "lon": -2.999444444,
+      "area_hectares": "",
+      "danger_list": "Y 2012 P 1990-2005",
+      "unesco_region": "Africa",
+      "countries": "ml",
+      "transboundary": false
+    },
+    {
+      "ref_no": 516,
+      "name": "Cliff of Bandiagara (Land of the Dogons)",
+      "category": "mixed",
+      "date_inscribed": 1989,
+      "criteria": "c5, n7",
+      "lat": 14.33333,
+      "lon": -3.41667,
+      "area_hectares": 327390,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "ml",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1139,
+      "name": "Tomb of Askia",
+      "category": "cultural",
+      "date_inscribed": 2004,
+      "criteria": "c2, c3, c4",
+      "lat": 16.2898,
+      "lon": -0.04456,
+      "area_hectares": 4.24,
+      "danger_list": "Y 2012",
+      "unesco_region": "Africa",
+      "countries": "ml",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Mali — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Mali, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 4 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mali — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Mali — UNESCO World Heritage Sites dataset with 4 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 4 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

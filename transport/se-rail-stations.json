@@ -1,0 +1,592 @@
+{
+  "id": "se-rail-stations",
+  "name": "Sweden — Rail Stations",
+  "title": "Sweden — Rail Stations",
+  "description": "Railway stations in Sweden: name, city, state/province, coordinates, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "asciiname",
+      "label": "Asciiname",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "uic_list",
+      "label": "Uic List",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Arlanda Centralstation",
+      "asciiname": "Arlanda Centralstation",
+      "city_name_list": "Stockholm",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Stockholm",
+      "latitude": 59.649463,
+      "longitude": 17.929,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Gävle Central Station",
+      "asciiname": "Gaevle Central Station",
+      "city_name_list": "Gävle",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Gaevleborg",
+      "latitude": 60.67626,
+      "longitude": 17.15135,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Uppsala Central Station",
+      "asciiname": "Uppsala Central Station",
+      "city_name_list": "Uppsala",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Uppsala",
+      "latitude": 59.85847,
+      "longitude": 17.64612,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Stockholm SE C Rail Stn",
+      "asciiname": "Stockholm SE C Rail Stn",
+      "city_name_list": "Stockholm",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 59.32,
+      "longitude": 0.3008,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Södertälje Syd Railway Station",
+      "asciiname": "Soedertaelje Syd Railway Station",
+      "city_name_list": "Södertälje",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Stockholm",
+      "latitude": 59.16228,
+      "longitude": 17.64536,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Strangnas SE Railway Station",
+      "asciiname": "Strangnas SE Railway Station",
+      "city_name_list": "Strangnas SE Railway Station",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 59.37,
+      "longitude": 0.2836,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Eskilstuna Central Station",
+      "asciiname": "Eskilstuna Central Station",
+      "city_name_list": "Eskilstuna",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Soedermanland",
+      "latitude": 59.36946,
+      "longitude": 16.50558,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Malmö Central Station",
+      "asciiname": "Malmoe Central Station",
+      "city_name_list": "Malmö",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Skane",
+      "latitude": 55.60919,
+      "longitude": 13.00099,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Malmö Hyllie Station",
+      "asciiname": "Malmoe Hyllie Station",
+      "city_name_list": "Malmö",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Skane",
+      "latitude": 55.56262,
+      "longitude": 12.97545,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Lund SE Lund C Railway Station",
+      "asciiname": "Lund SE Lund C Railway Station",
+      "city_name_list": "Lund SE Lund C Railway Station",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 55.7,
+      "longitude": 0.2197,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Falun Railway Station",
+      "asciiname": "Falun Railway Station",
+      "city_name_list": "Borlänge",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Dalarna",
+      "latitude": 60.60355,
+      "longitude": 15.64166,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Karlskrona Central Station",
+      "asciiname": "Karlskrona Central Station",
+      "city_name_list": "Ronneby",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Blekinge",
+      "latitude": 56.16673,
+      "longitude": 15.58548,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Goteborg SE C Railway Stn",
+      "asciiname": "Goteborg SE C Railway Stn",
+      "city_name_list": "Göteborg",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 57.65,
+      "longitude": 12.28,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Hallsberg Railway Station",
+      "asciiname": "Hallsberg Railway Station",
+      "city_name_list": "Hallsberg",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "OErebro",
+      "latitude": 59.0671,
+      "longitude": 15.10968,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Hässleholm Central Station",
+      "asciiname": "Haessleholm Central Station",
+      "city_name_list": "Hässleholm",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Skane",
+      "latitude": 56.15786,
+      "longitude": 13.76269,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Enkopi SE Enkoping Railway Sce",
+      "asciiname": "Enkopi SE Enkoping Railway Sce",
+      "city_name_list": "Enkopi SE Enkoping Railway Sce",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 59.64,
+      "longitude": 17.09,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Örebro Central Station",
+      "asciiname": "OErebro Central Station",
+      "city_name_list": "Örebro",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "OErebro",
+      "latitude": 59.27895,
+      "longitude": 15.21134,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Varberg SE Railway Station",
+      "asciiname": "Varberg SE Railway Station",
+      "city_name_list": "Varberg SE Railway Station",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 57.1,
+      "longitude": 12.25,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Nassjo SE Railway Station",
+      "asciiname": "Nassjo SE Railway Station",
+      "city_name_list": "Nassjo SE Railway Station",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 59.35,
+      "longitude": 17.95,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Nykoping SE C Railway Stn",
+      "asciiname": "Nykoping SE C Railway Stn",
+      "city_name_list": "Nykoping SE C Railway Stn",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 58.76,
+      "longitude": 16.99,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Alvesta SE Railway Station",
+      "asciiname": "Alvesta SE Railway Station",
+      "city_name_list": "Alvesta SE Railway Station",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 56.9,
+      "longitude": 14.56,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Degerfors SE Railway Station",
+      "asciiname": "Degerfors SE Railway Station",
+      "city_name_list": "Degerfors SE Railway Station",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 59.23,
+      "longitude": 14.43,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Koping SE Railway Station",
+      "asciiname": "Koping SE Railway Station",
+      "city_name_list": "Koping SE Railway Station",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 59.35,
+      "longitude": 17.95,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Katrineholm SE C Rail Stn",
+      "asciiname": "Katrineholm SE C Rail Stn",
+      "city_name_list": "Katrineholm SE C Rail Stn",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 59,
+      "longitude": 16.21,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Mjolby SE Railway Station",
+      "asciiname": "Mjolby SE Railway Station",
+      "city_name_list": "Mjolby SE Railway Station",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 58.32,
+      "longitude": 15.17,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Kil Railway Station",
+      "asciiname": "Kil Railway Station",
+      "city_name_list": "Kil",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Vaermland",
+      "latitude": 59.5051,
+      "longitude": 13.3162,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Leksand Railway Station",
+      "asciiname": "Leksand Railway Station",
+      "city_name_list": "Leksand",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Dalarna",
+      "latitude": 60.73299,
+      "longitude": 15.00355,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Hedemora Railway Station",
+      "asciiname": "Hedemora Railway Station",
+      "city_name_list": "Hedemora",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Dalarna",
+      "latitude": 60.27404,
+      "longitude": 15.98053,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Kumla SE Railway Station",
+      "asciiname": "Kumla SE Railway Station",
+      "city_name_list": "Kumla SE Railway Station",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 59.35,
+      "longitude": 17.95,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Ronneby station",
+      "asciiname": "Ronneby station",
+      "city_name_list": "Ronneby",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Blekinge",
+      "latitude": 56.20691,
+      "longitude": 15.28316,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Sundsvall Central Station",
+      "asciiname": "Sundsvall Central Station",
+      "city_name_list": "Sundsvall=Midlanda=Härnösand",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Vaesternorrland",
+      "latitude": 62.38625,
+      "longitude": 17.31892,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Borlänge Central Station",
+      "asciiname": "Borlaenge Central Station",
+      "city_name_list": "Borlänge",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Dalarna",
+      "latitude": 60.48302,
+      "longitude": 15.42592,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Falköping Centralstation",
+      "asciiname": "Falkoeping Centralstation",
+      "city_name_list": "Falköping",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Vaestra Goetaland",
+      "latitude": 58.17555,
+      "longitude": 13.55164,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Helsingborg Central Station",
+      "asciiname": "Helsingborg Central Station",
+      "city_name_list": "Helsingborg=Ängelholm",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Skane",
+      "latitude": 56.04423,
+      "longitude": 12.69431,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Flen Railway Station",
+      "asciiname": "Flen Railway Station",
+      "city_name_list": "Flen",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Soedermanland",
+      "latitude": 59.05741,
+      "longitude": 16.5886,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Norrköping Central Station",
+      "asciiname": "Norrkoeping Central Station",
+      "city_name_list": "Norrköping",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "OEstergoetland",
+      "latitude": 58.59622,
+      "longitude": 16.18351,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Karlshamn SE Railway Station",
+      "asciiname": "Karlshamn SE Railway Station",
+      "city_name_list": "Karlshamn SE Railway Station",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 56.18,
+      "longitude": 14.87,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Avesta Centrum station",
+      "asciiname": "Avesta Centrum station",
+      "city_name_list": "Avesta",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Dalarna",
+      "latitude": 60.1476,
+      "longitude": 16.16715,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Ängelholm Railway Station",
+      "asciiname": "AEngelholm Railway Station",
+      "city_name_list": "Helsingborg=Ängelholm",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Skane",
+      "latitude": 56.24552,
+      "longitude": 12.85396,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Solvesborg SE Railway Station",
+      "asciiname": "Solvesborg SE Railway Station",
+      "city_name_list": "Solvesborg SE Railway Station",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 56.05,
+      "longitude": 14.58,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Sala Railway Station",
+      "asciiname": "Sala Railway Station",
+      "city_name_list": "Sala",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Vaestmanland",
+      "latitude": 59.92502,
+      "longitude": 16.60631,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Härnösand station",
+      "asciiname": "Haernoesand station",
+      "city_name_list": "Sundsvall=Midlanda=Härnösand",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "Vaesternorrland",
+      "latitude": 62.63503,
+      "longitude": 17.92842,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    },
+    {
+      "name": "Pass Ra SE Pass Rail Generic",
+      "asciiname": "Pass Ra SE Pass Rail Generic",
+      "city_name_list": "Pass Ra SE Pass Rail Generic",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "adm1_name_ascii": "",
+      "latitude": 59.35,
+      "longitude": 18.08,
+      "timezone": "Europe/Stockholm",
+      "uic_list": ""
+    }
+  ],
+  "meta": {
+    "title": "Sweden — Rail Stations - Free Download",
+    "description": "Railway stations in Sweden: name, city, state/province, coordinates, timezone. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sweden — Rail Stations | ListBase",
+    "seo_description": "Download Sweden — Rail Stations dataset with 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records with 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

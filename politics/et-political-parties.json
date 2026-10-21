@@ -1,0 +1,316 @@
+{
+  "id": "et-political-parties",
+  "name": "Ethiopia — Political Parties",
+  "title": "Ethiopia — Political Parties",
+  "description": "Political parties of Ethiopia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5793,
+      "name_short": "WPE",
+      "name": "Ye'itiyopiya Sheratenyochi Pariti",
+      "name_english": "Workers Party of Ethiopia",
+      "name_other": "Amharic: የኢትዮጵያ ሠራተኞች ፓርቲ",
+      "year_first": 1984,
+      "year_last": 1991,
+      "share": 100,
+      "share_year": 1988,
+      "wikipedia": "https://en.wikipedia.org/wiki/Workers%27_Party_of_Ethiopia",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4322,
+      "name_short": "EPRDF",
+      "name": "Ethiopian People's Revolutionary Democratic Front",
+      "name_english": "Ethiopian People's Revolutionary Democratic Front",
+      "name_other": "Amharic: የኢትዮጵያ ሕዝቦች አብዮታዊ ዲሞክራሲያዊ ግንባር",
+      "year_first": 1988,
+      "year_last": 2019,
+      "share": 59.8,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ethiopian_People's_Revolutionary_Democratic_Front",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5836,
+      "name_short": "OPDO",
+      "name": "Oromo Peoples' Democratic Organization",
+      "name_english": "Oromo Peoples' Democratic Organization",
+      "name_other": "",
+      "year_first": 1982,
+      "year_last": "",
+      "share": 32.6,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Oromo_Peoples%27_Democratic_Organization",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5827,
+      "name_short": "ANDM",
+      "name": "Amhara National Democratic Movement",
+      "name_english": "Amhara National Democratic Movement",
+      "name_other": "",
+      "year_first": 1980,
+      "year_last": "",
+      "share": 24.5,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Amhara_National_Democratic_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6589,
+      "name_short": "SEPDM",
+      "name": "Southern Ethiopia People’s Democratic Movement",
+      "name_english": "Southern Ethiopia People’s Democratic Movement",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 2008,
+      "share": 20.5,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Southern_Ethiopian_People%27s_Democratic_Movement",
+      "description": "112 of 547 seats in 2000 Ethiopian general election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4323,
+      "name_short": "CUD|CDU",
+      "name": "Coalition for Unity and Democracy",
+      "name_english": "Coalition for Unity and Democracy",
+      "name_other": "Ge'ez : ቅንጅት ለአንድነት እና ዴሞክራሲ",
+      "year_first": 2004,
+      "year_last": "",
+      "share": 19.9,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Coalition_for_Unity_and_Democracy",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4324,
+      "name_short": "UEDF",
+      "name": "United Ethiopian Democratic Forces",
+      "name_english": "United Ethiopian Democratic Forces",
+      "name_other": "Amharic: የኢትዮጵያ ዴሞክራሲዊ ኃይሎቸ ሕብረት",
+      "year_first": 2005,
+      "year_last": "",
+      "share": 9.5,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Ethiopian_Democratic_Forces",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5843,
+      "name_short": "TPLF",
+      "name": "Tigrayan People's Liberation Front",
+      "name_english": "Tigrayan People's Liberation Front",
+      "name_other": "",
+      "year_first": 1975,
+      "year_last": "",
+      "share": 7,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Tigrayan_People%27s_Liberation_Front",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6212,
+      "name_short": "WGGPDO",
+      "name": "Walayta, Gamo, Gofa, Dawro, and Konta People's Democratic Organization",
+      "name_english": "Walayta, Gamo, Gofa, Dawro, and Konta People's Democratic Organization",
+      "name_other": "",
+      "year_first": 2001,
+      "year_last": 2005,
+      "share": 5.5,
+      "share_year": 2000,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5629,
+      "name_short": "Forum",
+      "name": "Medrek",
+      "name_english": "Ethiopian Federal Democratic Unity Forum",
+      "name_other": "",
+      "year_first": 2010,
+      "year_last": "",
+      "share": 4.8,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ethiopia_Federal_Democratic_Unity_Forum",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4321,
+      "name_short": "SPDP",
+      "name": "Somali People's Democratic Party",
+      "name_english": "Somali People's Democratic Party",
+      "name_other": "Amharic: የሶማሌ ሕዝቦች ዴሞክራሲዊ ፓርቲ",
+      "year_first": 1998,
+      "year_last": "",
+      "share": 4.3,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Somali_People's_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4325,
+      "name_short": "OFDM",
+      "name": "Oromo Federalist Democratic Movement",
+      "name_english": "Oromo Federalist Democratic Movement",
+      "name_other": "Amharic: የኦሮሞ ፌደራሊስት ዴሞክራቲክ ንቅናቄ",
+      "year_first": 1981,
+      "year_last": "",
+      "share": 2,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Oromo_Federalist_Democratic_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4326,
+      "name_short": "ANDP",
+      "name": "Afar National Democratic Party",
+      "name_english": "Afar National Democratic Party",
+      "name_other": "Amharic: የአፋር ብሔራዊ ዴሞክራሲያዊ ፓርቲ",
+      "year_first": 1981,
+      "year_last": "",
+      "share": 1.4,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Afar_National_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4327,
+      "name_short": "BGPDUF",
+      "name": "Benishangul Gumuz People's Democratic Unity Front",
+      "name_english": "Benishangul Gumuz People's Democratic Unity Front",
+      "name_other": "Amharic: የቤንሻንጉልና ጉሙዝ ሕዝቦች ዴሞክራሲዊ አንድነት",
+      "year_first": 1996,
+      "year_last": "",
+      "share": 1.4,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Benishangul-Gumuz_People's_Democratic_Unity_Front",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8434,
+      "name_short": "COPWE",
+      "name": "Ya'ityopya Sareto'adaroc Parti 'Adaraj Komisen",
+      "name_english": "Commission for Organizing the Party of the Working People of Ethiopia",
+      "name_other": "",
+      "year_first": 1979,
+      "year_last": 1984,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Commission_for_Organizing_the_Party_of_the_Working_People_of_Ethiopia",
+      "description": "Chairman of the Provisional Military Administrative Council 1979-1985",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Ethiopia — Political Parties - Free Download",
+    "description": "Political parties of Ethiopia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ethiopia — Political Parties | ListBase",
+    "seo_description": "Download Ethiopia — Political Parties dataset with 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

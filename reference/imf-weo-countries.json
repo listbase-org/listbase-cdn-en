@@ -1,0 +1,986 @@
+{
+  "id": "imf-weo-countries",
+  "name": "IMF World Economic Outlook — Country Codes",
+  "title": "IMF World Economic Outlook — Country Codes",
+  "description": "189 countries covered by the IMF World Economic Outlook database, mapping ISO 3166-1 alpha-3 codes to IMF WEO numeric country codes and country names.",
+  "category": "reference",
+  "source": "https://github.com/datasets/imf-weo",
+  "source_url": "https://github.com/datasets/imf-weo",
+  "updated": "2026-04",
+  "record_count": 189,
+  "columns": [
+    {
+      "key": "iso3",
+      "label": "Iso3",
+      "type": "string"
+    },
+    {
+      "key": "weo_code",
+      "label": "Weo Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso3": "AFG",
+      "weo_code": "512",
+      "name": "Afghanistan"
+    },
+    {
+      "iso3": "AGO",
+      "weo_code": "614",
+      "name": "Angola"
+    },
+    {
+      "iso3": "ALB",
+      "weo_code": "914",
+      "name": "Albania"
+    },
+    {
+      "iso3": "ARE",
+      "weo_code": "466",
+      "name": "United Arab Emirates"
+    },
+    {
+      "iso3": "ARG",
+      "weo_code": "213",
+      "name": "Argentina"
+    },
+    {
+      "iso3": "ARM",
+      "weo_code": "911",
+      "name": "Armenia"
+    },
+    {
+      "iso3": "ATG",
+      "weo_code": "311",
+      "name": "Antigua and Barbuda"
+    },
+    {
+      "iso3": "AUS",
+      "weo_code": "193",
+      "name": "Australia"
+    },
+    {
+      "iso3": "AUT",
+      "weo_code": "122",
+      "name": "Austria"
+    },
+    {
+      "iso3": "AZE",
+      "weo_code": "912",
+      "name": "Azerbaijan"
+    },
+    {
+      "iso3": "BDI",
+      "weo_code": "618",
+      "name": "Burundi"
+    },
+    {
+      "iso3": "BEL",
+      "weo_code": "124",
+      "name": "Belgium"
+    },
+    {
+      "iso3": "BEN",
+      "weo_code": "638",
+      "name": "Benin"
+    },
+    {
+      "iso3": "BFA",
+      "weo_code": "748",
+      "name": "Burkina Faso"
+    },
+    {
+      "iso3": "BGD",
+      "weo_code": "513",
+      "name": "Bangladesh"
+    },
+    {
+      "iso3": "BGR",
+      "weo_code": "918",
+      "name": "Bulgaria"
+    },
+    {
+      "iso3": "BHR",
+      "weo_code": "419",
+      "name": "Bahrain"
+    },
+    {
+      "iso3": "BHS",
+      "weo_code": "313",
+      "name": "The Bahamas"
+    },
+    {
+      "iso3": "BIH",
+      "weo_code": "963",
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "iso3": "BLR",
+      "weo_code": "913",
+      "name": "Belarus"
+    },
+    {
+      "iso3": "BLZ",
+      "weo_code": "339",
+      "name": "Belize"
+    },
+    {
+      "iso3": "BOL",
+      "weo_code": "218",
+      "name": "Bolivia"
+    },
+    {
+      "iso3": "BRA",
+      "weo_code": "223",
+      "name": "Brazil"
+    },
+    {
+      "iso3": "BRB",
+      "weo_code": "316",
+      "name": "Barbados"
+    },
+    {
+      "iso3": "BRN",
+      "weo_code": "516",
+      "name": "Brunei Darussalam"
+    },
+    {
+      "iso3": "BTN",
+      "weo_code": "514",
+      "name": "Bhutan"
+    },
+    {
+      "iso3": "BWA",
+      "weo_code": "616",
+      "name": "Botswana"
+    },
+    {
+      "iso3": "CAF",
+      "weo_code": "626",
+      "name": "Central African Republic"
+    },
+    {
+      "iso3": "CAN",
+      "weo_code": "156",
+      "name": "Canada"
+    },
+    {
+      "iso3": "CHE",
+      "weo_code": "146",
+      "name": "Switzerland"
+    },
+    {
+      "iso3": "CHL",
+      "weo_code": "228",
+      "name": "Chile"
+    },
+    {
+      "iso3": "CHN",
+      "weo_code": "924",
+      "name": "China"
+    },
+    {
+      "iso3": "CIV",
+      "weo_code": "662",
+      "name": "Côte d'Ivoire"
+    },
+    {
+      "iso3": "CMR",
+      "weo_code": "622",
+      "name": "Cameroon"
+    },
+    {
+      "iso3": "COD",
+      "weo_code": "636",
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "iso3": "COG",
+      "weo_code": "634",
+      "name": "Republic of Congo"
+    },
+    {
+      "iso3": "COL",
+      "weo_code": "233",
+      "name": "Colombia"
+    },
+    {
+      "iso3": "COM",
+      "weo_code": "632",
+      "name": "Comoros"
+    },
+    {
+      "iso3": "CPV",
+      "weo_code": "624",
+      "name": "Cabo Verde"
+    },
+    {
+      "iso3": "CRI",
+      "weo_code": "238",
+      "name": "Costa Rica"
+    },
+    {
+      "iso3": "CYP",
+      "weo_code": "423",
+      "name": "Cyprus"
+    },
+    {
+      "iso3": "CZE",
+      "weo_code": "935",
+      "name": "Czech Republic"
+    },
+    {
+      "iso3": "DEU",
+      "weo_code": "134",
+      "name": "Germany"
+    },
+    {
+      "iso3": "DJI",
+      "weo_code": "611",
+      "name": "Djibouti"
+    },
+    {
+      "iso3": "DMA",
+      "weo_code": "321",
+      "name": "Dominica"
+    },
+    {
+      "iso3": "DNK",
+      "weo_code": "128",
+      "name": "Denmark"
+    },
+    {
+      "iso3": "DOM",
+      "weo_code": "243",
+      "name": "Dominican Republic"
+    },
+    {
+      "iso3": "DZA",
+      "weo_code": "612",
+      "name": "Algeria"
+    },
+    {
+      "iso3": "ECU",
+      "weo_code": "248",
+      "name": "Ecuador"
+    },
+    {
+      "iso3": "EGY",
+      "weo_code": "469",
+      "name": "Egypt"
+    },
+    {
+      "iso3": "ERI",
+      "weo_code": "643",
+      "name": "Eritrea"
+    },
+    {
+      "iso3": "ESP",
+      "weo_code": "184",
+      "name": "Spain"
+    },
+    {
+      "iso3": "EST",
+      "weo_code": "939",
+      "name": "Estonia"
+    },
+    {
+      "iso3": "ETH",
+      "weo_code": "644",
+      "name": "Ethiopia"
+    },
+    {
+      "iso3": "FIN",
+      "weo_code": "172",
+      "name": "Finland"
+    },
+    {
+      "iso3": "FJI",
+      "weo_code": "819",
+      "name": "Fiji"
+    },
+    {
+      "iso3": "FRA",
+      "weo_code": "132",
+      "name": "France"
+    },
+    {
+      "iso3": "FSM",
+      "weo_code": "868",
+      "name": "Micronesia"
+    },
+    {
+      "iso3": "GAB",
+      "weo_code": "646",
+      "name": "Gabon"
+    },
+    {
+      "iso3": "GBR",
+      "weo_code": "112",
+      "name": "United Kingdom"
+    },
+    {
+      "iso3": "GEO",
+      "weo_code": "915",
+      "name": "Georgia"
+    },
+    {
+      "iso3": "GHA",
+      "weo_code": "652",
+      "name": "Ghana"
+    },
+    {
+      "iso3": "GIN",
+      "weo_code": "656",
+      "name": "Guinea"
+    },
+    {
+      "iso3": "GMB",
+      "weo_code": "648",
+      "name": "The Gambia"
+    },
+    {
+      "iso3": "GNB",
+      "weo_code": "654",
+      "name": "Guinea-Bissau"
+    },
+    {
+      "iso3": "GNQ",
+      "weo_code": "642",
+      "name": "Equatorial Guinea"
+    },
+    {
+      "iso3": "GRC",
+      "weo_code": "174",
+      "name": "Greece"
+    },
+    {
+      "iso3": "GRD",
+      "weo_code": "328",
+      "name": "Grenada"
+    },
+    {
+      "iso3": "GTM",
+      "weo_code": "258",
+      "name": "Guatemala"
+    },
+    {
+      "iso3": "GUY",
+      "weo_code": "336",
+      "name": "Guyana"
+    },
+    {
+      "iso3": "HKG",
+      "weo_code": "532",
+      "name": "Hong Kong SAR"
+    },
+    {
+      "iso3": "HND",
+      "weo_code": "268",
+      "name": "Honduras"
+    },
+    {
+      "iso3": "HRV",
+      "weo_code": "960",
+      "name": "Croatia"
+    },
+    {
+      "iso3": "HTI",
+      "weo_code": "263",
+      "name": "Haiti"
+    },
+    {
+      "iso3": "HUN",
+      "weo_code": "944",
+      "name": "Hungary"
+    },
+    {
+      "iso3": "IDN",
+      "weo_code": "536",
+      "name": "Indonesia"
+    },
+    {
+      "iso3": "IND",
+      "weo_code": "534",
+      "name": "India"
+    },
+    {
+      "iso3": "IRL",
+      "weo_code": "178",
+      "name": "Ireland"
+    },
+    {
+      "iso3": "IRN",
+      "weo_code": "429",
+      "name": "Islamic Republic of Iran"
+    },
+    {
+      "iso3": "IRQ",
+      "weo_code": "433",
+      "name": "Iraq"
+    },
+    {
+      "iso3": "ISL",
+      "weo_code": "176",
+      "name": "Iceland"
+    },
+    {
+      "iso3": "ISR",
+      "weo_code": "436",
+      "name": "Israel"
+    },
+    {
+      "iso3": "ITA",
+      "weo_code": "136",
+      "name": "Italy"
+    },
+    {
+      "iso3": "JAM",
+      "weo_code": "343",
+      "name": "Jamaica"
+    },
+    {
+      "iso3": "JOR",
+      "weo_code": "439",
+      "name": "Jordan"
+    },
+    {
+      "iso3": "JPN",
+      "weo_code": "158",
+      "name": "Japan"
+    },
+    {
+      "iso3": "KAZ",
+      "weo_code": "916",
+      "name": "Kazakhstan"
+    },
+    {
+      "iso3": "KEN",
+      "weo_code": "664",
+      "name": "Kenya"
+    },
+    {
+      "iso3": "KGZ",
+      "weo_code": "917",
+      "name": "Kyrgyz Republic"
+    },
+    {
+      "iso3": "KHM",
+      "weo_code": "522",
+      "name": "Cambodia"
+    },
+    {
+      "iso3": "KIR",
+      "weo_code": "826",
+      "name": "Kiribati"
+    },
+    {
+      "iso3": "KNA",
+      "weo_code": "361",
+      "name": "St. Kitts and Nevis"
+    },
+    {
+      "iso3": "KOR",
+      "weo_code": "542",
+      "name": "Korea"
+    },
+    {
+      "iso3": "KWT",
+      "weo_code": "443",
+      "name": "Kuwait"
+    },
+    {
+      "iso3": "LAO",
+      "weo_code": "544",
+      "name": "Lao P.D.R."
+    },
+    {
+      "iso3": "LBN",
+      "weo_code": "446",
+      "name": "Lebanon"
+    },
+    {
+      "iso3": "LBR",
+      "weo_code": "668",
+      "name": "Liberia"
+    },
+    {
+      "iso3": "LBY",
+      "weo_code": "672",
+      "name": "Libya"
+    },
+    {
+      "iso3": "LCA",
+      "weo_code": "362",
+      "name": "St. Lucia"
+    },
+    {
+      "iso3": "LKA",
+      "weo_code": "524",
+      "name": "Sri Lanka"
+    },
+    {
+      "iso3": "LSO",
+      "weo_code": "666",
+      "name": "Lesotho"
+    },
+    {
+      "iso3": "LTU",
+      "weo_code": "946",
+      "name": "Lithuania"
+    },
+    {
+      "iso3": "LUX",
+      "weo_code": "137",
+      "name": "Luxembourg"
+    },
+    {
+      "iso3": "LVA",
+      "weo_code": "941",
+      "name": "Latvia"
+    },
+    {
+      "iso3": "MAR",
+      "weo_code": "686",
+      "name": "Morocco"
+    },
+    {
+      "iso3": "MDA",
+      "weo_code": "921",
+      "name": "Moldova"
+    },
+    {
+      "iso3": "MDG",
+      "weo_code": "674",
+      "name": "Madagascar"
+    },
+    {
+      "iso3": "MDV",
+      "weo_code": "556",
+      "name": "Maldives"
+    },
+    {
+      "iso3": "MEX",
+      "weo_code": "273",
+      "name": "Mexico"
+    },
+    {
+      "iso3": "MHL",
+      "weo_code": "867",
+      "name": "Marshall Islands"
+    },
+    {
+      "iso3": "MKD",
+      "weo_code": "962",
+      "name": "FYR Macedonia"
+    },
+    {
+      "iso3": "MLI",
+      "weo_code": "678",
+      "name": "Mali"
+    },
+    {
+      "iso3": "MLT",
+      "weo_code": "181",
+      "name": "Malta"
+    },
+    {
+      "iso3": "MMR",
+      "weo_code": "518",
+      "name": "Myanmar"
+    },
+    {
+      "iso3": "MNE",
+      "weo_code": "943",
+      "name": "Montenegro"
+    },
+    {
+      "iso3": "MNG",
+      "weo_code": "948",
+      "name": "Mongolia"
+    },
+    {
+      "iso3": "MOZ",
+      "weo_code": "688",
+      "name": "Mozambique"
+    },
+    {
+      "iso3": "MRT",
+      "weo_code": "682",
+      "name": "Mauritania"
+    },
+    {
+      "iso3": "MUS",
+      "weo_code": "684",
+      "name": "Mauritius"
+    },
+    {
+      "iso3": "MWI",
+      "weo_code": "676",
+      "name": "Malawi"
+    },
+    {
+      "iso3": "MYS",
+      "weo_code": "548",
+      "name": "Malaysia"
+    },
+    {
+      "iso3": "NAM",
+      "weo_code": "728",
+      "name": "Namibia"
+    },
+    {
+      "iso3": "NER",
+      "weo_code": "692",
+      "name": "Niger"
+    },
+    {
+      "iso3": "NGA",
+      "weo_code": "694",
+      "name": "Nigeria"
+    },
+    {
+      "iso3": "NIC",
+      "weo_code": "278",
+      "name": "Nicaragua"
+    },
+    {
+      "iso3": "NLD",
+      "weo_code": "138",
+      "name": "Netherlands"
+    },
+    {
+      "iso3": "NOR",
+      "weo_code": "142",
+      "name": "Norway"
+    },
+    {
+      "iso3": "NPL",
+      "weo_code": "558",
+      "name": "Nepal"
+    },
+    {
+      "iso3": "NZL",
+      "weo_code": "196",
+      "name": "New Zealand"
+    },
+    {
+      "iso3": "OMN",
+      "weo_code": "449",
+      "name": "Oman"
+    },
+    {
+      "iso3": "PAK",
+      "weo_code": "564",
+      "name": "Pakistan"
+    },
+    {
+      "iso3": "PAN",
+      "weo_code": "283",
+      "name": "Panama"
+    },
+    {
+      "iso3": "PER",
+      "weo_code": "293",
+      "name": "Peru"
+    },
+    {
+      "iso3": "PHL",
+      "weo_code": "566",
+      "name": "Philippines"
+    },
+    {
+      "iso3": "PLW",
+      "weo_code": "565",
+      "name": "Palau"
+    },
+    {
+      "iso3": "PNG",
+      "weo_code": "853",
+      "name": "Papua New Guinea"
+    },
+    {
+      "iso3": "POL",
+      "weo_code": "964",
+      "name": "Poland"
+    },
+    {
+      "iso3": "PRT",
+      "weo_code": "182",
+      "name": "Portugal"
+    },
+    {
+      "iso3": "PRY",
+      "weo_code": "288",
+      "name": "Paraguay"
+    },
+    {
+      "iso3": "QAT",
+      "weo_code": "453",
+      "name": "Qatar"
+    },
+    {
+      "iso3": "ROU",
+      "weo_code": "968",
+      "name": "Romania"
+    },
+    {
+      "iso3": "RUS",
+      "weo_code": "922",
+      "name": "Russia"
+    },
+    {
+      "iso3": "RWA",
+      "weo_code": "714",
+      "name": "Rwanda"
+    },
+    {
+      "iso3": "SAU",
+      "weo_code": "456",
+      "name": "Saudi Arabia"
+    },
+    {
+      "iso3": "SDN",
+      "weo_code": "732",
+      "name": "Sudan"
+    },
+    {
+      "iso3": "SEN",
+      "weo_code": "722",
+      "name": "Senegal"
+    },
+    {
+      "iso3": "SGP",
+      "weo_code": "576",
+      "name": "Singapore"
+    },
+    {
+      "iso3": "SLB",
+      "weo_code": "813",
+      "name": "Solomon Islands"
+    },
+    {
+      "iso3": "SLE",
+      "weo_code": "724",
+      "name": "Sierra Leone"
+    },
+    {
+      "iso3": "SLV",
+      "weo_code": "253",
+      "name": "El Salvador"
+    },
+    {
+      "iso3": "SMR",
+      "weo_code": "135",
+      "name": "San Marino"
+    },
+    {
+      "iso3": "SRB",
+      "weo_code": "942",
+      "name": "Serbia"
+    },
+    {
+      "iso3": "SSD",
+      "weo_code": "733",
+      "name": "South Sudan"
+    },
+    {
+      "iso3": "STP",
+      "weo_code": "716",
+      "name": "São Tomé and Príncipe"
+    },
+    {
+      "iso3": "SUR",
+      "weo_code": "366",
+      "name": "Suriname"
+    },
+    {
+      "iso3": "SVK",
+      "weo_code": "936",
+      "name": "Slovak Republic"
+    },
+    {
+      "iso3": "SVN",
+      "weo_code": "961",
+      "name": "Slovenia"
+    },
+    {
+      "iso3": "SWE",
+      "weo_code": "144",
+      "name": "Sweden"
+    },
+    {
+      "iso3": "SWZ",
+      "weo_code": "734",
+      "name": "Swaziland"
+    },
+    {
+      "iso3": "SYC",
+      "weo_code": "718",
+      "name": "Seychelles"
+    },
+    {
+      "iso3": "SYR",
+      "weo_code": "463",
+      "name": "Syria"
+    },
+    {
+      "iso3": "TCD",
+      "weo_code": "628",
+      "name": "Chad"
+    },
+    {
+      "iso3": "TGO",
+      "weo_code": "742",
+      "name": "Togo"
+    },
+    {
+      "iso3": "THA",
+      "weo_code": "578",
+      "name": "Thailand"
+    },
+    {
+      "iso3": "TJK",
+      "weo_code": "923",
+      "name": "Tajikistan"
+    },
+    {
+      "iso3": "TKM",
+      "weo_code": "925",
+      "name": "Turkmenistan"
+    },
+    {
+      "iso3": "TLS",
+      "weo_code": "537",
+      "name": "Timor-Leste"
+    },
+    {
+      "iso3": "TON",
+      "weo_code": "866",
+      "name": "Tonga"
+    },
+    {
+      "iso3": "TTO",
+      "weo_code": "369",
+      "name": "Trinidad and Tobago"
+    },
+    {
+      "iso3": "TUN",
+      "weo_code": "744",
+      "name": "Tunisia"
+    },
+    {
+      "iso3": "TUR",
+      "weo_code": "186",
+      "name": "Turkey"
+    },
+    {
+      "iso3": "TUV",
+      "weo_code": "869",
+      "name": "Tuvalu"
+    },
+    {
+      "iso3": "TWN",
+      "weo_code": "528",
+      "name": "Taiwan Province of China"
+    },
+    {
+      "iso3": "TZA",
+      "weo_code": "738",
+      "name": "Tanzania"
+    },
+    {
+      "iso3": "UGA",
+      "weo_code": "746",
+      "name": "Uganda"
+    },
+    {
+      "iso3": "UKR",
+      "weo_code": "926",
+      "name": "Ukraine"
+    },
+    {
+      "iso3": "URY",
+      "weo_code": "298",
+      "name": "Uruguay"
+    },
+    {
+      "iso3": "USA",
+      "weo_code": "111",
+      "name": "United States"
+    },
+    {
+      "iso3": "UVK",
+      "weo_code": "967",
+      "name": "Kosovo"
+    },
+    {
+      "iso3": "UZB",
+      "weo_code": "927",
+      "name": "Uzbekistan"
+    },
+    {
+      "iso3": "VCT",
+      "weo_code": "364",
+      "name": "St. Vincent and the Grenadines"
+    },
+    {
+      "iso3": "VEN",
+      "weo_code": "299",
+      "name": "Venezuela"
+    },
+    {
+      "iso3": "VNM",
+      "weo_code": "582",
+      "name": "Vietnam"
+    },
+    {
+      "iso3": "VUT",
+      "weo_code": "846",
+      "name": "Vanuatu"
+    },
+    {
+      "iso3": "WSM",
+      "weo_code": "862",
+      "name": "Samoa"
+    },
+    {
+      "iso3": "YEM",
+      "weo_code": "474",
+      "name": "Yemen"
+    },
+    {
+      "iso3": "ZAF",
+      "weo_code": "199",
+      "name": "South Africa"
+    },
+    {
+      "iso3": "ZMB",
+      "weo_code": "754",
+      "name": "Zambia"
+    },
+    {
+      "iso3": "ZWE",
+      "weo_code": "698",
+      "name": "Zimbabwe"
+    }
+  ],
+  "meta": {
+    "title": "IMF World Economic Outlook — Country Codes - Free Download",
+    "description": "189 countries covered by the IMF World Economic Outlook database, mapping ISO 3166-1 alpha-3 codes to IMF WEO numeric country codes and country names. Contains 189 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "IMF World Economic Outlook — Country Codes | ListBase",
+    "seo_description": "Download IMF World Economic Outlook — Country Codes — 189 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 189 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/imf-weo"
+    ]
+  }
+}

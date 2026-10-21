@@ -1,0 +1,586 @@
+{
+  "id": "cli-spinner-animations",
+  "name": "CLI Spinner Animations",
+  "title": "CLI Spinner Animations",
+  "description": "A collection of 90 terminal spinner animations used in command-line interfaces, with frame sequences, intervals, and frame counts.",
+  "category": "tech",
+  "source": "https://github.com/sindresorhus/cli-spinners",
+  "source_url": "https://github.com/sindresorhus/cli-spinners",
+  "updated": "2026-04",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "interval",
+      "label": "Interval",
+      "type": "number"
+    },
+    {
+      "key": "frames",
+      "label": "Frames",
+      "type": "string"
+    },
+    {
+      "key": "frame_count",
+      "label": "Frame Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "dots",
+      "interval": 80,
+      "frames": "⠋, ⠙, ⠹, ⠸, ⠼, ⠴, ⠦, ⠧, ⠇, ⠏",
+      "frame_count": 10
+    },
+    {
+      "name": "dots2",
+      "interval": 80,
+      "frames": "⣾, ⣽, ⣻, ⢿, ⡿, ⣟, ⣯, ⣷",
+      "frame_count": 8
+    },
+    {
+      "name": "dots3",
+      "interval": 80,
+      "frames": "⠋, ⠙, ⠚, ⠞, ⠖, ⠦, ⠴, ⠲, ⠳, ⠓",
+      "frame_count": 10
+    },
+    {
+      "name": "dots4",
+      "interval": 80,
+      "frames": "⠄, ⠆, ⠇, ⠋, ⠙, ⠸, ⠰, ⠠, ⠰, ⠸, ⠙, ⠋, ⠇, ⠆",
+      "frame_count": 14
+    },
+    {
+      "name": "dots5",
+      "interval": 80,
+      "frames": "⠋, ⠙, ⠚, ⠒, ⠂, ⠂, ⠒, ⠲, ⠴, ⠦, ⠖, ⠒, ⠐, ⠐, ⠒, ⠓, ⠋",
+      "frame_count": 17
+    },
+    {
+      "name": "dots6",
+      "interval": 80,
+      "frames": "⠁, ⠉, ⠙, ⠚, ⠒, ⠂, ⠂, ⠒, ⠲, ⠴, ⠤, ⠄, ⠄, ⠤, ⠴, ⠲, ⠒, ⠂, ⠂, ⠒, ⠚, ⠙, ⠉, ⠁",
+      "frame_count": 24
+    },
+    {
+      "name": "dots7",
+      "interval": 80,
+      "frames": "⠈, ⠉, ⠋, ⠓, ⠒, ⠐, ⠐, ⠒, ⠖, ⠦, ⠤, ⠠, ⠠, ⠤, ⠦, ⠖, ⠒, ⠐, ⠐, ⠒, ⠓, ⠋, ⠉, ⠈",
+      "frame_count": 24
+    },
+    {
+      "name": "dots8",
+      "interval": 80,
+      "frames": "⠁, ⠁, ⠉, ⠙, ⠚, ⠒, ⠂, ⠂, ⠒, ⠲, ⠴, ⠤, ⠄, ⠄, ⠤, ⠠, ⠠, ⠤, ⠦, ⠖, ⠒, ⠐, ⠐, ⠒, ⠓, ⠋, ⠉, ⠈, ⠈",
+      "frame_count": 29
+    },
+    {
+      "name": "dots9",
+      "interval": 80,
+      "frames": "⢹, ⢺, ⢼, ⣸, ⣇, ⡧, ⡗, ⡏",
+      "frame_count": 8
+    },
+    {
+      "name": "dots10",
+      "interval": 80,
+      "frames": "⢄, ⢂, ⢁, ⡁, ⡈, ⡐, ⡠",
+      "frame_count": 7
+    },
+    {
+      "name": "dots11",
+      "interval": 100,
+      "frames": "⠁, ⠂, ⠄, ⡀, ⢀, ⠠, ⠐, ⠈",
+      "frame_count": 8
+    },
+    {
+      "name": "dots12",
+      "interval": 80,
+      "frames": "⢀⠀, ⡀⠀, ⠄⠀, ⢂⠀, ⡂⠀, ⠅⠀, ⢃⠀, ⡃⠀, ⠍⠀, ⢋⠀, ⡋⠀, ⠍⠁, ⢋⠁, ⡋⠁, ⠍⠉, ⠋⠉, ⠋⠉, ⠉⠙, ⠉⠙, ⠉⠩, ⠈⢙, ⠈⡙, ⢈⠩, ⡀⢙, ⠄⡙, ⢂⠩, ⡂⢘, ⠅⡘, ⢃⠨, ⡃⢐, ⠍⡐, ⢋⠠, ⡋⢀, ⠍⡁, ⢋⠁, ⡋⠁, ⠍⠉, ⠋⠉, ⠋⠉, ⠉⠙, ⠉⠙, ⠉⠩, ⠈⢙, ⠈⡙, ⠈⠩, ⠀⢙, ⠀⡙, ⠀⠩, ⠀⢘, ⠀⡘, ⠀⠨, ⠀⢐, ⠀⡐, ⠀⠠, ⠀⢀, ⠀⡀",
+      "frame_count": 56
+    },
+    {
+      "name": "dots13",
+      "interval": 80,
+      "frames": "⣼, ⣹, ⢻, ⠿, ⡟, ⣏, ⣧, ⣶",
+      "frame_count": 8
+    },
+    {
+      "name": "dots14",
+      "interval": 80,
+      "frames": "⠉⠉, ⠈⠙, ⠀⠹, ⠀⢸, ⠀⣰, ⢀⣠, ⣀⣀, ⣄⡀, ⣆⠀, ⡇⠀, ⠏⠀, ⠋⠁",
+      "frame_count": 12
+    },
+    {
+      "name": "dots8Bit",
+      "interval": 80,
+      "frames": "⠀, ⠁, ⠂, ⠃, ⠄, ⠅, ⠆, ⠇, ⡀, ⡁, ⡂, ⡃, ⡄, ⡅, ⡆, ⡇, ⠈, ⠉, ⠊, ⠋, ⠌, ⠍, ⠎, ⠏, ⡈, ⡉, ⡊, ⡋, ⡌, ⡍, ⡎, ⡏, ⠐, ⠑, ⠒, ⠓, ⠔, ⠕, ⠖, ⠗, ⡐, ⡑, ⡒, ⡓, ⡔, ⡕, ⡖, ⡗, ⠘, ⠙, ⠚, ⠛, ⠜, ⠝, ⠞, ⠟, ⡘, ⡙, ⡚, ⡛, ⡜, ⡝, ⡞, ⡟, ⠠, ⠡, ⠢, ⠣, ⠤, ⠥, ⠦, ⠧, ⡠, ⡡, ⡢, ⡣, ⡤, ⡥, ⡦, ⡧, ⠨, ⠩, ⠪, ⠫, ⠬, ⠭, ⠮, ⠯, ⡨, ⡩, ⡪, ⡫, ⡬, ⡭, ⡮, ⡯, ⠰, ⠱, ⠲, ⠳, ⠴, ⠵, ⠶, ⠷, ⡰, ⡱, ⡲, ⡳, ⡴, ⡵, ⡶, ⡷, ⠸, ⠹, ⠺, ⠻, ⠼, ⠽, ⠾, ⠿, ⡸, ⡹, ⡺, ⡻, ⡼, ⡽, ⡾, ⡿, ⢀, ⢁, ⢂, ⢃, ⢄, ⢅, ⢆, ⢇, ⣀, ⣁, ⣂, ⣃, ⣄, ⣅, ⣆, ⣇, ⢈, ⢉, ⢊, ⢋, ⢌, ⢍, ⢎, ⢏, ⣈, ⣉, ⣊, ⣋, ⣌, ⣍, ⣎, ⣏, ⢐, ⢑, ⢒, ⢓, ⢔, ⢕, ⢖, ⢗, ⣐, ⣑, ⣒, ⣓, ⣔, ⣕, ⣖, ⣗, ⢘, ⢙, ⢚, ⢛, ⢜, ⢝, ⢞, ⢟, ⣘, ⣙, ⣚, ⣛, ⣜, ⣝, ⣞, ⣟, ⢠, ⢡, ⢢, ⢣, ⢤, ⢥, ⢦, ⢧, ⣠, ⣡, ⣢, ⣣, ⣤, ⣥, ⣦, ⣧, ⢨, ⢩, ⢪, ⢫, ⢬, ⢭, ⢮, ⢯, ⣨, ⣩, ⣪, ⣫, ⣬, ⣭, ⣮, ⣯, ⢰, ⢱, ⢲, ⢳, ⢴, ⢵, ⢶, ⢷, ⣰, ⣱, ⣲, ⣳, ⣴, ⣵, ⣶, ⣷, ⢸, ⢹, ⢺, ⢻, ⢼, ⢽, ⢾, ⢿, ⣸, ⣹, ⣺, ⣻, ⣼, ⣽, ⣾, ⣿",
+      "frame_count": 256
+    },
+    {
+      "name": "dotsCircle",
+      "interval": 80,
+      "frames": "⢎ , ⠎⠁, ⠊⠑, ⠈⠱,  ⡱, ⢀⡰, ⢄⡠, ⢆⡀",
+      "frame_count": 8
+    },
+    {
+      "name": "sand",
+      "interval": 80,
+      "frames": "⠁, ⠂, ⠄, ⡀, ⡈, ⡐, ⡠, ⣀, ⣁, ⣂, ⣄, ⣌, ⣔, ⣤, ⣥, ⣦, ⣮, ⣶, ⣷, ⣿, ⡿, ⠿, ⢟, ⠟, ⡛, ⠛, ⠫, ⢋, ⠋, ⠍, ⡉, ⠉, ⠑, ⠡, ⢁",
+      "frame_count": 35
+    },
+    {
+      "name": "line",
+      "interval": 130,
+      "frames": "-, \\, |, /",
+      "frame_count": 4
+    },
+    {
+      "name": "line2",
+      "interval": 100,
+      "frames": "⠂, -, –, —, –, -",
+      "frame_count": 6
+    },
+    {
+      "name": "rollingLine",
+      "interval": 80,
+      "frames": "/  ,  - ,  \\ ,   |,   |,  \\ ,  - , /  ",
+      "frame_count": 8
+    },
+    {
+      "name": "pipe",
+      "interval": 100,
+      "frames": "┤, ┘, ┴, └, ├, ┌, ┬, ┐",
+      "frame_count": 8
+    },
+    {
+      "name": "simpleDots",
+      "interval": 400,
+      "frames": ".  , .. , ...,    ",
+      "frame_count": 4
+    },
+    {
+      "name": "simpleDotsScrolling",
+      "interval": 200,
+      "frames": ".  , .. , ...,  ..,   .,    ",
+      "frame_count": 6
+    },
+    {
+      "name": "star",
+      "interval": 70,
+      "frames": "✶, ✸, ✹, ✺, ✹, ✷",
+      "frame_count": 6
+    },
+    {
+      "name": "star2",
+      "interval": 80,
+      "frames": "+, x, *",
+      "frame_count": 3
+    },
+    {
+      "name": "flip",
+      "interval": 70,
+      "frames": "_, _, _, -, `, `, ', ´, -, _, _, _",
+      "frame_count": 12
+    },
+    {
+      "name": "hamburger",
+      "interval": 100,
+      "frames": "☱, ☲, ☴",
+      "frame_count": 3
+    },
+    {
+      "name": "growVertical",
+      "interval": 120,
+      "frames": "▁, ▃, ▄, ▅, ▆, ▇, ▆, ▅, ▄, ▃",
+      "frame_count": 10
+    },
+    {
+      "name": "growHorizontal",
+      "interval": 120,
+      "frames": "▏, ▎, ▍, ▌, ▋, ▊, ▉, ▊, ▋, ▌, ▍, ▎",
+      "frame_count": 12
+    },
+    {
+      "name": "balloon",
+      "interval": 140,
+      "frames": " , ., o, O, @, *,  ",
+      "frame_count": 7
+    },
+    {
+      "name": "balloon2",
+      "interval": 120,
+      "frames": "., o, O, °, O, o, .",
+      "frame_count": 7
+    },
+    {
+      "name": "noise",
+      "interval": 100,
+      "frames": "▓, ▒, ░",
+      "frame_count": 3
+    },
+    {
+      "name": "bounce",
+      "interval": 120,
+      "frames": "⠁, ⠂, ⠄, ⠂",
+      "frame_count": 4
+    },
+    {
+      "name": "boxBounce",
+      "interval": 120,
+      "frames": "▖, ▘, ▝, ▗",
+      "frame_count": 4
+    },
+    {
+      "name": "boxBounce2",
+      "interval": 100,
+      "frames": "▌, ▀, ▐, ▄",
+      "frame_count": 4
+    },
+    {
+      "name": "triangle",
+      "interval": 50,
+      "frames": "◢, ◣, ◤, ◥",
+      "frame_count": 4
+    },
+    {
+      "name": "binary",
+      "interval": 80,
+      "frames": "010010, 001100, 100101, 111010, 111101, 010111, 101011, 111000, 110011, 110101",
+      "frame_count": 10
+    },
+    {
+      "name": "arc",
+      "interval": 100,
+      "frames": "◜, ◠, ◝, ◞, ◡, ◟",
+      "frame_count": 6
+    },
+    {
+      "name": "circle",
+      "interval": 120,
+      "frames": "◡, ⊙, ◠",
+      "frame_count": 3
+    },
+    {
+      "name": "squareCorners",
+      "interval": 180,
+      "frames": "◰, ◳, ◲, ◱",
+      "frame_count": 4
+    },
+    {
+      "name": "circleQuarters",
+      "interval": 120,
+      "frames": "◴, ◷, ◶, ◵",
+      "frame_count": 4
+    },
+    {
+      "name": "circleHalves",
+      "interval": 50,
+      "frames": "◐, ◓, ◑, ◒",
+      "frame_count": 4
+    },
+    {
+      "name": "squish",
+      "interval": 100,
+      "frames": "╫, ╪",
+      "frame_count": 2
+    },
+    {
+      "name": "toggle",
+      "interval": 250,
+      "frames": "⊶, ⊷",
+      "frame_count": 2
+    },
+    {
+      "name": "toggle2",
+      "interval": 80,
+      "frames": "▫, ▪",
+      "frame_count": 2
+    },
+    {
+      "name": "toggle3",
+      "interval": 120,
+      "frames": "□, ■",
+      "frame_count": 2
+    },
+    {
+      "name": "toggle4",
+      "interval": 100,
+      "frames": "■, □, ▪, ▫",
+      "frame_count": 4
+    },
+    {
+      "name": "toggle5",
+      "interval": 100,
+      "frames": "▮, ▯",
+      "frame_count": 2
+    },
+    {
+      "name": "toggle6",
+      "interval": 300,
+      "frames": "ဝ, ၀",
+      "frame_count": 2
+    },
+    {
+      "name": "toggle7",
+      "interval": 80,
+      "frames": "⦾, ⦿",
+      "frame_count": 2
+    },
+    {
+      "name": "toggle8",
+      "interval": 100,
+      "frames": "◍, ◌",
+      "frame_count": 2
+    },
+    {
+      "name": "toggle9",
+      "interval": 100,
+      "frames": "◉, ◎",
+      "frame_count": 2
+    },
+    {
+      "name": "toggle10",
+      "interval": 100,
+      "frames": "㊂, ㊀, ㊁",
+      "frame_count": 3
+    },
+    {
+      "name": "toggle11",
+      "interval": 50,
+      "frames": "⧇, ⧆",
+      "frame_count": 2
+    },
+    {
+      "name": "toggle12",
+      "interval": 120,
+      "frames": "☗, ☖",
+      "frame_count": 2
+    },
+    {
+      "name": "toggle13",
+      "interval": 80,
+      "frames": "=, *, -",
+      "frame_count": 3
+    },
+    {
+      "name": "arrow",
+      "interval": 100,
+      "frames": "←, ↖, ↑, ↗, →, ↘, ↓, ↙",
+      "frame_count": 8
+    },
+    {
+      "name": "arrow2",
+      "interval": 80,
+      "frames": "⬆️ , ↗️ , ➡️ , ↘️ , ⬇️ , ↙️ , ⬅️ , ↖️ ",
+      "frame_count": 8
+    },
+    {
+      "name": "arrow3",
+      "interval": 120,
+      "frames": "▹▹▹▹▹, ▸▹▹▹▹, ▹▸▹▹▹, ▹▹▸▹▹, ▹▹▹▸▹, ▹▹▹▹▸",
+      "frame_count": 6
+    },
+    {
+      "name": "bouncingBar",
+      "interval": 80,
+      "frames": "[    ], [=   ], [==  ], [=== ], [====], [ ===], [  ==], [   =], [    ], [   =], [  ==], [ ===], [====], [=== ], [==  ], [=   ]",
+      "frame_count": 16
+    },
+    {
+      "name": "bouncingBall",
+      "interval": 80,
+      "frames": "( ●    ), (  ●   ), (   ●  ), (    ● ), (     ●), (    ● ), (   ●  ), (  ●   ), ( ●    ), (●     )",
+      "frame_count": 10
+    },
+    {
+      "name": "smiley",
+      "interval": 200,
+      "frames": "😄 , 😝 ",
+      "frame_count": 2
+    },
+    {
+      "name": "monkey",
+      "interval": 300,
+      "frames": "🙈 , 🙈 , 🙉 , 🙊 ",
+      "frame_count": 4
+    },
+    {
+      "name": "hearts",
+      "interval": 100,
+      "frames": "💛 , 💙 , 💜 , 💚 , 💗 ",
+      "frame_count": 5
+    },
+    {
+      "name": "clock",
+      "interval": 100,
+      "frames": "🕛 , 🕐 , 🕑 , 🕒 , 🕓 , 🕔 , 🕕 , 🕖 , 🕗 , 🕘 , 🕙 , 🕚 ",
+      "frame_count": 12
+    },
+    {
+      "name": "earth",
+      "interval": 180,
+      "frames": "🌍 , 🌎 , 🌏 ",
+      "frame_count": 3
+    },
+    {
+      "name": "material",
+      "interval": 17,
+      "frames": "█▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁, ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁, ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁, ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁, ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁, ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁, ███████▁▁▁▁▁▁▁▁▁▁▁▁▁, ████████▁▁▁▁▁▁▁▁▁▁▁▁, █████████▁▁▁▁▁▁▁▁▁▁▁, █████████▁▁▁▁▁▁▁▁▁▁▁, ██████████▁▁▁▁▁▁▁▁▁▁, ███████████▁▁▁▁▁▁▁▁▁, █████████████▁▁▁▁▁▁▁, ██████████████▁▁▁▁▁▁, ██████████████▁▁▁▁▁▁, ▁██████████████▁▁▁▁▁, ▁██████████████▁▁▁▁▁, ▁██████████████▁▁▁▁▁, ▁▁██████████████▁▁▁▁, ▁▁▁██████████████▁▁▁, ▁▁▁▁█████████████▁▁▁, ▁▁▁▁██████████████▁▁, ▁▁▁▁██████████████▁▁, ▁▁▁▁▁██████████████▁, ▁▁▁▁▁██████████████▁, ▁▁▁▁▁██████████████▁, ▁▁▁▁▁▁██████████████, ▁▁▁▁▁▁██████████████, ▁▁▁▁▁▁▁█████████████, ▁▁▁▁▁▁▁█████████████, ▁▁▁▁▁▁▁▁████████████, ▁▁▁▁▁▁▁▁████████████, ▁▁▁▁▁▁▁▁▁███████████, ▁▁▁▁▁▁▁▁▁███████████, ▁▁▁▁▁▁▁▁▁▁██████████, ▁▁▁▁▁▁▁▁▁▁██████████, ▁▁▁▁▁▁▁▁▁▁▁▁████████, ▁▁▁▁▁▁▁▁▁▁▁▁▁███████, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁██████, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█████, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█████, █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁████, ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁███, ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁███, ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁███, ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁██, █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁█, █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁█, ██████▁▁▁▁▁▁▁▁▁▁▁▁▁█, ████████▁▁▁▁▁▁▁▁▁▁▁▁, █████████▁▁▁▁▁▁▁▁▁▁▁, █████████▁▁▁▁▁▁▁▁▁▁▁, █████████▁▁▁▁▁▁▁▁▁▁▁, █████████▁▁▁▁▁▁▁▁▁▁▁, ███████████▁▁▁▁▁▁▁▁▁, ████████████▁▁▁▁▁▁▁▁, ████████████▁▁▁▁▁▁▁▁, ██████████████▁▁▁▁▁▁, ██████████████▁▁▁▁▁▁, ▁██████████████▁▁▁▁▁, ▁██████████████▁▁▁▁▁, ▁▁▁█████████████▁▁▁▁, ▁▁▁▁▁████████████▁▁▁, ▁▁▁▁▁████████████▁▁▁, ▁▁▁▁▁▁███████████▁▁▁, ▁▁▁▁▁▁▁▁█████████▁▁▁, ▁▁▁▁▁▁▁▁█████████▁▁▁, ▁▁▁▁▁▁▁▁▁█████████▁▁, ▁▁▁▁▁▁▁▁▁█████████▁▁, ▁▁▁▁▁▁▁▁▁▁█████████▁, ▁▁▁▁▁▁▁▁▁▁▁████████▁, ▁▁▁▁▁▁▁▁▁▁▁████████▁, ▁▁▁▁▁▁▁▁▁▁▁▁███████▁, ▁▁▁▁▁▁▁▁▁▁▁▁███████▁, ▁▁▁▁▁▁▁▁▁▁▁▁▁███████, ▁▁▁▁▁▁▁▁▁▁▁▁▁███████, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█████, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁████, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁████, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁████, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁███, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁███, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁██, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁██, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁██, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁, ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁",
+      "frame_count": 92
+    },
+    {
+      "name": "moon",
+      "interval": 80,
+      "frames": "🌑 , 🌒 , 🌓 , 🌔 , 🌕 , 🌖 , 🌗 , 🌘 ",
+      "frame_count": 8
+    },
+    {
+      "name": "runner",
+      "interval": 140,
+      "frames": "🚶 , 🏃 ",
+      "frame_count": 2
+    },
+    {
+      "name": "pong",
+      "interval": 80,
+      "frames": "▐⠂       ▌, ▐⠈       ▌, ▐ ⠂      ▌, ▐ ⠠      ▌, ▐  ⡀     ▌, ▐  ⠠     ▌, ▐   ⠂    ▌, ▐   ⠈    ▌, ▐    ⠂   ▌, ▐    ⠠   ▌, ▐     ⡀  ▌, ▐     ⠠  ▌, ▐      ⠂ ▌, ▐      ⠈ ▌, ▐       ⠂▌, ▐       ⠠▌, ▐       ⡀▌, ▐      ⠠ ▌, ▐      ⠂ ▌, ▐     ⠈  ▌, ▐     ⠂  ▌, ▐    ⠠   ▌, ▐    ⡀   ▌, ▐   ⠠    ▌, ▐   ⠂    ▌, ▐  ⠈     ▌, ▐  ⠂     ▌, ▐ ⠠      ▌, ▐ ⡀      ▌, ▐⠠       ▌",
+      "frame_count": 30
+    },
+    {
+      "name": "shark",
+      "interval": 120,
+      "frames": "▐|\\____________▌, ▐_|\\___________▌, ▐__|\\__________▌, ▐___|\\_________▌, ▐____|\\________▌, ▐_____|\\_______▌, ▐______|\\______▌, ▐_______|\\_____▌, ▐________|\\____▌, ▐_________|\\___▌, ▐__________|\\__▌, ▐___________|\\_▌, ▐____________|\\▌, ▐____________/|▌, ▐___________/|_▌, ▐__________/|__▌, ▐_________/|___▌, ▐________/|____▌, ▐_______/|_____▌, ▐______/|______▌, ▐_____/|_______▌, ▐____/|________▌, ▐___/|_________▌, ▐__/|__________▌, ▐_/|___________▌, ▐/|____________▌",
+      "frame_count": 26
+    },
+    {
+      "name": "dqpb",
+      "interval": 100,
+      "frames": "d, q, p, b",
+      "frame_count": 4
+    },
+    {
+      "name": "weather",
+      "interval": 100,
+      "frames": "☀️ , ☀️ , ☀️ , 🌤 , ⛅️ , 🌥 , ☁️ , 🌧 , 🌨 , 🌧 , 🌨 , 🌧 , 🌨 , ⛈ , 🌨 , 🌧 , 🌨 , ☁️ , 🌥 , ⛅️ , 🌤 , ☀️ , ☀️ ",
+      "frame_count": 23
+    },
+    {
+      "name": "christmas",
+      "interval": 400,
+      "frames": "🌲, 🎄",
+      "frame_count": 2
+    },
+    {
+      "name": "grenade",
+      "interval": 80,
+      "frames": "،  , ′  ,  ´ ,  ‾ ,   ⸌,   ⸊,   |,   ⁎,   ⁕,  ෴ ,   ⁓,    ,    ,    ",
+      "frame_count": 14
+    },
+    {
+      "name": "point",
+      "interval": 125,
+      "frames": "∙∙∙, ●∙∙, ∙●∙, ∙∙●, ∙∙∙",
+      "frame_count": 5
+    },
+    {
+      "name": "layer",
+      "interval": 150,
+      "frames": "-, =, ≡",
+      "frame_count": 3
+    },
+    {
+      "name": "betaWave",
+      "interval": 80,
+      "frames": "ρββββββ, βρβββββ, ββρββββ, βββρβββ, ββββρββ, βββββρβ, ββββββρ",
+      "frame_count": 7
+    },
+    {
+      "name": "fingerDance",
+      "interval": 160,
+      "frames": "🤘 , 🤟 , 🖖 , ✋ , 🤚 , 👆 ",
+      "frame_count": 6
+    },
+    {
+      "name": "fistBump",
+      "interval": 80,
+      "frames": "🤜　　　　🤛 , 🤜　　　　🤛 , 🤜　　　　🤛 , 　🤜　　🤛　 , 　　🤜🤛　　 , 　🤜✨🤛　　 , 🤜　✨　🤛　 ",
+      "frame_count": 7
+    },
+    {
+      "name": "soccerHeader",
+      "interval": 80,
+      "frames": " 🧑⚽️       🧑 , 🧑  ⚽️      🧑 , 🧑   ⚽️     🧑 , 🧑    ⚽️    🧑 , 🧑     ⚽️   🧑 , 🧑      ⚽️  🧑 , 🧑       ⚽️🧑  , 🧑      ⚽️  🧑 , 🧑     ⚽️   🧑 , 🧑    ⚽️    🧑 , 🧑   ⚽️     🧑 , 🧑  ⚽️      🧑 ",
+      "frame_count": 12
+    },
+    {
+      "name": "mindblown",
+      "interval": 160,
+      "frames": "😐 , 😐 , 😮 , 😮 , 😦 , 😦 , 😧 , 😧 , 🤯 , 💥 , ✨ , 　 , 　 , 　 ",
+      "frame_count": 14
+    },
+    {
+      "name": "speaker",
+      "interval": 160,
+      "frames": "🔈 , 🔉 , 🔊 , 🔉 ",
+      "frame_count": 4
+    },
+    {
+      "name": "orangePulse",
+      "interval": 100,
+      "frames": "🔸 , 🔶 , 🟠 , 🟠 , 🔶 ",
+      "frame_count": 5
+    },
+    {
+      "name": "bluePulse",
+      "interval": 100,
+      "frames": "🔹 , 🔷 , 🔵 , 🔵 , 🔷 ",
+      "frame_count": 5
+    },
+    {
+      "name": "orangeBluePulse",
+      "interval": 100,
+      "frames": "🔸 , 🔶 , 🟠 , 🟠 , 🔶 , 🔹 , 🔷 , 🔵 , 🔵 , 🔷 ",
+      "frame_count": 10
+    },
+    {
+      "name": "timeTravel",
+      "interval": 100,
+      "frames": "🕛 , 🕚 , 🕙 , 🕘 , 🕗 , 🕖 , 🕕 , 🕔 , 🕓 , 🕒 , 🕑 , 🕐 ",
+      "frame_count": 12
+    },
+    {
+      "name": "aesthetic",
+      "interval": 80,
+      "frames": "▰▱▱▱▱▱▱, ▰▰▱▱▱▱▱, ▰▰▰▱▱▱▱, ▰▰▰▰▱▱▱, ▰▰▰▰▰▱▱, ▰▰▰▰▰▰▱, ▰▰▰▰▰▰▰, ▰▱▱▱▱▱▱",
+      "frame_count": 8
+    },
+    {
+      "name": "dwarfFortress",
+      "interval": 80,
+      "frames": " ██████£££  , ☺██████£££  , ☺██████£££  , ☺▓█████£££  , ☺▓█████£££  , ☺▒█████£££  , ☺▒█████£££  , ☺░█████£££  , ☺░█████£££  , ☺ █████£££  ,  ☺█████£££  ,  ☺█████£££  ,  ☺▓████£££  ,  ☺▓████£££  ,  ☺▒████£££  ,  ☺▒████£££  ,  ☺░████£££  ,  ☺░████£££  ,  ☺ ████£££  ,   ☺████£££  ,   ☺████£££  ,   ☺▓███£££  ,   ☺▓███£££  ,   ☺▒███£££  ,   ☺▒███£££  ,   ☺░███£££  ,   ☺░███£££  ,   ☺ ███£££  ,    ☺███£££  ,    ☺███£££  ,    ☺▓██£££  ,    ☺▓██£££  ,    ☺▒██£££  ,    ☺▒██£££  ,    ☺░██£££  ,    ☺░██£££  ,    ☺ ██£££  ,     ☺██£££  ,     ☺██£££  ,     ☺▓█£££  ,     ☺▓█£££  ,     ☺▒█£££  ,     ☺▒█£££  ,     ☺░█£££  ,     ☺░█£££  ,     ☺ █£££  ,      ☺█£££  ,      ☺█£££  ,      ☺▓£££  ,      ☺▓£££  ,      ☺▒£££  ,      ☺▒£££  ,      ☺░£££  ,      ☺░£££  ,      ☺ £££  ,       ☺£££  ,       ☺£££  ,       ☺▓££  ,       ☺▓££  ,       ☺▒££  ,       ☺▒££  ,       ☺░££  ,       ☺░££  ,       ☺ ££  ,        ☺££  ,        ☺££  ,        ☺▓£  ,        ☺▓£  ,        ☺▒£  ,        ☺▒£  ,        ☺░£  ,        ☺░£  ,        ☺ £  ,         ☺£  ,         ☺£  ,         ☺▓  ,         ☺▓  ,         ☺▒  ,         ☺▒  ,         ☺░  ,         ☺░  ,         ☺   ,         ☺  &,         ☺ ☼&,        ☺ ☼ &,        ☺☼  &,       ☺☼  & ,       ‼   & ,      ☺   &  ,     ‼    &  ,    ☺    &   ,   ‼     &   ,  ☺     &    , ‼      &    ,       &     ,       &     ,      &   ░  ,      &   ▒  ,     &    ▓  ,     &    £  ,    &    ░£  ,    &    ▒£  ,   &     ▓£  ,   &     ££  ,  &     ░££  ,  &     ▒££  , &      ▓££  , &      £££  ,       ░£££  ,       ▒£££  ,       ▓£££  ,       █£££  ,      ░█£££  ,      ▒█£££  ,      ▓█£££  ,      ██£££  ,     ░██£££  ,     ▒██£££  ,     ▓██£££  ,     ███£££  ,    ░███£££  ,    ▒███£££  ,    ▓███£££  ,    ████£££  ,   ░████£££  ,   ▒████£££  ,   ▓████£££  ,   █████£££  ,  ░█████£££  ,  ▒█████£££  ,  ▓█████£££  ,  ██████£££  ,  ██████£££  ",
+      "frame_count": 133
+    },
+    {
+      "name": "fish",
+      "interval": 80,
+      "frames": "~~~~~~~~~~~~~~~~~~~~, > ~~~~~~~~~~~~~~~~~~, º> ~~~~~~~~~~~~~~~~~, (º> ~~~~~~~~~~~~~~~~, ((º> ~~~~~~~~~~~~~~~, <((º> ~~~~~~~~~~~~~~, ><((º> ~~~~~~~~~~~~~,  ><((º> ~~~~~~~~~~~~, ~ ><((º> ~~~~~~~~~~~, ~~ <>((º> ~~~~~~~~~~, ~~~ ><((º> ~~~~~~~~~, ~~~~ <>((º> ~~~~~~~~, ~~~~~ ><((º> ~~~~~~~, ~~~~~~ <>((º> ~~~~~~, ~~~~~~~ ><((º> ~~~~~, ~~~~~~~~ <>((º> ~~~~, ~~~~~~~~~ ><((º> ~~~, ~~~~~~~~~~ <>((º> ~~, ~~~~~~~~~~~ ><((º> ~, ~~~~~~~~~~~~ <>((º> , ~~~~~~~~~~~~~ ><((º>, ~~~~~~~~~~~~~~ <>((º, ~~~~~~~~~~~~~~~ ><((, ~~~~~~~~~~~~~~~~ <>(, ~~~~~~~~~~~~~~~~~ ><, ~~~~~~~~~~~~~~~~~~ <, ~~~~~~~~~~~~~~~~~~~~",
+      "frame_count": 27
+    }
+  ],
+  "meta": {
+    "title": "CLI Spinner Animations - Free Download",
+    "description": "A collection of 90 terminal spinner animations used in command-line interfaces, with frame sequences, intervals, and frame counts. Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "CLI Spinner Animations | ListBase",
+    "seo_description": "Download CLI Spinner Animations — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/sindresorhus/cli-spinners"
+    ]
+  }
+}

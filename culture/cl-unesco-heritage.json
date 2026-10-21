@@ -1,0 +1,170 @@
+{
+  "id": "cl-unesco-heritage",
+  "name": "Chile — UNESCO World Heritage Sites",
+  "title": "Chile — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Chile, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 715,
+      "name": "Rapa Nui National Park",
+      "category": "cultural",
+      "date_inscribed": 1995,
+      "criteria": "c1, c3, c5",
+      "lat": -27.15,
+      "lon": -109.45,
+      "area_hectares": 6666,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "cl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 971,
+      "name": "Churches of Chiloe",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c2, c3",
+      "lat": -42.5,
+      "lon": -73.76666667,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "cl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 959,
+      "name": "Historic Quarter of the Seaport City of Valparaiso",
+      "category": "cultural",
+      "date_inscribed": 2003,
+      "criteria": "c3",
+      "lat": -33.04063889,
+      "lon": -71.628,
+      "area_hectares": 23.2,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "cl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1178,
+      "name": "Humberstone and Santa Laura Saltpeter Works",
+      "category": "cultural",
+      "date_inscribed": 2005,
+      "criteria": "c2, c3, c4",
+      "lat": -20.20582,
+      "lon": -69.79406,
+      "area_hectares": 573.48,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "cl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1214,
+      "name": "Sewell Mining Town",
+      "category": "cultural",
+      "date_inscribed": 2006,
+      "criteria": "c2",
+      "lat": -34.08444444,
+      "lon": -70.38277778,
+      "area_hectares": 17.2,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "cl",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1459,
+      "name": "Qhapaq Nan, Andean Road System",
+      "category": "cultural",
+      "date_inscribed": 2014,
+      "criteria": "c2, c3, c4, c6",
+      "lat": -18.25,
+      "lon": -69.59166667,
+      "area_hectares": 11406.95,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar, bo, cl, co, ec, pe",
+      "transboundary": true
+    }
+  ],
+  "meta": {
+    "title": "Chile — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Chile, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Chile — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Chile — UNESCO World Heritage Sites dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

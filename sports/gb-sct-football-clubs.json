@@ -1,0 +1,358 @@
+{
+  "id": "gb-sct-football-clubs",
+  "name": "Scotland — Football Clubs",
+  "title": "Scotland — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Scotland's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "RossCounty",
+      "matches_played": 434,
+      "seasons_count": 13,
+      "leagues": "division-1, premier-league, premiership",
+      "first_season_year": 2000,
+      "last_season_year": 2013,
+      "seasons": "division-1-2000-2001, division-1-2001-2002, division-1-2002-2003, division-1-2003-2004, division-1-2004-2005, division-1-2005-2006, division-1-2006-2007, division-1-2008-2009, division-1-2009-2010, di…"
+    },
+    {
+      "name": "Falkirk",
+      "matches_played": 432,
+      "seasons_count": 12,
+      "leagues": "championship, division-1",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "championship-2013-2014, championship-2014-2015, division-1-1998-1999, division-1-1999-2000, division-1-2000-2001, division-1-2001-2002, division-1-2002-2003, division-1-2003-2004, division-1-2004-2005…"
+    },
+    {
+      "name": "QueenofSouth",
+      "matches_played": 432,
+      "seasons_count": 12,
+      "leagues": "championship, division-1",
+      "first_season_year": 2002,
+      "last_season_year": 2014,
+      "seasons": "championship-2013-2014, championship-2014-2015, division-1-2002-2003, division-1-2003-2004, division-1-2004-2005, division-1-2005-2006, division-1-2006-2007, division-1-2007-2008, division-1-2008-2009…"
+    },
+    {
+      "name": "Raith",
+      "matches_played": 432,
+      "seasons_count": 12,
+      "leagues": "championship, division-1",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "championship-2013-2014, championship-2014-2015, division-1-1998-1999, division-1-1999-2000, division-1-2000-2001, division-1-2001-2002, division-1-2003-2004, division-1-2004-2005, division-1-2009-2010…"
+    },
+    {
+      "name": "StJohnstone",
+      "matches_played": 372,
+      "seasons_count": 13,
+      "leagues": "division-1, premier-league, premiership",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "division-1-2002-2003, division-1-2003-2004, division-1-2004-2005, division-1-2005-2006, division-1-2006-2007, division-1-2007-2008, division-1-2008-2009, premier-league-1998-1999, premier-league-1999-…"
+    },
+    {
+      "name": "DundeeFC",
+      "matches_played": 370,
+      "seasons_count": 12,
+      "leagues": "championship, division-1, premier-league, premiership",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "championship-2013-2014, division-1-2005-2006, division-1-2006-2007, division-1-2007-2008, division-1-2008-2009, division-1-2009-2010, division-1-2010-2011, division-1-2011-2012, premier-league-1998-19…"
+    },
+    {
+      "name": "Airdrieonians",
+      "matches_played": 360,
+      "seasons_count": 10,
+      "leagues": "division-1",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "division-1-1998-1999, division-1-1999-2000, division-1-2000-2001, division-1-2001-2002, division-1-2004-2005, division-1-2005-2006, division-1-2006-2007, division-1-2008-2009, division-1-2009-2010, di…"
+    },
+    {
+      "name": "Morton",
+      "matches_played": 360,
+      "seasons_count": 10,
+      "leagues": "championship, division-1",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "championship-2013-2014, division-1-1998-1999, division-1-1999-2000, division-1-2000-2001, division-1-2007-2008, division-1-2008-2009, division-1-2009-2010, division-1-2010-2011, division-1-2011-2012,…"
+    },
+    {
+      "name": "Partick",
+      "matches_played": 357,
+      "seasons_count": 10,
+      "leagues": "division-1, premiership",
+      "first_season_year": 2001,
+      "last_season_year": 2013,
+      "seasons": "division-1-2001-2002, division-1-2004-2005, division-1-2006-2007, division-1-2007-2008, division-1-2008-2009, division-1-2009-2010, division-1-2010-2011, division-1-2011-2012, division-1-2012-2013, pr…"
+    },
+    {
+      "name": "Clyde",
+      "matches_played": 324,
+      "seasons_count": 9,
+      "leagues": "division-1",
+      "first_season_year": 2000,
+      "last_season_year": 2008,
+      "seasons": "division-1-2000-2001, division-1-2001-2002, division-1-2002-2003, division-1-2003-2004, division-1-2004-2005, division-1-2005-2006, division-1-2006-2007, division-1-2007-2008, division-1-2008-2009"
+    },
+    {
+      "name": "Livingston",
+      "matches_played": 324,
+      "seasons_count": 9,
+      "leagues": "championship, division-1",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "championship-2013-2014, championship-2014-2015, division-1-1999-2000, division-1-2000-2001, division-1-2006-2007, division-1-2007-2008, division-1-2008-2009, division-1-2011-2012, division-1-2012-2013"
+    },
+    {
+      "name": "Ayr",
+      "matches_played": 288,
+      "seasons_count": 8,
+      "leagues": "division-1",
+      "first_season_year": 1998,
+      "last_season_year": 2011,
+      "seasons": "division-1-1998-1999, division-1-1999-2000, division-1-2000-2001, division-1-2001-2002, division-1-2002-2003, division-1-2003-2004, division-1-2009-2010, division-1-2011-2012"
+    },
+    {
+      "name": "Hamilton",
+      "matches_played": 288,
+      "seasons_count": 8,
+      "leagues": "championship, division-1",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "championship-2013-2014, division-1-1998-1999, division-1-2004-2005, division-1-2005-2006, division-1-2006-2007, division-1-2007-2008, division-1-2011-2012, division-1-2012-2013"
+    },
+    {
+      "name": "St.Mirren",
+      "matches_played": 285,
+      "seasons_count": 8,
+      "leagues": "division-1, premiership",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "division-1-1998-1999, division-1-1999-2000, division-1-2001-2002, division-1-2002-2003, division-1-2003-2004, division-1-2004-2005, division-1-2005-2006, premiership-2013-2014"
+    },
+    {
+      "name": "Inverness",
+      "matches_played": 259,
+      "seasons_count": 9,
+      "leagues": "division-1, premier-league, premiership",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "division-1-1999-2000, division-1-2000-2001, division-1-2001-2002, division-1-2002-2003, division-1-2003-2004, division-1-2009-2010, premier-league-2012-2013, premiership-2013-2014, premiership-2014-20…"
+    },
+    {
+      "name": "Dunfermline",
+      "matches_played": 257,
+      "seasons_count": 8,
+      "leagues": "division-1, premier-league",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "division-1-1999-2000, division-1-2007-2008, division-1-2008-2009, division-1-2009-2010, division-1-2010-2011, division-1-2012-2013, premier-league-1998-1999, premier-league-2003-2004"
+    },
+    {
+      "name": "Hearts",
+      "matches_played": 186,
+      "seasons_count": 13,
+      "leagues": "championship, premier-league, premiership",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "championship-2014-2015, premier-league-1998-1999, premier-league-1999-2000, premier-league-2000-2001, premier-league-2003-2004, premier-league-2004-2005, premier-league-2005-2006, premier-league-2006-…"
+    },
+    {
+      "name": "Hibernian",
+      "matches_played": 176,
+      "seasons_count": 11,
+      "leagues": "championship, division-1, premier-league, premiership",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "championship-2014-2015, division-1-1998-1999, premier-league-1999-2000, premier-league-2000-2001, premier-league-2004-2005, premier-league-2005-2006, premier-league-2006-2007, premier-league-2007-2008…"
+    },
+    {
+      "name": "Celtic",
+      "matches_played": 165,
+      "seasons_count": 15,
+      "leagues": "premier-league, premiership",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "premier-league-1998-1999, premier-league-1999-2000, premier-league-2000-2001, premier-league-2003-2004, premier-league-2004-2005, premier-league-2005-2006, premier-league-2006-2007, premier-league-200…"
+    },
+    {
+      "name": "Rangers",
+      "matches_played": 158,
+      "seasons_count": 13,
+      "leagues": "championship, premier-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "championship-2014-2015, premier-league-1998-1999, premier-league-1999-2000, premier-league-2000-2001, premier-league-2003-2004, premier-league-2004-2005, premier-league-2005-2006, premier-league-2006-…"
+    },
+    {
+      "name": "DundeeUtd",
+      "matches_played": 145,
+      "seasons_count": 11,
+      "leagues": "premier-league, premiership",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "premier-league-1998-1999, premier-league-1999-2000, premier-league-2003-2004, premier-league-2007-2008, premier-league-2008-2009, premier-league-2009-2010, premier-league-2010-2011, premier-league-201…"
+    },
+    {
+      "name": "Alloa",
+      "matches_played": 144,
+      "seasons_count": 4,
+      "leagues": "championship, division-1",
+      "first_season_year": 2000,
+      "last_season_year": 2014,
+      "seasons": "championship-2013-2014, championship-2014-2015, division-1-2000-2001, division-1-2002-2003"
+    },
+    {
+      "name": "Cowdenbeath",
+      "matches_played": 144,
+      "seasons_count": 4,
+      "leagues": "championship, division-1",
+      "first_season_year": 2010,
+      "last_season_year": 2014,
+      "seasons": "championship-2013-2014, championship-2014-2015, division-1-2010-2011, division-1-2012-2013"
+    },
+    {
+      "name": "Motherwell",
+      "matches_played": 140,
+      "seasons_count": 10,
+      "leagues": "premier-league, premiership",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "premier-league-1998-1999, premier-league-1999-2000, premier-league-2003-2004, premier-league-2004-2005, premier-league-2007-2008, premier-league-2009-2010, premier-league-2010-2011, premier-league-201…"
+    },
+    {
+      "name": "Aberdeen",
+      "matches_played": 135,
+      "seasons_count": 9,
+      "leagues": "premier-league, premiership",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "premier-league-1998-1999, premier-league-1999-2000, premier-league-2004-2005, premier-league-2005-2006, premier-league-2006-2007, premier-league-2007-2008, premier-league-2008-2009, premiership-2013-2…"
+    },
+    {
+      "name": "Kilmarnock",
+      "matches_played": 125,
+      "seasons_count": 7,
+      "leagues": "premier-league, premiership",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "premier-league-1998-1999, premier-league-1999-2000, premier-league-2000-2001, premier-league-2005-2006, premier-league-2006-2007, premier-league-2010-2011, premiership-2013-2014"
+    },
+    {
+      "name": "Dumbarton",
+      "matches_played": 108,
+      "seasons_count": 3,
+      "leagues": "championship, division-1",
+      "first_season_year": 2012,
+      "last_season_year": 2014,
+      "seasons": "championship-2013-2014, championship-2014-2015, division-1-2012-2013"
+    },
+    {
+      "name": "Arbroath",
+      "matches_played": 72,
+      "seasons_count": 2,
+      "leagues": "division-1",
+      "first_season_year": 2001,
+      "last_season_year": 2002,
+      "seasons": "division-1-2001-2002, division-1-2002-2003"
+    },
+    {
+      "name": "Brechin",
+      "matches_played": 72,
+      "seasons_count": 2,
+      "leagues": "division-1",
+      "first_season_year": 2003,
+      "last_season_year": 2005,
+      "seasons": "division-1-2003-2004, division-1-2005-2006"
+    },
+    {
+      "name": "Clydebank",
+      "matches_played": 72,
+      "seasons_count": 2,
+      "leagues": "division-1",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "division-1-1998-1999, division-1-1999-2000"
+    },
+    {
+      "name": "Stirling",
+      "matches_played": 72,
+      "seasons_count": 2,
+      "leagues": "division-1",
+      "first_season_year": 2007,
+      "last_season_year": 2010,
+      "seasons": "division-1-2007-2008, division-1-2010-2011"
+    },
+    {
+      "name": "Stranraer",
+      "matches_played": 72,
+      "seasons_count": 2,
+      "leagues": "division-1",
+      "first_season_year": 1998,
+      "last_season_year": 2005,
+      "seasons": "division-1-1998-1999, division-1-2005-2006"
+    },
+    {
+      "name": "Gretna",
+      "matches_played": 36,
+      "seasons_count": 1,
+      "leagues": "division-1",
+      "first_season_year": 2006,
+      "last_season_year": 2006,
+      "seasons": "division-1-2006-2007"
+    }
+  ],
+  "meta": {
+    "title": "Scotland — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Scotland's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Scotland — Football Clubs | ListBase",
+    "seo_description": "Download Scotland — Football Clubs dataset with 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

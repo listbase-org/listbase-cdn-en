@@ -1,0 +1,250 @@
+{
+  "id": "kg-power-plants",
+  "name": "Kyrgyzstan — Power Plants",
+  "title": "Kyrgyzstan — Power Plants",
+  "description": "Power plants located in Kyrgyzstan from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "number"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Toktogul Hydroelectric Power Plant Kyrgyzstan",
+      "gppd_idnr": "GEODB0005740",
+      "capacity_mw": 1200,
+      "latitude": 41.6568,
+      "longitude": 72.6359,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 3071.65; 2014: 3079.71; 2015: 4031.19; 2016: 4080.05; 2017: 4323.11",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kurpsay Hydroelectric Power Plant Kyrgyzstan",
+      "gppd_idnr": "GEODB0041757",
+      "capacity_mw": 800,
+      "latitude": 41.4986,
+      "longitude": 72.3641,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1990.24; 2014: 1942.78; 2015: 2602.24; 2016: 2609.37; 2017: 2771.71",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Bishkek CHP Power Plant Kyrgyzstan",
+      "gppd_idnr": "GEODB0041762",
+      "capacity_mw": 674,
+      "latitude": 42.873,
+      "longitude": 74.6541,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1259.94",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tash-Kumyr Hydroelectric Power Project Kyrgyzstan",
+      "gppd_idnr": "GEODB0041758",
+      "capacity_mw": 450,
+      "latitude": 41.4033,
+      "longitude": 72.2322,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1123.03; 2014: 1099.5; 2015: 1466.86; 2016: 1470.88; 2017: 1562.18",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Shamaldy-Say Hydroelectric Power Plant Kyrgyzstan",
+      "gppd_idnr": "GEODB0041759",
+      "capacity_mw": 240,
+      "latitude": 41.3121,
+      "longitude": 72.1917,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 618.47; 2014: 613.23; 2015: 801.84; 2016: 794.65; 2017: 843.32",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Uch-Kurgan Hydroelectric Power Plant Kyrgyzstan",
+      "gppd_idnr": "GEODB0041760",
+      "capacity_mw": 180,
+      "latitude": 41.1877,
+      "longitude": 72.1604,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 519.58; 2014: 519.01; 2015: 657.11; 2016: 651.87; 2017: 688.22",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Osh CHP Power Plant Kyrgyzstan",
+      "gppd_idnr": "GEODB0041763",
+      "capacity_mw": 50,
+      "latitude": 40.5718,
+      "longitude": 72.804,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Al-Bashy Hydroelectric Power Plant Kyrgyzstan",
+      "gppd_idnr": "GEODB0041761",
+      "capacity_mw": 40,
+      "latitude": 41.163,
+      "longitude": 75.803,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 105.47; 2014: 103.68; 2015: 164.03; 2016: 146.76; 2017: 146.92",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Kyrgyzstan — Power Plants - Free Download",
+    "description": "Power plants located in Kyrgyzstan from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kyrgyzstan — Power Plants | ListBase",
+    "seo_description": "Download Kyrgyzstan — Power Plants dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

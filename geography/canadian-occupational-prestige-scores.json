@@ -1,0 +1,872 @@
+{
+  "id": "canadian-occupational-prestige-scores",
+  "name": "Canadian Occupational Prestige Scores (1971)",
+  "title": "Canadian Occupational Prestige Scores (1971)",
+  "description": "Prestige scores for 102 Canadian occupations from the 1971 census, with education level, income, percentage of women, and occupational type (professional, blue collar, white collar).",
+  "category": "geography",
+  "source": "https://github.com/vincentarelbundock/Rdatasets",
+  "source_url": "https://github.com/vincentarelbundock/Rdatasets",
+  "updated": "2026-04",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "education",
+      "label": "Education",
+      "type": "number"
+    },
+    {
+      "key": "income",
+      "label": "Income",
+      "type": "number"
+    },
+    {
+      "key": "women",
+      "label": "Women",
+      "type": "number"
+    },
+    {
+      "key": "prestige",
+      "label": "Prestige",
+      "type": "number"
+    },
+    {
+      "key": "census",
+      "label": "Census",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "education": "13.11",
+      "income": "12351",
+      "women": "11.16",
+      "prestige": "68.8",
+      "census": "1113",
+      "type": "prof"
+    },
+    {
+      "education": "12.26",
+      "income": "25879",
+      "women": "4.02",
+      "prestige": "69.1",
+      "census": "1130",
+      "type": "prof"
+    },
+    {
+      "education": "12.77",
+      "income": "9271",
+      "women": "15.7",
+      "prestige": "63.4",
+      "census": "1171",
+      "type": "prof"
+    },
+    {
+      "education": "11.42",
+      "income": "8865",
+      "women": "9.11",
+      "prestige": "56.8",
+      "census": "1175",
+      "type": "prof"
+    },
+    {
+      "education": "14.62",
+      "income": "8403",
+      "women": "11.68",
+      "prestige": "73.5",
+      "census": "2111",
+      "type": "prof"
+    },
+    {
+      "education": "15.64",
+      "income": "11030",
+      "women": "5.13",
+      "prestige": "77.6",
+      "census": "2113",
+      "type": "prof"
+    },
+    {
+      "education": "15.09",
+      "income": "8258",
+      "women": "25.65",
+      "prestige": "72.6",
+      "census": "2133",
+      "type": "prof"
+    },
+    {
+      "education": "15.44",
+      "income": "14163",
+      "women": "2.69",
+      "prestige": "78.1",
+      "census": "2141",
+      "type": "prof"
+    },
+    {
+      "education": "14.52",
+      "income": "11377",
+      "women": "1.03",
+      "prestige": "73.1",
+      "census": "2143",
+      "type": "prof"
+    },
+    {
+      "education": "14.64",
+      "income": "11023",
+      "women": "0.94",
+      "prestige": "68.8",
+      "census": "2153",
+      "type": "prof"
+    },
+    {
+      "education": "12.39",
+      "income": "5902",
+      "women": "1.91",
+      "prestige": "62",
+      "census": "2161",
+      "type": "prof"
+    },
+    {
+      "education": "12.3",
+      "income": "7059",
+      "women": "7.83",
+      "prestige": "60",
+      "census": "2163",
+      "type": "prof"
+    },
+    {
+      "education": "13.83",
+      "income": "8425",
+      "women": "15.33",
+      "prestige": "53.8",
+      "census": "2183",
+      "type": "prof"
+    },
+    {
+      "education": "14.44",
+      "income": "8049",
+      "women": "57.31",
+      "prestige": "62.2",
+      "census": "2311",
+      "type": "prof"
+    },
+    {
+      "education": "14.36",
+      "income": "7405",
+      "women": "48.28",
+      "prestige": "74.9",
+      "census": "2315",
+      "type": "prof"
+    },
+    {
+      "education": "14.21",
+      "income": "6336",
+      "women": "54.77",
+      "prestige": "55.1",
+      "census": "2331",
+      "type": "prof"
+    },
+    {
+      "education": "15.77",
+      "income": "19263",
+      "women": "5.13",
+      "prestige": "82.3",
+      "census": "2343",
+      "type": "prof"
+    },
+    {
+      "education": "14.15",
+      "income": "6112",
+      "women": "77.1",
+      "prestige": "58.1",
+      "census": "2351",
+      "type": "prof"
+    },
+    {
+      "education": "15.22",
+      "income": "9593",
+      "women": "34.89",
+      "prestige": "58.3",
+      "census": "2391",
+      "type": "prof"
+    },
+    {
+      "education": "14.5",
+      "income": "4686",
+      "women": "4.14",
+      "prestige": "72.8",
+      "census": "2511",
+      "type": "prof"
+    },
+    {
+      "education": "15.97",
+      "income": "12480",
+      "women": "19.59",
+      "prestige": "84.6",
+      "census": "2711",
+      "type": "prof"
+    },
+    {
+      "education": "13.62",
+      "income": "5648",
+      "women": "83.78",
+      "prestige": "59.6",
+      "census": "2731",
+      "type": "prof"
+    },
+    {
+      "education": "15.08",
+      "income": "8034",
+      "women": "46.8",
+      "prestige": "66.1",
+      "census": "2733",
+      "type": "prof"
+    },
+    {
+      "education": "15.96",
+      "income": "25308",
+      "women": "10.56",
+      "prestige": "87.2",
+      "census": "3111",
+      "type": "prof"
+    },
+    {
+      "education": "15.94",
+      "income": "14558",
+      "women": "4.32",
+      "prestige": "66.7",
+      "census": "3115",
+      "type": "prof"
+    },
+    {
+      "education": "14.71",
+      "income": "17498",
+      "women": "6.91",
+      "prestige": "68.4",
+      "census": "3117",
+      "type": "prof"
+    },
+    {
+      "education": "12.46",
+      "income": "4614",
+      "women": "96.12",
+      "prestige": "64.7",
+      "census": "3131",
+      "type": "prof"
+    },
+    {
+      "education": "9.45",
+      "income": "3485",
+      "women": "76.14",
+      "prestige": "34.9",
+      "census": "3135",
+      "type": "bc"
+    },
+    {
+      "education": "13.62",
+      "income": "5092",
+      "women": "82.66",
+      "prestige": "72.1",
+      "census": "3137",
+      "type": "prof"
+    },
+    {
+      "education": "15.21",
+      "income": "10432",
+      "women": "24.71",
+      "prestige": "69.3",
+      "census": "3151",
+      "type": "prof"
+    },
+    {
+      "education": "12.79",
+      "income": "5180",
+      "women": "76.04",
+      "prestige": "67.5",
+      "census": "3156",
+      "type": "wc"
+    },
+    {
+      "education": "11.09",
+      "income": "6197",
+      "women": "21.03",
+      "prestige": "57.2",
+      "census": "3314",
+      "type": "prof"
+    },
+    {
+      "education": "12.71",
+      "income": "7562",
+      "women": "11.15",
+      "prestige": "57.6",
+      "census": "3337",
+      "type": "wc"
+    },
+    {
+      "education": "11.44",
+      "income": "8206",
+      "women": "8.13",
+      "prestige": "54.1",
+      "census": "3373",
+      "type": ""
+    },
+    {
+      "education": "11.59",
+      "income": "4036",
+      "women": "97.51",
+      "prestige": "46",
+      "census": "4111",
+      "type": "wc"
+    },
+    {
+      "education": "11.49",
+      "income": "3148",
+      "women": "95.97",
+      "prestige": "41.9",
+      "census": "4113",
+      "type": "wc"
+    },
+    {
+      "education": "11.32",
+      "income": "4348",
+      "women": "68.24",
+      "prestige": "49.4",
+      "census": "4131",
+      "type": "wc"
+    },
+    {
+      "education": "10.64",
+      "income": "2448",
+      "women": "91.76",
+      "prestige": "42.3",
+      "census": "4133",
+      "type": "wc"
+    },
+    {
+      "education": "11.36",
+      "income": "4330",
+      "women": "75.92",
+      "prestige": "47.7",
+      "census": "4143",
+      "type": "wc"
+    },
+    {
+      "education": "9.17",
+      "income": "4761",
+      "women": "11.37",
+      "prestige": "30.9",
+      "census": "4153",
+      "type": "wc"
+    },
+    {
+      "education": "12.09",
+      "income": "3016",
+      "women": "83.19",
+      "prestige": "32.7",
+      "census": "4161",
+      "type": "wc"
+    },
+    {
+      "education": "11.04",
+      "income": "2901",
+      "women": "92.86",
+      "prestige": "38.7",
+      "census": "4171",
+      "type": "wc"
+    },
+    {
+      "education": "9.22",
+      "income": "5511",
+      "women": "7.62",
+      "prestige": "36.1",
+      "census": "4172",
+      "type": "wc"
+    },
+    {
+      "education": "10.07",
+      "income": "3739",
+      "women": "52.27",
+      "prestige": "37.2",
+      "census": "4173",
+      "type": "wc"
+    },
+    {
+      "education": "10.51",
+      "income": "3161",
+      "women": "96.14",
+      "prestige": "38.1",
+      "census": "4175",
+      "type": "wc"
+    },
+    {
+      "education": "11.2",
+      "income": "4741",
+      "women": "47.06",
+      "prestige": "29.4",
+      "census": "4191",
+      "type": "wc"
+    },
+    {
+      "education": "11.13",
+      "income": "5052",
+      "women": "56.1",
+      "prestige": "51.1",
+      "census": "4192",
+      "type": "wc"
+    },
+    {
+      "education": "11.43",
+      "income": "6259",
+      "women": "39.17",
+      "prestige": "35.7",
+      "census": "4193",
+      "type": "wc"
+    },
+    {
+      "education": "11",
+      "income": "4075",
+      "women": "63.23",
+      "prestige": "35.6",
+      "census": "4197",
+      "type": "wc"
+    },
+    {
+      "education": "9.84",
+      "income": "7482",
+      "women": "17.04",
+      "prestige": "41.5",
+      "census": "5130",
+      "type": "wc"
+    },
+    {
+      "education": "11.13",
+      "income": "8780",
+      "women": "3.16",
+      "prestige": "40.2",
+      "census": "5133",
+      "type": "wc"
+    },
+    {
+      "education": "10.05",
+      "income": "2594",
+      "women": "67.82",
+      "prestige": "26.5",
+      "census": "5137",
+      "type": "wc"
+    },
+    {
+      "education": "9.62",
+      "income": "918",
+      "women": "7",
+      "prestige": "14.8",
+      "census": "5143",
+      "type": ""
+    },
+    {
+      "education": "9.93",
+      "income": "2370",
+      "women": "3.69",
+      "prestige": "23.3",
+      "census": "5145",
+      "type": "bc"
+    },
+    {
+      "education": "11.6",
+      "income": "8131",
+      "women": "13.09",
+      "prestige": "47.3",
+      "census": "5171",
+      "type": "wc"
+    },
+    {
+      "education": "11.09",
+      "income": "6992",
+      "women": "24.44",
+      "prestige": "47.1",
+      "census": "5172",
+      "type": "wc"
+    },
+    {
+      "education": "11.03",
+      "income": "7956",
+      "women": "23.88",
+      "prestige": "51.1",
+      "census": "5191",
+      "type": "wc"
+    },
+    {
+      "education": "9.47",
+      "income": "8895",
+      "women": "0",
+      "prestige": "43.5",
+      "census": "6111",
+      "type": "bc"
+    },
+    {
+      "education": "10.93",
+      "income": "8891",
+      "women": "1.65",
+      "prestige": "51.6",
+      "census": "6112",
+      "type": "bc"
+    },
+    {
+      "education": "7.74",
+      "income": "3116",
+      "women": "52",
+      "prestige": "29.7",
+      "census": "6121",
+      "type": "bc"
+    },
+    {
+      "education": "8.5",
+      "income": "3930",
+      "women": "15.51",
+      "prestige": "20.2",
+      "census": "6123",
+      "type": "bc"
+    },
+    {
+      "education": "10.57",
+      "income": "7869",
+      "women": "6.01",
+      "prestige": "54.9",
+      "census": "6141",
+      "type": "bc"
+    },
+    {
+      "education": "9.46",
+      "income": "611",
+      "women": "96.53",
+      "prestige": "25.9",
+      "census": "6147",
+      "type": ""
+    },
+    {
+      "education": "7.33",
+      "income": "3000",
+      "women": "69.31",
+      "prestige": "20.8",
+      "census": "6162",
+      "type": "bc"
+    },
+    {
+      "education": "7.11",
+      "income": "3472",
+      "women": "33.57",
+      "prestige": "17.3",
+      "census": "6191",
+      "type": "bc"
+    },
+    {
+      "education": "7.58",
+      "income": "3582",
+      "women": "30.08",
+      "prestige": "20.1",
+      "census": "6193",
+      "type": "bc"
+    },
+    {
+      "education": "6.84",
+      "income": "3643",
+      "women": "3.6",
+      "prestige": "44.1",
+      "census": "7112",
+      "type": ""
+    },
+    {
+      "education": "8.6",
+      "income": "1656",
+      "women": "27.75",
+      "prestige": "21.5",
+      "census": "7182",
+      "type": "bc"
+    },
+    {
+      "education": "8.88",
+      "income": "6860",
+      "women": "0",
+      "prestige": "35.3",
+      "census": "7711",
+      "type": "bc"
+    },
+    {
+      "education": "7.54",
+      "income": "4199",
+      "women": "33.3",
+      "prestige": "38.9",
+      "census": "8213",
+      "type": "bc"
+    },
+    {
+      "education": "7.64",
+      "income": "5134",
+      "women": "17.26",
+      "prestige": "25.2",
+      "census": "8215",
+      "type": "bc"
+    },
+    {
+      "education": "7.64",
+      "income": "5134",
+      "women": "17.26",
+      "prestige": "34.8",
+      "census": "8215",
+      "type": "bc"
+    },
+    {
+      "education": "7.42",
+      "income": "1890",
+      "women": "72.24",
+      "prestige": "23.2",
+      "census": "8221",
+      "type": "bc"
+    },
+    {
+      "education": "6.69",
+      "income": "4443",
+      "women": "31.36",
+      "prestige": "33.3",
+      "census": "8267",
+      "type": "bc"
+    },
+    {
+      "education": "6.74",
+      "income": "3485",
+      "women": "39.48",
+      "prestige": "28.8",
+      "census": "8278",
+      "type": "bc"
+    },
+    {
+      "education": "10.09",
+      "income": "8043",
+      "women": "1.5",
+      "prestige": "42.5",
+      "census": "8311",
+      "type": "bc"
+    },
+    {
+      "education": "8.81",
+      "income": "6686",
+      "women": "4.28",
+      "prestige": "44.2",
+      "census": "8313",
+      "type": "bc"
+    },
+    {
+      "education": "8.4",
+      "income": "6565",
+      "women": "2.3",
+      "prestige": "35.9",
+      "census": "8333",
+      "type": "bc"
+    },
+    {
+      "education": "7.92",
+      "income": "6477",
+      "women": "5.17",
+      "prestige": "41.8",
+      "census": "8335",
+      "type": "bc"
+    },
+    {
+      "education": "8.43",
+      "income": "5811",
+      "women": "13.62",
+      "prestige": "35.9",
+      "census": "8513",
+      "type": "bc"
+    },
+    {
+      "education": "8.78",
+      "income": "6573",
+      "women": "5.78",
+      "prestige": "43.7",
+      "census": "8515",
+      "type": "bc"
+    },
+    {
+      "education": "8.76",
+      "income": "3942",
+      "women": "74.54",
+      "prestige": "50.8",
+      "census": "8534",
+      "type": "bc"
+    },
+    {
+      "education": "10.29",
+      "income": "5449",
+      "women": "2.92",
+      "prestige": "37.2",
+      "census": "8537",
+      "type": "bc"
+    },
+    {
+      "education": "6.38",
+      "income": "2847",
+      "women": "90.67",
+      "prestige": "28.2",
+      "census": "8563",
+      "type": "bc"
+    },
+    {
+      "education": "8.1",
+      "income": "5795",
+      "women": "0.81",
+      "prestige": "38.1",
+      "census": "8581",
+      "type": "bc"
+    },
+    {
+      "education": "10.1",
+      "income": "7716",
+      "women": "0.78",
+      "prestige": "50.3",
+      "census": "8582",
+      "type": "bc"
+    },
+    {
+      "education": "6.67",
+      "income": "4696",
+      "women": "0",
+      "prestige": "27.3",
+      "census": "8715",
+      "type": "bc"
+    },
+    {
+      "education": "9.05",
+      "income": "8316",
+      "women": "1.34",
+      "prestige": "40.9",
+      "census": "8731",
+      "type": "bc"
+    },
+    {
+      "education": "9.93",
+      "income": "7147",
+      "women": "0.99",
+      "prestige": "50.2",
+      "census": "8733",
+      "type": "bc"
+    },
+    {
+      "education": "8.24",
+      "income": "8880",
+      "women": "0.65",
+      "prestige": "51.1",
+      "census": "8780",
+      "type": "bc"
+    },
+    {
+      "education": "6.92",
+      "income": "5299",
+      "women": "0.56",
+      "prestige": "38.9",
+      "census": "8781",
+      "type": "bc"
+    },
+    {
+      "education": "6.6",
+      "income": "5959",
+      "women": "0.52",
+      "prestige": "36.2",
+      "census": "8782",
+      "type": "bc"
+    },
+    {
+      "education": "7.81",
+      "income": "4549",
+      "women": "2.46",
+      "prestige": "29.9",
+      "census": "8785",
+      "type": "bc"
+    },
+    {
+      "education": "8.33",
+      "income": "6928",
+      "women": "0.61",
+      "prestige": "42.9",
+      "census": "8791",
+      "type": "bc"
+    },
+    {
+      "education": "7.52",
+      "income": "3910",
+      "women": "1.09",
+      "prestige": "26.5",
+      "census": "8798",
+      "type": "bc"
+    },
+    {
+      "education": "12.27",
+      "income": "14032",
+      "women": "0.58",
+      "prestige": "66.1",
+      "census": "9111",
+      "type": "prof"
+    },
+    {
+      "education": "8.49",
+      "income": "8845",
+      "women": "0",
+      "prestige": "48.9",
+      "census": "9131",
+      "type": "bc"
+    },
+    {
+      "education": "7.58",
+      "income": "5562",
+      "women": "9.47",
+      "prestige": "35.9",
+      "census": "9171",
+      "type": "bc"
+    },
+    {
+      "education": "7.93",
+      "income": "4224",
+      "women": "3.59",
+      "prestige": "25.1",
+      "census": "9173",
+      "type": "bc"
+    },
+    {
+      "education": "8.37",
+      "income": "4753",
+      "women": "0",
+      "prestige": "26.1",
+      "census": "9313",
+      "type": "bc"
+    },
+    {
+      "education": "10",
+      "income": "6462",
+      "women": "13.58",
+      "prestige": "42.2",
+      "census": "9511",
+      "type": "bc"
+    },
+    {
+      "education": "8.55",
+      "income": "3617",
+      "women": "70.87",
+      "prestige": "35.2",
+      "census": "9517",
+      "type": "bc"
+    }
+  ],
+  "meta": {
+    "title": "Canadian Occupational Prestige Scores (1971) - Free Download",
+    "description": "Prestige scores for 102 Canadian occupations from the 1971 census, with education level, income, percentage of women, and occupational type (professional, blue collar, white collar). Contains 102 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Canadian Occupational Prestige Scores (1971) | ListBase",
+    "seo_description": "Download Canadian Occupational Prestige Scores (1971) — 102 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 102 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/vincentarelbundock/Rdatasets"
+    ]
+  }
+}

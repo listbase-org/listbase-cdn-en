@@ -1,0 +1,361 @@
+{
+  "id": "ro-airports-iata",
+  "name": "Romania — IATA Airports",
+  "title": "Romania — IATA Airports",
+  "description": "Airports with IATA codes in Romania: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "ARW",
+      "icao_code": "LRAR",
+      "name": "Arad Airport",
+      "city_name_list": "Arad",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Arad County",
+      "latitude": 46.17655,
+      "longitude": 21.262022,
+      "elevation": 107,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Arad_International_Airport"
+    },
+    {
+      "iata_code": "BAY",
+      "icao_code": "LRBM",
+      "name": "Baia Mare International Airport",
+      "city_name_list": "Baia Mare",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Maramures",
+      "latitude": 47.65839,
+      "longitude": 23.47002,
+      "elevation": 184,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Baia_Mare_Airport"
+    },
+    {
+      "iata_code": "BBU",
+      "icao_code": "LRBS",
+      "name": "Bucharest Băneasa Aurel Vlaicu International Airport",
+      "city_name_list": "Bucharest",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Bucharest",
+      "latitude": 44.50319,
+      "longitude": 26.10211,
+      "elevation": 90,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Aurel_Vlaicu_International_Airport"
+    },
+    {
+      "iata_code": "BCM",
+      "icao_code": "LRBC",
+      "name": "Bacău \"George Enescu\" International Airport",
+      "city_name_list": "Bacău",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Bacau County",
+      "latitude": 46.52195,
+      "longitude": 26.91028,
+      "elevation": 185,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bac%C4%83u_International_Airport"
+    },
+    {
+      "iata_code": "CLJ",
+      "icao_code": "LRCL",
+      "name": "Cluj-Napoca International Airport",
+      "city_name_list": "Cluj-Napoca",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Cluj County",
+      "latitude": 46.785167,
+      "longitude": 23.686167,
+      "elevation": 315,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Cluj_International_Airport"
+    },
+    {
+      "iata_code": "CND",
+      "icao_code": "LRCK",
+      "name": "Mihail Kogălniceanu International Airport",
+      "city_name_list": "Mihail Kogălniceanu=Constanţa",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Constanta County",
+      "latitude": 44.36222,
+      "longitude": 28.48833,
+      "elevation": 107,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mihail_Kog%C4%83lniceanu_International_Airport"
+    },
+    {
+      "iata_code": "CRA",
+      "icao_code": "LRCV",
+      "name": "Craiova Airport",
+      "city_name_list": "Craiova",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Dolj",
+      "latitude": 44.318139,
+      "longitude": 23.888611,
+      "elevation": 190,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Craiova_Airport"
+    },
+    {
+      "iata_code": "CSB",
+      "icao_code": "LRCS",
+      "name": "Caransebeş Airport",
+      "city_name_list": "Caransebeş",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Caras-Severin County",
+      "latitude": 45.42,
+      "longitude": 22.25333,
+      "elevation": 263,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Caransebe%C8%99_Airport"
+    },
+    {
+      "iata_code": "GHV",
+      "icao_code": "LRBV",
+      "name": "Brașov-Ghimbav International Airport",
+      "city_name_list": "Braşov",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Brasov County",
+      "latitude": 45.70354,
+      "longitude": 25.5209,
+      "elevation": 530,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bra%C8%99ov_Airport"
+    },
+    {
+      "iata_code": "IAS",
+      "icao_code": "LRIA",
+      "name": "Iași International Airport",
+      "city_name_list": "Iaşi",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Iasi County",
+      "latitude": 47.17849,
+      "longitude": 27.62063,
+      "elevation": 121,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ia%C8%99i_International_Airport"
+    },
+    {
+      "iata_code": "OMR",
+      "icao_code": "LROD",
+      "name": "Oradea International Airport",
+      "city_name_list": "Oradea",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Bihor County",
+      "latitude": 47.02528,
+      "longitude": 21.9025,
+      "elevation": 141,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Oradea_International_Airport"
+    },
+    {
+      "iata_code": "OTP",
+      "icao_code": "LROP",
+      "name": "Henri Coandă International Airport",
+      "city_name_list": "Bucharest",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Ilfov",
+      "latitude": 44.572161,
+      "longitude": 26.102178,
+      "elevation": 95,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Henri_Coand%C4%83_International_Airport"
+    },
+    {
+      "iata_code": "SBZ",
+      "icao_code": "LRSB",
+      "name": "Sibiu International Airport",
+      "city_name_list": "Sibiu",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Sibiu County",
+      "latitude": 45.7856,
+      "longitude": 24.09134,
+      "elevation": 455,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sibiu_International_Airport"
+    },
+    {
+      "iata_code": "SCV",
+      "icao_code": "LRSV",
+      "name": "Suceava / Salcea Airport",
+      "city_name_list": "Suceava",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Suceava",
+      "latitude": 47.6875,
+      "longitude": 26.354056,
+      "elevation": 419,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Suceava_Airport"
+    },
+    {
+      "iata_code": "SUJ",
+      "icao_code": "LRSM",
+      "name": "Satu Mare International Airport",
+      "city_name_list": "Satu Mare",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Satu Mare County",
+      "latitude": 47.70327,
+      "longitude": 22.8857,
+      "elevation": 123,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Satu_Mare_International_Airport"
+    },
+    {
+      "iata_code": "TCE",
+      "icao_code": "LRTC",
+      "name": "Tulcea Airport",
+      "city_name_list": "Tulcea",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Tulcea County",
+      "latitude": 45.062486,
+      "longitude": 28.714311,
+      "elevation": 60,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tulcea_Airport"
+    },
+    {
+      "iata_code": "TGM",
+      "icao_code": "LRTM",
+      "name": "Târgu Mureș Transilvania Airport",
+      "city_name_list": "Târgu Mureş",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Mures County",
+      "latitude": 46.46771,
+      "longitude": 24.41252,
+      "elevation": 293,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C8%99_International_Airport"
+    },
+    {
+      "iata_code": "TSR",
+      "icao_code": "LRTR",
+      "name": "Timișoara Traian Vuia International Airport",
+      "city_name_list": "Timişoara",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Timis County",
+      "latitude": 45.80986,
+      "longitude": 21.33786,
+      "elevation": 106,
+      "timezone": "Europe/Bucharest",
+      "wiki_link": "https://en.wikipedia.org/wiki/Timi%C8%99oara_Traian_Vuia_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Romania — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Romania: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Romania — IATA Airports | ListBase",
+    "seo_description": "Download Romania — IATA Airports dataset with 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

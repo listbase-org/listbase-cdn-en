@@ -1,0 +1,346 @@
+{
+  "id": "bw-airports-iata",
+  "name": "Botswana — IATA Airports",
+  "title": "Botswana — IATA Airports",
+  "description": "Airports with IATA codes in Botswana: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BBK",
+      "icao_code": "FBKE",
+      "name": "Kasane Airport",
+      "city_name_list": "Kasane",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Chobe",
+      "latitude": -17.832875,
+      "longitude": 25.1624,
+      "elevation": 1002,
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kasane_Airport"
+    },
+    {
+      "iata_code": "FRW",
+      "icao_code": "FBFT",
+      "name": "Francistown Airport",
+      "city_name_list": "Francistown",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "North-East",
+      "latitude": -21.15,
+      "longitude": 27.47,
+      "elevation": 1000,
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Francistown_Airport"
+    },
+    {
+      "iata_code": "GBE",
+      "icao_code": "FBSK",
+      "name": "Seretse Khama International Airport",
+      "city_name_list": "Gaborone",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kweneng",
+      "latitude": -24.55,
+      "longitude": 25.92,
+      "elevation": 1005,
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sir_Seretse_Khama_International_Airport"
+    },
+    {
+      "iata_code": "GNZ",
+      "icao_code": "FBGZ",
+      "name": "Ghanzi Airport",
+      "city_name_list": "Ghanzi",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Ghanzi",
+      "latitude": -21.69641,
+      "longitude": 21.65431,
+      "elevation": 1131,
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ghanzi_Airport"
+    },
+    {
+      "iata_code": "HUK",
+      "icao_code": "FBHK",
+      "name": "Hukuntsi Airport",
+      "city_name_list": "Hukuntsi",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kgalagadi",
+      "latitude": -23.9897,
+      "longitude": 21.7581,
+      "elevation": "",
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hukuntsi_Airport"
+    },
+    {
+      "iata_code": "JWA",
+      "icao_code": "FBJW",
+      "name": "Jwaneng Airport",
+      "city_name_list": "Jwaneng",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Ngwaketsi",
+      "latitude": -24.60233,
+      "longitude": 24.69097,
+      "elevation": 1188,
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Jwaneng_Airport"
+    },
+    {
+      "iata_code": "KHW",
+      "icao_code": "FBKR",
+      "name": "Khwai River Lodge Airport",
+      "city_name_list": "Khwai River Lodge",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "North-West",
+      "latitude": -19.14943,
+      "longitude": 23.78789,
+      "elevation": "",
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Khwai_River_Airport"
+    },
+    {
+      "iata_code": "LOQ",
+      "icao_code": "FBLO",
+      "name": "Lobatse Airport",
+      "city_name_list": "Lobatse",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "South-East",
+      "latitude": -25.19803,
+      "longitude": 25.72208,
+      "elevation": "",
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lobatse_Airport"
+    },
+    {
+      "iata_code": "MUB",
+      "icao_code": "FBMN",
+      "name": "Maun Airport",
+      "city_name_list": "Maun",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "North-West",
+      "latitude": -19.972564,
+      "longitude": 23.431086,
+      "elevation": 942,
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Maun_Airport"
+    },
+    {
+      "iata_code": "ORP",
+      "icao_code": "FBOR",
+      "name": "Orapa Airport",
+      "city_name_list": "Orapa",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Central",
+      "latitude": -21.2667,
+      "longitude": 25.3167,
+      "elevation": "",
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Orapa_Airport"
+    },
+    {
+      "iata_code": "PKW",
+      "icao_code": "FBSP",
+      "name": "Selebi Phikwe",
+      "city_name_list": "Selebi-Phikwe",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Central",
+      "latitude": -22.05835,
+      "longitude": 27.828767,
+      "elevation": 891,
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Selebi-Phikwe_Airport"
+    },
+    {
+      "iata_code": "QPH",
+      "icao_code": "FBPY",
+      "name": "Palapye Airport",
+      "city_name_list": "Palapye=Palapye Airport",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Central",
+      "latitude": -22.567,
+      "longitude": 27.15,
+      "elevation": "",
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Palapye_Airport"
+    },
+    {
+      "iata_code": "SVT",
+      "icao_code": "FBSV",
+      "name": "Savuti Airport",
+      "city_name_list": "Savuti Rest Camp",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "North-West",
+      "latitude": -18.52649,
+      "longitude": 24.07302,
+      "elevation": "",
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Savuti_Airport"
+    },
+    {
+      "iata_code": "SWX",
+      "icao_code": "FBSW",
+      "name": "Shakawe Airport",
+      "city_name_list": "Shakawe",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "North-West",
+      "latitude": -18.37285,
+      "longitude": 21.8391,
+      "elevation": 1032,
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Shakawe_Airport"
+    },
+    {
+      "iata_code": "SXN",
+      "icao_code": "FBSN",
+      "name": "Sua Pan Airport",
+      "city_name_list": "Sowa",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Sowa Town",
+      "latitude": -20.55336,
+      "longitude": 26.11578,
+      "elevation": 909,
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sua_Pan_Airport"
+    },
+    {
+      "iata_code": "TBY",
+      "icao_code": "FBTS",
+      "name": "Tshabong Airport",
+      "city_name_list": "Tshabong",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kgalagadi",
+      "latitude": -26.03403,
+      "longitude": 22.40164,
+      "elevation": 960,
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tshabong_Airport"
+    },
+    {
+      "iata_code": "TLD",
+      "icao_code": "FBTL",
+      "name": "Tuli Lodge Airport",
+      "city_name_list": "Tuli Lodge Airport",
+      "country_code": "BW",
+      "country_name": "Botswana",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Central",
+      "latitude": -22.19146,
+      "longitude": 29.12973,
+      "elevation": "",
+      "timezone": "Africa/Gaborone",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tuli_Lodge_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Botswana — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Botswana: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Botswana — IATA Airports | ListBase",
+    "seo_description": "Download Botswana — IATA Airports dataset with 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

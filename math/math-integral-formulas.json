@@ -1,0 +1,456 @@
+{
+  "id": "math-integral-formulas",
+  "name": "Common Integration Formulas Dataset",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "integral",
+      "label": "∫f(x)dx",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Basic",
+      "function": "k",
+      "integral": "kx + C",
+      "condition": "k is constant",
+      "notes": "Constant rule"
+    },
+    {
+      "category": "Basic",
+      "function": "x^n",
+      "integral": "x^(n+1)/(n+1) + C",
+      "condition": "n ≠ -1",
+      "notes": "Power rule"
+    },
+    {
+      "category": "Basic",
+      "function": "1/x",
+      "integral": "ln|x| + C",
+      "condition": "x ≠ 0",
+      "notes": "Natural logarithm"
+    },
+    {
+      "category": "Basic",
+      "function": "e^x",
+      "integral": "e^x + C",
+      "condition": "-",
+      "notes": "Exponential function"
+    },
+    {
+      "category": "Basic",
+      "function": "a^x",
+      "integral": "a^x/ln(a) + C",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "General exponential"
+    },
+    {
+      "category": "Basic",
+      "function": "x^(-1/2)",
+      "integral": "2√x + C",
+      "condition": "x > 0",
+      "notes": "Square root form"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "sin(x)",
+      "integral": "-cos(x) + C",
+      "condition": "-",
+      "notes": "Sine function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "cos(x)",
+      "integral": "sin(x) + C",
+      "condition": "-",
+      "notes": "Cosine function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "tan(x)",
+      "integral": "-ln|cos(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Tangent function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "cot(x)",
+      "integral": "ln|sin(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Cotangent function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "sec(x)",
+      "integral": "ln|sec(x) + tan(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Secant function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "csc(x)",
+      "integral": "ln|csc(x) - cot(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Cosecant function"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "sec²(x)",
+      "integral": "tan(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Secant squared"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "csc²(x)",
+      "integral": "-cot(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Cosecant squared"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "sec(x)tan(x)",
+      "integral": "sec(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Product form"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "csc(x)cot(x)",
+      "integral": "-csc(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Product form"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "sin²(x)",
+      "integral": "x/2 - sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Half-angle identity"
+    },
+    {
+      "category": "Trigonometric",
+      "function": "cos²(x)",
+      "integral": "x/2 + sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Half-angle identity"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "1/√(1-x²)",
+      "integral": "arcsin(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Arcsine form"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "-1/√(1-x²)",
+      "integral": "arccos(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Arccosine form"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "1/(1+x²)",
+      "integral": "arctan(x) + C",
+      "condition": "-",
+      "notes": "Arctangent form"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "-1/(1+x²)",
+      "integral": "arccot(x) + C",
+      "condition": "-",
+      "notes": "Arccotangent form"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "1/(|x|√(x²-1))",
+      "integral": "arcsec(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Arcsecant form"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "-1/(|x|√(x²-1))",
+      "integral": "arccsc(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Arccosecant form"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "General arcsine"
+    },
+    {
+      "category": "Inverse Trig",
+      "function": "1/(a²+x²)",
+      "integral": "(1/a)arctan(x/a) + C",
+      "condition": "a ≠ 0",
+      "notes": "General arctangent"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "sinh(x)",
+      "integral": "cosh(x) + C",
+      "condition": "-",
+      "notes": "Hyperbolic sine"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "cosh(x)",
+      "integral": "sinh(x) + C",
+      "condition": "-",
+      "notes": "Hyperbolic cosine"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "tanh(x)",
+      "integral": "ln(cosh(x)) + C",
+      "condition": "-",
+      "notes": "Hyperbolic tangent"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "coth(x)",
+      "integral": "ln|sinh(x)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Hyperbolic cotangent"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "sech(x)",
+      "integral": "arctan(sinh(x)) + C",
+      "condition": "-",
+      "notes": "Hyperbolic secant"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "csch(x)",
+      "integral": "ln|tanh(x/2)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Hyperbolic cosecant"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "sech²(x)",
+      "integral": "tanh(x) + C",
+      "condition": "-",
+      "notes": "Hyperbolic secant squared"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "csch²(x)",
+      "integral": "-coth(x) + C",
+      "condition": "x ≠ 0",
+      "notes": "Hyperbolic cosecant squared"
+    },
+    {
+      "category": "Logarithmic",
+      "function": "ln(x)",
+      "integral": "x·ln(x) - x + C",
+      "condition": "x > 0",
+      "notes": "Integration by parts"
+    },
+    {
+      "category": "Logarithmic",
+      "function": "log_a(x)",
+      "integral": "x·log_a(x) - x/ln(a) + C",
+      "condition": "x > 0, a > 0",
+      "notes": "General logarithm"
+    },
+    {
+      "category": "Logarithmic",
+      "function": "1/(x·ln(x))",
+      "integral": "ln|ln(x)| + C",
+      "condition": "x > 1",
+      "notes": "Nested logarithm"
+    },
+    {
+      "category": "Rational",
+      "function": "1/(x²-a²)",
+      "integral": "(1/2a)ln|(x-a)/(x+a)| + C",
+      "condition": "x ≠ ±a",
+      "notes": "Partial fractions"
+    },
+    {
+      "category": "Rational",
+      "function": "1/(a²-x²)",
+      "integral": "(1/2a)ln|(a+x)/(a-x)| + C",
+      "condition": "|x| < a",
+      "notes": "Partial fractions"
+    },
+    {
+      "category": "Rational",
+      "function": "1/√(x²+a²)",
+      "integral": "ln|x + √(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Hyperbolic substitution"
+    },
+    {
+      "category": "Rational",
+      "function": "1/√(x²-a²)",
+      "integral": "ln|x + √(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Hyperbolic substitution"
+    },
+    {
+      "category": "Rational",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "Trigonometric substitution"
+    },
+    {
+      "category": "Rational",
+      "function": "√(a²-x²)",
+      "integral": "(x/2)√(a²-x²) + (a²/2)arcsin(x/a) + C",
+      "condition": "|x| ≤ a",
+      "notes": "Trigonometric substitution"
+    },
+    {
+      "category": "Rational",
+      "function": "√(x²+a²)",
+      "integral": "(x/2)√(x²+a²) + (a²/2)ln|x+√(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Hyperbolic substitution"
+    },
+    {
+      "category": "Rational",
+      "function": "√(x²-a²)",
+      "integral": "(x/2)√(x²-a²) - (a²/2)ln|x+√(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Hyperbolic substitution"
+    },
+    {
+      "category": "Special",
+      "function": "e^(ax)sin(bx)",
+      "integral": "e^(ax)(a·sin(bx)-b·cos(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "Integration by parts twice"
+    },
+    {
+      "category": "Special",
+      "function": "e^(ax)cos(bx)",
+      "integral": "e^(ax)(a·cos(bx)+b·sin(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "Integration by parts twice"
+    },
+    {
+      "category": "Special",
+      "function": "x·e^x",
+      "integral": "e^x(x-1) + C",
+      "condition": "-",
+      "notes": "Integration by parts"
+    },
+    {
+      "category": "Special",
+      "function": "x·sin(x)",
+      "integral": "sin(x) - x·cos(x) + C",
+      "condition": "-",
+      "notes": "Integration by parts"
+    },
+    {
+      "category": "Special",
+      "function": "x·cos(x)",
+      "integral": "cos(x) + x·sin(x) + C",
+      "condition": "-",
+      "notes": "Integration by parts"
+    },
+    {
+      "category": "Special",
+      "function": "x²·e^x",
+      "integral": "e^x(x²-2x+2) + C",
+      "condition": "-",
+      "notes": "Integration by parts twice"
+    },
+    {
+      "category": "Special",
+      "function": "x·ln(x)",
+      "integral": "(x²/2)ln(x) - x²/4 + C",
+      "condition": "x > 0",
+      "notes": "Integration by parts"
+    },
+    {
+      "category": "Definite",
+      "function": "∫₀^∞ e^(-x²) dx",
+      "integral": "√π/2",
+      "condition": "-",
+      "notes": "Gaussian integral"
+    },
+    {
+      "category": "Definite",
+      "function": "∫₀^∞ x^n·e^(-x) dx",
+      "integral": "n! (Gamma function)",
+      "condition": "n ≥ 0 integer",
+      "notes": "Gamma function relation"
+    },
+    {
+      "category": "Definite",
+      "function": "∫₀^π sin^n(x) dx",
+      "integral": "Wallis formula",
+      "condition": "n ≥ 0 integer",
+      "notes": "Reduction formula"
+    },
+    {
+      "category": "Definite",
+      "function": "∫₀^(π/2) sin^n(x)cos^m(x) dx",
+      "integral": "Beta function",
+      "condition": "n,m > -1",
+      "notes": "Beta function relation"
+    }
+  ],
+  "meta": {
+    "seo_title": "Common Integration Formulas - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download 56 common integration formulas covering basic, trigonometric, and exponential functions. Free in Excel, CSV, and PDF for math students & professionals.",
+    "title": "Common Integration Formulas Dataset",
+    "description": "This dataset provides a comprehensive list of 56 common integration formulas, detailing functions, their integrals, conditions, and notes. Ideal for students, educators, and professionals in mathematics.",
+    "key_takeaways": [
+      "Access 56 essential integration formulas for calculus.",
+      "Explore categories like basic, trigonometric, and exponential functions.",
+      "Download ready-to-use formulas with conditions and notes.",
+      "Leverage accurate integral definitions for educational or professional use."
+    ],
+    "keywords": [
+      "integration formulas excel",
+      "calculus integrals csv",
+      "math formula sheet pdf",
+      "common integral rules",
+      "indefinite integral table",
+      "download calculus data"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your Python script or SQL database to build custom calculus solvers or educational tools.",
+      "Use the **Excel** file to filter formulas by category, create study guides, or verify calculations for complex problems.",
+      "Print the **PDF** version for a quick reference guide in classrooms, during exams, or for offline study sessions.",
+      "Integrate this dataset into e-learning platforms to provide a structured resource for students learning integral calculus."
+    ]
+  },
+  "record_count": 56,
+  "title": "Common Integration Formulas Dataset"
+}

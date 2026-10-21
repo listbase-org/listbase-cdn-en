@@ -1,0 +1,271 @@
+{
+  "id": "ag-political-parties",
+  "name": "Antigua and Barbuda — Political Parties",
+  "title": "Antigua and Barbuda — Political Parties",
+  "description": "Political parties of Antigua and Barbuda from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 4144,
+      "name_short": "ALPB",
+      "name": "Antigua and Barbuda Labour Party",
+      "name_english": "Antigua and Barbuda Labour Party",
+      "name_other": "",
+      "year_first": 1946,
+      "year_last": "",
+      "share": 87.4,
+      "share_year": 1951,
+      "wikipedia": "https://en.wikipedia.org/wiki/Antigua_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4151,
+      "name_short": "PLM",
+      "name": "Progressive Labour Movement",
+      "name_english": "Progressive Labour Movement",
+      "name_other": "",
+      "year_first": 1967,
+      "year_last": 1992,
+      "share": 57.7,
+      "share_year": 1971,
+      "wikipedia": "https://en.wikipedia.org/wiki/Progressive_Labour_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4150,
+      "name_short": "UPP",
+      "name": "United Progressive Party",
+      "name_english": "United Progressive Party",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 47.1,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Progressive_Party_(Antigua_and_Barbuda)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4149,
+      "name_short": "UNDP",
+      "name": "United National Democratic Party",
+      "name_english": "United National Democratic Party",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": 1992,
+      "share": 31,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_National_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4148,
+      "name_short": "UPM",
+      "name": "United People’s Movement",
+      "name_english": "United People’s Movement",
+      "name_other": "",
+      "year_first": 1984,
+      "year_last": 1984,
+      "share": 23,
+      "share_year": 1984,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_People%27s_Movement_(Antigua_and_Barbuda)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4153,
+      "name_short": "ABDM",
+      "name": "Antigua and Barbuda Democratic Movement",
+      "name_english": "Antigua and Barbuda Democratic Movement",
+      "name_other": "",
+      "year_first": 1965,
+      "year_last": 1965,
+      "share": 20.2,
+      "share_year": 1965,
+      "wikipedia": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda_Democratic_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4147,
+      "name_short": "ANP",
+      "name": "Antigua National Party",
+      "name_english": "Antigua National Party",
+      "name_other": "",
+      "year_first": 1956,
+      "year_last": 1956,
+      "share": 12.5,
+      "share_year": 1956,
+      "wikipedia": "https://en.wikipedia.org/wiki/Antigua_National_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4146,
+      "name_short": "BDM",
+      "name": "Barbuda Democratic Movement",
+      "name_english": "Barbuda Democratic Movement",
+      "name_other": "",
+      "year_first": 1960,
+      "year_last": 1989,
+      "share": 6,
+      "share_year": 1960,
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbuda_Democratic_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5552,
+      "name_short": "BPM",
+      "name": "Barbuda People's Movement",
+      "name_english": "Barbuda People's Movement",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": "",
+      "share": 5.9,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbuda_People%27s_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4145,
+      "name_short": "APP",
+      "name": "Antigua People’s Party",
+      "name_english": "Antigua People’s Party",
+      "name_other": "",
+      "year_first": 1968,
+      "year_last": 1971,
+      "share": 3.5,
+      "share_year": 1971,
+      "wikipedia": "https://en.wikipedia.org/wiki/Antigua_People%27s_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4154,
+      "name_short": "ADLP",
+      "name": "Antigua Democratic Labour Party",
+      "name_english": "Antigua Democratic Labour Party",
+      "name_other": "",
+      "year_first": 1960,
+      "year_last": 1960,
+      "share": 2.6,
+      "share_year": 1960,
+      "wikipedia": "https://en.wikipedia.org/wiki/Antigua_Democratic_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4152,
+      "name_short": "ACLM",
+      "name": "Antigua Caribbean Liberation Movement",
+      "name_english": "Antigua Caribbean Liberation Movement",
+      "name_other": "",
+      "year_first": 1968,
+      "year_last": 1992,
+      "share": 2,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/Antigua_Caribbean_Liberation_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Antigua and Barbuda — Political Parties - Free Download",
+    "description": "Political parties of Antigua and Barbuda from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antigua and Barbuda — Political Parties | ListBase",
+    "seo_description": "Download Antigua and Barbuda — Political Parties dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

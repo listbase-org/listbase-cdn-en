@@ -1,0 +1,196 @@
+{
+  "id": "at-airports-iata",
+  "name": "Austria — IATA Airports",
+  "title": "Austria — IATA Airports",
+  "description": "Airports with IATA codes in Austria: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "GRZ",
+      "icao_code": "LOWG",
+      "name": "Graz Airport",
+      "city_name_list": "Graz",
+      "country_code": "AT",
+      "country_name": "Austria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Styria",
+      "latitude": 46.99107,
+      "longitude": 15.43963,
+      "elevation": 339,
+      "timezone": "Europe/Vienna",
+      "wiki_link": "https://en.wikipedia.org/wiki/Graz_Airport"
+    },
+    {
+      "iata_code": "HOH",
+      "icao_code": "LOIH",
+      "name": "Hohenems-Dornbirn Airport",
+      "city_name_list": "Hohenems=Dornbirn",
+      "country_code": "AT",
+      "country_name": "Austria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Vorarlberg",
+      "latitude": 47.38327,
+      "longitude": 9.69882,
+      "elevation": 418,
+      "timezone": "Europe/Vienna",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hohenems-Dornbirn_Airport"
+    },
+    {
+      "iata_code": "INN",
+      "icao_code": "LOWI",
+      "name": "Innsbruck Airport",
+      "city_name_list": "Innsbruck",
+      "country_code": "AT",
+      "country_name": "Austria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Tyrol",
+      "latitude": 47.26022,
+      "longitude": 11.34396,
+      "elevation": 580,
+      "timezone": "Europe/Vienna",
+      "wiki_link": "https://en.wikipedia.org/wiki/Innsbruck_Airport"
+    },
+    {
+      "iata_code": "KLU",
+      "icao_code": "LOWK",
+      "name": "Klagenfurt Airport",
+      "city_name_list": "Klagenfurt am Wörthersee",
+      "country_code": "AT",
+      "country_name": "Austria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Carinthia",
+      "latitude": 46.645,
+      "longitude": 14.32667,
+      "elevation": 448,
+      "timezone": "Europe/Vienna",
+      "wiki_link": "https://en.wikipedia.org/wiki/Klagenfurt_Airport"
+    },
+    {
+      "iata_code": "LNZ",
+      "icao_code": "LOWL",
+      "name": "Linz Airport",
+      "city_name_list": "Linz",
+      "country_code": "AT",
+      "country_name": "Austria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Upper Austria",
+      "latitude": 48.23322,
+      "longitude": 14.18751,
+      "elevation": 298,
+      "timezone": "Europe/Vienna",
+      "wiki_link": "https://en.wikipedia.org/wiki/Linz_Airport"
+    },
+    {
+      "iata_code": "SZG",
+      "icao_code": "LOWS",
+      "name": "Salzburg Airport",
+      "city_name_list": "Salzburg",
+      "country_code": "AT",
+      "country_name": "Austria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "State of Salzburg",
+      "latitude": 47.7933,
+      "longitude": 13.00433,
+      "elevation": 430,
+      "timezone": "Europe/Vienna",
+      "wiki_link": "https://en.wikipedia.org/wiki/Salzburg_Airport"
+    },
+    {
+      "iata_code": "VIE",
+      "icao_code": "LOWW",
+      "name": "Vienna International Airport",
+      "city_name_list": "Vienna",
+      "country_code": "AT",
+      "country_name": "Austria",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Lower Austria",
+      "latitude": 48.1221,
+      "longitude": 16.55751,
+      "elevation": 182,
+      "timezone": "Europe/Vienna",
+      "wiki_link": "https://en.wikipedia.org/wiki/Vienna_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Austria — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Austria: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Austria — IATA Airports | ListBase",
+    "seo_description": "Download Austria — IATA Airports dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

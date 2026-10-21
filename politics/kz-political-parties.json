@@ -1,0 +1,376 @@
+{
+  "id": "kz-political-parties",
+  "name": "Kazakhstan — Political Parties",
+  "title": "Kazakhstan — Political Parties",
+  "description": "Political parties of Kazakhstan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3748,
+      "name_short": "NO",
+      "name": "\"Nur Otan\" Democratic People's Party",
+      "name_english": "Nur Otan",
+      "name_other": "Kazakh: \"Нұр Отан\" Халықтық Демократиялық Партиясы",
+      "year_first": 1999,
+      "year_last": "",
+      "share": 88.4,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nur_Otan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5906,
+      "name_short": "PUP",
+      "name": "People's Union of Kazakhstan Unity",
+      "name_english": "People's Union of Kazakhstan Unity",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 1999,
+      "share": 18.8,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Union_of_Kazakhstan_Unity",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5367,
+      "name_short": "QAP",
+      "name": "Qazaqstan Azamattlyk Partiyasi",
+      "name_english": "Civic Party of Kazakhstan",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": 2004,
+      "share": 14.3,
+      "share_year": 1999,
+      "wikipedia": "https://en.wikipedia.org/wiki/Civic_Party_of_Kazakhstan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5907,
+      "name_short": "Asar",
+      "name": "Asar",
+      "name_english": "All Together",
+      "name_other": "",
+      "year_first": 2005,
+      "year_last": 2007,
+      "share": 11.4,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/Asar_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6379,
+      "name_short": "KSK",
+      "name": "Krest'yanskii Soyuz Kazakhstana",
+      "name_english": "Peasants Union of Kazakhstan",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": "",
+      "share": 10.4,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/Peasants_Union_of_Kazakhstan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5366,
+      "name_short": "DP",
+      "name": "Democratic Party",
+      "name_english": "Democratic Party",
+      "name_other": "",
+      "year_first": 1996,
+      "year_last": 2007,
+      "share": 10.4,
+      "share_year": 1995,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3747,
+      "name_short": "AkZhol",
+      "name": "Qazaqstan Demokratiyalyk Partiya Ak Zhol",
+      "name_english": "Democratic Party of Kazakhstan Bright Path",
+      "name_other": "Kazakh: Қазақстанның «Ақ жол» Демократиялық Партиясы («Ақ жол» ҚДП)",
+      "year_first": 2002,
+      "year_last": "",
+      "share": 7.5,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_of_Kazakhstan_Ak_Zhol",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3749,
+      "name_short": "QKXP",
+      "name": "Qazaqstan Kommunistik Xaliq Partiya",
+      "name_english": "Communist People’s Party of Kazakhstan",
+      "name_other": "Kazakh: Қазақстан коммунистік халық партия (ҚКХП), Russian: Коммунистическая народная партия Казахстана (КНПК)",
+      "year_first": 2004,
+      "year_last": "",
+      "share": 7.2,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_People%27s_Party_of_Kazakhstan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5840,
+      "name_short": "APW",
+      "name": "Qazaqstan Agrarlyq Partiiasy",
+      "name_english": "Agrarian Party of Kazakhstan",
+      "name_other": "",
+      "year_first": 2004,
+      "year_last": "",
+      "share": 7.1,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/Agrarian_Party_of_Kazakhstan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6228,
+      "name_short": "KonPK",
+      "name": "Konfederatsiya Profsoyuzov Respubliki Kazakhstana",
+      "name_english": "Federation of Trade Unions of the Republic of Kazakhstan",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": 1995,
+      "share": 6.2,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/Federation_of_Trade_Unions_of_the_Republic_of_Kazakhstan",
+      "description": "KonPK  is a national trade union center in Kazakhstan. Take part on the 1994 & 1995 Parliamentary Elections.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6229,
+      "name_short": "PCP",
+      "name": "Narodnyi Kongress Kazakhstana",
+      "name_english": "Peoples' Congress of Kazakhstan",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": 1999,
+      "share": 5.1,
+      "share_year": 1994,
+      "wikipedia": "",
+      "description": "Information from Nohlen.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6378,
+      "name_short": "SPK",
+      "name": "Sotsialisticheskaya Partiya Kazakhstana",
+      "name_english": "Socialist Party of Kazakhstan",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": "",
+      "share": 4.5,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/Socialist_Party_of_Kazakhstan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3750,
+      "name_short": "ZSDP",
+      "name": "Zhalpyulttyk Sotsial-Demokratiyalyk Partiya",
+      "name_english": "Nationwide Social Democratic Party",
+      "name_other": "Kazakh: Жалпыұлттық Социал-Демократиялық Партия, Russian: Общенациональная Социал-Демократическая Партия",
+      "year_first": 2007,
+      "year_last": "",
+      "share": 4.5,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nationwide_Social_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4350,
+      "name_short": "QKP",
+      "name": "Qazaqstan Kommunistik Partiyasi",
+      "name_english": "Communist Party of Kazakhstan",
+      "name_other": "Kazakh: Қазақстан Коммунистік партиясы; Russian: Коммунистическая партия Казахстана",
+      "year_first": 1936,
+      "year_last": 2015,
+      "share": 3.4,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Kazakhstan_(Soviet_Union)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4351,
+      "name_short": "DVK/AK",
+      "name": "Qazaqstannyń Demokratııalyq Tandaýy / Alga! Kazakhstan",
+      "name_english": "Democratic Choice of Kazakhstan / Forward! Party",
+      "name_other": "Russian: Демократический выбор Казахстана",
+      "year_first": 2001,
+      "year_last": 2005,
+      "share": 3.4,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Choice_of_Kazakhstan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5627,
+      "name_short": "Auyl",
+      "name": "Kazakhstani Social Democratic Party Auyl",
+      "name_english": "Kazakhstani Social Democratic Party Auyl",
+      "name_other": "",
+      "year_first": 2004,
+      "year_last": "",
+      "share": 2,
+      "share_year": 2016,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kazakhstani_Social_Democratic_Party_Auyl",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8397,
+      "name_short": "CPSU",
+      "name": "Communist Party of the Soviet Union",
+      "name_english": "Communist Party of the Soviet Union",
+      "name_other": "",
+      "year_first": 1912,
+      "year_last": 1991,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_the_Soviet_Union",
+      "description": "Chairman of the Council of People's Commissars 1920-1938",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8398,
+      "name_short": "AP",
+      "name": "Alash Partiyasy",
+      "name_english": "Alash Party",
+      "name_other": "",
+      "year_first": 1917,
+      "year_last": 1920,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alash_(party)",
+      "description": "Chairman of the All-Kirghiz People's Council (Alash-Orda) 1917-1920",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8399,
+      "name_short": "AP",
+      "name": "Alash Partiyasy",
+      "name_english": "Alash Party",
+      "name_other": "",
+      "year_first": 1917,
+      "year_last": 1920,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alash_(party)",
+      "description": "Chairman of the All-Kirghiz People's Council (Alash-Orda) 1917-1920",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Kazakhstan — Political Parties - Free Download",
+    "description": "Political parties of Kazakhstan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kazakhstan — Political Parties | ListBase",
+    "seo_description": "Download Kazakhstan — Political Parties dataset with 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

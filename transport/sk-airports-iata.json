@@ -1,0 +1,211 @@
+{
+  "id": "sk-airports-iata",
+  "name": "Slovakia — IATA Airports",
+  "title": "Slovakia — IATA Airports",
+  "description": "Airports with IATA codes in Slovakia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BTS",
+      "icao_code": "LZIB",
+      "name": "Bratislava Airport",
+      "city_name_list": "Bratislava",
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Bratislava Region",
+      "latitude": 48.17017,
+      "longitude": 17.21267,
+      "elevation": 132,
+      "timezone": "Europe/Bratislava",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bratislava_Airport"
+    },
+    {
+      "iata_code": "ILZ",
+      "icao_code": "LZZI",
+      "name": "Žilina Airport",
+      "city_name_list": "Žilina",
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Zilina Region",
+      "latitude": 49.23153,
+      "longitude": 18.6135,
+      "elevation": 310,
+      "timezone": "Europe/Bratislava",
+      "wiki_link": "https://en.wikipedia.org/wiki/%C5%BDilina_Airport"
+    },
+    {
+      "iata_code": "KSC",
+      "icao_code": "LZKZ",
+      "name": "Košice International Airport",
+      "city_name_list": "Košice",
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Kosice Region",
+      "latitude": 48.66306,
+      "longitude": 21.24111,
+      "elevation": 232,
+      "timezone": "Europe/Bratislava",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ko%C5%A1ice_International_Airport"
+    },
+    {
+      "iata_code": "LUE",
+      "icao_code": "LZLU",
+      "name": "Lucenec",
+      "city_name_list": "Lucenec",
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Banska Bystrica Region",
+      "latitude": 48.35,
+      "longitude": 19.73,
+      "elevation": 214,
+      "timezone": "Europe/Bratislava",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "POV",
+      "icao_code": "LZPW",
+      "name": "Prešov Air Base",
+      "city_name_list": "Prešov",
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Presov Region",
+      "latitude": 49.0297,
+      "longitude": 21.3156,
+      "elevation": 321,
+      "timezone": "Europe/Bratislava",
+      "wiki_link": "https://en.wikipedia.org/wiki/Pre%C5%A1ov_Air_Base"
+    },
+    {
+      "iata_code": "PZY",
+      "icao_code": "LZPP",
+      "name": "Piestany Airport",
+      "city_name_list": "Piešťany",
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Trnava Region",
+      "latitude": 48.625,
+      "longitude": 17.82861,
+      "elevation": 163,
+      "timezone": "Europe/Bratislava",
+      "wiki_link": "https://en.wikipedia.org/wiki/Pie%C5%A1%C5%A5any_Airport"
+    },
+    {
+      "iata_code": "SLD",
+      "icao_code": "LZSL",
+      "name": "Sliač Airport",
+      "city_name_list": "Sliač",
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Banska Bystrica Region",
+      "latitude": 48.63806,
+      "longitude": 19.13417,
+      "elevation": 318,
+      "timezone": "Europe/Bratislava",
+      "wiki_link": "https://en.wikipedia.org/wiki/Slia%C4%8D_Airport"
+    },
+    {
+      "iata_code": "TAT",
+      "icao_code": "LZTT",
+      "name": "Poprad-Tatry Airport",
+      "city_name_list": "Poprad",
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Presov Region",
+      "latitude": 49.073594,
+      "longitude": 20.241142,
+      "elevation": 718,
+      "timezone": "Europe/Bratislava",
+      "wiki_link": "https://en.wikipedia.org/wiki/Poprad-Tatry_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Slovakia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Slovakia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Slovakia — IATA Airports | ListBase",
+    "seo_description": "Download Slovakia — IATA Airports dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

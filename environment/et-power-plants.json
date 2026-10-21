@@ -1,0 +1,340 @@
+{
+  "id": "et-power-plants",
+  "name": "Ethiopia — Power Plants",
+  "title": "Ethiopia — Power Plants",
+  "description": "Power plants located in Ethiopia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Gilgel Gibe III",
+      "gppd_idnr": "WRI1022986",
+      "capacity_mw": 1870,
+      "latitude": 6.8482,
+      "longitude": 37.3018,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2015,
+      "owner": "",
+      "source": "Hydro World",
+      "url": "http://www.hydroworld.com/articles/2015/10/power-generation-begins-at-1-870-mw-gibe-iii-hydroelectric-project-in-ethiopia.html",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 6813.2; 2014: 5714.73; 2015: 6810.95; 2016: 6763.41; 2017: 6272.93",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Beles",
+      "gppd_idnr": "WRI1000056",
+      "capacity_mw": 460,
+      "latitude": 11.8196,
+      "longitude": 36.9181,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2010,
+      "owner": "",
+      "source": "Africa Hydropower Resources Database",
+      "url": "http://afrec-energy.org/En/administration/hydro/index.php",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1717.51; 2014: 1157.2; 2015: 1717.51; 2016: 1617.94; 2017: 1451.86",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Gilgel Gibe II",
+      "gppd_idnr": "WRI1000060",
+      "capacity_mw": 420,
+      "latitude": 7.7571,
+      "longitude": 37.5624,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2010,
+      "owner": "",
+      "source": "Africa Hydropower Resources Database",
+      "url": "http://afrec-energy.org/En/administration/hydro/index.php",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1629.31; 2014: 1382.99; 2015: 1624.37; 2016: 1633.77; 2017: 1508.36",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tekeze",
+      "gppd_idnr": "WRI1000063",
+      "capacity_mw": 300,
+      "latitude": 13.3492,
+      "longitude": 38.7405,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2009,
+      "owner": "",
+      "source": "Africa Hydropower Resources Database",
+      "url": "http://afrec-energy.org/En/administration/hydro/index.php",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1233.05; 2014: 1057.39; 2015: 1215.25; 2016: 1224.18; 2017: 1146.94",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Adama",
+      "gppd_idnr": "WRI1000065",
+      "capacity_mw": 204,
+      "latitude": 8.5913,
+      "longitude": 39.2495,
+      "primary_fuel": "Wind",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Africa's Power Journal",
+      "url": "http://www.esi-africa.com/news/153mw-adama-wind-farm-grows-ethiopias-renewable-energy-plan/",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 492.37",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Gilgel Gibe I",
+      "gppd_idnr": "WRI1000059",
+      "capacity_mw": 184,
+      "latitude": 7.8349,
+      "longitude": 37.3236,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2004,
+      "owner": "",
+      "source": "Africa Hydropower Resources Database",
+      "url": "http://afrec-energy.org/En/administration/hydro/index.php",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 721.73; 2014: 569.18; 2015: 722.79; 2016: 724.77; 2017: 695.04",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Melka Wekana",
+      "gppd_idnr": "WRI1000062",
+      "capacity_mw": 153,
+      "latitude": 7.1761,
+      "longitude": 39.4311,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1983,
+      "owner": "",
+      "source": "Africa Hydropower Resources Database",
+      "url": "http://afrec-energy.org/En/administration/hydro/index.php",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 608.25; 2014: 471.26; 2015: 618.05; 2016: 611.6; 2017: 576.79",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Fincha",
+      "gppd_idnr": "WRI1000057",
+      "capacity_mw": 134,
+      "latitude": 9.558,
+      "longitude": 37.3663,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1973,
+      "owner": "",
+      "source": "Africa Hydropower Resources Database",
+      "url": "http://afrec-energy.org/En/administration/hydro/index.php",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 513.67; 2014: 401.99; 2015: 513.67; 2016: 526.17; 2017: 534.78",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Fincha Amerti Nesha",
+      "gppd_idnr": "WRI1000058",
+      "capacity_mw": 100,
+      "latitude": 9.558,
+      "longitude": 37.3663,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2011,
+      "owner": "",
+      "source": "Africa Hydropower Resources Database",
+      "url": "http://afrec-energy.org/En/administration/hydro/index.php",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 412.33; 2014: 347.53; 2015: 411.47; 2016: 422.72; 2017: 445.23",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tis Abay I",
+      "gppd_idnr": "WRI1000064",
+      "capacity_mw": 84.4,
+      "latitude": 11.4887,
+      "longitude": 37.5999,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Africa Hydropower Resources Database",
+      "url": "http://afrec-energy.org/En/administration/hydro/index.php",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 374.81; 2014: 351.88; 2015: 425.65; 2016: 397.95; 2017: 374.07",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Awash II",
+      "gppd_idnr": "WRI1000055",
+      "capacity_mw": 64,
+      "latitude": 8.3932,
+      "longitude": 39.352,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1996,
+      "owner": "",
+      "source": "Africa Hydropower Resources Database",
+      "url": "http://afrec-energy.org/En/administration/hydro/index.php",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 268.69; 2014: 230.92; 2015: 266.65; 2016: 270.69; 2017: 273.74",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Koka",
+      "gppd_idnr": "WRI1000061",
+      "capacity_mw": 43.2,
+      "latitude": 8.4684,
+      "longitude": 39.1588,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1960,
+      "owner": "",
+      "source": "Africa Hydropower Resources Database",
+      "url": "http://afrec-energy.org/En/administration/hydro/index.php",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 182.54; 2014: 155.5; 2015: 179.99; 2016: 183.29; 2017: 184.77",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Aluto-Langano",
+      "gppd_idnr": "WRI1022987",
+      "capacity_mw": 7.3,
+      "latitude": 7.7886,
+      "longitude": 38.7947,
+      "primary_fuel": "Geothermal",
+      "other_fuels": "",
+      "commissioning_year": 2013,
+      "owner": "",
+      "source": "World Bank",
+      "url": "http://documents.worldbank.org/curated/en/151581468038142238/E43920V10P13360Box382090B00PUBLIC0.docx",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Ethiopia — Power Plants - Free Download",
+    "description": "Power plants located in Ethiopia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ethiopia — Power Plants | ListBase",
+    "seo_description": "Download Ethiopia — Power Plants dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

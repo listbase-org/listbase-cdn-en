@@ -1,0 +1,166 @@
+{
+  "id": "lv-airports-iata",
+  "name": "Latvia — IATA Airports",
+  "title": "Latvia — IATA Airports",
+  "description": "Airports with IATA codes in Latvia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "DGP",
+      "icao_code": "EVDA",
+      "name": "Daugavpils International Airport",
+      "city_name_list": "Daugavpils",
+      "country_code": "LV",
+      "country_name": "Latvia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Augsdaugava Municipality",
+      "latitude": 55.94189,
+      "longitude": 26.66451,
+      "elevation": "",
+      "timezone": "Europe/Riga",
+      "wiki_link": "https://en.wikipedia.org/wiki/Daugavpils_International_Airport"
+    },
+    {
+      "iata_code": "LPX",
+      "icao_code": "EVLA",
+      "name": "Liepaja East",
+      "city_name_list": "Liepāja",
+      "country_code": "LV",
+      "country_name": "Latvia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "South Kurzeme Municipality",
+      "latitude": 56.5175,
+      "longitude": 21.09694,
+      "elevation": 4,
+      "timezone": "Europe/Riga",
+      "wiki_link": "https://en.wikipedia.org/wiki/Liep%C4%81ja_International_Airport"
+    },
+    {
+      "iata_code": "RIX",
+      "icao_code": "EVRA",
+      "name": "Riga International Airport",
+      "city_name_list": "Riga",
+      "country_code": "LV",
+      "country_name": "Latvia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Marupe",
+      "latitude": 56.923611,
+      "longitude": 23.971111,
+      "elevation": 10,
+      "timezone": "Europe/Riga",
+      "wiki_link": "https://en.wikipedia.org/wiki/Riga_International_Airport"
+    },
+    {
+      "iata_code": "RSC",
+      "icao_code": "",
+      "name": "Skulte Railway Station",
+      "city_name_list": "Riga",
+      "country_code": "LV",
+      "country_name": "Latvia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "",
+      "latitude": 57.33336,
+      "longitude": 24.46323,
+      "elevation": "",
+      "timezone": "Europe/Riga",
+      "wiki_link": "https://en.wikipedia.org/wiki/Skulte,_Skulte_Parish"
+    },
+    {
+      "iata_code": "VNT",
+      "icao_code": "EVVA",
+      "name": "Ventspils International Airport",
+      "city_name_list": "Ventspils",
+      "country_code": "LV",
+      "country_name": "Latvia",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Ventspils",
+      "latitude": 57.35781,
+      "longitude": 21.54419,
+      "elevation": "",
+      "timezone": "Europe/Riga",
+      "wiki_link": "https://en.wikipedia.org/wiki/Ventspils_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Latvia — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Latvia: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Latvia — IATA Airports | ListBase",
+    "seo_description": "Download Latvia — IATA Airports dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

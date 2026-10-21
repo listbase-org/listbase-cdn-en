@@ -1,0 +1,286 @@
+{
+  "id": "by-political-parties",
+  "name": "Belarus — Political Parties",
+  "title": "Belarus — Political Parties",
+  "description": "Political parties of Belarus from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 2030,
+      "name_short": "PKB",
+      "name": "Partiya Komunistau Belaruskaya",
+      "name_english": "Party of Communists of Belarus / Belarusian Left Party \"A Just World\"",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 100,
+      "share_year": 1990,
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_of_Communists_of_Belarus",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3275,
+      "name_short": "PBNF",
+      "name": "Partyja BNF",
+      "name_english": "Belarusian People's Front",
+      "name_other": "Belarusian: Партыя БНФ, ПБНФ",
+      "year_first": 1988,
+      "year_last": "",
+      "share": 12.4,
+      "share_year": 1994,
+      "wikipedia": "https://en.wikipedia.org/wiki/BPF_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2037,
+      "name_short": "AP",
+      "name": "Agrarnaya Partya",
+      "name_english": "Agrarian Party",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 5.2,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Agrarian_Party_(Belarus)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7418,
+      "name_short": "KPB",
+      "name": "Kamunistyčnaja Partyja Bielarusi",
+      "name_english": "Communist Party of Belarus",
+      "name_other": "Belarusian: Камуністы́чная па́ртыя Белару́сі; Russian: Коммунисти́ческая па́ртия Белару́си",
+      "year_first": 1996,
+      "year_last": "",
+      "share": 4.3,
+      "share_year": 2008,
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Belarus",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3646,
+      "name_short": "LDPB",
+      "name": "Liberal'no-Demokraticheskaya Partiya",
+      "name_english": "Liberal Democratic Party",
+      "name_other": "Belarusian: Лібэральна-дэмакратычная партыя, Russian: Либерально-демократическая партия",
+      "year_first": 1994,
+      "year_last": "",
+      "share": 3.5,
+      "share_year": 2006,
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberal_Democratic_Party_%28Belarus%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6191,
+      "name_short": "Accord",
+      "name": "People's Accord Party",
+      "name_english": "People's Accord Party",
+      "name_other": "Belarusian: Партыя народнай згоды",
+      "year_first": 1995,
+      "year_last": 1996,
+      "share": 3.1,
+      "share_year": 1995,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7406,
+      "name_short": "BSDP-NH",
+      "name": "Biełaruskaja Sacyjal-Demakratyčnaja Partyja (Narodnaja Hramada)",
+      "name_english": "Belarusian Social Democratic Party (People's Assembly)",
+      "name_other": "Belarusian: Беларуская сацыял-дэмакратычная партыя (Народная Грамада)",
+      "year_first": 1996,
+      "year_last": "",
+      "share": 2.8,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/Belarusian_Social_Democratic_Party_(People%27s_Assembly)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2036,
+      "name_short": "BPP",
+      "name": "Belorusskaia patrioticheskaia partiia",
+      "name_english": "Belarusian Patriotic Party",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": "",
+      "share": 1.7,
+      "share_year": 2015,
+      "wikipedia": "https://en.wikipedia.org/wiki/Belarusian_Patriotic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7407,
+      "name_short": "RPTS",
+      "name": "Republican Party of Labour and Justice",
+      "name_english": "Republican Party of Labour and Justice",
+      "name_other": "Belarusian: Рэспубліканская партыя працы і справядлівасьці; Russian: Республиканская партия труда и справедливости",
+      "year_first": 1993,
+      "year_last": "",
+      "share": 1.5,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Republican_Party_of_Labour_and_Justice",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2035,
+      "name_short": "BSDP-H",
+      "name": "Belarusskaya Social-Demokraticheskaya Partiya (Hromada)",
+      "name_english": "Belarusian Social Democratic Party (Assembly)",
+      "name_other": "Belarusian: Беларуская сацыял-дэмакратычная партыя (Грамада́), Russian: Белорусская социал-демократическая партия (Громада́)",
+      "year_first": 2005,
+      "year_last": "",
+      "share": 1,
+      "share_year": 2004,
+      "wikipedia": "https://en.wikipedia.org/wiki/Belarusian_Social_Democratic_Party_(Assembly)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8404,
+      "name_short": "SDP",
+      "name": "Belorusskaya Sotsial-Demokraticheskaya Partiya",
+      "name_english": "Belorussian Social Democratic Party",
+      "name_other": "",
+      "year_first": 1918,
+      "year_last": 1924,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "Chairman of the Council of Ministers 1918-1920",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8376,
+      "name_short": "KPB-B",
+      "name": "Kommunisticheskaya Partiya (Bolsheviki) Belorussii",
+      "name_english": "Communist Party (bolsheviks) of Byelorussia",
+      "name_other": "Russian: Коммунистическая партия (большевиков) Белоруссии",
+      "year_first": 1918,
+      "year_last": 1991,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_Byelorussia",
+      "description": "",
+      "comment": "Chairman of the Council of People's Commissars 1920-1953",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2033,
+      "name_short": "AHPB",
+      "name": "Abjadnanaja hramadzianskaja partyja Biełarusi",
+      "name_english": "United Civic Party of Belarus",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Civic_Party_of_Belarus",
+      "description": "participation in 1995 election",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Belarus — Political Parties - Free Download",
+    "description": "Political parties of Belarus from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Belarus — Political Parties | ListBase",
+    "seo_description": "Download Belarus — Political Parties dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

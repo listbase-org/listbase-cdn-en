@@ -1,0 +1,250 @@
+{
+  "id": "am-power-plants",
+  "name": "Armenia — Power Plants",
+  "title": "Armenia — Power Plants",
+  "description": "Power plants located in Armenia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Hrazadan",
+      "gppd_idnr": "WRI1019027",
+      "capacity_mw": 1110,
+      "latitude": 40.564,
+      "longitude": 44.7479,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Hrazdan Energy Company",
+      "source": "Armenia Ministry of Energy and Natural Resources",
+      "url": "http://www.minenergy.am/en/page/532",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 6712.82",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sevan-Hrazdan Cascade",
+      "gppd_idnr": "WRI1003805",
+      "capacity_mw": 561,
+      "latitude": 40.5078,
+      "longitude": 44.7606,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "RusHydro",
+      "source": "Armenia Ministry of Energy and Natural Resources",
+      "url": "http://www.minenergy.am/en/page/534",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 847.52; 2014: 854.95; 2015: 838.63; 2016: 846.61; 2017: 853.67",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Yerevan",
+      "gppd_idnr": "WRI1019025",
+      "capacity_mw": 550,
+      "latitude": 40.1138,
+      "longitude": 44.5038,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Yerevan TPP",
+      "source": "Armenia Ministry of Energy and Natural Resources",
+      "url": "http://www.minenergy.am/en/page/531",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 3326.17",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Armenian-2",
+      "gppd_idnr": "WRI1019028",
+      "capacity_mw": 375,
+      "latitude": 40.1805,
+      "longitude": 44.1498,
+      "primary_fuel": "Nuclear",
+      "other_fuels": "",
+      "commissioning_year": 1980,
+      "owner": "Armenian Nuclear Power Company",
+      "source": "IAEA",
+      "url": "https://www.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=2",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 2411.04",
+      "generation_data_source": ""
+    },
+    {
+      "name": "New Yerevan",
+      "gppd_idnr": "WRI1019026",
+      "capacity_mw": 271,
+      "latitude": 40.1152,
+      "longitude": 44.4973,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2010,
+      "owner": "Yerevan  TPP",
+      "source": "Armenia Ministry of Energy and Natural Resources",
+      "url": "http://www.minenergy.am/en/page/531",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1638.89",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Shamb",
+      "gppd_idnr": "WRI1019030",
+      "capacity_mw": 170,
+      "latitude": 39.4743,
+      "longitude": 46.1306,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1978,
+      "owner": "Ministry of Energy an Natural Resources",
+      "source": "Armenia Ministry of Energy and Natural Resources",
+      "url": "http://www.minenergy.am/en/page/533",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 254.59; 2014: 248.21; 2015: 225.18; 2016: 234.89; 2017: 226.04",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tatev",
+      "gppd_idnr": "WRI1019029",
+      "capacity_mw": 158,
+      "latitude": 39.3956,
+      "longitude": 46.2578,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1970,
+      "owner": "Ministry of Energy an Natural Resources",
+      "source": "Armenia Ministry of Energy and Natural Resources",
+      "url": "http://www.minenergy.am/en/page/533",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 218.42; 2014: 218.42; 2015: 218.37; 2016: 219.59; 2017: 263.44",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Spandaryan",
+      "gppd_idnr": "WRI1019031",
+      "capacity_mw": 76,
+      "latitude": 39.6494,
+      "longitude": 45.85,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1989,
+      "owner": "Ministry of Energy an Natural Resources",
+      "source": "Armenia Ministry of Energy and Natural Resources",
+      "url": "http://www.minenergy.am/en/page/533",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 91.89; 2014: 59.65; 2015: 134.22; 2016: 106.8; 2017: 91.89",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Armenia — Power Plants - Free Download",
+    "description": "Power plants located in Armenia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Armenia — Power Plants | ListBase",
+    "seo_description": "Download Armenia — Power Plants dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

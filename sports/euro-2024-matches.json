@@ -1,0 +1,632 @@
+{
+  "id": "euro-2024-matches",
+  "name": "UEFA Euro 2024 Matches",
+  "title": "UEFA Euro 2024 Matches",
+  "description": "51 matches from the UEFA Euro 2024 tournament, including date, round/group, teams, full-time score, and venue.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/euro.json",
+  "source_url": "https://github.com/openfootball/euro.json",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "time",
+      "label": "Time",
+      "type": "string"
+    },
+    {
+      "key": "round",
+      "label": "Round",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "team1",
+      "label": "Team1",
+      "type": "string"
+    },
+    {
+      "key": "team2",
+      "label": "Team2",
+      "type": "string"
+    },
+    {
+      "key": "score1",
+      "label": "Score1",
+      "type": "number"
+    },
+    {
+      "key": "score2",
+      "label": "Score2",
+      "type": "number"
+    },
+    {
+      "key": "ground",
+      "label": "Ground",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2024-06-14",
+      "time": "21:00",
+      "round": "Matchday 1",
+      "group": "Group A",
+      "team1": "Germany",
+      "team2": "Scotland",
+      "score1": 5,
+      "score2": 1,
+      "ground": "München"
+    },
+    {
+      "date": "2024-06-15",
+      "time": "15:00",
+      "round": "Matchday 1",
+      "group": "Group A",
+      "team1": "Hungary",
+      "team2": "Switzerland",
+      "score1": 1,
+      "score2": 3,
+      "ground": "Köln"
+    },
+    {
+      "date": "2024-06-19",
+      "time": "18:00",
+      "round": "Matchday 2",
+      "group": "Group A",
+      "team1": "Germany",
+      "team2": "Hungary",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Stuttgart"
+    },
+    {
+      "date": "2024-06-19",
+      "time": "21:00",
+      "round": "Matchday 2",
+      "group": "Group A",
+      "team1": "Scotland",
+      "team2": "Switzerland",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Köln"
+    },
+    {
+      "date": "2024-06-23",
+      "time": "21:00",
+      "round": "Matchday 3",
+      "group": "Group A",
+      "team1": "Switzerland",
+      "team2": "Germany",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Frankfurt"
+    },
+    {
+      "date": "2024-06-23",
+      "time": "21:00",
+      "round": "Matchday 3",
+      "group": "Group A",
+      "team1": "Scotland",
+      "team2": "Hungary",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Stuttgart"
+    },
+    {
+      "date": "2024-06-15",
+      "time": "18:00",
+      "round": "Matchday 1",
+      "group": "Group B",
+      "team1": "Spain",
+      "team2": "Croatia",
+      "score1": 3,
+      "score2": 0,
+      "ground": "Berlin"
+    },
+    {
+      "date": "2024-06-15",
+      "time": "21:00",
+      "round": "Matchday 1",
+      "group": "Group B",
+      "team1": "Italy",
+      "team2": "Albania",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Dortmund"
+    },
+    {
+      "date": "2024-06-19",
+      "time": "15:00",
+      "round": "Matchday 2",
+      "group": "Group B",
+      "team1": "Croatia",
+      "team2": "Albania",
+      "score1": 2,
+      "score2": 2,
+      "ground": "Hamburg"
+    },
+    {
+      "date": "2024-06-20",
+      "time": "21:00",
+      "round": "Matchday 2",
+      "group": "Group B",
+      "team1": "Spain",
+      "team2": "Italy",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Gelsenkirchen"
+    },
+    {
+      "date": "2024-06-24",
+      "time": "21:00",
+      "round": "Matchday 3",
+      "group": "Group B",
+      "team1": "Albania",
+      "team2": "Spain",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Düsseldorf"
+    },
+    {
+      "date": "2024-06-24",
+      "time": "21:00",
+      "round": "Matchday 3",
+      "group": "Group B",
+      "team1": "Croatia",
+      "team2": "Italy",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Leipzig"
+    },
+    {
+      "date": "2024-06-16",
+      "time": "18:00",
+      "round": "Matchday 1",
+      "group": "Group C",
+      "team1": "Slovenia",
+      "team2": "Denmark",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Stuttgart"
+    },
+    {
+      "date": "2024-06-16",
+      "time": "21:00",
+      "round": "Matchday 1",
+      "group": "Group C",
+      "team1": "Serbia",
+      "team2": "England",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Gelsenkirchen"
+    },
+    {
+      "date": "2024-06-20",
+      "time": "15:00",
+      "round": "Matchday 2",
+      "group": "Group C",
+      "team1": "Slovenia",
+      "team2": "Serbia",
+      "score1": 1,
+      "score2": 1,
+      "ground": "München"
+    },
+    {
+      "date": "2024-06-20",
+      "time": "18:00",
+      "round": "Matchday 2",
+      "group": "Group C",
+      "team1": "Denmark",
+      "team2": "England",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Frankfurt"
+    },
+    {
+      "date": "2024-06-25",
+      "time": "21:00",
+      "round": "Matchday 3",
+      "group": "Group C",
+      "team1": "England",
+      "team2": "Slovenia",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Köln"
+    },
+    {
+      "date": "2024-06-25",
+      "time": "21:00",
+      "round": "Matchday 3",
+      "group": "Group C",
+      "team1": "Denmark",
+      "team2": "Serbia",
+      "score1": 0,
+      "score2": 0,
+      "ground": "München"
+    },
+    {
+      "date": "2024-06-16",
+      "time": "15:00",
+      "round": "Matchday 1",
+      "group": "Group D",
+      "team1": "Poland",
+      "team2": "Netherlands",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Hamburg"
+    },
+    {
+      "date": "2024-06-17",
+      "time": "21:00",
+      "round": "Matchday 1",
+      "group": "Group D",
+      "team1": "Austria",
+      "team2": "France",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Düsseldorf"
+    },
+    {
+      "date": "2024-06-21",
+      "time": "18:00",
+      "round": "Matchday 2",
+      "group": "Group D",
+      "team1": "Poland",
+      "team2": "Austria",
+      "score1": 1,
+      "score2": 3,
+      "ground": "Berlin"
+    },
+    {
+      "date": "2024-06-21",
+      "time": "21:00",
+      "round": "Matchday 2",
+      "group": "Group D",
+      "team1": "Netherlands",
+      "team2": "France",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Leipzig"
+    },
+    {
+      "date": "2024-06-25",
+      "time": "18:00",
+      "round": "Matchday 3",
+      "group": "Group D",
+      "team1": "Netherlands",
+      "team2": "Austria",
+      "score1": 2,
+      "score2": 3,
+      "ground": "Berlin"
+    },
+    {
+      "date": "2024-06-25",
+      "time": "18:00",
+      "round": "Matchday 3",
+      "group": "Group D",
+      "team1": "France",
+      "team2": "Poland",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Dortmund"
+    },
+    {
+      "date": "2024-06-17",
+      "time": "15:00",
+      "round": "Matchday 1",
+      "group": "Group E",
+      "team1": "Romania",
+      "team2": "Ukraine",
+      "score1": 3,
+      "score2": 0,
+      "ground": "München"
+    },
+    {
+      "date": "2024-06-17",
+      "time": "18:00",
+      "round": "Matchday 1",
+      "group": "Group E",
+      "team1": "Belgium",
+      "team2": "Slovakia",
+      "score1": 0,
+      "score2": 1,
+      "ground": "Frankfurt"
+    },
+    {
+      "date": "2024-06-21",
+      "time": "15:00",
+      "round": "Matchday 2",
+      "group": "Group E",
+      "team1": "Slovakia",
+      "team2": "Ukraine",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Düsseldorf"
+    },
+    {
+      "date": "2024-06-22",
+      "time": "21:00",
+      "round": "Matchday 2",
+      "group": "Group E",
+      "team1": "Belgium",
+      "team2": "Romania",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Köln"
+    },
+    {
+      "date": "2024-06-26",
+      "time": "18:00",
+      "round": "Matchday 3",
+      "group": "Group E",
+      "team1": "Slovakia",
+      "team2": "Romania",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Frankfurt"
+    },
+    {
+      "date": "2024-06-26",
+      "time": "18:00",
+      "round": "Matchday 3",
+      "group": "Group E",
+      "team1": "Ukraine",
+      "team2": "Belgium",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Stuttgart"
+    },
+    {
+      "date": "2024-06-18",
+      "time": "18:00",
+      "round": "Matchday 1",
+      "group": "Group F",
+      "team1": "Turkey",
+      "team2": "Georgia",
+      "score1": 3,
+      "score2": 1,
+      "ground": "Dortmund"
+    },
+    {
+      "date": "2024-06-18",
+      "time": "21:00",
+      "round": "Matchday 1",
+      "group": "Group F",
+      "team1": "Portugal",
+      "team2": "Czech Republic",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Leipzig"
+    },
+    {
+      "date": "2024-06-22",
+      "time": "15:00",
+      "round": "Matchday 2",
+      "group": "Group F",
+      "team1": "Georgia",
+      "team2": "Czech Republic",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Hamburg"
+    },
+    {
+      "date": "2024-06-22",
+      "time": "18:00",
+      "round": "Matchday 2",
+      "group": "Group F",
+      "team1": "Turkey",
+      "team2": "Portugal",
+      "score1": 0,
+      "score2": 3,
+      "ground": "Dortmund"
+    },
+    {
+      "date": "2024-06-26",
+      "time": "21:00",
+      "round": "Matchday 3",
+      "group": "Group F",
+      "team1": "Georgia",
+      "team2": "Portugal",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Gelsenkirchen"
+    },
+    {
+      "date": "2024-06-26",
+      "time": "21:00",
+      "round": "Matchday 3",
+      "group": "Group F",
+      "team1": "Czech Republic",
+      "team2": "Turkey",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Hamburg"
+    },
+    {
+      "date": "2024-06-29",
+      "time": "18:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Switzerland",
+      "team2": "Italy",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Berlin"
+    },
+    {
+      "date": "2024-06-29",
+      "time": "21:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Germany",
+      "team2": "Denmark",
+      "score1": 2,
+      "score2": 0,
+      "ground": "Dortmund"
+    },
+    {
+      "date": "2024-06-30",
+      "time": "18:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "England",
+      "team2": "Slovakia",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Gelsenkirchen"
+    },
+    {
+      "date": "2024-06-30",
+      "time": "21:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Spain",
+      "team2": "Georgia",
+      "score1": 4,
+      "score2": 1,
+      "ground": "Köln"
+    },
+    {
+      "date": "2024-07-01",
+      "time": "18:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "France",
+      "team2": "Belgium",
+      "score1": 1,
+      "score2": 0,
+      "ground": "Düsseldorf"
+    },
+    {
+      "date": "2024-07-01",
+      "time": "21:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Portugal",
+      "team2": "Slovenia",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Frankfurt"
+    },
+    {
+      "date": "2024-07-02",
+      "time": "18:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Romania",
+      "team2": "Netherlands",
+      "score1": 0,
+      "score2": 3,
+      "ground": "München"
+    },
+    {
+      "date": "2024-07-02",
+      "time": "21:00",
+      "round": "Round of 16",
+      "group": "",
+      "team1": "Austria",
+      "team2": "Turkey",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Leipzig"
+    },
+    {
+      "date": "2024-07-05",
+      "time": "18:00",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "Spain",
+      "team2": "Germany",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Stuttgart"
+    },
+    {
+      "date": "2024-07-05",
+      "time": "21:00",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "Portugal",
+      "team2": "France",
+      "score1": 0,
+      "score2": 0,
+      "ground": "Hamburg"
+    },
+    {
+      "date": "2024-07-06",
+      "time": "18:00",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "England",
+      "team2": "Switzerland",
+      "score1": 1,
+      "score2": 1,
+      "ground": "Düsseldorf"
+    },
+    {
+      "date": "2024-07-06",
+      "time": "21:00",
+      "round": "Quarter-finals",
+      "group": "",
+      "team1": "Netherlands",
+      "team2": "Turkey",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Berlin"
+    },
+    {
+      "date": "2024-07-09",
+      "time": "21:00",
+      "round": "Semi-finals",
+      "group": "",
+      "team1": "Spain",
+      "team2": "France",
+      "score1": 2,
+      "score2": 1,
+      "ground": "München"
+    },
+    {
+      "date": "2024-07-10",
+      "time": "21:00",
+      "round": "Semi-finals",
+      "group": "",
+      "team1": "Netherlands",
+      "team2": "England",
+      "score1": 1,
+      "score2": 2,
+      "ground": "Dortmund"
+    },
+    {
+      "date": "2024-07-14",
+      "time": "21:00",
+      "round": "Final",
+      "group": "",
+      "team1": "Spain",
+      "team2": "England",
+      "score1": 2,
+      "score2": 1,
+      "ground": "Berlin"
+    }
+  ],
+  "meta": {
+    "title": "UEFA Euro 2024 Matches - Free Download",
+    "description": "51 matches from the UEFA Euro 2024 tournament, including date, round/group, teams, full-time score, and venue. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "UEFA Euro 2024 Matches | ListBase",
+    "seo_description": "Download UEFA Euro 2024 Matches — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/euro.json"
+    ]
+  }
+}

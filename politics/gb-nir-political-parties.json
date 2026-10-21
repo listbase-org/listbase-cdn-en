@@ -1,0 +1,241 @@
+{
+  "id": "gb-nir-political-parties",
+  "name": "Northern Ireland — Political Parties",
+  "title": "Northern Ireland — Political Parties",
+  "description": "Political parties of Northern Ireland from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 1763,
+      "name_short": "UUP",
+      "name": "Ulster Unionist Party",
+      "name_english": "Ulster Unionist Party",
+      "name_other": "",
+      "year_first": 1905,
+      "year_last": "",
+      "share": 77.2,
+      "share_year": 1959,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ulster_Unionist_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 667,
+      "name_short": "DUP",
+      "name": "Democratic Unionist Party",
+      "name_english": "Democratic Unionist Party",
+      "name_other": "",
+      "year_first": 1971,
+      "year_last": "",
+      "share": 36,
+      "share_year": 2017,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Unionist_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1257,
+      "name_short": "SF",
+      "name": "Sinn Féin",
+      "name_english": "Sinn Fein",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": "",
+      "share": 27.9,
+      "share_year": 2017,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sinn_F%C3%A9in",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2451,
+      "name_short": "NP",
+      "name": "Nationalist Party",
+      "name_english": "Nationalist Party",
+      "name_other": "",
+      "year_first": 1918,
+      "year_last": 1977,
+      "share": 26.8,
+      "share_year": 1949,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nationalist_Party_%28Northern_Ireland%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2450,
+      "name_short": "NILP",
+      "name": "Northern Ireland Labour Party",
+      "name_english": "Northern Ireland Labour Party",
+      "name_other": "",
+      "year_first": 1924,
+      "year_last": 1987,
+      "share": 25.4,
+      "share_year": 1962,
+      "wikipedia": "https://en.wikipedia.org/wiki/Northern_Ireland_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 266,
+      "name_short": "SDLP",
+      "name": "Social Democratic and Labour Party (Páirtí Sóisialta Daonlathach an Lucht Oibre)",
+      "name_english": "Social Democratic and Labour Party",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": "",
+      "share": 23.7,
+      "share_year": 1975,
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_Democratic_and_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3257,
+      "name_short": "APNI",
+      "name": "Alliance Party of Northern Ireland",
+      "name_english": "Alliance Party of Northern Ireland",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": "",
+      "share": 9.8,
+      "share_year": 1975,
+      "wikipedia": "https://en.wikipedia.org/wiki/Alliance_Party_of_Northern_Ireland",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 694,
+      "name_short": "NIC",
+      "name": "Northern Ireland Conservatives",
+      "name_english": "Northern Ireland Conservatives",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": "",
+      "share": 4.8,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/Northern_Ireland_Conservatives",
+      "description": "4.8% in 1989 EP election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 642,
+      "name_short": "PUP",
+      "name": "Progressive Unionist Party",
+      "name_english": "Progressive Unionist Party",
+      "name_other": "",
+      "year_first": 1979,
+      "year_last": "",
+      "share": 2.6,
+      "share_year": 1998,
+      "wikipedia": "https://en.wikipedia.org/wiki/Progressive_Unionist_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 427,
+      "name_short": "NIWC",
+      "name": "Northern Ireland Women's Coalition",
+      "name_english": "Northern Ireland Women's Coalition",
+      "name_other": "",
+      "year_first": 1996,
+      "year_last": 2006,
+      "share": 1.6,
+      "share_year": 1998,
+      "wikipedia": "https://en.wikipedia.org/wiki/Northern_Ireland_Women%27s_Coalition",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Northern Ireland — Political Parties - Free Download",
+    "description": "Political parties of Northern Ireland from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Northern Ireland — Political Parties | ListBase",
+    "seo_description": "Download Northern Ireland — Political Parties dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

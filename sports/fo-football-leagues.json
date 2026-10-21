@@ -1,0 +1,72 @@
+{
+  "id": "fo-football-leagues",
+  "name": "Faroe Islands — Football Leagues",
+  "title": "Faroe Islands — Football Leagues",
+  "description": "Domestic football (soccer) leagues and cup competitions of Faroe Islands. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/leagues",
+  "source_url": "https://github.com/openfootball/leagues",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "year_span",
+      "label": "Year Span",
+      "type": "string"
+    },
+    {
+      "key": "tier_kind",
+      "label": "Tier Kind",
+      "type": "string"
+    },
+    {
+      "key": "tier_level",
+      "label": "Tier Level",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "1",
+      "name": "Premier Division",
+      "aliases": "Effodeildin, Faroese Premier Division",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 1
+    },
+    {
+      "code": "cup",
+      "name": "Cup",
+      "aliases": "Steypakappingin",
+      "year_span": "",
+      "tier_kind": "national-cup",
+      "tier_level": ""
+    }
+  ],
+  "meta": {
+    "title": "Faroe Islands — Football Leagues - Free Download",
+    "description": "Domestic football (soccer) leagues and cup competitions of Faroe Islands. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Faroe Islands — Football Leagues | ListBase",
+    "seo_description": "Download Faroe Islands — Football Leagues — 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/leagues"
+    ]
+  }
+}

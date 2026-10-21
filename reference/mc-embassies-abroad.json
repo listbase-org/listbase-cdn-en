@@ -1,0 +1,336 @@
+{
+  "id": "mc-embassies-abroad",
+  "name": "Monaco — Embassies and Consulates Abroad",
+  "title": "Monaco — Embassies and Consulates Abroad",
+  "description": "Diplomatic missions operated by Monaco in foreign countries. Sourced from Wikidata via the database-of-embassies project; each record includes the host country, mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "date"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Monaco",
+      "operator_cc": "mc",
+      "host_country": "Belgium",
+      "host_cc": "be",
+      "city": "City of Brussels",
+      "address": "",
+      "type": "embassy",
+      "latitude": 50.8394,
+      "longitude": 4.3682,
+      "jurisdictions": "Belgium, Luxembourg, Netherlands",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q69883673"
+    },
+    {
+      "operator": "Monaco",
+      "operator_cc": "mc",
+      "host_country": "France",
+      "host_cc": "fr",
+      "city": "",
+      "address": "",
+      "type": "embassy",
+      "latitude": 48.859871,
+      "longitude": 2.266013,
+      "jurisdictions": "France",
+      "phone": "",
+      "email": "",
+      "website": "https://ambassade-en-france.gouv.mc/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q2841821"
+    },
+    {
+      "operator": "Monaco",
+      "operator_cc": "mc",
+      "host_country": "France",
+      "host_cc": "fr",
+      "city": "2nd arrondissement of Lyon",
+      "address": "",
+      "type": "honorary consulate",
+      "latitude": 45.75323,
+      "longitude": 4.82808,
+      "jurisdictions": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q62319261"
+    },
+    {
+      "operator": "Monaco",
+      "operator_cc": "mc",
+      "host_country": "Germany",
+      "host_cc": "de",
+      "city": "Mitte",
+      "address": "",
+      "type": "embassy",
+      "latitude": 52.506714,
+      "longitude": 13.351685,
+      "jurisdictions": "Poland, Austria, Russia, Germany",
+      "phone": "",
+      "email": "",
+      "website": "https://www.gouv.mc/Action-Gouvernementale/Monaco-a-l-International/La-Diplomatie-et-la-Presence-Internationale/Relations-bilaterales/Tous-les-Pays/Allemagne",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q2841819"
+    },
+    {
+      "operator": "Monaco",
+      "operator_cc": "mc",
+      "host_country": "Italy",
+      "host_cc": "it",
+      "city": "Rome",
+      "address": "",
+      "type": "embassy",
+      "latitude": 41.9172,
+      "longitude": 12.494,
+      "jurisdictions": "Vatican City, Sovereign Military Order of Malta",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q60855269"
+    },
+    {
+      "operator": "Monaco",
+      "operator_cc": "mc",
+      "host_country": "Italy",
+      "host_cc": "it",
+      "city": "Rome",
+      "address": "",
+      "type": "embassy",
+      "latitude": 41.9241,
+      "longitude": 12.4873,
+      "jurisdictions": "Italy, Slovenia, Romania, Croatia, Malta, San Marino",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "ambasciatamonacoinitalia",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q103852949"
+    },
+    {
+      "operator": "Monaco",
+      "operator_cc": "mc",
+      "host_country": "Portugal",
+      "host_cc": "pt",
+      "city": "Lisbon",
+      "address": "",
+      "type": "embassy",
+      "latitude": 38.7149,
+      "longitude": -9.1631,
+      "jurisdictions": "Portugal",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q104251760"
+    },
+    {
+      "operator": "Monaco",
+      "operator_cc": "mc",
+      "host_country": "Spain",
+      "host_cc": "es",
+      "city": "Madrid",
+      "address": "",
+      "type": "embassy",
+      "latitude": 40.4225,
+      "longitude": -3.6888,
+      "jurisdictions": "Spain",
+      "phone": "",
+      "email": "",
+      "website": "https://ambassade-en-espagne.gouv.mc/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "1990-11-30T00:00:00Z",
+      "wikidata_qid": "Q104252067"
+    },
+    {
+      "operator": "Monaco",
+      "operator_cc": "mc",
+      "host_country": "Switzerland",
+      "host_cc": "ch",
+      "city": "Bern",
+      "address": "",
+      "type": "embassy",
+      "latitude": 46.9445,
+      "longitude": 7.4571,
+      "jurisdictions": "Switzerland, Liechtenstein",
+      "phone": "+41-31-356-28-58",
+      "email": "mailto:ambassademonaco@bluewin.ch",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q26995323"
+    },
+    {
+      "operator": "Monaco",
+      "operator_cc": "mc",
+      "host_country": "United Kingdom",
+      "host_cc": "gb",
+      "city": "London",
+      "address": "",
+      "type": "embassy",
+      "latitude": 51.5106,
+      "longitude": -0.1537,
+      "jurisdictions": "United Kingdom",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q16239477"
+    },
+    {
+      "operator": "Monaco",
+      "operator_cc": "mc",
+      "host_country": "United States of America",
+      "host_cc": "us",
+      "city": "Washington, D.C.",
+      "address": "",
+      "type": "embassy",
+      "latitude": 38.941925,
+      "longitude": -77.063693,
+      "jurisdictions": "Canada, United States of America",
+      "phone": "",
+      "email": "",
+      "website": "https://www.monacodc.org/",
+      "facebook": "EmbassyofMonacoDC",
+      "twitter": "MonacoEmbassyDC",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q2841817"
+    }
+  ],
+  "meta": {
+    "title": "Monaco — Embassies and Consulates Abroad - Free Download",
+    "description": "Diplomatic missions operated by Monaco in foreign countries. Sourced from Wikidata via the database-of-embassies project; each record includes the host country, mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Monaco — Embassies and Consulates Abroad | ListBase",
+    "seo_description": "Download Monaco — Embassies and Consulates Abroad — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

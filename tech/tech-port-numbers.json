@@ -1,0 +1,575 @@
+{
+  "id": "tech-port-numbers",
+  "name": "Common Network Port Numbers & Services Dataset",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "port",
+      "label": "Port",
+      "type": "number"
+    },
+    {
+      "key": "protocol",
+      "label": "Protocol",
+      "type": "string"
+    },
+    {
+      "key": "service",
+      "label": "Service",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "port": 20,
+      "protocol": "TCP",
+      "service": "FTP Data",
+      "category": "File Transfer",
+      "description": "File Transfer Protocol - data transfer"
+    },
+    {
+      "port": 21,
+      "protocol": "TCP",
+      "service": "FTP Control",
+      "category": "File Transfer",
+      "description": "File Transfer Protocol - command/control"
+    },
+    {
+      "port": 22,
+      "protocol": "TCP",
+      "service": "SSH",
+      "category": "Remote Access",
+      "description": "Secure Shell - encrypted remote login"
+    },
+    {
+      "port": 23,
+      "protocol": "TCP",
+      "service": "Telnet",
+      "category": "Remote Access",
+      "description": "Telnet - unencrypted remote login (legacy)"
+    },
+    {
+      "port": 25,
+      "protocol": "TCP",
+      "service": "SMTP",
+      "category": "Email",
+      "description": "Simple Mail Transfer Protocol - sending email"
+    },
+    {
+      "port": 53,
+      "protocol": "TCP/UDP",
+      "service": "DNS",
+      "category": "Network",
+      "description": "Domain Name System - hostname resolution"
+    },
+    {
+      "port": 67,
+      "protocol": "UDP",
+      "service": "DHCP Server",
+      "category": "Network",
+      "description": "Dynamic Host Configuration Protocol - server"
+    },
+    {
+      "port": 68,
+      "protocol": "UDP",
+      "service": "DHCP Client",
+      "category": "Network",
+      "description": "Dynamic Host Configuration Protocol - client"
+    },
+    {
+      "port": 69,
+      "protocol": "UDP",
+      "service": "TFTP",
+      "category": "File Transfer",
+      "description": "Trivial File Transfer Protocol"
+    },
+    {
+      "port": 80,
+      "protocol": "TCP",
+      "service": "HTTP",
+      "category": "Web",
+      "description": "Hypertext Transfer Protocol - web traffic"
+    },
+    {
+      "port": 110,
+      "protocol": "TCP",
+      "service": "POP3",
+      "category": "Email",
+      "description": "Post Office Protocol v3 - receiving email"
+    },
+    {
+      "port": 119,
+      "protocol": "TCP",
+      "service": "NNTP",
+      "category": "News",
+      "description": "Network News Transfer Protocol"
+    },
+    {
+      "port": 123,
+      "protocol": "UDP",
+      "service": "NTP",
+      "category": "Network",
+      "description": "Network Time Protocol - time sync"
+    },
+    {
+      "port": 135,
+      "protocol": "TCP",
+      "service": "RPC",
+      "category": "Windows",
+      "description": "Microsoft RPC Endpoint Mapper"
+    },
+    {
+      "port": 137,
+      "protocol": "UDP",
+      "service": "NetBIOS-NS",
+      "category": "Windows",
+      "description": "NetBIOS Name Service"
+    },
+    {
+      "port": 138,
+      "protocol": "UDP",
+      "service": "NetBIOS-DGM",
+      "category": "Windows",
+      "description": "NetBIOS Datagram Service"
+    },
+    {
+      "port": 139,
+      "protocol": "TCP",
+      "service": "NetBIOS-SSN",
+      "category": "Windows",
+      "description": "NetBIOS Session Service"
+    },
+    {
+      "port": 143,
+      "protocol": "TCP",
+      "service": "IMAP",
+      "category": "Email",
+      "description": "Internet Message Access Protocol"
+    },
+    {
+      "port": 161,
+      "protocol": "UDP",
+      "service": "SNMP",
+      "category": "Network",
+      "description": "Simple Network Management Protocol"
+    },
+    {
+      "port": 162,
+      "protocol": "UDP",
+      "service": "SNMP Trap",
+      "category": "Network",
+      "description": "SNMP Trap - notifications"
+    },
+    {
+      "port": 179,
+      "protocol": "TCP",
+      "service": "BGP",
+      "category": "Network",
+      "description": "Border Gateway Protocol - routing"
+    },
+    {
+      "port": 194,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Chat",
+      "description": "Internet Relay Chat"
+    },
+    {
+      "port": 389,
+      "protocol": "TCP",
+      "service": "LDAP",
+      "category": "Directory",
+      "description": "Lightweight Directory Access Protocol"
+    },
+    {
+      "port": 443,
+      "protocol": "TCP",
+      "service": "HTTPS",
+      "category": "Web",
+      "description": "HTTP Secure - encrypted web traffic"
+    },
+    {
+      "port": 445,
+      "protocol": "TCP",
+      "service": "SMB",
+      "category": "File Sharing",
+      "description": "Server Message Block - Windows file sharing"
+    },
+    {
+      "port": 465,
+      "protocol": "TCP",
+      "service": "SMTPS",
+      "category": "Email",
+      "description": "SMTP over SSL (deprecated, use 587)"
+    },
+    {
+      "port": 500,
+      "protocol": "UDP",
+      "service": "IKE",
+      "category": "VPN",
+      "description": "Internet Key Exchange - IPsec VPN"
+    },
+    {
+      "port": 514,
+      "protocol": "UDP",
+      "service": "Syslog",
+      "category": "Logging",
+      "description": "System Logging Protocol"
+    },
+    {
+      "port": 515,
+      "protocol": "TCP",
+      "service": "LPD",
+      "category": "Printing",
+      "description": "Line Printer Daemon - printing"
+    },
+    {
+      "port": 520,
+      "protocol": "UDP",
+      "service": "RIP",
+      "category": "Network",
+      "description": "Routing Information Protocol"
+    },
+    {
+      "port": 546,
+      "protocol": "UDP",
+      "service": "DHCPv6 Client",
+      "category": "Network",
+      "description": "DHCP for IPv6 - client"
+    },
+    {
+      "port": 547,
+      "protocol": "UDP",
+      "service": "DHCPv6 Server",
+      "category": "Network",
+      "description": "DHCP for IPv6 - server"
+    },
+    {
+      "port": 587,
+      "protocol": "TCP",
+      "service": "SMTP Submission",
+      "category": "Email",
+      "description": "Mail submission (preferred for sending)"
+    },
+    {
+      "port": 636,
+      "protocol": "TCP",
+      "service": "LDAPS",
+      "category": "Directory",
+      "description": "LDAP over SSL/TLS"
+    },
+    {
+      "port": 993,
+      "protocol": "TCP",
+      "service": "IMAPS",
+      "category": "Email",
+      "description": "IMAP over SSL/TLS"
+    },
+    {
+      "port": 995,
+      "protocol": "TCP",
+      "service": "POP3S",
+      "category": "Email",
+      "description": "POP3 over SSL/TLS"
+    },
+    {
+      "port": 1080,
+      "protocol": "TCP",
+      "service": "SOCKS",
+      "category": "Proxy",
+      "description": "SOCKS proxy protocol"
+    },
+    {
+      "port": 1194,
+      "protocol": "UDP",
+      "service": "OpenVPN",
+      "category": "VPN",
+      "description": "OpenVPN default port"
+    },
+    {
+      "port": 1433,
+      "protocol": "TCP",
+      "service": "MSSQL",
+      "category": "Database",
+      "description": "Microsoft SQL Server"
+    },
+    {
+      "port": 1434,
+      "protocol": "UDP",
+      "service": "MSSQL Browser",
+      "category": "Database",
+      "description": "SQL Server Browser Service"
+    },
+    {
+      "port": 1521,
+      "protocol": "TCP",
+      "service": "Oracle DB",
+      "category": "Database",
+      "description": "Oracle Database listener"
+    },
+    {
+      "port": 1723,
+      "protocol": "TCP",
+      "service": "PPTP",
+      "category": "VPN",
+      "description": "Point-to-Point Tunneling Protocol"
+    },
+    {
+      "port": 1883,
+      "protocol": "TCP",
+      "service": "MQTT",
+      "category": "IoT",
+      "description": "Message Queuing Telemetry Transport"
+    },
+    {
+      "port": 2049,
+      "protocol": "TCP/UDP",
+      "service": "NFS",
+      "category": "File Sharing",
+      "description": "Network File System"
+    },
+    {
+      "port": 2082,
+      "protocol": "TCP",
+      "service": "cPanel",
+      "category": "Web Hosting",
+      "description": "cPanel default port"
+    },
+    {
+      "port": 2083,
+      "protocol": "TCP",
+      "service": "cPanel SSL",
+      "category": "Web Hosting",
+      "description": "cPanel over SSL"
+    },
+    {
+      "port": 2181,
+      "protocol": "TCP",
+      "service": "ZooKeeper",
+      "category": "Distributed",
+      "description": "Apache ZooKeeper"
+    },
+    {
+      "port": 2375,
+      "protocol": "TCP",
+      "service": "Docker",
+      "category": "Containers",
+      "description": "Docker REST API (unencrypted)"
+    },
+    {
+      "port": 2376,
+      "protocol": "TCP",
+      "service": "Docker TLS",
+      "category": "Containers",
+      "description": "Docker REST API (TLS)"
+    },
+    {
+      "port": 3000,
+      "protocol": "TCP",
+      "service": "Dev Server",
+      "category": "Development",
+      "description": "Node.js/React/Rails dev server"
+    },
+    {
+      "port": 3306,
+      "protocol": "TCP",
+      "service": "MySQL",
+      "category": "Database",
+      "description": "MySQL/MariaDB database"
+    },
+    {
+      "port": 3389,
+      "protocol": "TCP",
+      "service": "RDP",
+      "category": "Remote Access",
+      "description": "Remote Desktop Protocol (Windows)"
+    },
+    {
+      "port": 4443,
+      "protocol": "TCP",
+      "service": "Pharos",
+      "category": "Web",
+      "description": "Alternative HTTPS port"
+    },
+    {
+      "port": 5000,
+      "protocol": "TCP",
+      "service": "Flask/UPnP",
+      "category": "Development",
+      "description": "Python Flask / UPnP discovery"
+    },
+    {
+      "port": 5432,
+      "protocol": "TCP",
+      "service": "PostgreSQL",
+      "category": "Database",
+      "description": "PostgreSQL database"
+    },
+    {
+      "port": 5672,
+      "protocol": "TCP",
+      "service": "AMQP",
+      "category": "Messaging",
+      "description": "RabbitMQ default port"
+    },
+    {
+      "port": 5900,
+      "protocol": "TCP",
+      "service": "VNC",
+      "category": "Remote Access",
+      "description": "Virtual Network Computing"
+    },
+    {
+      "port": 6379,
+      "protocol": "TCP",
+      "service": "Redis",
+      "category": "Database",
+      "description": "Redis in-memory database"
+    },
+    {
+      "port": 6443,
+      "protocol": "TCP",
+      "service": "Kubernetes API",
+      "category": "Containers",
+      "description": "Kubernetes API server"
+    },
+    {
+      "port": 6667,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Chat",
+      "description": "IRC default port"
+    },
+    {
+      "port": 8000,
+      "protocol": "TCP",
+      "service": "HTTP Alt",
+      "category": "Development",
+      "description": "Alternative HTTP / Django dev"
+    },
+    {
+      "port": 8080,
+      "protocol": "TCP",
+      "service": "HTTP Proxy",
+      "category": "Web",
+      "description": "HTTP proxy / alternative HTTP"
+    },
+    {
+      "port": 8443,
+      "protocol": "TCP",
+      "service": "HTTPS Alt",
+      "category": "Web",
+      "description": "Alternative HTTPS port"
+    },
+    {
+      "port": 8888,
+      "protocol": "TCP",
+      "service": "Jupyter",
+      "category": "Development",
+      "description": "Jupyter Notebook default"
+    },
+    {
+      "port": 9000,
+      "protocol": "TCP",
+      "service": "PHP-FPM",
+      "category": "Web",
+      "description": "PHP FastCGI Process Manager"
+    },
+    {
+      "port": 9090,
+      "protocol": "TCP",
+      "service": "Prometheus",
+      "category": "Monitoring",
+      "description": "Prometheus metrics server"
+    },
+    {
+      "port": 9092,
+      "protocol": "TCP",
+      "service": "Kafka",
+      "category": "Messaging",
+      "description": "Apache Kafka broker"
+    },
+    {
+      "port": 9200,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Search",
+      "description": "Elasticsearch REST API"
+    },
+    {
+      "port": 9300,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Search",
+      "description": "Elasticsearch node communication"
+    },
+    {
+      "port": 11211,
+      "protocol": "TCP",
+      "service": "Memcached",
+      "category": "Caching",
+      "description": "Memcached caching system"
+    },
+    {
+      "port": 27017,
+      "protocol": "TCP",
+      "service": "MongoDB",
+      "category": "Database",
+      "description": "MongoDB database"
+    },
+    {
+      "port": 27018,
+      "protocol": "TCP",
+      "service": "MongoDB Shard",
+      "category": "Database",
+      "description": "MongoDB shard server"
+    },
+    {
+      "port": 27019,
+      "protocol": "TCP",
+      "service": "MongoDB Config",
+      "category": "Database",
+      "description": "MongoDB config server"
+    }
+  ],
+  "meta": {
+    "seo_title": "Common Network Port Numbers List - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download a free dataset of 73 common network port numbers (TCP/UDP), services, and protocols. Available in Excel, CSV, and PDF formats for network admins, developers & students.",
+    "title": "Common Network Port Numbers & Services Dataset",
+    "description": "This dataset provides a comprehensive list of 73 common network port numbers, including their associated protocols (TCP/UDP), services, categories, and descriptions. Ideal for network professionals, developers, and students.",
+    "key_takeaways": [
+      "Access a curated list of 73 essential TCP/UDP network port numbers and services.",
+      "Explore detailed descriptions and categories for common network protocols.",
+      "Download port number data instantly in Excel, CSV, or PDF formats.",
+      "Leverage this data for network security audits, configuration, and learning."
+    ],
+    "keywords": [
+      "common network ports list",
+      "tcp udp port numbers",
+      "network services dataset",
+      "port numbers excel csv",
+      "free port data download",
+      "network protocol list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or use with Python scripts for network automation and analysis tasks.",
+      "Use the **Excel** file to filter, sort, and analyze port data, creating reports or reference sheets for network administration.",
+      "Print the **PDF** version for quick offline reference, classroom teaching materials, or internal network documentation.",
+      "Reference this dataset to quickly identify unknown network traffic, configure firewalls, or troubleshoot connectivity issues."
+    ]
+  },
+  "record_count": 73,
+  "title": "Common Network Port Numbers & Services Dataset"
+}

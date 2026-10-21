@@ -1,0 +1,214 @@
+{
+  "id": "md-power-plants",
+  "name": "Moldova — Power Plants",
+  "title": "Moldova — Power Plants",
+  "description": "Power plants located in Moldova from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Moldavskaya GRES",
+      "gppd_idnr": "WRI1002989",
+      "capacity_mw": 2520,
+      "latitude": 46.6292,
+      "longitude": 29.9407,
+      "primary_fuel": "Coal",
+      "other_fuels": "Oil",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Moldova_2015_en.pdf",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    },
+    {
+      "name": "CHP CET-2  Chisinau",
+      "gppd_idnr": "WRI1002985",
+      "capacity_mw": 240,
+      "latitude": 47.029,
+      "longitude": 28.893,
+      "primary_fuel": "Gas",
+      "other_fuels": "Oil",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Moldova_2015_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1111.99",
+      "generation_data_source": ""
+    },
+    {
+      "name": "CHP CET-1   Chisinau",
+      "gppd_idnr": "WRI1002984",
+      "capacity_mw": 66,
+      "latitude": 47.0261,
+      "longitude": 28.8672,
+      "primary_fuel": "Gas",
+      "other_fuels": "Oil",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Moldova_2015_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 305.79",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Hydropower Plant Dubasari",
+      "gppd_idnr": "WRI1002988",
+      "capacity_mw": 48,
+      "latitude": 47.2778,
+      "longitude": 29.123,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Moldova_2015_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 172.45; 2014: 165.99; 2015: 167.3; 2016: 213.71; 2017: 175.55",
+      "generation_data_source": ""
+    },
+    {
+      "name": "CHP CET-Nord  Balti",
+      "gppd_idnr": "WRI1002986",
+      "capacity_mw": 24,
+      "latitude": 47.7492,
+      "longitude": 27.8938,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Moldova_2015_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 111.19",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Hydropower Plant CHE-Costesti",
+      "gppd_idnr": "WRI1002987",
+      "capacity_mw": 16,
+      "latitude": 47.8381,
+      "longitude": 27.2246,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1978,
+      "owner": "",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Moldova_2015_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 58.13; 2014: 57.55; 2015: 67.6; 2016: 70.76; 2017: 60.51",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Moldova — Power Plants - Free Download",
+    "description": "Power plants located in Moldova from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Moldova — Power Plants | ListBase",
+    "seo_description": "Download Moldova — Power Plants dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

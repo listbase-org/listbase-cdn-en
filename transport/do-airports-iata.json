@@ -1,0 +1,256 @@
+{
+  "id": "do-airports-iata",
+  "name": "Dominican Republic — IATA Airports",
+  "title": "Dominican Republic — IATA Airports",
+  "description": "Airports with IATA codes in Dominican Republic: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "AZS",
+      "icao_code": "MDCY",
+      "name": "Samaná El Catey International Airport",
+      "city_name_list": "Samaná Province",
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Maria Trinidad Sanchez",
+      "latitude": 19.26918,
+      "longitude": -69.73726,
+      "elevation": "",
+      "timezone": "America/Santo_Domingo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Saman%C3%A1_El_Catey_International_Airport"
+    },
+    {
+      "iata_code": "BRX",
+      "icao_code": "MDBH",
+      "name": "María Montez International Airport",
+      "city_name_list": "Santa Cruz de Barahona",
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Barahona Province",
+      "latitude": 18.25146,
+      "longitude": -71.1204,
+      "elevation": 3,
+      "timezone": "America/Santo_Domingo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Montez_International_Airport"
+    },
+    {
+      "iata_code": "CBJ",
+      "icao_code": "MDCR",
+      "name": "Cabo Rojo Airport",
+      "city_name_list": "Cabo Rojo",
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Pedernales Province",
+      "latitude": 17.92861,
+      "longitude": -71.64361,
+      "elevation": "",
+      "timezone": "America/Santo_Domingo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Cabo_Rojo_Airport"
+    },
+    {
+      "iata_code": "COZ",
+      "icao_code": "MDCZ",
+      "name": "Constanza",
+      "city_name_list": "Constanza",
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "continent_name": "North America",
+      "adm1_name_ascii": "La Vega",
+      "latitude": 18.9,
+      "longitude": -70.72,
+      "elevation": "",
+      "timezone": "America/Santo_Domingo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Constanza_Airport"
+    },
+    {
+      "iata_code": "JBQ",
+      "icao_code": "MDJB",
+      "name": "La Isabela International Airport",
+      "city_name_list": "Santo Domingo",
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Santo Domingo Province",
+      "latitude": 18.5725,
+      "longitude": -69.9856,
+      "elevation": "",
+      "timezone": "America/Santo_Domingo",
+      "wiki_link": "https://en.wikipedia.org/wiki/La_Isabela_International_Airport"
+    },
+    {
+      "iata_code": "LRM",
+      "icao_code": "MDLR",
+      "name": "La Romana International Airport",
+      "city_name_list": "La Romana",
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "continent_name": "North America",
+      "adm1_name_ascii": "La Romana",
+      "latitude": 18.45071,
+      "longitude": -68.91183,
+      "elevation": 73,
+      "timezone": "America/Santo_Domingo",
+      "wiki_link": "https://en.wikipedia.org/wiki/La_Romana_International_Airport"
+    },
+    {
+      "iata_code": "POP",
+      "icao_code": "MDPP",
+      "name": "Puerto Plata Airport",
+      "city_name_list": "Puerto Plata",
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Puerto Plata",
+      "latitude": 19.7579,
+      "longitude": -70.570033,
+      "elevation": 4,
+      "timezone": "America/Santo_Domingo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gregorio_Luper%C3%B3n_International_Airport"
+    },
+    {
+      "iata_code": "PUJ",
+      "icao_code": "MDPC",
+      "name": "Punta Cana International Airport",
+      "city_name_list": "Punta Cana",
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "continent_name": "North America",
+      "adm1_name_ascii": "La Altagracia Province",
+      "latitude": 18.567367,
+      "longitude": -68.363431,
+      "elevation": 14,
+      "timezone": "America/Santo_Domingo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Punta_Cana_International_Airport"
+    },
+    {
+      "iata_code": "SDQ",
+      "icao_code": "MDSD",
+      "name": "Las Américas International Airport",
+      "city_name_list": "Santo Domingo",
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Nacional",
+      "latitude": 18.42966,
+      "longitude": -69.66893,
+      "elevation": 17,
+      "timezone": "America/Santo_Domingo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Las_Am%C3%A9ricas_International_Airport"
+    },
+    {
+      "iata_code": "SJM",
+      "icao_code": "",
+      "name": "San Juan de la Maguana Airport",
+      "city_name_list": "San Juan",
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "continent_name": "North America",
+      "adm1_name_ascii": "San Juan",
+      "latitude": 18.83333,
+      "longitude": -71.23333,
+      "elevation": "",
+      "timezone": "America/Santo_Domingo",
+      "wiki_link": "https://en.wikipedia.org/wiki/San_Juan_de_la_Maguana_Airport"
+    },
+    {
+      "iata_code": "STI",
+      "icao_code": "MDST",
+      "name": "Cibao International Airport",
+      "city_name_list": "Santiago de los Caballeros",
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "continent_name": "North America",
+      "adm1_name_ascii": "Dajabon",
+      "latitude": 19.40609,
+      "longitude": -70.60469,
+      "elevation": "",
+      "timezone": "America/Santo_Domingo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Cibao_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Dominican Republic — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Dominican Republic: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Dominican Republic — IATA Airports | ListBase",
+    "seo_description": "Download Dominican Republic — IATA Airports dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

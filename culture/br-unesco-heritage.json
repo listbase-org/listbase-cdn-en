@@ -1,0 +1,352 @@
+{
+  "id": "br-unesco-heritage",
+  "name": "Brazil — UNESCO World Heritage Sites",
+  "title": "Brazil — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Brazil, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 124,
+      "name": "Historic Town of Ouro Preto",
+      "category": "cultural",
+      "date_inscribed": 1980,
+      "criteria": "c1, c3",
+      "lat": -20.38888889,
+      "lon": -43.50555556,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 189,
+      "name": "Historic Centre of the Town of Olinda",
+      "category": "cultural",
+      "date_inscribed": 1982,
+      "criteria": "c2, c4",
+      "lat": -8.013333333,
+      "lon": -34.845,
+      "area_hectares": 120,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 275,
+      "name": "Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Sesora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)",
+      "category": "cultural",
+      "date_inscribed": 1983,
+      "criteria": "c4",
+      "lat": -28.54333333,
+      "lon": -54.26583333,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "ar, br",
+      "transboundary": true
+    },
+    {
+      "ref_no": 309,
+      "name": "Historic Centre of Salvador de Bahia",
+      "category": "cultural",
+      "date_inscribed": 1985,
+      "criteria": "c4, c6",
+      "lat": -12.96666667,
+      "lon": -38.5,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 334,
+      "name": "Sanctuary of Bom Jesus do Congonhas",
+      "category": "cultural",
+      "date_inscribed": 1985,
+      "criteria": "c1, c4",
+      "lat": -20.49972222,
+      "lon": -43.85777778,
+      "area_hectares": 2.19,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 355,
+      "name": "Iguacu National Park",
+      "category": "natural",
+      "date_inscribed": 1986,
+      "criteria": "n7, n10",
+      "lat": -25.68333,
+      "lon": -54.43333,
+      "area_hectares": 170086,
+      "danger_list": "P 1999-2001",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 445,
+      "name": "Brasilia",
+      "category": "cultural",
+      "date_inscribed": 1987,
+      "criteria": "c1, c4",
+      "lat": -15.78333,
+      "lon": -47.9,
+      "area_hectares": 11268.92,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 606,
+      "name": "Serra da Capivara National Park",
+      "category": "cultural",
+      "date_inscribed": 1991,
+      "criteria": "c3",
+      "lat": -8.416666667,
+      "lon": -42.33333333,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 821,
+      "name": "Historic Centre of Sao Luis",
+      "category": "cultural",
+      "date_inscribed": 1997,
+      "criteria": "c3, c4, c5",
+      "lat": -2.514166667,
+      "lon": -44.3025,
+      "area_hectares": 66.65,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 890,
+      "name": "Historic Centre of the Town of Diamantina",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c2, c4",
+      "lat": -18.23333333,
+      "lon": -43.6,
+      "area_hectares": 28.5,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 892,
+      "name": "Discovery Coast Atlantic Forest Reserves",
+      "category": "natural",
+      "date_inscribed": 1999,
+      "criteria": "n9, n10",
+      "lat": -16.5,
+      "lon": -39.25,
+      "area_hectares": 111930,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 893,
+      "name": "Atlantic Forest South-East Reserves",
+      "category": "natural",
+      "date_inscribed": 1999,
+      "criteria": "n7, n9, n10",
+      "lat": -24.16667,
+      "lon": -48,
+      "area_hectares": 468193,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 998,
+      "name": "Central Amazon Conservation Complex",
+      "category": "natural",
+      "date_inscribed": 2000,
+      "criteria": "n9, n10",
+      "lat": -2.333333333,
+      "lon": -62.00833333,
+      "area_hectares": 5323018,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 999,
+      "name": "Pantanal Conservation Area",
+      "category": "natural",
+      "date_inscribed": 2000,
+      "criteria": "n7, n9, n10",
+      "lat": -17.71667,
+      "lon": -57.38333,
+      "area_hectares": 187818,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 993,
+      "name": "Historic Centre of the Town of Goias",
+      "category": "cultural",
+      "date_inscribed": 2001,
+      "criteria": "c2, c4",
+      "lat": -15.93328,
+      "lon": -50.13336,
+      "area_hectares": 40.3,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1000,
+      "name": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+      "category": "natural",
+      "date_inscribed": 2001,
+      "criteria": "n7, n9, n10",
+      "lat": -3.857944444,
+      "lon": -32.42511111,
+      "area_hectares": 42270,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1035,
+      "name": "Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks",
+      "category": "natural",
+      "date_inscribed": 2001,
+      "criteria": "n9, n10",
+      "lat": -14.00569444,
+      "lon": -47.68461111,
+      "area_hectares": 367356,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1272,
+      "name": "Sao Francisco Square in the Town of Sao Cristovao",
+      "category": "cultural",
+      "date_inscribed": 2010,
+      "criteria": "c2, c4",
+      "lat": -11.01611111,
+      "lon": -37.21,
+      "area_hectares": 3,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1100,
+      "name": "Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea",
+      "category": "cultural",
+      "date_inscribed": 2012,
+      "criteria": "c5, c6",
+      "lat": -22.94777778,
+      "lon": -43.29138889,
+      "area_hectares": 7248.78,
+      "danger_list": "",
+      "unesco_region": "Latin America and the Caribbean",
+      "countries": "br",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Brazil — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Brazil, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Brazil — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Brazil — UNESCO World Heritage Sites dataset with 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

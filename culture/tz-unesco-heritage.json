@@ -1,0 +1,184 @@
+{
+  "id": "tz-unesco-heritage",
+  "name": "Tanzania — UNESCO World Heritage Sites",
+  "title": "Tanzania — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Tanzania, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 39,
+      "name": "Ngorongoro Conservation Area",
+      "category": "mixed",
+      "date_inscribed": 1979,
+      "criteria": "c4, n7, n8, n9, n10",
+      "lat": -3.18722,
+      "lon": 35.54083,
+      "area_hectares": 809440,
+      "danger_list": "P 1984-1989",
+      "unesco_region": "Africa",
+      "countries": "tz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 144,
+      "name": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+      "category": "cultural",
+      "date_inscribed": 1981,
+      "criteria": "c3",
+      "lat": -8.95778,
+      "lon": 39.52278,
+      "area_hectares": "",
+      "danger_list": "P 2004-2014",
+      "unesco_region": "Africa",
+      "countries": "tz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 156,
+      "name": "Serengeti National Park",
+      "category": "natural",
+      "date_inscribed": 1981,
+      "criteria": "n7, n10",
+      "lat": -2.33333,
+      "lon": 34.56667,
+      "area_hectares": 1476300,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "tz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 199,
+      "name": "Selous Game Reserve",
+      "category": "natural",
+      "date_inscribed": 1982,
+      "criteria": "n9, n10",
+      "lat": -9,
+      "lon": 37.4,
+      "area_hectares": 5120000,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "tz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 403,
+      "name": "Kilimanjaro National Park",
+      "category": "natural",
+      "date_inscribed": 1987,
+      "criteria": "n7",
+      "lat": -3.06667,
+      "lon": 37.36667,
+      "area_hectares": 75575,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "tz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 173,
+      "name": "Stone Town of Zanzibar",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c2, c3, c6",
+      "lat": -6.16306,
+      "lon": 39.18917,
+      "area_hectares": 96,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "tz",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1183,
+      "name": "Kondoa Rock-Art Sites",
+      "category": "cultural",
+      "date_inscribed": 2006,
+      "criteria": "c3, c6",
+      "lat": -4.724444444,
+      "lon": 35.83388889,
+      "area_hectares": 233600,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "tz",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Tanzania — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Tanzania, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tanzania — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Tanzania — UNESCO World Heritage Sites dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

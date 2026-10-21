@@ -1,0 +1,184 @@
+{
+  "id": "sn-unesco-heritage",
+  "name": "Senegal — UNESCO World Heritage Sites",
+  "title": "Senegal — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Senegal, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 26,
+      "name": "Island of Goree",
+      "category": "cultural",
+      "date_inscribed": 1978,
+      "criteria": "c6",
+      "lat": 14.66722,
+      "lon": -17.40083,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "sn",
+      "transboundary": false
+    },
+    {
+      "ref_no": 25,
+      "name": "Djoudj National Bird Sanctuary",
+      "category": "natural",
+      "date_inscribed": 1981,
+      "criteria": "n7, n10",
+      "lat": 16.5,
+      "lon": -16.16667,
+      "area_hectares": 16000,
+      "danger_list": "P 2000-2006 P 1984-1988",
+      "unesco_region": "Africa",
+      "countries": "sn",
+      "transboundary": false
+    },
+    {
+      "ref_no": 153,
+      "name": "Niokolo-Koba National Park",
+      "category": "natural",
+      "date_inscribed": 1981,
+      "criteria": "n10",
+      "lat": 13.06667,
+      "lon": -12.71667,
+      "area_hectares": 913000,
+      "danger_list": "Y 2007",
+      "unesco_region": "Africa",
+      "countries": "sn",
+      "transboundary": false
+    },
+    {
+      "ref_no": 956,
+      "name": "Island of Saint-Louis",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c2, c4",
+      "lat": 16.02778,
+      "lon": -16.50444,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "sn",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1226,
+      "name": "Stone Circles of Senegambia",
+      "category": "cultural",
+      "date_inscribed": 2006,
+      "criteria": "c1, c3",
+      "lat": 13.69111111,
+      "lon": -15.5225,
+      "area_hectares": 9.85,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "gm, sn",
+      "transboundary": true
+    },
+    {
+      "ref_no": 1359,
+      "name": "Saloum Delta",
+      "category": "cultural",
+      "date_inscribed": 2011,
+      "criteria": "c3, c4, c5",
+      "lat": 13.83527778,
+      "lon": -16.49861111,
+      "area_hectares": 145811,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "sn",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1407,
+      "name": "Bassari Country: Bassari, Fula and Bedik Cultural Landscapes",
+      "category": "cultural",
+      "date_inscribed": 2012,
+      "criteria": "c3, c5, c6",
+      "lat": 12.59333333,
+      "lon": -12.84583333,
+      "area_hectares": 50309,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "sn",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Senegal — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Senegal, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Senegal — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Senegal — UNESCO World Heritage Sites dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

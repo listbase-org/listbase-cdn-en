@@ -1,0 +1,286 @@
+{
+  "id": "gi-political-parties",
+  "name": "Gibraltar — Political Parties",
+  "title": "Gibraltar — Political Parties",
+  "description": "Political parties of Gibraltar from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3855,
+      "name_short": "GSD",
+      "name": "Gibraltar Social Democrats",
+      "name_english": "Gibraltar Social Democrats",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": 2011,
+      "share": 58.9,
+      "share_year": 2000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gibraltar_Social_Democrats",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6931,
+      "name_short": "Alliance",
+      "name": "GSLP–Liberal Alliance",
+      "name_english": "GSLP–Liberal Alliance",
+      "name_other": "",
+      "year_first": 2000,
+      "year_last": "",
+      "share": 48.9,
+      "share_year": 2011,
+      "wikipedia": "https://en.wikipedia.org/wiki/GSLP–Liberal_Alliance",
+      "description": "consists of 3848 3851",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3851,
+      "name_short": "GSLP",
+      "name": "Gibraltar Socialist Labour Party",
+      "name_english": "Gibraltar Socialist Labour Party",
+      "name_other": "",
+      "year_first": 1996,
+      "year_last": 2007,
+      "share": 46.8,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gibraltar_Socialist_Labour_Party",
+      "description": "member of 6931",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6949,
+      "name_short": "IWBP",
+      "name": "Integration with Britain Party",
+      "name_english": "Integration with Britain Party",
+      "name_other": "",
+      "year_first": 1967,
+      "year_last": 1976,
+      "share": 46.7,
+      "share_year": 1972,
+      "wikipedia": "https://en.wikipedia.org/wiki/Integration_with_Britain_Party",
+      "description": "7 of 15 seats in 1972 Gibraltar general election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6950,
+      "name_short": "IWBP",
+      "name": "Integration with Britain Party",
+      "name_english": "Integration with Britain Party",
+      "name_other": "",
+      "year_first": 1967,
+      "year_last": 1976,
+      "share": 46.7,
+      "share_year": 1972,
+      "wikipedia": "https://en.wikipedia.org/wiki/Integration_with_Britain_Party",
+      "description": "7 of 15 seats in 1972 Gibraltar general election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6946,
+      "name_short": "AACR",
+      "name": "Association for the Advancement of Civil Rights",
+      "name_english": "Association for the Advancement of Civil Rights",
+      "name_other": "",
+      "year_first": 1942,
+      "year_last": 1991,
+      "share": 29.3,
+      "share_year": 1988,
+      "wikipedia": "https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Civil_Rights",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6951,
+      "name_short": "IG",
+      "name": "Isola Group",
+      "name_english": "Isola Group",
+      "name_other": "",
+      "year_first": 1969,
+      "year_last": 1972,
+      "share": 20,
+      "share_year": 1969,
+      "wikipedia": "https://en.wikipedia.org/wiki/Isola_Group",
+      "description": "3 of 15 seats in 1969 Gibraltar general election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6948,
+      "name_short": "DPBG",
+      "name": "Democratic Party for a British Gibraltar",
+      "name_english": "Democratic Party for a British Gibraltar",
+      "name_other": "",
+      "year_first": 1975,
+      "year_last": 1985,
+      "share": 18.9,
+      "share_year": 1984,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_for_a_British_Gibraltar",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6952,
+      "name_short": "CP",
+      "name": "Commonwealth Party",
+      "name_english": "Commonwealth Party",
+      "name_other": "",
+      "year_first": 1956,
+      "year_last": 1957,
+      "share": 14.3,
+      "share_year": 1956,
+      "wikipedia": "https://en.wikipedia.org/wiki/Commonwealth_Party_(Gibraltar)",
+      "description": "1 of 7 seats in 1956 Gibraltar general election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6947,
+      "name_short": "ID",
+      "name": "Independent Democrats",
+      "name_english": "Independent Democrats",
+      "name_other": "",
+      "year_first": 1988,
+      "year_last": 1988,
+      "share": 12.4,
+      "share_year": 1988,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3853,
+      "name_short": "GLP",
+      "name": "Gibraltar Labor Party (Labour)",
+      "name_english": "Gibraltar Labor Party",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": 2003,
+      "share": 8.4,
+      "share_year": 2003,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gibraltar_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3848,
+      "name_short": "GNP/Libs",
+      "name": "Gibraltar National Party / Liberal Party of Gibraltar",
+      "name_english": "Gibraltar National Party / Liberal Party of Gibraltar",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 4.7,
+      "share_year": 1996,
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberal_Party_of_Gibraltar",
+      "description": "member of 6931",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3849,
+      "name_short": "PDP",
+      "name": "Progressive Democratic Party",
+      "name_english": "Progressive Democratic Party",
+      "name_other": "",
+      "year_first": 2007,
+      "year_last": 2011,
+      "share": 4.4,
+      "share_year": 2011,
+      "wikipedia": "https://en.wikipedia.org/wiki/Progressive_Democratic_Party_(Gibraltar)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Gibraltar — Political Parties - Free Download",
+    "description": "Political parties of Gibraltar from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gibraltar — Political Parties | ListBase",
+    "seo_description": "Download Gibraltar — Political Parties dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

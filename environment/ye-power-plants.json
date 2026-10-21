@@ -1,0 +1,232 @@
+{
+  "id": "ye-power-plants",
+  "name": "Yemen — Power Plants",
+  "title": "Yemen — Power Plants",
+  "description": "Power plants located in Yemen from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Marib",
+      "gppd_idnr": "WRI1022447",
+      "capacity_mw": 400,
+      "latitude": 15.552,
+      "longitude": 45.7717,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2009,
+      "owner": "Public Electricity Corporation",
+      "source": "Ministry of Electricity and Energy of Yemen",
+      "url": "https://web.archive.org/web/20150318014800/http://www.pec.com.ye/",
+      "geolocation_source": "Industry About",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1422.82",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Al Mukha",
+      "gppd_idnr": "WRI1022441",
+      "capacity_mw": 160,
+      "latitude": 13.3609,
+      "longitude": 43.2517,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1985,
+      "owner": "Public Electricity Corporation",
+      "source": "Ministry of Electricity and Energy of Yemen",
+      "url": "https://web.archive.org/web/20150318014800/http://www.pec.com.ye/",
+      "geolocation_source": "Industry About",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 343.45",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ras Kanatib",
+      "gppd_idnr": "WRI1022442",
+      "capacity_mw": 150,
+      "latitude": 14.9893,
+      "longitude": 42.9113,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1981,
+      "owner": "Public Electricity Corporation",
+      "source": "Ministry of Electricity and Energy of Yemen",
+      "url": "https://web.archive.org/web/20150318014800/http://www.pec.com.ye/",
+      "geolocation_source": "Industry About",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 321.98",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Al Mansoura",
+      "gppd_idnr": "WRI1022443",
+      "capacity_mw": 139,
+      "latitude": 12.8536,
+      "longitude": 44.9752,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Public Electricity Corporation",
+      "source": "Ministry of Electricity and Energy of Yemen",
+      "url": "https://web.archive.org/web/20150318014800/http://www.pec.com.ye/",
+      "geolocation_source": "Industry About",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 298.37",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Al Hiswa",
+      "gppd_idnr": "WRI1022444",
+      "capacity_mw": 125,
+      "latitude": 12.8271,
+      "longitude": 44.9227,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1986,
+      "owner": "Public Electricity Corporation",
+      "source": "Ministry of Electricity and Energy of Yemen",
+      "url": "https://web.archive.org/web/20150318014800/http://www.pec.com.ye/",
+      "geolocation_source": "Industry About",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 268.32",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Dhaban",
+      "gppd_idnr": "WRI1022445",
+      "capacity_mw": 41,
+      "latitude": 15.4306,
+      "longitude": 44.1863,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1980,
+      "owner": "Public Electricity Corporation",
+      "source": "Ministry of Electricity and Energy of Yemen",
+      "url": "https://web.archive.org/web/20150318014800/http://www.pec.com.ye/",
+      "geolocation_source": "Industry About",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 88",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Khormaksar",
+      "gppd_idnr": "WRI1022446",
+      "capacity_mw": 30,
+      "latitude": 12.8155,
+      "longitude": 45.0279,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1974,
+      "owner": "Public Electricity Corporation",
+      "source": "Ministry of Electricity and Energy of Yemen",
+      "url": "https://web.archive.org/web/20150318014800/http://www.pec.com.ye/",
+      "geolocation_source": "Industry About",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 64.39",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Yemen — Power Plants - Free Download",
+    "description": "Power plants located in Yemen from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Yemen — Power Plants | ListBase",
+    "seo_description": "Download Yemen — Power Plants dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

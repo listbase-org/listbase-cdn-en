@@ -1,0 +1,1206 @@
+{
+  "id": "world-countries-gdp-2023",
+  "name": "World GDP by Country (2023, current USD)",
+  "title": "World GDP by Country (2023, current USD)",
+  "description": "233 countries and regions with 2023 nominal GDP in current US dollars. Sourced from World Bank via datasets/gdp.",
+  "category": "finance",
+  "source": "https://github.com/datasets/gdp",
+  "source_url": "https://github.com/datasets/gdp",
+  "updated": "2026-04",
+  "record_count": 233,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "gdp_usd",
+      "label": "Gdp Usd",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country": "World",
+      "country_code": "WLD",
+      "gdp_usd": 105435039507024.1
+    },
+    {
+      "country": "High income",
+      "country_code": "HIC",
+      "gdp_usd": 67653743404264.14
+    },
+    {
+      "country": "OECD members",
+      "country_code": "OED",
+      "gdp_usd": 64098865773302.98
+    },
+    {
+      "country": "Post-demographic dividend",
+      "country_code": "PST",
+      "gdp_usd": 59851800976561.17
+    },
+    {
+      "country": "IDA & IBRD total",
+      "country_code": "IBT",
+      "gdp_usd": 41559721641424.8
+    },
+    {
+      "country": "IBRD only",
+      "country_code": "IBD",
+      "gdp_usd": 38733043068564.85
+    },
+    {
+      "country": "Low & middle income",
+      "country_code": "LMY",
+      "gdp_usd": 37425214512640.016
+    },
+    {
+      "country": "Middle income",
+      "country_code": "MIC",
+      "gdp_usd": 36786942112904.5
+    },
+    {
+      "country": "East Asia & Pacific",
+      "country_code": "EAS",
+      "gdp_usd": 30775659199419.902
+    },
+    {
+      "country": "North America",
+      "country_code": "NAC",
+      "gdp_usd": 29509296092073.555
+    },
+    {
+      "country": "Upper middle income",
+      "country_code": "UMC",
+      "gdp_usd": 29403677430761.273
+    },
+    {
+      "country": "Late-demographic dividend",
+      "country_code": "LTE",
+      "gdp_usd": 28341396914858.266
+    },
+    {
+      "country": "United States",
+      "country_code": "USA",
+      "gdp_usd": 27360935000000
+    },
+    {
+      "country": "Europe & Central Asia",
+      "country_code": "ECS",
+      "gdp_usd": 27240628835585.28
+    },
+    {
+      "country": "East Asia & Pacific (excluding high income)",
+      "country_code": "EAP",
+      "gdp_usd": 21150247849983.086
+    },
+    {
+      "country": "East Asia & Pacific (IDA & IBRD countries)",
+      "country_code": "TEA",
+      "gdp_usd": 21124121301342.57
+    },
+    {
+      "country": "European Union",
+      "country_code": "EUU",
+      "gdp_usd": 18349388450765.61
+    },
+    {
+      "country": "China",
+      "country_code": "CHN",
+      "gdp_usd": 17794781986104.457
+    },
+    {
+      "country": "Euro area",
+      "country_code": "EMU",
+      "gdp_usd": 15544858680873.797
+    },
+    {
+      "country": "Early-demographic dividend",
+      "country_code": "EAR",
+      "gdp_usd": 14847823837515.209
+    },
+    {
+      "country": "Lower middle income",
+      "country_code": "LMC",
+      "gdp_usd": 7384750127842.017
+    },
+    {
+      "country": "Latin America & Caribbean",
+      "country_code": "LCN",
+      "gdp_usd": 7094329636592.513
+    },
+    {
+      "country": "Latin America & the Caribbean (IDA & IBRD countries)",
+      "country_code": "TLA",
+      "gdp_usd": 6772781697090.741
+    },
+    {
+      "country": "Latin America & Caribbean (excluding high income)",
+      "country_code": "LAC",
+      "gdp_usd": 6050580948759.951
+    },
+    {
+      "country": "Europe & Central Asia (IDA & IBRD countries)",
+      "country_code": "TEC",
+      "gdp_usd": 5466276097557.084
+    },
+    {
+      "country": "South Asia",
+      "country_code": "SAS",
+      "gdp_usd": 4475567635413.059
+    },
+    {
+      "country": "South Asia (IDA & IBRD)",
+      "country_code": "TSA",
+      "gdp_usd": 4475567635413.059
+    },
+    {
+      "country": "Germany",
+      "country_code": "DEU",
+      "gdp_usd": 4456081016705.961
+    },
+    {
+      "country": "Middle East & North Africa",
+      "country_code": "MEA",
+      "gdp_usd": 4287684126920.0137
+    },
+    {
+      "country": "Japan",
+      "country_code": "JPN",
+      "gdp_usd": 4212945159781.403
+    },
+    {
+      "country": "India",
+      "country_code": "IND",
+      "gdp_usd": 3549918918777.5317
+    },
+    {
+      "country": "Arab World",
+      "country_code": "ARB",
+      "gdp_usd": 3491516939569.8794
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GBR",
+      "gdp_usd": 3340032380668.0356
+    },
+    {
+      "country": "France",
+      "country_code": "FRA",
+      "gdp_usd": 3030904089607.8965
+    },
+    {
+      "country": "IDA total",
+      "country_code": "IDA",
+      "gdp_usd": 2828041013610.3545
+    },
+    {
+      "country": "Italy",
+      "country_code": "ITA",
+      "gdp_usd": 2254851212731.8047
+    },
+    {
+      "country": "Central Europe and the Baltics",
+      "country_code": "CEB",
+      "gdp_usd": 2252970882003.431
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BRA",
+      "gdp_usd": 2173665655937.2737
+    },
+    {
+      "country": "Canada",
+      "country_code": "CAN",
+      "gdp_usd": 2140085567791.4514
+    },
+    {
+      "country": "Europe & Central Asia (excluding high income)",
+      "country_code": "ECA",
+      "gdp_usd": 2098349713814.253
+    },
+    {
+      "country": "Sub-Saharan Africa",
+      "country_code": "SSF",
+      "gdp_usd": 2032749202553.06
+    },
+    {
+      "country": "Sub-Saharan Africa (IDA & IBRD countries)",
+      "country_code": "TSS",
+      "gdp_usd": 2032749202553.0596
+    },
+    {
+      "country": "Sub-Saharan Africa (excluding high income)",
+      "country_code": "SSA",
+      "gdp_usd": 2030607752381.9211
+    },
+    {
+      "country": "Russian Federation",
+      "country_code": "RUS",
+      "gdp_usd": 2021421476035.417
+    },
+    {
+      "country": "Fragile and conflict affected situations",
+      "country_code": "FCS",
+      "gdp_usd": 1906801170087.862
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MEX",
+      "gdp_usd": 1788886821046.8132
+    },
+    {
+      "country": "IDA only",
+      "country_code": "IDX",
+      "gdp_usd": 1786070910237.1333
+    },
+    {
+      "country": "Australia",
+      "country_code": "AUS",
+      "gdp_usd": 1723827215334.7063
+    },
+    {
+      "country": "Korea, Rep.",
+      "country_code": "KOR",
+      "gdp_usd": 1712792854202.3687
+    },
+    {
+      "country": "Middle East & North Africa (excluding high income)",
+      "country_code": "MNA",
+      "gdp_usd": 1646554468701.6702
+    },
+    {
+      "country": "Middle East & North Africa (IDA & IBRD countries)",
+      "country_code": "TMN",
+      "gdp_usd": 1629170225345.5205
+    },
+    {
+      "country": "Spain",
+      "country_code": "ESP",
+      "gdp_usd": 1580694712515.714
+    },
+    {
+      "country": "Pre-demographic dividend",
+      "country_code": "PRE",
+      "gdp_usd": 1562533897053.5369
+    },
+    {
+      "country": "Least developed countries: UN classification",
+      "country_code": "LDC",
+      "gdp_usd": 1504251159792.0146
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "IDN",
+      "gdp_usd": 1371171152331.155
+    },
+    {
+      "country": "Africa Eastern and Southern",
+      "country_code": "AFE",
+      "gdp_usd": 1236163044999.9653
+    },
+    {
+      "country": "Heavily indebted poor countries (HIPC)",
+      "country_code": "HPC",
+      "gdp_usd": 1130472157492.994
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NLD",
+      "gdp_usd": 1118124749886.2942
+    },
+    {
+      "country": "Turkiye",
+      "country_code": "TUR",
+      "gdp_usd": 1108022373259.511
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SAU",
+      "gdp_usd": 1067582933333.3334
+    },
+    {
+      "country": "IDA blend",
+      "country_code": "IDB",
+      "gdp_usd": 1044015231915.957
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CHE",
+      "gdp_usd": 884940402230.4088
+    },
+    {
+      "country": "Poland",
+      "country_code": "POL",
+      "gdp_usd": 811229100687.5663
+    },
+    {
+      "country": "Africa Western and Central",
+      "country_code": "AFW",
+      "gdp_usd": 796586157553.094
+    },
+    {
+      "country": "Low income",
+      "country_code": "LIC",
+      "gdp_usd": 646797730009.0897
+    },
+    {
+      "country": "Argentina",
+      "country_code": "ARG",
+      "gdp_usd": 640591410663.8834
+    },
+    {
+      "country": "Belgium",
+      "country_code": "BEL",
+      "gdp_usd": 632216577075.1093
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SWE",
+      "gdp_usd": 593267701033.4082
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IRL",
+      "gdp_usd": 545629450403.7351
+    },
+    {
+      "country": "Austria",
+      "country_code": "AUT",
+      "gdp_usd": 516034144115.9503
+    },
+    {
+      "country": "Thailand",
+      "country_code": "THA",
+      "gdp_usd": 514944993833.5776
+    },
+    {
+      "country": "Israel",
+      "country_code": "ISR",
+      "gdp_usd": 509901495702.1033
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "ARE",
+      "gdp_usd": 504173451327.43365
+    },
+    {
+      "country": "Singapore",
+      "country_code": "SGP",
+      "gdp_usd": 501427500080.05853
+    },
+    {
+      "country": "Norway",
+      "country_code": "NOR",
+      "gdp_usd": 485513316503.63043
+    },
+    {
+      "country": "Bangladesh",
+      "country_code": "BGD",
+      "gdp_usd": 437415331040.9943
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PHL",
+      "gdp_usd": 437146372729.94244
+    },
+    {
+      "country": "Viet Nam",
+      "country_code": "VNM",
+      "gdp_usd": 429716969049.5928
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DNK",
+      "gdp_usd": 404198757537.9742
+    },
+    {
+      "country": "Iran, Islamic Rep.",
+      "country_code": "IRN",
+      "gdp_usd": 401504514718.7182
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MYS",
+      "gdp_usd": 399648828546.5043
+    },
+    {
+      "country": "Egypt, Arab Rep.",
+      "country_code": "EGY",
+      "gdp_usd": 395926075163.0058
+    },
+    {
+      "country": "Hong Kong SAR, China",
+      "country_code": "HKG",
+      "gdp_usd": 382054574298.52905
+    },
+    {
+      "country": "South Africa",
+      "country_code": "ZAF",
+      "gdp_usd": 377781600985.8731
+    },
+    {
+      "country": "Colombia",
+      "country_code": "COL",
+      "gdp_usd": 363540156234.86835
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "NGA",
+      "gdp_usd": 362814951696.07275
+    },
+    {
+      "country": "Romania",
+      "country_code": "ROU",
+      "gdp_usd": 351002579629.6701
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "PAK",
+      "gdp_usd": 338368455317.8758
+    },
+    {
+      "country": "Chile",
+      "country_code": "CHL",
+      "gdp_usd": 335533331669.2191
+    },
+    {
+      "country": "Czechia",
+      "country_code": "CZE",
+      "gdp_usd": 330858339871.6861
+    },
+    {
+      "country": "Finland",
+      "country_code": "FIN",
+      "gdp_usd": 300187202696.08374
+    },
+    {
+      "country": "Small states",
+      "country_code": "SST",
+      "gdp_usd": 298978248910.6322
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PRT",
+      "gdp_usd": 287080013574.4972
+    },
+    {
+      "country": "Peru",
+      "country_code": "PER",
+      "gdp_usd": 267603248655.2527
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "KAZ",
+      "gdp_usd": 261421121085.57208
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "NZL",
+      "gdp_usd": 253465703232.14594
+    },
+    {
+      "country": "Iraq",
+      "country_code": "IRQ",
+      "gdp_usd": 250842782139.46417
+    },
+    {
+      "country": "Algeria",
+      "country_code": "DZA",
+      "gdp_usd": 239899491127.74237
+    },
+    {
+      "country": "Greece",
+      "country_code": "GRC",
+      "gdp_usd": 238206312632.52774
+    },
+    {
+      "country": "Other small states",
+      "country_code": "OSS",
+      "gdp_usd": 234402049500.76453
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HUN",
+      "gdp_usd": 212388906458.72394
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UKR",
+      "gdp_usd": 178757021386.80896
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "gdp_usd": 163697927593.98236
+    },
+    {
+      "country": "Kuwait",
+      "country_code": "KWT",
+      "gdp_usd": 161772221950.94162
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MAR",
+      "gdp_usd": 141109373209.41437
+    },
+    {
+      "country": "Slovak Republic",
+      "country_code": "SVK",
+      "gdp_usd": 132793622283.07097
+    },
+    {
+      "country": "Dominican Republic",
+      "country_code": "DOM",
+      "gdp_usd": 121444279313.93079
+    },
+    {
+      "country": "Ecuador",
+      "country_code": "ECU",
+      "gdp_usd": 118844826000
+    },
+    {
+      "country": "Puerto Rico",
+      "country_code": "PRI",
+      "gdp_usd": 117902300000
+    },
+    {
+      "country": "Sudan",
+      "country_code": "SDN",
+      "gdp_usd": 109327023588.73239
+    },
+    {
+      "country": "Oman",
+      "country_code": "OMN",
+      "gdp_usd": 108192457737.3212
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "gdp_usd": 107440575838.04752
+    },
+    {
+      "country": "Guatemala",
+      "country_code": "GTM",
+      "gdp_usd": 102050473863.63637
+    },
+    {
+      "country": "Bulgaria",
+      "country_code": "BGR",
+      "gdp_usd": 101584384672.78587
+    },
+    {
+      "country": "Uzbekistan",
+      "country_code": "UZB",
+      "gdp_usd": 90889149306.73126
+    },
+    {
+      "country": "Costa Rica",
+      "country_code": "CRI",
+      "gdp_usd": 86497941439.01744
+    },
+    {
+      "country": "Luxembourg",
+      "country_code": "LUX",
+      "gdp_usd": 85755006123.5976
+    },
+    {
+      "country": "Angola",
+      "country_code": "AGO",
+      "gdp_usd": 84722957642.37566
+    },
+    {
+      "country": "Sri Lanka",
+      "country_code": "LKA",
+      "gdp_usd": 84356860421.12996
+    },
+    {
+      "country": "Panama",
+      "country_code": "PAN",
+      "gdp_usd": 83382400000
+    },
+    {
+      "country": "Croatia",
+      "country_code": "HRV",
+      "gdp_usd": 82688842717.3926
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "gdp_usd": 79158286333.52399
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "country_code": "CIV",
+      "gdp_usd": 78788828906.86345
+    },
+    {
+      "country": "Lithuania",
+      "country_code": "LTU",
+      "gdp_usd": 77836396962.77196
+    },
+    {
+      "country": "Uruguay",
+      "country_code": "URY",
+      "gdp_usd": 77240831587.16696
+    },
+    {
+      "country": "Ghana",
+      "country_code": "GHA",
+      "gdp_usd": 76370394412.41626
+    },
+    {
+      "country": "Serbia",
+      "country_code": "SRB",
+      "gdp_usd": 75187125426.73755
+    },
+    {
+      "country": "Azerbaijan",
+      "country_code": "AZE",
+      "gdp_usd": 72356176470.58824
+    },
+    {
+      "country": "Belarus",
+      "country_code": "BLR",
+      "gdp_usd": 71857382745.6066
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "SVN",
+      "gdp_usd": 68216781410.52277
+    },
+    {
+      "country": "Congo, Dem. Rep.",
+      "country_code": "COD",
+      "gdp_usd": 66383287002.996895
+    },
+    {
+      "country": "Myanmar",
+      "country_code": "MMR",
+      "gdp_usd": 64815031669.095245
+    },
+    {
+      "country": "Turkmenistan",
+      "country_code": "TKM",
+      "gdp_usd": 59887334844.06514
+    },
+    {
+      "country": "Caribbean small states",
+      "country_code": "CSS",
+      "gdp_usd": 53252637669.89535
+    },
+    {
+      "country": "Jordan",
+      "country_code": "JOR",
+      "gdp_usd": 50813642348.674644
+    },
+    {
+      "country": "Libya",
+      "country_code": "LBY",
+      "gdp_usd": 50491722445.7773
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "gdp_usd": 49272882213.623
+    },
+    {
+      "country": "Tunisia",
+      "country_code": "TUN",
+      "gdp_usd": 48529595416.65326
+    },
+    {
+      "country": "Cameroon",
+      "country_code": "CMR",
+      "gdp_usd": 47945510090.05286
+    },
+    {
+      "country": "Macao SAR, China",
+      "country_code": "MAC",
+      "gdp_usd": 47061843715.85648
+    },
+    {
+      "country": "Bolivia",
+      "country_code": "BOL",
+      "gdp_usd": 45849832906.413895
+    },
+    {
+      "country": "Latvia",
+      "country_code": "LVA",
+      "gdp_usd": 43627078481.28705
+    },
+    {
+      "country": "Bahrain",
+      "country_code": "BHR",
+      "gdp_usd": 43205000000
+    },
+    {
+      "country": "Paraguay",
+      "country_code": "PRY",
+      "gdp_usd": 42956263543.948166
+    },
+    {
+      "country": "Nepal",
+      "country_code": "NPL",
+      "gdp_usd": 40908073366.84552
+    },
+    {
+      "country": "Estonia",
+      "country_code": "EST",
+      "gdp_usd": 40744848827.95366
+    },
+    {
+      "country": "Honduras",
+      "country_code": "HND",
+      "gdp_usd": 34400509852.04365
+    },
+    {
+      "country": "El Salvador",
+      "country_code": "SLV",
+      "gdp_usd": 34015620000.000004
+    },
+    {
+      "country": "Cyprus",
+      "country_code": "CYP",
+      "gdp_usd": 32229622669.195114
+    },
+    {
+      "country": "Cambodia",
+      "country_code": "KHM",
+      "gdp_usd": 31772759998.85713
+    },
+    {
+      "country": "Iceland",
+      "country_code": "ISL",
+      "gdp_usd": 31020032583.197216
+    },
+    {
+      "country": "Senegal",
+      "country_code": "SEN",
+      "gdp_usd": 31013986429.186058
+    },
+    {
+      "country": "Papua New Guinea",
+      "country_code": "PNG",
+      "gdp_usd": 30932496249.791653
+    },
+    {
+      "country": "Georgia",
+      "country_code": "GEO",
+      "gdp_usd": 30535530479.022663
+    },
+    {
+      "country": "Zambia",
+      "country_code": "ZMB",
+      "gdp_usd": 28162630953.9285
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "country_code": "TTO",
+      "gdp_usd": 28139944790.291103
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "gdp_usd": 27054889362.885204
+    },
+    {
+      "country": "Zimbabwe",
+      "country_code": "ZWE",
+      "gdp_usd": 26538273498.84614
+    },
+    {
+      "country": "Armenia",
+      "country_code": "ARM",
+      "gdp_usd": 24212134631.064003
+    },
+    {
+      "country": "Guinea",
+      "country_code": "GIN",
+      "gdp_usd": 23612295818.096096
+    },
+    {
+      "country": "Albania",
+      "country_code": "ALB",
+      "gdp_usd": 22977677860.797855
+    },
+    {
+      "country": "Malta",
+      "country_code": "MLT",
+      "gdp_usd": 20956999452.431664
+    },
+    {
+      "country": "Mali",
+      "country_code": "MLI",
+      "gdp_usd": 20904898296.250145
+    },
+    {
+      "country": "Mozambique",
+      "country_code": "MOZ",
+      "gdp_usd": 20624597846.549507
+    },
+    {
+      "country": "Gabon",
+      "country_code": "GAB",
+      "gdp_usd": 20516134388.66078
+    },
+    {
+      "country": "Burkina Faso",
+      "country_code": "BFA",
+      "gdp_usd": 20324617838.967648
+    },
+    {
+      "country": "Mongolia",
+      "country_code": "MNG",
+      "gdp_usd": 19872180369.6275
+    },
+    {
+      "country": "Haiti",
+      "country_code": "HTI",
+      "gdp_usd": 19850829757.747147
+    },
+    {
+      "country": "Benin",
+      "country_code": "BEN",
+      "gdp_usd": 19673284686.00226
+    },
+    {
+      "country": "Jamaica",
+      "country_code": "JAM",
+      "gdp_usd": 19423355367.23718
+    },
+    {
+      "country": "Botswana",
+      "country_code": "BWA",
+      "gdp_usd": 19395765126.312748
+    },
+    {
+      "country": "Nicaragua",
+      "country_code": "NIC",
+      "gdp_usd": 17829215283.799656
+    },
+    {
+      "country": "West Bank and Gaza",
+      "country_code": "PSE",
+      "gdp_usd": 17396300000
+    },
+    {
+      "country": "Niger",
+      "country_code": "NER",
+      "gdp_usd": 16819170420.565317
+    },
+    {
+      "country": "Guyana",
+      "country_code": "GUY",
+      "gdp_usd": 16786302158.273382
+    },
+    {
+      "country": "Moldova",
+      "country_code": "MDA",
+      "gdp_usd": 16539436547.294973
+    },
+    {
+      "country": "Madagascar",
+      "country_code": "MDG",
+      "gdp_usd": 16031702914.91953
+    },
+    {
+      "country": "Lao PDR",
+      "country_code": "LAO",
+      "gdp_usd": 15843155731.25518
+    },
+    {
+      "country": "Congo, Rep.",
+      "country_code": "COG",
+      "gdp_usd": 15321055818.326313
+    },
+    {
+      "country": "Brunei Darussalam",
+      "country_code": "BRN",
+      "gdp_usd": 15128292953.509842
+    },
+    {
+      "country": "North Macedonia",
+      "country_code": "MKD",
+      "gdp_usd": 14761237042.205698
+    },
+    {
+      "country": "Mauritius",
+      "country_code": "MUS",
+      "gdp_usd": 14397127281.382942
+    },
+    {
+      "country": "Bahamas, The",
+      "country_code": "BHS",
+      "gdp_usd": 14338500000
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "gdp_usd": 14097768647.66952
+    },
+    {
+      "country": "Malawi",
+      "country_code": "MWI",
+      "gdp_usd": 14084341062.367504
+    },
+    {
+      "country": "Kyrgyz Republic",
+      "country_code": "KGZ",
+      "gdp_usd": 13987627908.838139
+    },
+    {
+      "country": "Chad",
+      "country_code": "TCD",
+      "gdp_usd": 13149325358.73826
+    },
+    {
+      "country": "Namibia",
+      "country_code": "NAM",
+      "gdp_usd": 12351024843.746696
+    },
+    {
+      "country": "Equatorial Guinea",
+      "country_code": "GNQ",
+      "gdp_usd": 12116922539.411173
+    },
+    {
+      "country": "Tajikistan",
+      "country_code": "TJK",
+      "gdp_usd": 12060602008.847782
+    },
+    {
+      "country": "Somalia",
+      "country_code": "SOM",
+      "gdp_usd": 11679800110.152267
+    },
+    {
+      "country": "Pacific island small states",
+      "country_code": "PSS",
+      "gdp_usd": 11232231820.248747
+    },
+    {
+      "country": "Mauritania",
+      "country_code": "MRT",
+      "gdp_usd": 10452577062.75806
+    },
+    {
+      "country": "Kosovo",
+      "country_code": "XKX",
+      "gdp_usd": 10438351483.167696
+    },
+    {
+      "country": "Togo",
+      "country_code": "TGO",
+      "gdp_usd": 9171261835.062641
+    },
+    {
+      "country": "Montenegro",
+      "country_code": "MNE",
+      "gdp_usd": 7404541964.5077915
+    },
+    {
+      "country": "Maldives",
+      "country_code": "MDV",
+      "gdp_usd": 6600000000
+    },
+    {
+      "country": "Barbados",
+      "country_code": "BRB",
+      "gdp_usd": 6393564189.61345
+    },
+    {
+      "country": "Fiji",
+      "country_code": "FJI",
+      "gdp_usd": 5494797540.733647
+    },
+    {
+      "country": "Eswatini",
+      "country_code": "SWZ",
+      "gdp_usd": 4597855845.042758
+    },
+    {
+      "country": "Liberia",
+      "country_code": "LBR",
+      "gdp_usd": 4332000000
+    },
+    {
+      "country": "Djibouti",
+      "country_code": "DJI",
+      "gdp_usd": 4098530513.5577674
+    },
+    {
+      "country": "Sierra Leone",
+      "country_code": "SLE",
+      "gdp_usd": 3809832236.9595933
+    },
+    {
+      "country": "Suriname",
+      "country_code": "SUR",
+      "gdp_usd": 3782437296.0432286
+    },
+    {
+      "country": "Andorra",
+      "country_code": "AND",
+      "gdp_usd": 3727673593.0192156
+    },
+    {
+      "country": "Belize",
+      "country_code": "BLZ",
+      "gdp_usd": 3281500000
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "gdp_usd": 2642161668.9275384
+    },
+    {
+      "country": "Cabo Verde",
+      "country_code": "CPV",
+      "gdp_usd": 2587252076.305599
+    },
+    {
+      "country": "Central African Republic",
+      "country_code": "CAF",
+      "gdp_usd": 2555492085.2483063
+    },
+    {
+      "country": "St. Lucia",
+      "country_code": "LCA",
+      "gdp_usd": 2519925938.5244665
+    },
+    {
+      "country": "Gambia, The",
+      "country_code": "GMB",
+      "gdp_usd": 2339904156.792144
+    },
+    {
+      "country": "Timor-Leste",
+      "country_code": "TLS",
+      "gdp_usd": 2243142908.4616103
+    },
+    {
+      "country": "Seychelles",
+      "country_code": "SYC",
+      "gdp_usd": 2141450171.1393213
+    },
+    {
+      "country": "Lesotho",
+      "country_code": "LSO",
+      "gdp_usd": 2046039024.4585402
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "country_code": "ATG",
+      "gdp_usd": 2033085185.185185
+    },
+    {
+      "country": "Guinea-Bissau",
+      "country_code": "GNB",
+      "gdp_usd": 1966461400.3583264
+    },
+    {
+      "country": "Solomon Islands",
+      "country_code": "SLB",
+      "gdp_usd": 1631286701.1151562
+    },
+    {
+      "country": "Sint Maarten (Dutch part)",
+      "country_code": "SXM",
+      "gdp_usd": 1623165683.1284916
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "country_code": "TCA",
+      "gdp_usd": 1402054390.94734
+    },
+    {
+      "country": "Comoros",
+      "country_code": "COM",
+      "gdp_usd": 1352380972.1566217
+    },
+    {
+      "country": "Grenada",
+      "country_code": "GRD",
+      "gdp_usd": 1320334235.588974
+    },
+    {
+      "country": "Vanuatu",
+      "country_code": "VUT",
+      "gdp_usd": 1126313359.2192256
+    },
+    {
+      "country": "St. Kitts and Nevis",
+      "country_code": "KNA",
+      "gdp_usd": 1077033111.111111
+    },
+    {
+      "country": "St. Vincent and the Grenadines",
+      "country_code": "VCT",
+      "gdp_usd": 1065962962.9629629
+    },
+    {
+      "country": "Samoa",
+      "country_code": "WSM",
+      "gdp_usd": 934100336.2756538
+    },
+    {
+      "country": "Dominica",
+      "country_code": "DMA",
+      "gdp_usd": 653992592.5925926
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "country_code": "STP",
+      "gdp_usd": 603240748.9542067
+    },
+    {
+      "country": "Micronesia, Fed. Sts.",
+      "country_code": "FSM",
+      "gdp_usd": 460000000
+    },
+    {
+      "country": "Marshall Islands",
+      "country_code": "MHL",
+      "gdp_usd": 284000000
+    },
+    {
+      "country": "Kiribati",
+      "country_code": "KIR",
+      "gdp_usd": 279034355.10842144
+    },
+    {
+      "country": "Palau",
+      "country_code": "PLW",
+      "gdp_usd": 263020733.717011
+    },
+    {
+      "country": "Nauru",
+      "country_code": "NRU",
+      "gdp_usd": 154127798.19354144
+    },
+    {
+      "country": "Tuvalu",
+      "country_code": "TUV",
+      "gdp_usd": 62280311.585217156
+    }
+  ],
+  "meta": {
+    "title": "World GDP by Country (2023, current USD) - Free Download",
+    "description": "233 countries and regions with 2023 nominal GDP in current US dollars. Sourced from World Bank via datasets/gdp. Contains 233 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "World GDP by Country (2023, current USD) | ListBase",
+    "seo_description": "Download World GDP by Country (2023, current USD) — 233 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 233 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/gdp"
+    ]
+  }
+}

@@ -1,0 +1,576 @@
+{
+  "id": "us-state-bad-drivers",
+  "name": "US State Bad Drivers (2012)",
+  "title": "US State Bad Drivers (2012)",
+  "description": "Per-state statistics from FiveThirtyEight on driver behavior in fatal collisions, including speeding, alcohol impairment, and insurance loss data, for the 50 US states plus DC.",
+  "category": "science",
+  "source": "https://github.com/fivethirtyeight/data",
+  "source_url": "https://github.com/fivethirtyeight/data",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "fatal_collisions_per_billion_miles",
+      "label": "Fatal Collisions Per Billion Miles",
+      "type": "number"
+    },
+    {
+      "key": "pct_speeding",
+      "label": "Pct Speeding",
+      "type": "number"
+    },
+    {
+      "key": "pct_alcohol_impaired",
+      "label": "Pct Alcohol Impaired",
+      "type": "number"
+    },
+    {
+      "key": "pct_not_distracted",
+      "label": "Pct Not Distracted",
+      "type": "number"
+    },
+    {
+      "key": "pct_no_previous_accidents",
+      "label": "Pct No Previous Accidents",
+      "type": "number"
+    },
+    {
+      "key": "car_insurance_premium_usd",
+      "label": "Car Insurance Premium Usd",
+      "type": "number"
+    },
+    {
+      "key": "insurance_losses_per_driver_usd",
+      "label": "Insurance Losses Per Driver Usd",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Alabama",
+      "fatal_collisions_per_billion_miles": 18.8,
+      "pct_speeding": 39,
+      "pct_alcohol_impaired": 30,
+      "pct_not_distracted": 96,
+      "pct_no_previous_accidents": 80,
+      "car_insurance_premium_usd": 784.55,
+      "insurance_losses_per_driver_usd": 145.08
+    },
+    {
+      "state": "Alaska",
+      "fatal_collisions_per_billion_miles": 18.1,
+      "pct_speeding": 41,
+      "pct_alcohol_impaired": 25,
+      "pct_not_distracted": 90,
+      "pct_no_previous_accidents": 94,
+      "car_insurance_premium_usd": 1053.48,
+      "insurance_losses_per_driver_usd": 133.93
+    },
+    {
+      "state": "Arizona",
+      "fatal_collisions_per_billion_miles": 18.6,
+      "pct_speeding": 35,
+      "pct_alcohol_impaired": 28,
+      "pct_not_distracted": 84,
+      "pct_no_previous_accidents": 96,
+      "car_insurance_premium_usd": 899.47,
+      "insurance_losses_per_driver_usd": 110.35
+    },
+    {
+      "state": "Arkansas",
+      "fatal_collisions_per_billion_miles": 22.4,
+      "pct_speeding": 18,
+      "pct_alcohol_impaired": 26,
+      "pct_not_distracted": 94,
+      "pct_no_previous_accidents": 95,
+      "car_insurance_premium_usd": 827.34,
+      "insurance_losses_per_driver_usd": 142.39
+    },
+    {
+      "state": "California",
+      "fatal_collisions_per_billion_miles": 12,
+      "pct_speeding": 35,
+      "pct_alcohol_impaired": 28,
+      "pct_not_distracted": 91,
+      "pct_no_previous_accidents": 89,
+      "car_insurance_premium_usd": 878.41,
+      "insurance_losses_per_driver_usd": 165.63
+    },
+    {
+      "state": "Colorado",
+      "fatal_collisions_per_billion_miles": 13.6,
+      "pct_speeding": 37,
+      "pct_alcohol_impaired": 28,
+      "pct_not_distracted": 79,
+      "pct_no_previous_accidents": 95,
+      "car_insurance_premium_usd": 835.5,
+      "insurance_losses_per_driver_usd": 139.91
+    },
+    {
+      "state": "Connecticut",
+      "fatal_collisions_per_billion_miles": 10.8,
+      "pct_speeding": 46,
+      "pct_alcohol_impaired": 36,
+      "pct_not_distracted": 87,
+      "pct_no_previous_accidents": 82,
+      "car_insurance_premium_usd": 1068.73,
+      "insurance_losses_per_driver_usd": 167.02
+    },
+    {
+      "state": "Delaware",
+      "fatal_collisions_per_billion_miles": 16.2,
+      "pct_speeding": 38,
+      "pct_alcohol_impaired": 30,
+      "pct_not_distracted": 87,
+      "pct_no_previous_accidents": 99,
+      "car_insurance_premium_usd": 1137.87,
+      "insurance_losses_per_driver_usd": 151.48
+    },
+    {
+      "state": "District of Columbia",
+      "fatal_collisions_per_billion_miles": 5.9,
+      "pct_speeding": 34,
+      "pct_alcohol_impaired": 27,
+      "pct_not_distracted": 100,
+      "pct_no_previous_accidents": 100,
+      "car_insurance_premium_usd": 1273.89,
+      "insurance_losses_per_driver_usd": 136.05
+    },
+    {
+      "state": "Florida",
+      "fatal_collisions_per_billion_miles": 17.9,
+      "pct_speeding": 21,
+      "pct_alcohol_impaired": 29,
+      "pct_not_distracted": 92,
+      "pct_no_previous_accidents": 94,
+      "car_insurance_premium_usd": 1160.13,
+      "insurance_losses_per_driver_usd": 144.18
+    },
+    {
+      "state": "Georgia",
+      "fatal_collisions_per_billion_miles": 15.6,
+      "pct_speeding": 19,
+      "pct_alcohol_impaired": 25,
+      "pct_not_distracted": 95,
+      "pct_no_previous_accidents": 93,
+      "car_insurance_premium_usd": 913.15,
+      "insurance_losses_per_driver_usd": 142.8
+    },
+    {
+      "state": "Hawaii",
+      "fatal_collisions_per_billion_miles": 17.5,
+      "pct_speeding": 54,
+      "pct_alcohol_impaired": 41,
+      "pct_not_distracted": 82,
+      "pct_no_previous_accidents": 87,
+      "car_insurance_premium_usd": 861.18,
+      "insurance_losses_per_driver_usd": 120.92
+    },
+    {
+      "state": "Idaho",
+      "fatal_collisions_per_billion_miles": 15.3,
+      "pct_speeding": 36,
+      "pct_alcohol_impaired": 29,
+      "pct_not_distracted": 85,
+      "pct_no_previous_accidents": 98,
+      "car_insurance_premium_usd": 641.96,
+      "insurance_losses_per_driver_usd": 82.75
+    },
+    {
+      "state": "Illinois",
+      "fatal_collisions_per_billion_miles": 12.8,
+      "pct_speeding": 36,
+      "pct_alcohol_impaired": 34,
+      "pct_not_distracted": 94,
+      "pct_no_previous_accidents": 96,
+      "car_insurance_premium_usd": 803.11,
+      "insurance_losses_per_driver_usd": 139.15
+    },
+    {
+      "state": "Indiana",
+      "fatal_collisions_per_billion_miles": 14.5,
+      "pct_speeding": 25,
+      "pct_alcohol_impaired": 29,
+      "pct_not_distracted": 95,
+      "pct_no_previous_accidents": 95,
+      "car_insurance_premium_usd": 710.46,
+      "insurance_losses_per_driver_usd": 108.92
+    },
+    {
+      "state": "Iowa",
+      "fatal_collisions_per_billion_miles": 15.7,
+      "pct_speeding": 17,
+      "pct_alcohol_impaired": 25,
+      "pct_not_distracted": 97,
+      "pct_no_previous_accidents": 87,
+      "car_insurance_premium_usd": 649.06,
+      "insurance_losses_per_driver_usd": 114.47
+    },
+    {
+      "state": "Kansas",
+      "fatal_collisions_per_billion_miles": 17.8,
+      "pct_speeding": 27,
+      "pct_alcohol_impaired": 24,
+      "pct_not_distracted": 77,
+      "pct_no_previous_accidents": 85,
+      "car_insurance_premium_usd": 780.45,
+      "insurance_losses_per_driver_usd": 133.8
+    },
+    {
+      "state": "Kentucky",
+      "fatal_collisions_per_billion_miles": 21.4,
+      "pct_speeding": 19,
+      "pct_alcohol_impaired": 23,
+      "pct_not_distracted": 78,
+      "pct_no_previous_accidents": 76,
+      "car_insurance_premium_usd": 872.51,
+      "insurance_losses_per_driver_usd": 137.13
+    },
+    {
+      "state": "Louisiana",
+      "fatal_collisions_per_billion_miles": 20.5,
+      "pct_speeding": 35,
+      "pct_alcohol_impaired": 33,
+      "pct_not_distracted": 73,
+      "pct_no_previous_accidents": 98,
+      "car_insurance_premium_usd": 1281.55,
+      "insurance_losses_per_driver_usd": 194.78
+    },
+    {
+      "state": "Maine",
+      "fatal_collisions_per_billion_miles": 15.1,
+      "pct_speeding": 38,
+      "pct_alcohol_impaired": 30,
+      "pct_not_distracted": 87,
+      "pct_no_previous_accidents": 84,
+      "car_insurance_premium_usd": 661.88,
+      "insurance_losses_per_driver_usd": 96.57
+    },
+    {
+      "state": "Maryland",
+      "fatal_collisions_per_billion_miles": 12.5,
+      "pct_speeding": 34,
+      "pct_alcohol_impaired": 32,
+      "pct_not_distracted": 71,
+      "pct_no_previous_accidents": 99,
+      "car_insurance_premium_usd": 1048.78,
+      "insurance_losses_per_driver_usd": 192.7
+    },
+    {
+      "state": "Massachusetts",
+      "fatal_collisions_per_billion_miles": 8.2,
+      "pct_speeding": 23,
+      "pct_alcohol_impaired": 35,
+      "pct_not_distracted": 87,
+      "pct_no_previous_accidents": 80,
+      "car_insurance_premium_usd": 1011.14,
+      "insurance_losses_per_driver_usd": 135.63
+    },
+    {
+      "state": "Michigan",
+      "fatal_collisions_per_billion_miles": 14.1,
+      "pct_speeding": 24,
+      "pct_alcohol_impaired": 28,
+      "pct_not_distracted": 95,
+      "pct_no_previous_accidents": 77,
+      "car_insurance_premium_usd": 1110.61,
+      "insurance_losses_per_driver_usd": 152.26
+    },
+    {
+      "state": "Minnesota",
+      "fatal_collisions_per_billion_miles": 9.6,
+      "pct_speeding": 23,
+      "pct_alcohol_impaired": 29,
+      "pct_not_distracted": 88,
+      "pct_no_previous_accidents": 88,
+      "car_insurance_premium_usd": 777.18,
+      "insurance_losses_per_driver_usd": 133.35
+    },
+    {
+      "state": "Mississippi",
+      "fatal_collisions_per_billion_miles": 17.6,
+      "pct_speeding": 15,
+      "pct_alcohol_impaired": 31,
+      "pct_not_distracted": 10,
+      "pct_no_previous_accidents": 100,
+      "car_insurance_premium_usd": 896.07,
+      "insurance_losses_per_driver_usd": 155.77
+    },
+    {
+      "state": "Missouri",
+      "fatal_collisions_per_billion_miles": 16.1,
+      "pct_speeding": 43,
+      "pct_alcohol_impaired": 34,
+      "pct_not_distracted": 92,
+      "pct_no_previous_accidents": 84,
+      "car_insurance_premium_usd": 790.32,
+      "insurance_losses_per_driver_usd": 144.45
+    },
+    {
+      "state": "Montana",
+      "fatal_collisions_per_billion_miles": 21.4,
+      "pct_speeding": 39,
+      "pct_alcohol_impaired": 44,
+      "pct_not_distracted": 84,
+      "pct_no_previous_accidents": 85,
+      "car_insurance_premium_usd": 816.21,
+      "insurance_losses_per_driver_usd": 85.15
+    },
+    {
+      "state": "Nebraska",
+      "fatal_collisions_per_billion_miles": 14.9,
+      "pct_speeding": 13,
+      "pct_alcohol_impaired": 35,
+      "pct_not_distracted": 93,
+      "pct_no_previous_accidents": 90,
+      "car_insurance_premium_usd": 732.28,
+      "insurance_losses_per_driver_usd": 114.82
+    },
+    {
+      "state": "Nevada",
+      "fatal_collisions_per_billion_miles": 14.7,
+      "pct_speeding": 37,
+      "pct_alcohol_impaired": 32,
+      "pct_not_distracted": 95,
+      "pct_no_previous_accidents": 99,
+      "car_insurance_premium_usd": 1029.87,
+      "insurance_losses_per_driver_usd": 138.71
+    },
+    {
+      "state": "New Hampshire",
+      "fatal_collisions_per_billion_miles": 11.6,
+      "pct_speeding": 35,
+      "pct_alcohol_impaired": 30,
+      "pct_not_distracted": 87,
+      "pct_no_previous_accidents": 83,
+      "car_insurance_premium_usd": 746.54,
+      "insurance_losses_per_driver_usd": 120.21
+    },
+    {
+      "state": "New Jersey",
+      "fatal_collisions_per_billion_miles": 11.2,
+      "pct_speeding": 16,
+      "pct_alcohol_impaired": 28,
+      "pct_not_distracted": 86,
+      "pct_no_previous_accidents": 78,
+      "car_insurance_premium_usd": 1301.52,
+      "insurance_losses_per_driver_usd": 159.85
+    },
+    {
+      "state": "New Mexico",
+      "fatal_collisions_per_billion_miles": 18.4,
+      "pct_speeding": 19,
+      "pct_alcohol_impaired": 27,
+      "pct_not_distracted": 67,
+      "pct_no_previous_accidents": 98,
+      "car_insurance_premium_usd": 869.85,
+      "insurance_losses_per_driver_usd": 120.75
+    },
+    {
+      "state": "New York",
+      "fatal_collisions_per_billion_miles": 12.3,
+      "pct_speeding": 32,
+      "pct_alcohol_impaired": 29,
+      "pct_not_distracted": 88,
+      "pct_no_previous_accidents": 80,
+      "car_insurance_premium_usd": 1234.31,
+      "insurance_losses_per_driver_usd": 150.01
+    },
+    {
+      "state": "North Carolina",
+      "fatal_collisions_per_billion_miles": 16.8,
+      "pct_speeding": 39,
+      "pct_alcohol_impaired": 31,
+      "pct_not_distracted": 94,
+      "pct_no_previous_accidents": 81,
+      "car_insurance_premium_usd": 708.24,
+      "insurance_losses_per_driver_usd": 127.82
+    },
+    {
+      "state": "North Dakota",
+      "fatal_collisions_per_billion_miles": 23.9,
+      "pct_speeding": 23,
+      "pct_alcohol_impaired": 42,
+      "pct_not_distracted": 99,
+      "pct_no_previous_accidents": 86,
+      "car_insurance_premium_usd": 688.75,
+      "insurance_losses_per_driver_usd": 109.72
+    },
+    {
+      "state": "Ohio",
+      "fatal_collisions_per_billion_miles": 14.1,
+      "pct_speeding": 28,
+      "pct_alcohol_impaired": 34,
+      "pct_not_distracted": 99,
+      "pct_no_previous_accidents": 82,
+      "car_insurance_premium_usd": 697.73,
+      "insurance_losses_per_driver_usd": 133.52
+    },
+    {
+      "state": "Oklahoma",
+      "fatal_collisions_per_billion_miles": 19.9,
+      "pct_speeding": 32,
+      "pct_alcohol_impaired": 29,
+      "pct_not_distracted": 92,
+      "pct_no_previous_accidents": 94,
+      "car_insurance_premium_usd": 881.51,
+      "insurance_losses_per_driver_usd": 178.86
+    },
+    {
+      "state": "Oregon",
+      "fatal_collisions_per_billion_miles": 12.8,
+      "pct_speeding": 33,
+      "pct_alcohol_impaired": 26,
+      "pct_not_distracted": 67,
+      "pct_no_previous_accidents": 90,
+      "car_insurance_premium_usd": 804.71,
+      "insurance_losses_per_driver_usd": 104.61
+    },
+    {
+      "state": "Pennsylvania",
+      "fatal_collisions_per_billion_miles": 18.2,
+      "pct_speeding": 50,
+      "pct_alcohol_impaired": 31,
+      "pct_not_distracted": 96,
+      "pct_no_previous_accidents": 88,
+      "car_insurance_premium_usd": 905.99,
+      "insurance_losses_per_driver_usd": 153.86
+    },
+    {
+      "state": "Rhode Island",
+      "fatal_collisions_per_billion_miles": 11.1,
+      "pct_speeding": 34,
+      "pct_alcohol_impaired": 38,
+      "pct_not_distracted": 92,
+      "pct_no_previous_accidents": 79,
+      "car_insurance_premium_usd": 1148.99,
+      "insurance_losses_per_driver_usd": 148.58
+    },
+    {
+      "state": "South Carolina",
+      "fatal_collisions_per_billion_miles": 23.9,
+      "pct_speeding": 38,
+      "pct_alcohol_impaired": 41,
+      "pct_not_distracted": 96,
+      "pct_no_previous_accidents": 81,
+      "car_insurance_premium_usd": 858.97,
+      "insurance_losses_per_driver_usd": 116.29
+    },
+    {
+      "state": "South Dakota",
+      "fatal_collisions_per_billion_miles": 19.4,
+      "pct_speeding": 31,
+      "pct_alcohol_impaired": 33,
+      "pct_not_distracted": 98,
+      "pct_no_previous_accidents": 86,
+      "car_insurance_premium_usd": 669.31,
+      "insurance_losses_per_driver_usd": 96.87
+    },
+    {
+      "state": "Tennessee",
+      "fatal_collisions_per_billion_miles": 19.5,
+      "pct_speeding": 21,
+      "pct_alcohol_impaired": 29,
+      "pct_not_distracted": 82,
+      "pct_no_previous_accidents": 81,
+      "car_insurance_premium_usd": 767.91,
+      "insurance_losses_per_driver_usd": 155.57
+    },
+    {
+      "state": "Texas",
+      "fatal_collisions_per_billion_miles": 19.4,
+      "pct_speeding": 40,
+      "pct_alcohol_impaired": 38,
+      "pct_not_distracted": 91,
+      "pct_no_previous_accidents": 87,
+      "car_insurance_premium_usd": 1004.75,
+      "insurance_losses_per_driver_usd": 156.83
+    },
+    {
+      "state": "Utah",
+      "fatal_collisions_per_billion_miles": 11.3,
+      "pct_speeding": 43,
+      "pct_alcohol_impaired": 16,
+      "pct_not_distracted": 88,
+      "pct_no_previous_accidents": 96,
+      "car_insurance_premium_usd": 809.38,
+      "insurance_losses_per_driver_usd": 109.48
+    },
+    {
+      "state": "Vermont",
+      "fatal_collisions_per_billion_miles": 13.6,
+      "pct_speeding": 30,
+      "pct_alcohol_impaired": 30,
+      "pct_not_distracted": 96,
+      "pct_no_previous_accidents": 95,
+      "car_insurance_premium_usd": 716.2,
+      "insurance_losses_per_driver_usd": 109.61
+    },
+    {
+      "state": "Virginia",
+      "fatal_collisions_per_billion_miles": 12.7,
+      "pct_speeding": 19,
+      "pct_alcohol_impaired": 27,
+      "pct_not_distracted": 87,
+      "pct_no_previous_accidents": 88,
+      "car_insurance_premium_usd": 768.95,
+      "insurance_losses_per_driver_usd": 153.72
+    },
+    {
+      "state": "Washington",
+      "fatal_collisions_per_billion_miles": 10.6,
+      "pct_speeding": 42,
+      "pct_alcohol_impaired": 33,
+      "pct_not_distracted": 82,
+      "pct_no_previous_accidents": 86,
+      "car_insurance_premium_usd": 890.03,
+      "insurance_losses_per_driver_usd": 111.62
+    },
+    {
+      "state": "West Virginia",
+      "fatal_collisions_per_billion_miles": 23.8,
+      "pct_speeding": 34,
+      "pct_alcohol_impaired": 28,
+      "pct_not_distracted": 97,
+      "pct_no_previous_accidents": 87,
+      "car_insurance_premium_usd": 992.61,
+      "insurance_losses_per_driver_usd": 152.56
+    },
+    {
+      "state": "Wisconsin",
+      "fatal_collisions_per_billion_miles": 13.8,
+      "pct_speeding": 36,
+      "pct_alcohol_impaired": 33,
+      "pct_not_distracted": 39,
+      "pct_no_previous_accidents": 84,
+      "car_insurance_premium_usd": 670.31,
+      "insurance_losses_per_driver_usd": 106.62
+    },
+    {
+      "state": "Wyoming",
+      "fatal_collisions_per_billion_miles": 17.4,
+      "pct_speeding": 42,
+      "pct_alcohol_impaired": 32,
+      "pct_not_distracted": 81,
+      "pct_no_previous_accidents": 90,
+      "car_insurance_premium_usd": 791.14,
+      "insurance_losses_per_driver_usd": 122.04
+    }
+  ],
+  "meta": {
+    "title": "US State Bad Drivers (2012) - Free Download",
+    "description": "Per-state statistics from FiveThirtyEight on driver behavior in fatal collisions, including speeding, alcohol impairment, and insurance loss data, for the 50 US states plus DC. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US State Bad Drivers (2012) | ListBase",
+    "seo_description": "Download US State Bad Drivers (2012) — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/fivethirtyeight/data"
+    ]
+  }
+}

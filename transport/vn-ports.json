@@ -1,0 +1,263 @@
+{
+  "id": "vn-ports",
+  "name": "Vietnam — Ports",
+  "title": "Vietnam — Ports",
+  "description": "Ports and harbors in Vietnam: name, city, coordinates, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "asciiname",
+      "label": "Asciiname",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "unlc_list",
+      "label": "Unlc List",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "",
+      "name": "Cảng Hải Phòng",
+      "asciiname": "Cang Hai Phong",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Hai Phong",
+      "latitude": 20.86774,
+      "longitude": 106.69179,
+      "timezone": "Asia/Bangkok",
+      "unlc_list": "VNHPH|"
+    },
+    {
+      "iata_code": "",
+      "name": "Sai Gon Port",
+      "asciiname": "Sai Gon Port",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.76719,
+      "longitude": 106.70654,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "unlc_list": "VNCSG|"
+    },
+    {
+      "iata_code": "",
+      "name": "Hiep Phuoc Port",
+      "asciiname": "Hiep Phuoc Port",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.63922,
+      "longitude": 106.75681,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "unlc_list": "VNSPC|"
+    },
+    {
+      "iata_code": "",
+      "name": "Cai Mep International Terminal",
+      "asciiname": "Cai Mep International Terminal",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.51393,
+      "longitude": 107.01628,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "unlc_list": "VNCMT|=VNTOT|"
+    },
+    {
+      "iata_code": "",
+      "name": "Chan May Port",
+      "asciiname": "Chan May Port",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Thua Thien Hue Province",
+      "latitude": 16.3326,
+      "longitude": 108.01891,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "unlc_list": "VNCMY|"
+    },
+    {
+      "iata_code": "",
+      "name": "Tan Cang Qui Nhon",
+      "asciiname": "Tan Cang Qui Nhon",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Gia Lai",
+      "latitude": 13.77861,
+      "longitude": 109.23423,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "unlc_list": "VNQNT|"
+    },
+    {
+      "iata_code": "",
+      "name": "Cat Lai Port",
+      "asciiname": "Cat Lai Port",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.75848,
+      "longitude": 106.78471,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "unlc_list": "VNOCL|"
+    },
+    {
+      "iata_code": "",
+      "name": "ICD Sotrans",
+      "asciiname": "ICD Sotrans",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.82297,
+      "longitude": 106.75704,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "unlc_list": "VNSTR|"
+    },
+    {
+      "iata_code": "",
+      "name": "Ho Chi Minh Vict Port",
+      "asciiname": "Ho Chi Minh Vict Port",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.7705,
+      "longitude": 106.73909,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "unlc_list": "VNVIC|"
+    },
+    {
+      "iata_code": "",
+      "name": "Phuoc Long ICD",
+      "asciiname": "Phuoc Long ICD",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.78298,
+      "longitude": 106.70718,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "unlc_list": "VNIPH|"
+    },
+    {
+      "iata_code": "",
+      "name": "Hon gai",
+      "asciiname": "Hon gai",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Quang Ninh",
+      "latitude": 20.97026,
+      "longitude": 107.0755,
+      "timezone": "Asia/Bangkok",
+      "unlc_list": "VNHON|"
+    },
+    {
+      "iata_code": "",
+      "name": "Son Duong Port",
+      "asciiname": "Son Duong Port",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "",
+      "latitude": 18.05803,
+      "longitude": 106.44073,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "unlc_list": "VNSDP|"
+    },
+    {
+      "iata_code": "",
+      "name": "Hai An Port",
+      "asciiname": "Hai An Port",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Hai Phong",
+      "latitude": 20.84873,
+      "longitude": 106.75149,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "unlc_list": "VNHA0|"
+    },
+    {
+      "iata_code": "",
+      "name": "Port of Ha Long",
+      "asciiname": "Port of Ha Long",
+      "city_name_list": "",
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "adm1_name_ascii": "Quang Ninh",
+      "latitude": 20.97838,
+      "longitude": 107.05041,
+      "timezone": "Asia/Bangkok",
+      "unlc_list": "VNHLG|"
+    }
+  ],
+  "meta": {
+    "title": "Vietnam — Ports - Free Download",
+    "description": "Ports and harbors in Vietnam: name, city, coordinates, timezone. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vietnam — Ports | ListBase",
+    "seo_description": "Download Vietnam — Ports dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

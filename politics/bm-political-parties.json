@@ -1,0 +1,166 @@
+{
+  "id": "bm-political-parties",
+  "name": "Bermuda — Political Parties",
+  "title": "Bermuda — Political Parties",
+  "description": "Political parties of Bermuda from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3723,
+      "name_short": "UBP",
+      "name": "United Bermuda Party",
+      "name_english": "United Bermuda Party",
+      "name_other": "",
+      "year_first": 1972,
+      "year_last": 2007,
+      "share": 66.1,
+      "share_year": 1985,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Bermuda_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3721,
+      "name_short": "PLP",
+      "name": "Progressive Labour Party",
+      "name_english": "Progressive Labour Party",
+      "name_other": "",
+      "year_first": 1963,
+      "year_last": "",
+      "share": 53.8,
+      "share_year": 1998,
+      "wikipedia": "https://en.wikipedia.org/wiki/Progressive_Labour_Party_(Bermuda)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3790,
+      "name_short": "OBA",
+      "name": "One Bermuda Alliance",
+      "name_english": "One Bermuda Alliance",
+      "name_other": "",
+      "year_first": 2011,
+      "year_last": "",
+      "share": 51.7,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/One_Bermuda_Alliance",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6427,
+      "name_short": "BDP",
+      "name": "Bermuda Democratic Party",
+      "name_english": "Bermuda Democratic Party",
+      "name_other": "",
+      "year_first": 1968,
+      "year_last": "",
+      "share": 9,
+      "share_year": 1968,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bermuda_Democratic_Party",
+      "description": "Share includes independent candidates.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3722,
+      "name_short": "NLP",
+      "name": "National Liberal Party",
+      "name_english": "National Liberal Party",
+      "name_other": "",
+      "year_first": 1985,
+      "year_last": 2003,
+      "share": 5.5,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Liberal_Party_(Bermuda)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Bermuda — Political Parties - Free Download",
+    "description": "Political parties of Bermuda from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bermuda — Political Parties | ListBase",
+    "seo_description": "Download Bermuda — Political Parties dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

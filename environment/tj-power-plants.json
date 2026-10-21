@@ -1,0 +1,286 @@
+{
+  "id": "tj-power-plants",
+  "name": "Tajikistan — Power Plants",
+  "title": "Tajikistan — Power Plants",
+  "description": "Power plants located in Tajikistan from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Nurek",
+      "gppd_idnr": "WRI1000349",
+      "capacity_mw": 3015,
+      "latitude": 38.3717,
+      "longitude": 69.3481,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1972,
+      "owner": "Barki Tojik",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Tajikistan_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 9436.64; 2014: 11269.84; 2015: 11095.59; 2016: 11125.99; 2017: 11095.59",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sangtuda 1",
+      "gppd_idnr": "WRI1000350",
+      "capacity_mw": 700,
+      "latitude": 38.0435,
+      "longitude": 69.0583,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2009,
+      "owner": "IPP",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Tajikistan_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 2094.36; 2014: 2519.98; 2015: 2479.52; 2016: 2486.32; 2017: 2479.52",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Baipaza",
+      "gppd_idnr": "WRI1000351",
+      "capacity_mw": 600,
+      "latitude": 38.2674,
+      "longitude": 69.1237,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Barki Tojik",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Tajikistan_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1795.17; 2014: 2159.98; 2015: 2125.31; 2016: 2131.13; 2017: 2125.31",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Dushanbe",
+      "gppd_idnr": "WRI1000360",
+      "capacity_mw": 430,
+      "latitude": 38.6106,
+      "longitude": 68.7726,
+      "primary_fuel": "Oil",
+      "other_fuels": "Coal",
+      "commissioning_year": "",
+      "owner": "Barki Tojik",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Tajikistan_2013_en.pdf",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Golovnaya",
+      "gppd_idnr": "WRI1000352",
+      "capacity_mw": 210,
+      "latitude": 37.8839,
+      "longitude": 68.937,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Barki Tojik",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Tajikistan_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 697.45; 2014: 825.13; 2015: 813; 2016: 815.22; 2017: 813",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Yavan",
+      "gppd_idnr": "WRI1000361",
+      "capacity_mw": 180,
+      "latitude": 38.296,
+      "longitude": 68.932,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": 1969,
+      "owner": "Barki Tojik",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Tajikistan_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kairakkum",
+      "gppd_idnr": "WRI1000353",
+      "capacity_mw": 126,
+      "latitude": 40.2759,
+      "longitude": 69.815,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Barki Tojik",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Tajikistan_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 354.34; 2014: 423.67; 2015: 423.67; 2016: 412.54; 2017: 411.27",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Varzob 2",
+      "gppd_idnr": "WRI1000356",
+      "capacity_mw": 14.4,
+      "latitude": 38.6122,
+      "longitude": 68.7767,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Barki Tojik",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Tajikistan_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 44.96; 2014: 41.65; 2015: 47.3; 2016: 47.43; 2017: 43.35",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Varzob 1",
+      "gppd_idnr": "WRI1000359",
+      "capacity_mw": 11,
+      "latitude": 38.586,
+      "longitude": 68.7785,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Barki Tojik",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Tajikistan_2013_en.pdf",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 30.04; 2014: 34.3; 2015: 38.35; 2016: 38.25; 2017: 38.15",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Khorog",
+      "gppd_idnr": "WRI1000358",
+      "capacity_mw": 10,
+      "latitude": 37.4897,
+      "longitude": 71.553,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Pamir Energy (PPP set up by AKFED and IFC)",
+      "source": "Energy Charter Secretariat",
+      "url": "http://www.energycharter.org/fileadmin/DocumentsMedia/IDEER/IDEER-Tajikistan_2013_en.pdf",
+      "geolocation_source": "CARMA",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 25.89; 2014: 35.5; 2015: 46.34; 2016: 45.95; 2017: 48.73",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Tajikistan — Power Plants - Free Download",
+    "description": "Power plants located in Tajikistan from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tajikistan — Power Plants | ListBase",
+    "seo_description": "Download Tajikistan — Power Plants dataset with 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ch-football-leagues",
+  "name": "Switzerland — Football Leagues",
+  "title": "Switzerland — Football Leagues",
+  "description": "Domestic football (soccer) leagues and cup competitions of Switzerland. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/leagues",
+  "source_url": "https://github.com/openfootball/leagues",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "year_span",
+      "label": "Year Span",
+      "type": "string"
+    },
+    {
+      "key": "tier_kind",
+      "label": "Tier Kind",
+      "type": "string"
+    },
+    {
+      "key": "tier_level",
+      "label": "Tier Level",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "1",
+      "name": "Super League",
+      "aliases": "Swiss Super League, Schweiz Super League, sui.sl",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 1
+    },
+    {
+      "code": "2",
+      "name": "Challenge League",
+      "aliases": "Swiss Challenge League",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 2
+    },
+    {
+      "code": "3",
+      "name": "Promotion League",
+      "aliases": "Swiss Promotion League, Schweiz Promotion League",
+      "year_span": "",
+      "tier_kind": "league",
+      "tier_level": 3
+    },
+    {
+      "code": "cup",
+      "name": "Cup",
+      "aliases": "Schweizer Cup [de], Swiss Cup, sui.p",
+      "year_span": "",
+      "tier_kind": "national-cup",
+      "tier_level": ""
+    }
+  ],
+  "meta": {
+    "title": "Switzerland — Football Leagues - Free Download",
+    "description": "Domestic football (soccer) leagues and cup competitions of Switzerland. Each record describes one competition with its short code, primary name, alternate names (including localized spellings and historical names), active year span where given, and a coarse tier classification (league level, national cup, league cup, super cup, other). Sourced from openfootball/leagues — a CC0 community registry. Contains 4 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Switzerland — Football Leagues | ListBase",
+    "seo_description": "Download Switzerland — Football Leagues — 4 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 4 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/leagues"
+    ]
+  }
+}

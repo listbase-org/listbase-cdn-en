@@ -1,0 +1,520 @@
+{
+  "id": "olympics-games",
+  "name": "Olympic Games (1896–2016)",
+  "title": "Olympic Games (1896–2016)",
+  "description": "All 51 modern Olympic Games (Summer and Winter) from Athens 1896 to Rio 2016, with host city, host nation, athlete count, participating countries, and event count.",
+  "category": "sports",
+  "source": "https://github.com/dariusk/corpora",
+  "source_url": "https://github.com/dariusk/corpora",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "nation",
+      "label": "Nation",
+      "type": "string"
+    },
+    {
+      "key": "athletes",
+      "label": "Athletes",
+      "type": "number"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "number"
+    },
+    {
+      "key": "events",
+      "label": "Events",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "type": "Summer",
+      "year": 1896,
+      "city": "Athens",
+      "nation": "Greece",
+      "athletes": 241,
+      "countries": 14,
+      "events": 43
+    },
+    {
+      "type": "Summer",
+      "year": 1900,
+      "city": "Paris",
+      "nation": "France",
+      "athletes": 997,
+      "countries": 24,
+      "events": 95
+    },
+    {
+      "type": "Summer",
+      "year": 1904,
+      "city": "St.Louis",
+      "nation": "United States of America",
+      "athletes": 651,
+      "countries": 12,
+      "events": 95
+    },
+    {
+      "type": "Summer",
+      "year": 1908,
+      "city": "London",
+      "nation": "United Kingdom",
+      "athletes": 2008,
+      "countries": 22,
+      "events": 110
+    },
+    {
+      "type": "Summer",
+      "year": 1912,
+      "city": "Stockholm",
+      "nation": "Sweden",
+      "athletes": 2407,
+      "countries": 28,
+      "events": 102
+    },
+    {
+      "type": "Summer",
+      "year": 1920,
+      "city": "Antwerp",
+      "nation": "Belgium",
+      "athletes": 29,
+      "countries": 2622,
+      "events": 156
+    },
+    {
+      "type": "Summer",
+      "year": 1924,
+      "city": "Paris",
+      "nation": "France",
+      "athletes": 3089,
+      "countries": 44,
+      "events": 126
+    },
+    {
+      "type": "Winter",
+      "year": 1924,
+      "city": "Chamonix",
+      "nation": "France",
+      "athletes": 258,
+      "countries": 16,
+      "events": 16
+    },
+    {
+      "type": "Summer",
+      "year": 1928,
+      "city": "Amsterdam",
+      "nation": "Netherlands",
+      "athletes": 2883,
+      "countries": 46,
+      "events": 109
+    },
+    {
+      "type": "Winter",
+      "year": 1928,
+      "city": "St.Moritz",
+      "nation": "Switzerland",
+      "athletes": 464,
+      "countries": 25,
+      "events": 14
+    },
+    {
+      "type": "Summer",
+      "year": 1932,
+      "city": "Los Angeles",
+      "nation": "United States of America",
+      "athletes": 1332,
+      "countries": 37,
+      "events": 117
+    },
+    {
+      "type": "Winter",
+      "year": 1932,
+      "city": "Lake Placid",
+      "nation": "United States of America",
+      "athletes": 252,
+      "countries": 17,
+      "events": 14
+    },
+    {
+      "type": "Summer",
+      "year": 1936,
+      "city": "Berlin",
+      "nation": "Germany",
+      "athletes": 3963,
+      "countries": 49,
+      "events": 129
+    },
+    {
+      "type": "Winter",
+      "year": 1936,
+      "city": "Garmisch-Partenkirchen",
+      "nation": "Germany",
+      "athletes": 646,
+      "countries": 28,
+      "events": 17
+    },
+    {
+      "type": "Summer",
+      "year": 1948,
+      "city": "London",
+      "nation": "United Kingdom",
+      "athletes": 4104,
+      "countries": 59,
+      "events": 136
+    },
+    {
+      "type": "Winter",
+      "year": 1948,
+      "city": "St.Moritz",
+      "nation": "Switzerland",
+      "athletes": 669,
+      "countries": 28,
+      "events": 22
+    },
+    {
+      "type": "Summer",
+      "year": 1952,
+      "city": "Helsinki",
+      "nation": "Finland",
+      "athletes": 4955,
+      "countries": 69,
+      "events": 149
+    },
+    {
+      "type": "Winter",
+      "year": 1952,
+      "city": "Oslo",
+      "nation": "Norway",
+      "athletes": 694,
+      "countries": 30,
+      "events": 22
+    },
+    {
+      "type": "Summer",
+      "year": 1956,
+      "city": "Melbourne",
+      "nation": "Australia",
+      "athletes": 3314,
+      "countries": 72,
+      "events": 151
+    },
+    {
+      "type": "Winter",
+      "year": 1956,
+      "city": "Cortina d'Amprezzo",
+      "nation": "Italy",
+      "athletes": 821,
+      "countries": 32,
+      "events": 24
+    },
+    {
+      "type": "Summer",
+      "year": 1960,
+      "city": "Rome",
+      "nation": "Italy",
+      "athletes": 5338,
+      "countries": 83,
+      "events": 150
+    },
+    {
+      "type": "Winter",
+      "year": 1960,
+      "city": "Squaw Valley",
+      "nation": "United States of America",
+      "athletes": 665,
+      "countries": 30,
+      "events": 27
+    },
+    {
+      "type": "Summer",
+      "year": 1964,
+      "city": "Tokyo",
+      "nation": "Japan",
+      "athletes": 5151,
+      "countries": 93,
+      "events": 163
+    },
+    {
+      "type": "Winter",
+      "year": 1964,
+      "city": "Innsbruck",
+      "nation": "Austria",
+      "athletes": 1091,
+      "countries": 36,
+      "events": 34
+    },
+    {
+      "type": "Summer",
+      "year": 1968,
+      "city": "Mexico City",
+      "nation": "Mexico",
+      "athletes": 5516,
+      "countries": 112,
+      "events": 172
+    },
+    {
+      "type": "Winter",
+      "year": 1968,
+      "city": "Grenoble",
+      "nation": "France",
+      "athletes": 1158,
+      "countries": 37,
+      "events": 35
+    },
+    {
+      "type": "Summer",
+      "year": 1972,
+      "city": "Munich",
+      "nation": "West Germany",
+      "athletes": 7134,
+      "countries": 121,
+      "events": 195
+    },
+    {
+      "type": "Winter",
+      "year": 1972,
+      "city": "Sapparo",
+      "nation": "Japan",
+      "athletes": 1006,
+      "countries": 35,
+      "events": 35
+    },
+    {
+      "type": "Summer",
+      "year": 1976,
+      "city": "Montreal",
+      "nation": "Canada",
+      "athletes": 6084,
+      "countries": 92,
+      "events": 198
+    },
+    {
+      "type": "Winter",
+      "year": 1976,
+      "city": "Innsbruck",
+      "nation": "Austria",
+      "athletes": 1123,
+      "countries": 37,
+      "events": 37
+    },
+    {
+      "type": "Summer",
+      "year": 1980,
+      "city": "Moscow",
+      "nation": "Soviet Union",
+      "athletes": 5179,
+      "countries": 80,
+      "events": 203
+    },
+    {
+      "type": "Winter",
+      "year": 1980,
+      "city": "Lake Placid",
+      "nation": "United States",
+      "athletes": 1072,
+      "countries": 37,
+      "events": 38
+    },
+    {
+      "type": "Summer",
+      "year": 1984,
+      "city": "Los Angeles",
+      "nation": "United States of America",
+      "athletes": 6829,
+      "countries": 140,
+      "events": 221
+    },
+    {
+      "type": "Winter",
+      "year": 1984,
+      "city": "Sarajevo",
+      "nation": "Yugoslavia",
+      "athletes": 1272,
+      "countries": 49,
+      "events": 39
+    },
+    {
+      "type": "Summer",
+      "year": 1988,
+      "city": "Seoul",
+      "nation": "South Korea",
+      "athletes": 8391,
+      "countries": 159,
+      "events": 237
+    },
+    {
+      "type": "Winter",
+      "year": 1988,
+      "city": "Calgary",
+      "nation": "Canada",
+      "athletes": 1423,
+      "countries": 57,
+      "events": 46
+    },
+    {
+      "type": "Summer",
+      "year": 1992,
+      "city": "Barcelona",
+      "nation": "Spain",
+      "athletes": 9356,
+      "countries": 169,
+      "events": 257
+    },
+    {
+      "type": "Winter",
+      "year": 1992,
+      "city": "Albertville",
+      "nation": "France",
+      "athletes": 1801,
+      "countries": 64,
+      "events": 57
+    },
+    {
+      "type": "Winter",
+      "year": 1994,
+      "city": "Lillehammer",
+      "nation": "Norway",
+      "athletes": 1737,
+      "countries": 67,
+      "events": 61
+    },
+    {
+      "type": "Summer",
+      "year": 1996,
+      "city": "Atlanta",
+      "nation": "United States of America",
+      "athletes": 10318,
+      "countries": 197,
+      "events": 271
+    },
+    {
+      "type": "Winter",
+      "year": 1998,
+      "city": "Nagano",
+      "nation": "Japan",
+      "athletes": 2176,
+      "countries": 72,
+      "events": 68
+    },
+    {
+      "type": "Summer",
+      "year": 2000,
+      "city": "Sydney",
+      "nation": "Australia",
+      "athletes": 10651,
+      "countries": 199,
+      "events": 300
+    },
+    {
+      "type": "Winter",
+      "year": 2002,
+      "city": "Salt Lake City",
+      "nation": "United States of America",
+      "athletes": 2399,
+      "countries": 78,
+      "events": 78
+    },
+    {
+      "type": "Summer",
+      "year": 2004,
+      "city": "Athens",
+      "nation": "Greece",
+      "athletes": 10625,
+      "countries": 201,
+      "events": 301
+    },
+    {
+      "type": "Winter",
+      "year": 2006,
+      "city": "Turin",
+      "nation": "Italy",
+      "athletes": 2508,
+      "countries": 80,
+      "events": 84
+    },
+    {
+      "type": "Summer",
+      "year": 2008,
+      "city": "Beijing",
+      "nation": "China",
+      "athletes": 10942,
+      "countries": 204,
+      "events": 302
+    },
+    {
+      "type": "Winter",
+      "year": 2010,
+      "city": "Vancouver",
+      "nation": "Canada",
+      "athletes": 2566,
+      "countries": 82,
+      "events": 86
+    },
+    {
+      "type": "Summer",
+      "year": 2012,
+      "city": "London",
+      "nation": "United Kingdom",
+      "athletes": 10768,
+      "countries": 204,
+      "events": 302
+    },
+    {
+      "type": "Winter",
+      "year": 2014,
+      "city": "Sochi",
+      "nation": "Russia",
+      "athletes": 2873,
+      "countries": 88,
+      "events": 98
+    },
+    {
+      "type": "Summer",
+      "year": 2016,
+      "city": "Rio de Janeiro",
+      "nation": "Brazil",
+      "athletes": 11238,
+      "countries": 207,
+      "events": 306
+    },
+    {
+      "type": "Winter",
+      "year": 2018,
+      "city": "Pyeongchang",
+      "nation": "South Korea",
+      "athletes": 2922,
+      "countries": 92,
+      "events": 102
+    }
+  ],
+  "meta": {
+    "title": "Olympic Games (1896–2016) - Free Download",
+    "description": "All 51 modern Olympic Games (Summer and Winter) from Athens 1896 to Rio 2016, with host city, host nation, athlete count, participating countries, and event count. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Olympic Games (1896–2016) | ListBase",
+    "seo_description": "Download Olympic Games (1896–2016) — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/dariusk/corpora"
+    ]
+  }
+}

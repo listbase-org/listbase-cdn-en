@@ -1,0 +1,263 @@
+{
+  "id": "us-ports",
+  "name": "United States — Ports",
+  "title": "United States — Ports",
+  "description": "Ports and harbors in United States: name, city, coordinates, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "asciiname",
+      "label": "Asciiname",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "unlc_list",
+      "label": "Unlc List",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "",
+      "name": "Port of Long Beach",
+      "asciiname": "Port of Long Beach",
+      "city_name_list": "",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "California",
+      "latitude": 33.75418,
+      "longitude": -118.21646,
+      "timezone": "America/Los_Angeles",
+      "unlc_list": "USLGB|"
+    },
+    {
+      "iata_code": "",
+      "name": "Port of South Louisiana",
+      "asciiname": "Port of South Louisiana",
+      "city_name_list": "",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "Louisiana",
+      "latitude": 30.05103,
+      "longitude": -90.49991,
+      "timezone": "America/Chicago",
+      "unlc_list": "USLU8|"
+    },
+    {
+      "iata_code": "",
+      "name": "Port Newark",
+      "asciiname": "Port Newark",
+      "city_name_list": "",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "New Jersey",
+      "latitude": 40.68715,
+      "longitude": -74.14553,
+      "timezone": "America/New_York",
+      "unlc_list": "USPNJ|"
+    },
+    {
+      "iata_code": "",
+      "name": "Maher Terminal",
+      "asciiname": "Maher Terminal",
+      "city_name_list": "",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "New Jersey",
+      "latitude": 40.68441,
+      "longitude": -74.16389,
+      "timezone": "America/New_York",
+      "unlc_list": "USMQ4|"
+    },
+    {
+      "iata_code": "",
+      "name": "Beaumont",
+      "asciiname": "Beaumont",
+      "city_name_list": "",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "Texas",
+      "latitude": 30.07939,
+      "longitude": -94.0923,
+      "timezone": "America/Chicago",
+      "unlc_list": "USBPT|"
+    },
+    {
+      "iata_code": "",
+      "name": "Albany",
+      "asciiname": "Albany",
+      "city_name_list": "",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "New York",
+      "latitude": 42.62675,
+      "longitude": -73.75632,
+      "timezone": "America/New_York",
+      "unlc_list": "USALB|"
+    },
+    {
+      "iata_code": "",
+      "name": "Providence",
+      "asciiname": "Providence",
+      "city_name_list": "",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "Rhode Island",
+      "latitude": 41.79744,
+      "longitude": -71.38983,
+      "timezone": "America/New_York",
+      "unlc_list": "USPVD|"
+    },
+    {
+      "iata_code": "",
+      "name": "Bremerton",
+      "asciiname": "Bremerton",
+      "city_name_list": "",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "Washington",
+      "latitude": 47.5637,
+      "longitude": -122.62399,
+      "timezone": "America/Los_Angeles",
+      "unlc_list": "USPWT|"
+    },
+    {
+      "iata_code": "",
+      "name": "Port of Portsmouth",
+      "asciiname": "Port of Portsmouth",
+      "city_name_list": "",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "Virginia",
+      "latitude": 36.85794,
+      "longitude": -76.32367,
+      "timezone": "America/New_York",
+      "unlc_list": "USPTM|"
+    },
+    {
+      "iata_code": "",
+      "name": "Virginia International Gateway",
+      "asciiname": "Virginia International Gateway",
+      "city_name_list": "",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "Virginia",
+      "latitude": 36.87514,
+      "longitude": -76.34885,
+      "timezone": "America/New_York",
+      "unlc_list": "USNFK|"
+    },
+    {
+      "iata_code": "",
+      "name": "Bayport Terminal",
+      "asciiname": "Bayport Terminal",
+      "city_name_list": "",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "Texas",
+      "latitude": 29.61345,
+      "longitude": -95.00292,
+      "timezone": "America/Chicago",
+      "unlc_list": "USHPY|"
+    },
+    {
+      "iata_code": "BVD",
+      "name": "Beaver Inlet Sea Port",
+      "asciiname": "Beaver Inlet Sea Port",
+      "city_name_list": "Beaver Inlet",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "Alaska",
+      "latitude": 53.8199,
+      "longitude": -166.21171,
+      "timezone": "America/Anchorage",
+      "unlc_list": "USBVD|"
+    },
+    {
+      "iata_code": "QLO",
+      "name": "Los Angeles CA US Ferry Port",
+      "asciiname": "Los Angeles CA US Ferry Port",
+      "city_name_list": "Los Angeles",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "",
+      "latitude": 33.9167,
+      "longitude": -118.383,
+      "timezone": "America/Los_Angeles",
+      "unlc_list": ""
+    },
+    {
+      "iata_code": "XNY",
+      "name": "New York NY US 39th Street Fer",
+      "asciiname": "New York NY US 39th Street Fer",
+      "city_name_list": "New York City",
+      "country_code": "US",
+      "country_name": "United States",
+      "adm1_name_ascii": "",
+      "latitude": 40.75,
+      "longitude": -74,
+      "timezone": "America/New_York",
+      "unlc_list": ""
+    }
+  ],
+  "meta": {
+    "title": "United States — Ports - Free Download",
+    "description": "Ports and harbors in United States: name, city, coordinates, timezone. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "United States — Ports | ListBase",
+    "seo_description": "Download United States — Ports dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

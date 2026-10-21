@@ -1,0 +1,189 @@
+{
+  "id": "finance-incoterms",
+  "name": "Incoterms 2020 Rules & Definitions Dataset",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Transport Mode",
+      "type": "string"
+    },
+    {
+      "key": "seller_delivery",
+      "label": "Delivery Point",
+      "type": "string"
+    },
+    {
+      "key": "risk_transfer",
+      "label": "Risk Transfer",
+      "type": "string"
+    },
+    {
+      "key": "seller_pays",
+      "label": "Seller Pays",
+      "type": "string"
+    },
+    {
+      "key": "buyer_pays",
+      "label": "Buyer Pays",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "EXW",
+      "name": "Ex Works",
+      "category": "Any Mode",
+      "seller_delivery": "Seller's premises",
+      "risk_transfer": "At seller's premises",
+      "seller_pays": "None (goods available at premises)",
+      "buyer_pays": "All transport, insurance, customs",
+      "description": "Buyer collects goods from seller's location"
+    },
+    {
+      "code": "FCA",
+      "name": "Free Carrier",
+      "category": "Any Mode",
+      "seller_delivery": "Named place of delivery",
+      "risk_transfer": "When delivered to carrier",
+      "seller_pays": "Delivery to carrier, export customs",
+      "buyer_pays": "Main carriage, insurance, import customs",
+      "description": "Seller delivers to carrier or named place"
+    },
+    {
+      "code": "CPT",
+      "name": "Carriage Paid To",
+      "category": "Any Mode",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Carriage to destination, export customs",
+      "buyer_pays": "Insurance, import customs, unloading",
+      "description": "Seller pays carriage, risk transfers at handover to carrier"
+    },
+    {
+      "code": "CIP",
+      "name": "Carriage and Insurance Paid To",
+      "category": "Any Mode",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Carriage, insurance to destination, export customs",
+      "buyer_pays": "Import customs, unloading",
+      "description": "Like CPT but seller also pays insurance"
+    },
+    {
+      "code": "DAP",
+      "name": "Delivered at Place",
+      "category": "Any Mode",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "All transport to destination, export customs",
+      "buyer_pays": "Unloading, import customs",
+      "description": "Seller delivers goods ready for unloading"
+    },
+    {
+      "code": "DPU",
+      "name": "Delivered at Place Unloaded",
+      "category": "Any Mode",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, after unloading",
+      "seller_pays": "All transport, unloading, export customs",
+      "buyer_pays": "Import customs",
+      "description": "Seller unloads goods at destination"
+    },
+    {
+      "code": "DDP",
+      "name": "Delivered Duty Paid",
+      "category": "Any Mode",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "Everything including import duty",
+      "buyer_pays": "Unloading only",
+      "description": "Maximum obligation for seller"
+    },
+    {
+      "code": "FAS",
+      "name": "Free Alongside Ship",
+      "category": "Sea/Waterway",
+      "seller_delivery": "Alongside ship at port",
+      "risk_transfer": "When placed alongside ship",
+      "seller_pays": "Transport to port, export customs",
+      "buyer_pays": "Loading, freight, insurance, import customs",
+      "description": "Seller delivers alongside the vessel"
+    },
+    {
+      "code": "FOB",
+      "name": "Free on Board",
+      "category": "Sea/Waterway",
+      "seller_delivery": "On board vessel at port",
+      "risk_transfer": "When goods are on board",
+      "seller_pays": "Loading on ship, export customs",
+      "buyer_pays": "Freight, insurance, import customs",
+      "description": "Seller loads goods onto the ship"
+    },
+    {
+      "code": "CFR",
+      "name": "Cost and Freight",
+      "category": "Sea/Waterway",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Freight to destination, export customs",
+      "buyer_pays": "Insurance, import customs, unloading",
+      "description": "Seller pays freight, risk at loading"
+    },
+    {
+      "code": "CIF",
+      "name": "Cost, Insurance and Freight",
+      "category": "Sea/Waterway",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Freight, insurance, export customs",
+      "buyer_pays": "Import customs, unloading",
+      "description": "Like CFR but seller also pays insurance"
+    }
+  ],
+  "meta": {
+    "seo_title": "Incoterms 2020 Rules - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download Incoterms 2020 rules for international trade. Get 11 essential terms, including risk and cost allocation. Free in Excel, CSV, PDF.",
+    "title": "Incoterms 2020 Rules & Definitions Dataset",
+    "description": "This dataset provides a concise list of the 11 Incoterms 2020 rules, detailing responsibilities for delivery, risk transfer, and cost allocation in international trade. It covers all key aspects for buyers and sellers.",
+    "key_takeaways": [
+      "Access the 11 Incoterms 2020 rules for global trade.",
+      "Explore definitions, transport modes, and risk transfer points.",
+      "Understand seller and buyer cost responsibilities.",
+      "Simplify international shipping agreements."
+    ],
+    "keywords": [
+      "incoterms 2020 list",
+      "international trade terms",
+      "shipping rules 2020",
+      "incoterms excel download",
+      "trade terms csv",
+      "logistics definitions"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your ERP or logistics system to automate contract clause generation and compliance checks for international shipments.",
+      "Use the **Excel** file to filter terms by transport mode, analyze cost allocation, and prepare training materials for your sales or procurement teams.",
+      "Print the **PDF** version for a quick, offline reference guide in warehouses, classrooms, or during contract negotiations.",
+      "Leverage this data for educational purposes to teach students about global supply chain management and trade regulations."
+    ]
+  },
+  "record_count": 11,
+  "title": "Incoterms 2020 Rules & Definitions Dataset"
+}

@@ -1,0 +1,214 @@
+{
+  "id": "lt-power-plants",
+  "name": "Lithuania — Power Plants",
+  "title": "Lithuania — Power Plants",
+  "description": "Power plants located in Lithuania from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "number"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Elektrenai (Lithuania) Thermal Power Plant Lithuania",
+      "gppd_idnr": "GEODB0042163",
+      "capacity_mw": 1800,
+      "latitude": 54.7701,
+      "longitude": 24.6474,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 520.37",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kruonis Pumped Storage Hydroelectric Power Plant Lithuania",
+      "gppd_idnr": "GEODB0042161",
+      "capacity_mw": 900,
+      "latitude": 54.799,
+      "longitude": 24.2475,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "2016: 574.828; 2017: 559.622",
+      "estimated_generation_gwh": "2013: 3175.6; 2014: 2003.92; 2015: 1419.52; 2016: 2674.65; 2017: 2047.13",
+      "generation_data_source": "JRC-PPDB-OPEN"
+    },
+    {
+      "name": "Vilnius TE-3 CHP Power Plant Lithuania",
+      "gppd_idnr": "GEODB0042166",
+      "capacity_mw": 360,
+      "latitude": 54.6676,
+      "longitude": 25.156,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 104.07",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kaunas CHP Power Plant Lithuania",
+      "gppd_idnr": "GEODB0042165",
+      "capacity_mw": 170,
+      "latitude": 54.9212,
+      "longitude": 24.018,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "2016: 47.92; 2017: 0.403",
+      "estimated_generation_gwh": "2017: 49.14",
+      "generation_data_source": "JRC-PPDB-OPEN"
+    },
+    {
+      "name": "Mazheikiai CHP Power Plant Lithuania",
+      "gppd_idnr": "GEODB0042167",
+      "capacity_mw": 160,
+      "latitude": 56.3843,
+      "longitude": 22.1841,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 46.25",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kaunas Hydroelectric Power Plant Lithuania",
+      "gppd_idnr": "GEODB0042162",
+      "capacity_mw": 100.8,
+      "latitude": 54.8741,
+      "longitude": 24,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 425.24; 2014: 369.11; 2015: 259.16; 2016: 411.31; 2017: 451.97",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Lithuania — Power Plants - Free Download",
+    "description": "Power plants located in Lithuania from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lithuania — Power Plants | ListBase",
+    "seo_description": "Download Lithuania — Power Plants dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

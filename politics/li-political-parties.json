@@ -1,0 +1,211 @@
+{
+  "id": "li-political-parties",
+  "name": "Liechtenstein — Political Parties",
+  "title": "Liechtenstein — Political Parties",
+  "description": "Political parties of Liechtenstein from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6760,
+      "name_short": "VP",
+      "name": "Christlich-Soziale Volkspartei",
+      "name_english": "Christian-Social People's Party",
+      "name_other": "",
+      "year_first": 1918,
+      "year_last": 1936,
+      "share": 73.3,
+      "share_year": 1922,
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian-Social_People%27s_Party_(Liechtenstein)",
+      "description": "11 of 15 seats in 1922 Liechtenstein general election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 993,
+      "name_short": "FBP",
+      "name": "Fortschrittliche Bürgerpartei in Liechtenstein",
+      "name_english": "Progressive Citizens' Party",
+      "name_other": "",
+      "year_first": 1918,
+      "year_last": "",
+      "share": 54.7,
+      "share_year": 1945,
+      "wikipedia": "https://en.wikipedia.org/wiki/Progressive_Citizens%27_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 918,
+      "name_short": "VU",
+      "name": "Vaterländische Union",
+      "name_english": "Patriotic Union",
+      "name_other": "",
+      "year_first": 1936,
+      "year_last": "",
+      "share": 53.5,
+      "share_year": 1982,
+      "wikipedia": "https://en.wikipedia.org/wiki/Patriotic_Union_(Liechtenstein)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4178,
+      "name_short": "DU",
+      "name": "Die Unabhängigen",
+      "name_english": "The Independents",
+      "name_other": "",
+      "year_first": 2013,
+      "year_last": "",
+      "share": 15.3,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Independents_(Liechtenstein)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1795,
+      "name_short": "FL",
+      "name": "Freie Liste",
+      "name_english": "Free List",
+      "name_other": "",
+      "year_first": 1985,
+      "year_last": "",
+      "share": 13,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Free_List_(Liechtenstein)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3740,
+      "name_short": "CSP",
+      "name": "Christlich-Soziale Partei",
+      "name_english": "Christian Social Party",
+      "name_other": "",
+      "year_first": 1962,
+      "year_last": 1974,
+      "share": 10.1,
+      "share_year": 1962,
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_Social_Party_(Liechtenstein)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4279,
+      "name_short": "UEK",
+      "name": "Partei der Unselbständig Erwerbenden und Kleinbauern/Wahlliste der unselbständig Erwerbenden und Kleinbauern",
+      "name_english": "Workers and Peasants Party",
+      "name_other": "",
+      "year_first": 1953,
+      "year_last": 1953,
+      "share": 6.9,
+      "share_year": 1953,
+      "wikipedia": "https://de.wikipedia.org/wiki/Wahlliste_der_unselbst%C3%A4ndig_Erwerbenden_und_Kleinbauern",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4179,
+      "name_short": "ULL",
+      "name": "Überparteiliche Liste Liechtenstein",
+      "name_english": "Nonpartisan List/Non-Party List",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": 1990,
+      "share": 3.2,
+      "share_year": 1989,
+      "wikipedia": "https://en.wikipedia.org/wiki/Non-Party_List",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Liechtenstein — Political Parties - Free Download",
+    "description": "Political parties of Liechtenstein from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Liechtenstein — Political Parties | ListBase",
+    "seo_description": "Download Liechtenstein — Political Parties dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

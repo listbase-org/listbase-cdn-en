@@ -1,0 +1,181 @@
+{
+  "id": "lc-political-parties",
+  "name": "Saint Lucia — Political Parties",
+  "title": "Saint Lucia — Political Parties",
+  "description": "Political parties of Saint Lucia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3784,
+      "name_short": "SLC",
+      "name": "Saint Lucia Labour Party",
+      "name_english": "Saint Lucia Labour Party",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": 2006,
+      "share": 66.5,
+      "share_year": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Lucia_Labour_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3776,
+      "name_short": "UWP",
+      "name": "United Workers Party",
+      "name_english": "United Workers Party",
+      "name_other": "",
+      "year_first": 1964,
+      "year_last": 2006,
+      "share": 58.6,
+      "share_year": 1969,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Workers_Party_(Saint_Lucia)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3778,
+      "name_short": "PPP",
+      "name": "People's Progressive Party",
+      "name_english": "People's Progressive Party",
+      "name_other": "",
+      "year_first": 1951,
+      "year_last": 1961,
+      "share": 35.8,
+      "share_year": 1954,
+      "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Progressive_Party_(Saint_Lucia)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3780,
+      "name_short": "PLP",
+      "name": "Progressive Labour Party",
+      "name_english": "Progressive Labour Party",
+      "name_other": "",
+      "year_first": 1982,
+      "year_last": 1992,
+      "share": 27.1,
+      "share_year": 1982,
+      "wikipedia": "https://en.wikipedia.org/wiki/Progressive_Labour_Party_(Saint_Lucia)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7368,
+      "name_short": "SLP-UF",
+      "name": "Saint Lucia Labour Party-United Front",
+      "name_english": "Saint Lucia Labour Party-United Front",
+      "name_other": "",
+      "year_first": 1969,
+      "year_last": 1969,
+      "share": 5.8,
+      "share_year": 1969,
+      "wikipedia": "",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3785,
+      "name_short": "NaAl",
+      "name": "National Alliance",
+      "name_english": "National Alliance",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 2001,
+      "share": 3.6,
+      "share_year": 2001,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Alliance_(Saint_Lucia)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Saint Lucia — Political Parties - Free Download",
+    "description": "Political parties of Saint Lucia from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Saint Lucia — Political Parties | ListBase",
+    "seo_description": "Download Saint Lucia — Political Parties dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

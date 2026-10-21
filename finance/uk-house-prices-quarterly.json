@@ -1,0 +1,2081 @@
+{
+  "id": "uk-house-prices-quarterly",
+  "name": "UK House Prices — Quarterly",
+  "title": "UK House Prices — Quarterly",
+  "description": "Quarterly average UK house prices in GBP from 1953 onwards, broken down by property type (All, New, Modern, Older). Source: Nationwide via datasets/house-prices-uk.",
+  "category": "finance",
+  "source": "https://github.com/datasets/house-prices-uk",
+  "source_url": "https://github.com/datasets/house-prices-uk",
+  "updated": "2026-04",
+  "record_count": 290,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "price_all_gbp",
+      "label": "Price All Gbp",
+      "type": "number"
+    },
+    {
+      "key": "price_new_gbp",
+      "label": "Price New Gbp",
+      "type": "number"
+    },
+    {
+      "key": "price_modern_gbp",
+      "label": "Price Modern Gbp",
+      "type": "number"
+    },
+    {
+      "key": "price_older_gbp",
+      "label": "Price Older Gbp",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "date": "1953-02-01",
+      "price_all_gbp": 1891,
+      "price_new_gbp": 2107,
+      "price_modern_gbp": 2002,
+      "price_older_gbp": 1542
+    },
+    {
+      "date": "1953-05-01",
+      "price_all_gbp": 1891,
+      "price_new_gbp": 2107,
+      "price_modern_gbp": 2002,
+      "price_older_gbp": 1542
+    },
+    {
+      "date": "1953-08-01",
+      "price_all_gbp": 1881,
+      "price_new_gbp": 2117,
+      "price_modern_gbp": 2002,
+      "price_older_gbp": 1524
+    },
+    {
+      "date": "1953-11-01",
+      "price_all_gbp": 1872,
+      "price_new_gbp": 2117,
+      "price_modern_gbp": 1975,
+      "price_older_gbp": 1542
+    },
+    {
+      "date": "1954-02-01",
+      "price_all_gbp": 1863,
+      "price_new_gbp": 2117,
+      "price_modern_gbp": 1957,
+      "price_older_gbp": 1524
+    },
+    {
+      "date": "1954-05-01",
+      "price_all_gbp": 1872,
+      "price_new_gbp": 2117,
+      "price_modern_gbp": 1984,
+      "price_older_gbp": 1515
+    },
+    {
+      "date": "1954-08-01",
+      "price_all_gbp": 1863,
+      "price_new_gbp": 2127,
+      "price_modern_gbp": 1948,
+      "price_older_gbp": 1524
+    },
+    {
+      "date": "1954-11-01",
+      "price_all_gbp": 1853,
+      "price_new_gbp": 2127,
+      "price_modern_gbp": 1939,
+      "price_older_gbp": 1515
+    },
+    {
+      "date": "1955-02-01",
+      "price_all_gbp": 1900,
+      "price_new_gbp": 2167,
+      "price_modern_gbp": 1984,
+      "price_older_gbp": 1569
+    },
+    {
+      "date": "1955-05-01",
+      "price_all_gbp": 1937,
+      "price_new_gbp": 2217,
+      "price_modern_gbp": 2037,
+      "price_older_gbp": 1578
+    },
+    {
+      "date": "1955-08-01",
+      "price_all_gbp": 1937,
+      "price_new_gbp": 2217,
+      "price_modern_gbp": 2037,
+      "price_older_gbp": 1587
+    },
+    {
+      "date": "1955-11-01",
+      "price_all_gbp": 1937,
+      "price_new_gbp": 2217,
+      "price_modern_gbp": 2029,
+      "price_older_gbp": 1587
+    },
+    {
+      "date": "1956-02-01",
+      "price_all_gbp": 1975,
+      "price_new_gbp": 2278,
+      "price_modern_gbp": 2082,
+      "price_older_gbp": 1596
+    },
+    {
+      "date": "1956-05-01",
+      "price_all_gbp": 2003,
+      "price_new_gbp": 2318,
+      "price_modern_gbp": 2109,
+      "price_older_gbp": 1631
+    },
+    {
+      "date": "1956-08-01",
+      "price_all_gbp": 2003,
+      "price_new_gbp": 2318,
+      "price_modern_gbp": 2109,
+      "price_older_gbp": 1631
+    },
+    {
+      "date": "1956-11-01",
+      "price_all_gbp": 2003,
+      "price_new_gbp": 2328,
+      "price_modern_gbp": 2100,
+      "price_older_gbp": 1631
+    },
+    {
+      "date": "1957-02-01",
+      "price_all_gbp": 2021,
+      "price_new_gbp": 2348,
+      "price_modern_gbp": 2109,
+      "price_older_gbp": 1658
+    },
+    {
+      "date": "1957-05-01",
+      "price_all_gbp": 2021,
+      "price_new_gbp": 2369,
+      "price_modern_gbp": 2100,
+      "price_older_gbp": 1667
+    },
+    {
+      "date": "1957-08-01",
+      "price_all_gbp": 2030,
+      "price_new_gbp": 2379,
+      "price_modern_gbp": 2109,
+      "price_older_gbp": 1667
+    },
+    {
+      "date": "1957-11-01",
+      "price_all_gbp": 2030,
+      "price_new_gbp": 2399,
+      "price_modern_gbp": 2109,
+      "price_older_gbp": 1667
+    },
+    {
+      "date": "1958-02-01",
+      "price_all_gbp": 2049,
+      "price_new_gbp": 2409,
+      "price_modern_gbp": 2118,
+      "price_older_gbp": 1685
+    },
+    {
+      "date": "1958-05-01",
+      "price_all_gbp": 2049,
+      "price_new_gbp": 2409,
+      "price_modern_gbp": 2109,
+      "price_older_gbp": 1694
+    },
+    {
+      "date": "1958-08-01",
+      "price_all_gbp": 2058,
+      "price_new_gbp": 2419,
+      "price_modern_gbp": 2136,
+      "price_older_gbp": 1694
+    },
+    {
+      "date": "1958-11-01",
+      "price_all_gbp": 2068,
+      "price_new_gbp": 2429,
+      "price_modern_gbp": 2145,
+      "price_older_gbp": 1703
+    },
+    {
+      "date": "1959-02-01",
+      "price_all_gbp": 2077,
+      "price_new_gbp": 2439,
+      "price_modern_gbp": 2145,
+      "price_older_gbp": 1721
+    },
+    {
+      "date": "1959-05-01",
+      "price_all_gbp": 2105,
+      "price_new_gbp": 2459,
+      "price_modern_gbp": 2172,
+      "price_older_gbp": 1748
+    },
+    {
+      "date": "1959-08-01",
+      "price_all_gbp": 2124,
+      "price_new_gbp": 2490,
+      "price_modern_gbp": 2189,
+      "price_older_gbp": 1757
+    },
+    {
+      "date": "1959-11-01",
+      "price_all_gbp": 2170,
+      "price_new_gbp": 2560,
+      "price_modern_gbp": 2243,
+      "price_older_gbp": 1784
+    },
+    {
+      "date": "1960-02-01",
+      "price_all_gbp": 2189,
+      "price_new_gbp": 2600,
+      "price_modern_gbp": 2261,
+      "price_older_gbp": 1811
+    },
+    {
+      "date": "1960-05-01",
+      "price_all_gbp": 2235,
+      "price_new_gbp": 2661,
+      "price_modern_gbp": 2297,
+      "price_older_gbp": 1855
+    },
+    {
+      "date": "1960-08-01",
+      "price_all_gbp": 2301,
+      "price_new_gbp": 2721,
+      "price_modern_gbp": 2386,
+      "price_older_gbp": 1891
+    },
+    {
+      "date": "1960-11-01",
+      "price_all_gbp": 2328,
+      "price_new_gbp": 2762,
+      "price_modern_gbp": 2404,
+      "price_older_gbp": 1927
+    },
+    {
+      "date": "1961-02-01",
+      "price_all_gbp": 2403,
+      "price_new_gbp": 2893,
+      "price_modern_gbp": 2484,
+      "price_older_gbp": 1963
+    },
+    {
+      "date": "1961-05-01",
+      "price_all_gbp": 2440,
+      "price_new_gbp": 2923,
+      "price_modern_gbp": 2502,
+      "price_older_gbp": 2026
+    },
+    {
+      "date": "1961-08-01",
+      "price_all_gbp": 2468,
+      "price_new_gbp": 2933,
+      "price_modern_gbp": 2520,
+      "price_older_gbp": 2071
+    },
+    {
+      "date": "1961-11-01",
+      "price_all_gbp": 2543,
+      "price_new_gbp": 2973,
+      "price_modern_gbp": 2618,
+      "price_older_gbp": 2115
+    },
+    {
+      "date": "1962-02-01",
+      "price_all_gbp": 2552,
+      "price_new_gbp": 2994,
+      "price_modern_gbp": 2627,
+      "price_older_gbp": 2124
+    },
+    {
+      "date": "1962-05-01",
+      "price_all_gbp": 2599,
+      "price_new_gbp": 3084,
+      "price_modern_gbp": 2663,
+      "price_older_gbp": 2169
+    },
+    {
+      "date": "1962-08-01",
+      "price_all_gbp": 2645,
+      "price_new_gbp": 3125,
+      "price_modern_gbp": 2708,
+      "price_older_gbp": 2205
+    },
+    {
+      "date": "1962-11-01",
+      "price_all_gbp": 2673,
+      "price_new_gbp": 3155,
+      "price_modern_gbp": 2726,
+      "price_older_gbp": 2241
+    },
+    {
+      "date": "1963-02-01",
+      "price_all_gbp": 2748,
+      "price_new_gbp": 3185,
+      "price_modern_gbp": 2833,
+      "price_older_gbp": 2295
+    },
+    {
+      "date": "1963-05-01",
+      "price_all_gbp": 2822,
+      "price_new_gbp": 3256,
+      "price_modern_gbp": 2922,
+      "price_older_gbp": 2357
+    },
+    {
+      "date": "1963-08-01",
+      "price_all_gbp": 2850,
+      "price_new_gbp": 3286,
+      "price_modern_gbp": 2958,
+      "price_older_gbp": 2375
+    },
+    {
+      "date": "1963-11-01",
+      "price_all_gbp": 2943,
+      "price_new_gbp": 3326,
+      "price_modern_gbp": 3074,
+      "price_older_gbp": 2456
+    },
+    {
+      "date": "1964-02-01",
+      "price_all_gbp": 2999,
+      "price_new_gbp": 3377,
+      "price_modern_gbp": 3101,
+      "price_older_gbp": 2528
+    },
+    {
+      "date": "1964-05-01",
+      "price_all_gbp": 3092,
+      "price_new_gbp": 3457,
+      "price_modern_gbp": 3217,
+      "price_older_gbp": 2582
+    },
+    {
+      "date": "1964-08-01",
+      "price_all_gbp": 3139,
+      "price_new_gbp": 3578,
+      "price_modern_gbp": 3244,
+      "price_older_gbp": 2635
+    },
+    {
+      "date": "1964-11-01",
+      "price_all_gbp": 3185,
+      "price_new_gbp": 3598,
+      "price_modern_gbp": 3333,
+      "price_older_gbp": 2635
+    },
+    {
+      "date": "1965-02-01",
+      "price_all_gbp": 3269,
+      "price_new_gbp": 3699,
+      "price_modern_gbp": 3476,
+      "price_older_gbp": 2644
+    },
+    {
+      "date": "1965-05-01",
+      "price_all_gbp": 3344,
+      "price_new_gbp": 3800,
+      "price_modern_gbp": 3494,
+      "price_older_gbp": 2779
+    },
+    {
+      "date": "1965-08-01",
+      "price_all_gbp": 3381,
+      "price_new_gbp": 3840,
+      "price_modern_gbp": 3512,
+      "price_older_gbp": 2815
+    },
+    {
+      "date": "1965-11-01",
+      "price_all_gbp": 3418,
+      "price_new_gbp": 3860,
+      "price_modern_gbp": 3592,
+      "price_older_gbp": 2824
+    },
+    {
+      "date": "1966-02-01",
+      "price_all_gbp": 3465,
+      "price_new_gbp": 3891,
+      "price_modern_gbp": 3655,
+      "price_older_gbp": 2832
+    },
+    {
+      "date": "1966-05-01",
+      "price_all_gbp": 3558,
+      "price_new_gbp": 3991,
+      "price_modern_gbp": 3726,
+      "price_older_gbp": 2958
+    },
+    {
+      "date": "1966-08-01",
+      "price_all_gbp": 3558,
+      "price_new_gbp": 4062,
+      "price_modern_gbp": 3753,
+      "price_older_gbp": 2895
+    },
+    {
+      "date": "1966-11-01",
+      "price_all_gbp": 3586,
+      "price_new_gbp": 4112,
+      "price_modern_gbp": 3726,
+      "price_older_gbp": 2967
+    },
+    {
+      "date": "1967-02-01",
+      "price_all_gbp": 3642,
+      "price_new_gbp": 4183,
+      "price_modern_gbp": 3807,
+      "price_older_gbp": 2994
+    },
+    {
+      "date": "1967-05-01",
+      "price_all_gbp": 3698,
+      "price_new_gbp": 4223,
+      "price_modern_gbp": 3878,
+      "price_older_gbp": 3039
+    },
+    {
+      "date": "1967-08-01",
+      "price_all_gbp": 3763,
+      "price_new_gbp": 4243,
+      "price_modern_gbp": 3941,
+      "price_older_gbp": 3128
+    },
+    {
+      "date": "1967-11-01",
+      "price_all_gbp": 3837,
+      "price_new_gbp": 4334,
+      "price_modern_gbp": 4003,
+      "price_older_gbp": 3200
+    },
+    {
+      "date": "1968-02-01",
+      "price_all_gbp": 3903,
+      "price_new_gbp": 4344,
+      "price_modern_gbp": 4084,
+      "price_older_gbp": 3272
+    },
+    {
+      "date": "1968-05-01",
+      "price_all_gbp": 3996,
+      "price_new_gbp": 4495,
+      "price_modern_gbp": 4182,
+      "price_older_gbp": 3325
+    },
+    {
+      "date": "1968-08-01",
+      "price_all_gbp": 4052,
+      "price_new_gbp": 4606,
+      "price_modern_gbp": 4200,
+      "price_older_gbp": 3397
+    },
+    {
+      "date": "1968-11-01",
+      "price_all_gbp": 4089,
+      "price_new_gbp": 4657,
+      "price_modern_gbp": 4236,
+      "price_older_gbp": 3424
+    },
+    {
+      "date": "1969-02-01",
+      "price_all_gbp": 4145,
+      "price_new_gbp": 4657,
+      "price_modern_gbp": 4307,
+      "price_older_gbp": 3496
+    },
+    {
+      "date": "1969-05-01",
+      "price_all_gbp": 4201,
+      "price_new_gbp": 4697,
+      "price_modern_gbp": 4379,
+      "price_older_gbp": 3532
+    },
+    {
+      "date": "1969-08-01",
+      "price_all_gbp": 4229,
+      "price_new_gbp": 4798,
+      "price_modern_gbp": 4370,
+      "price_older_gbp": 3576
+    },
+    {
+      "date": "1969-11-01",
+      "price_all_gbp": 4312,
+      "price_new_gbp": 4848,
+      "price_modern_gbp": 4477,
+      "price_older_gbp": 3630
+    },
+    {
+      "date": "1970-02-01",
+      "price_all_gbp": 4378,
+      "price_new_gbp": 4939,
+      "price_modern_gbp": 4522,
+      "price_older_gbp": 3711
+    },
+    {
+      "date": "1970-05-01",
+      "price_all_gbp": 4452,
+      "price_new_gbp": 4949,
+      "price_modern_gbp": 4620,
+      "price_older_gbp": 3774
+    },
+    {
+      "date": "1970-08-01",
+      "price_all_gbp": 4508,
+      "price_new_gbp": 5080,
+      "price_modern_gbp": 4629,
+      "price_older_gbp": 3845
+    },
+    {
+      "date": "1970-11-01",
+      "price_all_gbp": 4582,
+      "price_new_gbp": 5161,
+      "price_modern_gbp": 4718,
+      "price_older_gbp": 3908
+    },
+    {
+      "date": "1971-02-01",
+      "price_all_gbp": 4741,
+      "price_new_gbp": 5352,
+      "price_modern_gbp": 4888,
+      "price_older_gbp": 4043
+    },
+    {
+      "date": "1971-05-01",
+      "price_all_gbp": 4908,
+      "price_new_gbp": 5584,
+      "price_modern_gbp": 5067,
+      "price_older_gbp": 4159
+    },
+    {
+      "date": "1971-08-01",
+      "price_all_gbp": 5244,
+      "price_new_gbp": 5916,
+      "price_modern_gbp": 5406,
+      "price_older_gbp": 4473
+    },
+    {
+      "date": "1971-11-01",
+      "price_all_gbp": 5533,
+      "price_new_gbp": 6239,
+      "price_modern_gbp": 5746,
+      "price_older_gbp": 4670
+    },
+    {
+      "date": "1972-02-01",
+      "price_all_gbp": 6008,
+      "price_new_gbp": 6733,
+      "price_modern_gbp": 6202,
+      "price_older_gbp": 5136
+    },
+    {
+      "date": "1972-05-01",
+      "price_all_gbp": 6557,
+      "price_new_gbp": 7267,
+      "price_modern_gbp": 6836,
+      "price_older_gbp": 5531
+    },
+    {
+      "date": "1972-08-01",
+      "price_all_gbp": 7395,
+      "price_new_gbp": 8396,
+      "price_modern_gbp": 7632,
+      "price_older_gbp": 6257
+    },
+    {
+      "date": "1972-11-01",
+      "price_all_gbp": 7880,
+      "price_new_gbp": 9091,
+      "price_modern_gbp": 8078,
+      "price_older_gbp": 6687
+    },
+    {
+      "date": "1973-02-01",
+      "price_all_gbp": 8396,
+      "price_new_gbp": 9844,
+      "price_modern_gbp": 8551,
+      "price_older_gbp": 7147
+    },
+    {
+      "date": "1973-05-01",
+      "price_all_gbp": 8832,
+      "price_new_gbp": 10232,
+      "price_modern_gbp": 9067,
+      "price_older_gbp": 7475
+    },
+    {
+      "date": "1973-08-01",
+      "price_all_gbp": 9183,
+      "price_new_gbp": 10504,
+      "price_modern_gbp": 9438,
+      "price_older_gbp": 7794
+    },
+    {
+      "date": "1973-11-01",
+      "price_all_gbp": 9767,
+      "price_new_gbp": 11088,
+      "price_modern_gbp": 9817,
+      "price_older_gbp": 8353
+    },
+    {
+      "date": "1974-02-01",
+      "price_all_gbp": 9928,
+      "price_new_gbp": 11242,
+      "price_modern_gbp": 9987,
+      "price_older_gbp": 8496
+    },
+    {
+      "date": "1974-05-01",
+      "price_all_gbp": 10027,
+      "price_new_gbp": 11374,
+      "price_modern_gbp": 10025,
+      "price_older_gbp": 8648
+    },
+    {
+      "date": "1974-08-01",
+      "price_all_gbp": 10148,
+      "price_new_gbp": 11450,
+      "price_modern_gbp": 10109,
+      "price_older_gbp": 8829
+    },
+    {
+      "date": "1974-11-01",
+      "price_all_gbp": 10208,
+      "price_new_gbp": 11626,
+      "price_modern_gbp": 10166,
+      "price_older_gbp": 8877
+    },
+    {
+      "date": "1975-02-01",
+      "price_all_gbp": 10388,
+      "price_new_gbp": 11780,
+      "price_modern_gbp": 10279,
+      "price_older_gbp": 9096
+    },
+    {
+      "date": "1975-05-01",
+      "price_all_gbp": 10728,
+      "price_new_gbp": 12265,
+      "price_modern_gbp": 10626,
+      "price_older_gbp": 9334
+    },
+    {
+      "date": "1975-08-01",
+      "price_all_gbp": 10978,
+      "price_new_gbp": 12627,
+      "price_modern_gbp": 10872,
+      "price_older_gbp": 9534
+    },
+    {
+      "date": "1975-11-01",
+      "price_all_gbp": 11288,
+      "price_new_gbp": 13144,
+      "price_modern_gbp": 11201,
+      "price_older_gbp": 9725
+    },
+    {
+      "date": "1976-02-01",
+      "price_all_gbp": 11519,
+      "price_new_gbp": 13463,
+      "price_modern_gbp": 11417,
+      "price_older_gbp": 9924
+    },
+    {
+      "date": "1976-05-01",
+      "price_all_gbp": 11739,
+      "price_new_gbp": 13793,
+      "price_modern_gbp": 11586,
+      "price_older_gbp": 10144
+    },
+    {
+      "date": "1976-08-01",
+      "price_all_gbp": 11999,
+      "price_new_gbp": 14134,
+      "price_modern_gbp": 11916,
+      "price_older_gbp": 10258
+    },
+    {
+      "date": "1976-11-01",
+      "price_all_gbp": 12209,
+      "price_new_gbp": 14508,
+      "price_modern_gbp": 12057,
+      "price_older_gbp": 10468
+    },
+    {
+      "date": "1977-02-01",
+      "price_all_gbp": 12409,
+      "price_new_gbp": 14816,
+      "price_modern_gbp": 12236,
+      "price_older_gbp": 10658
+    },
+    {
+      "date": "1977-05-01",
+      "price_all_gbp": 12689,
+      "price_new_gbp": 15267,
+      "price_modern_gbp": 12490,
+      "price_older_gbp": 10858
+    },
+    {
+      "date": "1977-08-01",
+      "price_all_gbp": 12970,
+      "price_new_gbp": 15641,
+      "price_modern_gbp": 12745,
+      "price_older_gbp": 11115
+    },
+    {
+      "date": "1977-11-01",
+      "price_all_gbp": 13150,
+      "price_new_gbp": 16125,
+      "price_modern_gbp": 12905,
+      "price_older_gbp": 11200
+    },
+    {
+      "date": "1978-02-01",
+      "price_all_gbp": 13820,
+      "price_new_gbp": 16851,
+      "price_modern_gbp": 13573,
+      "price_older_gbp": 11791
+    },
+    {
+      "date": "1978-05-01",
+      "price_all_gbp": 14491,
+      "price_new_gbp": 17577,
+      "price_modern_gbp": 14251,
+      "price_older_gbp": 12372
+    },
+    {
+      "date": "1978-08-01",
+      "price_all_gbp": 15912,
+      "price_new_gbp": 19216,
+      "price_modern_gbp": 15822,
+      "price_older_gbp": 13467
+    },
+    {
+      "date": "1978-11-01",
+      "price_all_gbp": 16823,
+      "price_new_gbp": 20283,
+      "price_modern_gbp": 16735,
+      "price_older_gbp": 14296
+    },
+    {
+      "date": "1979-02-01",
+      "price_all_gbp": 17793,
+      "price_new_gbp": 21658,
+      "price_modern_gbp": 17620,
+      "price_older_gbp": 15210
+    },
+    {
+      "date": "1979-05-01",
+      "price_all_gbp": 19075,
+      "price_new_gbp": 22923,
+      "price_modern_gbp": 18900,
+      "price_older_gbp": 16420
+    },
+    {
+      "date": "1979-08-01",
+      "price_all_gbp": 20485,
+      "price_new_gbp": 24716,
+      "price_modern_gbp": 20180,
+      "price_older_gbp": 17801
+    },
+    {
+      "date": "1979-11-01",
+      "price_all_gbp": 21966,
+      "price_new_gbp": 26124,
+      "price_modern_gbp": 21733,
+      "price_older_gbp": 19144
+    },
+    {
+      "date": "1980-02-01",
+      "price_all_gbp": 22677,
+      "price_new_gbp": 27839,
+      "price_modern_gbp": 23067,
+      "price_older_gbp": 19605
+    },
+    {
+      "date": "1980-05-01",
+      "price_all_gbp": 23348,
+      "price_new_gbp": 28830,
+      "price_modern_gbp": 22986,
+      "price_older_gbp": 20220
+    },
+    {
+      "date": "1980-08-01",
+      "price_all_gbp": 23628,
+      "price_new_gbp": 29314,
+      "price_modern_gbp": 23230,
+      "price_older_gbp": 20497
+    },
+    {
+      "date": "1980-11-01",
+      "price_all_gbp": 23497,
+      "price_new_gbp": 29468,
+      "price_modern_gbp": 23070,
+      "price_older_gbp": 20373
+    },
+    {
+      "date": "1981-02-01",
+      "price_all_gbp": 23730,
+      "price_new_gbp": 30481,
+      "price_modern_gbp": 23488,
+      "price_older_gbp": 20444
+    },
+    {
+      "date": "1981-05-01",
+      "price_all_gbp": 24098,
+      "price_new_gbp": 30985,
+      "price_modern_gbp": 23814,
+      "price_older_gbp": 20801
+    },
+    {
+      "date": "1981-08-01",
+      "price_all_gbp": 24188,
+      "price_new_gbp": 30875,
+      "price_modern_gbp": 24040,
+      "price_older_gbp": 20820
+    },
+    {
+      "date": "1981-11-01",
+      "price_all_gbp": 23798,
+      "price_new_gbp": 31557,
+      "price_modern_gbp": 23578,
+      "price_older_gbp": 20334
+    },
+    {
+      "date": "1982-02-01",
+      "price_all_gbp": 24177,
+      "price_new_gbp": 32107,
+      "price_modern_gbp": 23805,
+      "price_older_gbp": 20715
+    },
+    {
+      "date": "1982-05-01",
+      "price_all_gbp": 24679,
+      "price_new_gbp": 32426,
+      "price_modern_gbp": 24482,
+      "price_older_gbp": 21211
+    },
+    {
+      "date": "1982-08-01",
+      "price_all_gbp": 24969,
+      "price_new_gbp": 32724,
+      "price_modern_gbp": 24943,
+      "price_older_gbp": 21420
+    },
+    {
+      "date": "1982-11-01",
+      "price_all_gbp": 25580,
+      "price_new_gbp": 33471,
+      "price_modern_gbp": 25537,
+      "price_older_gbp": 22030
+    },
+    {
+      "date": "1983-02-01",
+      "price_all_gbp": 26307,
+      "price_new_gbp": 33868,
+      "price_modern_gbp": 26332,
+      "price_older_gbp": 22665
+    },
+    {
+      "date": "1983-05-01",
+      "price_all_gbp": 27386,
+      "price_new_gbp": 35324,
+      "price_modern_gbp": 27359,
+      "price_older_gbp": 23594
+    },
+    {
+      "date": "1983-08-01",
+      "price_all_gbp": 28175,
+      "price_new_gbp": 36137,
+      "price_modern_gbp": 28202,
+      "price_older_gbp": 24297
+    },
+    {
+      "date": "1983-11-01",
+      "price_all_gbp": 28623,
+      "price_new_gbp": 37085,
+      "price_modern_gbp": 28571,
+      "price_older_gbp": 24591
+    },
+    {
+      "date": "1984-02-01",
+      "price_all_gbp": 29675,
+      "price_new_gbp": 38101,
+      "price_modern_gbp": 29677,
+      "price_older_gbp": 25770
+    },
+    {
+      "date": "1984-05-01",
+      "price_all_gbp": 30833,
+      "price_new_gbp": 39219,
+      "price_modern_gbp": 30887,
+      "price_older_gbp": 26880
+    },
+    {
+      "date": "1984-08-01",
+      "price_all_gbp": 31254,
+      "price_new_gbp": 39455,
+      "price_modern_gbp": 31440,
+      "price_older_gbp": 27379
+    },
+    {
+      "date": "1984-11-01",
+      "price_all_gbp": 32543,
+      "price_new_gbp": 40946,
+      "price_modern_gbp": 32626,
+      "price_older_gbp": 28376
+    },
+    {
+      "date": "1985-02-01",
+      "price_all_gbp": 33200,
+      "price_new_gbp": 42334,
+      "price_modern_gbp": 33046,
+      "price_older_gbp": 28966
+    },
+    {
+      "date": "1985-05-01",
+      "price_all_gbp": 34174,
+      "price_new_gbp": 43080,
+      "price_modern_gbp": 34047,
+      "price_older_gbp": 29895
+    },
+    {
+      "date": "1985-08-01",
+      "price_all_gbp": 34700,
+      "price_new_gbp": 43994,
+      "price_modern_gbp": 34574,
+      "price_older_gbp": 30348
+    },
+    {
+      "date": "1985-11-01",
+      "price_all_gbp": 35436,
+      "price_new_gbp": 45417,
+      "price_modern_gbp": 35180,
+      "price_older_gbp": 31028
+    },
+    {
+      "date": "1986-02-01",
+      "price_all_gbp": 35647,
+      "price_new_gbp": 45485,
+      "price_modern_gbp": 35285,
+      "price_older_gbp": 31368
+    },
+    {
+      "date": "1986-05-01",
+      "price_all_gbp": 37015,
+      "price_new_gbp": 46907,
+      "price_modern_gbp": 36681,
+      "price_older_gbp": 32682
+    },
+    {
+      "date": "1986-08-01",
+      "price_all_gbp": 38251,
+      "price_new_gbp": 48668,
+      "price_modern_gbp": 37866,
+      "price_older_gbp": 33748
+    },
+    {
+      "date": "1986-11-01",
+      "price_all_gbp": 39593,
+      "price_new_gbp": 50395,
+      "price_modern_gbp": 39366,
+      "price_older_gbp": 34949
+    },
+    {
+      "date": "1987-02-01",
+      "price_all_gbp": 40882,
+      "price_new_gbp": 50903,
+      "price_modern_gbp": 40472,
+      "price_older_gbp": 36467
+    },
+    {
+      "date": "1987-05-01",
+      "price_all_gbp": 42987,
+      "price_new_gbp": 53206,
+      "price_modern_gbp": 42500,
+      "price_older_gbp": 38371
+    },
+    {
+      "date": "1987-08-01",
+      "price_all_gbp": 44434,
+      "price_new_gbp": 54933,
+      "price_modern_gbp": 43922,
+      "price_older_gbp": 39799
+    },
+    {
+      "date": "1987-11-01",
+      "price_all_gbp": 44355,
+      "price_new_gbp": 55374,
+      "price_modern_gbp": 43632,
+      "price_older_gbp": 39663
+    },
+    {
+      "date": "1988-02-01",
+      "price_all_gbp": 45091,
+      "price_new_gbp": 55713,
+      "price_modern_gbp": 44633,
+      "price_older_gbp": 39799
+    },
+    {
+      "date": "1988-05-01",
+      "price_all_gbp": 48932,
+      "price_new_gbp": 60318,
+      "price_modern_gbp": 48530,
+      "price_older_gbp": 43086
+    },
+    {
+      "date": "1988-08-01",
+      "price_all_gbp": 54352,
+      "price_new_gbp": 66753,
+      "price_modern_gbp": 54455,
+      "price_older_gbp": 47460
+    },
+    {
+      "date": "1988-11-01",
+      "price_all_gbp": 57245,
+      "price_new_gbp": 71021,
+      "price_modern_gbp": 57667,
+      "price_older_gbp": 49840
+    },
+    {
+      "date": "1989-02-01",
+      "price_all_gbp": 59534,
+      "price_new_gbp": 71495,
+      "price_modern_gbp": 59458,
+      "price_older_gbp": 52967
+    },
+    {
+      "date": "1989-05-01",
+      "price_all_gbp": 62244,
+      "price_new_gbp": 72714,
+      "price_modern_gbp": 62060,
+      "price_older_gbp": 55598
+    },
+    {
+      "date": "1989-08-01",
+      "price_all_gbp": 62782,
+      "price_new_gbp": 72366,
+      "price_modern_gbp": 61551,
+      "price_older_gbp": 56785
+    },
+    {
+      "date": "1989-11-01",
+      "price_all_gbp": 61495,
+      "price_new_gbp": 71515,
+      "price_modern_gbp": 60666,
+      "price_older_gbp": 55824
+    },
+    {
+      "date": "1990-02-01",
+      "price_all_gbp": 59587,
+      "price_new_gbp": 69452,
+      "price_modern_gbp": 59038,
+      "price_older_gbp": 54338
+    },
+    {
+      "date": "1990-05-01",
+      "price_all_gbp": 58982,
+      "price_new_gbp": 68243,
+      "price_modern_gbp": 58509,
+      "price_older_gbp": 54055
+    },
+    {
+      "date": "1990-08-01",
+      "price_all_gbp": 57245,
+      "price_new_gbp": 67296,
+      "price_modern_gbp": 57422,
+      "price_older_gbp": 52333
+    },
+    {
+      "date": "1990-11-01",
+      "price_all_gbp": 54919,
+      "price_new_gbp": 64971,
+      "price_modern_gbp": 55768,
+      "price_older_gbp": 49902
+    },
+    {
+      "date": "1991-02-01",
+      "price_all_gbp": 54547,
+      "price_new_gbp": 64397,
+      "price_modern_gbp": 55918,
+      "price_older_gbp": 49197
+    },
+    {
+      "date": "1991-05-01",
+      "price_all_gbp": 55418,
+      "price_new_gbp": 65746,
+      "price_modern_gbp": 55793,
+      "price_older_gbp": 50960
+    },
+    {
+      "date": "1991-08-01",
+      "price_all_gbp": 54903,
+      "price_new_gbp": 65052,
+      "price_modern_gbp": 56139,
+      "price_older_gbp": 50085
+    },
+    {
+      "date": "1991-11-01",
+      "price_all_gbp": 53635,
+      "price_new_gbp": 63580,
+      "price_modern_gbp": 54790,
+      "price_older_gbp": 49074
+    },
+    {
+      "date": "1992-02-01",
+      "price_all_gbp": 52187,
+      "price_new_gbp": 63911,
+      "price_modern_gbp": 53593,
+      "price_older_gbp": 47124
+    },
+    {
+      "date": "1992-05-01",
+      "price_all_gbp": 52663,
+      "price_new_gbp": 63509,
+      "price_modern_gbp": 53689,
+      "price_older_gbp": 48028
+    },
+    {
+      "date": "1992-08-01",
+      "price_all_gbp": 52243,
+      "price_new_gbp": 63154,
+      "price_modern_gbp": 53179,
+      "price_older_gbp": 47822
+    },
+    {
+      "date": "1992-11-01",
+      "price_all_gbp": 50168,
+      "price_new_gbp": 61071,
+      "price_modern_gbp": 51034,
+      "price_older_gbp": 45665
+    },
+    {
+      "date": "1993-02-01",
+      "price_all_gbp": 50128,
+      "price_new_gbp": 61621,
+      "price_modern_gbp": 51544,
+      "price_older_gbp": 44619
+    },
+    {
+      "date": "1993-05-01",
+      "price_all_gbp": 51918,
+      "price_new_gbp": 62931,
+      "price_modern_gbp": 52672,
+      "price_older_gbp": 47362
+    },
+    {
+      "date": "1993-08-01",
+      "price_all_gbp": 51746,
+      "price_new_gbp": 61562,
+      "price_modern_gbp": 52260,
+      "price_older_gbp": 48049
+    },
+    {
+      "date": "1993-11-01",
+      "price_all_gbp": 51050,
+      "price_new_gbp": 60008,
+      "price_modern_gbp": 52038,
+      "price_older_gbp": 47183
+    },
+    {
+      "date": "1994-02-01",
+      "price_all_gbp": 51327,
+      "price_new_gbp": 62084,
+      "price_modern_gbp": 52363,
+      "price_older_gbp": 46997
+    },
+    {
+      "date": "1994-05-01",
+      "price_all_gbp": 51362,
+      "price_new_gbp": 59102,
+      "price_modern_gbp": 52477,
+      "price_older_gbp": 47404
+    },
+    {
+      "date": "1994-08-01",
+      "price_all_gbp": 51731,
+      "price_new_gbp": 58687,
+      "price_modern_gbp": 52808,
+      "price_older_gbp": 47786
+    },
+    {
+      "date": "1994-11-01",
+      "price_all_gbp": 52114,
+      "price_new_gbp": 61586,
+      "price_modern_gbp": 52703,
+      "price_older_gbp": 47811
+    },
+    {
+      "date": "1995-02-01",
+      "price_all_gbp": 51084,
+      "price_new_gbp": 62243,
+      "price_modern_gbp": 51845,
+      "price_older_gbp": 47300
+    },
+    {
+      "date": "1995-05-01",
+      "price_all_gbp": 51633,
+      "price_new_gbp": 62020,
+      "price_modern_gbp": 52452,
+      "price_older_gbp": 47850
+    },
+    {
+      "date": "1995-08-01",
+      "price_all_gbp": 51334,
+      "price_new_gbp": 63301,
+      "price_modern_gbp": 52415,
+      "price_older_gbp": 46909
+    },
+    {
+      "date": "1995-11-01",
+      "price_all_gbp": 50930,
+      "price_new_gbp": 62772,
+      "price_modern_gbp": 51545,
+      "price_older_gbp": 46801
+    },
+    {
+      "date": "1996-02-01",
+      "price_all_gbp": 51367,
+      "price_new_gbp": 62302,
+      "price_modern_gbp": 52097,
+      "price_older_gbp": 47136
+    },
+    {
+      "date": "1996-05-01",
+      "price_all_gbp": 53032,
+      "price_new_gbp": 65530,
+      "price_modern_gbp": 53624,
+      "price_older_gbp": 46895
+    },
+    {
+      "date": "1996-08-01",
+      "price_all_gbp": 54008,
+      "price_new_gbp": 68613,
+      "price_modern_gbp": 54555,
+      "price_older_gbp": 49293
+    },
+    {
+      "date": "1996-11-01",
+      "price_all_gbp": 55169,
+      "price_new_gbp": 70210,
+      "price_modern_gbp": 55408,
+      "price_older_gbp": 50520
+    },
+    {
+      "date": "1997-02-01",
+      "price_all_gbp": 55810,
+      "price_new_gbp": 70549,
+      "price_modern_gbp": 56399,
+      "price_older_gbp": 50948
+    },
+    {
+      "date": "1997-05-01",
+      "price_all_gbp": 58403,
+      "price_new_gbp": 71892,
+      "price_modern_gbp": 58651,
+      "price_older_gbp": 53802
+    },
+    {
+      "date": "1997-08-01",
+      "price_all_gbp": 60754,
+      "price_new_gbp": 73284,
+      "price_modern_gbp": 60618,
+      "price_older_gbp": 56653
+    },
+    {
+      "date": "1997-11-01",
+      "price_all_gbp": 61830,
+      "price_new_gbp": 75462,
+      "price_modern_gbp": 61443,
+      "price_older_gbp": 57763
+    },
+    {
+      "date": "1998-02-01",
+      "price_all_gbp": 62903,
+      "price_new_gbp": 74853,
+      "price_modern_gbp": 62817,
+      "price_older_gbp": 58867
+    },
+    {
+      "date": "1998-05-01",
+      "price_all_gbp": 65221,
+      "price_new_gbp": 75618,
+      "price_modern_gbp": 65234,
+      "price_older_gbp": 61286
+    },
+    {
+      "date": "1998-08-01",
+      "price_all_gbp": 66366,
+      "price_new_gbp": 78354,
+      "price_modern_gbp": 65856,
+      "price_older_gbp": 62685
+    },
+    {
+      "date": "1998-11-01",
+      "price_all_gbp": 66313,
+      "price_new_gbp": 78804,
+      "price_modern_gbp": 65962,
+      "price_older_gbp": 62568
+    },
+    {
+      "date": "1999-02-01",
+      "price_all_gbp": 67478,
+      "price_new_gbp": 79650,
+      "price_modern_gbp": 67183,
+      "price_older_gbp": 63751
+    },
+    {
+      "date": "1999-05-01",
+      "price_all_gbp": 70010,
+      "price_new_gbp": 80886,
+      "price_modern_gbp": 69583,
+      "price_older_gbp": 66559
+    },
+    {
+      "date": "1999-08-01",
+      "price_all_gbp": 72362,
+      "price_new_gbp": 83917,
+      "price_modern_gbp": 71855,
+      "price_older_gbp": 69018
+    },
+    {
+      "date": "1999-11-01",
+      "price_all_gbp": 74638,
+      "price_new_gbp": 86141,
+      "price_modern_gbp": 74283,
+      "price_older_gbp": 71149
+    },
+    {
+      "date": "2000-02-01",
+      "price_all_gbp": 77698,
+      "price_new_gbp": 89015,
+      "price_modern_gbp": 77208,
+      "price_older_gbp": 74285
+    },
+    {
+      "date": "2000-05-01",
+      "price_all_gbp": 81202,
+      "price_new_gbp": 90383,
+      "price_modern_gbp": 80893,
+      "price_older_gbp": 77808
+    },
+    {
+      "date": "2000-08-01",
+      "price_all_gbp": 80935,
+      "price_new_gbp": 92207,
+      "price_modern_gbp": 80756,
+      "price_older_gbp": 77930
+    },
+    {
+      "date": "2000-11-01",
+      "price_all_gbp": 81628,
+      "price_new_gbp": 92950,
+      "price_modern_gbp": 81580,
+      "price_older_gbp": 78035
+    },
+    {
+      "date": "2001-02-01",
+      "price_all_gbp": 83976,
+      "price_new_gbp": 95641,
+      "price_modern_gbp": 83297,
+      "price_older_gbp": 80656
+    },
+    {
+      "date": "2001-05-01",
+      "price_all_gbp": 87638,
+      "price_new_gbp": 97534,
+      "price_modern_gbp": 87482,
+      "price_older_gbp": 84472
+    },
+    {
+      "date": "2001-08-01",
+      "price_all_gbp": 91049,
+      "price_new_gbp": 101312,
+      "price_modern_gbp": 90659,
+      "price_older_gbp": 87562
+    },
+    {
+      "date": "2001-11-01",
+      "price_all_gbp": 92533,
+      "price_new_gbp": 104462,
+      "price_modern_gbp": 92450,
+      "price_older_gbp": 88656
+    },
+    {
+      "date": "2002-02-01",
+      "price_all_gbp": 95356,
+      "price_new_gbp": 106735,
+      "price_modern_gbp": 95849,
+      "price_older_gbp": 91441
+    },
+    {
+      "date": "2002-05-01",
+      "price_all_gbp": 103501,
+      "price_new_gbp": 113801,
+      "price_modern_gbp": 103335,
+      "price_older_gbp": 99562
+    },
+    {
+      "date": "2002-08-01",
+      "price_all_gbp": 110830,
+      "price_new_gbp": 119508,
+      "price_modern_gbp": 110900,
+      "price_older_gbp": 106987
+    },
+    {
+      "date": "2002-11-01",
+      "price_all_gbp": 115940,
+      "price_new_gbp": 125937,
+      "price_modern_gbp": 116789,
+      "price_older_gbp": 112528
+    },
+    {
+      "date": "2003-02-01",
+      "price_all_gbp": 119938,
+      "price_new_gbp": 130705,
+      "price_modern_gbp": 121304,
+      "price_older_gbp": 116676
+    },
+    {
+      "date": "2003-05-01",
+      "price_all_gbp": 125382,
+      "price_new_gbp": 133711,
+      "price_modern_gbp": 126292,
+      "price_older_gbp": 122520
+    },
+    {
+      "date": "2003-08-01",
+      "price_all_gbp": 129761,
+      "price_new_gbp": 136027,
+      "price_modern_gbp": 130090,
+      "price_older_gbp": 126581
+    },
+    {
+      "date": "2003-11-01",
+      "price_all_gbp": 133903,
+      "price_new_gbp": 140892,
+      "price_modern_gbp": 134302,
+      "price_older_gbp": 130638
+    },
+    {
+      "date": "2004-02-01",
+      "price_all_gbp": 140225,
+      "price_new_gbp": 147415,
+      "price_modern_gbp": 140045,
+      "price_older_gbp": 136710
+    },
+    {
+      "date": "2004-05-01",
+      "price_all_gbp": 148462,
+      "price_new_gbp": 154907,
+      "price_modern_gbp": 148931,
+      "price_older_gbp": 146623
+    },
+    {
+      "date": "2004-08-01",
+      "price_all_gbp": 153482,
+      "price_new_gbp": 162816,
+      "price_modern_gbp": 153976,
+      "price_older_gbp": 151484
+    },
+    {
+      "date": "2004-11-01",
+      "price_all_gbp": 152464,
+      "price_new_gbp": 162451,
+      "price_modern_gbp": 152735,
+      "price_older_gbp": 151337
+    },
+    {
+      "date": "2005-02-01",
+      "price_all_gbp": 152790,
+      "price_new_gbp": 161567,
+      "price_modern_gbp": 153281,
+      "price_older_gbp": 151768
+    },
+    {
+      "date": "2005-05-01",
+      "price_all_gbp": 157494,
+      "price_new_gbp": 164342,
+      "price_modern_gbp": 156364,
+      "price_older_gbp": 156530
+    },
+    {
+      "date": "2005-08-01",
+      "price_all_gbp": 157627,
+      "price_new_gbp": 165284,
+      "price_modern_gbp": 155491,
+      "price_older_gbp": 155038
+    },
+    {
+      "date": "2005-11-01",
+      "price_all_gbp": 157387,
+      "price_new_gbp": 166980,
+      "price_modern_gbp": 155297,
+      "price_older_gbp": 154193
+    },
+    {
+      "date": "2006-02-01",
+      "price_all_gbp": 160319,
+      "price_new_gbp": 166857,
+      "price_modern_gbp": 158303,
+      "price_older_gbp": 157789
+    },
+    {
+      "date": "2006-05-01",
+      "price_all_gbp": 165035,
+      "price_new_gbp": 172688,
+      "price_modern_gbp": 162340,
+      "price_older_gbp": 163249
+    },
+    {
+      "date": "2006-08-01",
+      "price_all_gbp": 168460,
+      "price_new_gbp": 175386,
+      "price_modern_gbp": 165907,
+      "price_older_gbp": 166402
+    },
+    {
+      "date": "2006-11-01",
+      "price_all_gbp": 172065,
+      "price_new_gbp": 180964,
+      "price_modern_gbp": 169066,
+      "price_older_gbp": 170302
+    },
+    {
+      "date": "2007-02-01",
+      "price_all_gbp": 175554,
+      "price_new_gbp": 184424,
+      "price_modern_gbp": 172247,
+      "price_older_gbp": 174591
+    },
+    {
+      "date": "2007-05-01",
+      "price_all_gbp": 181810,
+      "price_new_gbp": 190214,
+      "price_modern_gbp": 169967,
+      "price_older_gbp": 181302
+    },
+    {
+      "date": "2007-08-01",
+      "price_all_gbp": 184131,
+      "price_new_gbp": 190476,
+      "price_modern_gbp": 172398,
+      "price_older_gbp": 183185
+    },
+    {
+      "date": "2007-11-01",
+      "price_all_gbp": 183959,
+      "price_new_gbp": 192268,
+      "price_modern_gbp": 171753,
+      "price_older_gbp": 183599
+    },
+    {
+      "date": "2008-02-01",
+      "price_all_gbp": 179363,
+      "price_new_gbp": 190798,
+      "price_modern_gbp": 167812,
+      "price_older_gbp": 178618
+    },
+    {
+      "date": "2008-05-01",
+      "price_all_gbp": 174514,
+      "price_new_gbp": 186533,
+      "price_modern_gbp": 163416,
+      "price_older_gbp": 173908
+    },
+    {
+      "date": "2008-08-01",
+      "price_all_gbp": 165188,
+      "price_new_gbp": 175604,
+      "price_modern_gbp": 154405,
+      "price_older_gbp": 164682
+    },
+    {
+      "date": "2008-11-01",
+      "price_all_gbp": 156828,
+      "price_new_gbp": 164457,
+      "price_modern_gbp": 146512,
+      "price_older_gbp": 156217
+    },
+    {
+      "date": "2009-02-01",
+      "price_all_gbp": 149709,
+      "price_new_gbp": 159691,
+      "price_modern_gbp": 139958,
+      "price_older_gbp": 147537
+    },
+    {
+      "date": "2009-05-01",
+      "price_all_gbp": 154066,
+      "price_new_gbp": 157934,
+      "price_modern_gbp": 143532,
+      "price_older_gbp": 153671
+    },
+    {
+      "date": "2009-08-01",
+      "price_all_gbp": 160159,
+      "price_new_gbp": 163534,
+      "price_modern_gbp": 149108,
+      "price_older_gbp": 159615
+    },
+    {
+      "date": "2009-11-01",
+      "price_all_gbp": 162116,
+      "price_new_gbp": 164433,
+      "price_modern_gbp": 150746,
+      "price_older_gbp": 162602
+    },
+    {
+      "date": "2010-02-01",
+      "price_all_gbp": 162887,
+      "price_new_gbp": 168346,
+      "price_modern_gbp": 151620,
+      "price_older_gbp": 162498
+    },
+    {
+      "date": "2010-05-01",
+      "price_all_gbp": 168719,
+      "price_new_gbp": 169098,
+      "price_modern_gbp": 156433,
+      "price_older_gbp": 170080
+    },
+    {
+      "date": "2010-08-01",
+      "price_all_gbp": 167354,
+      "price_new_gbp": 171904,
+      "price_modern_gbp": 154793,
+      "price_older_gbp": 169421
+    },
+    {
+      "date": "2010-11-01",
+      "price_all_gbp": 162971,
+      "price_new_gbp": 167395,
+      "price_modern_gbp": 151840,
+      "price_older_gbp": 162892
+    },
+    {
+      "date": "2011-02-01",
+      "price_all_gbp": 162379,
+      "price_new_gbp": 167779,
+      "price_modern_gbp": 151177,
+      "price_older_gbp": 162491
+    },
+    {
+      "date": "2011-05-01",
+      "price_all_gbp": 166764,
+      "price_new_gbp": 171473,
+      "price_modern_gbp": 154469,
+      "price_older_gbp": 168278
+    },
+    {
+      "date": "2011-08-01",
+      "price_all_gbp": 166597,
+      "price_new_gbp": 170263,
+      "price_modern_gbp": 154103,
+      "price_older_gbp": 168895
+    },
+    {
+      "date": "2011-11-01",
+      "price_all_gbp": 164785,
+      "price_new_gbp": 172707,
+      "price_modern_gbp": 152432,
+      "price_older_gbp": 166107
+    },
+    {
+      "date": "2012-02-01",
+      "price_all_gbp": 162722,
+      "price_new_gbp": 173045,
+      "price_modern_gbp": 150532,
+      "price_older_gbp": 163840
+    },
+    {
+      "date": "2012-05-01",
+      "price_all_gbp": 164955,
+      "price_new_gbp": 175697,
+      "price_modern_gbp": 152059,
+      "price_older_gbp": 167423
+    },
+    {
+      "date": "2012-08-01",
+      "price_all_gbp": 163910,
+      "price_new_gbp": 172052,
+      "price_modern_gbp": 151360,
+      "price_older_gbp": 166351
+    },
+    {
+      "date": "2012-11-01",
+      "price_all_gbp": 162924,
+      "price_new_gbp": 173337,
+      "price_modern_gbp": 150302,
+      "price_older_gbp": 165276
+    },
+    {
+      "date": "2013-02-01",
+      "price_all_gbp": 163056,
+      "price_new_gbp": 174064,
+      "price_modern_gbp": 151028,
+      "price_older_gbp": 164406
+    },
+    {
+      "date": "2013-05-01",
+      "price_all_gbp": 167294,
+      "price_new_gbp": 175419,
+      "price_modern_gbp": 154696,
+      "price_older_gbp": 169600
+    },
+    {
+      "date": "2013-08-01",
+      "price_all_gbp": 170918,
+      "price_new_gbp": 179164,
+      "price_modern_gbp": 157639,
+      "price_older_gbp": 173856
+    },
+    {
+      "date": "2013-11-01",
+      "price_all_gbp": 174444,
+      "price_new_gbp": 183364,
+      "price_modern_gbp": 160595,
+      "price_older_gbp": 178062
+    },
+    {
+      "date": "2014-02-01",
+      "price_all_gbp": 178124,
+      "price_new_gbp": 189228,
+      "price_modern_gbp": 163729,
+      "price_older_gbp": 182361
+    },
+    {
+      "date": "2014-05-01",
+      "price_all_gbp": 186544,
+      "price_new_gbp": 190051,
+      "price_modern_gbp": 171680,
+      "price_older_gbp": 192251
+    },
+    {
+      "date": "2014-08-01",
+      "price_all_gbp": 188810,
+      "price_new_gbp": 193409,
+      "price_modern_gbp": 173918,
+      "price_older_gbp": 195345
+    },
+    {
+      "date": "2014-11-01",
+      "price_all_gbp": 189002,
+      "price_new_gbp": 196136,
+      "price_modern_gbp": 174683,
+      "price_older_gbp": 193554
+    },
+    {
+      "date": "2015-02-01",
+      "price_all_gbp": 188566,
+      "price_new_gbp": 192434,
+      "price_modern_gbp": 174053,
+      "price_older_gbp": 194178
+    },
+    {
+      "date": "2015-05-01",
+      "price_all_gbp": 194258,
+      "price_new_gbp": 194511,
+      "price_modern_gbp": 179358,
+      "price_older_gbp": 201008
+    },
+    {
+      "date": "2015-08-01",
+      "price_all_gbp": 195733,
+      "price_new_gbp": 202250,
+      "price_modern_gbp": 0,
+      "price_older_gbp": 0
+    },
+    {
+      "date": "2015-11-01",
+      "price_all_gbp": 197044,
+      "price_new_gbp": 203122,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2016-02-01",
+      "price_all_gbp": 198564,
+      "price_new_gbp": 210093,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2016-05-01",
+      "price_all_gbp": 204238,
+      "price_new_gbp": 214987,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2016-08-01",
+      "price_all_gbp": 206346,
+      "price_new_gbp": 219881,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2016-11-01",
+      "price_all_gbp": 205937,
+      "price_new_gbp": 218725,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2017-02-01",
+      "price_all_gbp": 206665,
+      "price_new_gbp": 216824,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2017-05-01",
+      "price_all_gbp": 209971,
+      "price_new_gbp": 223315,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2017-08-01",
+      "price_all_gbp": 211672,
+      "price_new_gbp": 224273,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2017-11-01",
+      "price_all_gbp": 211433,
+      "price_new_gbp": 233723,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2018-02-01",
+      "price_all_gbp": 211792,
+      "price_new_gbp": 233116,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2018-05-01",
+      "price_all_gbp": 214578,
+      "price_new_gbp": 230698,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2018-08-01",
+      "price_all_gbp": 216103,
+      "price_new_gbp": 233214,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2018-11-01",
+      "price_all_gbp": 214178,
+      "price_new_gbp": 237486,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2019-02-01",
+      "price_all_gbp": 212694,
+      "price_new_gbp": 238442,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2019-05-01",
+      "price_all_gbp": 215910,
+      "price_new_gbp": 241067,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2019-08-01",
+      "price_all_gbp": 216805,
+      "price_new_gbp": 239248,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2019-11-01",
+      "price_all_gbp": 215925,
+      "price_new_gbp": 246669,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2020-02-01",
+      "price_all_gbp": 217911,
+      "price_new_gbp": 243653,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2020-05-01",
+      "price_all_gbp": 220133,
+      "price_new_gbp": 249624,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2020-08-01",
+      "price_all_gbp": 224337,
+      "price_new_gbp": 250678,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2020-11-01",
+      "price_all_gbp": 229819,
+      "price_new_gbp": 255143,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2021-02-01",
+      "price_all_gbp": 231644,
+      "price_new_gbp": 249522,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2021-05-01",
+      "price_all_gbp": 242709,
+      "price_new_gbp": 257684,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2021-08-01",
+      "price_all_gbp": 247535,
+      "price_new_gbp": 265516,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2021-11-01",
+      "price_all_gbp": 253113,
+      "price_new_gbp": 266030,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2022-02-01",
+      "price_all_gbp": 260771,
+      "price_new_gbp": 279031,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2022-05-01",
+      "price_all_gbp": 270452,
+      "price_new_gbp": 295022,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2022-08-01",
+      "price_all_gbp": 273135,
+      "price_new_gbp": 292773,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2022-11-01",
+      "price_all_gbp": 265195,
+      "price_new_gbp": 291963,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2023-02-01",
+      "price_all_gbp": 258115,
+      "price_new_gbp": 285763,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2023-05-01",
+      "price_all_gbp": 261995,
+      "price_new_gbp": 291023,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2023-08-01",
+      "price_all_gbp": 260181,
+      "price_new_gbp": 300952,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2023-11-01",
+      "price_all_gbp": 259157,
+      "price_new_gbp": 295821,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2024-02-01",
+      "price_all_gbp": 260791,
+      "price_new_gbp": 301041,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2024-05-01",
+      "price_all_gbp": 265012,
+      "price_new_gbp": 298236,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2024-08-01",
+      "price_all_gbp": 266640,
+      "price_new_gbp": 299191,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2024-11-01",
+      "price_all_gbp": 268518,
+      "price_new_gbp": 307673,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2025-02-01",
+      "price_all_gbp": 270867,
+      "price_new_gbp": 309918,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    },
+    {
+      "date": "2025-05-01",
+      "price_all_gbp": 272751,
+      "price_new_gbp": 313238,
+      "price_modern_gbp": "",
+      "price_older_gbp": ""
+    }
+  ],
+  "meta": {
+    "title": "UK House Prices — Quarterly - Free Download",
+    "description": "Quarterly average UK house prices in GBP from 1953 onwards, broken down by property type (All, New, Modern, Older). Source: Nationwide via datasets/house-prices-uk. Contains 290 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "UK House Prices — Quarterly | ListBase",
+    "seo_description": "Download UK House Prices — Quarterly — 290 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 290 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/datasets/house-prices-uk"
+    ]
+  }
+}

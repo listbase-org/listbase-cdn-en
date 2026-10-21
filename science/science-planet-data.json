@@ -1,0 +1,349 @@
+{
+  "id": "science-planet-data",
+  "name": "Solar System Planets & Celestial Bodies Data Set",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "order_from_sun",
+      "label": "Order from Sun",
+      "type": "number"
+    },
+    {
+      "key": "mass_kg",
+      "label": "Mass (kg)",
+      "type": "string"
+    },
+    {
+      "key": "mass_earth",
+      "label": "Mass (Earth = 1)",
+      "type": "number"
+    },
+    {
+      "key": "diameter_km",
+      "label": "Diameter (km)",
+      "type": "number"
+    },
+    {
+      "key": "diameter_earth",
+      "label": "Diameter (Earth = 1)",
+      "type": "number"
+    },
+    {
+      "key": "distance_from_sun_km",
+      "label": "Distance from Sun (km)",
+      "type": "string"
+    },
+    {
+      "key": "distance_from_sun_au",
+      "label": "Distance from Sun (AU)",
+      "type": "number"
+    },
+    {
+      "key": "orbital_period_days",
+      "label": "Orbital Period (days)",
+      "type": "number"
+    },
+    {
+      "key": "orbital_period_years",
+      "label": "Orbital Period (years)",
+      "type": "number"
+    },
+    {
+      "key": "rotation_period_hours",
+      "label": "Rotation Period (hours)",
+      "type": "number"
+    },
+    {
+      "key": "moons",
+      "label": "Number of Moons",
+      "type": "number"
+    },
+    {
+      "key": "rings",
+      "label": "Has Rings",
+      "type": "string"
+    },
+    {
+      "key": "surface_gravity_ms2",
+      "label": "Surface Gravity (m/s²)",
+      "type": "number"
+    },
+    {
+      "key": "avg_temperature_c",
+      "label": "Avg Temperature (°C)",
+      "type": "number"
+    },
+    {
+      "key": "atmosphere",
+      "label": "Atmosphere",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Mercury",
+      "symbol": "☿",
+      "type": "Terrestrial",
+      "order_from_sun": 1,
+      "mass_kg": "3.30 × 10²³",
+      "mass_earth": 0.055,
+      "diameter_km": 4879,
+      "diameter_earth": 0.383,
+      "distance_from_sun_km": "57.9 × 10⁶",
+      "distance_from_sun_au": 0.39,
+      "orbital_period_days": 88,
+      "orbital_period_years": 0.24,
+      "rotation_period_hours": 1407.6,
+      "moons": 0,
+      "rings": "No",
+      "surface_gravity_ms2": 3.7,
+      "avg_temperature_c": 167,
+      "atmosphere": "Minimal (exosphere)"
+    },
+    {
+      "name": "Venus",
+      "symbol": "♀",
+      "type": "Terrestrial",
+      "order_from_sun": 2,
+      "mass_kg": "4.87 × 10²⁴",
+      "mass_earth": 0.815,
+      "diameter_km": 12104,
+      "diameter_earth": 0.949,
+      "distance_from_sun_km": "108.2 × 10⁶",
+      "distance_from_sun_au": 0.72,
+      "orbital_period_days": 225,
+      "orbital_period_years": 0.62,
+      "rotation_period_hours": -5832.5,
+      "moons": 0,
+      "rings": "No",
+      "surface_gravity_ms2": 8.87,
+      "avg_temperature_c": 464,
+      "atmosphere": "CO₂, N₂ (thick, dense)"
+    },
+    {
+      "name": "Earth",
+      "symbol": "⊕",
+      "type": "Terrestrial",
+      "order_from_sun": 3,
+      "mass_kg": "5.97 × 10²⁴",
+      "mass_earth": 1,
+      "diameter_km": 12756,
+      "diameter_earth": 1,
+      "distance_from_sun_km": "149.6 × 10⁶",
+      "distance_from_sun_au": 1,
+      "orbital_period_days": 365.25,
+      "orbital_period_years": 1,
+      "rotation_period_hours": 23.93,
+      "moons": 1,
+      "rings": "No",
+      "surface_gravity_ms2": 9.81,
+      "avg_temperature_c": 15,
+      "atmosphere": "N₂, O₂"
+    },
+    {
+      "name": "Mars",
+      "symbol": "♂",
+      "type": "Terrestrial",
+      "order_from_sun": 4,
+      "mass_kg": "6.42 × 10²³",
+      "mass_earth": 0.107,
+      "diameter_km": 6792,
+      "diameter_earth": 0.532,
+      "distance_from_sun_km": "228.0 × 10⁶",
+      "distance_from_sun_au": 1.52,
+      "orbital_period_days": 687,
+      "orbital_period_years": 1.88,
+      "rotation_period_hours": 24.62,
+      "moons": 2,
+      "rings": "No",
+      "surface_gravity_ms2": 3.71,
+      "avg_temperature_c": -65,
+      "atmosphere": "CO₂, N₂, Ar (thin)"
+    },
+    {
+      "name": "Jupiter",
+      "symbol": "♃",
+      "type": "Gas Giant",
+      "order_from_sun": 5,
+      "mass_kg": "1.90 × 10²⁷",
+      "mass_earth": 317.8,
+      "diameter_km": 142984,
+      "diameter_earth": 11.21,
+      "distance_from_sun_km": "778.5 × 10⁶",
+      "distance_from_sun_au": 5.2,
+      "orbital_period_days": 4333,
+      "orbital_period_years": 11.86,
+      "rotation_period_hours": 9.93,
+      "moons": 95,
+      "rings": "Yes (faint)",
+      "surface_gravity_ms2": 24.79,
+      "avg_temperature_c": -110,
+      "atmosphere": "H₂, He"
+    },
+    {
+      "name": "Saturn",
+      "symbol": "♄",
+      "type": "Gas Giant",
+      "order_from_sun": 6,
+      "mass_kg": "5.68 × 10²⁶",
+      "mass_earth": 95.2,
+      "diameter_km": 120536,
+      "diameter_earth": 9.45,
+      "distance_from_sun_km": "1432 × 10⁶",
+      "distance_from_sun_au": 9.58,
+      "orbital_period_days": 10759,
+      "orbital_period_years": 29.46,
+      "rotation_period_hours": 10.66,
+      "moons": 146,
+      "rings": "Yes (prominent)",
+      "surface_gravity_ms2": 10.44,
+      "avg_temperature_c": -140,
+      "atmosphere": "H₂, He"
+    },
+    {
+      "name": "Uranus",
+      "symbol": "⛢",
+      "type": "Ice Giant",
+      "order_from_sun": 7,
+      "mass_kg": "8.68 × 10²⁵",
+      "mass_earth": 14.5,
+      "diameter_km": 51118,
+      "diameter_earth": 4.01,
+      "distance_from_sun_km": "2867 × 10⁶",
+      "distance_from_sun_au": 19.18,
+      "orbital_period_days": 30687,
+      "orbital_period_years": 84.01,
+      "rotation_period_hours": -17.24,
+      "moons": 28,
+      "rings": "Yes (faint)",
+      "surface_gravity_ms2": 8.87,
+      "avg_temperature_c": -195,
+      "atmosphere": "H₂, He, CH₄"
+    },
+    {
+      "name": "Neptune",
+      "symbol": "♆",
+      "type": "Ice Giant",
+      "order_from_sun": 8,
+      "mass_kg": "1.02 × 10²⁶",
+      "mass_earth": 17.1,
+      "diameter_km": 49528,
+      "diameter_earth": 3.88,
+      "distance_from_sun_km": "4515 × 10⁶",
+      "distance_from_sun_au": 30.07,
+      "orbital_period_days": 60190,
+      "orbital_period_years": 164.8,
+      "rotation_period_hours": 16.11,
+      "moons": 16,
+      "rings": "Yes (faint)",
+      "surface_gravity_ms2": 11.15,
+      "avg_temperature_c": -200,
+      "atmosphere": "H₂, He, CH₄"
+    },
+    {
+      "name": "Pluto",
+      "symbol": "♇",
+      "type": "Dwarf Planet",
+      "order_from_sun": 9,
+      "mass_kg": "1.30 × 10²²",
+      "mass_earth": 0.002,
+      "diameter_km": 2377,
+      "diameter_earth": 0.186,
+      "distance_from_sun_km": "5906 × 10⁶",
+      "distance_from_sun_au": 39.48,
+      "orbital_period_days": 90560,
+      "orbital_period_years": 248,
+      "rotation_period_hours": -153.3,
+      "moons": 5,
+      "rings": "No",
+      "surface_gravity_ms2": 0.62,
+      "avg_temperature_c": -230,
+      "atmosphere": "N₂, CH₄, CO (thin)"
+    },
+    {
+      "name": "Ceres",
+      "symbol": "⚳",
+      "type": "Dwarf Planet",
+      "order_from_sun": null,
+      "mass_kg": "9.38 × 10²⁰",
+      "mass_earth": 0.00016,
+      "diameter_km": 940,
+      "diameter_earth": 0.074,
+      "distance_from_sun_km": "414 × 10⁶",
+      "distance_from_sun_au": 2.77,
+      "orbital_period_days": 1682,
+      "orbital_period_years": 4.6,
+      "rotation_period_hours": 9.07,
+      "moons": 0,
+      "rings": "No",
+      "surface_gravity_ms2": 0.27,
+      "avg_temperature_c": -105,
+      "atmosphere": "Minimal"
+    },
+    {
+      "name": "Eris",
+      "symbol": "⯰",
+      "type": "Dwarf Planet",
+      "order_from_sun": null,
+      "mass_kg": "1.66 × 10²²",
+      "mass_earth": 0.0028,
+      "diameter_km": 2326,
+      "diameter_earth": 0.182,
+      "distance_from_sun_km": "10120 × 10⁶",
+      "distance_from_sun_au": 67.67,
+      "orbital_period_days": 203830,
+      "orbital_period_years": 558,
+      "rotation_period_hours": 25.9,
+      "moons": 1,
+      "rings": "No",
+      "surface_gravity_ms2": 0.82,
+      "avg_temperature_c": -243,
+      "atmosphere": "Minimal"
+    }
+  ],
+  "meta": {
+    "seo_title": "Solar System Planets Data - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download of comprehensive data for 11 solar system celestial bodies. Includes mass, diameter, orbital periods, moons, atmosphere. Available in Excel, CSV, and PDF formats.",
+    "title": "Solar System Planets & Celestial Bodies Data Set",
+    "description": "This dataset offers comprehensive physical and orbital characteristics for 11 celestial bodies within our solar system, including major planets and dwarf planets. It provides details on mass, diameter, distance from the Sun, orbital periods, number of moons, and atmospheric composition.",
+    "key_takeaways": [
+      "Access detailed physical and orbital data for 11 solar system celestial bodies.",
+      "Explore comparative metrics like Mass (Earth=1) and Diameter (Earth=1) for easy analysis.",
+      "Download key astronomical facts for educational, research, or development projects.",
+      "Utilize atmospheric composition, temperature, and surface gravity data."
+    ],
+    "keywords": [
+      "solar system planets data excel",
+      "planets properties csv",
+      "celestial bodies statistics pdf",
+      "orbital mechanics data",
+      "planetary facts download",
+      "astronomy dataset free"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or use it with Python scripts for astrophysical simulations and data modeling projects.",
+      "Use the **Excel** file to create Pivot Tables, filter data for specific planets, and generate comprehensive reports on celestial body characteristics.",
+      "Print the **PDF** version for classroom reference, educational workshops, or as a handy offline guide for astronomy enthusiasts.",
+      "Leverage this dataset to develop educational apps, populate space-themed websites, or enhance academic research on planetary science."
+    ]
+  },
+  "record_count": 11,
+  "title": "Solar System Planets & Celestial Bodies Data Set"
+}

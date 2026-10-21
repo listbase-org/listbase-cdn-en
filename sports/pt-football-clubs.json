@@ -1,0 +1,385 @@
+{
+  "id": "pt-football-clubs",
+  "name": "Portugal — Football Clubs",
+  "title": "Portugal — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Portugal's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Benfica",
+      "matches_played": 467,
+      "seasons_count": 15,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-l…"
+    },
+    {
+      "name": "Braga",
+      "matches_played": 467,
+      "seasons_count": 15,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-l…"
+    },
+    {
+      "name": "FCPorto",
+      "matches_played": 467,
+      "seasons_count": 15,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-l…"
+    },
+    {
+      "name": "Maritimo",
+      "matches_played": 467,
+      "seasons_count": 15,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-l…"
+    },
+    {
+      "name": "Sporting",
+      "matches_played": 467,
+      "seasons_count": 15,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-l…"
+    },
+    {
+      "name": "Guimaraes",
+      "matches_played": 437,
+      "seasons_count": 14,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2007-2008, primeira-liga-2008-2009, primeira-l…"
+    },
+    {
+      "name": "Academica",
+      "matches_played": 433,
+      "seasons_count": 14,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-1998-1999, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-liga-2008-2009, primeira-l…"
+    },
+    {
+      "name": "Setubal",
+      "matches_played": 433,
+      "seasons_count": 14,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-liga-2008-2009, primeira-l…"
+    },
+    {
+      "name": "RioAve",
+      "matches_played": 407,
+      "seasons_count": 13,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2008-2009, primeira-liga-2009-2010, primeira-l…"
+    },
+    {
+      "name": "Nacional",
+      "matches_played": 399,
+      "seasons_count": 13,
+      "leagues": "primeira-liga",
+      "first_season_year": 2003,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-liga-2008-2009, primeira-liga-2009-2010, primeira-l…"
+    },
+    {
+      "name": "Ferreira",
+      "matches_played": 365,
+      "seasons_count": 12,
+      "leagues": "primeira-liga",
+      "first_season_year": 2003,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-2003-2004, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-liga-2008-2009, primeira-liga-2009-2010, primeira-liga-2010-2011, primeira-l…"
+    },
+    {
+      "name": "Belenenses",
+      "matches_played": 343,
+      "seasons_count": 11,
+      "leagues": "primeira-liga",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-liga-2008-2009, primeira-l…"
+    },
+    {
+      "name": "Leiria",
+      "matches_played": 320,
+      "seasons_count": 10,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2011,
+      "seasons": "primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-liga-2009-2010,…"
+    },
+    {
+      "name": "Boavista",
+      "matches_played": 287,
+      "seasons_count": 9,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-l…"
+    },
+    {
+      "name": "GilVicente",
+      "matches_played": 260,
+      "seasons_count": 8,
+      "leagues": "primeira-liga",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2011-2012, primeira-liga-2012-2013, primeira-liga-2013-2014, primeira-liga-2014-2015"
+    },
+    {
+      "name": "Amadora",
+      "matches_played": 226,
+      "seasons_count": 7,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2008,
+      "seasons": "primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2003-2004, primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-liga-2008-2009"
+    },
+    {
+      "name": "BeiraMar",
+      "matches_played": 222,
+      "seasons_count": 7,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "primeira-liga-1998-1999, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2006-2007, primeira-liga-2010-2011, primeira-liga-2011-2012, primeira-liga-2012-2013"
+    },
+    {
+      "name": "Naval",
+      "matches_played": 184,
+      "seasons_count": 6,
+      "leagues": "primeira-liga",
+      "first_season_year": 2005,
+      "last_season_year": 2010,
+      "seasons": "primeira-liga-2005-2006, primeira-liga-2006-2007, primeira-liga-2007-2008, primeira-liga-2008-2009, primeira-liga-2009-2010, primeira-liga-2010-2011"
+    },
+    {
+      "name": "Moreirense",
+      "matches_played": 155,
+      "seasons_count": 5,
+      "leagues": "primeira-liga",
+      "first_season_year": 2003,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-2003-2004, primeira-liga-2004-2005, primeira-liga-2012-2013, primeira-liga-2014-2015"
+    },
+    {
+      "name": "Estoril",
+      "matches_played": 151,
+      "seasons_count": 5,
+      "leagues": "primeira-liga",
+      "first_season_year": 2004,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-2004-2005, primeira-liga-2012-2013, primeira-liga-2013-2014, primeira-liga-2014-2015"
+    },
+    {
+      "name": "Olhanense",
+      "matches_played": 150,
+      "seasons_count": 5,
+      "leagues": "primeira-liga",
+      "first_season_year": 2009,
+      "last_season_year": 2013,
+      "seasons": "primeira-liga-2009-2010, primeira-liga-2010-2011, primeira-liga-2011-2012, primeira-liga-2012-2013, primeira-liga-2013-2014"
+    },
+    {
+      "name": "FCAlverca",
+      "matches_played": 102,
+      "seasons_count": 3,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 2003,
+      "seasons": "primeira-liga-1998-1999, primeira-liga-1999-2000, primeira-liga-2003-2004"
+    },
+    {
+      "name": "Penafiel",
+      "matches_played": 102,
+      "seasons_count": 3,
+      "leagues": "primeira-liga",
+      "first_season_year": 2004,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga-2004-2005, primeira-liga-2005-2006, primeira-liga-2014-2015"
+    },
+    {
+      "name": "Leixoes",
+      "matches_played": 90,
+      "seasons_count": 3,
+      "leagues": "primeira-liga",
+      "first_season_year": 2007,
+      "last_season_year": 2009,
+      "seasons": "primeira-liga-2007-2008, primeira-liga-2008-2009, primeira-liga-2009-2010"
+    },
+    {
+      "name": "Arouca",
+      "matches_played": 87,
+      "seasons_count": 3,
+      "leagues": "primeira-liga",
+      "first_season_year": 2013,
+      "last_season_year": 2014,
+      "seasons": "primeira-liga, primeira-liga-2013-2014, primeira-liga-2014-2015"
+    },
+    {
+      "name": "SCCampomaiorense",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "primeira-liga-1998-1999, primeira-liga-1999-2000"
+    },
+    {
+      "name": "SCFarense",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "primeira-liga-1998-1999, primeira-liga-1999-2000"
+    },
+    {
+      "name": "Salgueiros",
+      "matches_played": 68,
+      "seasons_count": 2,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 1999,
+      "seasons": "primeira-liga-1998-1999, primeira-liga-1999-2000"
+    },
+    {
+      "name": "Chaves",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "primeira-liga",
+      "first_season_year": 1998,
+      "last_season_year": 1998,
+      "seasons": "primeira-liga-1998-1999"
+    },
+    {
+      "name": "SantaClara",
+      "matches_played": 34,
+      "seasons_count": 1,
+      "leagues": "primeira-liga",
+      "first_season_year": 1999,
+      "last_season_year": 1999,
+      "seasons": "primeira-liga-1999-2000"
+    },
+    {
+      "name": "Aves",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "primeira-liga",
+      "first_season_year": 2006,
+      "last_season_year": 2006,
+      "seasons": "primeira-liga-2006-2007"
+    },
+    {
+      "name": "Feirense",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "primeira-liga",
+      "first_season_year": 2011,
+      "last_season_year": 2011,
+      "seasons": "primeira-liga-2011-2012"
+    },
+    {
+      "name": "Portimonense",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "primeira-liga",
+      "first_season_year": 2010,
+      "last_season_year": 2010,
+      "seasons": "primeira-liga-2010-2011"
+    },
+    {
+      "name": "Trofense",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "primeira-liga",
+      "first_season_year": 2008,
+      "last_season_year": 2008,
+      "seasons": "primeira-liga-2008-2009"
+    },
+    {
+      "name": "Tondela",
+      "matches_played": 23,
+      "seasons_count": 1,
+      "leagues": "primeira-liga",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "primeira-liga"
+    },
+    {
+      "name": "U.Madeira",
+      "matches_played": 23,
+      "seasons_count": 1,
+      "leagues": "primeira-liga",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "primeira-liga"
+    }
+  ],
+  "meta": {
+    "title": "Portugal — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Portugal's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Portugal — Football Clubs | ListBase",
+    "seo_description": "Download Portugal — Football Clubs dataset with 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "fk-airports-iata",
+  "name": "Falkland Islands — IATA Airports",
+  "title": "Falkland Islands — IATA Airports",
+  "description": "Airports with IATA codes in Falkland Islands: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "MPN",
+      "icao_code": "EGYP",
+      "name": "Mount Pleasant Airport",
+      "city_name_list": "Mount Pleasant",
+      "country_code": "FK",
+      "country_name": "Falkland Islands",
+      "continent_name": "South America",
+      "adm1_name_ascii": "",
+      "latitude": -51.82278,
+      "longitude": -58.44722,
+      "elevation": 74,
+      "timezone": "Atlantic/Stanley",
+      "wiki_link": "https://en.wikipedia.org/wiki/RAF_Mount_Pleasant"
+    },
+    {
+      "iata_code": "PSY",
+      "icao_code": "SFAL",
+      "name": "Port Stanley Airport",
+      "city_name_list": "Stanley",
+      "country_code": "FK",
+      "country_name": "Falkland Islands",
+      "continent_name": "South America",
+      "adm1_name_ascii": "",
+      "latitude": -51.68567,
+      "longitude": -57.77764,
+      "elevation": 22,
+      "timezone": "Atlantic/Stanley",
+      "wiki_link": "https://en.wikipedia.org/wiki/Port_Stanley_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Falkland Islands — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Falkland Islands: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Falkland Islands — IATA Airports | ListBase",
+    "seo_description": "Download Falkland Islands — IATA Airports dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

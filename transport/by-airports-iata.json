@@ -1,0 +1,211 @@
+{
+  "id": "by-airports-iata",
+  "name": "Belarus — IATA Airports",
+  "title": "Belarus — IATA Airports",
+  "description": "Airports with IATA codes in Belarus: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BQT",
+      "icao_code": "UMBB",
+      "name": "Brest Airport",
+      "city_name_list": "Brest",
+      "country_code": "BY",
+      "country_name": "Belarus",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Brest",
+      "latitude": 52.10833,
+      "longitude": 23.89667,
+      "elevation": 143,
+      "timezone": "Europe/Minsk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Brest_Airport"
+    },
+    {
+      "iata_code": "GME",
+      "icao_code": "UMGG",
+      "name": "Gomel Airport",
+      "city_name_list": "Homyel'",
+      "country_code": "BY",
+      "country_name": "Belarus",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Homyel' Voblasc'",
+      "latitude": 52.52702,
+      "longitude": 31.01669,
+      "elevation": 143,
+      "timezone": "Europe/Minsk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gomel_Airport"
+    },
+    {
+      "iata_code": "GNA",
+      "icao_code": "UMMG",
+      "name": "Hrodna Airport",
+      "city_name_list": "Hrodna",
+      "country_code": "BY",
+      "country_name": "Belarus",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Grodnenskaya",
+      "latitude": 53.60165,
+      "longitude": 24.04963,
+      "elevation": 135,
+      "timezone": "Europe/Minsk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hrodna_Airport"
+    },
+    {
+      "iata_code": "MHP",
+      "icao_code": "UMMM",
+      "name": "Loshitsa / Minsk International 1",
+      "city_name_list": "Minsk",
+      "country_code": "BY",
+      "country_name": "Belarus",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Minsk City",
+      "latitude": 53.864472,
+      "longitude": 27.539683,
+      "elevation": 227,
+      "timezone": "Europe/Minsk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Minsk-1_Airport"
+    },
+    {
+      "iata_code": "MSQ",
+      "icao_code": "UMMS",
+      "name": "Minsk National Airport",
+      "city_name_list": "Minsk",
+      "country_code": "BY",
+      "country_name": "Belarus",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Minsk City",
+      "latitude": 53.88247,
+      "longitude": 28.03073,
+      "elevation": 204,
+      "timezone": "Europe/Minsk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Minsk_National_Airport"
+    },
+    {
+      "iata_code": "MVQ",
+      "icao_code": "UMOO",
+      "name": "Mogilev Airport",
+      "city_name_list": "Mahilyow",
+      "country_code": "BY",
+      "country_name": "Belarus",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Mogilev",
+      "latitude": 53.9549,
+      "longitude": 30.0951,
+      "elevation": "",
+      "timezone": "Europe/Minsk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mahilyow_Airport"
+    },
+    {
+      "iata_code": "TXC",
+      "icao_code": "UMIO",
+      "name": "Orsha Airport",
+      "city_name_list": "Orsha",
+      "country_code": "BY",
+      "country_name": "Belarus",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Vitebsk",
+      "latitude": 54.43979,
+      "longitude": 30.29613,
+      "elevation": "",
+      "timezone": "Europe/Minsk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Balbasovo_Air_Base"
+    },
+    {
+      "iata_code": "VTB",
+      "icao_code": "UMII",
+      "name": "Vitebsk Vostochny Airport",
+      "city_name_list": "Vitebsk",
+      "country_code": "BY",
+      "country_name": "Belarus",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Vitebsk",
+      "latitude": 55.1265,
+      "longitude": 30.34964,
+      "elevation": 208,
+      "timezone": "Europe/Minsk",
+      "wiki_link": "https://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Belarus — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Belarus: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Belarus — IATA Airports | ListBase",
+    "seo_description": "Download Belarus — IATA Airports dataset with 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

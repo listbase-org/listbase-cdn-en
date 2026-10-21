@@ -1,0 +1,166 @@
+{
+  "id": "bs-political-parties",
+  "name": "Bahamas — Political Parties",
+  "title": "Bahamas — Political Parties",
+  "description": "Political parties of Bahamas from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 3652,
+      "name_short": "FNM",
+      "name": "Free National Movement",
+      "name_english": "Free National Movement",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": "",
+      "share": 57.6,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Free_National_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3284,
+      "name_short": "PLP",
+      "name": "Progressive Liberal Party",
+      "name_english": "Progressive Liberal Party",
+      "name_other": "",
+      "year_first": 1953,
+      "year_last": "",
+      "share": 51.8,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/Progressive_Liberal_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7416,
+      "name_short": "UBP",
+      "name": "United Bahamian Party",
+      "name_english": "United Bahamian Party",
+      "name_other": "",
+      "year_first": 1956,
+      "year_last": 1971,
+      "share": 36.1,
+      "share_year": 1962,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Bahamian_Party",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4899,
+      "name_short": "BDP",
+      "name": "Bahamian Democratic Party",
+      "name_english": "Bahamian Democratic Party",
+      "name_other": "",
+      "year_first": 1977,
+      "year_last": 1982,
+      "share": 26.9,
+      "share_year": 1977,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bahamian_Democratic_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 3653,
+      "name_short": "DNA",
+      "name": "Democratic National Alliance",
+      "name_english": "Democratic National Alliance",
+      "name_other": "",
+      "year_first": 2011,
+      "year_last": "",
+      "share": 8.6,
+      "share_year": 2012,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_National_Alliance_%28Bahamas%29",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Bahamas — Political Parties - Free Download",
+    "description": "Political parties of Bahamas from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bahamas — Political Parties | ListBase",
+    "seo_description": "Download Bahamas — Political Parties dataset with 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

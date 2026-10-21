@@ -1,0 +1,340 @@
+{
+  "id": "na-power-plants",
+  "name": "Namibia — Power Plants",
+  "title": "Namibia — Power Plants",
+  "description": "Power plants located in Namibia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ruacana",
+      "gppd_idnr": "WRI1023133",
+      "capacity_mw": 240,
+      "latitude": -17.3861,
+      "longitude": 14.2137,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 919.38; 2014: 923.59; 2015: 931.06; 2016: 986.99; 2017: 1071.45",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Van Eck",
+      "gppd_idnr": "WRI1023134",
+      "capacity_mw": 120,
+      "latitude": -22.514,
+      "longitude": 17.0789,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 66",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Arandis",
+      "gppd_idnr": "WKS0064808",
+      "capacity_mw": 50,
+      "latitude": -22.43,
+      "longitude": 14.964,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 127.01; 2014: 130.92; 2015: 133.52; 2016: 127.03; 2017: 128.02",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Paratus (Walvis)",
+      "gppd_idnr": "WRI1023131",
+      "capacity_mw": 25.6,
+      "latitude": -22.9575,
+      "longitude": 14.5053,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Anixas",
+      "gppd_idnr": "WRI1023132",
+      "capacity_mw": 24.3,
+      "latitude": -22.9575,
+      "longitude": 14.5053,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Langer-Heinrich",
+      "gppd_idnr": "WRI1023138",
+      "capacity_mw": 10,
+      "latitude": -22.8138,
+      "longitude": 15.3248,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Otjikoto",
+      "gppd_idnr": "WKS0071884",
+      "capacity_mw": 7,
+      "latitude": -23.195,
+      "longitude": 19.56,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 16; 2014: 16.19; 2015: 16.06; 2016: 16.21; 2017: 16.08",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Aussenkehr",
+      "gppd_idnr": "WKS0071830",
+      "capacity_mw": 5,
+      "latitude": -28.41,
+      "longitude": 17.445,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 11.56; 2014: 11.5; 2015: 11.49; 2016: 11.55; 2017: 11.46",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ohorongo",
+      "gppd_idnr": "WKS0069506",
+      "capacity_mw": 5,
+      "latitude": -19.53,
+      "longitude": 17.44,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 11.56; 2014: 11.45; 2015: 11.22; 2016: 10.69; 2017: 11.44",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Osona",
+      "gppd_idnr": "WKS0071829",
+      "capacity_mw": 5,
+      "latitude": -22.05,
+      "longitude": 16.93,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 11.38; 2014: 11.5; 2015: 11.35; 2016: 11.51; 2017: 11.46",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Otjiwarongo Pv",
+      "gppd_idnr": "WRI1023137",
+      "capacity_mw": 5,
+      "latitude": -20.4465,
+      "longitude": 16.6255,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 11.57; 2014: 11.47; 2015: 11.14; 2016: 11.04; 2017: 11.39",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Omburu",
+      "gppd_idnr": "WRI1023136",
+      "capacity_mw": 4.5,
+      "latitude": -21.4148,
+      "longitude": 15.973,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 8.66; 2014: 9.11; 2015: 9.12; 2016: 9.34; 2017: 9.32",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Namibia Breweries",
+      "gppd_idnr": "WRI1023135",
+      "capacity_mw": 1.1,
+      "latitude": -22.5243,
+      "longitude": 17.0787,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1.91; 2014: 1.94; 2015: 1.91; 2016: 1.97; 2017: 1.95",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Namibia — Power Plants - Free Download",
+    "description": "Power plants located in Namibia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Namibia — Power Plants | ListBase",
+    "seo_description": "Download Namibia — Power Plants dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

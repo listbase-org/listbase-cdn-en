@@ -1,0 +1,1847 @@
+{
+  "id": "us-congressional-committees",
+  "name": "US Congressional Committees",
+  "title": "US Congressional Committees",
+  "description": "Current committees and subcommittees of the United States Congress, including House and Senate committees with their official URLs and Thomas IDs.",
+  "category": "politics",
+  "source": "https://github.com/unitedstates/congress-legislators",
+  "source_url": "https://github.com/unitedstates/congress-legislators",
+  "updated": "2026-04",
+  "record_count": 230,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "thomas_id",
+      "label": "Thomas Id",
+      "type": "string"
+    },
+    {
+      "key": "subcommittee_count",
+      "label": "Subcommittee Count",
+      "type": "number"
+    },
+    {
+      "key": "parent_committee",
+      "label": "Parent Committee",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "House Committee on Agriculture",
+      "type": "house",
+      "url": "https://agriculture.house.gov/",
+      "thomas_id": "HSAG",
+      "subcommittee_count": 6
+    },
+    {
+      "name": "Forestry and Horticulture",
+      "type": "house",
+      "parent_committee": "House Committee on Agriculture",
+      "url": "",
+      "thomas_id": "15",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Commodity Markets, Digital Assets, and Rural Development",
+      "type": "house",
+      "parent_committee": "House Committee on Agriculture",
+      "url": "",
+      "thomas_id": "22",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "General Farm Commodities, Risk Management, and Credit",
+      "type": "house",
+      "parent_committee": "House Committee on Agriculture",
+      "url": "",
+      "thomas_id": "16",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Livestock, Dairy, and Poultry",
+      "type": "house",
+      "parent_committee": "House Committee on Agriculture",
+      "url": "",
+      "thomas_id": "29",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Conservation, Research, and Biotechnology",
+      "type": "house",
+      "parent_committee": "House Committee on Agriculture",
+      "url": "",
+      "thomas_id": "14",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Nutrition and Foreign Agriculture",
+      "type": "house",
+      "parent_committee": "House Committee on Agriculture",
+      "url": "",
+      "thomas_id": "03",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Appropriations",
+      "type": "house",
+      "url": "https://appropriations.house.gov/",
+      "thomas_id": "HSAP",
+      "subcommittee_count": 12
+    },
+    {
+      "name": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "01",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Commerce, Justice, Science, and Related Agencies",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "19",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Defense",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "02",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Energy and Water Development and Related Agencies",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "10",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Financial Services and General Government",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "23",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Homeland Security",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "15",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Interior, Environment, and Related Agencies",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "06",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Labor, Health and Human Services, Education, and Related Agencies",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "07",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Legislative Branch",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "24",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Military Construction, Veterans Affairs, and Related Agencies",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "18",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "National Security, Department of State, and Related Programs",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "04",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Transportation, Housing and Urban Development, and Related Agencies",
+      "type": "house",
+      "parent_committee": "House Committee on Appropriations",
+      "url": "",
+      "thomas_id": "20",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Armed Services",
+      "type": "house",
+      "url": "https://armedservices.house.gov/",
+      "thomas_id": "HSAS",
+      "subcommittee_count": 7
+    },
+    {
+      "name": "Tactical Air and Land Forces",
+      "type": "house",
+      "parent_committee": "House Committee on Armed Services",
+      "url": "",
+      "thomas_id": "25",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Military Personnel",
+      "type": "house",
+      "parent_committee": "House Committee on Armed Services",
+      "url": "",
+      "thomas_id": "02",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Readiness",
+      "type": "house",
+      "parent_committee": "House Committee on Armed Services",
+      "url": "",
+      "thomas_id": "03",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Seapower and Projection Forces",
+      "type": "house",
+      "parent_committee": "House Committee on Armed Services",
+      "url": "",
+      "thomas_id": "28",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Strategic Forces",
+      "type": "house",
+      "parent_committee": "House Committee on Armed Services",
+      "url": "",
+      "thomas_id": "29",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Intelligence and Special Operations",
+      "type": "house",
+      "parent_committee": "House Committee on Armed Services",
+      "url": "",
+      "thomas_id": "26",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Cyber, Information Technologies, and Innovation",
+      "type": "house",
+      "parent_committee": "House Committee on Armed Services",
+      "url": "",
+      "thomas_id": "35",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Financial Services",
+      "type": "house",
+      "url": "https://financialservices.house.gov/",
+      "thomas_id": "HSBA",
+      "subcommittee_count": 6
+    },
+    {
+      "name": "Capital Markets",
+      "type": "house",
+      "parent_committee": "House Committee on Financial Services",
+      "url": "",
+      "thomas_id": "16",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Housing and Insurance",
+      "type": "house",
+      "parent_committee": "House Committee on Financial Services",
+      "url": "",
+      "thomas_id": "04",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Oversight and Investigations",
+      "type": "house",
+      "parent_committee": "House Committee on Financial Services",
+      "url": "",
+      "thomas_id": "09",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Financial Institutions",
+      "type": "house",
+      "parent_committee": "House Committee on Financial Services",
+      "url": "",
+      "thomas_id": "20",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Digital Assets, Financial Technology, and Artificial Intelligence",
+      "type": "house",
+      "parent_committee": "House Committee on Financial Services",
+      "url": "",
+      "thomas_id": "21",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "National Security, Illicit Finance, and International Financial Institutions",
+      "type": "house",
+      "parent_committee": "House Committee on Financial Services",
+      "url": "",
+      "thomas_id": "10",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on the Budget",
+      "type": "house",
+      "url": "https://budget.house.gov/",
+      "thomas_id": "HSBU",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Education and Workforce",
+      "type": "house",
+      "url": "https://edlabor.house.gov/",
+      "thomas_id": "HSED",
+      "subcommittee_count": 4
+    },
+    {
+      "name": "Early Childhood, Elementary, and Secondary Education",
+      "type": "house",
+      "parent_committee": "House Committee on Education and Workforce",
+      "url": "",
+      "thomas_id": "14",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Health, Employment, Labor, and Pensions",
+      "type": "house",
+      "parent_committee": "House Committee on Education and Workforce",
+      "url": "",
+      "thomas_id": "02",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Higher Education and Workforce Development",
+      "type": "house",
+      "parent_committee": "House Committee on Education and Workforce",
+      "url": "",
+      "thomas_id": "13",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Workforce Protections",
+      "type": "house",
+      "parent_committee": "House Committee on Education and Workforce",
+      "url": "",
+      "thomas_id": "10",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Foreign Affairs",
+      "type": "house",
+      "url": "https://foreignaffairs.house.gov/",
+      "thomas_id": "HSFA",
+      "subcommittee_count": 7
+    },
+    {
+      "name": "Africa",
+      "type": "house",
+      "parent_committee": "House Committee on Foreign Affairs",
+      "url": "",
+      "thomas_id": "16",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "East Asia and Pacific",
+      "type": "house",
+      "parent_committee": "House Committee on Foreign Affairs",
+      "url": "",
+      "thomas_id": "05",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Europe",
+      "type": "house",
+      "parent_committee": "House Committee on Foreign Affairs",
+      "url": "",
+      "thomas_id": "14",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Middle East and North Africa",
+      "type": "house",
+      "parent_committee": "House Committee on Foreign Affairs",
+      "url": "",
+      "thomas_id": "13",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Western Hemisphere",
+      "type": "house",
+      "parent_committee": "House Committee on Foreign Affairs",
+      "url": "",
+      "thomas_id": "07",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Oversight and Intelligence",
+      "type": "house",
+      "parent_committee": "House Committee on Foreign Affairs",
+      "url": "",
+      "thomas_id": "17",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "South and Central Asia",
+      "type": "house",
+      "parent_committee": "House Committee on Foreign Affairs",
+      "url": "",
+      "thomas_id": "19",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Oversight and Government Reform",
+      "type": "house",
+      "url": "https://oversight.house.gov/",
+      "thomas_id": "HSGO",
+      "subcommittee_count": 7
+    },
+    {
+      "name": "Government Operations",
+      "type": "house",
+      "parent_committee": "House Committee on Oversight and Government Reform",
+      "url": "",
+      "thomas_id": "24",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Military and Foreign Affairs",
+      "type": "house",
+      "parent_committee": "House Committee on Oversight and Government Reform",
+      "url": "",
+      "thomas_id": "06",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Health Care and Financial Services",
+      "type": "house",
+      "parent_committee": "House Committee on Oversight and Government Reform",
+      "url": "",
+      "thomas_id": "27",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Economic Growth, Energy Policy, and Regulatory Affairs",
+      "type": "house",
+      "parent_committee": "House Committee on Oversight and Government Reform",
+      "url": "",
+      "thomas_id": "05",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Cybersecurity, Information Technology, and Government Innovation",
+      "type": "house",
+      "parent_committee": "House Committee on Oversight and Government Reform",
+      "url": "",
+      "thomas_id": "12",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Delivering on Government Efficiency",
+      "type": "house",
+      "parent_committee": "House Committee on Oversight and Government Reform",
+      "url": "",
+      "thomas_id": "16",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Federal Law Enforcement",
+      "type": "house",
+      "parent_committee": "House Committee on Oversight and Government Reform",
+      "url": "",
+      "thomas_id": "33",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on House Administration",
+      "type": "house",
+      "url": "https://cha.house.gov/",
+      "thomas_id": "HSHA",
+      "subcommittee_count": 2
+    },
+    {
+      "name": "Elections",
+      "type": "house",
+      "parent_committee": "House Committee on House Administration",
+      "url": "",
+      "thomas_id": "08",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Modernization and Innovation",
+      "type": "house",
+      "parent_committee": "House Committee on House Administration",
+      "url": "",
+      "thomas_id": "27",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Homeland Security",
+      "type": "house",
+      "url": "https://homeland.house.gov/",
+      "thomas_id": "HSHM",
+      "subcommittee_count": 6
+    },
+    {
+      "name": "Border Security and Enforcement",
+      "type": "house",
+      "parent_committee": "House Committee on Homeland Security",
+      "url": "",
+      "thomas_id": "11",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Emergency Management and Technology",
+      "type": "house",
+      "parent_committee": "House Committee on Homeland Security",
+      "url": "",
+      "thomas_id": "12",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Cybersecurity and Infrastructure Protection",
+      "type": "house",
+      "parent_committee": "House Committee on Homeland Security",
+      "url": "",
+      "thomas_id": "08",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Counterterrorism and Intelligence",
+      "type": "house",
+      "parent_committee": "House Committee on Homeland Security",
+      "url": "",
+      "thomas_id": "05",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Oversight, Investigations, and Accountability",
+      "type": "house",
+      "parent_committee": "House Committee on Homeland Security",
+      "url": "",
+      "thomas_id": "09",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Transportation and Maritime Security",
+      "type": "house",
+      "parent_committee": "House Committee on Homeland Security",
+      "url": "",
+      "thomas_id": "07",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Energy and Commerce",
+      "type": "house",
+      "url": "https://energycommerce.house.gov/",
+      "thomas_id": "HSIF",
+      "subcommittee_count": 6
+    },
+    {
+      "name": "Commerce, Manufacturing, and Trade",
+      "type": "house",
+      "parent_committee": "House Committee on Energy and Commerce",
+      "url": "",
+      "thomas_id": "17",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Communications and Technology",
+      "type": "house",
+      "parent_committee": "House Committee on Energy and Commerce",
+      "url": "",
+      "thomas_id": "16",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Energy",
+      "type": "house",
+      "parent_committee": "House Committee on Energy and Commerce",
+      "url": "",
+      "thomas_id": "03",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Health",
+      "type": "house",
+      "parent_committee": "House Committee on Energy and Commerce",
+      "url": "",
+      "thomas_id": "14",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Oversight and Investigations",
+      "type": "house",
+      "parent_committee": "House Committee on Energy and Commerce",
+      "url": "",
+      "thomas_id": "02",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Environment",
+      "type": "house",
+      "parent_committee": "House Committee on Energy and Commerce",
+      "url": "",
+      "thomas_id": "18",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Natural Resources",
+      "type": "house",
+      "url": "https://naturalresources.house.gov/",
+      "thomas_id": "HSII",
+      "subcommittee_count": 5
+    },
+    {
+      "name": "Energy and Mineral Resources",
+      "type": "house",
+      "parent_committee": "House Committee on Natural Resources",
+      "url": "",
+      "thomas_id": "06",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Federal Lands",
+      "type": "house",
+      "parent_committee": "House Committee on Natural Resources",
+      "url": "",
+      "thomas_id": "10",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Water, Wildlife and Fisheries",
+      "type": "house",
+      "parent_committee": "House Committee on Natural Resources",
+      "url": "",
+      "thomas_id": "13",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Indian and Insular Affairs",
+      "type": "house",
+      "parent_committee": "House Committee on Natural Resources",
+      "url": "",
+      "thomas_id": "24",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Oversight and Investigations",
+      "type": "house",
+      "parent_committee": "House Committee on Natural Resources",
+      "url": "",
+      "thomas_id": "15",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Permanent Select Committee on Intelligence",
+      "type": "house",
+      "url": "https://intelligence.house.gov/",
+      "thomas_id": "HLIG",
+      "subcommittee_count": 6
+    },
+    {
+      "name": "Oversight and Investigations",
+      "type": "house",
+      "parent_committee": "House Permanent Select Committee on Intelligence",
+      "url": "",
+      "thomas_id": "09",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Central Intelligence Agency",
+      "type": "house",
+      "parent_committee": "House Permanent Select Committee on Intelligence",
+      "url": "",
+      "thomas_id": "01",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "National Security Agency and Cyber",
+      "type": "house",
+      "parent_committee": "House Permanent Select Committee on Intelligence",
+      "url": "",
+      "thomas_id": "02",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Defense Intelligence and Overhead Architecture",
+      "type": "house",
+      "parent_committee": "House Permanent Select Committee on Intelligence",
+      "url": "",
+      "thomas_id": "04",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "National Intelligence Enterprise",
+      "type": "house",
+      "parent_committee": "House Permanent Select Committee on Intelligence",
+      "url": "",
+      "thomas_id": "06",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Open Source Intelligence",
+      "type": "house",
+      "parent_committee": "House Permanent Select Committee on Intelligence",
+      "url": "",
+      "thomas_id": "11",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on the Judiciary",
+      "type": "house",
+      "url": "https://judiciary.house.gov/",
+      "thomas_id": "HSJU",
+      "subcommittee_count": 6
+    },
+    {
+      "name": "The Constitution and Limited Government",
+      "type": "house",
+      "parent_committee": "House Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "10",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+      "type": "house",
+      "parent_committee": "House Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "03",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Crime and Federal Government Surveillance",
+      "type": "house",
+      "parent_committee": "House Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "08",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Immigration Integrity, Security, and Enforcement",
+      "type": "house",
+      "parent_committee": "House Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "01",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "The Administrative State, Regulatory Reform, and Antitrust",
+      "type": "house",
+      "parent_committee": "House Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "05",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Oversight",
+      "type": "house",
+      "parent_committee": "House Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "13",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Transportation and Infrastructure",
+      "type": "house",
+      "url": "https://transportation.house.gov/",
+      "thomas_id": "HSPW",
+      "subcommittee_count": 6
+    },
+    {
+      "name": "Aviation",
+      "type": "house",
+      "parent_committee": "House Committee on Transportation and Infrastructure",
+      "url": "",
+      "thomas_id": "05",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Coast Guard and Maritime Transportation",
+      "type": "house",
+      "parent_committee": "House Committee on Transportation and Infrastructure",
+      "url": "",
+      "thomas_id": "07",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Economic Development, Public Buildings, and Emergency Management",
+      "type": "house",
+      "parent_committee": "House Committee on Transportation and Infrastructure",
+      "url": "",
+      "thomas_id": "13",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Highways and Transit",
+      "type": "house",
+      "parent_committee": "House Committee on Transportation and Infrastructure",
+      "url": "",
+      "thomas_id": "12",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Railroads, Pipelines, and Hazardous Materials",
+      "type": "house",
+      "parent_committee": "House Committee on Transportation and Infrastructure",
+      "url": "",
+      "thomas_id": "14",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Water Resources and Environment",
+      "type": "house",
+      "parent_committee": "House Committee on Transportation and Infrastructure",
+      "url": "",
+      "thomas_id": "02",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Rules",
+      "type": "house",
+      "url": "https://rules.house.gov/",
+      "thomas_id": "HSRU",
+      "subcommittee_count": 2
+    },
+    {
+      "name": "Legislative and Budget Process",
+      "type": "house",
+      "parent_committee": "House Committee on Rules",
+      "url": "",
+      "thomas_id": "02",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Rules and Organization of the House",
+      "type": "house",
+      "parent_committee": "House Committee on Rules",
+      "url": "",
+      "thomas_id": "04",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Small Business",
+      "type": "house",
+      "url": "https://smallbusiness.house.gov/",
+      "thomas_id": "HSSM",
+      "subcommittee_count": 5
+    },
+    {
+      "name": "Contracting and Infrastructure",
+      "type": "house",
+      "parent_committee": "House Committee on Small Business",
+      "url": "",
+      "thomas_id": "23",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Oversight, Investigations, and Regulations",
+      "type": "house",
+      "parent_committee": "House Committee on Small Business",
+      "url": "",
+      "thomas_id": "24",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Economic Growth, Tax, and Capital Access",
+      "type": "house",
+      "parent_committee": "House Committee on Small Business",
+      "url": "",
+      "thomas_id": "27",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Rural Development, Energy, and Supply Chains",
+      "type": "house",
+      "parent_committee": "House Committee on Small Business",
+      "url": "",
+      "thomas_id": "21",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Innovation, Entrepreneurship, and Workforce Development",
+      "type": "house",
+      "parent_committee": "House Committee on Small Business",
+      "url": "",
+      "thomas_id": "22",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Ethics",
+      "type": "house",
+      "url": "https://ethics.house.gov/",
+      "thomas_id": "HSSO",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Science, Space, and Technology",
+      "type": "house",
+      "url": "https://science.house.gov/",
+      "thomas_id": "HSSY",
+      "subcommittee_count": 5
+    },
+    {
+      "name": "Energy",
+      "type": "house",
+      "parent_committee": "House Committee on Science, Space, and Technology",
+      "url": "",
+      "thomas_id": "20",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Investigations and Oversight",
+      "type": "house",
+      "parent_committee": "House Committee on Science, Space, and Technology",
+      "url": "",
+      "thomas_id": "21",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Space and Aeronautics",
+      "type": "house",
+      "parent_committee": "House Committee on Science, Space, and Technology",
+      "url": "",
+      "thomas_id": "16",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Environment",
+      "type": "house",
+      "parent_committee": "House Committee on Science, Space, and Technology",
+      "url": "",
+      "thomas_id": "18",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Research and Technology",
+      "type": "house",
+      "parent_committee": "House Committee on Science, Space, and Technology",
+      "url": "",
+      "thomas_id": "15",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Veterans' Affairs",
+      "type": "house",
+      "url": "https://veterans.house.gov/",
+      "thomas_id": "HSVR",
+      "subcommittee_count": 5
+    },
+    {
+      "name": "Disability Assistance and Memorial Affairs",
+      "type": "house",
+      "parent_committee": "House Committee on Veterans' Affairs",
+      "url": "",
+      "thomas_id": "09",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Economic Opportunity",
+      "type": "house",
+      "parent_committee": "House Committee on Veterans' Affairs",
+      "url": "",
+      "thomas_id": "10",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Health",
+      "type": "house",
+      "parent_committee": "House Committee on Veterans' Affairs",
+      "url": "",
+      "thomas_id": "03",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Oversight and Investigations",
+      "type": "house",
+      "parent_committee": "House Committee on Veterans' Affairs",
+      "url": "",
+      "thomas_id": "08",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Technology Modernization",
+      "type": "house",
+      "parent_committee": "House Committee on Veterans' Affairs",
+      "url": "",
+      "thomas_id": "11",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Committee on Ways and Means",
+      "type": "house",
+      "url": "https://waysandmeans.house.gov/",
+      "thomas_id": "HSWM",
+      "subcommittee_count": 6
+    },
+    {
+      "name": "Health",
+      "type": "house",
+      "parent_committee": "House Committee on Ways and Means",
+      "url": "",
+      "thomas_id": "02",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Work and Welfare",
+      "type": "house",
+      "parent_committee": "House Committee on Ways and Means",
+      "url": "",
+      "thomas_id": "03",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Oversight",
+      "type": "house",
+      "parent_committee": "House Committee on Ways and Means",
+      "url": "",
+      "thomas_id": "06",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Tax",
+      "type": "house",
+      "parent_committee": "House Committee on Ways and Means",
+      "url": "",
+      "thomas_id": "05",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Social Security",
+      "type": "house",
+      "parent_committee": "House Committee on Ways and Means",
+      "url": "",
+      "thomas_id": "01",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Trade",
+      "type": "house",
+      "parent_committee": "House Committee on Ways and Means",
+      "url": "",
+      "thomas_id": "04",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Commission on Security and Cooperation in Europe",
+      "type": "joint",
+      "url": "http://www.csce.gov/",
+      "thomas_id": "JCSE",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Joint Economic Committee",
+      "type": "joint",
+      "url": "http://www.jec.senate.gov/",
+      "thomas_id": "JSEC",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Joint Committee of Congress on the Library",
+      "type": "joint",
+      "url": "https://cha.house.gov/jointcommittees/joint-committee-library",
+      "thomas_id": "JSLC",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Joint Committee on Printing",
+      "type": "joint",
+      "url": "https://cha.house.gov/jointcommittees/joint-committee-on-printing",
+      "thomas_id": "JSPR",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Joint Committee on Taxation",
+      "type": "joint",
+      "url": "https://www.jct.gov",
+      "thomas_id": "JSTX",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "United States Senate Caucus on International Narcotics Control",
+      "type": "senate",
+      "url": "http://www.drugcaucus.senate.gov/",
+      "thomas_id": "SCNC",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Select Committee on Ethics",
+      "type": "senate",
+      "url": "http://www.ethics.senate.gov/",
+      "thomas_id": "SLET",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Indian Affairs",
+      "type": "senate",
+      "url": "http://www.indian.senate.gov/",
+      "thomas_id": "SLIA",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Select Committee on Intelligence",
+      "type": "senate",
+      "url": "http://www.intelligence.senate.gov/",
+      "thomas_id": "SLIN",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Special Committee on Aging",
+      "type": "senate",
+      "url": "http://www.aging.senate.gov/",
+      "thomas_id": "SPAG",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "type": "senate",
+      "url": "http://www.agriculture.senate.gov/",
+      "thomas_id": "SSAF",
+      "subcommittee_count": 5
+    },
+    {
+      "name": "Commodities, Derivatives, Risk Management, and Trade",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "url": "",
+      "thomas_id": "13",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Conservation, Forestry, Natural Resources, and Biotechnology",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "url": "",
+      "thomas_id": "14",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Rural Development, Energy, and Credit",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "url": "",
+      "thomas_id": "15",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Food and Nutrition, Specialty Crops, Organics, and Research",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "url": "",
+      "thomas_id": "16",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Livestock, Dairy, Poultry, and Food Safety",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "url": "",
+      "thomas_id": "17",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Appropriations",
+      "type": "senate",
+      "url": "http://www.appropriations.senate.gov/",
+      "thomas_id": "SSAP",
+      "subcommittee_count": 12
+    },
+    {
+      "name": "Commerce, Justice, Science, and Related Agencies",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "16",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Energy and Water Development",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "22",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Financial Services and General Government",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "23",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Department of Homeland Security",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "14",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Department of Interior, Environment, and Related Agencies",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "17",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Departments of Labor, Health and Human Services, and Education, and Related Agencies",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "18",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Military Construction, Veterans Affairs, and Related Agencies",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "19",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "State, Foreign Operations, and Related Programs",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "20",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Transportation, Housing and Urban Development, and Related Agencies",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "24",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "01",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Department of Defense",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "02",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Legislative Branch",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Appropriations",
+      "url": "",
+      "thomas_id": "08",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Armed Services",
+      "type": "senate",
+      "url": "http://www.armed-services.senate.gov/",
+      "thomas_id": "SSAS",
+      "subcommittee_count": 7
+    },
+    {
+      "name": "Airland",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Armed Services",
+      "url": "",
+      "thomas_id": "14",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Emerging Threats and Capabilities",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Armed Services",
+      "url": "",
+      "thomas_id": "20",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Personnel",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Armed Services",
+      "url": "",
+      "thomas_id": "17",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Readiness and Management Support",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Armed Services",
+      "url": "",
+      "thomas_id": "15",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Seapower",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Armed Services",
+      "url": "",
+      "thomas_id": "13",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Strategic Forces",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Armed Services",
+      "url": "",
+      "thomas_id": "16",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Cybersecurity",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Armed Services",
+      "url": "",
+      "thomas_id": "21",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "type": "senate",
+      "url": "http://banking.senate.gov/",
+      "thomas_id": "SSBK",
+      "subcommittee_count": 6
+    },
+    {
+      "name": "Economic Policy",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "url": "",
+      "thomas_id": "12",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "National Security and International Trade and Finance",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "url": "",
+      "thomas_id": "05",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Securities, Insurance, and Investment",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "url": "",
+      "thomas_id": "04",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Housing, Transportation, and Community Development",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "url": "",
+      "thomas_id": "09",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Financial Institutions and Consumer Protection",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "url": "",
+      "thomas_id": "08",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Digital Assets",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "url": "",
+      "thomas_id": "13",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on the Budget",
+      "type": "senate",
+      "url": "http://www.budget.senate.gov/",
+      "thomas_id": "SSBU",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Commerce, Science, and Transportation",
+      "type": "senate",
+      "url": "http://www.commerce.senate.gov/",
+      "thomas_id": "SSCM",
+      "subcommittee_count": 7
+    },
+    {
+      "name": "Aviation, Space, and Innovation",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Commerce, Science, and Transportation",
+      "url": "",
+      "thomas_id": "33",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Telecommunications and Media",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Commerce, Science, and Transportation",
+      "url": "",
+      "thomas_id": "34",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Consumer Protection, Technology, and Data Privacy",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Commerce, Science, and Transportation",
+      "url": "",
+      "thomas_id": "35",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Coast Guard, Maritime, and Fisheries",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Commerce, Science, and Transportation",
+      "url": "",
+      "thomas_id": "36",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Science, Manufacturing, and Competitiveness",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Commerce, Science, and Transportation",
+      "url": "",
+      "thomas_id": "37",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Surface Transportation, Freight, Pipelines, and Safety",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Commerce, Science, and Transportation",
+      "url": "",
+      "thomas_id": "38",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Tourism, Trade, and Export Promotion",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Commerce, Science, and Transportation",
+      "url": "",
+      "thomas_id": "39",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Energy and Natural Resources",
+      "type": "senate",
+      "url": "http://www.energy.senate.gov/",
+      "thomas_id": "SSEG",
+      "subcommittee_count": 4
+    },
+    {
+      "name": "Water and Power",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Energy and Natural Resources",
+      "url": "",
+      "thomas_id": "07",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "National Parks",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Energy and Natural Resources",
+      "url": "",
+      "thomas_id": "04",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Energy",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Energy and Natural Resources",
+      "url": "",
+      "thomas_id": "01",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Public Lands, Forests, and Mining",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Energy and Natural Resources",
+      "url": "",
+      "thomas_id": "03",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Environment and Public Works",
+      "type": "senate",
+      "url": "http://www.epw.senate.gov/",
+      "thomas_id": "SSEV",
+      "subcommittee_count": 4
+    },
+    {
+      "name": "Clean Air, Climate, and Nuclear Innovation and Safety",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Environment and Public Works",
+      "url": "",
+      "thomas_id": "10",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Environment and Public Works",
+      "url": "",
+      "thomas_id": "09",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Transportation and Infrastructure",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Environment and Public Works",
+      "url": "",
+      "thomas_id": "08",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Fisheries, Wildlife, and Water",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Environment and Public Works",
+      "url": "",
+      "thomas_id": "15",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Finance",
+      "type": "senate",
+      "url": "http://www.finance.senate.gov/",
+      "thomas_id": "SSFI",
+      "subcommittee_count": 6
+    },
+    {
+      "name": "Energy, Natural Resources, and Infrastructure",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Finance",
+      "url": "",
+      "thomas_id": "12",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Health Care",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Finance",
+      "url": "",
+      "thomas_id": "10",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "International Trade, Customs, and Global Competitiveness",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Finance",
+      "url": "",
+      "thomas_id": "13",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Fiscal Responsibility and Economic Growth",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Finance",
+      "url": "",
+      "thomas_id": "14",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Taxation and IRS Oversight",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Finance",
+      "url": "",
+      "thomas_id": "11",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Social Security, Pensions, and Family Policy",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Finance",
+      "url": "",
+      "thomas_id": "02",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Foreign Relations",
+      "type": "senate",
+      "url": "http://www.foreign.senate.gov/",
+      "thomas_id": "SSFR",
+      "subcommittee_count": 7
+    },
+    {
+      "name": "Europe and Regional Security Cooperation",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Foreign Relations",
+      "url": "",
+      "thomas_id": "01",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Africa and Global Health Policy",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Foreign Relations",
+      "url": "",
+      "thomas_id": "09",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "East Asia, the Pacific, and International Cybersecurity Policy",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Foreign Relations",
+      "url": "",
+      "thomas_id": "02",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Near East, South Asia, Central Asia, and Counterterrorism",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Foreign Relations",
+      "url": "",
+      "thomas_id": "07",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Foreign Relations",
+      "url": "",
+      "thomas_id": "06",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Foreign Relations",
+      "url": "",
+      "thomas_id": "15",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "State Department and USAID Management, International Operations, and Bilateral International Development",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Foreign Relations",
+      "url": "",
+      "thomas_id": "14",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Homeland Security and Governmental Affairs",
+      "type": "senate",
+      "url": "http://www.hsgac.senate.gov/",
+      "thomas_id": "SSGA",
+      "subcommittee_count": 3
+    },
+    {
+      "name": "Permanent Subcommittee on Investigations",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Homeland Security and Governmental Affairs",
+      "url": "",
+      "thomas_id": "01",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Disaster Management, District of Columbia, and Census",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Homeland Security and Governmental Affairs",
+      "url": "",
+      "thomas_id": "20",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Border Management, Federal Workforce, and Regulatory Affairs",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Homeland Security and Governmental Affairs",
+      "url": "",
+      "thomas_id": "22",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Health, Education, Labor, and Pensions",
+      "type": "senate",
+      "url": "http://www.help.senate.gov/",
+      "thomas_id": "SSHR",
+      "subcommittee_count": 3
+    },
+    {
+      "name": "Employment and Workplace Safety",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Health, Education, Labor, and Pensions",
+      "url": "",
+      "thomas_id": "11",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Primary Health and Retirement Security",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Health, Education, Labor, and Pensions",
+      "url": "",
+      "thomas_id": "12",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Education and the American Family",
+      "type": "senate",
+      "parent_committee": "Senate Committee on Health, Education, Labor, and Pensions",
+      "url": "",
+      "thomas_id": "09",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on the Judiciary",
+      "type": "senate",
+      "url": "http://www.judiciary.senate.gov/",
+      "thomas_id": "SSJU",
+      "subcommittee_count": 8
+    },
+    {
+      "name": "the Constitution",
+      "type": "senate",
+      "parent_committee": "Senate Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "21",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Crime and Counterterrorism",
+      "type": "senate",
+      "parent_committee": "Senate Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "22",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Antitrust, Competition Policy, and Consumer Rights",
+      "type": "senate",
+      "parent_committee": "Senate Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "01",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Border Security and Immigration",
+      "type": "senate",
+      "parent_committee": "Senate Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "04",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Federal Courts, Oversight, Agency Action, and Federal Rights",
+      "type": "senate",
+      "parent_committee": "Senate Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "25",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Intellectual Property",
+      "type": "senate",
+      "parent_committee": "Senate Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "26",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Human Rights and the Law",
+      "type": "senate",
+      "parent_committee": "Senate Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "27",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Privacy, Technology, and the Law",
+      "type": "senate",
+      "parent_committee": "Senate Committee on the Judiciary",
+      "url": "",
+      "thomas_id": "28",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Rules and Administration",
+      "type": "senate",
+      "url": "http://www.rules.senate.gov/",
+      "thomas_id": "SSRA",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Small Business and Entrepreneurship",
+      "type": "senate",
+      "url": "http://www.sbc.senate.gov/",
+      "thomas_id": "SSSB",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "Senate Committee on Veterans' Affairs",
+      "type": "senate",
+      "url": "http://www.veterans.senate.gov/",
+      "thomas_id": "SSVA",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party",
+      "type": "house",
+      "url": "",
+      "thomas_id": "HSZS",
+      "subcommittee_count": 0
+    },
+    {
+      "name": "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021",
+      "type": "house",
+      "url": "",
+      "thomas_id": "HSQJ",
+      "subcommittee_count": 0
+    }
+  ],
+  "meta": {
+    "title": "US Congressional Committees - Free Download",
+    "description": "Current committees and subcommittees of the United States Congress, including House and Senate committees with their official URLs and Thomas IDs. Contains 230 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US Congressional Committees | ListBase",
+    "seo_description": "Download US Congressional Committees — 230 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 230 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unitedstates/congress-legislators"
+    ]
+  }
+}

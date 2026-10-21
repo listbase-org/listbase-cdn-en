@@ -1,0 +1,488 @@
+{
+  "id": "lang-hiragana-table",
+  "name": "Japanese Hiragana Table & Romaji Mapping Dataset",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "hiragana",
+      "label": "Hiragana",
+      "type": "string"
+    },
+    {
+      "key": "romaji",
+      "label": "Romaji",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "row",
+      "label": "Row",
+      "type": "string"
+    },
+    {
+      "key": "column",
+      "label": "Column",
+      "type": "string"
+    },
+    {
+      "key": "stroke_count",
+      "label": "Stroke Count",
+      "type": "number"
+    },
+    {
+      "key": "unicode",
+      "label": "Unicode",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hiragana": "あ",
+      "romaji": "a",
+      "category": "Vowel",
+      "row": "a",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3042"
+    },
+    {
+      "hiragana": "い",
+      "romaji": "i",
+      "category": "Vowel",
+      "row": "a",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+3044"
+    },
+    {
+      "hiragana": "う",
+      "romaji": "u",
+      "category": "Vowel",
+      "row": "a",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3046"
+    },
+    {
+      "hiragana": "え",
+      "romaji": "e",
+      "category": "Vowel",
+      "row": "a",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+3048"
+    },
+    {
+      "hiragana": "お",
+      "romaji": "o",
+      "category": "Vowel",
+      "row": "a",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+304A"
+    },
+    {
+      "hiragana": "か",
+      "romaji": "ka",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+304B"
+    },
+    {
+      "hiragana": "き",
+      "romaji": "ki",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "i",
+      "stroke_count": 4,
+      "unicode": "U+304D"
+    },
+    {
+      "hiragana": "く",
+      "romaji": "ku",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+304F"
+    },
+    {
+      "hiragana": "け",
+      "romaji": "ke",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+3051"
+    },
+    {
+      "hiragana": "こ",
+      "romaji": "ko",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3053"
+    },
+    {
+      "hiragana": "さ",
+      "romaji": "sa",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3055"
+    },
+    {
+      "hiragana": "し",
+      "romaji": "shi",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "i",
+      "stroke_count": 1,
+      "unicode": "U+3057"
+    },
+    {
+      "hiragana": "す",
+      "romaji": "su",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3059"
+    },
+    {
+      "hiragana": "せ",
+      "romaji": "se",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+305B"
+    },
+    {
+      "hiragana": "そ",
+      "romaji": "so",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+305D"
+    },
+    {
+      "hiragana": "た",
+      "romaji": "ta",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "a",
+      "stroke_count": 4,
+      "unicode": "U+305F"
+    },
+    {
+      "hiragana": "ち",
+      "romaji": "chi",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+3061"
+    },
+    {
+      "hiragana": "つ",
+      "romaji": "tsu",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+3064"
+    },
+    {
+      "hiragana": "て",
+      "romaji": "te",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+3066"
+    },
+    {
+      "hiragana": "と",
+      "romaji": "to",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3068"
+    },
+    {
+      "hiragana": "な",
+      "romaji": "na",
+      "category": "N-consonant",
+      "row": "na",
+      "column": "a",
+      "stroke_count": 4,
+      "unicode": "U+306A"
+    },
+    {
+      "hiragana": "に",
+      "romaji": "ni",
+      "category": "N-consonant",
+      "row": "na",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+306B"
+    },
+    {
+      "hiragana": "ぬ",
+      "romaji": "nu",
+      "category": "N-consonant",
+      "row": "na",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+306C"
+    },
+    {
+      "hiragana": "ね",
+      "romaji": "ne",
+      "category": "N-consonant",
+      "row": "na",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+306D"
+    },
+    {
+      "hiragana": "の",
+      "romaji": "no",
+      "category": "N-consonant",
+      "row": "na",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+306E"
+    },
+    {
+      "hiragana": "は",
+      "romaji": "ha",
+      "category": "H-consonant",
+      "row": "ha",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+306F"
+    },
+    {
+      "hiragana": "ひ",
+      "romaji": "hi",
+      "category": "H-consonant",
+      "row": "ha",
+      "column": "i",
+      "stroke_count": 1,
+      "unicode": "U+3072"
+    },
+    {
+      "hiragana": "ふ",
+      "romaji": "fu",
+      "category": "H-consonant",
+      "row": "ha",
+      "column": "u",
+      "stroke_count": 4,
+      "unicode": "U+3075"
+    },
+    {
+      "hiragana": "へ",
+      "romaji": "he",
+      "category": "H-consonant",
+      "row": "ha",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+3078"
+    },
+    {
+      "hiragana": "ほ",
+      "romaji": "ho",
+      "category": "H-consonant",
+      "row": "ha",
+      "column": "o",
+      "stroke_count": 4,
+      "unicode": "U+307B"
+    },
+    {
+      "hiragana": "ま",
+      "romaji": "ma",
+      "category": "M-consonant",
+      "row": "ma",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+307E"
+    },
+    {
+      "hiragana": "み",
+      "romaji": "mi",
+      "category": "M-consonant",
+      "row": "ma",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+307F"
+    },
+    {
+      "hiragana": "む",
+      "romaji": "mu",
+      "category": "M-consonant",
+      "row": "ma",
+      "column": "u",
+      "stroke_count": 3,
+      "unicode": "U+3080"
+    },
+    {
+      "hiragana": "め",
+      "romaji": "me",
+      "category": "M-consonant",
+      "row": "ma",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+3081"
+    },
+    {
+      "hiragana": "も",
+      "romaji": "mo",
+      "category": "M-consonant",
+      "row": "ma",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+3082"
+    },
+    {
+      "hiragana": "や",
+      "romaji": "ya",
+      "category": "Y-consonant",
+      "row": "ya",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3084"
+    },
+    {
+      "hiragana": "ゆ",
+      "romaji": "yu",
+      "category": "Y-consonant",
+      "row": "ya",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3086"
+    },
+    {
+      "hiragana": "よ",
+      "romaji": "yo",
+      "category": "Y-consonant",
+      "row": "ya",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3088"
+    },
+    {
+      "hiragana": "ら",
+      "romaji": "ra",
+      "category": "R-consonant",
+      "row": "ra",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+3089"
+    },
+    {
+      "hiragana": "り",
+      "romaji": "ri",
+      "category": "R-consonant",
+      "row": "ra",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+308A"
+    },
+    {
+      "hiragana": "る",
+      "romaji": "ru",
+      "category": "R-consonant",
+      "row": "ra",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+308B"
+    },
+    {
+      "hiragana": "れ",
+      "romaji": "re",
+      "category": "R-consonant",
+      "row": "ra",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+308C"
+    },
+    {
+      "hiragana": "ろ",
+      "romaji": "ro",
+      "category": "R-consonant",
+      "row": "ra",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+308D"
+    },
+    {
+      "hiragana": "わ",
+      "romaji": "wa",
+      "category": "W-consonant",
+      "row": "wa",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+308F"
+    },
+    {
+      "hiragana": "を",
+      "romaji": "wo",
+      "category": "W-consonant",
+      "row": "wa",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+3092"
+    },
+    {
+      "hiragana": "ん",
+      "romaji": "n",
+      "category": "Nasal",
+      "row": "n",
+      "column": "-",
+      "stroke_count": 1,
+      "unicode": "U+3093"
+    }
+  ],
+  "meta": {
+    "seo_title": "Japanese Hiragana Table - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download of the Japanese Hiragana Table dataset. Access 46 essential Hiragana characters with Romaji, stroke counts, and Unicode. Available in Excel, CSV, and PDF formats.",
+    "title": "Japanese Hiragana Table & Romaji Mapping Dataset",
+    "description": "This dataset provides a comprehensive list of 46 Japanese Hiragana characters, complete with their Romaji transliterations, categories, stroke counts, and Unicode values. Ideal for language learners and developers.",
+    "key_takeaways": [
+      "Access 46 fundamental Japanese Hiragana characters.",
+      "Explore accurate Romaji mappings and Unicode values.",
+      "Download detailed stroke counts and character categories.",
+      "Use this data for language learning applications and development."
+    ],
+    "keywords": [
+      "hiragana table excel",
+      "japanese hiragana csv",
+      "hiragana romaji list",
+      "japanese character data",
+      "learn hiragana download",
+      "unicode hiragana data"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your Python application or SQL database to build a custom Japanese learning tool or character lookup service.",
+      "Use the **Excel** file to filter characters by category, sort by stroke count, or create interactive flashcards for language study.",
+      "Print the **PDF** version for classroom reference, offline study, or as a handy wall chart for learning Hiragana.",
+      "Leverage this dataset to validate user input in Japanese text fields or enhance multilingual software solutions."
+    ]
+  },
+  "record_count": 46,
+  "title": "Japanese Hiragana Table & Romaji Mapping Dataset"
+}

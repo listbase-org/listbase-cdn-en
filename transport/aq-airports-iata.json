@@ -1,0 +1,121 @@
+{
+  "id": "aq-airports-iata",
+  "name": "Antarctica — IATA Airports",
+  "title": "Antarctica — IATA Airports",
+  "description": "Airports with IATA codes in Antarctica: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "string"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "TNM",
+      "icao_code": "SCRM",
+      "name": "Teniente R. Marsh Airport",
+      "city_name_list": "King George Island",
+      "country_code": "AQ",
+      "country_name": "Antarctica",
+      "continent_name": "Antarctica",
+      "adm1_name_ascii": "",
+      "latitude": -62.19083,
+      "longitude": -58.98667,
+      "elevation": "",
+      "timezone": "Antarctica/Palmer",
+      "wiki_link": "https://en.wikipedia.org/wiki/Teniente_R._Marsh_Airport"
+    },
+    {
+      "iata_code": "UGL",
+      "icao_code": "SCGC",
+      "name": "Union Glacier Blue-Ice Runway",
+      "city_name_list": "Union Glacier=Union Glacier Camp",
+      "country_code": "AQ",
+      "country_name": "Antarctica",
+      "continent_name": "Antarctica",
+      "adm1_name_ascii": "",
+      "latitude": -79.77683,
+      "longitude": -83.31852,
+      "elevation": "",
+      "timezone": "Antarctica/Rothera",
+      "wiki_link": "https://en.wikipedia.org/wiki/Union_Glacier_Blue-Ice_Runway"
+    }
+  ],
+  "meta": {
+    "title": "Antarctica — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Antarctica: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antarctica — IATA Airports | ListBase",
+    "seo_description": "Download Antarctica — IATA Airports dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

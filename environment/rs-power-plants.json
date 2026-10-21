@@ -1,0 +1,322 @@
+{
+  "id": "rs-power-plants",
+  "name": "Serbia — Power Plants",
+  "title": "Serbia — Power Plants",
+  "description": "Power plants located in Serbia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "TENT A",
+      "gppd_idnr": "WRI1020275",
+      "capacity_mw": 1730,
+      "latitude": 44.6711,
+      "longitude": 20.1593,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 36.54",
+      "estimated_generation_gwh": "2017: 10443.39",
+      "generation_data_source": "ENTSOE"
+    },
+    {
+      "name": "TENT B",
+      "gppd_idnr": "WRI1020276",
+      "capacity_mw": 1270,
+      "latitude": 44.6551,
+      "longitude": 20.0053,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 27.36",
+      "estimated_generation_gwh": "2017: 7666.54",
+      "generation_data_source": "ENTSOE"
+    },
+    {
+      "name": "HE DJERDAP I",
+      "gppd_idnr": "WRI1020277",
+      "capacity_mw": 1086,
+      "latitude": 44.6684,
+      "longitude": 22.5268,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 12.72",
+      "estimated_generation_gwh": "2013: 5220.93; 2014: 5465.71; 2015: 5092.84; 2016: 5235.23; 2017: 4737.75",
+      "generation_data_source": "ENTSOE"
+    },
+    {
+      "name": "TE KOSTOLAC B",
+      "gppd_idnr": "WRI1020278",
+      "capacity_mw": 697,
+      "latitude": 44.7307,
+      "longitude": 21.2104,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 14.9",
+      "estimated_generation_gwh": "2017: 4207.54",
+      "generation_data_source": "ENTSOE"
+    },
+    {
+      "name": "TE KOSOVO B",
+      "gppd_idnr": "WRI1020279",
+      "capacity_mw": 618,
+      "latitude": 42.6945,
+      "longitude": 21.059,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 3730.64",
+      "generation_data_source": ""
+    },
+    {
+      "name": "TE KOSOVO A",
+      "gppd_idnr": "WRI1020280",
+      "capacity_mw": 617,
+      "latitude": 42.6773,
+      "longitude": 21.0886,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 3724.61",
+      "generation_data_source": ""
+    },
+    {
+      "name": "RHE BAJINA BASTA",
+      "gppd_idnr": "WRI1020281",
+      "capacity_mw": 614,
+      "latitude": 43.9645,
+      "longitude": 19.4102,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 1.39",
+      "estimated_generation_gwh": "2013: 2345.66; 2014: 1911.17; 2015: 2406.59; 2016: 2800.14; 2017: 2082.91",
+      "generation_data_source": "ENTSOE"
+    },
+    {
+      "name": "HE BAJINA BASTA",
+      "gppd_idnr": "WRI1020282",
+      "capacity_mw": 420,
+      "latitude": 43.9645,
+      "longitude": 19.4102,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 4.57",
+      "estimated_generation_gwh": "2013: 1607.41; 2014: 1310.2; 2015: 1649.09; 2016: 1918.3; 2017: 1427.68",
+      "generation_data_source": "ENTSOE"
+    },
+    {
+      "name": "TE KOSTOLAC A",
+      "gppd_idnr": "WRI1020283",
+      "capacity_mw": 281,
+      "latitude": 44.7229,
+      "longitude": 21.1717,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 4.58",
+      "estimated_generation_gwh": "2017: 1696.29",
+      "generation_data_source": "ENTSOE"
+    },
+    {
+      "name": "HE DJERDAP II",
+      "gppd_idnr": "WRI1020284",
+      "capacity_mw": 270,
+      "latitude": 44.3065,
+      "longitude": 22.5667,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1398.53; 2014: 1459.39; 2015: 1366.68; 2016: 1402.36; 2017: 1278.4",
+      "generation_data_source": ""
+    },
+    {
+      "name": "TE KOLUBARA",
+      "gppd_idnr": "WRI1020285",
+      "capacity_mw": 245,
+      "latitude": 44.4806,
+      "longitude": 20.2934,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1478.97",
+      "generation_data_source": ""
+    },
+    {
+      "name": "TE MORAVA",
+      "gppd_idnr": "WRI1020288",
+      "capacity_mw": 110,
+      "latitude": 44.2248,
+      "longitude": 21.1627,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "ENTSOE",
+      "url": "https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2015: 0.98",
+      "estimated_generation_gwh": "2017: 664.03",
+      "generation_data_source": "ENTSOE"
+    }
+  ],
+  "meta": {
+    "title": "Serbia — Power Plants - Free Download",
+    "description": "Power plants located in Serbia from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Serbia — Power Plants | ListBase",
+    "seo_description": "Download Serbia — Power Plants dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

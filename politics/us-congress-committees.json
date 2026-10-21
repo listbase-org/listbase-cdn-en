@@ -1,0 +1,448 @@
+{
+  "id": "us-congress-committees",
+  "name": "United States — Congressional Committees",
+  "title": "United States — Congressional Committees",
+  "description": "Current US congressional committees (House, Senate, Joint) with jurisdiction and subcommittee counts.",
+  "category": "politics",
+  "source": "https://github.com/unitedstates/congress-legislators",
+  "source_url": "https://github.com/unitedstates/congress-legislators",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "thomas_id",
+      "label": "Thomas Id",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "jurisdiction",
+      "label": "Jurisdiction",
+      "type": "string"
+    },
+    {
+      "key": "subcommittees",
+      "label": "Subcommittees",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "House Committee on Agriculture",
+      "type": "house",
+      "thomas_id": "HSAG",
+      "url": "https://agriculture.house.gov/",
+      "jurisdiction": "The House Committee on Agriculture has legislative jurisdiction over agriculture, food, rural development, and forestry.",
+      "subcommittees": 6
+    },
+    {
+      "name": "House Committee on Appropriations",
+      "type": "house",
+      "thomas_id": "HSAP",
+      "url": "https://appropriations.house.gov/",
+      "jurisdiction": "The House Committee on Appropriations is responsible for legislation allocating federal funds prior to expenditure from the treasury. Appropriations are generally limited to the levels set by the Budg…",
+      "subcommittees": 12
+    },
+    {
+      "name": "House Committee on Armed Services",
+      "type": "house",
+      "thomas_id": "HSAS",
+      "url": "https://armedservices.house.gov/",
+      "jurisdiction": "The House Committee on Armed Services has legislative jurisdiction over military and defense.",
+      "subcommittees": 7
+    },
+    {
+      "name": "House Committee on Financial Services",
+      "type": "house",
+      "thomas_id": "HSBA",
+      "url": "https://financialservices.house.gov/",
+      "jurisdiction": "The House Financial Services Committee has jurisdiction over issues pertaining to the economy, the banking system, housing, insurance, and securities and exchanges. Additionally, the Committee also ha…",
+      "subcommittees": 6
+    },
+    {
+      "name": "House Committee on the Budget",
+      "type": "house",
+      "thomas_id": "HSBU",
+      "url": "https://budget.house.gov/",
+      "jurisdiction": "The House Committee on the Budget is responsible for drafting a concurrent resolution on the budget for congressional action on spending, revenue, and debt-limit legislation. The Budget Resolution mus…",
+      "subcommittees": 0
+    },
+    {
+      "name": "House Committee on Education and Workforce",
+      "type": "house",
+      "thomas_id": "HSED",
+      "url": "https://edlabor.house.gov/",
+      "jurisdiction": "The committee has legislative jurisdiction over matters related to higher and lower education, workforce development and protections, and health, employment, labor, and pensions.",
+      "subcommittees": 4
+    },
+    {
+      "name": "House Committee on Foreign Affairs",
+      "type": "house",
+      "thomas_id": "HSFA",
+      "url": "https://foreignaffairs.house.gov/",
+      "jurisdiction": "The House Committee on Foreign Affairs considers legislation that impacts the diplomatic community, which includes the Department of State, the Agency for International Development, the Peace Corps, t…",
+      "subcommittees": 7
+    },
+    {
+      "name": "House Committee on Oversight and Government Reform",
+      "type": "house",
+      "thomas_id": "HSGO",
+      "url": "https://oversight.house.gov/",
+      "jurisdiction": "The committee oversees the federal government and all of its agencies to ensure efficiency, effectiveness, and accountability. The Committee oversees government operations, health care, information te…",
+      "subcommittees": 7
+    },
+    {
+      "name": "House Committee on House Administration",
+      "type": "house",
+      "thomas_id": "HSHA",
+      "url": "https://cha.house.gov/",
+      "jurisdiction": "The Committee on House Administration has legislative jurisdiction over the federal elections and the day-to-day operations of the House. The Committee's jurisdiction over federal elections requires i…",
+      "subcommittees": 2
+    },
+    {
+      "name": "House Committee on Homeland Security",
+      "type": "house",
+      "thomas_id": "HSHM",
+      "url": "https://homeland.house.gov/",
+      "jurisdiction": "The House Committee on Homeland Security has jurisdiction over matters related to national defense. It has six subcommittees on border and maritime security; counterterrorism and intelligence; cyberse…",
+      "subcommittees": 6
+    },
+    {
+      "name": "House Committee on Energy and Commerce",
+      "type": "house",
+      "thomas_id": "HSIF",
+      "url": "https://energycommerce.house.gov/",
+      "jurisdiction": "The House Committee on Energy and Commerce has legislative jurisdiction on matters related to telecommunications, consumer protection, food and drug safety, public health research, environmental quali…",
+      "subcommittees": 6
+    },
+    {
+      "name": "House Committee on Natural Resources",
+      "type": "house",
+      "thomas_id": "HSII",
+      "url": "https://naturalresources.house.gov/",
+      "jurisdiction": "The House Committee on Natural Resources considers legislation about American energy production, mineral lands and mining, fisheries and wildlife, public lands, oceans, Native Americans, irrigation an…",
+      "subcommittees": 5
+    },
+    {
+      "name": "House Permanent Select Committee on Intelligence",
+      "type": "house",
+      "thomas_id": "HLIG",
+      "url": "https://intelligence.house.gov/",
+      "jurisdiction": "The United States House Permanent Select Committee on Intelligence (HPSCI) is a committee of the United States House of Representatives. Created in 1977, HPSCI is charged with oversight of the United…",
+      "subcommittees": 6
+    },
+    {
+      "name": "House Committee on the Judiciary",
+      "type": "house",
+      "thomas_id": "HSJU",
+      "url": "https://judiciary.house.gov/",
+      "jurisdiction": "The Committee on the Judiciary has jurisdiction over matters relating to the administration of justice in federal courts, administrative bodies, and law enforcement agencies. Its role in impeachment p…",
+      "subcommittees": 6
+    },
+    {
+      "name": "House Committee on Transportation and Infrastructure",
+      "type": "house",
+      "thomas_id": "HSPW",
+      "url": "https://transportation.house.gov/",
+      "jurisdiction": "The Transportation and Infrastructure Committee has jurisdiction over all modes of transportation: aviation, maritime and waterborne transportation, highways, bridges, mass transit, and railroads. The…",
+      "subcommittees": 6
+    },
+    {
+      "name": "House Committee on Rules",
+      "type": "house",
+      "thomas_id": "HSRU",
+      "url": "https://rules.house.gov/",
+      "jurisdiction": "The House Committee on Rules is commonly known as “The Speaker’s Committee” because it is the mechanism that the Speaker uses to maintain control of the House Floor. Because of the vast power wielded…",
+      "subcommittees": 2
+    },
+    {
+      "name": "House Committee on Small Business",
+      "type": "house",
+      "thomas_id": "HSSM",
+      "url": "https://smallbusiness.house.gov/",
+      "jurisdiction": "The House Small Business Committee was established to protect and assist small businesses.  As such, the Committee has jurisdiction over matters related to small business financial aid, regulatory fle…",
+      "subcommittees": 5
+    },
+    {
+      "name": "House Committee on Ethics",
+      "type": "house",
+      "thomas_id": "HSSO",
+      "url": "https://ethics.house.gov/",
+      "jurisdiction": "The House Committee on Ethics has the jurisdiction to administer travel, gift, financial disclosure, outside income, and other regulations; advise members and staff; issue advisory opinions and invest…",
+      "subcommittees": 0
+    },
+    {
+      "name": "House Committee on Science, Space, and Technology",
+      "type": "house",
+      "thomas_id": "HSSY",
+      "url": "https://science.house.gov/",
+      "jurisdiction": "The Committee on Science, Space, and Technology has a jurisdiction over a range of matters related to energy research and development, federally owned or operated non-military energy laboratories, ast…",
+      "subcommittees": 5
+    },
+    {
+      "name": "House Committee on Veterans' Affairs",
+      "type": "house",
+      "thomas_id": "HSVR",
+      "url": "https://veterans.house.gov/",
+      "jurisdiction": "The House Committee on Veterans' Affairs is the authorizing committee for the Department of Veterans Affairs (VA). The committee is responsible for recommending legislation expanding, curtailing, or f…",
+      "subcommittees": 5
+    },
+    {
+      "name": "House Committee on Ways and Means",
+      "type": "house",
+      "thomas_id": "HSWM",
+      "url": "https://waysandmeans.house.gov/",
+      "jurisdiction": "The Committee on Ways and Means is the chief tax-writing committee in the House of Representatives. The Committee derives a large share of its jurisdiction from Article I, Section VII of the U.S. Cons…",
+      "subcommittees": 6
+    },
+    {
+      "name": "Commission on Security and Cooperation in Europe",
+      "type": "joint",
+      "thomas_id": "JCSE",
+      "url": "http://www.csce.gov/",
+      "jurisdiction": "",
+      "subcommittees": 0
+    },
+    {
+      "name": "Joint Economic Committee",
+      "type": "joint",
+      "thomas_id": "JSEC",
+      "url": "http://www.jec.senate.gov/",
+      "jurisdiction": "",
+      "subcommittees": 0
+    },
+    {
+      "name": "Joint Committee of Congress on the Library",
+      "type": "joint",
+      "thomas_id": "JSLC",
+      "url": "https://cha.house.gov/jointcommittees/joint-committee-library",
+      "jurisdiction": "",
+      "subcommittees": 0
+    },
+    {
+      "name": "Joint Committee on Printing",
+      "type": "joint",
+      "thomas_id": "JSPR",
+      "url": "https://cha.house.gov/jointcommittees/joint-committee-on-printing",
+      "jurisdiction": "",
+      "subcommittees": 0
+    },
+    {
+      "name": "Joint Committee on Taxation",
+      "type": "joint",
+      "thomas_id": "JSTX",
+      "url": "https://www.jct.gov",
+      "jurisdiction": "",
+      "subcommittees": 0
+    },
+    {
+      "name": "United States Senate Caucus on International Narcotics Control",
+      "type": "senate",
+      "thomas_id": "SCNC",
+      "url": "http://www.drugcaucus.senate.gov/",
+      "jurisdiction": "The Senate Caucus on International Narcotics Control was created to “monitor and encourage United States Government and private programs seeking to expand international cooperation against drug abuse…",
+      "subcommittees": 0
+    },
+    {
+      "name": "Senate Select Committee on Ethics",
+      "type": "senate",
+      "thomas_id": "SLET",
+      "url": "http://www.ethics.senate.gov/",
+      "jurisdiction": "The Senate Select Committee on Ethics is authorized to receive and investigate allegations of improper conduct which may reflect upon the Senate, violations of law, violations of the Senate Code of Of…",
+      "subcommittees": 0
+    },
+    {
+      "name": "Senate Committee on Indian Affairs",
+      "type": "senate",
+      "thomas_id": "SLIA",
+      "url": "http://www.indian.senate.gov/",
+      "jurisdiction": "The Senate Committee on Indian Affairs has jurisdiction to study the unique problems of American Indian, Native Hawaiian, and Alaska Native peoples and to propose legislation to alleviate these diffic…",
+      "subcommittees": 0
+    },
+    {
+      "name": "Senate Select Committee on Intelligence",
+      "type": "senate",
+      "thomas_id": "SLIN",
+      "url": "http://www.intelligence.senate.gov/",
+      "jurisdiction": "The Senate Committee on Intelligence was created to study the intelligence activities and programs of the United States Government and report to the Senate concerning such intelligence activities and…",
+      "subcommittees": 0
+    },
+    {
+      "name": "Senate Special Committee on Aging",
+      "type": "senate",
+      "thomas_id": "SPAG",
+      "url": "http://www.aging.senate.gov/",
+      "jurisdiction": "The Senate Special Committee on Aging conducts a continuing study of issues related to older Americans such as health, income, lifestyle, and more. The committee reports its findings back to the Senat…",
+      "subcommittees": 0
+    },
+    {
+      "name": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "type": "senate",
+      "thomas_id": "SSAF",
+      "url": "http://www.agriculture.senate.gov/",
+      "jurisdiction": "The Senate Committee on Agriculture has legislative jurisdiction over agriculture, food, and nutrition.",
+      "subcommittees": 5
+    },
+    {
+      "name": "Senate Committee on Appropriations",
+      "type": "senate",
+      "thomas_id": "SSAP",
+      "url": "http://www.appropriations.senate.gov/",
+      "jurisdiction": "The Senate Committee on Appropriations is responsible for legislation allocating federal funds prior to expenditure from the treasury. Appropriations are generally limited to the levels set by the Bud…",
+      "subcommittees": 12
+    },
+    {
+      "name": "Senate Committee on Armed Services",
+      "type": "senate",
+      "thomas_id": "SSAS",
+      "url": "http://www.armed-services.senate.gov/",
+      "jurisdiction": "The Senate Committee on Armed Services has legislative jurisdiction over military and defense.",
+      "subcommittees": 7
+    },
+    {
+      "name": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "type": "senate",
+      "thomas_id": "SSBK",
+      "url": "http://banking.senate.gov/",
+      "jurisdiction": "The Senate Committee on Banking, Housing, and Urban Affairs not only has legislative jurisdiction on the topics listed in its name, but also on a range of other topics such as economic stability, fede…",
+      "subcommittees": 6
+    },
+    {
+      "name": "Senate Committee on the Budget",
+      "type": "senate",
+      "thomas_id": "SSBU",
+      "url": "http://www.budget.senate.gov/",
+      "jurisdiction": "The Senate Committee on the Budget is responsible for drafting a concurrent resolution on the budget for congressional action on spending, revenue, and debt-limit legislation. The Budget Resolution mu…",
+      "subcommittees": 0
+    },
+    {
+      "name": "Senate Committee on Commerce, Science, and Transportation",
+      "type": "senate",
+      "thomas_id": "SSCM",
+      "url": "http://www.commerce.senate.gov/",
+      "jurisdiction": "The Senate Committee on Commerce, Science, and Transportation has legislative jurisdiction on matters related to science and technology, oceans policy, transportation, communications, and consumer aff…",
+      "subcommittees": 7
+    },
+    {
+      "name": "Senate Committee on Energy and Natural Resources",
+      "type": "senate",
+      "thomas_id": "SSEG",
+      "url": "http://www.energy.senate.gov/",
+      "jurisdiction": "The Senate Committee on Energy and Natural Resources has legislative jurisdiction on matters related to energy resources and development, nuclear energy, Indian affairs, public lands and their renewab…",
+      "subcommittees": 4
+    },
+    {
+      "name": "Senate Committee on Environment and Public Works",
+      "type": "senate",
+      "thomas_id": "SSEV",
+      "url": "http://www.epw.senate.gov/",
+      "jurisdiction": "The Senate Committee on Environment and Public Works has legislative jurisdiction on matters related to environmental protection, resource utilization and conservation, and public infrastructure.",
+      "subcommittees": 4
+    },
+    {
+      "name": "Senate Committee on Finance",
+      "type": "senate",
+      "thomas_id": "SSFI",
+      "url": "http://www.finance.senate.gov/",
+      "jurisdiction": "The Senate Committee on Finance has legislative jurisdiction on matters relating to taxation, debt, customs, foreign trade, and health programs under the Social Security Act such as Medicare, Medicaid…",
+      "subcommittees": 6
+    },
+    {
+      "name": "Senate Committee on Foreign Relations",
+      "type": "senate",
+      "thomas_id": "SSFR",
+      "url": "http://www.foreign.senate.gov/",
+      "jurisdiction": "The Senate Committee on Foreign Relations was established in 1816 as one of the original ten standing committees of the Senate. Throughout its history, the committee has been instrumental in developin…",
+      "subcommittees": 7
+    },
+    {
+      "name": "Senate Committee on Homeland Security and Governmental Affairs",
+      "type": "senate",
+      "thomas_id": "SSGA",
+      "url": "http://www.hsgac.senate.gov/",
+      "jurisdiction": "The Senate Committee on Homeland Security and Governmental Affairs is the Senate’s primary oversight committee with broad jurisdiction over government operations generally and the Department of Homela…",
+      "subcommittees": 3
+    },
+    {
+      "name": "Senate Committee on Health, Education, Labor, and Pensions",
+      "type": "senate",
+      "thomas_id": "SSHR",
+      "url": "http://www.help.senate.gov/",
+      "jurisdiction": "The Senate Committee on Health, Education, Labor, and Pensions has jurisdiction over most of the agencies, institutes, and programs of the Department of Health and Human Services, including the Food a…",
+      "subcommittees": 3
+    },
+    {
+      "name": "Senate Committee on the Judiciary",
+      "type": "senate",
+      "thomas_id": "SSJU",
+      "url": "http://www.judiciary.senate.gov/",
+      "jurisdiction": "The Senate Committee on the Judiciary provides oversight of the Department of Justice and the agencies under the Department's jurisdiction, including the Federal Bureau of Investigation, and the Depar…",
+      "subcommittees": 8
+    },
+    {
+      "name": "Senate Committee on Rules and Administration",
+      "type": "senate",
+      "thomas_id": "SSRA",
+      "url": "http://www.rules.senate.gov/",
+      "jurisdiction": "The Senate Committee on Rules and Administration has legislative jurisdiction over the organization and operation of Congress. This includes matters such as congressional rules and procedures, corrupt…",
+      "subcommittees": 0
+    },
+    {
+      "name": "Senate Committee on Small Business and Entrepreneurship",
+      "type": "senate",
+      "thomas_id": "SSSB",
+      "url": "http://www.sbc.senate.gov/",
+      "jurisdiction": "The Senate Committee on Small Business and Entrepreneurship has legislative jurisdiction over the Small Business Administration (SBA). The SBA is an independent federal agency meant to assist and prot…",
+      "subcommittees": 0
+    },
+    {
+      "name": "Senate Committee on Veterans' Affairs",
+      "type": "senate",
+      "thomas_id": "SSVA",
+      "url": "http://www.veterans.senate.gov/",
+      "jurisdiction": "The Senate Committee on Veterans' Affairs has legislative jurisdiction over matters relating to veterans compensation and veterans generally, as well as matters relating to the vocational rehabilitati…",
+      "subcommittees": 0
+    },
+    {
+      "name": "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party",
+      "type": "house",
+      "thomas_id": "HSZS",
+      "url": "",
+      "jurisdiction": "",
+      "subcommittees": 0
+    },
+    {
+      "name": "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021",
+      "type": "house",
+      "thomas_id": "HSQJ",
+      "url": "",
+      "jurisdiction": "",
+      "subcommittees": 0
+    }
+  ],
+  "meta": {
+    "title": "United States — Congressional Committees - Free Download",
+    "description": "Current US congressional committees (House, Senate, Joint) with jurisdiction and subcommittee counts. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "United States — Congressional Committees | ListBase",
+    "seo_description": "Download United States — Congressional Committees dataset with 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records with 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/unitedstates/congress-legislators"
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "kp-political-parties",
+  "name": "North Korea — Political Parties",
+  "title": "North Korea — Political Parties",
+  "description": "Political parties of North Korea from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "string"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 6555,
+      "name_short": "DFRF",
+      "name": "Joguk tong(-)il minju juui jeonseon",
+      "name_english": "Democratic Front for the Reunification of the Fatherland / North Korean Fatherland United Democratic Front",
+      "name_other": "Chosŏn'gŭl: 조국통일민주주의전선",
+      "year_first": 1946,
+      "year_last": "",
+      "share": 100,
+      "share_year": 2014,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Front_for_the_Reunification_of_the_Fatherland",
+      "description": "consist of 4712 6556",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4712,
+      "name_short": "WPK",
+      "name": "Joseon-Rodong-Dang",
+      "name_english": "Workers' Party of Korea",
+      "name_other": "Korean: 조선로동당",
+      "year_first": 1949,
+      "year_last": "",
+      "share": 88.2,
+      "share_year": 2009,
+      "wikipedia": "https://en.wikipedia.org/wiki/Workers%27_Party_of_Korea",
+      "description": "member of 6555",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6556,
+      "name_short": "KSDP",
+      "name": "Chosŏn Sahoe Minjudang",
+      "name_english": "Korean Social Democratic Party",
+      "name_other": "Chosŏn'gŭl: 조선사회민주당",
+      "year_first": 1945,
+      "year_last": "",
+      "share": 7.7,
+      "share_year": 1998,
+      "wikipedia": "https://en.wikipedia.org/wiki/Korean_Social_Democratic_Party",
+      "description": "member of 6555",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "North Korea — Political Parties - Free Download",
+    "description": "Political parties of North Korea from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 3 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "North Korea — Political Parties | ListBase",
+    "seo_description": "Download North Korea — Political Parties dataset with 3 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 3 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

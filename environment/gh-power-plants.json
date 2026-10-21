@@ -1,0 +1,214 @@
+{
+  "id": "gh-power-plants",
+  "name": "Ghana — Power Plants",
+  "title": "Ghana — Power Plants",
+  "description": "Power plants located in Ghana from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aksombo",
+      "gppd_idnr": "WRI1000011",
+      "capacity_mw": 1038,
+      "latitude": 6.2998,
+      "longitude": 0.0594,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1961,
+      "owner": "",
+      "source": "Volta River Authority",
+      "url": "http://www.vra.com/resources/annual_reports/2014%20Annual%20Report.pdf",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2014: 6508",
+      "estimated_generation_gwh": "2013: 3894.61; 2014: 3857.96; 2015: 3242.91; 2016: 2542.03; 2017: 2571.73",
+      "generation_data_source": "Volta River Authority"
+    },
+    {
+      "name": "Bui",
+      "gppd_idnr": "WRI1000012",
+      "capacity_mw": 400,
+      "latitude": 8.1822,
+      "longitude": -2.1661,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 2013,
+      "owner": "",
+      "source": "Volta River Authority",
+      "url": "http://www.vra.com/resources/annual_reports/2014%20Annual%20Report.pdf",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2014: 730",
+      "estimated_generation_gwh": "2013: 1180.27; 2014: 1212.94; 2015: 1437.24; 2016: 968.37; 2017: 1032.27",
+      "generation_data_source": "Volta River Authority"
+    },
+    {
+      "name": "Takoradi 1",
+      "gppd_idnr": "WRI1000015",
+      "capacity_mw": 330,
+      "latitude": 4.8833,
+      "longitude": -1.75,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Volta River Authority",
+      "url": "http://www.vra.com/resources/annual_reports/2014%20Annual%20Report.pdf",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2014: 1688",
+      "estimated_generation_gwh": "2017: 1891.94",
+      "generation_data_source": "Volta River Authority"
+    },
+    {
+      "name": "Kpong",
+      "gppd_idnr": "WRI1000014",
+      "capacity_mw": 160,
+      "latitude": 6.1201,
+      "longitude": 0.1255,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1982,
+      "owner": "",
+      "source": "Volta River Authority",
+      "url": "http://www.vra.com/resources/annual_reports/2014%20Annual%20Report.pdf",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2014: 1147",
+      "estimated_generation_gwh": "2013: 662.62; 2014: 650.73; 2015: 559.07; 2016: 451.19; 2017: 455.61",
+      "generation_data_source": "Volta River Authority"
+    },
+    {
+      "name": "Tema",
+      "gppd_idnr": "WRI1000016",
+      "capacity_mw": 160,
+      "latitude": 5.67,
+      "longitude": -0.02,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2008,
+      "owner": "",
+      "source": "Volta River Authority",
+      "url": "http://www.vra.com/resources/annual_reports/2014%20Annual%20Report.pdf",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "2014: 1212",
+      "estimated_generation_gwh": "2017: 917.3",
+      "generation_data_source": "Volta River Authority"
+    },
+    {
+      "name": "Gomoa Onyadze",
+      "gppd_idnr": "WKS0066652",
+      "capacity_mw": 20,
+      "latitude": 5.29,
+      "longitude": -0.95,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 38.8; 2014: 36.52; 2015: 37.21; 2016: 38.2; 2017: 34.38",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Ghana — Power Plants - Free Download",
+    "description": "Power plants located in Ghana from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ghana — Power Plants | ListBase",
+    "seo_description": "Download Ghana — Power Plants dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

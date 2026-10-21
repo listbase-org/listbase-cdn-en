@@ -1,0 +1,271 @@
+{
+  "id": "hn-political-parties",
+  "name": "Honduras — Political Parties",
+  "title": "Honduras — Political Parties",
+  "description": "Political parties of Honduras from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 7252,
+      "name_short": "LCPH",
+      "name": "Liberal Constitutionalist Party of Honduras",
+      "name_english": "Liberal Constitutionalist Party of Honduras",
+      "name_other": "",
+      "year_first": 1916,
+      "year_last": "",
+      "share": 100,
+      "share_year": 1916,
+      "wikipedia": "https://en.wikipedia.org/wiki/1916_Honduran_general_election",
+      "description": "42 of 42 seats in 1916 Honduran general election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 593,
+      "name_short": "PLH",
+      "name": "Partido Liberal de Honduras",
+      "name_english": "Liberal Party of Honduras",
+      "name_other": "",
+      "year_first": 1891,
+      "year_last": "",
+      "share": 53.9,
+      "share_year": 1981,
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberal_Party_of_Honduras",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1416,
+      "name_short": "PNH",
+      "name": "Partido Nacional de Honduras",
+      "name_english": "National Party of Honduras",
+      "name_other": "",
+      "year_first": 1902,
+      "year_last": "",
+      "share": 46.5,
+      "share_year": 2001,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Party_of_Honduras",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5161,
+      "name_short": "LIBRE",
+      "name": "Libertad y Refundación",
+      "name_english": "Liberty and Refoundation",
+      "name_other": "",
+      "year_first": 2011,
+      "year_last": "",
+      "share": 27.5,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberty_and_Refoundation",
+      "description": "",
+      "comment": "Libre was founded in 2011 by the National Popular Resistance Front (FNRP), a leftist coalition of organizations opposed to the coup.",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5160,
+      "name_short": "PAC",
+      "name": "Partido Anticorrupción",
+      "name_english": "Anti-Corruption Party",
+      "name_other": "",
+      "year_first": 2012,
+      "year_last": "",
+      "share": 15.2,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Anti-Corruption_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6715,
+      "name_short": "MNR",
+      "name": "Movimiento Nacional Reformista",
+      "name_english": "National Reformist Movement",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1957,
+      "share": 8.6,
+      "share_year": 1957,
+      "wikipedia": "",
+      "description": "4 of 58 seats in the 1957 Honduran Constituent Assembly election",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1051,
+      "name_short": "PUD",
+      "name": "Partido Unificación Democrática",
+      "name_english": "Democratic Unification Party",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 6.2,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Unification_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1703,
+      "name_short": "PINU",
+      "name": "Partido Innovación y Unidad",
+      "name_english": "Innovation and Unity Party",
+      "name_other": "",
+      "year_first": 1970,
+      "year_last": "",
+      "share": 5.4,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Innovation_and_Unity_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 1460,
+      "name_short": "DC",
+      "name": "Partido Demócrata Cristiano de Honduras",
+      "name_english": "Christian Democratic Party of Honduras",
+      "name_other": "",
+      "year_first": 1968,
+      "year_last": "",
+      "share": 5.1,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_Democratic_Party_of_Honduras",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8335,
+      "name_short": "Con",
+      "name": "Conservador",
+      "name_english": "Conservative",
+      "name_other": "",
+      "year_first": 1880,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "Party of Luis Bográn Barahona, president (HoS/HoG) from 1883 to 1890.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8334,
+      "name_short": "Lib",
+      "name": "Liberal",
+      "name_english": "Liberal",
+      "name_other": "",
+      "year_first": 1880,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "Party of Marco Aurelio Soto Martínez, president (HoS/HoG) from 1880 to 1882.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6714,
+      "name_short": "PUCA",
+      "name": "Partido Unionista Centroamericano",
+      "name_english": "Central American Unionist Party",
+      "name_other": "",
+      "year_first": 1904,
+      "year_last": 2006,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Central_American_Unionist_Party",
+      "description": "4 of 46 seats in the 1926 Honduran legislative election",
+      "comment": "not sure about this party, seems that the party is later active in Nicaraguan",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Honduras — Political Parties - Free Download",
+    "description": "Political parties of Honduras from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Honduras — Political Parties | ListBase",
+    "seo_description": "Download Honduras — Political Parties dataset with 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

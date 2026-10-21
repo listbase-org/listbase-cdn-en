@@ -1,0 +1,151 @@
+{
+  "id": "ye-political-parties",
+  "name": "Yemen — Political Parties",
+  "title": "Yemen — Political Parties",
+  "description": "Political parties of Yemen from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "string"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 4162,
+      "name_short": "GPC",
+      "name": "Al-Mo'tamar Ash-Sha'abiy Al-'Aam",
+      "name_english": "General People's Congress",
+      "name_other": "Arabic: المؤتمر الشعبي العام‎",
+      "year_first": 1982,
+      "year_last": "",
+      "share": 58,
+      "share_year": 2003,
+      "wikipedia": "https://en.wikipedia.org/wiki/General_People%27s_Congress_(Yemen)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4163,
+      "name_short": "Islah",
+      "name": "Al-Islah",
+      "name_english": "Yemeni Congregation for Reform",
+      "name_other": "Arabic: التجمع اليمني للإصلاح‎ at-Tajammu’u al-Yamanī lil-Iṣlāḥ",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 22.6,
+      "share_year": 2003,
+      "wikipedia": "https://en.wikipedia.org/wiki/Al-Islah_(Yemen)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4164,
+      "name_short": "YSP",
+      "name": "Al-Hizb Al-Ishtiraki Al-Yamani)",
+      "name_english": "Yemeni Socialist Party",
+      "name_other": "Arabic: الحزب الاشتراكي اليمني",
+      "year_first": 1978,
+      "year_last": "",
+      "share": 18.5,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/Yemeni_Socialist_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4328,
+      "name_short": "NUPO",
+      "name": "Al-Tantheem Al-Wahdawi Al-Sha'abi Al-Nasseri",
+      "name_english": "Nasserist Unionist People's Organisation",
+      "name_other": "Arabic: التظيم الوحدوي الشعبي الناصري",
+      "year_first": 1965,
+      "year_last": "",
+      "share": 1.9,
+      "share_year": 2003,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nasserist_Unionist_People's_Organisation",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Yemen — Political Parties - Free Download",
+    "description": "Political parties of Yemen from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 4 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Yemen — Political Parties | ListBase",
+    "seo_description": "Download Yemen — Political Parties dataset with 4 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 4 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

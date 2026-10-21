@@ -1,0 +1,394 @@
+{
+  "id": "us-ufo-meteorite-by-state",
+  "name": "UFO Sightings vs Meteorite Falls by US State",
+  "title": "UFO Sightings vs Meteorite Falls by US State",
+  "description": "58 US state-level comparisons of witnessed meteorite falls against UFO sighting reports from NUFORC, including a ratio of UFO reports per real meteorite event to measure detection bias.",
+  "category": "science",
+  "source": "https://github.com/lukeslp/meteorites-ufos-detection-bias",
+  "source_url": "https://github.com/lukeslp/meteorites-ufos-detection-bias",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "meteorite_falls",
+      "label": "Meteorite Falls",
+      "type": "number"
+    },
+    {
+      "key": "ufo_sightings",
+      "label": "Ufo Sightings",
+      "type": "number"
+    },
+    {
+      "key": "ufo_per_meteorite",
+      "label": "Ufo Per Meteorite",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "AK",
+      "meteorite_falls": 0,
+      "ufo_sightings": 641,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "AL",
+      "meteorite_falls": 2,
+      "ufo_sightings": 1396,
+      "ufo_per_meteorite": 698
+    },
+    {
+      "state": "AR",
+      "meteorite_falls": 7,
+      "ufo_sightings": 1284,
+      "ufo_per_meteorite": 183.4
+    },
+    {
+      "state": "AZ",
+      "meteorite_falls": 2,
+      "ufo_sightings": 4966,
+      "ufo_per_meteorite": 2483
+    },
+    {
+      "state": "CA",
+      "meteorite_falls": 3,
+      "ufo_sightings": 16197,
+      "ufo_per_meteorite": 5399
+    },
+    {
+      "state": "CO",
+      "meteorite_falls": 6,
+      "ufo_sightings": 3265,
+      "ufo_per_meteorite": 544.2
+    },
+    {
+      "state": "CT",
+      "meteorite_falls": 6,
+      "ufo_sightings": 2024,
+      "ufo_per_meteorite": 337.3
+    },
+    {
+      "state": "Ca",
+      "meteorite_falls": 0,
+      "ufo_sightings": 1,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "DC",
+      "meteorite_falls": 0,
+      "ufo_sightings": 152,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "DE",
+      "meteorite_falls": 0,
+      "ufo_sightings": 418,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "FL",
+      "meteorite_falls": 1,
+      "ufo_sightings": 8264,
+      "ufo_per_meteorite": 8264
+    },
+    {
+      "state": "Fl",
+      "meteorite_falls": 0,
+      "ufo_sightings": 5,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "GA",
+      "meteorite_falls": 4,
+      "ufo_sightings": 2726,
+      "ufo_per_meteorite": 681.5
+    },
+    {
+      "state": "GU",
+      "meteorite_falls": 0,
+      "ufo_sightings": 3,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "HI",
+      "meteorite_falls": 0,
+      "ufo_sightings": 672,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "IA",
+      "meteorite_falls": 4,
+      "ufo_sightings": 1221,
+      "ufo_per_meteorite": 305.2
+    },
+    {
+      "state": "ID",
+      "meteorite_falls": 0,
+      "ufo_sightings": 1348,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "IL",
+      "meteorite_falls": 5,
+      "ufo_sightings": 4288,
+      "ufo_per_meteorite": 857.6
+    },
+    {
+      "state": "IN",
+      "meteorite_falls": 3,
+      "ufo_sightings": 2726,
+      "ufo_per_meteorite": 908.7
+    },
+    {
+      "state": "KS",
+      "meteorite_falls": 6,
+      "ufo_sightings": 1188,
+      "ufo_per_meteorite": 198
+    },
+    {
+      "state": "KY",
+      "meteorite_falls": 7,
+      "ufo_sightings": 1689,
+      "ufo_per_meteorite": 241.3
+    },
+    {
+      "state": "LA",
+      "meteorite_falls": 5,
+      "ufo_sightings": 1125,
+      "ufo_per_meteorite": 225
+    },
+    {
+      "state": "MA",
+      "meteorite_falls": 0,
+      "ufo_sightings": 2702,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "MD",
+      "meteorite_falls": 4,
+      "ufo_sightings": 1849,
+      "ufo_per_meteorite": 462.2
+    },
+    {
+      "state": "ME",
+      "meteorite_falls": 5,
+      "ufo_sightings": 1187,
+      "ufo_per_meteorite": 237.4
+    },
+    {
+      "state": "MI",
+      "meteorite_falls": 3,
+      "ufo_sightings": 3657,
+      "ufo_per_meteorite": 1219
+    },
+    {
+      "state": "MN",
+      "meteorite_falls": 2,
+      "ufo_sightings": 2109,
+      "ufo_per_meteorite": 1054.5
+    },
+    {
+      "state": "MO",
+      "meteorite_falls": 7,
+      "ufo_sightings": 2810,
+      "ufo_per_meteorite": 401.4
+    },
+    {
+      "state": "MS",
+      "meteorite_falls": 2,
+      "ufo_sightings": 782,
+      "ufo_per_meteorite": 391
+    },
+    {
+      "state": "MT",
+      "meteorite_falls": 0,
+      "ufo_sightings": 1001,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "NB",
+      "meteorite_falls": 0,
+      "ufo_sightings": 1,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "NC",
+      "meteorite_falls": 5,
+      "ufo_sightings": 3662,
+      "ufo_per_meteorite": 732.4
+    },
+    {
+      "state": "ND",
+      "meteorite_falls": 1,
+      "ufo_sightings": 277,
+      "ufo_per_meteorite": 277
+    },
+    {
+      "state": "NE",
+      "meteorite_falls": 2,
+      "ufo_sightings": 699,
+      "ufo_per_meteorite": 349.5
+    },
+    {
+      "state": "NH",
+      "meteorite_falls": 0,
+      "ufo_sightings": 1193,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "NJ",
+      "meteorite_falls": 1,
+      "ufo_sightings": 2886,
+      "ufo_per_meteorite": 2886
+    },
+    {
+      "state": "NM",
+      "meteorite_falls": 4,
+      "ufo_sightings": 1670,
+      "ufo_per_meteorite": 417.5
+    },
+    {
+      "state": "NV",
+      "meteorite_falls": 1,
+      "ufo_sightings": 1699,
+      "ufo_per_meteorite": 1699
+    },
+    {
+      "state": "NY",
+      "meteorite_falls": 2,
+      "ufo_sightings": 5881,
+      "ufo_per_meteorite": 2940.5
+    },
+    {
+      "state": "OH",
+      "meteorite_falls": 3,
+      "ufo_sightings": 4454,
+      "ufo_per_meteorite": 1484.7
+    },
+    {
+      "state": "OK",
+      "meteorite_falls": 7,
+      "ufo_sightings": 1497,
+      "ufo_per_meteorite": 213.9
+    },
+    {
+      "state": "OR",
+      "meteorite_falls": 2,
+      "ufo_sightings": 3554,
+      "ufo_per_meteorite": 1777
+    },
+    {
+      "state": "PA",
+      "meteorite_falls": 5,
+      "ufo_sightings": 5030,
+      "ufo_per_meteorite": 1006
+    },
+    {
+      "state": "PR",
+      "meteorite_falls": 0,
+      "ufo_sightings": 192,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "RI",
+      "meteorite_falls": 0,
+      "ufo_sightings": 598,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "SC",
+      "meteorite_falls": 6,
+      "ufo_sightings": 2238,
+      "ufo_per_meteorite": 373
+    },
+    {
+      "state": "SD",
+      "meteorite_falls": 2,
+      "ufo_sightings": 396,
+      "ufo_per_meteorite": 198
+    },
+    {
+      "state": "TN",
+      "meteorite_falls": 8,
+      "ufo_sightings": 2310,
+      "ufo_per_meteorite": 288.8
+    },
+    {
+      "state": "TX",
+      "meteorite_falls": 14,
+      "ufo_sightings": 6180,
+      "ufo_per_meteorite": 441.4
+    },
+    {
+      "state": "UM",
+      "meteorite_falls": 0,
+      "ufo_sightings": 1,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "UT",
+      "meteorite_falls": 1,
+      "ufo_sightings": 1524,
+      "ufo_per_meteorite": 1524
+    },
+    {
+      "state": "VA",
+      "meteorite_falls": 2,
+      "ufo_sightings": 2700,
+      "ufo_per_meteorite": 1350
+    },
+    {
+      "state": "VI",
+      "meteorite_falls": 0,
+      "ufo_sightings": 19,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "VT",
+      "meteorite_falls": 1,
+      "ufo_sightings": 606,
+      "ufo_per_meteorite": 606
+    },
+    {
+      "state": "WA",
+      "meteorite_falls": 0,
+      "ufo_sightings": 7205,
+      "ufo_per_meteorite": ""
+    },
+    {
+      "state": "WI",
+      "meteorite_falls": 4,
+      "ufo_sightings": 2449,
+      "ufo_per_meteorite": 612.2
+    },
+    {
+      "state": "WV",
+      "meteorite_falls": 3,
+      "ufo_sightings": 902,
+      "ufo_per_meteorite": 300.7
+    },
+    {
+      "state": "WY",
+      "meteorite_falls": 1,
+      "ufo_sightings": 414,
+      "ufo_per_meteorite": 414
+    }
+  ],
+  "meta": {
+    "title": "UFO Sightings vs Meteorite Falls by US State - Free Download",
+    "description": "58 US state-level comparisons of witnessed meteorite falls against UFO sighting reports from NUFORC, including a ratio of UFO reports per real meteorite event to measure detection bias. Contains 58 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "UFO Sightings vs Meteorite Falls by US State | ListBase",
+    "seo_description": "Download UFO Sightings vs Meteorite Falls by US State — 58 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 58 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/lukeslp/meteorites-ufos-detection-bias"
+    ]
+  }
+}

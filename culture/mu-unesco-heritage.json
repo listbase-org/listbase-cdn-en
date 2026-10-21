@@ -1,0 +1,114 @@
+{
+  "id": "mu-unesco-heritage",
+  "name": "Mauritius — UNESCO World Heritage Sites",
+  "title": "Mauritius — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Mauritius, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 1227,
+      "name": "Aapravasi Ghat",
+      "category": "cultural",
+      "date_inscribed": 2006,
+      "criteria": "c6",
+      "lat": -20.15863889,
+      "lon": 57.50316667,
+      "area_hectares": 0.164,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "mu",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1259,
+      "name": "Le Morne Cultural Landscape",
+      "category": "cultural",
+      "date_inscribed": 2008,
+      "criteria": "c3, c6",
+      "lat": -20.45194444,
+      "lon": 57.32833333,
+      "area_hectares": 349.6,
+      "danger_list": "",
+      "unesco_region": "Africa",
+      "countries": "mu",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Mauritius — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Mauritius, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mauritius — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Mauritius — UNESCO World Heritage Sites dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

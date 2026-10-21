@@ -1,0 +1,304 @@
+{
+  "id": "tz-power-plants",
+  "name": "Tanzania — Power Plants",
+  "title": "Tanzania — Power Plants",
+  "description": "Power plants located in Tanzania from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ubungo Gas (Songas)",
+      "gppd_idnr": "WRI1019872",
+      "capacity_mw": 207.5,
+      "latitude": -6.7945,
+      "longitude": 39.2086,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Tanzania Electric Supply Company",
+      "source": "Tanzania Electric Supply Company",
+      "url": "http://www.tanesco.co.tz/index.php?option=com_content&view=article&id=78&Itemid=167",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1189.13",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kidatu",
+      "gppd_idnr": "WRI1019867",
+      "capacity_mw": 204,
+      "latitude": -7.6354,
+      "longitude": 36.8837,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1975,
+      "owner": "Tanzania Electric Supply Company",
+      "source": "Tanzania Electric Supply Company",
+      "url": "http://www.tanesco.co.tz/index.php?option=com_content&view=article&id=79&Itemid=235",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 754.04; 2014: 847.55; 2015: 723.47; 2016: 808.39; 2017: 798.22",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kihansi",
+      "gppd_idnr": "WRI1019868",
+      "capacity_mw": 180,
+      "latitude": -8.575,
+      "longitude": 35.8513,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1999,
+      "owner": "Tanzania Electric Supply Company",
+      "source": "Tanzania Electric Supply Company",
+      "url": "http://www.tanesco.co.tz/index.php?option=com_content&view=article&id=80&Itemid=236",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 687.8; 2014: 496.71; 2015: 588.83; 2016: 726.65; 2017: 758.98",
+      "generation_data_source": ""
+    },
+    {
+      "name": "IPTL Tanzania",
+      "gppd_idnr": "WRI1019877",
+      "capacity_mw": 100,
+      "latitude": -6.6741,
+      "longitude": 39.1873,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "IPPs",
+      "source": "Ministry of Energy and Minerals",
+      "url": "http://www.tanesco.co.tz/index.php/media1/downloads/reports/investment-report/22-power-system-master-plan-2012-update",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 250.09",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Mtera",
+      "gppd_idnr": "WRI1019869",
+      "capacity_mw": 80,
+      "latitude": -7.1363,
+      "longitude": 35.9838,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1980,
+      "owner": "Tanzania Electric Supply Company",
+      "source": "Tanzania Electric Supply Company",
+      "url": "http://www.tanesco.co.tz/index.php?option=com_content&view=article&id=81&Itemid=237",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 301.25; 2014: 340.13; 2015: 298.29; 2016: 326.53; 2017: 328.33",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Pangani Falls",
+      "gppd_idnr": "WRI1019871",
+      "capacity_mw": 68,
+      "latitude": -5.3491,
+      "longitude": 38.6503,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1995,
+      "owner": "Tanzania Electric Supply Company",
+      "source": "Tanzania Electric Supply Company",
+      "url": "http://www.tanesco.co.tz/index.php?option=com_content&view=article&id=82&Itemid=238",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 284.24; 2014: 235.25; 2015: 253.23; 2016: 276.66; 2017: 269.46",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Nyakato",
+      "gppd_idnr": "WRI1019875",
+      "capacity_mw": 63,
+      "latitude": -2.524,
+      "longitude": 32.9662,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": 2012,
+      "owner": "Tanzania Electric Supply Company",
+      "source": "Tanzania Electric Supply Company",
+      "url": "http://www.tanesco.co.tz/index.php?option=com_content&view=article&id=78&Itemid=167",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 361.03",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tegeta",
+      "gppd_idnr": "WRI1019873",
+      "capacity_mw": 45,
+      "latitude": -6.6741,
+      "longitude": 39.1843,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Tanzania Electric Supply Company",
+      "source": "Tanzania Electric Supply Company",
+      "url": "http://www.tanesco.co.tz/index.php?option=com_content&view=article&id=78&Itemid=167",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 257.88",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Hale",
+      "gppd_idnr": "WRI1019866",
+      "capacity_mw": 21,
+      "latitude": -5.2981,
+      "longitude": 38.6041,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Tanzania Electric Supply Company",
+      "source": "Tanzania Electric Supply Company",
+      "url": "http://www.tanesco.co.tz/index.php?option=com_content&view=article&id=82&Itemid=238",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 95.25; 2014: 76.54; 2015: 82.1; 2016: 89.34; 2017: 87.11",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Mtwara",
+      "gppd_idnr": "WRI1019876",
+      "capacity_mw": 18,
+      "latitude": -10.26,
+      "longitude": 40.041,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Tanzania Electric Supply Company",
+      "source": "Tanzania Electric Supply Company",
+      "url": "http://www.tanesco.co.tz/index.php?option=com_content&view=article&id=78&Itemid=167",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 103.15",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Nyumba ya Mungu",
+      "gppd_idnr": "WRI1019870",
+      "capacity_mw": 8,
+      "latitude": -3.8213,
+      "longitude": 37.4679,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": 1966,
+      "owner": "Tanzania Electric Supply Company",
+      "source": "Tanzania Electric Supply Company",
+      "url": "http://www.tanesco.co.tz/index.php?option=com_content&view=article&id=82&Itemid=238",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 34.23; 2014: 23.99; 2015: 26.48; 2016: 31.18; 2017: 29.29",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Tanzania — Power Plants - Free Download",
+    "description": "Power plants located in Tanzania from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tanzania — Power Plants | ListBase",
+    "seo_description": "Download Tanzania — Power Plants dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

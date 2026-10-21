@@ -1,0 +1,439 @@
+{
+  "id": "ch-football-clubs",
+  "name": "Switzerland — Football Clubs",
+  "title": "Switzerland — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Switzerland's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Wil",
+      "matches_played": 513,
+      "seasons_count": 18,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "challenge-league, challenge-league-1998-1999, challenge-league-1999-2000, challenge-league-2000-2001, challenge-league-2001-2002, challenge-league-2004-2005, challenge-league-2005-2006, challenge-leag…"
+    },
+    {
+      "name": "Winterthur",
+      "matches_played": 464,
+      "seasons_count": 16,
+      "leagues": "challenge-league",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "challenge-league, challenge-league-1999-2000, challenge-league-2000-2001, challenge-league-2001-2002, challenge-league-2002-2003, challenge-league-2004-2005, challenge-league-2005-2006, challenge-leag…"
+    },
+    {
+      "name": "Thun",
+      "matches_played": 445,
+      "seasons_count": 15,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "challenge-league-1998-1999, challenge-league-1999-2000, challenge-league-2000-2001, challenge-league-2001-2002, challenge-league-2008-2009, challenge-league-2009-2010, super-league-2002-2003, super-le…"
+    },
+    {
+      "name": "St.Gallen",
+      "matches_played": 438,
+      "seasons_count": 15,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "challenge-league-2008-2009, challenge-league-2011-2012, super-league-1998-1999, super-league-1999-2000, super-league-2000-2001, super-league-2001-2002, super-league-2003-2004, super-league-2005-2006,…"
+    },
+    {
+      "name": "Basel",
+      "matches_played": 430,
+      "seasons_count": 15,
+      "leagues": "super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "super-league-1998-1999, super-league-1999-2000, super-league-2000-2001, super-league-2001-2002, super-league-2002-2003, super-league-2003-2004, super-league-2005-2006, super-league-2006-2007, super-le…"
+    },
+    {
+      "name": "Grasshoppers",
+      "matches_played": 430,
+      "seasons_count": 15,
+      "leagues": "super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "super-league-1998-1999, super-league-1999-2000, super-league-2000-2001, super-league-2001-2002, super-league-2002-2003, super-league-2003-2004, super-league-2005-2006, super-league-2006-2007, super-le…"
+    },
+    {
+      "name": "YoungBoys",
+      "matches_played": 430,
+      "seasons_count": 14,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "challenge-league-1999-2000, challenge-league-2000-2001, super-league-2001-2002, super-league-2002-2003, super-league-2003-2004, super-league-2005-2006, super-league-2006-2007, super-league-2007-2008,…"
+    },
+    {
+      "name": "Sion",
+      "matches_played": 425,
+      "seasons_count": 14,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "challenge-league-1999-2000, challenge-league-2002-2003, challenge-league-2004-2005, challenge-league-2005-2006, super-league-2000-2001, super-league-2001-2002, super-league-2006-2007, super-league-200…"
+    },
+    {
+      "name": "Zurich",
+      "matches_played": 416,
+      "seasons_count": 14,
+      "leagues": "super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "super-league-1998-1999, super-league-2000-2001, super-league-2001-2002, super-league-2002-2003, super-league-2003-2004, super-league-2005-2006, super-league-2006-2007, super-league-2007-2008, super-le…"
+    },
+    {
+      "name": "Lugano",
+      "matches_played": 408,
+      "seasons_count": 14,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 2000,
+      "last_season_year": 2014,
+      "seasons": "challenge-league-2002-2003, challenge-league-2004-2005, challenge-league-2005-2006, challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2008-2009, challenge-league-2009-2010, chal…"
+    },
+    {
+      "name": "Vaduz",
+      "matches_played": 408,
+      "seasons_count": 13,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 2001,
+      "last_season_year": 2014,
+      "seasons": "challenge-league-2001-2002, challenge-league-2002-2003, challenge-league-2004-2005, challenge-league-2005-2006, challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2009-2010, chal…"
+    },
+    {
+      "name": "Aarau",
+      "matches_played": 404,
+      "seasons_count": 12,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 2003,
+      "last_season_year": 2014,
+      "seasons": "challenge-league, challenge-league-2010-2011, challenge-league-2011-2012, challenge-league-2012-2013, super-league-2003-2004, super-league-2005-2006, super-league-2006-2007, super-league-2007-2008, su…"
+    },
+    {
+      "name": "Wohlen",
+      "matches_played": 401,
+      "seasons_count": 13,
+      "leagues": "challenge-league",
+      "first_season_year": 2002,
+      "last_season_year": 2014,
+      "seasons": "challenge-league, challenge-league-2002-2003, challenge-league-2004-2005, challenge-league-2005-2006, challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2008-2009, challenge-leag…"
+    },
+    {
+      "name": "Bellinzona",
+      "matches_played": 390,
+      "seasons_count": 13,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1999,
+      "last_season_year": 2012,
+      "seasons": "challenge-league-1999-2000, challenge-league-2000-2001, challenge-league-2001-2002, challenge-league-2002-2003, challenge-league-2004-2005, challenge-league-2005-2006, challenge-league-2006-2007, chal…"
+    },
+    {
+      "name": "Luzern",
+      "matches_played": 382,
+      "seasons_count": 12,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "challenge-league-2004-2005, challenge-league-2005-2006, super-league-1998-1999, super-league-1999-2000, super-league-2006-2007, super-league-2007-2008, super-league-2008-2009, super-league-2009-2010,…"
+    },
+    {
+      "name": "Lausanne",
+      "matches_played": 381,
+      "seasons_count": 14,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "challenge-league, challenge-league-2002-2003, challenge-league-2005-2006, challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2008-2009, challenge-league-2009-2010, challenge-leag…"
+    },
+    {
+      "name": "Servette",
+      "matches_played": 369,
+      "seasons_count": 14,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2008-2009, challenge-league-2009-2010, challenge-league-2010-2011, challenge-league-2013-2014, challenge-league-2014-2015, supe…"
+    },
+    {
+      "name": "Locarno",
+      "matches_played": 352,
+      "seasons_count": 12,
+      "leagues": "challenge-league",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "challenge-league-1998-1999, challenge-league-2000-2001, challenge-league-2001-2002, challenge-league-2005-2006, challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2008-2009, chal…"
+    },
+    {
+      "name": "Schaffhausen",
+      "matches_played": 351,
+      "seasons_count": 12,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "challenge-league, challenge-league-1998-1999, challenge-league-1999-2000, challenge-league-2002-2003, challenge-league-2007-2008, challenge-league-2008-2009, challenge-league-2009-2010, challenge-leag…"
+    },
+    {
+      "name": "Chiasso",
+      "matches_played": 341,
+      "seasons_count": 11,
+      "leagues": "challenge-league",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "challenge-league, challenge-league-1998-1999, challenge-league-2004-2005, challenge-league-2005-2006, challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2010-2011, challenge-leag…"
+    },
+    {
+      "name": "Kriens",
+      "matches_played": 327,
+      "seasons_count": 12,
+      "leagues": "challenge-league",
+      "first_season_year": 1998,
+      "last_season_year": 2011,
+      "seasons": "challenge-league-1998-1999, challenge-league-1999-2000, challenge-league-2000-2001, challenge-league-2001-2002, challenge-league-2002-2003, challenge-league-2004-2005, challenge-league-2005-2006, chal…"
+    },
+    {
+      "name": "Xamax",
+      "matches_played": 312,
+      "seasons_count": 11,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2010,
+      "seasons": "challenge-league, challenge-league-2006-2007, super-league-1998-1999, super-league-1999-2000, super-league-2002-2003, super-league-2003-2004, super-league-2005-2006, super-league-2007-2008, super-leag…"
+    },
+    {
+      "name": "Yverdon",
+      "matches_played": 302,
+      "seasons_count": 11,
+      "leagues": "challenge-league, super-league",
+      "first_season_year": 1998,
+      "last_season_year": 2010,
+      "seasons": "challenge-league-1998-1999, challenge-league-2001-2002, challenge-league-2002-2003, challenge-league-2004-2005, challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2008-2009, chal…"
+    },
+    {
+      "name": "Biel",
+      "matches_played": 247,
+      "seasons_count": 8,
+      "leagues": "challenge-league",
+      "first_season_year": 2008,
+      "last_season_year": 2014,
+      "seasons": "challenge-league, challenge-league-2008-2009, challenge-league-2009-2010, challenge-league-2010-2011, challenge-league-2011-2012, challenge-league-2012-2013, challenge-league-2013-2014, challenge-leag…"
+    },
+    {
+      "name": "Concordia",
+      "matches_played": 204,
+      "seasons_count": 7,
+      "leagues": "challenge-league",
+      "first_season_year": 2001,
+      "last_season_year": 2008,
+      "seasons": "challenge-league-2001-2002, challenge-league-2002-2003, challenge-league-2004-2005, challenge-league-2005-2006, challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2008-2009"
+    },
+    {
+      "name": "Delemont",
+      "matches_played": 188,
+      "seasons_count": 7,
+      "leagues": "challenge-league",
+      "first_season_year": 1998,
+      "last_season_year": 2011,
+      "seasons": "challenge-league-1998-1999, challenge-league-2000-2001, challenge-league-2001-2002, challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2010-2011, challenge-league-2011-2012"
+    },
+    {
+      "name": "Baden",
+      "matches_played": 172,
+      "seasons_count": 7,
+      "leagues": "challenge-league",
+      "first_season_year": 1998,
+      "last_season_year": 2005,
+      "seasons": "challenge-league-1998-1999, challenge-league-1999-2000, challenge-league-2000-2001, challenge-league-2001-2002, challenge-league-2002-2003, challenge-league-2004-2005, challenge-league-2005-2006"
+    },
+    {
+      "name": "LaChaux",
+      "matches_played": 166,
+      "seasons_count": 5,
+      "leagues": "challenge-league",
+      "first_season_year": 2004,
+      "last_season_year": 2008,
+      "seasons": "challenge-league-2004-2005, challenge-league-2005-2006, challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2008-2009"
+    },
+    {
+      "name": "StadeNyonnais",
+      "matches_played": 160,
+      "seasons_count": 6,
+      "leagues": "challenge-league",
+      "first_season_year": 1998,
+      "last_season_year": 2011,
+      "seasons": "challenge-league-1998-1999, challenge-league-1999-2000, challenge-league-2008-2009, challenge-league-2009-2010, challenge-league-2010-2011, challenge-league-2011-2012"
+    },
+    {
+      "name": "Etoile",
+      "matches_played": 118,
+      "seasons_count": 5,
+      "leagues": "challenge-league",
+      "first_season_year": 1998,
+      "last_season_year": 2011,
+      "seasons": "challenge-league-1998-1999, challenge-league-1999-2000, challenge-league-2000-2001, challenge-league-2001-2002, challenge-league-2011-2012"
+    },
+    {
+      "name": "FCBaulmes",
+      "matches_played": 99,
+      "seasons_count": 3,
+      "leagues": "challenge-league",
+      "first_season_year": 2004,
+      "last_season_year": 2006,
+      "seasons": "challenge-league-2004-2005, challenge-league-2005-2006, challenge-league-2006-2007"
+    },
+    {
+      "name": "YFJuventus",
+      "matches_played": 99,
+      "seasons_count": 3,
+      "leagues": "challenge-league",
+      "first_season_year": 2004,
+      "last_season_year": 2006,
+      "seasons": "challenge-league-2004-2005, challenge-league-2005-2006, challenge-league-2006-2007"
+    },
+    {
+      "name": "Gossau",
+      "matches_played": 92,
+      "seasons_count": 3,
+      "leagues": "challenge-league",
+      "first_season_year": 2007,
+      "last_season_year": 2009,
+      "seasons": "challenge-league-2007-2008, challenge-league-2008-2009, challenge-league-2009-2010"
+    },
+    {
+      "name": "LeMont",
+      "matches_played": 87,
+      "seasons_count": 3,
+      "leagues": "challenge-league",
+      "first_season_year": 2009,
+      "last_season_year": 2014,
+      "seasons": "challenge-league, challenge-league-2009-2010, challenge-league-2014-2015"
+    },
+    {
+      "name": "De",
+      "matches_played": 83,
+      "seasons_count": 5,
+      "leagues": "challenge-league",
+      "first_season_year": 2004,
+      "last_season_year": 2008,
+      "seasons": "challenge-league-2004-2005, challenge-league-2005-2006, challenge-league-2006-2007, challenge-league-2007-2008, challenge-league-2008-2009"
+    },
+    {
+      "name": "Meyrin",
+      "matches_played": 66,
+      "seasons_count": 2,
+      "leagues": "challenge-league",
+      "first_season_year": 2004,
+      "last_season_year": 2005,
+      "seasons": "challenge-league-2004-2005, challenge-league-2005-2006"
+    },
+    {
+      "name": "Solothurn",
+      "matches_played": 63,
+      "seasons_count": 3,
+      "leagues": "challenge-league",
+      "first_season_year": 1998,
+      "last_season_year": 2000,
+      "seasons": "challenge-league-1998-1999, challenge-league-1999-2000, challenge-league-2000-2001"
+    },
+    {
+      "name": "Carouge",
+      "matches_played": 59,
+      "seasons_count": 5,
+      "leagues": "challenge-league",
+      "first_season_year": 1998,
+      "last_season_year": 2011,
+      "seasons": "challenge-league-1998-1999, challenge-league-1999-2000, challenge-league-2000-2001, challenge-league-2001-2002, challenge-league-2011-2012"
+    },
+    {
+      "name": "Bulle",
+      "matches_played": 33,
+      "seasons_count": 1,
+      "leagues": "challenge-league",
+      "first_season_year": 2004,
+      "last_season_year": 2004,
+      "seasons": "challenge-league-2004-2005"
+    },
+    {
+      "name": "Cham",
+      "matches_played": 33,
+      "seasons_count": 1,
+      "leagues": "challenge-league",
+      "first_season_year": 2007,
+      "last_season_year": 2007,
+      "seasons": "challenge-league-2007-2008"
+    },
+    {
+      "name": "Bruhl",
+      "matches_played": 29,
+      "seasons_count": 1,
+      "leagues": "challenge-league",
+      "first_season_year": 2011,
+      "last_season_year": 2011,
+      "seasons": "challenge-league-2011-2012"
+    },
+    {
+      "name": "Wangen",
+      "matches_played": 21,
+      "seasons_count": 1,
+      "leagues": "challenge-league",
+      "first_season_year": 2000,
+      "last_season_year": 2000,
+      "seasons": "challenge-league-2000-2001"
+    }
+  ],
+  "meta": {
+    "title": "Switzerland — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Switzerland's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Switzerland — Football Clubs | ListBase",
+    "seo_description": "Download Switzerland — Football Clubs dataset with 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

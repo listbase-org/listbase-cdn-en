@@ -1,0 +1,121 @@
+{
+  "id": "tg-airports-iata",
+  "name": "Togo — IATA Airports",
+  "title": "Togo — IATA Airports",
+  "description": "Airports with IATA codes in Togo: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "LFW",
+      "icao_code": "DXXX",
+      "name": "Lomé–Tokoin Airport",
+      "city_name_list": "Lomé",
+      "country_code": "TG",
+      "country_name": "Togo",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Maritime",
+      "latitude": 6.16561,
+      "longitude": 1.25451,
+      "elevation": 21,
+      "timezone": "Africa/Lome",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lom%C3%A9%E2%80%93Tokoin_Airport"
+    },
+    {
+      "iata_code": "LRL",
+      "icao_code": "DXNG",
+      "name": "Niamtougou",
+      "city_name_list": "Niamtougou",
+      "country_code": "TG",
+      "country_name": "Togo",
+      "continent_name": "Africa",
+      "adm1_name_ascii": "Kara",
+      "latitude": 9.767333,
+      "longitude": 1.09125,
+      "elevation": 461,
+      "timezone": "Africa/Lome",
+      "wiki_link": "https://en.wikipedia.org/wiki/Niamtougou_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Togo — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Togo: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Togo — IATA Airports | ListBase",
+    "seo_description": "Download Togo — IATA Airports dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

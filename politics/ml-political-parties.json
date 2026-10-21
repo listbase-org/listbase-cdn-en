@@ -1,0 +1,301 @@
+{
+  "id": "ml-political-parties",
+  "name": "Mali — Political Parties",
+  "title": "Mali — Political Parties",
+  "description": "Political parties of Mali from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 2475,
+      "name_short": "US-RDA",
+      "name": "Union Soudanaise – Rassemblement Démocratique Africain",
+      "name_english": "Sudanese Union – African Democratic Rally",
+      "name_other": "",
+      "year_first": 1945,
+      "year_last": 2010,
+      "share": 100,
+      "share_year": 1959,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sudanese_Union_%E2%80%93_African_Democratic_Rally",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5374,
+      "name_short": "UDPM",
+      "name": "Union Démocratique du Peuple Malien",
+      "name_english": "Democratic Union of the Malian People",
+      "name_other": "",
+      "year_first": 1975,
+      "year_last": 1991,
+      "share": 100,
+      "share_year": 1978,
+      "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Union_of_the_Malian_People",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2477,
+      "name_short": "ADEMA-PASJ",
+      "name": "Alliance pour la Démocratie en Mali – Parti Pan-Africain pour la Liberté, la Solidarité et la Justice",
+      "name_english": "The Alliance for Democracy in Mali – Pan-African Party for Liberty, Solidarity and Justice",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 87.1,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Alliance_for_Democracy_in_Mali",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2476,
+      "name_short": "URD",
+      "name": "Union pour la République et la Démocratie",
+      "name_english": "Union for the Republic and Democracy",
+      "name_other": "",
+      "year_first": 2003,
+      "year_last": "",
+      "share": 34.7,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_for_the_Republic_and_Democracy",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2319,
+      "name_short": "RPM",
+      "name": "Rassemblement pour le Mali",
+      "name_english": "Rally for Mali",
+      "name_other": "",
+      "year_first": 2001,
+      "year_last": "",
+      "share": 29.4,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rally_for_Mali",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6448,
+      "name_short": "PSP/PRS",
+      "name": "Parti Progressiste Soudanais / Parti du Regroupement Soudanais",
+      "name_english": "Sudanese Progressive Party / Sudanese Regroupment Party",
+      "name_other": "",
+      "year_first": 1945,
+      "year_last": 1959,
+      "share": 27.5,
+      "share_year": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sudanese_Regroupment_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 2478,
+      "name_short": "CNID",
+      "name": "Congrès national d’initiative démocratique",
+      "name_english": "National Congress for Democratic Initiative",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 9.4,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Congress_for_Democratic_Initiative",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7138,
+      "name_short": "UPB",
+      "name": "Union des Populations de Bandiagara",
+      "name_english": "Union of the Populations of Bandiagara",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1957,
+      "share": 6.3,
+      "share_year": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/Union_of_the_Populations_of_Bandiagara",
+      "description": "",
+      "comment": "ParIS",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6084,
+      "name_short": "PARENA",
+      "name": "Le Parti pour la renaissance nationale",
+      "name_english": "Party for National Rebirth",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": 2013,
+      "share": 5.4,
+      "share_year": 1997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_for_National_Rebirth",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6085,
+      "name_short": "MPR",
+      "name": "Mouvement Patriotique pour le Renouveau",
+      "name_english": "Patriotic Movement for Renewal",
+      "name_other": "",
+      "year_first": 1995,
+      "year_last": 2008,
+      "share": 5.4,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Patriotic_Movement_for_Renewal",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8028,
+      "name_short": "PDP",
+      "name": "Parti pour la Démocratie et le Progrès",
+      "name_english": "Party for Democracy and Progress",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 5.1,
+      "share_year": 1992,
+      "wikipedia": "https://en.wikipedia.org/wiki/Party_for_Democracy_and_Progress_(Mali)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6343,
+      "name_short": "PMD",
+      "name": "Popular Movement for the Development of the Republic of West Africa",
+      "name_english": "Popular Movement for the Development of the Republic of West Africa",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 1997,
+      "share": 2.7,
+      "share_year": 1992,
+      "wikipedia": "https://en.wikipedia.org/wiki/Popular_Movement_for_the_Development_of_the_Republic_of_West_Africa",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8440,
+      "name_short": "ASMA-CFP",
+      "name": "Alliance pour la Solidarité au Mali–Convergence des forces patriotiques",
+      "name_english": "Alliance for Solidarity in Mali–Convergence of Patriotic Forces",
+      "name_other": "",
+      "year_first": 2013,
+      "year_last": "",
+      "share": 2,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Alliance_for_Solidarity_in_Mali",
+      "description": "3 of 147 seats in 2013 Malian parliamentary election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8439,
+      "name_short": "Y",
+      "name": "Yéléma",
+      "name_english": "Change",
+      "name_other": "",
+      "year_first": 2010,
+      "year_last": "",
+      "share": 0.7,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Change_Party",
+      "description": "1 of 147 seats in 2013 Malian parliamentary election; Prime minister 2014-2015",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Mali — Political Parties - Free Download",
+    "description": "Political parties of Mali from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mali — Political Parties | ListBase",
+    "seo_description": "Download Mali — Political Parties dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

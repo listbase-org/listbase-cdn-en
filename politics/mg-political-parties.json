@@ -1,0 +1,391 @@
+{
+  "id": "mg-political-parties",
+  "name": "Madagascar — Political Parties",
+  "title": "Madagascar — Political Parties",
+  "description": "Political parties of Madagascar from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5372,
+      "name_short": "PSD",
+      "name": "Parti Social Démocrate de Madagascar et des Comores",
+      "name_english": "Social Democratic Party of Madagascar and the Comoros",
+      "name_other": "",
+      "year_first": 1956,
+      "year_last": 1972,
+      "share": 97.2,
+      "share_year": 1965,
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Madagascar_and_the_Comoros",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5311,
+      "name_short": "AREMA",
+      "name": "Andry sy Rihana Enti-Manavotra an'i Madagasikara",
+      "name_english": "Association for the Rebirth of Madagascar",
+      "name_other": "Pillar and Structure for the Salvation of Madagascar",
+      "year_first": 1976,
+      "year_last": "",
+      "share": 85.4,
+      "share_year": 1983,
+      "wikipedia": "https://en.wikipedia.org/wiki/Association_for_the_Rebirth_of_Madagascar",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5201,
+      "name_short": "TIM",
+      "name": "Tiako I Madagasikara",
+      "name_english": "I Love Madagascar",
+      "name_other": "Ravalomanana Movement",
+      "year_first": 2002,
+      "year_last": "",
+      "share": 82.6,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Tiako_I_Madagasikara",
+      "description": "105 of 127 in 2007",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5368,
+      "name_short": "CAF",
+      "name": "Committee of Active Forces",
+      "name_english": "Committee of Active Forces",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": 1998,
+      "share": 34.1,
+      "share_year": 1993,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8069,
+      "name_short": "MAPAR/IRD",
+      "name": "Miaraka amin'i Prezida Andry Rajoelina",
+      "name_english": "With President Andry Rajoelina",
+      "name_other": "",
+      "year_first": 2013,
+      "year_last": "",
+      "share": 17.3,
+      "share_year": 2013,
+      "wikipedia": "https://fr.wikipedia.org/wiki/Nous_tous,_ensemble_avec_Andry_Rajoelina",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5369,
+      "name_short": "PCIM",
+      "name": "Parti du Congrès de l'indépendence de Madagascar",
+      "name_english": "Congress Party for the Independence of Madagascar",
+      "name_other": "",
+      "year_first": 1958,
+      "year_last": 1989,
+      "share": 11.7,
+      "share_year": 1976,
+      "wikipedia": "https://en.wikipedia.org/wiki/Congress_Party_for_the_Independence_of_Madagascar",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5838,
+      "name_short": "MFM/MPP",
+      "name": "Mpitolona ho amin'ny Fanjakana ny Madinika / Mpitolona ho an'ny Fandrosoan'i Madagasikara",
+      "name_english": "Party for Proletarian Power / Movement for the Progress of Madagascar",
+      "name_other": "",
+      "year_first": 1972,
+      "year_last": "",
+      "share": 11,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/Movement_for_the_Progress_of_Madagascar",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5370,
+      "name_short": "LEADER-F",
+      "name": "Libéralisme Économique et Action Démocratique pour la Reconstruction Nationale [LEADER-Fanilo]",
+      "name_english": "Economic Liberalism and Democratic Action for National Recovery",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 10.9,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/Economic_Liberalism_and_Democratic_Action_for_National_Recovery",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6598,
+      "name_short": "PMDM",
+      "name": "Parti Militant pour le Développement de Madagascar",
+      "name_english": "Militant Party for the Development of Madagascar",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 1993,
+      "share": 10.9,
+      "share_year": 1993,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5373,
+      "name_short": "AVI",
+      "name": "Asa Vita no Ifampitsarana,Akaiky ny Vahoaka Indrindra",
+      "name_english": "Judged By Your Work Party",
+      "name_other": "",
+      "year_first": 1994,
+      "year_last": 2002,
+      "share": 10.7,
+      "share_year": 1998,
+      "wikipedia": "https://en.wikipedia.org/wiki/Judged_by_Your_Work_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6227,
+      "name_short": "VPM-MMM",
+      "name": "Vondrona Politika",
+      "name_english": "Political-based groups working together",
+      "name_other": "Vondrona Politika Miara dia Malagasy Miara Miainga",
+      "year_first": 2013,
+      "year_last": 2015,
+      "share": 8.6,
+      "share_year": 2013,
+      "wikipedia": "https://en.wikipedia.org/wiki/Vondrona_Politika",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6225,
+      "name_short": "FAMIMA",
+      "name": "Faritra Miara-Mamindra / Association des Malgaches Unifié",
+      "name_english": "Association of United Malagasys",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 1996,
+      "share": 8.1,
+      "share_year": 1993,
+      "wikipedia": "",
+      "description": "They won 11/138 seats in the June 1993 National Assembly Election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6086,
+      "name_short": "RPSD",
+      "name": "Rally for Socialism and Democracy",
+      "name_english": "Rally for Socialism and Democracy",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": 2007,
+      "share": 7.3,
+      "share_year": 1998,
+      "wikipedia": "",
+      "description": "legalized 1990, current incarnation of the Social Democratic Party",
+      "comment": "Political Handbook of the World 1998 p.569",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6597,
+      "name_short": "CSCD",
+      "name": "Confederation of Civil Societies for Development",
+      "name_english": "Confederation of Civil Societies for Development",
+      "name_other": "",
+      "year_first": 1993,
+      "year_last": 1998,
+      "share": 5.8,
+      "share_year": 1993,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6226,
+      "name_short": "FP",
+      "name": "Fihaonana Party",
+      "name_english": "Fihaonana Party",
+      "name_other": "Confederation of Civil Societies for Development (CSCD)",
+      "year_first": 1993,
+      "year_last": 1998,
+      "share": 5.8,
+      "share_year": 1997,
+      "wikipedia": "",
+      "description": "",
+      "comment": "https://web.archive.org/web/20120603011424/ - http://www.eisa.org.za/WEP/mad1993results.htm",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5692,
+      "name_short": "Vonjy",
+      "name": "Elan Populaire pour l'Unité Nationale (Vonjy)",
+      "name_english": "Popular Impulse for National Unity",
+      "name_other": "",
+      "year_first": 1977,
+      "year_last": 1989,
+      "share": 5.1,
+      "share_year": 1976,
+      "wikipedia": "",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5869,
+      "name_short": "UNDD",
+      "name": "Union nationale pour la démocratie et le développement",
+      "name_english": "National Union for Democracy and Development",
+      "name_other": "",
+      "year_first": 1988,
+      "year_last": 1996,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "leader support 1993 Zafy (UNDD) – see CHISOLS",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8437,
+      "name_short": "CSDDM",
+      "name": "Comité de Soutien à la Démocratie et au Développement à Madagascar",
+      "name_english": "Support Committee for Democracy Development in Madagascar",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 1996,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "Prime minister 1993-1995",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8438,
+      "name_short": "TGV",
+      "name": "Tanora malaGasy Vonona",
+      "name_english": "Young Malagasies Determined",
+      "name_other": "",
+      "year_first": 2007,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Young_Malagasies_Determined",
+      "description": "President 2009-2014",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8436,
+      "name_short": "HVM",
+      "name": "Hery Vaovao ho an'i Madagasikara",
+      "name_english": "New Forces for Madagascar",
+      "name_other": "",
+      "year_first": 2013,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "Prime minister 2014-1028",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Madagascar — Political Parties - Free Download",
+    "description": "Political parties of Madagascar from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Madagascar — Political Parties | ListBase",
+    "seo_description": "Download Madagascar — Political Parties dataset with 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

@@ -1,0 +1,1924 @@
+{
+  "id": "python-libraries-directory",
+  "name": "Python Libraries Directory",
+  "title": "Python Libraries Directory",
+  "description": "207 curated Python libraries with repository links, categories, and technology tags. Covers machine learning, web frameworks, data science, and more.",
+  "category": "tech",
+  "source": "https://github.com/sourcerer-io/awesome-libraries",
+  "source_url": "https://github.com/sourcerer-io/awesome-libraries",
+  "updated": "2026-04",
+  "record_count": 207,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "repo",
+      "label": "Repo",
+      "type": "string"
+    },
+    {
+      "key": "tags",
+      "label": "Tags",
+      "type": "string"
+    },
+    {
+      "key": "tech",
+      "label": "Tech",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "imports",
+      "label": "Imports",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "py.pyechonest",
+      "name": "Pyechonest",
+      "repo": "echonest/pyechonest",
+      "tags": "music-search",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "pyechonest"
+    },
+    {
+      "id": "py.tweepy",
+      "name": "tweepy",
+      "repo": "tweepy/tweepy",
+      "tags": "twitter",
+      "tech": "api",
+      "status": "model-ready",
+      "imports": "tweepy"
+    },
+    {
+      "id": "py.hug",
+      "name": "hug",
+      "repo": "timothycrosley/hug",
+      "tags": "api-framework",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "hug"
+    },
+    {
+      "id": "py.pluggy",
+      "name": "pluggy",
+      "repo": "pytest-dev/pluggy",
+      "tags": "plugin-system",
+      "tech": "app-arch",
+      "status": "awaiting-model",
+      "imports": "pluggy"
+    },
+    {
+      "id": "py.pypattyrn",
+      "name": "PyPattyrn",
+      "repo": "tylerlaberge/PyPattyrn",
+      "tags": "patterns",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "pypattyrn"
+    },
+    {
+      "id": "py.python-patterns",
+      "name": "python-patterns",
+      "repo": "faif/python-patterns",
+      "tags": "patterns",
+      "tech": "app-arch",
+      "status": "model-ready",
+      "imports": "behavioral, creational, dft, fundamental, other, structural"
+    },
+    {
+      "id": "py.salt",
+      "name": "salt",
+      "repo": "saltstack/salt",
+      "tags": "infrastructure-management",
+      "tech": "app-arch",
+      "status": "awaiting-model",
+      "imports": "salt"
+    },
+    {
+      "id": "py.Pygments",
+      "name": "Pygments",
+      "repo": "https://bitbucket.org/birkenfeld/pygments-main",
+      "tags": "syntax-highlighting",
+      "tech": "app-blocks",
+      "status": "awaiting-model",
+      "imports": "pygments"
+    },
+    {
+      "id": "py.apscheduler",
+      "name": "APScheduler",
+      "repo": "agronholm/apscheduler",
+      "tags": "cron-scheduling",
+      "tech": "app-blocks",
+      "status": "awaiting-model",
+      "imports": "apscheduler"
+    },
+    {
+      "id": "py.django-grappelli",
+      "name": "Django Grappelli",
+      "repo": "sehmaschine/django-grappelli",
+      "tags": "django-admin",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "grappelli"
+    },
+    {
+      "id": "py.django-simple-captcha",
+      "name": "Django Simple Captcha",
+      "repo": "mbi/django-simple-captcha",
+      "tags": "captcha",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "captcha"
+    },
+    {
+      "id": "py.django-simple-spam-blocker",
+      "name": "Django Simple Spam Blocker",
+      "repo": "moqada/django-simple-spam-blocker",
+      "tags": "spam-blocker",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": ""
+    },
+    {
+      "id": "py.django-suit",
+      "name": "Django Suit",
+      "repo": "darklow/django-suit",
+      "tags": "django-admin",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "suit"
+    },
+    {
+      "id": "py.django-xadmin",
+      "name": "Xadmin",
+      "repo": "sshwsfc/xadmin",
+      "tags": "django-admin",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "xadmin"
+    },
+    {
+      "id": "py.flask-admin",
+      "name": "Flask-Admin",
+      "repo": "flask-admin/flask-admin",
+      "tags": "flask-admin",
+      "tech": "app-blocks",
+      "status": "model-ready",
+      "imports": "flask_admin"
+    },
+    {
+      "id": "py.PyYAML",
+      "name": "PyYAML",
+      "repo": "yaml/pyyaml",
+      "tags": "yaml-parser",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "PyYAML"
+    },
+    {
+      "id": "py.elasticsearch",
+      "name": "elasticsearch",
+      "repo": "elastic/elasticsearch-py",
+      "tags": "elasticsearch",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "elasticsearch"
+    },
+    {
+      "id": "py.jsonschema",
+      "name": "jsonschema",
+      "repo": "Julian/jsonschema",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "jsonschema"
+    },
+    {
+      "id": "py.lxml",
+      "name": "lxml",
+      "repo": "lxml/lxml",
+      "tags": "xml-parser",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "lxml"
+    },
+    {
+      "id": "py.marshmallow",
+      "name": "marshmallow",
+      "repo": "marshmallow-code/marshmallow",
+      "tags": "serialization",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "marshmallow"
+    },
+    {
+      "id": "py.simplejson",
+      "name": "simplejson",
+      "repo": "simplejson/simplejson",
+      "tags": "json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "simplejson"
+    },
+    {
+      "id": "py.watchdog",
+      "name": "watchdog",
+      "repo": "gorakhargosh/watchdog",
+      "tags": "filesystem",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "watchdog"
+    },
+    {
+      "id": "py.xlsxwriter",
+      "name": "XlsxWriter",
+      "repo": "jmcnamara/XlsxWriter",
+      "tags": "xlsx-files",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "xlsxwriter"
+    },
+    {
+      "id": "py.xmltodict",
+      "name": "xmltodict",
+      "repo": "martinblech/xmltodict",
+      "tags": "xml-via-json",
+      "tech": "app-data",
+      "status": "model-ready",
+      "imports": "xmltodict"
+    },
+    {
+      "id": "py.audioread",
+      "name": "audioread",
+      "repo": "beetbox/audioread",
+      "tags": "audio-files",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "audioread"
+    },
+    {
+      "id": "py.beets",
+      "name": "Beats",
+      "repo": "beetbox/beets",
+      "tags": "toolkit",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "beets"
+    },
+    {
+      "id": "py.dejavu",
+      "name": "dejavu",
+      "repo": "worldveil/dejavu",
+      "tags": "audio-recognition",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "dejavu"
+    },
+    {
+      "id": "py.eyed3",
+      "name": "eyeD3",
+      "repo": "nicfit/eyeD3",
+      "tags": "id3-tags",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "eyed3"
+    },
+    {
+      "id": "py.id3reader",
+      "name": "id3reader",
+      "repo": "teragonaudio/id3reader",
+      "tags": "id3-tags",
+      "tech": "audio",
+      "status": "insufficient-data",
+      "imports": "id3reader"
+    },
+    {
+      "id": "py.mingus",
+      "name": "mingus",
+      "repo": "bspaans/python-mingus",
+      "tags": "music-toolkit",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "mingus"
+    },
+    {
+      "id": "py.mutagen",
+      "name": "mutagen",
+      "repo": "quodlibet/mutagen",
+      "tags": "metadata",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "mutagen"
+    },
+    {
+      "id": "py.pydub",
+      "name": "Pydub",
+      "repo": "jiaaro/pydub",
+      "tags": "toolkit",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "pydub"
+    },
+    {
+      "id": "py.timeside",
+      "name": " TimeSide",
+      "repo": "Parisson/TimeSide",
+      "tags": "web-audio",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "timeside"
+    },
+    {
+      "id": "py.tinytag",
+      "name": "tinytag",
+      "repo": "devsnd/tinytag",
+      "tags": "metadata",
+      "tech": "audio",
+      "status": "model-ready",
+      "imports": "tinytag"
+    },
+    {
+      "id": "py.airflow",
+      "name": "airflow",
+      "repo": "apache/incubator-airflow",
+      "tags": "pipelines",
+      "tech": "big-data",
+      "status": "model-ready",
+      "imports": "airflow"
+    },
+    {
+      "id": "py.luigi",
+      "name": "luigi",
+      "repo": "spotify/luigi",
+      "tags": "map-reduce",
+      "tech": "big-data",
+      "status": "model-ready",
+      "imports": "luigi"
+    },
+    {
+      "id": "py.itchat",
+      "name": "itchat",
+      "repo": "littlecodersh/ItChat",
+      "tags": "messenger",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "itchat"
+    },
+    {
+      "id": "py.python-telegram-bot",
+      "name": "python-telegram-bot",
+      "repo": "python-telegram-bot/python-telegram-bot",
+      "tags": "telegram-bot",
+      "tech": "chat-ux",
+      "status": "awaiting-model",
+      "imports": "telegram"
+    },
+    {
+      "id": "py.slackclient",
+      "name": "slackclient",
+      "repo": "slackapi/python-slackclient",
+      "tags": "slack",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "slack"
+    },
+    {
+      "id": "py.yowsup",
+      "name": "yowsup",
+      "repo": "tgalal/yowsup",
+      "tags": "whatsapp",
+      "tech": "chat-ux",
+      "status": "model-ready",
+      "imports": "yowsup"
+    },
+    {
+      "id": "py.argcomplete",
+      "name": "argcomplete",
+      "repo": "kislyuk/argcomplete",
+      "tags": "python-bash-completion",
+      "tech": "cli",
+      "status": "model-ready",
+      "imports": "argcomplete"
+    },
+    {
+      "id": "py.colorama",
+      "name": "Colorama",
+      "repo": "tartley/colorama",
+      "tags": "color-terminal",
+      "tech": "cli",
+      "status": "model-ready",
+      "imports": "colorama"
+    },
+    {
+      "id": "py.fire",
+      "name": "fire",
+      "repo": "google/python-fire",
+      "tags": "cli-for-objects",
+      "tech": "cli",
+      "status": "model-ready",
+      "imports": "fire"
+    },
+    {
+      "id": "py.progressbar2",
+      "name": "progressbar2",
+      "repo": "WoLpH/python-progressbar",
+      "tags": "progress-bar",
+      "tech": "cli",
+      "status": "model-ready",
+      "imports": "progressbar2"
+    },
+    {
+      "id": "py.texttable",
+      "name": "texttable",
+      "repo": "foutaise/texttable",
+      "tags": "ASCII-tables",
+      "tech": "cli",
+      "status": "awaiting-model",
+      "imports": "texttable"
+    },
+    {
+      "id": "py.tqdm",
+      "name": "tqdm",
+      "repo": "tqdm/tqdm",
+      "tags": "progress-bar",
+      "tech": "cli",
+      "status": "model-ready",
+      "imports": "tqdm"
+    },
+    {
+      "id": "py.boto",
+      "name": "boto",
+      "repo": "boto/boto",
+      "tags": "api",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "boto"
+    },
+    {
+      "id": "py.boto3",
+      "name": "Boto 3",
+      "repo": "boto/boto3",
+      "tags": "api",
+      "tech": "cloud",
+      "status": "awaiting-model",
+      "imports": "boto3"
+    },
+    {
+      "id": "py.botocore",
+      "name": "botocore",
+      "repo": "boto/botocore",
+      "tags": "aws",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "botocore"
+    },
+    {
+      "id": "py.celery",
+      "name": "celery",
+      "repo": "celery/celery",
+      "tags": "job-queue",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "celery"
+    },
+    {
+      "id": "py.django-elastic-transcoder",
+      "name": "Django Elastic Transcoder",
+      "repo": "StreetVoice/django-elastic-transcoder",
+      "tags": "aws-transcoder",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "dj_elastictranscoder"
+    },
+    {
+      "id": "py.docker",
+      "name": "Docker SDK for Python",
+      "repo": "docker/docker-py",
+      "tags": "docker",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "docker"
+    },
+    {
+      "id": "py.fabric",
+      "name": "fabric",
+      "repo": "fabric/fabric",
+      "tags": "deployment",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "fabric"
+    },
+    {
+      "id": "py.kubernetes",
+      "name": "Kubernetes Client",
+      "repo": "kubernetes-client/python",
+      "tags": "kubernetes-client",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "kubernetes"
+    },
+    {
+      "id": "py.troposphere",
+      "name": "troposphere",
+      "repo": "cloudtools/troposphere",
+      "tags": "aws-cloudformation",
+      "tech": "cloud",
+      "status": "model-ready",
+      "imports": "troposphere"
+    },
+    {
+      "id": "py.gitpython",
+      "name": "GitPython",
+      "repo": "gitpython-developers/GitPython",
+      "tags": "git",
+      "tech": "code-processing",
+      "status": "model-ready",
+      "imports": "GitPython"
+    },
+    {
+      "id": "py.pygithub",
+      "name": "PyGithub",
+      "repo": "pygithub/PyGithub",
+      "tags": "github-api",
+      "tech": "code-processing",
+      "status": "model-ready",
+      "imports": "github"
+    },
+    {
+      "id": "py.audiolLazy",
+      "name": "AudioLazy",
+      "repo": "danilobellini/audiolazy",
+      "tags": "real-time-dsp",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "auidolazy"
+    },
+    {
+      "id": "py.numpy",
+      "name": "numpy",
+      "repo": "numpy/numpy",
+      "tags": "computing",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "numpy"
+    },
+    {
+      "id": "py.or-tools",
+      "name": "or-tools",
+      "repo": "google/or-tools",
+      "tags": "operations-research",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "ortools"
+    },
+    {
+      "id": "py.pyaudioanalysis",
+      "name": "pyAudioAnalysis",
+      "repo": "tyiannak/pyAudioAnalysis",
+      "tags": "audio-analysis",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "pyAudioAnalysis"
+    },
+    {
+      "id": "py.scipy",
+      "name": "SciPy",
+      "repo": "scipy/scipy",
+      "tags": "math",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "scipy"
+    },
+    {
+      "id": "py.theano",
+      "name": "theano",
+      "repo": "Theano/Theano",
+      "tags": "expressions",
+      "tech": "computational-science",
+      "status": "model-ready",
+      "imports": "theano"
+    },
+    {
+      "id": "py.face-recognition",
+      "name": "face_recognition",
+      "repo": "ageitgey/face_recognition",
+      "tags": "face-recognition",
+      "tech": "computer-vision",
+      "status": "model-ready",
+      "imports": "face_recognition"
+    },
+    {
+      "id": "py.opencv",
+      "name": "opencv",
+      "repo": "opencv/opencv",
+      "tags": "cv",
+      "tech": "computer-vision",
+      "status": "model-ready",
+      "imports": "cv, cv2"
+    },
+    {
+      "id": "py.bokeh",
+      "name": "bokeh",
+      "repo": "bokeh/bokeh",
+      "tags": "visualization",
+      "tech": "data-science",
+      "status": "model-ready",
+      "imports": "bokeh"
+    },
+    {
+      "id": "py.ipython",
+      "name": "IPython",
+      "repo": "ipython/ipython",
+      "tags": "interactive-shell",
+      "tech": "data-science",
+      "status": "awaiting-model",
+      "imports": "IPython"
+    },
+    {
+      "id": "py.matplotlib",
+      "name": "matplotlib",
+      "repo": "matplotlib/matplotlib",
+      "tags": "visualization",
+      "tech": "data-science",
+      "status": "model-ready",
+      "imports": "matplotlib"
+    },
+    {
+      "id": "py.pandas",
+      "name": "pandas",
+      "repo": "pandas-dev/pandas",
+      "tags": "data-analysis",
+      "tech": "data-science",
+      "status": "model-ready",
+      "imports": "pandas"
+    },
+    {
+      "id": "py.bidict",
+      "name": "bidict",
+      "repo": "jab/bidict",
+      "tags": "bidirectional-maps",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "bidict"
+    },
+    {
+      "id": "py.box",
+      "name": "Box",
+      "repo": "cdgriffith/Box",
+      "tags": "dictionaries",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "box"
+    },
+    {
+      "id": "py.cachetools",
+      "name": "cachetools",
+      "repo": "tkem/cachetools",
+      "tags": "collections",
+      "tech": "data-structures",
+      "status": "awaiting-model",
+      "imports": "cachetools"
+    },
+    {
+      "id": "py.dotted",
+      "name": "dotted",
+      "repo": "carlosescri/DottedDict",
+      "tags": "dict-list",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "dotted"
+    },
+    {
+      "id": "py.more-itertools",
+      "name": "more-itertools",
+      "repo": "erikrose/more-itertools",
+      "tags": "iterables",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "more-itertools"
+    },
+    {
+      "id": "py.sorted-containers",
+      "name": "Sorted Containers",
+      "repo": "grantjenks/python-sortedcontainers",
+      "tags": "containers",
+      "tech": "data-structures",
+      "status": "model-ready",
+      "imports": "sortedcontainers"
+    },
+    {
+      "id": "py.alpha-go",
+      "name": "AlphaGo",
+      "repo": "Rochester-NRT/RocAlphaGo",
+      "tags": "alpha-go",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "AlphaGo"
+    },
+    {
+      "id": "py.keras",
+      "name": "keras",
+      "repo": "keras-team/keras",
+      "tags": "high-level-api",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "keras"
+    },
+    {
+      "id": "py.lasagne",
+      "name": "lasagne",
+      "repo": "Lasagne/Lasagne",
+      "tags": "theano",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "lasagne"
+    },
+    {
+      "id": "py.magenta",
+      "name": "magenta",
+      "repo": "tensorflow/magenta",
+      "tags": "music",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "magenta"
+    },
+    {
+      "id": "py.mxnet",
+      "name": "mxnet",
+      "repo": "apache/incubator-mxnet",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "mxnet"
+    },
+    {
+      "id": "py.sonnet",
+      "name": "sonnet",
+      "repo": "deepmind/sonnet",
+      "tags": "complex-nn",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "sonnet"
+    },
+    {
+      "id": "py.tensorflow",
+      "name": "tensorflow",
+      "repo": "tensorflow/tensorflow",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "tensorflow"
+    },
+    {
+      "id": "py.tflearn",
+      "name": "tflearn",
+      "repo": "tflearn/tflearn",
+      "tags": "high-level-api",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "tflearn"
+    },
+    {
+      "id": "py.torch",
+      "name": "torch",
+      "repo": "pytorch/pytorch",
+      "tags": "framework",
+      "tech": "dl",
+      "status": "model-ready",
+      "imports": "torch"
+    },
+    {
+      "id": "py.protobuf",
+      "name": "protobuf",
+      "repo": "google/protobuf",
+      "tags": "encoding",
+      "tech": "efficient-data",
+      "status": "model-ready",
+      "imports": "pb, pb2"
+    },
+    {
+      "id": "py.alembic",
+      "name": "alembic",
+      "repo": "sqlalchemy/alembic",
+      "tags": "db-migration",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "alembic"
+    },
+    {
+      "id": "py.attrs",
+      "name": "attrs",
+      "repo": "python-attrs/attrs",
+      "tags": "better-classes",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "attr"
+    },
+    {
+      "id": "py.cookiecutter",
+      "name": "cookiecutter",
+      "repo": "audreyr/cookiecutter",
+      "tags": "project-templates",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "cookiecutter"
+    },
+    {
+      "id": "py.debtcollector",
+      "name": "debtcollector",
+      "repo": "openstack/debtcollector",
+      "tags": "deprecation-patterns",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "debtcollector"
+    },
+    {
+      "id": "py.fblldbbase",
+      "name": "fblldbbase",
+      "repo": "facebook/chisel",
+      "tags": "ios-debugging",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "fblldbbase"
+    },
+    {
+      "id": "py.isort",
+      "name": "Isort",
+      "repo": "timothycrosley/isort",
+      "tags": "sort-imports",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "isort"
+    },
+    {
+      "id": "py.localstack",
+      "name": "localstack",
+      "repo": "localstack/localstack",
+      "tags": "aws-mocking",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "localstack"
+    },
+    {
+      "id": "py.moto",
+      "name": "Moto",
+      "repo": "spulec/moto",
+      "tags": "aws-mocking",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "moto"
+    },
+    {
+      "id": "py.yapf",
+      "name": "yapf",
+      "repo": "google/yapf",
+      "tags": "python-formatting",
+      "tech": "eng-tools",
+      "status": "model-ready",
+      "imports": "yapf"
+    },
+    {
+      "id": "py.futures",
+      "name": "futures",
+      "repo": "agronholm/pythonfutures",
+      "tags": "async-programming",
+      "tech": "faster-code",
+      "status": "awaiting-model",
+      "imports": "concurrent.futures"
+    },
+    {
+      "id": "py.gevent",
+      "name": "gevent",
+      "repo": "gevent/gevent",
+      "tags": "concurrency",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "gevent"
+    },
+    {
+      "id": "py.scoop",
+      "name": "SCOOP",
+      "repo": "soravux/scoop",
+      "tags": "concurrent-ops",
+      "tech": "faster-code",
+      "status": "model-ready",
+      "imports": "scoop"
+    },
+    {
+      "id": "py.zipline",
+      "name": "zipline",
+      "repo": "quantopian/zipline",
+      "tags": "algo-trading",
+      "tech": "fintech",
+      "status": "model-ready",
+      "imports": "zipline"
+    },
+    {
+      "id": "py.kivy",
+      "name": "kivy",
+      "repo": "kivy/kivy",
+      "tags": "framework",
+      "tech": "gui",
+      "status": "model-ready",
+      "imports": "kivy"
+    },
+    {
+      "id": "py.pil",
+      "name": "PIL",
+      "repo": "python-pillow/Pillow",
+      "tags": "manipulation",
+      "tech": "images",
+      "status": "model-ready",
+      "imports": "PIL"
+    },
+    {
+      "id": "py.aiohttp",
+      "name": "aiohttp",
+      "repo": "aio-libs/aiohttp",
+      "tags": "http-framework",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "aiohttp"
+    },
+    {
+      "id": "py.cherrypy",
+      "name": "CherryPy",
+      "repo": "cherrypy/cherrypy",
+      "tags": "http-framework",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "CherryPy"
+    },
+    {
+      "id": "py.feedparser",
+      "name": "feedparser",
+      "repo": "kurtmckee/feedparser",
+      "tags": "rss-parser",
+      "tech": "internet",
+      "status": "awaiting-model",
+      "imports": "feedparser"
+    },
+    {
+      "id": "py.gunicorn",
+      "name": "gunicorn",
+      "repo": "benoitc/gunicorn",
+      "tags": "http-server",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "Gunicorn"
+    },
+    {
+      "id": "py.httplib2",
+      "name": "httplib2",
+      "repo": "httplib2/httplib2",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "awaiting-model",
+      "imports": "httplib2"
+    },
+    {
+      "id": "py.jose",
+      "name": "jose",
+      "repo": "demonware/jose",
+      "tags": "jws-jwe",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "jose"
+    },
+    {
+      "id": "py.newspaper",
+      "name": "newspaper",
+      "repo": "codelucas/newspaper",
+      "tags": "web-scraper",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "newspaper"
+    },
+    {
+      "id": "py.oauthlib",
+      "name": "OAuthLib",
+      "repo": "oauthlib/oauthlib",
+      "tags": "oauth",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "oauthlib"
+    },
+    {
+      "id": "py.pyjwt",
+      "name": "PyJWT",
+      "repo": "jpadilla/pyjwt",
+      "tags": "jwt",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "jwt"
+    },
+    {
+      "id": "py.pyspider",
+      "name": "pyspider",
+      "repo": "binux/pyspider",
+      "tags": "web-crawler",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "pyspider"
+    },
+    {
+      "id": "py.python-jws",
+      "name": "python-jws",
+      "repo": "brianloveswords/python-jws",
+      "tags": "jws",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "jws"
+    },
+    {
+      "id": "py.python-jwt",
+      "name": "python-jwt",
+      "repo": "davedoesdev/python-jwt",
+      "tags": "jwt",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "python_jwt"
+    },
+    {
+      "id": "py.python-oauth2",
+      "name": "python-oauth2",
+      "repo": "joestump/python-oauth2",
+      "tags": "oauth",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "oauth2"
+    },
+    {
+      "id": "py.rauth",
+      "name": "Rauth",
+      "repo": "litl/rauth",
+      "tags": "oauth",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "rauth"
+    },
+    {
+      "id": "py.requests",
+      "name": "requests",
+      "repo": "kennethreitz/requests",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "awaiting-model",
+      "imports": "requests"
+    },
+    {
+      "id": "py.sanction",
+      "name": "sanction",
+      "repo": "demianbrecht/sanction",
+      "tags": "oauth",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "sanction"
+    },
+    {
+      "id": "py.scrapy",
+      "name": "scrapy",
+      "repo": "scrapy/scrapy",
+      "tags": "web-crawler",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "scrapy"
+    },
+    {
+      "id": "py.urllib3",
+      "name": "urllib3",
+      "repo": "urllib3/urllib3",
+      "tags": "http-client",
+      "tech": "internet",
+      "status": "model-ready",
+      "imports": "urllib3"
+    },
+    {
+      "id": "py.six",
+      "name": "Six",
+      "repo": "benjaminp/six",
+      "tags": "python2-python3",
+      "tech": "interoperability",
+      "status": "model-ready",
+      "imports": "six"
+    },
+    {
+      "id": "py.homeassistant",
+      "name": "homeassistant",
+      "repo": "home-assistant/home-assistant",
+      "tags": "automation",
+      "tech": "iot",
+      "status": "model-ready",
+      "imports": "homeassistant"
+    },
+    {
+      "id": "py.m3u8",
+      "name": "m3u8",
+      "repo": "globocom/m3u8",
+      "tags": "m3u8-files",
+      "tech": "media",
+      "status": "model-ready",
+      "imports": "m3u8"
+    },
+    {
+      "id": "py.decorator",
+      "name": "decorator",
+      "repo": "micheles/decorator",
+      "tags": "decorators",
+      "tech": "metaprogramming",
+      "status": "awaiting-model",
+      "imports": "decorator"
+    },
+    {
+      "id": "py.gensim",
+      "name": "gensim",
+      "repo": "RaRe-Technologies/gensim",
+      "tags": "topic-modeling",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "gensim"
+    },
+    {
+      "id": "py.nupic",
+      "name": "nupic",
+      "repo": "numenta/nupic",
+      "tags": "numenta-htm",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "nupic"
+    },
+    {
+      "id": "py.sklearn",
+      "name": "sklearn",
+      "repo": "scikit-learn/scikit-learn",
+      "tags": "toolkit",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "sklearn"
+    },
+    {
+      "id": "py.xgboost",
+      "name": "xgboost",
+      "repo": "dmlc/xgboost",
+      "tags": "gradient-boost",
+      "tech": "ml",
+      "status": "model-ready",
+      "imports": "xgboost"
+    },
+    {
+      "id": "py.paramiko",
+      "name": "paramiko",
+      "repo": "paramiko/paramiko",
+      "tags": "ssh",
+      "tech": "networking",
+      "status": "model-ready",
+      "imports": "paramiko"
+    },
+    {
+      "id": "py.flair",
+      "name": "flair",
+      "repo": "zalandoresearch/flair",
+      "tags": "extraction, embeddings",
+      "tech": "nlp, ml",
+      "status": "model-ready",
+      "imports": "flair"
+    },
+    {
+      "id": "py.jieba",
+      "name": "jieba",
+      "repo": "fxsjy/jieba",
+      "tags": "chinese",
+      "tech": "nlp",
+      "status": "model-ready",
+      "imports": "jieba"
+    },
+    {
+      "id": "py.nltk",
+      "name": "nltk",
+      "repo": "nltk/nltk",
+      "tags": "toolkit",
+      "tech": "nlp",
+      "status": "model-ready",
+      "imports": "nltk"
+    },
+    {
+      "id": "py.pattern",
+      "name": "pattern",
+      "repo": "clips/pattern",
+      "tags": "web-mining",
+      "tech": "nlp, scraping",
+      "status": "model-ready",
+      "imports": "pattern"
+    },
+    {
+      "id": "py.spacy",
+      "name": "spacy",
+      "repo": "explosion/spaCy",
+      "tags": "extraction",
+      "tech": "nlp",
+      "status": "model-ready",
+      "imports": "spacy"
+    },
+    {
+      "id": "py.ply",
+      "name": "PLY",
+      "repo": "dabeaz/ply",
+      "tags": "lexing",
+      "tech": "parsing",
+      "status": "model-ready",
+      "imports": "ply"
+    },
+    {
+      "id": "py.pyparsing",
+      "name": "PyParsing",
+      "repo": "pyparsing/pyparsing",
+      "tags": "grammars",
+      "tech": "parsing",
+      "status": "model-ready",
+      "imports": "pyparsing"
+    },
+    {
+      "id": "py.sqlparse",
+      "name": "sqlparse",
+      "repo": "andialbrecht/sqlparse",
+      "tags": "sql-parser",
+      "tech": "parsing",
+      "status": "model-ready",
+      "imports": "sqlparse"
+    },
+    {
+      "id": "py.pyserial",
+      "name": "pySerial",
+      "repo": "pyserial/pyserial",
+      "tags": "serial-port",
+      "tech": "peripheral",
+      "status": "awaiting-model",
+      "imports": "serial"
+    },
+    {
+      "id": "py.authomatic",
+      "name": "Authomatic",
+      "repo": "authomatic/authomatic",
+      "tags": "oauth-openid",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "authomatic"
+    },
+    {
+      "id": "py.beaker",
+      "name": "Beaker",
+      "repo": "bbangert/beaker",
+      "tags": "sessions-caching",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "beaker"
+    },
+    {
+      "id": "py.beautifulsoup",
+      "name": "BeautifulSoup",
+      "repo": "https://code.launchpad.net/beautifulsoup",
+      "tags": "web-scraping, web-automation",
+      "tech": "python-web",
+      "status": "awaiting-model",
+      "imports": "bs4, BeautifulSoup"
+    },
+    {
+      "id": "py.bottle",
+      "name": "bottle",
+      "repo": "bottlepy/bottle",
+      "tags": "framework",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "bottle"
+    },
+    {
+      "id": "py.cacheops",
+      "name": "Cacheops",
+      "repo": "Suor/django-cacheops",
+      "tags": "django-caching",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "cacheops"
+    },
+    {
+      "id": "py.connexion",
+      "name": "connexion",
+      "repo": "zalando/connexion",
+      "tags": "micro-framework",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "connexion"
+    },
+    {
+      "id": "py.diskcache",
+      "name": "DiskCache",
+      "repo": "grantjenks/python-diskcache",
+      "tags": "django-caching",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "diskcache"
+    },
+    {
+      "id": "py.django",
+      "name": "django",
+      "repo": "django/django",
+      "tags": "framework",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "django"
+    },
+    {
+      "id": "py.django-allauth",
+      "name": "django-allauth",
+      "repo": "pennersr/django-allauth",
+      "tags": "auth-toolkit",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "allauth"
+    },
+    {
+      "id": "py.django-cache-machine",
+      "name": "Cache Machine",
+      "repo": "django-cache-machine/django-cache-machine",
+      "tags": "django-caching",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "caching"
+    },
+    {
+      "id": "py.django-extensions",
+      "name": "django-extensions",
+      "repo": "django-extensions/django-extensions",
+      "tags": "django-extensions",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "django_extensions"
+    },
+    {
+      "id": "py.django-filter",
+      "name": "django-filter",
+      "repo": "carltongibson/django-filter",
+      "tags": "django-queryset-filter",
+      "tech": "python-web",
+      "status": "awaiting-model",
+      "imports": "django_filter"
+    },
+    {
+      "id": "py.django-model-utils",
+      "name": "Django Utils",
+      "repo": "jazzband/django-model-utils",
+      "tags": "django-utils",
+      "tech": "python-web",
+      "status": "awaiting-model",
+      "imports": "model_utils"
+    },
+    {
+      "id": "py.django-oauth-toolkit",
+      "name": "Django OAuth Toolkit",
+      "repo": "jazzband/django-oauth-toolkit",
+      "tags": "oauth",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "oauth2_provider"
+    },
+    {
+      "id": "py.dogpile",
+      "name": "Dogpile",
+      "repo": "https://bitbucket.org/zzzeek/dogpile.cache/",
+      "tags": "caching",
+      "tech": "python-web",
+      "status": "awaiting-model",
+      "imports": "dogpile"
+    },
+    {
+      "id": "py.flasgger",
+      "name": "flasgger",
+      "repo": "rochacbruno/flasgger",
+      "tags": "flask-openapi",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "flasgger"
+    },
+    {
+      "id": "py.flask",
+      "name": "flask",
+      "repo": "pallets/flask",
+      "tags": "micro-framework",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "flask, Flask"
+    },
+    {
+      "id": "py.flask-oauthlib",
+      "name": "Flask-OAuthlib",
+      "repo": "lepture/flask-oauthlib",
+      "tags": "oauth",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "flask_oauthlib"
+    },
+    {
+      "id": "py.flask-restful",
+      "name": "Flask-RESTful",
+      "repo": "flask-restful/flask-restful",
+      "tags": "RESTful",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "flask_restful"
+    },
+    {
+      "id": "py.hermes-cache",
+      "name": "HermesCache",
+      "repo": "https://bitbucket.org/saaj/hermes",
+      "tags": "caching",
+      "tech": "python-web",
+      "status": "awaiting-model",
+      "imports": "hermes"
+    },
+    {
+      "id": "py.jinja2",
+      "name": "jinja2",
+      "repo": "pallets/jinja",
+      "tags": "templates",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "jinja2"
+    },
+    {
+      "id": "py.johny-cache",
+      "name": "Johny Cache",
+      "repo": "jmoiron/johnny-cache",
+      "tags": "django-caching",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "johny"
+    },
+    {
+      "id": "py.mako",
+      "name": "Mako",
+      "repo": "sqlalchemy/mako",
+      "tags": "templates",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "mako"
+    },
+    {
+      "id": "py.pylibmc",
+      "name": "pyblibmc",
+      "repo": "lericson/pylibmc",
+      "tags": "memcached-client",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "pylibmc"
+    },
+    {
+      "id": "py.pyramid",
+      "name": "pyramid",
+      "repo": "Pylons/pyramid",
+      "tags": "micro-framework",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "pyramid"
+    },
+    {
+      "id": "py.python-social-auth",
+      "name": "Python Social Auth",
+      "repo": "python-social-auth/social-core",
+      "tags": "oauth",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "social, social_"
+    },
+    {
+      "id": "py.requests-oauthlib",
+      "name": "requests-oauthlib",
+      "repo": "requests/requests-oauthlib",
+      "tags": "oauth-client",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "requests_oauthlib"
+    },
+    {
+      "id": "py.rest-framework",
+      "name": "rest_framework",
+      "repo": "encode/django-rest-framework",
+      "tags": "django-rest",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "rest_framework"
+    },
+    {
+      "id": "py.sanic",
+      "name": "sanic",
+      "repo": "channelcat/sanic",
+      "tags": "micro-framework",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "sanic"
+    },
+    {
+      "id": "py.tornado",
+      "name": "tornado",
+      "repo": "tornadoweb/tornado",
+      "tags": "async-framework",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "tornado"
+    },
+    {
+      "id": "py.twisted",
+      "name": "Twisted",
+      "repo": "twisted/twisted",
+      "tags": "networking-engine",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "twisted"
+    },
+    {
+      "id": "py.waitress",
+      "name": "waitress",
+      "repo": "Pylons/waitress",
+      "tags": "WSGI-server",
+      "tech": "python-web",
+      "status": "awaiting-model",
+      "imports": "waitress"
+    },
+    {
+      "id": "py.web",
+      "name": "web",
+      "repo": "webpy/webpy",
+      "tags": "framework",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "web"
+    },
+    {
+      "id": "py.websockets",
+      "name": "Websockets",
+      "repo": "aaugustin/websockets",
+      "tags": "websocket",
+      "tech": "python-web",
+      "status": "awaiting-model",
+      "imports": "websockets"
+    },
+    {
+      "id": "py.werkzeug",
+      "name": "Werkzeug",
+      "repo": "pallets/werkzeug",
+      "tags": "wsgi",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "werkzeug"
+    },
+    {
+      "id": "py.zappa",
+      "name": "zappa",
+      "repo": "Miserlou/Zappa",
+      "tags": "serverless",
+      "tech": "python-web",
+      "status": "model-ready",
+      "imports": "zappa"
+    },
+    {
+      "id": "py.gym",
+      "name": "gym",
+      "repo": "openai/gym",
+      "tags": "environments",
+      "tech": "rl",
+      "status": "model-ready",
+      "imports": "gym"
+    },
+    {
+      "id": "py.universe",
+      "name": "universe",
+      "repo": "openai/universe",
+      "tags": "environments",
+      "tech": "rl",
+      "status": "model-ready",
+      "imports": "universe"
+    },
+    {
+      "id": "py.cryptography",
+      "name": "cryptography",
+      "repo": "pyca/cryptography",
+      "tags": "cryptography",
+      "tech": "security",
+      "status": "model-ready",
+      "imports": "cryptography"
+    },
+    {
+      "id": "py.ecdsa",
+      "name": "Pure-Python ECDSA",
+      "repo": "warner/python-ecdsa",
+      "tags": "ECDSA-cryptography",
+      "tech": "security",
+      "status": "awaiting-model",
+      "imports": "ecdsa"
+    },
+    {
+      "id": "py.keyring",
+      "name": "keyring",
+      "repo": "jaraco/keyring",
+      "tags": "store-passwords",
+      "tech": "security",
+      "status": "awaiting-model",
+      "imports": "keyring"
+    },
+    {
+      "id": "py.pyopenssl",
+      "name": "pyOpenSSL",
+      "repo": "pyca/pyopenssl",
+      "tags": "OpenSSL-wrapper",
+      "tech": "security",
+      "status": "awaiting-model",
+      "imports": "OpenSSL"
+    },
+    {
+      "id": "py.flask-migrate",
+      "name": "Flask-Migrate",
+      "repo": "miguelgrinberg/flask-migrate",
+      "tags": "sqlalchemy-db-migration",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "flask_migrate"
+    },
+    {
+      "id": "py.flask-sqlalchemy",
+      "name": "Flask-SQLAlchemy",
+      "repo": "pallets/flask-sqlalchemy",
+      "tags": "flask-sqlalchemy",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "flask_sqlalchemy"
+    },
+    {
+      "id": "py.peewee",
+      "name": "peewee",
+      "repo": "coleifer/peewee",
+      "tags": "orm",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "peewee"
+    },
+    {
+      "id": "py.pymongo",
+      "name": "pymongo",
+      "repo": "mongodb/mongo-python-driver",
+      "tags": "mongodb",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "pymongo"
+    },
+    {
+      "id": "py.pymysql",
+      "name": "PyMySQL",
+      "repo": "PyMySQL/PyMySQL",
+      "tags": "mysql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "pymysql"
+    },
+    {
+      "id": "py.redis",
+      "name": "redis",
+      "repo": "andymccurdy/redis-py",
+      "tags": "nosql",
+      "tech": "storage",
+      "status": "model-ready",
+      "imports": "redis"
+    },
+    {
+      "id": "py.sqlalchemy",
+      "name": "SQLAlchemy",
+      "repo": "sqlalchemy/sqlalchemy",
+      "tags": "sql",
+      "tech": "storage",
+      "status": "awaiting-model",
+      "imports": "sqlalchemy"
+    },
+    {
+      "id": "py.django-celery",
+      "name": "Celery for django",
+      "repo": "celery/django-celery",
+      "tags": "celery-django",
+      "tech": "task-queue",
+      "status": "model-ready",
+      "imports": "djcelery"
+    },
+    {
+      "id": "py.coverage",
+      "name": "Coverage.py",
+      "repo": "nedbat/coveragepy",
+      "tags": "code-coverage",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "coverage"
+    },
+    {
+      "id": "py.faker",
+      "name": "faker",
+      "repo": "joke2k/faker",
+      "tags": "fake-data",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "faker"
+    },
+    {
+      "id": "py.locust",
+      "name": "locust",
+      "repo": "locustio/locust",
+      "tags": "load-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "locust"
+    },
+    {
+      "id": "py.mock",
+      "name": "mock",
+      "repo": "testing-cabal/mock",
+      "tags": "mocking",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "mock"
+    },
+    {
+      "id": "py.nose",
+      "name": "nose",
+      "repo": "nose-devs/nose",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "nose"
+    },
+    {
+      "id": "py.selenium",
+      "name": "Selenium",
+      "repo": "SeleniumHQ/selenium",
+      "tags": "web-scraping, web-automation",
+      "tech": "testing",
+      "status": "awaiting-model",
+      "imports": "selenium"
+    },
+    {
+      "id": "py.test",
+      "name": "pytest",
+      "repo": "pytest-dev/pytest",
+      "tags": "unit-testing",
+      "tech": "testing",
+      "status": "model-ready",
+      "imports": "pytest"
+    },
+    {
+      "id": "py.chardet",
+      "name": "chardet",
+      "repo": "chardet/chardet",
+      "tags": "encoding-detection",
+      "tech": "text",
+      "status": "awaiting-model",
+      "imports": "chardet"
+    },
+    {
+      "id": "py.appdirs",
+      "name": "AppDirs",
+      "repo": "ActiveState/appdirs",
+      "tags": "platform-dirs",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "appdirs"
+    },
+    {
+      "id": "py.arrow",
+      "name": "arrow",
+      "repo": "crsmithdev/arrow",
+      "tags": "date-time",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "arrow"
+    },
+    {
+      "id": "py.dotenv",
+      "name": "python-dotenv",
+      "repo": "theskumar/python-dotenv",
+      "tags": "env-vars",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "dotenv"
+    },
+    {
+      "id": "py.dynaconf",
+      "name": "dynaconf",
+      "repo": "rochacbruno/dynaconf",
+      "tags": "configuration",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "dynaconf"
+    },
+    {
+      "id": "py.fs",
+      "name": "PyFilesystem2",
+      "repo": "PyFilesystem/pyfilesystem2",
+      "tags": "filesystem",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "fs"
+    },
+    {
+      "id": "py.gflags",
+      "name": "gflags",
+      "repo": "google/python-gflags",
+      "tags": "argument-parsing",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "gflags"
+    },
+    {
+      "id": "py.gooey",
+      "name": "gooey",
+      "repo": "chriskiehl/Gooey",
+      "tags": "cli2gui",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "gooey"
+    },
+    {
+      "id": "py.path.py",
+      "name": "path.py",
+      "repo": "jaraco/path.py",
+      "tags": "file-access",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "path"
+    },
+    {
+      "id": "py.pendulum",
+      "name": "pendulum",
+      "repo": "sdispater/pendulum",
+      "tags": "datetime",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "pendulum"
+    },
+    {
+      "id": "py.psutil",
+      "name": "psutil",
+      "repo": "giampaolo/psutil",
+      "tags": "system",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "psutil"
+    },
+    {
+      "id": "py.python-dateutil",
+      "name": "dateutil",
+      "repo": "dateutil/dateutil",
+      "tags": "date-time",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "dateutil"
+    },
+    {
+      "id": "py.python-slugify",
+      "name": "Slugify",
+      "repo": "un33k/python-slugify",
+      "tags": "unicode-slugs",
+      "tech": "utils",
+      "status": "model-ready",
+      "imports": "slugify"
+    },
+    {
+      "id": "py.supervisor",
+      "name": "supervisor",
+      "repo": "Supervisor/supervisor",
+      "tags": "process-control",
+      "tech": "utils",
+      "status": "awaiting-model",
+      "imports": "xmlrpclib"
+    }
+  ],
+  "meta": {
+    "title": "Python Libraries Directory - Free Download",
+    "description": "207 curated Python libraries with repository links, categories, and technology tags. Covers machine learning, web frameworks, data science, and more. Contains 207 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Python Libraries Directory | ListBase",
+    "seo_description": "Download Python Libraries Directory — 207 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 207 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/sourcerer-io/awesome-libraries"
+    ]
+  }
+}

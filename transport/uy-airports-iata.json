@@ -1,0 +1,301 @@
+{
+  "id": "uy-airports-iata",
+  "name": "Uruguay — IATA Airports",
+  "title": "Uruguay — IATA Airports",
+  "description": "Airports with IATA codes in Uruguay: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "ATI",
+      "icao_code": "SUAG",
+      "name": "Artigas International Airport",
+      "city_name_list": "Artigas",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Artigas",
+      "latitude": -30.40071,
+      "longitude": -56.50787,
+      "elevation": "",
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Artigas_Airport"
+    },
+    {
+      "iata_code": "BUV",
+      "icao_code": "SUBU",
+      "name": "Bella Union Airport",
+      "city_name_list": "Bella Union Airport",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Artigas",
+      "latitude": -30.33,
+      "longitude": -57.08,
+      "elevation": "",
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Placeres_Airport"
+    },
+    {
+      "iata_code": "CYR",
+      "icao_code": "SUCA",
+      "name": "Colonia del Sacramento International Airport",
+      "city_name_list": "Colonia del Sacramento",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Colonia",
+      "latitude": -34.45717,
+      "longitude": -57.76877,
+      "elevation": "",
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Colonia_Airport"
+    },
+    {
+      "iata_code": "DZO",
+      "icao_code": "SUDU",
+      "name": "Durazno",
+      "city_name_list": "Durazno",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Durazno Department",
+      "latitude": -33.358867,
+      "longitude": -56.499172,
+      "elevation": 92,
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Santa_Bernardina_International_Airport"
+    },
+    {
+      "iata_code": "FZB",
+      "icao_code": "",
+      "name": "Fray Bentos Airport",
+      "city_name_list": "Fray Bentos",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Rio Negro",
+      "latitude": -33.143,
+      "longitude": -58.2941,
+      "elevation": "",
+      "timezone": "America/Montevideo",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "MLZ",
+      "icao_code": "SUMO",
+      "name": "Cerro Largo International Airport",
+      "city_name_list": "Melo",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Cerro Largo",
+      "latitude": -32.33,
+      "longitude": -54.2,
+      "elevation": 100,
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Cerro_Largo_International_Airport"
+    },
+    {
+      "iata_code": "MVD",
+      "icao_code": "SUMU",
+      "name": "Carrasco International Airport",
+      "city_name_list": "Montevideo",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Canelones",
+      "latitude": -34.838417,
+      "longitude": -56.030806,
+      "elevation": 32,
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Carrasco_International_Airport"
+    },
+    {
+      "iata_code": "PDP",
+      "icao_code": "SULS",
+      "name": "Capitán de Corbeta Carlos A. Curbelo International Airport",
+      "city_name_list": "Punta del Este",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Maldonado",
+      "latitude": -34.85514,
+      "longitude": -55.09428,
+      "elevation": 28,
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Capit%C3%A1n_de_Corbeta_Carlos_A._Curbelo_International_Airport"
+    },
+    {
+      "iata_code": "PDU",
+      "icao_code": "SUPU",
+      "name": "Paysandú Airport",
+      "city_name_list": "Paysandú Airport",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Paysandu Department",
+      "latitude": -32.37,
+      "longitude": -58.05,
+      "elevation": 61,
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Paysand%C3%BA_Airport"
+    },
+    {
+      "iata_code": "RVY",
+      "icao_code": "SURV",
+      "name": "Rivera International Airport",
+      "city_name_list": "Rivera",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Rivera Department",
+      "latitude": -30.97157,
+      "longitude": -55.47302,
+      "elevation": "",
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Rivera_International_Airport"
+    },
+    {
+      "iata_code": "STY",
+      "icao_code": "SUSO",
+      "name": "Aeropuerto Nueva Hesperides",
+      "city_name_list": "Salto",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Salto Department",
+      "latitude": -31.438481,
+      "longitude": -57.985294,
+      "elevation": 56,
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Nueva_Hesperides_International_Airport"
+    },
+    {
+      "iata_code": "TAW",
+      "icao_code": "SUTB",
+      "name": "Tacuarembo",
+      "city_name_list": "Tacuarembo",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Tacuarembo Department",
+      "latitude": -31.75,
+      "longitude": -55.92,
+      "elevation": 134,
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Tacuaremb%C3%B3_Airport"
+    },
+    {
+      "iata_code": "TYT",
+      "icao_code": "SUTR",
+      "name": "Treinta Y Tres",
+      "city_name_list": "Treinta Y Tres",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Treinta y Tres Department",
+      "latitude": -33.2,
+      "longitude": -54.35,
+      "elevation": 46,
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Treinta_y_Tres_Airport"
+    },
+    {
+      "iata_code": "VCH",
+      "icao_code": "SUVO",
+      "name": "Vichadero Airport",
+      "city_name_list": "Vichadero",
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "continent_name": "South America",
+      "adm1_name_ascii": "Rivera Department",
+      "latitude": -31.75,
+      "longitude": -54.6,
+      "elevation": "",
+      "timezone": "America/Montevideo",
+      "wiki_link": "https://en.wikipedia.org/wiki/Vichadero_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Uruguay — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Uruguay: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Uruguay — IATA Airports | ListBase",
+    "seo_description": "Download Uruguay — IATA Airports dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

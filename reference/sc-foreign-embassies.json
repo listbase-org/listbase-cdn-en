@@ -1,0 +1,316 @@
+{
+  "id": "sc-foreign-embassies",
+  "name": "Seychelles — Foreign Embassies and Consulates",
+  "title": "Seychelles — Foreign Embassies and Consulates",
+  "description": "Diplomatic missions of foreign countries and territories hosted in Seychelles. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID.",
+  "category": "reference",
+  "source": "https://github.com/database-of-embassies/database-of-embassies",
+  "source_url": "https://github.com/database-of-embassies/database-of-embassies",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "operator_cc",
+      "label": "Operator Cc",
+      "type": "string"
+    },
+    {
+      "key": "host_country",
+      "label": "Host Country",
+      "type": "string"
+    },
+    {
+      "key": "host_cc",
+      "label": "Host Cc",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "jurisdictions",
+      "label": "Jurisdictions",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "type": "string"
+    },
+    {
+      "key": "twitter",
+      "label": "Twitter",
+      "type": "string"
+    },
+    {
+      "key": "youtube",
+      "label": "Youtube",
+      "type": "string"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Cuba",
+      "operator_cc": "cu",
+      "host_country": "Seychelles",
+      "host_cc": "sc",
+      "city": "Victoria",
+      "address": "",
+      "type": "embassy",
+      "latitude": -4.6289,
+      "longitude": 55.4539,
+      "jurisdictions": "Seychelles",
+      "phone": "",
+      "email": "",
+      "website": "http://misiones.minrex.gob.cu/seychelles/embajada-de-cuba-en-seychelles",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106449960"
+    },
+    {
+      "operator": "France",
+      "operator_cc": "fr",
+      "host_country": "Seychelles",
+      "host_cc": "sc",
+      "city": "",
+      "address": "",
+      "type": "embassy",
+      "latitude": -4.63057,
+      "longitude": 55.456502,
+      "jurisdictions": "Seychelles",
+      "phone": "",
+      "email": "",
+      "website": "https://sc.ambafrance.org",
+      "facebook": "LaFranceauxSeychelles",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q2841707"
+    },
+    {
+      "operator": "India",
+      "operator_cc": "in",
+      "host_country": "Seychelles",
+      "host_cc": "sc",
+      "city": "Victoria",
+      "address": "",
+      "type": "high commission",
+      "latitude": -4.62423,
+      "longitude": 55.45291,
+      "jurisdictions": "Seychelles",
+      "phone": "",
+      "email": "",
+      "website": "https://www.hciseychelles.gov.in",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q112758176"
+    },
+    {
+      "operator": "Japan",
+      "operator_cc": "jp",
+      "host_country": "Seychelles",
+      "host_cc": "sc",
+      "city": "Victoria",
+      "address": "",
+      "type": "embassy",
+      "latitude": -4.62423,
+      "longitude": 55.45291,
+      "jurisdictions": "Seychelles",
+      "phone": "",
+      "email": "",
+      "website": "https://www.sc.emb-japan.go.jp/itprtop_en/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q112758360"
+    },
+    {
+      "operator": "Netherlands",
+      "operator_cc": "nl",
+      "host_country": "Seychelles",
+      "host_cc": "sc",
+      "city": "Victoria",
+      "address": "",
+      "type": "honorary consulate",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Seychelles",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q112661987"
+    },
+    {
+      "operator": "People's Republic of China",
+      "operator_cc": "cn",
+      "host_country": "Seychelles",
+      "host_cc": "sc",
+      "city": "Beau Vallon",
+      "address": "",
+      "type": "embassy",
+      "latitude": -4.62364,
+      "longitude": 55.44484,
+      "jurisdictions": "Seychelles",
+      "phone": "",
+      "email": "",
+      "website": "http://sc.china-embassy.org/",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q106442451"
+    },
+    {
+      "operator": "Russia",
+      "operator_cc": "ru",
+      "host_country": "Seychelles",
+      "host_cc": "sc",
+      "city": "Beau Vallon",
+      "address": "",
+      "type": "embassy",
+      "latitude": -4.62341,
+      "longitude": 55.43911,
+      "jurisdictions": "Seychelles",
+      "phone": "",
+      "email": "",
+      "website": "https://seychelles.mid.ru",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q110008085"
+    },
+    {
+      "operator": "United Arab Emirates",
+      "operator_cc": "ae",
+      "host_country": "Seychelles",
+      "host_cc": "sc",
+      "city": "Victoria",
+      "address": "",
+      "type": "embassy",
+      "latitude": -4.6234234,
+      "longitude": 55.4523569,
+      "jurisdictions": "Seychelles",
+      "phone": "+248-4-399-999",
+      "email": "mailto:victoriaemb@mofaic.gov.ae",
+      "website": "https://www.mofaic.gov.ae/missions/UAE-Missions-Abroad/UAE-Missions-Abroad-Details?countryId=ed0c54ce-a105-43ee-aa75-85e45d451548",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q81310566"
+    },
+    {
+      "operator": "United Kingdom",
+      "operator_cc": "gb",
+      "host_country": "Seychelles",
+      "host_cc": "sc",
+      "city": "Victoria",
+      "address": "",
+      "type": "high commission",
+      "latitude": -4.62377,
+      "longitude": 55.45229,
+      "jurisdictions": "Seychelles",
+      "phone": "",
+      "email": "",
+      "website": "https://www.gov.uk/world/organisations/high-commission-victoria",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q59290308"
+    },
+    {
+      "operator": "Vatican",
+      "operator_cc": "va",
+      "host_country": "Seychelles",
+      "host_cc": "sc",
+      "city": "",
+      "address": "",
+      "type": "apostolic nunciature",
+      "latitude": "",
+      "longitude": "",
+      "jurisdictions": "Seychelles",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "creation": "",
+      "wikidata_qid": "Q12784976"
+    }
+  ],
+  "meta": {
+    "title": "Seychelles — Foreign Embassies and Consulates - Free Download",
+    "description": "Diplomatic missions of foreign countries and territories hosted in Seychelles. Sourced from Wikidata via the database-of-embassies project; each record includes the operator (sending country), mission type, city, address, geo coordinates, contact details, jurisdictions covered, and the Wikidata QID. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Seychelles — Foreign Embassies and Consulates | ListBase",
+    "seo_description": "Download Seychelles — Foreign Embassies and Consulates — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 18 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/database-of-embassies/database-of-embassies"
+    ]
+  }
+}

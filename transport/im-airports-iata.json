@@ -1,0 +1,106 @@
+{
+  "id": "im-airports-iata",
+  "name": "Isle of Man — IATA Airports",
+  "title": "Isle of Man — IATA Airports",
+  "description": "Airports with IATA codes in Isle of Man: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "IOM",
+      "icao_code": "EGNS",
+      "name": "Isle Of Man / Ronaldsway Airport",
+      "city_name_list": "Isle of Man",
+      "country_code": "IM",
+      "country_name": "Isle of Man",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "",
+      "latitude": 54.08333,
+      "longitude": -4.62389,
+      "elevation": 15,
+      "timezone": "Europe/Isle_of_Man",
+      "wiki_link": "https://en.wikipedia.org/wiki/Isle_of_Man_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Isle of Man — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Isle of Man: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 1 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Isle of Man — IATA Airports | ListBase",
+    "seo_description": "Download Isle of Man — IATA Airports dataset with 1 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

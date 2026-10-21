@@ -1,0 +1,301 @@
+{
+  "id": "af-political-parties",
+  "name": "Afghanistan — Political Parties",
+  "title": "Afghanistan — Political Parties",
+  "description": "Political parties of Afghanistan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5184,
+      "name_short": "HDK",
+      "name": "People's Democratic Party of Afghanistan",
+      "name_english": "People's Democratic Party of Afghanistan",
+      "name_other": "Persian: حزب دموکراتيک خلق افغانستان",
+      "year_first": 1965,
+      "year_last": 1992,
+      "share": 100,
+      "share_year": 1988,
+      "wikipedia": "https://en.wikipedia.org/wiki/People's_Democratic_Party_of_Afghanistan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5183,
+      "name_short": "JI",
+      "name": "Jamiat-e Islami",
+      "name_english": "Islamic Society",
+      "name_other": "Persian: جمعیت اسلامی افغانستان‎‎;",
+      "year_first": 1968,
+      "year_last": "",
+      "share": 23.7,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jamiat-e_Islami",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5881,
+      "name_short": "NF",
+      "name": "National (Fatherland) Front",
+      "name_english": "National Front",
+      "name_other": "",
+      "year_first": 1978,
+      "year_last": 1992,
+      "share": 19.6,
+      "share_year": 1988,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Front_(Afghanistan)",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6643,
+      "name_short": "HI",
+      "name": "Hezb-e Islami",
+      "name_english": "Islamic Party",
+      "name_other": "",
+      "year_first": 1975,
+      "year_last": "",
+      "share": 4.8,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/Hezbi_Islami",
+      "description": "12/249 seats in the 2005 Afghan parliamentary election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5876,
+      "name_short": "HWIA",
+      "name": "Hezb-e Wahdat-e Islami Afghanistan",
+      "name_english": "Islamic Unity Party of Afghanistan",
+      "name_other": "Persian: حزب وحدت اسلامی افغانستان‎",
+      "year_first": 1989,
+      "year_last": 2010,
+      "share": 4.4,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/Hezbe_Wahdat",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6644,
+      "name_short": "Junbish",
+      "name": "Junbish-i-Milli Islami Afghanistan",
+      "name_english": "National Islamic Movement of Afghanistan",
+      "name_other": "Dari: جنبش ملی اسلامی افغانستان‎",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 4,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Islamic_Movement_of_Afghanistan",
+      "description": "10/249 seats in the 2010 Afghan parliamentary election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6641,
+      "name_short": "SDP",
+      "name": "Afğān Millat Gund",
+      "name_english": "Afghan Social Democratic Party / Afghan Millat Party / Afghan Millat",
+      "name_other": "Pashto: افغان ټولنپال ولسواک ګوند‎ / افغان ملت ګوند",
+      "year_first": 1966,
+      "year_last": "",
+      "share": 1.6,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/Afghan_Millat_Party",
+      "description": "4/249 seats in the 2010 Afghan parliamentary election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6642,
+      "name_short": "IMA",
+      "name": "Harakat-e Islami-yi Afghanistan",
+      "name_english": "Islamic Movement of Afghanistan",
+      "name_other": "Persian: حرکت اسلامی افغانستان‎",
+      "year_first": 1978,
+      "year_last": "",
+      "share": 1.6,
+      "share_year": 2010,
+      "wikipedia": "https://en.wikipedia.org/wiki/Islamic_Movement_of_Afghanistan",
+      "description": "4/249 seats in the 2010 Afghan parliamentary election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6645,
+      "name_short": "NSMA",
+      "name": "Nahzat-e Hambastagi-ye Melli-ye Afghanistan",
+      "name_english": "National Solidarity Movement of Afghanistan",
+      "name_other": "Persian: نهضت همبستگی ملی افغانستان‎",
+      "year_first": 2004,
+      "year_last": 2010,
+      "share": 1.2,
+      "share_year": 2005,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Solidarity_Movement_of_Afghanistan",
+      "description": "3/249 seats in the 2005 Afghan parliamentary election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8233,
+      "name_short": "NRP",
+      "name": "Hezb Enqilab Mile",
+      "name_english": "National Revolutionary Party",
+      "name_other": "Pashto: حزب انقلاب ملی",
+      "year_first": 1974,
+      "year_last": 1978,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Revolutionary_Party_of_Afghanistan",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8282,
+      "name_short": "IT",
+      "name": "Ittehad-e Islami bara-ye Azadi-ye Afghanistan",
+      "name_english": "Islamic Union for Liberation of Afghanistan",
+      "name_other": "",
+      "year_first": 1980,
+      "year_last": 2005,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/Islamic_Dawah_Organisation_of_Afghanistan",
+      "description": "Prime minister 1994 - 1996",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8281,
+      "name_short": "HW",
+      "name": "Hizbi Watan",
+      "name_english": "Fatherland Party",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": 1992,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "President & Prime minister 1990 - 1992",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6046,
+      "name_short": "JNM",
+      "name": "Jebh-e-Nejat-e Melli",
+      "name_english": "National Liberation Front of Afghanistan",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": 1992,
+      "share": "",
+      "share_year": "",
+      "wikipedia": "",
+      "description": "leader support 1992 Mojadidi (JNM) –  see CHISOLS",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8280,
+      "name_short": "EM",
+      "name": "Etelaf-e Milli",
+      "name_english": "National Coalition of Afghanistan",
+      "name_other": "Persian: ائتلاف ملی",
+      "year_first": 2010,
+      "year_last": "",
+      "share": "",
+      "share_year": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Coalition_of_Afghanistan",
+      "description": "Chief executive 2014 - 2020",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Afghanistan — Political Parties - Free Download",
+    "description": "Political parties of Afghanistan from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Afghanistan — Political Parties | ListBase",
+    "seo_description": "Download Afghanistan — Political Parties dataset with 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}

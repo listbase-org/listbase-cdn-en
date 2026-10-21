@@ -1,0 +1,232 @@
+{
+  "id": "bf-power-plants",
+  "name": "Burkina Faso — Power Plants",
+  "title": "Burkina Faso — Power Plants",
+  "description": "Power plants located in Burkina Faso from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Kossodo",
+      "gppd_idnr": "WRI1023022",
+      "capacity_mw": 64,
+      "latitude": 12.3703,
+      "longitude": -1.5247,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Société Nationale d'électricité du Burkina Faso",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ouaga",
+      "gppd_idnr": "WRI1023023",
+      "capacity_mw": 58.56,
+      "latitude": 12.3703,
+      "longitude": -1.5247,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Société Nationale d'électricité du Burkina Faso",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Zagtouli",
+      "gppd_idnr": "WKS0067803",
+      "capacity_mw": 33,
+      "latitude": 12.307,
+      "longitude": -1.637,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 76.67; 2014: 80.13; 2015: 77.4; 2016: 78.3; 2017: 67.93",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Bobo",
+      "gppd_idnr": "WRI1023020",
+      "capacity_mw": 23.846,
+      "latitude": 11.2,
+      "longitude": -4.3,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Société Nationale d'électricité du Burkina Faso",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Essakane",
+      "gppd_idnr": "WKS0069194",
+      "capacity_mw": 19.9,
+      "latitude": 14.364,
+      "longitude": 0.078,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 42.19; 2014: 46.38; 2015: 41.84; 2016: 41.95; 2017: 38.5",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Bagre",
+      "gppd_idnr": "WRI1023019",
+      "capacity_mw": 16,
+      "latitude": 11.475,
+      "longitude": -0.546,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Société Nationale d'électricité du Burkina Faso",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 42.8; 2014: 43.66; 2015: 45.72; 2016: 54.3; 2017: 51.76",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kompienga",
+      "gppd_idnr": "WRI1023021",
+      "capacity_mw": 14,
+      "latitude": 11.07,
+      "longitude": 0.7,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Société Nationale d'électricité du Burkina Faso",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 38.52; 2014: 37.13; 2015: 33.84; 2016: 45.45; 2017: 51.77",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Burkina Faso — Power Plants - Free Download",
+    "description": "Power plants located in Burkina Faso from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Burkina Faso — Power Plants | ListBase",
+    "seo_description": "Download Burkina Faso — Power Plants dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

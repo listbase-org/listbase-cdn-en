@@ -1,0 +1,376 @@
+{
+  "id": "om-airports-iata",
+  "name": "Oman — IATA Airports",
+  "title": "Oman — IATA Airports",
+  "description": "Airports with IATA codes in Oman: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "AHW",
+      "icao_code": "",
+      "name": "Saih Rawl",
+      "city_name_list": "Saih Rawl",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Al Wusta Governorate",
+      "latitude": 21.3428,
+      "longitude": 56.7656,
+      "elevation": "",
+      "timezone": "Asia/Muscat",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "AOM",
+      "icao_code": "OOAD",
+      "name": "Adam Airport",
+      "city_name_list": "Adam Airport",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Ad Dakhiliyah",
+      "latitude": 22.4972,
+      "longitude": 57.3833,
+      "elevation": "",
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Adam_Airport"
+    },
+    {
+      "iata_code": "BJQ",
+      "icao_code": "",
+      "name": "Bahja",
+      "city_name_list": "Bahja",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Al Wusta Governorate",
+      "latitude": 19.875,
+      "longitude": 56.0619,
+      "elevation": "",
+      "timezone": "Asia/Muscat",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "BYB",
+      "icao_code": "",
+      "name": "Dibba Airport",
+      "city_name_list": "Dibba Al-Baya=Dibba Al-Fujairah=Dibba Al-Hisn",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Musandam Governorate",
+      "latitude": 25.61415,
+      "longitude": 56.24519,
+      "elevation": "",
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dibba_Airport"
+    },
+    {
+      "iata_code": "DQM",
+      "icao_code": "OODQ",
+      "name": "Duqm International Airport",
+      "city_name_list": "Duqm",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Al Wusta Governorate",
+      "latitude": 19.4973,
+      "longitude": 57.63861,
+      "elevation": "",
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Duqm_International_Airport"
+    },
+    {
+      "iata_code": "FAU",
+      "icao_code": "OOFD",
+      "name": "Fahud",
+      "city_name_list": "Fahud",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Ad Dhahirah",
+      "latitude": 22.3506,
+      "longitude": 56.4864,
+      "elevation": "",
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Fahud_Airport"
+    },
+    {
+      "iata_code": "KHS",
+      "icao_code": "OOKB",
+      "name": "Khassab",
+      "city_name_list": "Khasab",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Musandam Governorate",
+      "latitude": 26.17099,
+      "longitude": 56.24057,
+      "elevation": 30,
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Khasab_Airport"
+    },
+    {
+      "iata_code": "LKW",
+      "icao_code": "OOLK",
+      "name": "Lekhwair",
+      "city_name_list": "Lekhwair",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Ad Dhahirah",
+      "latitude": 22.8047,
+      "longitude": 55.3658,
+      "elevation": 108,
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lekhwair_Airport"
+    },
+    {
+      "iata_code": "MCT",
+      "icao_code": "OOMS",
+      "name": "Muscat International Airport",
+      "city_name_list": "Muscat",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Muscat",
+      "latitude": 23.6009,
+      "longitude": 58.28605,
+      "elevation": 14,
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Muscat_International_Airport"
+    },
+    {
+      "iata_code": "MNH",
+      "icao_code": "OORQ",
+      "name": "Rustaq Airport",
+      "city_name_list": "Rustaq=Al Muladdah",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Al Batinah South",
+      "latitude": 23.63985,
+      "longitude": 57.48197,
+      "elevation": "",
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Rustaq_Airport"
+    },
+    {
+      "iata_code": "MSH",
+      "icao_code": "OOMA",
+      "name": "Masirah",
+      "city_name_list": "Jazīrat Maşīrah",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Southeastern Governorate",
+      "latitude": 20.67543,
+      "longitude": 58.89047,
+      "elevation": 19,
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/RAFO_Masirah"
+    },
+    {
+      "iata_code": "OHS",
+      "icao_code": "",
+      "name": "Sohar Airport",
+      "city_name_list": "Sohar",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Al Batinah North",
+      "latitude": 24.39025,
+      "longitude": 56.62319,
+      "elevation": "",
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sohar_Airport"
+    },
+    {
+      "iata_code": "OMM",
+      "icao_code": "OOMX",
+      "name": "Marmul Airport",
+      "city_name_list": "Marmūl",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Dhofar",
+      "latitude": 18.136,
+      "longitude": 55.1821,
+      "elevation": 277,
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Marmul_Airport"
+    },
+    {
+      "iata_code": "RMB",
+      "icao_code": "OOBR",
+      "name": "Buraimi",
+      "city_name_list": "Al Buraymī",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Al Buraimi",
+      "latitude": 24.2407,
+      "longitude": 55.78746,
+      "elevation": 299,
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Buraimi_Airport"
+    },
+    {
+      "iata_code": "RNM",
+      "icao_code": "OOGB",
+      "name": "Ghaba Qarn Alam Airport",
+      "city_name_list": "Qarn Alam",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Al Wusta Governorate",
+      "latitude": 21.37477,
+      "longitude": 57.0542,
+      "elevation": "",
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Qarn_Alam_Airport"
+    },
+    {
+      "iata_code": "SLL",
+      "icao_code": "OOSA",
+      "name": "Salalah Airport",
+      "city_name_list": "Şalālah",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Dhofar",
+      "latitude": 17.03872,
+      "longitude": 54.0913,
+      "elevation": 22,
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Salalah_International_Airport"
+    },
+    {
+      "iata_code": "SUH",
+      "icao_code": "OOSR",
+      "name": "Sur Airport",
+      "city_name_list": "Sur",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Southeastern Governorate",
+      "latitude": 22.53674,
+      "longitude": 59.47934,
+      "elevation": 0,
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sur_Airport"
+    },
+    {
+      "iata_code": "TTH",
+      "icao_code": "OOTH",
+      "name": "RAFO Thumrait Airbase",
+      "city_name_list": "RAFO Thumrait Airbase",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Dhofar",
+      "latitude": 17.666,
+      "longitude": 54.024612,
+      "elevation": 478,
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/RAFO_Thumrait_air_base"
+    },
+    {
+      "iata_code": "UKH",
+      "icao_code": "OOMK",
+      "name": "Mukhaizna Airport",
+      "city_name_list": "Mukhaizna",
+      "country_code": "OM",
+      "country_name": "Oman",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Al Wusta Governorate",
+      "latitude": 19.38719,
+      "longitude": 56.40046,
+      "elevation": "",
+      "timezone": "Asia/Muscat",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mukhaizna_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Oman — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Oman: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Oman — IATA Airports | ListBase",
+    "seo_description": "Download Oman — IATA Airports dataset with 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

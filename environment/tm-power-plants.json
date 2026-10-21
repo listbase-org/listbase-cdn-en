@@ -1,0 +1,232 @@
+{
+  "id": "tm-power-plants",
+  "name": "Turkmenistan — Power Plants",
+  "title": "Turkmenistan — Power Plants",
+  "description": "Power plants located in Turkmenistan from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "number"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Mary Thermal Power Plant Turkmenistan",
+      "gppd_idnr": "GEODB0041742",
+      "capacity_mw": 1685,
+      "latitude": 37.5,
+      "longitude": 61.8417,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Turkmenbashi Heat and Power Plant Turkmenistan",
+      "gppd_idnr": "GEODB0041745",
+      "capacity_mw": 590,
+      "latitude": 40.0101,
+      "longitude": 52.9255,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 0",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Abadan Power Plant Turkmenistan",
+      "gppd_idnr": "GEODB0041747",
+      "capacity_mw": 371,
+      "latitude": 38.0592,
+      "longitude": 58.1641,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1459.63",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ashgabat OCGT Power Plant",
+      "gppd_idnr": "GEODB0041743",
+      "capacity_mw": 254,
+      "latitude": 37.8285,
+      "longitude": 58.3841,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 999.31",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Dashoguz OCGT Power Plant Turkmenistan",
+      "gppd_idnr": "GEODB0041744",
+      "capacity_mw": 254,
+      "latitude": 41.8603,
+      "longitude": 59.9479,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 999.31",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Balkanabat OCGT Power Plant Turkmenistan",
+      "gppd_idnr": "GEODB0041741",
+      "capacity_mw": 174,
+      "latitude": 39.5105,
+      "longitude": 54.3273,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 684.57",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Turkmenbashi Oil Refinery OCGT Power Plant Turkmenistan",
+      "gppd_idnr": "GEODB0041740",
+      "capacity_mw": 126,
+      "latitude": 40.0328,
+      "longitude": 52.959,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 495.72",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Turkmenistan — Power Plants - Free Download",
+    "description": "Power plants located in Turkmenistan from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Turkmenistan — Power Plants | ListBase",
+    "seo_description": "Download Turkmenistan — Power Plants dataset with 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

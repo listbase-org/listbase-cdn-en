@@ -1,0 +1,296 @@
+{
+  "id": "se-unesco-heritage",
+  "name": "Sweden — UNESCO World Heritage Sites",
+  "title": "Sweden — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Sweden, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 559,
+      "name": "Royal Domain of Drottningholm",
+      "category": "cultural",
+      "date_inscribed": 1991,
+      "criteria": "c4",
+      "lat": 59.32306,
+      "lon": 17.88333,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 555,
+      "name": "Birka and Hovgarden",
+      "category": "cultural",
+      "date_inscribed": 1993,
+      "criteria": "c3, c4",
+      "lat": 59.33514,
+      "lon": 17.54264,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 556,
+      "name": "Engelsberg Ironworks",
+      "category": "cultural",
+      "date_inscribed": 1993,
+      "criteria": "c4",
+      "lat": 59.96667,
+      "lon": 16.00833,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 557,
+      "name": "Rock Carvings in Tanum",
+      "category": "cultural",
+      "date_inscribed": 1994,
+      "criteria": "c1, c3, c4",
+      "lat": 58.70111,
+      "lon": 11.34111,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 558,
+      "name": "Skogskyrkogarden",
+      "category": "cultural",
+      "date_inscribed": 1994,
+      "criteria": "c2, c4",
+      "lat": 59.27556,
+      "lon": 18.09944,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 731,
+      "name": "Hanseatic Town of Visby",
+      "category": "cultural",
+      "date_inscribed": 1995,
+      "criteria": "c4, c5",
+      "lat": 57.64167,
+      "lon": 18.29583,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 762,
+      "name": "Church Town of Gammelstad, Lulea",
+      "category": "cultural",
+      "date_inscribed": 1996,
+      "criteria": "c2, c4, c5",
+      "lat": 65.64611,
+      "lon": 22.02861,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 774,
+      "name": "Laponian Area",
+      "category": "mixed",
+      "date_inscribed": 1996,
+      "criteria": "c3, c5, n7, n8, n9",
+      "lat": 67.33333,
+      "lon": 17.58333,
+      "area_hectares": 940000,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 871,
+      "name": "Naval Port of Karlskrona",
+      "category": "cultural",
+      "date_inscribed": 1998,
+      "criteria": "c2, c4",
+      "lat": 56.16667,
+      "lon": 15.58333,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 898,
+      "name": "High Coast / Kvarken Archipelago",
+      "category": "natural",
+      "date_inscribed": 2000,
+      "criteria": "n8",
+      "lat": 63.3,
+      "lon": 21.3,
+      "area_hectares": 336900,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "fi, se",
+      "transboundary": true
+    },
+    {
+      "ref_no": 968,
+      "name": "Agricultural Landscape of Southern oland",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c4, c5",
+      "lat": 56.325,
+      "lon": 16.48333,
+      "area_hectares": 56323,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1027,
+      "name": "Mining Area of the Great Copper Mountain in Falun",
+      "category": "cultural",
+      "date_inscribed": 2001,
+      "criteria": "c2, c3, c5",
+      "lat": 60.60472,
+      "lon": 15.63083,
+      "area_hectares": 42.82,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1134,
+      "name": "Grimeton Radio Station, Varberg",
+      "category": "cultural",
+      "date_inscribed": 2004,
+      "criteria": "c2, c4",
+      "lat": 57.1,
+      "lon": 12.38333333,
+      "area_hectares": 109.09,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1187,
+      "name": "Struve Geodetic Arc",
+      "category": "cultural",
+      "date_inscribed": 2005,
+      "criteria": "c2, c3, c6",
+      "lat": 59.05777778,
+      "lon": 26.33777778,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "by, ee, fi, lv, lt, no, md, ru, se, ua",
+      "transboundary": true
+    },
+    {
+      "ref_no": 1282,
+      "name": "Decorated Farmhouses of Halsingland",
+      "category": "cultural",
+      "date_inscribed": 2012,
+      "criteria": "c5",
+      "lat": 61.70722222,
+      "lon": 16.19583333,
+      "area_hectares": 14.84,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "se",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Sweden — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Sweden, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sweden — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Sweden — UNESCO World Heritage Sites dataset with 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

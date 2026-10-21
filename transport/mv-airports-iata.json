@@ -1,0 +1,391 @@
+{
+  "id": "mv-airports-iata",
+  "name": "Maldives — IATA Airports",
+  "title": "Maldives — IATA Airports",
+  "description": "Airports with IATA codes in Maldives: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "DDD",
+      "icao_code": "VRMU",
+      "name": "Dhaalu Atoll Airport",
+      "city_name_list": "Kudahuvadhoo",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Dhaalu Atholhu",
+      "latitude": 2.66597,
+      "longitude": 72.8851,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dhaalu_Airport"
+    },
+    {
+      "iata_code": "DRV",
+      "icao_code": "VRMD",
+      "name": "Dharavandhoo Airport",
+      "city_name_list": "Dharavandhoo",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Baa Atholhu",
+      "latitude": 5.15692,
+      "longitude": 73.13016,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dharavandhoo_Airport"
+    },
+    {
+      "iata_code": "FMT",
+      "icao_code": "",
+      "name": "Faresmaathoda Airport",
+      "city_name_list": "Faresmaathodaa",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Gaafu Dhaalu Atoll",
+      "latitude": 0.19285,
+      "longitude": 73.19588,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "FND",
+      "icao_code": "",
+      "name": "Funadhoo Airport",
+      "city_name_list": "Funadhoo Island=Funadhoo",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Shaviyani Atholhu",
+      "latitude": 6.16112,
+      "longitude": 73.28736,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Funadhoo_Airport"
+    },
+    {
+      "iata_code": "FVM",
+      "icao_code": "VRMR",
+      "name": "Fuvahmulah Airport",
+      "city_name_list": "Fuvahmulah Island",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Gnyaviyani Atoll",
+      "latitude": -0.30944,
+      "longitude": 73.4325,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Fuvahmulah_Airport"
+    },
+    {
+      "iata_code": "GAN",
+      "icao_code": "VRMG",
+      "name": "Gan International Airport",
+      "city_name_list": "Gan Island",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Seenu",
+      "latitude": -0.69334,
+      "longitude": 73.1556,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gan_International_Airport"
+    },
+    {
+      "iata_code": "GKK",
+      "icao_code": "VRMO",
+      "name": "Kooddoo Atoll Airport",
+      "city_name_list": "Kooddoo Atoll",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Gaafu Alif Atoll",
+      "latitude": 0.73294,
+      "longitude": 73.43353,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kooddoo_Airport"
+    },
+    {
+      "iata_code": "HAQ",
+      "icao_code": "VRMH",
+      "name": "Hanimaadhoo International Airport",
+      "city_name_list": "Hanimaadhoo",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Haa Dhaalu Atholhu",
+      "latitude": 6.74567,
+      "longitude": 73.16929,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hanimaadhoo_International_Airport"
+    },
+    {
+      "iata_code": "HDK",
+      "icao_code": "VRBK",
+      "name": "Kulhudhuffushi Airport",
+      "city_name_list": "Kulhudhuffushi",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Haa Dhaalu Atholhu",
+      "latitude": 6.63018,
+      "longitude": 73.06725,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kulhudhuffushi_Airport"
+    },
+    {
+      "iata_code": "HRF",
+      "icao_code": "VRAH",
+      "name": "Hoarafushi Airport",
+      "city_name_list": "Hoarafushi=Hoarafushi",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Haa Alifu Atholhu",
+      "latitude": 6.97204,
+      "longitude": 72.89486,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hoarafushi_Airport"
+    },
+    {
+      "iata_code": "IFU",
+      "icao_code": "VREI",
+      "name": "Ifuru Island Airport",
+      "city_name_list": "Ifuru Island",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Raa Atoll",
+      "latitude": 5.70849,
+      "longitude": 73.02492,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "KDM",
+      "icao_code": "VRMT",
+      "name": "Kaadedhdhoo Airport",
+      "city_name_list": "Kaadedhdhoo Island",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Gaafu Dhaalu Atoll",
+      "latitude": 0.4888,
+      "longitude": 72.99527,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kaadedhdhoo_Airport"
+    },
+    {
+      "iata_code": "KDO",
+      "icao_code": "VRMK",
+      "name": "Kadhdhoo Airport",
+      "city_name_list": "Kadhdhoo Island",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Laamu",
+      "latitude": 1.85917,
+      "longitude": 73.5219,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Kadhdhoo_Airport"
+    },
+    {
+      "iata_code": "LMV",
+      "icao_code": "",
+      "name": "Madivaru Airport",
+      "city_name_list": "Madivaru Airport",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Faadhippolhu Atoll",
+      "latitude": 5.45771,
+      "longitude": 73.37027,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Madivaru_Airport"
+    },
+    {
+      "iata_code": "MLE",
+      "icao_code": "VRMM",
+      "name": "Velana International Airport",
+      "city_name_list": "Male",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Kaafu Atoll",
+      "latitude": 4.191833,
+      "longitude": 73.529128,
+      "elevation": 1,
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Velana_International_Airport"
+    },
+    {
+      "iata_code": "MUM",
+      "icao_code": "",
+      "name": "Muli Airport",
+      "city_name_list": "Muli",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Meemu Atholhu",
+      "latitude": 2.91147,
+      "longitude": 73.58359,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "NMF",
+      "icao_code": "VRDA",
+      "name": "Maafaru International Airport",
+      "city_name_list": "Maafaru Island",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Noonu Atoll",
+      "latitude": 5.82235,
+      "longitude": 73.47469,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Maafaru_International_Airport"
+    },
+    {
+      "iata_code": "RUL",
+      "icao_code": "",
+      "name": "Gaddhoo Maavaarulaa Airport",
+      "city_name_list": "Gaddhoo Island=Gadhdhoo",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Gaafu Dhaalu Atoll",
+      "latitude": 0.33653,
+      "longitude": 73.51138,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Maavaarulaa_Airport"
+    },
+    {
+      "iata_code": "TMF",
+      "icao_code": "VRNT",
+      "name": "Thimarafushi Airport",
+      "city_name_list": "Thimarafushi Island",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "Thaa Atholhu",
+      "latitude": 2.20831,
+      "longitude": 73.14775,
+      "elevation": "",
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Thimarafushi_Airport"
+    },
+    {
+      "iata_code": "VAM",
+      "icao_code": "VRMV",
+      "name": "Villa International Airport",
+      "city_name_list": "Maamingili Island",
+      "country_code": "MV",
+      "country_name": "Maldives",
+      "continent_name": "Asia",
+      "adm1_name_ascii": "",
+      "latitude": 3.47059,
+      "longitude": 72.83584,
+      "elevation": 2,
+      "timezone": "Indian/Maldives",
+      "wiki_link": "https://en.wikipedia.org/wiki/Villa_International_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Maldives — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Maldives: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Maldives — IATA Airports | ListBase",
+    "seo_description": "Download Maldives — IATA Airports dataset with 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

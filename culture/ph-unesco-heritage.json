@@ -1,0 +1,170 @@
+{
+  "id": "ph-unesco-heritage",
+  "name": "Philippines — UNESCO World Heritage Sites",
+  "title": "Philippines — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Philippines, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 653,
+      "name": "Tubbataha Reefs Natural Park",
+      "category": "natural",
+      "date_inscribed": 1993,
+      "criteria": "n7, n9, n10",
+      "lat": 8.953333333,
+      "lon": 119.8675,
+      "area_hectares": 130028,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ph",
+      "transboundary": false
+    },
+    {
+      "ref_no": 677,
+      "name": "Baroque Churches of the Philippines",
+      "category": "cultural",
+      "date_inscribed": 1993,
+      "criteria": "c2, c4",
+      "lat": 14.59,
+      "lon": 120.97,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ph",
+      "transboundary": false
+    },
+    {
+      "ref_no": 722,
+      "name": "Rice Terraces of the Philippine Cordilleras",
+      "category": "cultural",
+      "date_inscribed": 1995,
+      "criteria": "c3, c4, c5",
+      "lat": 16.93389,
+      "lon": 121.13667,
+      "area_hectares": "",
+      "danger_list": "P 2001-2012",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ph",
+      "transboundary": false
+    },
+    {
+      "ref_no": 502,
+      "name": "Historic Town of Vigan",
+      "category": "cultural",
+      "date_inscribed": 1999,
+      "criteria": "c2, c4",
+      "lat": 17.575,
+      "lon": 120.3875,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ph",
+      "transboundary": false
+    },
+    {
+      "ref_no": 652,
+      "name": "Puerto-Princesa Subterranean River National Park",
+      "category": "natural",
+      "date_inscribed": 1999,
+      "criteria": "n7, n10",
+      "lat": 10.16666667,
+      "lon": 118.9166667,
+      "area_hectares": 5753,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ph",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1403,
+      "name": "Mount Hamiguitan Range Wildlife Sanctuary",
+      "category": "natural",
+      "date_inscribed": 2014,
+      "criteria": "n10",
+      "lat": 6.717169444,
+      "lon": 126.1734306,
+      "area_hectares": 16036.67,
+      "danger_list": "",
+      "unesco_region": "Asia and the Pacific",
+      "countries": "ph",
+      "transboundary": false
+    }
+  ],
+  "meta": {
+    "title": "Philippines — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Philippines, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Philippines — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Philippines — UNESCO World Heritage Sites dataset with 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

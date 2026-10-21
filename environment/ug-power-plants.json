@@ -1,0 +1,304 @@
+{
+  "id": "ug-power-plants",
+  "name": "Uganda — Power Plants",
+  "title": "Uganda — Power Plants",
+  "description": "Power plants located in Uganda from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bujagali Falls",
+      "gppd_idnr": "WRI1023203",
+      "capacity_mw": 250,
+      "latitude": 0.4982,
+      "longitude": 33.1374,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1009.13; 2014: 880.64; 2015: 880.64; 2016: 883.05; 2017: 931.02",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kiira",
+      "gppd_idnr": "WRI1023206",
+      "capacity_mw": 205,
+      "latitude": 0.4503,
+      "longitude": 33.1857,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 887.82; 2014: 784.09; 2015: 784.09; 2016: 786.24; 2017: 825.4",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Narubale",
+      "gppd_idnr": "WRI1023209",
+      "capacity_mw": 180,
+      "latitude": 0.4432,
+      "longitude": 33.1852,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 777.16; 2014: 686.09; 2015: 686.09; 2016: 687.97; 2017: 722.36",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Lugogo Substation",
+      "gppd_idnr": "WRI1023207",
+      "capacity_mw": 50,
+      "latitude": 0.358,
+      "longitude": 32.694,
+      "primary_fuel": "Oil",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kabulasoke",
+      "gppd_idnr": "WKS0073277",
+      "capacity_mw": 24,
+      "latitude": 0.15,
+      "longitude": 31.795,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 54.59; 2014: 50.81; 2015: 50.15; 2016: 64.21; 2017: 55.29",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kakira Sugar Works",
+      "gppd_idnr": "WRI1023205",
+      "capacity_mw": 12,
+      "latitude": 0.44,
+      "longitude": 33.2,
+      "primary_fuel": "Biomass",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Bugoye",
+      "gppd_idnr": "WRI1023202",
+      "capacity_mw": 11,
+      "latitude": 0.3055,
+      "longitude": 30.098,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 24.21; 2014: 24.21; 2015: 24.21; 2016: 24.28; 2017: 24.21",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Mubuku-3",
+      "gppd_idnr": "WRI1023208",
+      "capacity_mw": 10.5,
+      "latitude": 0.3241,
+      "longitude": 30.046,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 23.11; 2014: 23.11; 2015: 23.11; 2016: 23.17; 2017: 23.11",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ishasha River",
+      "gppd_idnr": "WRI1023204",
+      "capacity_mw": 10,
+      "latitude": -0.8815,
+      "longitude": 29.6707,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "African Development Bank Group",
+      "url": "http://powerafrica.opendataforafrica.org",
+      "geolocation_source": "Power Africa",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 21.67; 2014: 21.67; 2015: 21.67; 2016: 21.73; 2017: 21.67",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Soroti",
+      "gppd_idnr": "WKS0064813",
+      "capacity_mw": 10,
+      "latitude": 1.72,
+      "longitude": 33.59,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 20.44; 2014: 20.34; 2015: 21.56; 2016: 21.91; 2017: 21.68",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Tororo",
+      "gppd_idnr": "WKS0064814",
+      "capacity_mw": 10,
+      "latitude": 0.631,
+      "longitude": 34.111,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 20.32; 2014: 20.26; 2015: 20.18; 2016: 22.56; 2017: 22.05",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Uganda — Power Plants - Free Download",
+    "description": "Power plants located in Uganda from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Uganda — Power Plants | ListBase",
+    "seo_description": "Download Uganda — Power Plants dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

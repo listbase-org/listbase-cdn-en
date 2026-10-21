@@ -1,0 +1,72 @@
+{
+  "id": "new-zealand-language-tags",
+  "name": "New Zealand — IETF Language Tags (CLDR)",
+  "title": "New Zealand — IETF Language Tags (CLDR)",
+  "description": "IETF BCP-47 language tags associated with New Zealand (territory NZ) in Unicode CLDR, including primary languages and minority/indigenous languages with locale definitions.",
+  "category": "language",
+  "source": "https://github.com/datasets/language-codes",
+  "source_url": "https://github.com/datasets/language-codes",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "ietf_tag",
+      "label": "Ietf Tag",
+      "type": "string"
+    },
+    {
+      "key": "language_code",
+      "label": "Language Code",
+      "type": "string"
+    },
+    {
+      "key": "territory",
+      "label": "Territory",
+      "type": "string"
+    },
+    {
+      "key": "definitions",
+      "label": "Definitions",
+      "type": "number"
+    },
+    {
+      "key": "is_default",
+      "label": "Is Default",
+      "type": "boolean"
+    },
+    {
+      "key": "cldr_file",
+      "label": "Cldr File",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ietf_tag": "en-NZ",
+      "language_code": "en",
+      "territory": "NZ",
+      "definitions": 2,
+      "is_default": false,
+      "cldr_file": "en_NZ.xml"
+    },
+    {
+      "ietf_tag": "mi-NZ",
+      "language_code": "mi",
+      "territory": "NZ",
+      "definitions": 0,
+      "is_default": false,
+      "cldr_file": "mi_NZ.xml"
+    }
+  ],
+  "meta": {
+    "title": "New Zealand — IETF Language Tags (CLDR) - Free Download",
+    "description": "IETF BCP-47 language tags associated with New Zealand (territory NZ) in Unicode CLDR, including primary languages and minority/indigenous languages with locale definitions. Contains 2 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "New Zealand — IETF Language Tags (CLDR) | ListBase",
+    "seo_description": "Download New Zealand — IETF Language Tags (CLDR) dataset with 2 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 2 records with 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/datasets/language-codes"
+    ]
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "id": "se-football-clubs",
+  "name": "Sweden — Football Clubs",
+  "title": "Sweden — Football Clubs",
+  "description": "Football (soccer) clubs that have appeared in Sweden's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed.",
+  "category": "sports",
+  "source": "https://github.com/jokecamp/FootballData",
+  "source_url": "https://github.com/jokecamp/FootballData",
+  "updated": "2026-04",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "matches_played",
+      "label": "Matches Played",
+      "type": "number"
+    },
+    {
+      "key": "seasons_count",
+      "label": "Seasons Count",
+      "type": "number"
+    },
+    {
+      "key": "leagues",
+      "label": "Leagues",
+      "type": "string"
+    },
+    {
+      "key": "first_season_year",
+      "label": "First Season Year",
+      "type": "number"
+    },
+    {
+      "key": "last_season_year",
+      "label": "Last Season Year",
+      "type": "number"
+    },
+    {
+      "key": "seasons",
+      "label": "Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Hacken",
+      "matches_played": 490,
+      "seasons_count": 17,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1998, allsvenskan-2000, allsvenskan-2001, allsvenskan-2005, allsvenskan-2006, allsvenskan-2009, allsvenskan-2010, allsvenskan-2011, allsvenskan-2012, allsvenskan-2013, allsvenskan-2014, al…"
+    },
+    {
+      "name": "Norrkoping",
+      "matches_played": 490,
+      "seasons_count": 17,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2000, allsvenskan-2001, allsvenskan-2002, allsvenskan-2011, allsvenskan-2012, allsvenskan-2013, allsvenskan-2014, allsvenskan-2015, superettan-2003, sup…"
+    },
+    {
+      "name": "Kalmar",
+      "matches_played": 482,
+      "seasons_count": 17,
+      "leagues": "allsvenskan, superettan, superettan-south",
+      "first_season_year": 1999,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1999, allsvenskan-2002, allsvenskan-2004, allsvenskan-2005, allsvenskan-2006, allsvenskan-2007, allsvenskan-2009, allsvenskan-2010, allsvenskan-2011, allsvenskan-2012, allsvenskan-2013, al…"
+    },
+    {
+      "name": "Orebro",
+      "matches_played": 478,
+      "seasons_count": 17,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2000, allsvenskan-2001, allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2007, allsvenskan-2009, allsvenskan-2010, allsvenskan-2011, al…"
+    },
+    {
+      "name": "Atvidabergs",
+      "matches_played": 476,
+      "seasons_count": 16,
+      "leagues": "allsvenskan, superettan, superettan-south",
+      "first_season_year": 2000,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-2010, allsvenskan-2012, allsvenskan-2013, allsvenskan-2014, allsvenskan-2015, superettan-2000, superettan-2002, superettan-2003, superettan-2004, superettan-2005, superettan-2006, superett…"
+    },
+    {
+      "name": "AIK",
+      "matches_played": 474,
+      "seasons_count": 17,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2000, allsvenskan-2001, allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2006, allsvenskan-2007, allsvenskan-2009, allsvenskan-2010, al…"
+    },
+    {
+      "name": "MalmoFF",
+      "matches_played": 474,
+      "seasons_count": 17,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2001, allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2005, allsvenskan-2006, allsvenskan-2007, allsvenskan-2009, allsvenskan-2010, al…"
+    },
+    {
+      "name": "Elfsborg",
+      "matches_played": 470,
+      "seasons_count": 17,
+      "leagues": "allsvenskan",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2000, allsvenskan-2001, allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2005, allsvenskan-2006, allsvenskan-2007, allsvenskan-2009, al…"
+    },
+    {
+      "name": "Goteborg",
+      "matches_played": 470,
+      "seasons_count": 17,
+      "leagues": "allsvenskan",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2000, allsvenskan-2001, allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2005, allsvenskan-2006, allsvenskan-2007, allsvenskan-2009, al…"
+    },
+    {
+      "name": "Halmstad",
+      "matches_played": 470,
+      "seasons_count": 17,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2000, allsvenskan-2001, allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2005, allsvenskan-2006, allsvenskan-2007, allsvenskan-2009, al…"
+    },
+    {
+      "name": "Hammarby",
+      "matches_played": 470,
+      "seasons_count": 17,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2000, allsvenskan-2001, allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2005, allsvenskan-2006, allsvenskan-2007, allsvenskan-2009, al…"
+    },
+    {
+      "name": "Helsingborg",
+      "matches_played": 470,
+      "seasons_count": 17,
+      "leagues": "allsvenskan",
+      "first_season_year": 1998,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2000, allsvenskan-2001, allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2005, allsvenskan-2006, allsvenskan-2007, allsvenskan-2009, al…"
+    },
+    {
+      "name": "Landskrona",
+      "matches_played": 460,
+      "seasons_count": 16,
+      "leagues": "allsvenskan, superettan, superettan-south",
+      "first_season_year": 2000,
+      "last_season_year": 2014,
+      "seasons": "allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2005, superettan-2000, superettan-2001, superettan-2006, superettan-2007, superettan-2008, superettan-2009, superettan-2010, superetta…"
+    },
+    {
+      "name": "Sundsvall",
+      "matches_played": 452,
+      "seasons_count": 16,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1999,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-2000, allsvenskan-2001, allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2005, allsvenskan-2012, allsvenskan-2015, superettan-1999, superettan-2006, superettan-2007, super…"
+    },
+    {
+      "name": "Djurgarden",
+      "matches_played": 448,
+      "seasons_count": 16,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1999,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-1999, allsvenskan-2001, allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2005, allsvenskan-2006, allsvenskan-2007, allsvenskan-2009, allsvenskan-2010, allsvenskan-2011, al…"
+    },
+    {
+      "name": "AssyriskaFF",
+      "matches_played": 442,
+      "seasons_count": 15,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "allsvenskan-2005, superettan-1999, superettan-2000, superettan-2001, superettan-2002, superettan-2003, superettan-2004, superettan-2006, superettan-2008, superettan-2009, superettan-2010, superettan-2…"
+    },
+    {
+      "name": "Gefle",
+      "matches_played": 434,
+      "seasons_count": 15,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1999,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-2005, allsvenskan-2006, allsvenskan-2007, allsvenskan-2009, allsvenskan-2010, allsvenskan-2011, allsvenskan-2012, allsvenskan-2013, allsvenskan-2014, allsvenskan-2015, superettan-1999, sup…"
+    },
+    {
+      "name": "Falkenbergs",
+      "matches_played": 416,
+      "seasons_count": 14,
+      "leagues": "allsvenskan, superettan, superettan-south",
+      "first_season_year": 2003,
+      "last_season_year": 2015,
+      "seasons": "allsvenskan-2014, allsvenskan-2015, superettan-2003, superettan-2004, superettan-2005, superettan-2006, superettan-2007, superettan-2008, superettan-2009, superettan-2010, superettan-2011, superettan-…"
+    },
+    {
+      "name": "Mjallby",
+      "matches_played": 416,
+      "seasons_count": 14,
+      "leagues": "allsvenskan, superettan, superettan-south",
+      "first_season_year": 2000,
+      "last_season_year": 2014,
+      "seasons": "allsvenskan-2010, allsvenskan-2011, allsvenskan-2012, allsvenskan-2013, allsvenskan-2014, superettan-2000, superettan-2001, superettan-2002, superettan-2005, superettan-2006, superettan-2007, superett…"
+    },
+    {
+      "name": "Brommapojkarna",
+      "matches_played": 412,
+      "seasons_count": 14,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "allsvenskan-2007, allsvenskan-2009, allsvenskan-2010, allsvenskan-2013, allsvenskan-2014, superettan-1999, superettan-2002, superettan-2003, superettan-2004, superettan-2005, superettan-2006, superett…"
+    },
+    {
+      "name": "Osters",
+      "matches_played": 408,
+      "seasons_count": 14,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1998,
+      "last_season_year": 2014,
+      "seasons": "allsvenskan-1998, allsvenskan-2003, allsvenskan-2006, allsvenskan-2013, superettan-2000, superettan-2001, superettan-2002, superettan-2004, superettan-2005, superettan-2007, superettan-2010, superetta…"
+    },
+    {
+      "name": "Trelleborgs",
+      "matches_played": 396,
+      "seasons_count": 14,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1998,
+      "last_season_year": 2012,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2000, allsvenskan-2001, allsvenskan-2004, allsvenskan-2007, allsvenskan-2009, allsvenskan-2010, allsvenskan-2011, superettan-2002, superettan-2003, supe…"
+    },
+    {
+      "name": "Orgryte",
+      "matches_played": 384,
+      "seasons_count": 14,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1998,
+      "last_season_year": 2013,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2000, allsvenskan-2001, allsvenskan-2002, allsvenskan-2003, allsvenskan-2004, allsvenskan-2005, allsvenskan-2006, allsvenskan-2009, superettan-2007, sup…"
+    },
+    {
+      "name": "GAIS",
+      "matches_played": 348,
+      "seasons_count": 12,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 2000,
+      "last_season_year": 2014,
+      "seasons": "allsvenskan-2000, allsvenskan-2006, allsvenskan-2007, allsvenskan-2009, allsvenskan-2010, allsvenskan-2011, allsvenskan-2012, superettan-2001, superettan-2004, superettan-2005, superettan-2013, supere…"
+    },
+    {
+      "name": "Ljungskile",
+      "matches_played": 326,
+      "seasons_count": 11,
+      "leagues": "superettan, superettan-south",
+      "first_season_year": 2000,
+      "last_season_year": 2014,
+      "seasons": "superettan-2000, superettan-2005, superettan-2006, superettan-2007, superettan-2009, superettan-2010, superettan-2011, superettan-2012, superettan-2013, superettan-2014, superettan-south"
+    },
+    {
+      "name": "Degerfors",
+      "matches_played": 296,
+      "seasons_count": 10,
+      "leagues": "superettan",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "superettan-1999, superettan-2005, superettan-2006, superettan-2007, superettan-2008, superettan-2010, superettan-2011, superettan-2012, superettan-2013, superettan-2014"
+    },
+    {
+      "name": "Jonkopings",
+      "matches_played": 270,
+      "seasons_count": 9,
+      "leagues": "superettan",
+      "first_season_year": 2006,
+      "last_season_year": 2014,
+      "seasons": "superettan-2006, superettan-2007, superettan-2008, superettan-2009, superettan-2010, superettan-2011, superettan-2012, superettan-2013, superettan-2014"
+    },
+    {
+      "name": "Brage",
+      "matches_played": 266,
+      "seasons_count": 9,
+      "leagues": "superettan",
+      "first_season_year": 1999,
+      "last_season_year": 2013,
+      "seasons": "superettan-1999, superettan-2000, superettan-2001, superettan-2002, superettan-2004, superettan-2010, superettan-2011, superettan-2012, superettan-2013"
+    },
+    {
+      "name": "Angelholms",
+      "matches_played": 240,
+      "seasons_count": 8,
+      "leagues": "superettan",
+      "first_season_year": 2002,
+      "last_season_year": 2014,
+      "seasons": "superettan-2002, superettan-2008, superettan-2009, superettan-2010, superettan-2011, superettan-2012, superettan-2013, superettan-2014"
+    },
+    {
+      "name": "VasterasSK",
+      "matches_played": 236,
+      "seasons_count": 8,
+      "leagues": "superettan",
+      "first_season_year": 1999,
+      "last_season_year": 2011,
+      "seasons": "superettan-1999, superettan-2000, superettan-2001, superettan-2002, superettan-2003, superettan-2004, superettan-2005, superettan-2011"
+    },
+    {
+      "name": "EnkopingsSK",
+      "matches_played": 232,
+      "seasons_count": 8,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1999,
+      "last_season_year": 2008,
+      "seasons": "allsvenskan-2003, superettan-1999, superettan-2000, superettan-2001, superettan-2002, superettan-2004, superettan-2007, superettan-2008"
+    },
+    {
+      "name": "Frolunda",
+      "matches_played": 228,
+      "seasons_count": 8,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 1998,
+      "last_season_year": 2005,
+      "seasons": "allsvenskan-1998, allsvenskan-1999, allsvenskan-2000, superettan-2001, superettan-2002, superettan-2003, superettan-2004, superettan-2005"
+    },
+    {
+      "name": "Sylvia",
+      "matches_played": 202,
+      "seasons_count": 7,
+      "leagues": "superettan, superettan-south",
+      "first_season_year": 1999,
+      "last_season_year": 2007,
+      "seasons": "superettan-1999, superettan-2000, superettan-2001, superettan-2002, superettan-2003, superettan-2007, superettan-south"
+    },
+    {
+      "name": "Syrianska",
+      "matches_played": 180,
+      "seasons_count": 6,
+      "leagues": "allsvenskan, superettan",
+      "first_season_year": 2009,
+      "last_season_year": 2014,
+      "seasons": "allsvenskan-2011, allsvenskan-2012, allsvenskan-2013, superettan-2009, superettan-2010, superettan-2014"
+    },
+    {
+      "name": "AFCUnited",
+      "matches_played": 150,
+      "seasons_count": 5,
+      "leagues": "superettan",
+      "first_season_year": 2005,
+      "last_season_year": 2010,
+      "seasons": "superettan-2005, superettan-2006, superettan-2008, superettan-2009, superettan-2010"
+    },
+    {
+      "name": "Djursholm",
+      "matches_played": 150,
+      "seasons_count": 5,
+      "leagues": "superettan",
+      "first_season_year": 2000,
+      "last_season_year": 2004,
+      "seasons": "superettan-2000, superettan-2001, superettan-2002, superettan-2003, superettan-2004"
+    },
+    {
+      "name": "Sirius",
+      "matches_played": 146,
+      "seasons_count": 5,
+      "leagues": "superettan",
+      "first_season_year": 1999,
+      "last_season_year": 2014,
+      "seasons": "superettan-1999, superettan-2007, superettan-2008, superettan-2009, superettan-2014"
+    },
+    {
+      "name": "UmeaFC",
+      "matches_played": 146,
+      "seasons_count": 5,
+      "leagues": "superettan",
+      "first_season_year": 1999,
+      "last_season_year": 2012,
+      "seasons": "superettan-1999, superettan-2000, superettan-2001, superettan-2006, superettan-2012"
+    },
+    {
+      "name": "Qviding",
+      "matches_played": 120,
+      "seasons_count": 4,
+      "leagues": "superettan",
+      "first_season_year": 2006,
+      "last_season_year": 2011,
+      "seasons": "superettan-2006, superettan-2008, superettan-2009, superettan-2011"
+    },
+    {
+      "name": "Varnamo",
+      "matches_played": 120,
+      "seasons_count": 4,
+      "leagues": "superettan",
+      "first_season_year": 2011,
+      "last_season_year": 2014,
+      "seasons": "superettan-2011, superettan-2012, superettan-2013, superettan-2014"
+    },
+    {
+      "name": "Bodens",
+      "matches_played": 90,
+      "seasons_count": 3,
+      "leagues": "superettan",
+      "first_season_year": 2003,
+      "last_season_year": 2005,
+      "seasons": "superettan-2003, superettan-2004, superettan-2005"
+    },
+    {
+      "name": "MalmoIFK",
+      "matches_played": 90,
+      "seasons_count": 3,
+      "leagues": "superettan",
+      "first_season_year": 2001,
+      "last_season_year": 2003,
+      "seasons": "superettan-2001, superettan-2002, superettan-2003"
+    },
+    {
+      "name": "Varbergs",
+      "matches_played": 90,
+      "seasons_count": 3,
+      "leagues": "superettan",
+      "first_season_year": 2012,
+      "last_season_year": 2014,
+      "seasons": "superettan-2012, superettan-2013, superettan-2014"
+    },
+    {
+      "name": "BunkefloIF",
+      "matches_played": 60,
+      "seasons_count": 2,
+      "leagues": "superettan",
+      "first_season_year": 2007,
+      "last_season_year": 2008,
+      "seasons": "superettan-2007, superettan-2008"
+    },
+    {
+      "name": "Ostersunds",
+      "matches_played": 60,
+      "seasons_count": 2,
+      "leagues": "superettan",
+      "first_season_year": 2013,
+      "last_season_year": 2014,
+      "seasons": "superettan-2013, superettan-2014"
+    },
+    {
+      "name": "Trollhattan",
+      "matches_played": 60,
+      "seasons_count": 2,
+      "leagues": "superettan",
+      "first_season_year": 2009,
+      "last_season_year": 2010,
+      "seasons": "superettan-2009, superettan-2010"
+    },
+    {
+      "name": "Gunnilse",
+      "matches_played": 56,
+      "seasons_count": 2,
+      "leagues": "superettan, superettan-south",
+      "first_season_year": 2000,
+      "last_season_year": 2000,
+      "seasons": "superettan-2000, superettan-south"
+    },
+    {
+      "name": "Motala",
+      "matches_played": 56,
+      "seasons_count": 2,
+      "leagues": "superettan, superettan-south",
+      "first_season_year": 2001,
+      "last_season_year": 2001,
+      "seasons": "superettan-2001, superettan-south"
+    },
+    {
+      "name": "Forward",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "superettan",
+      "first_season_year": 2003,
+      "last_season_year": 2003,
+      "seasons": "superettan-2003"
+    },
+    {
+      "name": "FriskaViljor",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "superettan",
+      "first_season_year": 2004,
+      "last_season_year": 2004,
+      "seasons": "superettan-2004"
+    },
+    {
+      "name": "Husqvarna",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "superettan",
+      "first_season_year": 2014,
+      "last_season_year": 2014,
+      "seasons": "superettan-2014"
+    },
+    {
+      "name": "Vasalunds",
+      "matches_played": 30,
+      "seasons_count": 1,
+      "leagues": "superettan",
+      "first_season_year": 2009,
+      "last_season_year": 2009,
+      "seasons": "superettan-2009"
+    },
+    {
+      "name": "Halmia",
+      "matches_played": 26,
+      "seasons_count": 1,
+      "leagues": "superettan-south",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "superettan-south"
+    },
+    {
+      "name": "IFKHassleholm",
+      "matches_played": 26,
+      "seasons_count": 1,
+      "leagues": "superettan-south",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "superettan-south"
+    },
+    {
+      "name": "IFKLulea",
+      "matches_played": 26,
+      "seasons_count": 1,
+      "leagues": "superettan",
+      "first_season_year": 1999,
+      "last_season_year": 1999,
+      "seasons": "superettan-1999"
+    },
+    {
+      "name": "Ljungby",
+      "matches_played": 26,
+      "seasons_count": 1,
+      "leagues": "superettan-south",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "superettan-south"
+    },
+    {
+      "name": "Nacka",
+      "matches_played": 26,
+      "seasons_count": 1,
+      "leagues": "superettan",
+      "first_season_year": 1999,
+      "last_season_year": 1999,
+      "seasons": "superettan-1999"
+    },
+    {
+      "name": "Norrby",
+      "matches_played": 26,
+      "seasons_count": 1,
+      "leagues": "superettan-south",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "superettan-south"
+    },
+    {
+      "name": "Sparvagens",
+      "matches_played": 26,
+      "seasons_count": 1,
+      "leagues": "superettan",
+      "first_season_year": 1999,
+      "last_season_year": 1999,
+      "seasons": "superettan-1999"
+    },
+    {
+      "name": "Stenungsunds",
+      "matches_played": 26,
+      "seasons_count": 1,
+      "leagues": "superettan-south",
+      "first_season_year": "",
+      "last_season_year": "",
+      "seasons": "superettan-south"
+    }
+  ],
+  "meta": {
+    "title": "Sweden — Football Clubs - Free Download",
+    "description": "Football (soccer) clubs that have appeared in Sweden's domestic leagues, aggregated from historical match results. Each record includes the club name, total matches in the dataset, number of seasons played, list of leagues played, and the first and last season year observed. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sweden — Football Clubs | ListBase",
+    "seo_description": "Download Sweden — Football Clubs dataset with 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records with 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/jokecamp/FootballData"
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "id": "pl-airports-iata",
+  "name": "Poland — IATA Airports",
+  "title": "Poland — IATA Airports",
+  "description": "Airports with IATA codes in Poland: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone.",
+  "category": "transport",
+  "source": "https://github.com/opentraveldata/opentraveldata",
+  "source_url": "https://github.com/opentraveldata/opentraveldata",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city_name_list",
+      "label": "City Name List",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_name",
+      "label": "Country Name",
+      "type": "string"
+    },
+    {
+      "key": "continent_name",
+      "label": "Continent Name",
+      "type": "string"
+    },
+    {
+      "key": "adm1_name_ascii",
+      "label": "Adm1 Name Ascii",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "wiki_link",
+      "label": "Wiki Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iata_code": "BXP",
+      "icao_code": "EPBP",
+      "name": "Biała Podlaska",
+      "city_name_list": "Biała Podlaska",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Lublin",
+      "latitude": 52.00551,
+      "longitude": 23.14542,
+      "elevation": "",
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bia%C5%82a_Podlaska_Airport"
+    },
+    {
+      "iata_code": "BZG",
+      "icao_code": "EPBY",
+      "name": "Bydgoszcz Ignacy Jan Paderewski Airport",
+      "city_name_list": "Bydgoszcz",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Kujawsko-Pomorskie",
+      "latitude": 53.0968,
+      "longitude": 17.9777,
+      "elevation": "",
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Bydgoszcz_Ignacy_Jan_Paderewski_Airport"
+    },
+    {
+      "iata_code": "CZW",
+      "icao_code": "EPRU",
+      "name": "Rudniki",
+      "city_name_list": "Rudniki",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Silesia",
+      "latitude": 50.885,
+      "longitude": 19.204722,
+      "elevation": "",
+      "timezone": "Europe/Warsaw",
+      "wiki_link": ""
+    },
+    {
+      "iata_code": "GDN",
+      "icao_code": "EPGD",
+      "name": "Gdańsk Lech Wałęsa Airport",
+      "city_name_list": "Gdańsk",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Pomerania",
+      "latitude": 54.37808,
+      "longitude": 18.46823,
+      "elevation": 149,
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Gda%C5%84sk_Lech_Wa%C5%82%C4%99sa_Airport"
+    },
+    {
+      "iata_code": "IEG",
+      "icao_code": "EPZG",
+      "name": "Zielona Gora Airport",
+      "city_name_list": "Zielona Góra=Babimost",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Lubusz",
+      "latitude": 52.13852,
+      "longitude": 15.79856,
+      "elevation": 59,
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Zielona_G%C3%B3ra_Airport"
+    },
+    {
+      "iata_code": "KRK",
+      "icao_code": "EPKK",
+      "name": "John Paul II International Airport Kraków–Balice",
+      "city_name_list": "Kraków",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Lesser Poland",
+      "latitude": 50.07617,
+      "longitude": 19.79157,
+      "elevation": 239,
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/John_Paul_II_International_Airport_Krak%C3%B3w%E2%80%93Balice"
+    },
+    {
+      "iata_code": "KTW",
+      "icao_code": "EPKT",
+      "name": "Katowice International Airport",
+      "city_name_list": "Katowice",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Silesia",
+      "latitude": 50.474253,
+      "longitude": 19.080019,
+      "elevation": 303,
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Katowice_International_Airport"
+    },
+    {
+      "iata_code": "LCJ",
+      "icao_code": "EPLL",
+      "name": "Łódź Władysław Reymont Airport",
+      "city_name_list": "Łódź",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Lodz Voivodeship",
+      "latitude": 51.71667,
+      "longitude": 19.4,
+      "elevation": "",
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_W%C5%82adys%C5%82aw_Reymont_Airport"
+    },
+    {
+      "iata_code": "LUZ",
+      "icao_code": "EPLB",
+      "name": "Lublin Airport",
+      "city_name_list": "Lublin",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Lublin",
+      "latitude": 51.23997,
+      "longitude": 22.71333,
+      "elevation": 193,
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lublin_Airport"
+    },
+    {
+      "iata_code": "OSZ",
+      "icao_code": "EPKZ",
+      "name": "Koszalin-Zegrze Pomorskie Airport",
+      "city_name_list": "Koszalin",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "West Pomerania",
+      "latitude": 54.042,
+      "longitude": 16.26273,
+      "elevation": 73,
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Koszalin-Zegrze_Pomorskie_Airport"
+    },
+    {
+      "iata_code": "POZ",
+      "icao_code": "EPPO",
+      "name": "Poznań-Ławica Airport",
+      "city_name_list": "Poznań",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Greater Poland",
+      "latitude": 52.42103,
+      "longitude": 16.82633,
+      "elevation": 93,
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Pozna%C5%84%E2%80%93%C5%81awica_Airport"
+    },
+    {
+      "iata_code": "RDO",
+      "icao_code": "EPRA",
+      "name": "Radom-Sadków Airport",
+      "city_name_list": "Radom",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Mazovia",
+      "latitude": 51.3901,
+      "longitude": 21.20928,
+      "elevation": "",
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Radom-Sadk%C3%B3w_Airport"
+    },
+    {
+      "iata_code": "RZE",
+      "icao_code": "EPRZ",
+      "name": "Rzeszów–Jasionka Airport",
+      "city_name_list": "Rzeszów",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Subcarpathia",
+      "latitude": 50.10996,
+      "longitude": 22.019,
+      "elevation": 205,
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Rzesz%C3%B3w%E2%80%93Jasionka_Airport"
+    },
+    {
+      "iata_code": "SZY",
+      "icao_code": "EPSY",
+      "name": "Szczytno-Szymany International Airport",
+      "city_name_list": "Szymany=Szczytno",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Warmia-Masuria",
+      "latitude": 53.48333,
+      "longitude": 20.93333,
+      "elevation": "",
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Szczytno-Szymany_International_Airport"
+    },
+    {
+      "iata_code": "SZZ",
+      "icao_code": "EPSC",
+      "name": "Szczecin-Goleniów Airport",
+      "city_name_list": "Szczecin",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "West Pomerania",
+      "latitude": 53.58473,
+      "longitude": 14.90221,
+      "elevation": 46,
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/%22Solidarity%22_Szczecin%E2%80%93Goleni%C3%B3w_Airport"
+    },
+    {
+      "iata_code": "WAW",
+      "icao_code": "EPWA",
+      "name": "Warsaw Chopin Airport",
+      "city_name_list": "Warsaw",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Mazovia",
+      "latitude": 52.16575,
+      "longitude": 20.967122,
+      "elevation": 110,
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Warsaw_Chopin_Airport"
+    },
+    {
+      "iata_code": "WMI",
+      "icao_code": "EPMO",
+      "name": "Warsaw–Modlin Mazovia Airport",
+      "city_name_list": "Nowy Dwór Mazowiecki=Modlin",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Mazovia",
+      "latitude": 52.45117,
+      "longitude": 20.65271,
+      "elevation": "",
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Warsaw%E2%80%93Modlin_Mazovia_Airport"
+    },
+    {
+      "iata_code": "WRO",
+      "icao_code": "EPWR",
+      "name": "Wrocław–Copernicus Airport",
+      "city_name_list": "Wrocław",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Lower Silesia",
+      "latitude": 51.10268,
+      "longitude": 16.88584,
+      "elevation": 123,
+      "timezone": "Europe/Warsaw",
+      "wiki_link": "https://en.wikipedia.org/wiki/Wroc%C5%82aw%E2%80%93Copernicus_Airport"
+    },
+    {
+      "iata_code": "ZWK",
+      "icao_code": "EPSU",
+      "name": "Suwalki Airfield",
+      "city_name_list": "Suwałki",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "continent_name": "Europe",
+      "adm1_name_ascii": "Podlasie",
+      "latitude": 54.07278,
+      "longitude": 22.89917,
+      "elevation": "",
+      "timezone": "Europe/Warsaw",
+      "wiki_link": ""
+    }
+  ],
+  "meta": {
+    "title": "Poland — IATA Airports - Free Download",
+    "description": "Airports with IATA codes in Poland: name, IATA/ICAO codes, city, state/province, coordinates, elevation, timezone. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Poland — IATA Airports | ListBase",
+    "seo_description": "Download Poland — IATA Airports dataset with 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/opentraveldata/opentraveldata"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "me-power-plants",
+  "name": "Montenegro — Power Plants",
+  "title": "Montenegro — Power Plants",
+  "description": "Power plants located in Montenegro from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "number"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Piva (Mratinje) Hydroelectric Power Plant Montenegro",
+      "gppd_idnr": "GEODB0042686",
+      "capacity_mw": 360,
+      "latitude": 43.2725,
+      "longitude": 18.8422,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "2016: 791.413; 2017: 359.559",
+      "estimated_generation_gwh": "2013: 1029.98; 2014: 652.29; 2015: 861.69; 2016: 654.08; 2017: 200.37",
+      "generation_data_source": "JRC-PPDB-OPEN"
+    },
+    {
+      "name": "Perucica Hydroelectric Power Plant Montenegro",
+      "gppd_idnr": "GEODB0042687",
+      "capacity_mw": 307,
+      "latitude": 42.6718,
+      "longitude": 18.9951,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1075.19; 2014: 700.55; 2015: 874.56; 2016: 702.47; 2017: 485.98",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Pljevlja Coal Power Plant Montenegro",
+      "gppd_idnr": "GEODB0042685",
+      "capacity_mw": 218.5,
+      "latitude": 43.3342,
+      "longitude": 19.3271,
+      "primary_fuel": "Coal",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "GEODB",
+      "url": "http://globalenergyobservatory.org",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": 2017,
+      "generation_gwh": "2016: 1215.014; 2017: 1264.599",
+      "estimated_generation_gwh": "2017: 1322.65",
+      "generation_data_source": "JRC-PPDB-OPEN"
+    }
+  ],
+  "meta": {
+    "title": "Montenegro — Power Plants - Free Download",
+    "description": "Power plants located in Montenegro from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 3 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Montenegro — Power Plants | ListBase",
+    "seo_description": "Download Montenegro — Power Plants dataset with 3 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 3 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

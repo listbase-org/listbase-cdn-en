@@ -1,0 +1,340 @@
+{
+  "id": "ng-power-plants",
+  "name": "Nigeria — Power Plants",
+  "title": "Nigeria — Power Plants",
+  "description": "Power plants located in Nigeria from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available.",
+  "category": "environment",
+  "source": "https://github.com/wri/global-power-plant-database",
+  "source_url": "https://github.com/wri/global-power-plant-database",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gppd_idnr",
+      "label": "Gppd Idnr",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "primary_fuel",
+      "label": "Primary Fuel",
+      "type": "string"
+    },
+    {
+      "key": "other_fuels",
+      "label": "Other Fuels",
+      "type": "string"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "geolocation_source",
+      "label": "Geolocation Source",
+      "type": "string"
+    },
+    {
+      "key": "year_of_capacity_data",
+      "label": "Year Of Capacity Data",
+      "type": "string"
+    },
+    {
+      "key": "generation_gwh",
+      "label": "Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "estimated_generation_gwh",
+      "label": "Estimated Generation Gwh",
+      "type": "string"
+    },
+    {
+      "key": "generation_data_source",
+      "label": "Generation Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alaoji",
+      "gppd_idnr": "WRI1000030",
+      "capacity_mw": 1074,
+      "latitude": 5.067,
+      "longitude": 7.3216,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Nidel Power",
+      "url": "https://web.archive.org/web/20131103224412/http:/www.nidelpower.com/main/alaoji",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 2514.99",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Kainji",
+      "gppd_idnr": "WRI1000036",
+      "capacity_mw": 760,
+      "latitude": 9.8641,
+      "longitude": 4.6124,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Government of Nigeria",
+      "source": "Sarafinchin",
+      "url": "http://www.sarafinchin.com/index.php/projects/africa/kainji-and-jebba-dams-niger-river-nigeria/",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 2789.25",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Olorunsogo II",
+      "gppd_idnr": "WRI1000031",
+      "capacity_mw": 750,
+      "latitude": 6.8982,
+      "longitude": 3.2041,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Nidel Power",
+      "url": "https://web.archive.org/web/20131103224542/http:/www.nidelpower.com/main/olorunsogo",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1756.28",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Shiroro",
+      "gppd_idnr": "WRI1000035",
+      "capacity_mw": 600,
+      "latitude": 9.9724,
+      "longitude": 6.8353,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Government of Nigeria",
+      "source": "Sarafinchin",
+      "url": "http://www.sarafinchin.com/index.php/projects/africa/kainji-and-jebba-dams-niger-river-nigeria/",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 1721.79; 2014: 2093.69; 2015: 2151.78; 2016: 2442.32; 2017: 2631.64",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Calabar",
+      "gppd_idnr": "WRI1000025",
+      "capacity_mw": 561,
+      "latitude": 5.0702,
+      "longitude": 8.3394,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Calabar Generation Company",
+      "source": "Nidel Power",
+      "url": "https://web.archive.org/web/20131103224627/http:/www.nidelpower.com/main/calabar",
+      "geolocation_source": "WRI",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1313.69",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Jebba",
+      "gppd_idnr": "WRI1000037",
+      "capacity_mw": 540,
+      "latitude": 9.138,
+      "longitude": 4.7883,
+      "primary_fuel": "Hydro",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Government of Nigeria",
+      "source": "Sarafinchin",
+      "url": "http://www.sarafinchin.com/index.php/projects/africa/kainji-and-jebba-dams-niger-river-nigeria/",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1981.84",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Omotosho II",
+      "gppd_idnr": "WRI1000032",
+      "capacity_mw": 500,
+      "latitude": 6.7357,
+      "longitude": 4.7106,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Nidel Power",
+      "url": "https://web.archive.org/web/20131103224542/http:/www.nidelpower.com/main/olorunsogo",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1170.85",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ihovbor",
+      "gppd_idnr": "WRI1000026",
+      "capacity_mw": 450,
+      "latitude": 6.4065,
+      "longitude": 5.6828,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Nidel Power",
+      "url": "https://web.archive.org/web/20131103223838/http:/www.nidelpower.com/main/ihovbor",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1053.76",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Sapele",
+      "gppd_idnr": "WRI1000028",
+      "capacity_mw": 450,
+      "latitude": 5.9254,
+      "longitude": 5.645,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Ihovbor Generating Company",
+      "source": "Nidel Power",
+      "url": "https://web.archive.org/web/20131103223738/http:/www.nidelpower.com/main/sapele",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 1053.76",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Gbarain",
+      "gppd_idnr": "WRI1000027",
+      "capacity_mw": 225,
+      "latitude": 4.798,
+      "longitude": 5.897,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Gbarain Generation Company",
+      "source": "Nidel Power",
+      "url": "https://web.archive.org/web/20131002035726/http:/www.nidelpower.com/main/gbarain",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 526.88",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ibom Power",
+      "gppd_idnr": "WRI1000034",
+      "capacity_mw": 190,
+      "latitude": 4.5644,
+      "longitude": 7.568,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Nidel Power",
+      "url": "https://web.archive.org/web/20131002035947/http:/www.nidelpower.com/main/geregu",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 444.92",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Omoku",
+      "gppd_idnr": "WRI1000029",
+      "capacity_mw": 150,
+      "latitude": 5.39,
+      "longitude": 6.6632,
+      "primary_fuel": "Gas",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "Sahara Power",
+      "source": "Sahara Power",
+      "url": "http://www.sahara-group.com/sahara-power-acquires-additional-power-generation-assets.html",
+      "geolocation_source": "GEODB",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2017: 351.25",
+      "generation_data_source": ""
+    },
+    {
+      "name": "Ibadan",
+      "gppd_idnr": "WKS0068714",
+      "capacity_mw": 10,
+      "latitude": 7.455,
+      "longitude": 3.885,
+      "primary_fuel": "Solar",
+      "other_fuels": "",
+      "commissioning_year": "",
+      "owner": "",
+      "source": "Wiki-Solar",
+      "url": "https://www.wiki-solar.org",
+      "geolocation_source": "Wiki-Solar",
+      "year_of_capacity_data": "",
+      "generation_gwh": "",
+      "estimated_generation_gwh": "2013: 16.69; 2014: 16.25; 2015: 16.24; 2016: 16.3; 2017: 16.89",
+      "generation_data_source": ""
+    }
+  ],
+  "meta": {
+    "title": "Nigeria — Power Plants - Free Download",
+    "description": "Power plants located in Nigeria from the World Resources Institute Global Power Plant Database (v1.3.0). Each record includes plant name, unique GPPD identifier, capacity in MW, coordinates, primary and any secondary fuels, commissioning year, owner, data source, and reported / estimated annual generation (GWh) for 2013–2019 where available. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nigeria — Power Plants | ListBase",
+    "seo_description": "Download Nigeria — Power Plants dataset with 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records with 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/wri/global-power-plant-database"
+    ]
+  }
+}

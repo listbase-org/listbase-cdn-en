@@ -1,0 +1,699 @@
+{
+  "id": "science-electronegativity",
+  "name": "Electronegativity Table (Pauling Scale) Dataset",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Element Name",
+      "type": "string"
+    },
+    {
+      "key": "atomic_number",
+      "label": "Atomic Number",
+      "type": "number"
+    },
+    {
+      "key": "electronegativity",
+      "label": "Electronegativity (Pauling)",
+      "type": "number"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Element Category",
+      "type": "string"
+    },
+    {
+      "key": "trend",
+      "label": "Trend Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "H",
+      "name": "Hydrogen",
+      "atomic_number": 1,
+      "electronegativity": 2.2,
+      "period": 1,
+      "group": 1,
+      "category": "Nonmetal",
+      "trend": "Reference"
+    },
+    {
+      "symbol": "He",
+      "name": "Helium",
+      "atomic_number": 2,
+      "electronegativity": "-",
+      "period": 1,
+      "group": 18,
+      "category": "Noble Gas",
+      "trend": "N/A - Noble gas"
+    },
+    {
+      "symbol": "Li",
+      "name": "Lithium",
+      "atomic_number": 3,
+      "electronegativity": 0.98,
+      "period": 2,
+      "group": 1,
+      "category": "Alkali Metal",
+      "trend": "Lowest in period"
+    },
+    {
+      "symbol": "Be",
+      "name": "Beryllium",
+      "atomic_number": 4,
+      "electronegativity": 1.57,
+      "period": 2,
+      "group": 2,
+      "category": "Alkaline Earth",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "B",
+      "name": "Boron",
+      "atomic_number": 5,
+      "electronegativity": 2.04,
+      "period": 2,
+      "group": 13,
+      "category": "Metalloid",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "C",
+      "name": "Carbon",
+      "atomic_number": 6,
+      "electronegativity": 2.55,
+      "period": 2,
+      "group": 14,
+      "category": "Nonmetal",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "N",
+      "name": "Nitrogen",
+      "atomic_number": 7,
+      "electronegativity": 3.04,
+      "period": 2,
+      "group": 15,
+      "category": "Nonmetal",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "O",
+      "name": "Oxygen",
+      "atomic_number": 8,
+      "electronegativity": 3.44,
+      "period": 2,
+      "group": 16,
+      "category": "Nonmetal",
+      "trend": "Second highest"
+    },
+    {
+      "symbol": "F",
+      "name": "Fluorine",
+      "atomic_number": 9,
+      "electronegativity": 3.98,
+      "period": 2,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Most electronegative element"
+    },
+    {
+      "symbol": "Ne",
+      "name": "Neon",
+      "atomic_number": 10,
+      "electronegativity": "-",
+      "period": 2,
+      "group": 18,
+      "category": "Noble Gas",
+      "trend": "N/A - Noble gas"
+    },
+    {
+      "symbol": "Na",
+      "name": "Sodium",
+      "atomic_number": 11,
+      "electronegativity": 0.93,
+      "period": 3,
+      "group": 1,
+      "category": "Alkali Metal",
+      "trend": "Lowest in period"
+    },
+    {
+      "symbol": "Mg",
+      "name": "Magnesium",
+      "atomic_number": 12,
+      "electronegativity": 1.31,
+      "period": 3,
+      "group": 2,
+      "category": "Alkaline Earth",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "Al",
+      "name": "Aluminum",
+      "atomic_number": 13,
+      "electronegativity": 1.61,
+      "period": 3,
+      "group": 13,
+      "category": "Post-Transition Metal",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "Si",
+      "name": "Silicon",
+      "atomic_number": 14,
+      "electronegativity": 1.9,
+      "period": 3,
+      "group": 14,
+      "category": "Metalloid",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "P",
+      "name": "Phosphorus",
+      "atomic_number": 15,
+      "electronegativity": 2.19,
+      "period": 3,
+      "group": 15,
+      "category": "Nonmetal",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "S",
+      "name": "Sulfur",
+      "atomic_number": 16,
+      "electronegativity": 2.58,
+      "period": 3,
+      "group": 16,
+      "category": "Nonmetal",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "Cl",
+      "name": "Chlorine",
+      "atomic_number": 17,
+      "electronegativity": 3.16,
+      "period": 3,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Highest in period"
+    },
+    {
+      "symbol": "Ar",
+      "name": "Argon",
+      "atomic_number": 18,
+      "electronegativity": "-",
+      "period": 3,
+      "group": 18,
+      "category": "Noble Gas",
+      "trend": "N/A - Noble gas"
+    },
+    {
+      "symbol": "K",
+      "name": "Potassium",
+      "atomic_number": 19,
+      "electronegativity": 0.82,
+      "period": 4,
+      "group": 1,
+      "category": "Alkali Metal",
+      "trend": "Lowest in period"
+    },
+    {
+      "symbol": "Ca",
+      "name": "Calcium",
+      "atomic_number": 20,
+      "electronegativity": 1,
+      "period": 4,
+      "group": 2,
+      "category": "Alkaline Earth",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "Sc",
+      "name": "Scandium",
+      "atomic_number": 21,
+      "electronegativity": 1.36,
+      "period": 4,
+      "group": 3,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Ti",
+      "name": "Titanium",
+      "atomic_number": 22,
+      "electronegativity": 1.54,
+      "period": 4,
+      "group": 4,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "V",
+      "name": "Vanadium",
+      "atomic_number": 23,
+      "electronegativity": 1.63,
+      "period": 4,
+      "group": 5,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Cr",
+      "name": "Chromium",
+      "atomic_number": 24,
+      "electronegativity": 1.66,
+      "period": 4,
+      "group": 6,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Mn",
+      "name": "Manganese",
+      "atomic_number": 25,
+      "electronegativity": 1.55,
+      "period": 4,
+      "group": 7,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Fe",
+      "name": "Iron",
+      "atomic_number": 26,
+      "electronegativity": 1.83,
+      "period": 4,
+      "group": 8,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Co",
+      "name": "Cobalt",
+      "atomic_number": 27,
+      "electronegativity": 1.88,
+      "period": 4,
+      "group": 9,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Ni",
+      "name": "Nickel",
+      "atomic_number": 28,
+      "electronegativity": 1.91,
+      "period": 4,
+      "group": 10,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Cu",
+      "name": "Copper",
+      "atomic_number": 29,
+      "electronegativity": 1.9,
+      "period": 4,
+      "group": 11,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Zn",
+      "name": "Zinc",
+      "atomic_number": 30,
+      "electronegativity": 1.65,
+      "period": 4,
+      "group": 12,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Ga",
+      "name": "Gallium",
+      "atomic_number": 31,
+      "electronegativity": 1.81,
+      "period": 4,
+      "group": 13,
+      "category": "Post-Transition Metal",
+      "trend": "Post-transition"
+    },
+    {
+      "symbol": "Ge",
+      "name": "Germanium",
+      "atomic_number": 32,
+      "electronegativity": 2.01,
+      "period": 4,
+      "group": 14,
+      "category": "Metalloid",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "As",
+      "name": "Arsenic",
+      "atomic_number": 33,
+      "electronegativity": 2.18,
+      "period": 4,
+      "group": 15,
+      "category": "Metalloid",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "Se",
+      "name": "Selenium",
+      "atomic_number": 34,
+      "electronegativity": 2.55,
+      "period": 4,
+      "group": 16,
+      "category": "Nonmetal",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "Br",
+      "name": "Bromine",
+      "atomic_number": 35,
+      "electronegativity": 2.96,
+      "period": 4,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Highest in period"
+    },
+    {
+      "symbol": "Kr",
+      "name": "Krypton",
+      "atomic_number": 36,
+      "electronegativity": 3,
+      "period": 4,
+      "group": 18,
+      "category": "Noble Gas",
+      "trend": "Noble gas with EN value"
+    },
+    {
+      "symbol": "Rb",
+      "name": "Rubidium",
+      "atomic_number": 37,
+      "electronegativity": 0.82,
+      "period": 5,
+      "group": 1,
+      "category": "Alkali Metal",
+      "trend": "Lowest in period"
+    },
+    {
+      "symbol": "Sr",
+      "name": "Strontium",
+      "atomic_number": 38,
+      "electronegativity": 0.95,
+      "period": 5,
+      "group": 2,
+      "category": "Alkaline Earth",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "Y",
+      "name": "Yttrium",
+      "atomic_number": 39,
+      "electronegativity": 1.22,
+      "period": 5,
+      "group": 3,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Zr",
+      "name": "Zirconium",
+      "atomic_number": 40,
+      "electronegativity": 1.33,
+      "period": 5,
+      "group": 4,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Nb",
+      "name": "Niobium",
+      "atomic_number": 41,
+      "electronegativity": 1.6,
+      "period": 5,
+      "group": 5,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Mo",
+      "name": "Molybdenum",
+      "atomic_number": 42,
+      "electronegativity": 2.16,
+      "period": 5,
+      "group": 6,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Tc",
+      "name": "Technetium",
+      "atomic_number": 43,
+      "electronegativity": 1.9,
+      "period": 5,
+      "group": 7,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Ru",
+      "name": "Ruthenium",
+      "atomic_number": 44,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 8,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Rh",
+      "name": "Rhodium",
+      "atomic_number": 45,
+      "electronegativity": 2.28,
+      "period": 5,
+      "group": 9,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Pd",
+      "name": "Palladium",
+      "atomic_number": 46,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 10,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Ag",
+      "name": "Silver",
+      "atomic_number": 47,
+      "electronegativity": 1.93,
+      "period": 5,
+      "group": 11,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Cd",
+      "name": "Cadmium",
+      "atomic_number": 48,
+      "electronegativity": 1.69,
+      "period": 5,
+      "group": 12,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "In",
+      "name": "Indium",
+      "atomic_number": 49,
+      "electronegativity": 1.78,
+      "period": 5,
+      "group": 13,
+      "category": "Post-Transition Metal",
+      "trend": "Post-transition"
+    },
+    {
+      "symbol": "Sn",
+      "name": "Tin",
+      "atomic_number": 50,
+      "electronegativity": 1.96,
+      "period": 5,
+      "group": 14,
+      "category": "Post-Transition Metal",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "Sb",
+      "name": "Antimony",
+      "atomic_number": 51,
+      "electronegativity": 2.05,
+      "period": 5,
+      "group": 15,
+      "category": "Metalloid",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "Te",
+      "name": "Tellurium",
+      "atomic_number": 52,
+      "electronegativity": 2.1,
+      "period": 5,
+      "group": 16,
+      "category": "Metalloid",
+      "trend": "Increases across period"
+    },
+    {
+      "symbol": "I",
+      "name": "Iodine",
+      "atomic_number": 53,
+      "electronegativity": 2.66,
+      "period": 5,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Highest in period (main group)"
+    },
+    {
+      "symbol": "Xe",
+      "name": "Xenon",
+      "atomic_number": 54,
+      "electronegativity": 2.6,
+      "period": 5,
+      "group": 18,
+      "category": "Noble Gas",
+      "trend": "Noble gas with EN value"
+    },
+    {
+      "symbol": "Cs",
+      "name": "Cesium",
+      "atomic_number": 55,
+      "electronegativity": 0.79,
+      "period": 6,
+      "group": 1,
+      "category": "Alkali Metal",
+      "trend": "Second lowest EN element"
+    },
+    {
+      "symbol": "Ba",
+      "name": "Barium",
+      "atomic_number": 56,
+      "electronegativity": 0.89,
+      "period": 6,
+      "group": 2,
+      "category": "Alkaline Earth",
+      "trend": "Low EN"
+    },
+    {
+      "symbol": "Au",
+      "name": "Gold",
+      "atomic_number": 79,
+      "electronegativity": 2.54,
+      "period": 6,
+      "group": 11,
+      "category": "Transition Metal",
+      "trend": "High EN for metal"
+    },
+    {
+      "symbol": "Hg",
+      "name": "Mercury",
+      "atomic_number": 80,
+      "electronegativity": 2,
+      "period": 6,
+      "group": 12,
+      "category": "Transition Metal",
+      "trend": "Transition metal zone"
+    },
+    {
+      "symbol": "Pb",
+      "name": "Lead",
+      "atomic_number": 82,
+      "electronegativity": 2.33,
+      "period": 6,
+      "group": 14,
+      "category": "Post-Transition Metal",
+      "trend": "Post-transition"
+    },
+    {
+      "symbol": "Bi",
+      "name": "Bismuth",
+      "atomic_number": 83,
+      "electronegativity": 2.02,
+      "period": 6,
+      "group": 15,
+      "category": "Post-Transition Metal",
+      "trend": "Post-transition"
+    },
+    {
+      "symbol": "At",
+      "name": "Astatine",
+      "atomic_number": 85,
+      "electronegativity": 2.2,
+      "period": 6,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Radioactive halogen"
+    },
+    {
+      "symbol": "Fr",
+      "name": "Francium",
+      "atomic_number": 87,
+      "electronegativity": 0.7,
+      "period": 7,
+      "group": 1,
+      "category": "Alkali Metal",
+      "trend": "Lowest EN element"
+    }
+  ],
+  "meta": {
+    "seo_title": "Electronegativity Table (Pauling Scale) - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download: Electronegativity Table (Pauling Scale) for 62 chemical elements. Explore atomic properties & trends. Available in Excel, CSV, and PDF formats.",
+    "title": "Electronegativity Table (Pauling Scale) Dataset",
+    "description": "This dataset provides electronegativity values (Pauling Scale) for 62 chemical elements, including atomic number, period, group, and element category. It's ideal for chemistry students, researchers, and educators.",
+    "key_takeaways": [
+      "Access Pauling electronegativity data for 62 chemical elements.",
+      "Explore atomic properties and periodic trends in detail.",
+      "Download comprehensive data in Excel, CSV, or PDF for analysis.",
+      "Get insights into chemical bonding and reactivity."
+    ],
+    "keywords": [
+      "electronegativity table pauling scale",
+      "chemical elements data",
+      "atomic properties dataset",
+      "electronegativity values excel",
+      "periodic trends csv",
+      "free chemistry data"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your SQL database or Python script to perform custom data analysis on electronegativity trends and chemical element properties.",
+      "Use the **Excel** file to create Pivot Tables, filter elements by group or category, and generate reports for academic research or classroom assignments.",
+      "Print the **PDF** version for a quick, offline reference guide in a chemistry lab, classroom, or for presentations on atomic characteristics.",
+      "Leverage this dataset to understand the periodic trends of electronegativity and predict chemical bonding behavior in various compounds."
+    ]
+  },
+  "record_count": 62,
+  "title": "Electronegativity Table (Pauling Scale) Dataset"
+}

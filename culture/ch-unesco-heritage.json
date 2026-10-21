@@ -1,0 +1,240 @@
+{
+  "id": "ch-unesco-heritage",
+  "name": "Switzerland — UNESCO World Heritage Sites",
+  "title": "Switzerland — UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites located wholly or partly in Switzerland, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag.",
+  "category": "culture",
+  "source": "https://github.com/rich-iannone/UWHS",
+  "source_url": "https://github.com/rich-iannone/UWHS",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "ref_no",
+      "label": "Ref No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "area_hectares",
+      "label": "Area Hectares",
+      "type": "number"
+    },
+    {
+      "key": "danger_list",
+      "label": "Danger List",
+      "type": "string"
+    },
+    {
+      "key": "unesco_region",
+      "label": "Unesco Region",
+      "type": "string"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ref_no": 267,
+      "name": "Old City of Berne",
+      "category": "cultural",
+      "date_inscribed": 1983,
+      "criteria": "c3",
+      "lat": 46.94806,
+      "lon": 7.45028,
+      "area_hectares": 84684,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ch",
+      "transboundary": false
+    },
+    {
+      "ref_no": 268,
+      "name": "Abbey of St Gall",
+      "category": "cultural",
+      "date_inscribed": 1983,
+      "criteria": "c2, c4",
+      "lat": 47.42333,
+      "lon": 9.37778,
+      "area_hectares": "",
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ch",
+      "transboundary": false
+    },
+    {
+      "ref_no": 269,
+      "name": "Benedictine Convent of St John at Mustair",
+      "category": "cultural",
+      "date_inscribed": 1983,
+      "criteria": "c3",
+      "lat": 46.62945,
+      "lon": 10.44765,
+      "area_hectares": 2036,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ch",
+      "transboundary": false
+    },
+    {
+      "ref_no": 884,
+      "name": "Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona",
+      "category": "cultural",
+      "date_inscribed": 2000,
+      "criteria": "c4",
+      "lat": 46.19314,
+      "lon": 9.02242,
+      "area_hectares": 5,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ch",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1037,
+      "name": "Swiss Alps Jungfrau-Aletsch",
+      "category": "natural",
+      "date_inscribed": 2001,
+      "criteria": "n7, n8, n9",
+      "lat": 46.5,
+      "lon": 8.033333333,
+      "area_hectares": 82400,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ch",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1090,
+      "name": "Monte San Giorgio",
+      "category": "natural",
+      "date_inscribed": 2003,
+      "criteria": "n8",
+      "lat": 45.88888889,
+      "lon": 8.913888889,
+      "area_hectares": 1089.34,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "it, ch",
+      "transboundary": true
+    },
+    {
+      "ref_no": 1243,
+      "name": "Lavaux, Vineyard Terraces",
+      "category": "cultural",
+      "date_inscribed": 2007,
+      "criteria": "c3, c4, c5",
+      "lat": 46.49194444,
+      "lon": 6.746111111,
+      "area_hectares": 898,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ch",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1179,
+      "name": "Swiss Tectonic Arena Sardona",
+      "category": "natural",
+      "date_inscribed": 2008,
+      "criteria": "n8",
+      "lat": 46.91666667,
+      "lon": 9.25,
+      "area_hectares": 32850,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ch",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1276,
+      "name": "Rhaetian Railway in the Albula / Bernina Landscapes",
+      "category": "cultural",
+      "date_inscribed": 2008,
+      "criteria": "c2, c4",
+      "lat": 46.49833333,
+      "lon": 9.846388889,
+      "area_hectares": 152.42,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "it, ch",
+      "transboundary": true
+    },
+    {
+      "ref_no": 1302,
+      "name": "La Chaux-de-Fonds / Le Locle, Watchmaking Town Planning",
+      "category": "cultural",
+      "date_inscribed": 2009,
+      "criteria": "c4",
+      "lat": 47.10388889,
+      "lon": 6.832777778,
+      "area_hectares": 283.9,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "ch",
+      "transboundary": false
+    },
+    {
+      "ref_no": 1363,
+      "name": "Prehistoric Pile dwellings around the Alps",
+      "category": "cultural",
+      "date_inscribed": 2011,
+      "criteria": "c4, c5",
+      "lat": 47.27833333,
+      "lon": 8.2075,
+      "area_hectares": 274.2,
+      "danger_list": "",
+      "unesco_region": "Europe and North America",
+      "countries": "at, fr, de, it, si, ch",
+      "transboundary": true
+    }
+  ],
+  "meta": {
+    "title": "Switzerland — UNESCO World Heritage Sites - Free Download",
+    "description": "UNESCO World Heritage Sites located wholly or partly in Switzerland, as of the UNESCO World Heritage Centre 2014 audit. Each record includes the UNESCO reference number, site name, category (cultural / natural / mixed), year of inscription, applicable cultural/natural criteria, coordinates, area in hectares, any danger-list years, the UNESCO region, the full list of countries sharing the site, and a transboundary flag. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Switzerland — UNESCO World Heritage Sites | ListBase",
+    "seo_description": "Download Switzerland — UNESCO World Heritage Sites dataset with 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records with 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/rich-iannone/UWHS"
+    ]
+  }
+}

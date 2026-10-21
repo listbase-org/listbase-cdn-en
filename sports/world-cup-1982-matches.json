@@ -1,0 +1,586 @@
+{
+  "id": "world-cup-1982-matches",
+  "name": "FIFA World Cup 1982 Matches",
+  "title": "FIFA World Cup 1982 Matches",
+  "description": "All 52 matches from the 1982 FIFA World Cup (hosted by Spain) including teams, scores, groups, and venues.",
+  "category": "sports",
+  "source": "https://github.com/openfootball/world-cup.json",
+  "source_url": "https://github.com/openfootball/world-cup.json",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "round",
+      "label": "Round",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "team1",
+      "label": "Team1",
+      "type": "string"
+    },
+    {
+      "key": "team2",
+      "label": "Team2",
+      "type": "string"
+    },
+    {
+      "key": "score_team1",
+      "label": "Score Team1",
+      "type": "number"
+    },
+    {
+      "key": "score_team2",
+      "label": "Score Team2",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "ground",
+      "label": "Ground",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-14",
+      "team1": "Italy",
+      "team2": "Poland",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Balaídos, Vigo"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-15",
+      "team1": "Peru",
+      "team2": "Cameroon",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Estadio de Riazor, A Coruña"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-18",
+      "team1": "Italy",
+      "team2": "Peru",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 1",
+      "ground": "Balaídos, Vigo"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-19",
+      "team1": "Poland",
+      "team2": "Cameroon",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 1",
+      "ground": "Estadio de Riazor, A Coruña"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-22",
+      "team1": "Poland",
+      "team2": "Peru",
+      "score_team1": 5,
+      "score_team2": 1,
+      "group": "Group 1",
+      "ground": "Estadio de Riazor, A Coruña"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-23",
+      "team1": "Italy",
+      "team2": "Cameroon",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 1",
+      "ground": "Balaídos, Vigo"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-16",
+      "team1": "West Germany",
+      "team2": "Algeria",
+      "score_team1": 1,
+      "score_team2": 2,
+      "group": "Group 2",
+      "ground": "El Molinón, Gijón"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-17",
+      "team1": "Chile",
+      "team2": "Austria",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group 2",
+      "ground": "Estadio Carlos Tartiere, Oviedo"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-20",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "Group 2",
+      "ground": "El Molinón, Gijón"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-21",
+      "team1": "Algeria",
+      "team2": "Austria",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "Group 2",
+      "ground": "Estadio Carlos Tartiere, Oviedo"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-24",
+      "team1": "Algeria",
+      "team2": "Chile",
+      "score_team1": 3,
+      "score_team2": 2,
+      "group": "Group 2",
+      "ground": "Estadio Carlos Tartiere, Oviedo"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-25",
+      "team1": "West Germany",
+      "team2": "Austria",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 2",
+      "ground": "El Molinón, Gijón"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-13",
+      "team1": "Argentina",
+      "team2": "Belgium",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group 3",
+      "ground": "Camp Nou, Barcelona"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-15",
+      "team1": "Hungary",
+      "team2": "El Salvador",
+      "score_team1": 10,
+      "score_team2": 1,
+      "group": "Group 3",
+      "ground": "Nuevo Estadio, Elche"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-18",
+      "team1": "Argentina",
+      "team2": "Hungary",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "Group 3",
+      "ground": "Estadio José Rico Pérez, Alicante"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-19",
+      "team1": "Belgium",
+      "team2": "El Salvador",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Nuevo Estadio, Elche"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-22",
+      "team1": "Belgium",
+      "team2": "Hungary",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 3",
+      "ground": "Nuevo Estadio, Elche"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-23",
+      "team1": "Argentina",
+      "team2": "El Salvador",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group 3",
+      "ground": "Estadio José Rico Pérez, Alicante"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-16",
+      "team1": "England",
+      "team2": "France",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Estadio San Mamés, Bilbao"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-17",
+      "team1": "Czechoslovakia",
+      "team2": "Kuwait",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Estadio José Zorrilla, Valladolid"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-20",
+      "team1": "England",
+      "team2": "Czechoslovakia",
+      "score_team1": 2,
+      "score_team2": 0,
+      "group": "Group 4",
+      "ground": "Estadio San Mamés, Bilbao"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-21",
+      "team1": "France",
+      "team2": "Kuwait",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Estadio José Zorrilla, Valladolid"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-24",
+      "team1": "France",
+      "team2": "Czechoslovakia",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 4",
+      "ground": "Estadio José Zorrilla, Valladolid"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-25",
+      "team1": "England",
+      "team2": "Kuwait",
+      "score_team1": 1,
+      "score_team2": 0,
+      "group": "Group 4",
+      "ground": "Estadio San Mamés, Bilbao"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-16",
+      "team1": "Spain",
+      "team2": "Honduras",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 5",
+      "ground": "Estadio Luis Casanova, Valencia"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-17",
+      "team1": "Yugoslavia",
+      "team2": "Northern Ireland",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group 5",
+      "ground": "La Romareda, Zaragoza"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-20",
+      "team1": "Spain",
+      "team2": "Yugoslavia",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group 5",
+      "ground": "Estadio Luis Casanova, Valencia"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-21",
+      "team1": "Honduras",
+      "team2": "Northern Ireland",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "Group 5",
+      "ground": "La Romareda, Zaragoza"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-24",
+      "team1": "Honduras",
+      "team2": "Yugoslavia",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group 5",
+      "ground": "La Romareda, Zaragoza"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-25",
+      "team1": "Spain",
+      "team2": "Northern Ireland",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group 5",
+      "ground": "Estadio Luis Casanova, Valencia"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-14",
+      "team1": "Brazil",
+      "team2": "Soviet Union",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group 6",
+      "ground": "Estadio Ramón Sánchez Pizjuán, Seville"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "1982-06-15",
+      "team1": "Scotland",
+      "team2": "New Zealand",
+      "score_team1": 5,
+      "score_team2": 2,
+      "group": "Group 6",
+      "ground": "Estadio La Rosaleda, Málaga"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-18",
+      "team1": "Brazil",
+      "team2": "Scotland",
+      "score_team1": 4,
+      "score_team2": 1,
+      "group": "Group 6",
+      "ground": "Estadio Benito Villamarín, Seville"
+    },
+    {
+      "round": "Matchday 2",
+      "date": "1982-06-19",
+      "team1": "Soviet Union",
+      "team2": "New Zealand",
+      "score_team1": 3,
+      "score_team2": 0,
+      "group": "Group 6",
+      "ground": "Estadio La Rosaleda, Málaga"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-22",
+      "team1": "Soviet Union",
+      "team2": "Scotland",
+      "score_team1": 2,
+      "score_team2": 2,
+      "group": "Group 6",
+      "ground": "Estadio La Rosaleda, Málaga"
+    },
+    {
+      "round": "Matchday 3",
+      "date": "1982-06-23",
+      "team1": "Brazil",
+      "team2": "New Zealand",
+      "score_team1": 4,
+      "score_team2": 0,
+      "group": "Group 6",
+      "ground": "Estadio Benito Villamarín, Seville"
+    },
+    {
+      "round": "Matchday 4",
+      "date": "1982-06-28",
+      "team1": "Poland",
+      "team2": "Belgium",
+      "score_team1": 3,
+      "score_team2": 0,
+      "group": "Group A",
+      "ground": "Camp Nou, Barcelona"
+    },
+    {
+      "round": "Matchday 5",
+      "date": "1982-07-01",
+      "team1": "Belgium",
+      "team2": "Soviet Union",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group A",
+      "ground": "Camp Nou, Barcelona"
+    },
+    {
+      "round": "Matchday 6",
+      "date": "1982-07-04",
+      "team1": "Soviet Union",
+      "team2": "Poland",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group A",
+      "ground": "Camp Nou, Barcelona"
+    },
+    {
+      "round": "Matchday 4",
+      "date": "1982-06-29",
+      "team1": "West Germany",
+      "team2": "England",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group B",
+      "ground": "Estadio Santiago Bernabéu, Madrid"
+    },
+    {
+      "round": "Matchday 5",
+      "date": "1982-07-02",
+      "team1": "West Germany",
+      "team2": "Spain",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group B",
+      "ground": "Estadio Santiago Bernabéu, Madrid"
+    },
+    {
+      "round": "Matchday 6",
+      "date": "1982-07-05",
+      "team1": "Spain",
+      "team2": "England",
+      "score_team1": 0,
+      "score_team2": 0,
+      "group": "Group B",
+      "ground": "Estadio Santiago Bernabéu, Madrid"
+    },
+    {
+      "round": "Matchday 4",
+      "date": "1982-06-29",
+      "team1": "Italy",
+      "team2": "Argentina",
+      "score_team1": 2,
+      "score_team2": 1,
+      "group": "Group C",
+      "ground": "Estadio Sarriá, Barcelona"
+    },
+    {
+      "round": "Matchday 5",
+      "date": "1982-07-02",
+      "team1": "Argentina",
+      "team2": "Brazil",
+      "score_team1": 1,
+      "score_team2": 3,
+      "group": "Group C",
+      "ground": "Estadio Sarriá, Barcelona"
+    },
+    {
+      "round": "Matchday 6",
+      "date": "1982-07-05",
+      "team1": "Italy",
+      "team2": "Brazil",
+      "score_team1": 3,
+      "score_team2": 2,
+      "group": "Group C",
+      "ground": "Estadio Sarriá, Barcelona"
+    },
+    {
+      "round": "Matchday 4",
+      "date": "1982-06-28",
+      "team1": "Austria",
+      "team2": "France",
+      "score_team1": 0,
+      "score_team2": 1,
+      "group": "Group D",
+      "ground": "Estadio Vicente Calderón, Madrid"
+    },
+    {
+      "round": "Matchday 5",
+      "date": "1982-07-01",
+      "team1": "Austria",
+      "team2": "Northern Ireland",
+      "score_team1": 2,
+      "score_team2": 2,
+      "group": "Group D",
+      "ground": "Estadio Vicente Calderón, Madrid"
+    },
+    {
+      "round": "Matchday 6",
+      "date": "1982-07-04",
+      "team1": "Northern Ireland",
+      "team2": "France",
+      "score_team1": 1,
+      "score_team2": 4,
+      "group": "Group D",
+      "ground": "Estadio Vicente Calderón, Madrid"
+    },
+    {
+      "round": "Semi-finals",
+      "date": "1982-07-08",
+      "team1": "Poland",
+      "team2": "Italy",
+      "score_team1": 0,
+      "score_team2": 2,
+      "group": "",
+      "ground": "Camp Nou, Barcelona"
+    },
+    {
+      "round": "Semi-finals",
+      "date": "1982-07-08",
+      "team1": "West Germany",
+      "team2": "France",
+      "score_team1": 1,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Estadio Ramón Sánchez Pizjuán, Seville"
+    },
+    {
+      "round": "Third place match",
+      "date": "1982-07-10",
+      "team1": "Poland",
+      "team2": "France",
+      "score_team1": 3,
+      "score_team2": 2,
+      "group": "",
+      "ground": "Estadio José Rico Pérez, Alicante"
+    },
+    {
+      "round": "Final",
+      "date": "1982-07-11",
+      "team1": "Italy",
+      "team2": "West Germany",
+      "score_team1": 3,
+      "score_team2": 1,
+      "group": "",
+      "ground": "Estadio Santiago Bernabéu"
+    }
+  ],
+  "meta": {
+    "title": "FIFA World Cup 1982 Matches - Free Download",
+    "description": "All 52 matches from the 1982 FIFA World Cup (hosted by Spain) including teams, scores, groups, and venues. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FIFA World Cup 1982 Matches | ListBase",
+    "seo_description": "Download FIFA World Cup 1982 Matches — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/openfootball/world-cup.json"
+    ]
+  }
+}

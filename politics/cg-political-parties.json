@@ -1,0 +1,316 @@
+{
+  "id": "cg-political-parties",
+  "name": "Republic of the Congo — Political Parties",
+  "title": "Republic of the Congo — Political Parties",
+  "description": "Political parties of Republic of the Congo from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.).",
+  "category": "politics",
+  "source": "https://github.com/hdigital/partyfactsdata",
+  "source_url": "https://github.com/hdigital/partyfactsdata",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "partyfacts_id",
+      "label": "Partyfacts Id",
+      "type": "number"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_english",
+      "label": "Name English",
+      "type": "string"
+    },
+    {
+      "key": "name_other",
+      "label": "Name Other",
+      "type": "string"
+    },
+    {
+      "key": "year_first",
+      "label": "Year First",
+      "type": "number"
+    },
+    {
+      "key": "year_last",
+      "label": "Year Last",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "number"
+    },
+    {
+      "key": "share_year",
+      "label": "Share Year",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia",
+      "label": "Wikipedia",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "technical",
+      "label": "Technical",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "partyfacts_id": 5363,
+      "name_short": "MNR",
+      "name": "Mouvement national de la révolution",
+      "name_english": "National Movement of the Revolution",
+      "name_other": "",
+      "year_first": 1963,
+      "year_last": 1968,
+      "share": 100,
+      "share_year": 1963,
+      "wikipedia": "https://en.wikipedia.org/wiki/National_Movement_of_the_Revolution",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4724,
+      "name_short": "UDDIA",
+      "name": "Union Démocratique pour la Défense des Intérêts Africains",
+      "name_english": "Democratic Union for the Defense of African Interests",
+      "name_other": "",
+      "year_first": 1950,
+      "year_last": 1964,
+      "share": 57.9,
+      "share_year": 1959,
+      "wikipedia": "",
+      "description": "President Youlou 1960 to 1963",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6452,
+      "name_short": "PPC",
+      "name": "Parti progressiste congolais",
+      "name_english": "Congolese Progressive Party",
+      "name_other": "",
+      "year_first": 1945,
+      "year_last": 1957,
+      "share": 44,
+      "share_year": 1951,
+      "wikipedia": "https://en.wikipedia.org/wiki/Congolese_Progressive_Party",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 4723,
+      "name_short": "MSA",
+      "name": "Mouvement Socialiste Africain",
+      "name_english": "African Socialist Movement",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": 1962,
+      "share": 42.1,
+      "share_year": 1959,
+      "wikipedia": "https://en.wikipedia.org/wiki/African_Socialist_Movement",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5364,
+      "name_short": "UPADS",
+      "name": "Union panafricaine pour la démocratie sociale",
+      "name_english": "Pan-African Union for Social Democracy",
+      "name_other": "",
+      "year_first": 1992,
+      "year_last": "",
+      "share": 37.6,
+      "share_year": 1992,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pan-African_Union_for_Social_Democracy",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5365,
+      "name_short": "PCT",
+      "name": "Parti congolais du travail",
+      "name_english": "Congolese Party of Labour",
+      "name_other": "",
+      "year_first": 1969,
+      "year_last": "",
+      "share": 34.6,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/Congolese_Party_of_Labour",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5362,
+      "name_short": "MCDDI",
+      "name": "Mouvement Congolais pour la Démocratie et le Développement Intégral",
+      "name_english": "Congolese Movement for Democracy and Integral Development",
+      "name_other": "",
+      "year_first": 1989,
+      "year_last": "",
+      "share": 22.4,
+      "share_year": 1992,
+      "wikipedia": "https://en.wikipedia.org/wiki/Congolese_Movement_for_Democracy_and_Integral_Development",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 6364,
+      "name_short": "FDU",
+      "name": "Forces Démocratiques Unies",
+      "name_english": "United Democratic Forces",
+      "name_other": "",
+      "year_first": 1997,
+      "year_last": 2006,
+      "share": 21.9,
+      "share_year": 2002,
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Democratic_Forces_(Republic_of_the_Congo)",
+      "description": "30 of 137 seats in 2002",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7326,
+      "name_short": "MCU",
+      "name": "Moyen-Congo Union",
+      "name_english": "Moyen-Congo Union",
+      "name_other": "",
+      "year_first": 1957,
+      "year_last": "",
+      "share": 11.1,
+      "share_year": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/1957_Moyen-Congo_Territorial_Assembly_election",
+      "description": "5 of 45 seats in 1957 Moyen-Congo Territorial Assembly election.",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 5589,
+      "name_short": "RDSP",
+      "name": "Rally for Democracy and Social Progress",
+      "name_english": "Rally for Democracy and Social Progress",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 8,
+      "share_year": 1992,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rally_for_Democracy_and_Social_Progress",
+      "description": "",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8418,
+      "name_short": "RDD",
+      "name": "Rassemblement pour la Démocratie et le Développement",
+      "name_english": "Rally for Democracy and Development",
+      "name_other": "",
+      "year_first": 1990,
+      "year_last": "",
+      "share": 4.8,
+      "share_year": 1993,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rally_for_Democracy_and_Development",
+      "description": "6 of 125 seats in 1993 Republic of the Congo parliamentary election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8401,
+      "name_short": "PUR",
+      "name": "Club 2002 - Parti pour l'unité de la république",
+      "name_english": "Club 2002 – Party for the Unity of the Republic",
+      "name_other": "",
+      "year_first": 2002,
+      "year_last": "",
+      "share": 2.2,
+      "share_year": 2007,
+      "wikipedia": "https://en.wikipedia.org/wiki/Club_2002_–_Party_for_the_Unity_of_the_Republic",
+      "description": "3 of 137 seat in 2007 Republic of the Congo parliamentary election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7994,
+      "name_short": "MAR",
+      "name": "Mouvement Action Renouveau",
+      "name_english": "Action Movement for Renewal",
+      "name_other": "",
+      "year_first": 2006,
+      "year_last": "",
+      "share": 2.2,
+      "share_year": 2017,
+      "wikipedia": "https://en.wikipedia.org/wiki/Action_Movement_for_Renewal",
+      "description": "3 of 135 seats in 2017 Republic of the Congo parliamentary election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 7640,
+      "name_short": "DRR",
+      "name": "Dynamique pour la République et le relèvement",
+      "name_english": "Dynamic for the Republic and Recovery",
+      "name_other": "",
+      "year_first": 2017,
+      "year_last": 2017,
+      "share": 2.2,
+      "share_year": 2017,
+      "wikipedia": "",
+      "description": "3 of 135 seats in 2017 Republic of the Congo parliamentary election",
+      "comment": "",
+      "technical": ""
+    },
+    {
+      "partyfacts_id": 8417,
+      "name_short": "UFD",
+      "name": "Union des Forces Démocratiques",
+      "name_english": "Union of Democratic Forces",
+      "name_other": "",
+      "year_first": 1991,
+      "year_last": "",
+      "share": 0.7,
+      "share_year": 2007,
+      "wikipedia": "",
+      "description": "1 of 137 seats in 2007 Republic of the Congo parliamentary election; Prime minister 1996-1997",
+      "comment": "",
+      "technical": ""
+    }
+  ],
+  "meta": {
+    "title": "Republic of the Congo — Political Parties - Free Download",
+    "description": "Political parties of Republic of the Congo from the Party Facts core parties list (hdigital/partyfactsdata). Each record includes the Party Facts ID, short and long names (localized + English + other transliterations), first and last years of activity, peak vote share with year, and Wikipedia link where available. The Party Facts project links party identities across major comparative-politics datasets (ParlGov, MARPOR/Manifesto, CHES, V-Party, etc.). Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Republic of the Congo — Political Parties | ListBase",
+    "seo_description": "Download Republic of the Congo — Political Parties dataset with 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records with 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from https://github.com/hdigital/partyfactsdata"
+    ]
+  }
+}
