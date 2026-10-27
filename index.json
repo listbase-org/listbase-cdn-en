@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:10.827Z",
-  "total_datasets": 5965,
-  "total_records": 2716146,
+  "generated": "2026-10-27T02:37:15.135Z",
+  "total_datasets": 5966,
+  "total_records": 2716156,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "business",
@@ -159,6 +159,30 @@
         "xlsx": {
           "name": "nz-wine-production-by-year_EN.xlsx",
           "size": 7603
+        }
+      }
+    },
+    {
+      "id": "nz-wine-regions",
+      "name": "New Zealand Wine Regions",
+      "category": "agriculture",
+      "record_count": 10,
+      "columns": [
+        "region",
+        "vineyard_area_ha",
+        "tonnes_crushed"
+      ],
+      "source": "https://en.wikipedia.org/wiki/New_Zealand_wine",
+      "updated": "2026-10",
+      "size": 2389,
+      "files": {
+        "csv": {
+          "name": "nz-wine-regions_EN.csv",
+          "size": 321
+        },
+        "xlsx": {
+          "name": "nz-wine-regions_EN.xlsx",
+          "size": 7006
         }
       }
     },

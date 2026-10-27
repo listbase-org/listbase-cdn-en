@@ -1,0 +1,91 @@
+{
+  "id": "nz-wine-regions",
+  "name": "New Zealand Wine Regions",
+  "title": "New Zealand Wine Regions",
+  "description": "New Zealand wine regions with vineyard area (ha) and tonnes of grapes crushed.",
+  "category": "agriculture",
+  "source": "https://en.wikipedia.org/wiki/New_Zealand_wine",
+  "source_url": "https://en.wikipedia.org/wiki/New_Zealand_wine",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "vineyard_area_ha",
+      "label": "Vineyard Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "tonnes_crushed",
+      "label": "Tonnes Crushed",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Northland",
+      "vineyard_area_ha": 68,
+      "tonnes_crushed": 223
+    },
+    {
+      "region": "Auckland",
+      "vineyard_area_ha": 258,
+      "tonnes_crushed": 890
+    },
+    {
+      "region": "Gisborne",
+      "vineyard_area_ha": 1265,
+      "tonnes_crushed": 12679
+    },
+    {
+      "region": "Hawke's Bay",
+      "vineyard_area_ha": 4605,
+      "tonnes_crushed": 35417
+    },
+    {
+      "region": "Wairarapa",
+      "vineyard_area_ha": 1122,
+      "tonnes_crushed": 7597
+    },
+    {
+      "region": "Marlborough",
+      "vineyard_area_ha": 30469,
+      "tonnes_crushed": 410291
+    },
+    {
+      "region": "Nelson",
+      "vineyard_area_ha": 1059,
+      "tonnes_crushed": 12166
+    },
+    {
+      "region": "North Canterbury",
+      "vineyard_area_ha": 1497,
+      "tonnes_crushed": 15019
+    },
+    {
+      "region": "Waitaki Valley",
+      "vineyard_area_ha": 45,
+      "tonnes_crushed": 283
+    },
+    {
+      "region": "Central Otago",
+      "vineyard_area_ha": 2106,
+      "tonnes_crushed": 8717
+    }
+  ],
+  "meta": {
+    "title": "New Zealand Wine Regions - Free Download",
+    "description": "New Zealand wine regions with vineyard area (ha) and tonnes of grapes crushed. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "New Zealand Wine Regions | ListBase",
+    "seo_description": "Download New Zealand Wine Regions — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/New_Zealand_wine"
+    ]
+  }
+}
