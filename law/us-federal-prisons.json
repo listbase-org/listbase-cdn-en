@@ -1,0 +1,891 @@
+{
+  "id": "us-federal-prisons",
+  "name": "US Federal Prisons",
+  "title": "US Federal Prisons",
+  "description": "Federal Bureau of Prisons facilities with state, inmate gender, security class and 2025 population.",
+  "category": "law",
+  "source": "https://en.wikipedia.org/wiki/List_of_United_States_federal_prisons",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_United_States_federal_prisons",
+  "updated": "2026-10",
+  "record_count": 120,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "inmate_gender",
+      "label": "Inmate Gender",
+      "type": "string"
+    },
+    {
+      "key": "security_class",
+      "label": "Security Class",
+      "type": "string"
+    },
+    {
+      "key": "population_2025",
+      "label": "Population 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "United States Penitentiary, Administrative Maximum Facility",
+      "state": "Colorado",
+      "inmate_gender": "Male",
+      "security_class": "Administrative (Maximum)",
+      "population_2025": 382
+    },
+    {
+      "name": "United States Penitentiary, Allenwood",
+      "state": "Pennsylvania",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 304
+    },
+    {
+      "name": "United States Penitentiary, Atwater",
+      "state": "California",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 1103
+    },
+    {
+      "name": "United States Penitentiary, Beaumont",
+      "state": "Texas",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 1346
+    },
+    {
+      "name": "United States Penitentiary, Big Sandy",
+      "state": "Kentucky",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 1236
+    },
+    {
+      "name": "United States Penitentiary, Canaan",
+      "state": "Pennsylvania",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 1379
+    },
+    {
+      "name": "United States Penitentiary, Coleman",
+      "state": "Florida",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 1345
+    },
+    {
+      "name": "United States Penitentiary, Florence",
+      "state": "Colorado",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 786
+    },
+    {
+      "name": "United States Penitentiary, Hazelton",
+      "state": "West Virginia",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 1398
+    },
+    {
+      "name": "United States Penitentiary, Lee",
+      "state": "Virginia",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 1198
+    },
+    {
+      "name": "United States Penitentiary, McCreary",
+      "state": "Kentucky",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 1355
+    },
+    {
+      "name": "United States Penitentiary, Pollock",
+      "state": "Louisiana",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 855
+    },
+    {
+      "name": "United States Penitentiary, Terre Haute",
+      "state": "Indiana",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 1136
+    },
+    {
+      "name": "United States Penitentiary, Tucson",
+      "state": "Arizona",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 975
+    },
+    {
+      "name": "United States Penitentiary, Victorville",
+      "state": "California",
+      "inmate_gender": "Male",
+      "security_class": "High",
+      "population_2025": 1119
+    },
+    {
+      "name": "Federal Correctional Institution, Aliceville",
+      "state": "Alabama",
+      "inmate_gender": "Female",
+      "security_class": "Low",
+      "population_2025": 1137
+    },
+    {
+      "name": "Federal Correctional Institution, Allenwood Low",
+      "state": "Pennsylvania",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1030
+    },
+    {
+      "name": "Federal Correctional Institution, Allenwood Medium",
+      "state": "Pennsylvania",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1126
+    },
+    {
+      "name": "Federal Correctional Institution, Atlanta",
+      "state": "Georgia",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1854
+    },
+    {
+      "name": "Federal Correctional Institution, Ashland",
+      "state": "Kentucky",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1163
+    },
+    {
+      "name": "Federal Correctional Institution, Bastrop",
+      "state": "Texas",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1013
+    },
+    {
+      "name": "Federal Correctional Institution, Beaumont Low",
+      "state": "Texas",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1615
+    },
+    {
+      "name": "Federal Correctional Institution, Beaumont Medium",
+      "state": "Texas",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1182
+    },
+    {
+      "name": "Federal Correctional Institution, Beckley",
+      "state": "West Virginia",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1534
+    },
+    {
+      "name": "Federal Correctional Institution, Bennettsville",
+      "state": "South Carolina",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1515
+    },
+    {
+      "name": "Federal Correctional Institution, Berlin",
+      "state": "New Hampshire",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 805
+    },
+    {
+      "name": "Federal Correctional Institution, Big Spring",
+      "state": "Texas",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 496
+    },
+    {
+      "name": "Federal Correctional Institution, Butner Low",
+      "state": "North Carolina",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1010
+    },
+    {
+      "name": "Federal Correctional Institution, Butner Medium I",
+      "state": "North Carolina",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 533
+    },
+    {
+      "name": "Federal Correctional Institution, Butner Medium II",
+      "state": "North Carolina",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1549
+    },
+    {
+      "name": "Federal Correctional Institution, Coleman Low",
+      "state": "Florida",
+      "inmate_gender": "Mixed",
+      "security_class": "Low",
+      "population_2025": 1601
+    },
+    {
+      "name": "Federal Correctional Institution, Coleman Medium",
+      "state": "Florida",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1496
+    },
+    {
+      "name": "Federal Correctional Institution, Cumberland",
+      "state": "Maryland",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 884
+    },
+    {
+      "name": "Federal Correctional Institution, Danbury",
+      "state": "Connecticut",
+      "inmate_gender": "Mixed",
+      "security_class": "Low",
+      "population_2025": 1132
+    },
+    {
+      "name": "Federal Correctional Institution, Edgefield",
+      "state": "South Carolina",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1251
+    },
+    {
+      "name": "Federal Correctional Institution, El Reno",
+      "state": "Oklahoma",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1001
+    },
+    {
+      "name": "Federal Correctional Institution, Elkton",
+      "state": "Ohio",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1605
+    },
+    {
+      "name": "Federal Correctional Institution, Englewood",
+      "state": "Colorado",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 960
+    },
+    {
+      "name": "Federal Correctional Institution, Estill",
+      "state": "South Carolina",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 102
+    },
+    {
+      "name": "Federal Correctional Institution, Fairton",
+      "state": "New Jersey",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 728
+    },
+    {
+      "name": "Federal Correctional Institution, Florence",
+      "state": "Colorado",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1044
+    },
+    {
+      "name": "Federal Correctional Institution, Forrest City Low",
+      "state": "Arkansas",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1621
+    },
+    {
+      "name": "Federal Correctional Institution, Forrest City Medium",
+      "state": "Arkansas",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1618
+    },
+    {
+      "name": "Federal Correctional Institution, Fort Dix",
+      "state": "New Jersey",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 3859
+    },
+    {
+      "name": "Federal Correctional Institution, Gilmer",
+      "state": "West Virginia",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1177
+    },
+    {
+      "name": "Federal Correctional Institution, Greenville",
+      "state": "Illinois",
+      "inmate_gender": "Mixed",
+      "security_class": "Medium",
+      "population_2025": 1177
+    },
+    {
+      "name": "Federal Correctional Institution, Hazelton",
+      "state": "West Virginia",
+      "inmate_gender": "Mixed",
+      "security_class": "Medium",
+      "population_2025": 1537
+    },
+    {
+      "name": "Federal Correctional Institution, Herlong",
+      "state": "California",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 865
+    },
+    {
+      "name": "Federal Correctional Institution, Jesup",
+      "state": "Georgia",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1055
+    },
+    {
+      "name": "Federal Correctional Institution, La Tuna",
+      "state": "Texas",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 550
+    },
+    {
+      "name": "Federal Correctional Institution, Leavenworth",
+      "state": "Kansas",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1405
+    },
+    {
+      "name": "Federal Correctional Institution, Lewisburg",
+      "state": "Pennsylvania",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 520
+    },
+    {
+      "name": "Federal Correctional Institution, Lompoc I",
+      "state": "California",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 886
+    },
+    {
+      "name": "Federal Correctional Institution, Lompoc II",
+      "state": "California",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1924
+    },
+    {
+      "name": "Federal Correctional Institution, Loretto",
+      "state": "Pennsylvania",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 781
+    },
+    {
+      "name": "Federal Correctional Institution, Manchester",
+      "state": "Kentucky",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1009
+    },
+    {
+      "name": "Federal Correctional Institution, Marianna",
+      "state": "Florida",
+      "inmate_gender": "Mixed",
+      "security_class": "Medium",
+      "population_2025": 890
+    },
+    {
+      "name": "Federal Correctional Institution, Marion",
+      "state": "Illinois",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1005
+    },
+    {
+      "name": "Federal Correctional Institution, McDowell",
+      "state": "West Virginia",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1483
+    },
+    {
+      "name": "Federal Correctional Institution, McKean",
+      "state": "Pennsylvania",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 919
+    },
+    {
+      "name": "Federal Correctional Institution, Memphis",
+      "state": "Tennessee",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 996
+    },
+    {
+      "name": "Federal Correctional Institution, Mendota",
+      "state": "California",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 628
+    },
+    {
+      "name": "Federal Correctional Institution, Miami",
+      "state": "Florida",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 824
+    },
+    {
+      "name": "Federal Correctional Institution, Milan",
+      "state": "Michigan",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1536
+    },
+    {
+      "name": "Federal Correctional Institution, Oakdale I",
+      "state": "Louisiana",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 971
+    },
+    {
+      "name": "Federal Correctional Institution, Oakdale II",
+      "state": "Louisiana",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 994
+    },
+    {
+      "name": "Federal Correctional Institution, Otisville",
+      "state": "New York",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 746
+    },
+    {
+      "name": "Federal Correctional Institution, Oxford",
+      "state": "Wisconsin",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1157
+    },
+    {
+      "name": "Federal Correctional Institution, Pekin",
+      "state": "Illinois",
+      "inmate_gender": "Mixed",
+      "security_class": "Medium",
+      "population_2025": 1031
+    },
+    {
+      "name": "Federal Correctional Institution, Petersburg Low",
+      "state": "Virginia",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 467
+    },
+    {
+      "name": "Federal Correctional Institution, Petersburg Medium",
+      "state": "Virginia",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1654
+    },
+    {
+      "name": "Federal Correctional Institution, Phoenix",
+      "state": "Arizona",
+      "inmate_gender": "Mixed",
+      "security_class": "Medium",
+      "population_2025": 853
+    },
+    {
+      "name": "Federal Correctional Institution, Pollock",
+      "state": "Louisiana",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1439
+    },
+    {
+      "name": "Federal Correctional Institution, Ray Brook",
+      "state": "New York",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 856
+    },
+    {
+      "name": "Federal Correctional Institution, Safford",
+      "state": "Arizona",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 663
+    },
+    {
+      "name": "Federal Correctional Institution, Sandstone",
+      "state": "Minnesota",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1233
+    },
+    {
+      "name": "Federal Correctional Institution, Schuylkill",
+      "state": "Pennsylvania",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1002
+    },
+    {
+      "name": "Federal Correctional Institution, Seagoville",
+      "state": "Texas",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1357
+    },
+    {
+      "name": "Federal Correctional Institution, Sheridan",
+      "state": "Oregon",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1240
+    },
+    {
+      "name": "Federal Correctional Institution, Talladega",
+      "state": "Alabama",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 958
+    },
+    {
+      "name": "Federal Correctional Institution, Tallahassee",
+      "state": "Florida",
+      "inmate_gender": "Mixed",
+      "security_class": "Low",
+      "population_2025": 1186
+    },
+    {
+      "name": "Federal Correctional Institution, Terminal Island",
+      "state": "California",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 937
+    },
+    {
+      "name": "Federal Correctional Institution, Terre Haute",
+      "state": "Indiana",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1112
+    },
+    {
+      "name": "Federal Correctional Institution, Texarkana",
+      "state": "Texas",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1108
+    },
+    {
+      "name": "Federal Correctional Institution, Three Rivers",
+      "state": "Texas",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1058
+    },
+    {
+      "name": "Federal Correctional Institution, Thomson",
+      "state": "Illinois",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1967
+    },
+    {
+      "name": "Federal Correctional Institution, Tucson",
+      "state": "Arizona",
+      "inmate_gender": "Mixed",
+      "security_class": "Medium",
+      "population_2025": 433
+    },
+    {
+      "name": "Federal Correctional Institution, Victorville Medium I",
+      "state": "California",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1340
+    },
+    {
+      "name": "Federal Correctional Institution, Victorville Medium II",
+      "state": "California",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1254
+    },
+    {
+      "name": "Federal Correctional Institution, Waseca",
+      "state": "Minnesota",
+      "inmate_gender": "Female",
+      "security_class": "Low",
+      "population_2025": 855
+    },
+    {
+      "name": "Federal Correctional Institution, Williamsburg",
+      "state": "South Carolina",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1357
+    },
+    {
+      "name": "Federal Correctional Institution, Yazoo City Low I",
+      "state": "Mississippi",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1566
+    },
+    {
+      "name": "Federal Correctional Institution, Yazoo City Low II",
+      "state": "Mississippi",
+      "inmate_gender": "Male",
+      "security_class": "Low",
+      "population_2025": 1549
+    },
+    {
+      "name": "Federal Correctional Institution, Yazoo City Medium",
+      "state": "Mississippi",
+      "inmate_gender": "Male",
+      "security_class": "Medium",
+      "population_2025": 1498
+    },
+    {
+      "name": "Federal Prison Camp, Alderson",
+      "state": "West Virginia",
+      "inmate_gender": "Female",
+      "security_class": "Minimum",
+      "population_2025": 587
+    },
+    {
+      "name": "Federal Prison Camp, Bryan",
+      "state": "Texas",
+      "inmate_gender": "Female",
+      "security_class": "Minimum",
+      "population_2025": 647
+    },
+    {
+      "name": "Federal Prison Camp, Duluth",
+      "state": "Minnesota",
+      "inmate_gender": "Male",
+      "security_class": "Minimum",
+      "population_2025": 188
+    },
+    {
+      "name": "Federal Prison Camp, Montgomery",
+      "state": "Alabama",
+      "inmate_gender": "Male",
+      "security_class": "Minimum",
+      "population_2025": 863
+    },
+    {
+      "name": "Federal Prison Camp, Morgantown",
+      "state": "West Virginia",
+      "inmate_gender": "Male",
+      "security_class": "Minimum",
+      "population_2025": 166
+    },
+    {
+      "name": "Federal Prison Camp, Pensacola",
+      "state": "Florida",
+      "inmate_gender": "Male",
+      "security_class": "Minimum",
+      "population_2025": 434
+    },
+    {
+      "name": "Federal Prison Camp, Victorville",
+      "state": "California",
+      "inmate_gender": "Female",
+      "security_class": "Minimum",
+      "population_2025": 216
+    },
+    {
+      "name": "Federal Prison Camp, Yankton",
+      "state": "South Dakota",
+      "inmate_gender": "Male",
+      "security_class": "Minimum",
+      "population_2025": 520
+    },
+    {
+      "name": "Federal Detention Center, Honolulu",
+      "state": "Hawaii",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 294
+    },
+    {
+      "name": "Federal Detention Center, Houston",
+      "state": "Texas",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 855
+    },
+    {
+      "name": "Federal Detention Center, Miami",
+      "state": "Florida",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 1428
+    },
+    {
+      "name": "Federal Detention Center, Philadelphia",
+      "state": "Pennsylvania",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 909
+    },
+    {
+      "name": "Federal Detention Center, SeaTac",
+      "state": "Washington",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 785
+    },
+    {
+      "name": "Metropolitan Correctional Center, Chicago",
+      "state": "Illinois",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 506
+    },
+    {
+      "name": "Metropolitan Correctional Center, San Diego",
+      "state": "California",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 522
+    },
+    {
+      "name": "Metropolitan Detention Center, Brooklyn",
+      "state": "New York",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 1328
+    },
+    {
+      "name": "Metropolitan Detention Center, Guaynabo",
+      "state": "Puerto Rico",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 1053
+    },
+    {
+      "name": "Metropolitan Detention Center, Los Angeles",
+      "state": "California",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 950
+    },
+    {
+      "name": "Federal Medical Center, Butner",
+      "state": "North Carolina",
+      "inmate_gender": "Male",
+      "security_class": "",
+      "population_2025": 830
+    },
+    {
+      "name": "Federal Medical Center, Carswell",
+      "state": "Texas",
+      "inmate_gender": "Female",
+      "security_class": "",
+      "population_2025": 982
+    },
+    {
+      "name": "Federal Medical Center, Devens",
+      "state": "Massachusetts",
+      "inmate_gender": "Male",
+      "security_class": "",
+      "population_2025": 1063
+    },
+    {
+      "name": "Federal Medical Center, Fort Worth",
+      "state": "Texas",
+      "inmate_gender": "Male",
+      "security_class": "",
+      "population_2025": 1513
+    },
+    {
+      "name": "Federal Medical Center, Lexington",
+      "state": "Kentucky",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 1058
+    },
+    {
+      "name": "Federal Medical Center, Rochester",
+      "state": "Minnesota",
+      "inmate_gender": "Male",
+      "security_class": "",
+      "population_2025": 811
+    },
+    {
+      "name": "Medical Center for Federal Prisoners, Springfield",
+      "state": "Missouri",
+      "inmate_gender": "Male",
+      "security_class": "",
+      "population_2025": 1068
+    },
+    {
+      "name": "Federal Transfer Center, Oklahoma City",
+      "state": "Oklahoma",
+      "inmate_gender": "Mixed",
+      "security_class": "",
+      "population_2025": 1146
+    }
+  ],
+  "meta": {
+    "title": "US Federal Prisons - Free Download",
+    "description": "Federal Bureau of Prisons facilities with state, inmate gender, security class and 2025 population. Contains 120 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US Federal Prisons | ListBase",
+    "seo_description": "Download US Federal Prisons — 120 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 120 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/List_of_United_States_federal_prisons"
+    ]
+  }
+}

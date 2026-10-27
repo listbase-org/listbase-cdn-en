@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:38:02.522Z",
-  "total_datasets": 5977,
-  "total_records": 2716879,
+  "generated": "2026-10-27T02:38:06.661Z",
+  "total_datasets": 5978,
+  "total_records": 2716999,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "math",
@@ -109683,6 +109683,32 @@
         "xlsx": {
           "name": "us-constitution-amendments_EN.xlsx",
           "size": 9203
+        }
+      }
+    },
+    {
+      "id": "us-federal-prisons",
+      "name": "US Federal Prisons",
+      "category": "law",
+      "record_count": 120,
+      "columns": [
+        "name",
+        "state",
+        "inmate_gender",
+        "security_class",
+        "population_2025"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_United_States_federal_prisons",
+      "updated": "2026-10",
+      "size": 24746,
+      "files": {
+        "csv": {
+          "name": "us-federal-prisons_EN.csv",
+          "size": 9301
+        },
+        "xlsx": {
+          "name": "us-federal-prisons_EN.xlsx",
+          "size": 11010
         }
       }
     },
