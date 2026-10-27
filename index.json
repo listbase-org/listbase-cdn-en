@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:15.135Z",
-  "total_datasets": 5966,
-  "total_records": 2716156,
+  "generated": "2026-10-27T02:37:19.435Z",
+  "total_datasets": 5967,
+  "total_records": 2716185,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -154354,6 +154354,31 @@
         "xlsx": {
           "name": "nz-national-parks_EN.xlsx",
           "size": 7235
+        }
+      }
+    },
+    {
+      "id": "scotland-great-trails",
+      "name": "Scotland's Great Trails",
+      "category": "tourism",
+      "record_count": 29,
+      "columns": [
+        "trail",
+        "distance_km",
+        "ascent_m",
+        "start_finish"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Scotland's_Great_Trails",
+      "updated": "2026-10",
+      "size": 5993,
+      "files": {
+        "csv": {
+          "name": "scotland-great-trails_EN.csv",
+          "size": 1946
+        },
+        "xlsx": {
+          "name": "scotland-great-trails_EN.xlsx",
+          "size": 8327
         }
       }
     },
