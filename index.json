@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:28.029Z",
-  "total_datasets": 5969,
-  "total_records": 2716237,
+  "generated": "2026-10-27T02:37:32.279Z",
+  "total_datasets": 5970,
+  "total_records": 2716287,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -154428,6 +154428,32 @@
         "xlsx": {
           "name": "scotland-great-trails_EN.xlsx",
           "size": 8327
+        }
+      }
+    },
+    {
+      "id": "uk-most-visited-attractions",
+      "name": "Most Visited Attractions in the UK",
+      "category": "tourism",
+      "record_count": 50,
+      "columns": [
+        "rank",
+        "attraction",
+        "location",
+        "country",
+        "visitors_2025"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_the_most-visited_attractions_in_the_United_Kingdom",
+      "updated": "2026-10",
+      "size": 9823,
+      "files": {
+        "csv": {
+          "name": "uk-most-visited-attractions_EN.csv",
+          "size": 2933
+        },
+        "xlsx": {
+          "name": "uk-most-visited-attractions_EN.xlsx",
+          "size": 8787
         }
       }
     },
