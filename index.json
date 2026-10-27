@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:36:48.304Z",
-  "total_datasets": 5960,
-  "total_records": 2715930,
+  "generated": "2026-10-27T02:36:53.070Z",
+  "total_datasets": 5961,
+  "total_records": 2716023,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "math",
@@ -109401,6 +109401,34 @@
         "xlsx": {
           "name": "au-high-court-justices_EN.xlsx",
           "size": 11402
+        }
+      }
+    },
+    {
+      "id": "ca-supreme-court-justices",
+      "name": "Supreme Court of Canada Justices",
+      "category": "law",
+      "record_count": 93,
+      "columns": [
+        "no",
+        "name",
+        "province",
+        "tenure",
+        "chief_justice_tenure",
+        "length_of_service",
+        "nominated_by"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_justices_of_the_Supreme_Court_of_Canada",
+      "updated": "2026-10",
+      "size": 29540,
+      "files": {
+        "csv": {
+          "name": "ca-supreme-court-justices_EN.csv",
+          "size": 13070
+        },
+        "xlsx": {
+          "name": "ca-supreme-court-justices_EN.xlsx",
+          "size": 13554
         }
       }
     },
