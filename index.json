@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:38:11.156Z",
-  "total_datasets": 5979,
-  "total_records": 2717197,
+  "generated": "2026-10-27T02:38:15.521Z",
+  "total_datasets": 5980,
+  "total_records": 2717261,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "transport",
@@ -154687,6 +154687,33 @@
         "xlsx": {
           "name": "uk-national-trails_EN.xlsx",
           "size": 7270
+        }
+      }
+    },
+    {
+      "id": "us-national-parks",
+      "name": "US National Parks",
+      "category": "tourism",
+      "record_count": 64,
+      "columns": [
+        "name",
+        "state",
+        "established",
+        "area_acres",
+        "area_km2",
+        "recreation_visitors_2025"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States",
+      "updated": "2026-10",
+      "size": 15090,
+      "files": {
+        "csv": {
+          "name": "us-national-parks_EN.csv",
+          "size": 4883
+        },
+        "xlsx": {
+          "name": "us-national-parks_EN.xlsx",
+          "size": 10521
         }
       }
     },

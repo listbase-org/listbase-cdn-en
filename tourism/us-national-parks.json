@@ -1,0 +1,568 @@
+{
+  "id": "us-national-parks",
+  "name": "US National Parks",
+  "title": "US National Parks",
+  "description": "The national parks of the United States with state, establishment date, area and 2025 recreation visitors.",
+  "category": "tourism",
+  "source": "https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States",
+  "updated": "2026-10",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "string"
+    },
+    {
+      "key": "area_acres",
+      "label": "Area Acres",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "recreation_visitors_2025",
+      "label": "Recreation Visitors 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Acadia",
+      "state": "Maine",
+      "established": "February 26, 1919",
+      "area_acres": 49071.4,
+      "area_km2": 198.6,
+      "recreation_visitors_2025": 4079318
+    },
+    {
+      "name": "American Samoa",
+      "state": "American Samoa",
+      "established": "October 31, 1988",
+      "area_acres": 8256.67,
+      "area_km2": 33.4,
+      "recreation_visitors_2025": 43258
+    },
+    {
+      "name": "Arches",
+      "state": "Utah",
+      "established": "November 12, 1971",
+      "area_acres": 76678.98,
+      "area_km2": 310.3,
+      "recreation_visitors_2025": 1511740
+    },
+    {
+      "name": "Badlands",
+      "state": "South Dakota",
+      "established": "November 10, 1978",
+      "area_acres": 242755.94,
+      "area_km2": 982.4,
+      "recreation_visitors_2025": 1139361
+    },
+    {
+      "name": "Big Bend †",
+      "state": "Texas",
+      "established": "June 12, 1944",
+      "area_acres": 801163.21,
+      "area_km2": 3242.2,
+      "recreation_visitors_2025": 568104
+    },
+    {
+      "name": "Biscayne",
+      "state": "Florida",
+      "established": "June 28, 1980",
+      "area_acres": 172971.11,
+      "area_km2": 700,
+      "recreation_visitors_2025": 486567
+    },
+    {
+      "name": "Black Canyon of the Gunnison",
+      "state": "Colorado",
+      "established": "October 21, 1999",
+      "area_acres": 30779.83,
+      "area_km2": 124.6,
+      "recreation_visitors_2025": 250086
+    },
+    {
+      "name": "Bryce Canyon",
+      "state": "Utah",
+      "established": "February 25, 1928",
+      "area_acres": 35835.08,
+      "area_km2": 145,
+      "recreation_visitors_2025": 1967367
+    },
+    {
+      "name": "Canyonlands",
+      "state": "Utah",
+      "established": "September 12, 1964",
+      "area_acres": 337597.83,
+      "area_km2": 1366.2,
+      "recreation_visitors_2025": 796057
+    },
+    {
+      "name": "Capitol Reef",
+      "state": "Utah",
+      "established": "December 18, 1971",
+      "area_acres": 241904.5,
+      "area_km2": 979,
+      "recreation_visitors_2025": 1388476
+    },
+    {
+      "name": "Carlsbad Caverns *",
+      "state": "New Mexico",
+      "established": "May 14, 1930",
+      "area_acres": 46766.45,
+      "area_km2": 189.3,
+      "recreation_visitors_2025": 410778
+    },
+    {
+      "name": "Channel Islands †",
+      "state": "California",
+      "established": "March 5, 1980",
+      "area_acres": 249561,
+      "area_km2": 1009.9,
+      "recreation_visitors_2025": 227186
+    },
+    {
+      "name": "Chiricahua",
+      "state": "Arizona",
+      "established": "October 20, 2026",
+      "area_acres": 12024.73,
+      "area_km2": 48.7,
+      "recreation_visitors_2025": 70406
+    },
+    {
+      "name": "Congaree †",
+      "state": "South Carolina",
+      "established": "November 10, 2003",
+      "area_acres": 26692.6,
+      "area_km2": 108,
+      "recreation_visitors_2025": 287833
+    },
+    {
+      "name": "Crater Lake",
+      "state": "Oregon",
+      "established": "May 22, 1902",
+      "area_acres": 183224.05,
+      "area_km2": 741.5,
+      "recreation_visitors_2025": 632242
+    },
+    {
+      "name": "Cuyahoga Valley",
+      "state": "Ohio",
+      "established": "October 11, 2000",
+      "area_acres": 32571.89,
+      "area_km2": 131.8,
+      "recreation_visitors_2025": 3025325
+    },
+    {
+      "name": "Death Valley †",
+      "state": "California, Nevada",
+      "established": "October 31, 1994",
+      "area_acres": 3408395.63,
+      "area_km2": 13793.3,
+      "recreation_visitors_2025": 1320134
+    },
+    {
+      "name": "Denali †",
+      "state": "Alaska",
+      "established": "February 26, 1917",
+      "area_acres": 4740911.16,
+      "area_km2": 19185.8,
+      "recreation_visitors_2025": 543300
+    },
+    {
+      "name": "Dry Tortugas †",
+      "state": "Florida",
+      "established": "October 26, 1992",
+      "area_acres": 64701.22,
+      "area_km2": 261.8,
+      "recreation_visitors_2025": 89355
+    },
+    {
+      "name": "Everglades ‡",
+      "state": "Florida",
+      "established": "May 30, 1934",
+      "area_acres": 1508938.57,
+      "area_km2": 6106.5,
+      "recreation_visitors_2025": 778198
+    },
+    {
+      "name": "Gates of the Arctic",
+      "state": "Alaska",
+      "established": "December 2, 1980",
+      "area_acres": 7523897.45,
+      "area_km2": 30448.1,
+      "recreation_visitors_2025": 14923
+    },
+    {
+      "name": "Gateway Arch",
+      "state": "Missouri",
+      "established": "February 22, 2018",
+      "area_acres": 91,
+      "area_km2": 0.4,
+      "recreation_visitors_2025": 2209028
+    },
+    {
+      "name": "Glacier ‡",
+      "state": "Montana",
+      "established": "May 11, 1910",
+      "area_acres": 1013126.39,
+      "area_km2": 4100,
+      "recreation_visitors_2025": 3136557
+    },
+    {
+      "name": "Glacier Bay ‡",
+      "state": "Alaska",
+      "established": "December 2, 1980",
+      "area_acres": 3223383.43,
+      "area_km2": 13044.6,
+      "recreation_visitors_2025": 740044
+    },
+    {
+      "name": "Grand Canyon *",
+      "state": "Arizona",
+      "established": "February 26, 1919",
+      "area_acres": 1201647.03,
+      "area_km2": 4862.9,
+      "recreation_visitors_2025": 4430653
+    },
+    {
+      "name": "Grand Teton †",
+      "state": "Wyoming",
+      "established": "February 26, 1929",
+      "area_acres": 310044.36,
+      "area_km2": 1254.7,
+      "recreation_visitors_2025": 3800648
+    },
+    {
+      "name": "Great Basin",
+      "state": "Nevada",
+      "established": "October 27, 1986",
+      "area_acres": 77180,
+      "area_km2": 312.3,
+      "recreation_visitors_2025": 161210
+    },
+    {
+      "name": "Great Sand Dunes",
+      "state": "Colorado",
+      "established": "September 24, 2004",
+      "area_acres": 107345.73,
+      "area_km2": 434.4,
+      "recreation_visitors_2025": 432498
+    },
+    {
+      "name": "Great Smoky Mountains ‡",
+      "state": "North Carolina, Tennessee",
+      "established": "June 15, 1934",
+      "area_acres": 522426.88,
+      "area_km2": 2114.2,
+      "recreation_visitors_2025": 11527939
+    },
+    {
+      "name": "Guadalupe Mountains",
+      "state": "Texas",
+      "established": "September 30, 1972",
+      "area_acres": 86367.1,
+      "area_km2": 349.5,
+      "recreation_visitors_2025": 206423
+    },
+    {
+      "name": "Haleakalā †",
+      "state": "Hawaii",
+      "established": "July 1, 1961",
+      "area_acres": 33488.98,
+      "area_km2": 135.5,
+      "recreation_visitors_2025": 853711
+    },
+    {
+      "name": "Hawaiʻi Volcanoes ‡",
+      "state": "Hawaii",
+      "established": "August 1, 1916",
+      "area_acres": 344812.18,
+      "area_km2": 1395.4,
+      "recreation_visitors_2025": 1877854
+    },
+    {
+      "name": "Hot Springs",
+      "state": "Arkansas",
+      "established": "March 4, 1921",
+      "area_acres": 5554.15,
+      "area_km2": 22.5,
+      "recreation_visitors_2025": 2494611
+    },
+    {
+      "name": "Indiana Dunes",
+      "state": "Indiana",
+      "established": "February 15, 2019",
+      "area_acres": 15349.08,
+      "area_km2": 62.1,
+      "recreation_visitors_2025": 2629497
+    },
+    {
+      "name": "Isle Royale †",
+      "state": "Michigan",
+      "established": "April 3, 1940",
+      "area_acres": 571790.3,
+      "area_km2": 2314,
+      "recreation_visitors_2025": 29091
+    },
+    {
+      "name": "Joshua Tree †",
+      "state": "California",
+      "established": "October 31, 1994",
+      "area_acres": 795155.85,
+      "area_km2": 3217.9,
+      "recreation_visitors_2025": 2932644
+    },
+    {
+      "name": "Katmai",
+      "state": "Alaska",
+      "established": "December 2, 1980",
+      "area_acres": 3674529.33,
+      "area_km2": 14870.3,
+      "recreation_visitors_2025": 34479
+    },
+    {
+      "name": "Kenai Fjords",
+      "state": "Alaska",
+      "established": "December 2, 1980",
+      "area_acres": 669650.05,
+      "area_km2": 2710,
+      "recreation_visitors_2025": 425369
+    },
+    {
+      "name": "Kings Canyon †",
+      "state": "California",
+      "established": "March 4, 1940",
+      "area_acres": 461901.2,
+      "area_km2": 1869.2,
+      "recreation_visitors_2025": 779791
+    },
+    {
+      "name": "Kobuk Valley",
+      "state": "Alaska",
+      "established": "December 2, 1980",
+      "area_acres": 1750716.16,
+      "area_km2": 7084.9,
+      "recreation_visitors_2025": 7786
+    },
+    {
+      "name": "Lake Clark",
+      "state": "Alaska",
+      "established": "December 2, 1980",
+      "area_acres": 2619816.49,
+      "area_km2": 10602,
+      "recreation_visitors_2025": 19778
+    },
+    {
+      "name": "Lassen Volcanic",
+      "state": "California",
+      "established": "August 9, 1916",
+      "area_acres": 106589.02,
+      "area_km2": 431.4,
+      "recreation_visitors_2025": 504777
+    },
+    {
+      "name": "Mammoth Cave ‡",
+      "state": "Kentucky",
+      "established": "July 1, 1941",
+      "area_acres": 72472.87,
+      "area_km2": 293.3,
+      "recreation_visitors_2025": 660734
+    },
+    {
+      "name": "Mesa Verde *",
+      "state": "Colorado",
+      "established": "June 29, 1906",
+      "area_acres": 52485.17,
+      "area_km2": 212.4,
+      "recreation_visitors_2025": 463130
+    },
+    {
+      "name": "Mount Rainier",
+      "state": "Washington",
+      "established": "March 2, 1899",
+      "area_acres": 236381.64,
+      "area_km2": 956.6,
+      "recreation_visitors_2025": 1635342
+    },
+    {
+      "name": "New River Gorge",
+      "state": "West Virginia",
+      "established": "December 27, 2020",
+      "area_acres": 7021,
+      "area_km2": 28.4,
+      "recreation_visitors_2025": 1958440
+    },
+    {
+      "name": "North Cascades",
+      "state": "Washington",
+      "established": "October 2, 1968",
+      "area_acres": 504780.94,
+      "area_km2": 2042.8,
+      "recreation_visitors_2025": 46925
+    },
+    {
+      "name": "Olympic ‡",
+      "state": "Washington",
+      "established": "June 29, 1938",
+      "area_acres": 922649.41,
+      "area_km2": 3733.8,
+      "recreation_visitors_2025": 3584187
+    },
+    {
+      "name": "Petrified Forest",
+      "state": "Arizona",
+      "established": "December 9, 1962",
+      "area_acres": 221390.21,
+      "area_km2": 895.9,
+      "recreation_visitors_2025": 315951
+    },
+    {
+      "name": "Pinnacles",
+      "state": "California",
+      "established": "January 10, 2013",
+      "area_acres": 26685.73,
+      "area_km2": 108,
+      "recreation_visitors_2025": 343208
+    },
+    {
+      "name": "Redwood *",
+      "state": "California",
+      "established": "October 2, 1968",
+      "area_acres": 138999.37,
+      "area_km2": 562.5,
+      "recreation_visitors_2025": 1202480
+    },
+    {
+      "name": "Rocky Mountain †",
+      "state": "Colorado",
+      "established": "January 26, 1915",
+      "area_acres": 265847.74,
+      "area_km2": 1075.8,
+      "recreation_visitors_2025": 4171431
+    },
+    {
+      "name": "Saguaro",
+      "state": "Arizona",
+      "established": "October 14, 1994",
+      "area_acres": 92876.75,
+      "area_km2": 375.9,
+      "recreation_visitors_2025": 847749
+    },
+    {
+      "name": "Sequoia †",
+      "state": "California",
+      "established": "September 25, 1890",
+      "area_acres": 404062.63,
+      "area_km2": 1635.2,
+      "recreation_visitors_2025": 1378337
+    },
+    {
+      "name": "Shenandoah",
+      "state": "Virginia",
+      "established": "December 26, 1935",
+      "area_acres": 200445.92,
+      "area_km2": 811.2,
+      "recreation_visitors_2025": 1682152
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "state": "North Dakota",
+      "established": "November 10, 1978",
+      "area_acres": 70446.89,
+      "area_km2": 285.1,
+      "recreation_visitors_2025": 729893
+    },
+    {
+      "name": "Virgin Islands",
+      "state": "U.S. Virgin Islands",
+      "established": "August 2, 1956",
+      "area_acres": 15052.33,
+      "area_km2": 60.9,
+      "recreation_visitors_2025": 471074
+    },
+    {
+      "name": "Voyageurs",
+      "state": "Minnesota",
+      "established": "April 8, 1975",
+      "area_acres": 218222.35,
+      "area_km2": 883.1,
+      "recreation_visitors_2025": 206326
+    },
+    {
+      "name": "White Sands",
+      "state": "New Mexico",
+      "established": "December 20, 2019",
+      "area_acres": 146344.31,
+      "area_km2": 592.2,
+      "recreation_visitors_2025": 659742
+    },
+    {
+      "name": "Wind Cave",
+      "state": "South Dakota",
+      "established": "January 9, 1903",
+      "area_acres": 33970.84,
+      "area_km2": 137.5,
+      "recreation_visitors_2025": 606258
+    },
+    {
+      "name": "Wrangell–St. Elias *",
+      "state": "Alaska",
+      "established": "December 2, 1980",
+      "area_acres": 8323146.48,
+      "area_km2": 33682.6,
+      "recreation_visitors_2025": 108840
+    },
+    {
+      "name": "Yellowstone ‡",
+      "state": "Wyoming, Montana, Idaho",
+      "established": "March 1, 1872",
+      "area_acres": 2219790.71,
+      "area_km2": 8983.2,
+      "recreation_visitors_2025": 4762988
+    },
+    {
+      "name": "Yosemite *",
+      "state": "California",
+      "established": "October 1, 1890",
+      "area_acres": 761747.5,
+      "area_km2": 3082.7,
+      "recreation_visitors_2025": 4278413
+    },
+    {
+      "name": "Zion",
+      "state": "Utah",
+      "established": "November 19, 1919",
+      "area_acres": 147242.66,
+      "area_km2": 595.9,
+      "recreation_visitors_2025": 4984525
+    }
+  ],
+  "meta": {
+    "title": "US National Parks - Free Download",
+    "description": "The national parks of the United States with state, establishment date, area and 2025 recreation visitors. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US National Parks | ListBase",
+    "seo_description": "Download US National Parks — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States"
+    ]
+  }
+}
