@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:19.435Z",
-  "total_datasets": 5967,
-  "total_records": 2716185,
+  "generated": "2026-10-27T02:37:23.589Z",
+  "total_datasets": 5968,
+  "total_records": 2716219,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "business",
@@ -183,6 +183,31 @@
         "xlsx": {
           "name": "nz-wine-regions_EN.xlsx",
           "size": 7006
+        }
+      }
+    },
+    {
+      "id": "uk-cattle-breeds",
+      "name": "British Cattle Breeds",
+      "category": "agriculture",
+      "record_count": 34,
+      "columns": [
+        "breed",
+        "origin",
+        "subspecies",
+        "purpose"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_cattle_breeds",
+      "updated": "2026-10",
+      "size": 5905,
+      "files": {
+        "csv": {
+          "name": "uk-cattle-breeds_EN.csv",
+          "size": 1587
+        },
+        "xlsx": {
+          "name": "uk-cattle-breeds_EN.xlsx",
+          "size": 7684
         }
       }
     },
