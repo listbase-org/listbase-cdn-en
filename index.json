@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:58.118Z",
-  "total_datasets": 5976,
-  "total_records": 2716852,
+  "generated": "2026-10-27T02:38:02.522Z",
+  "total_datasets": 5977,
+  "total_records": 2716879,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "math",
@@ -109657,6 +109657,32 @@
         "xlsx": {
           "name": "us-attorneys-general_EN.xlsx",
           "size": 13371
+        }
+      }
+    },
+    {
+      "id": "us-constitution-amendments",
+      "name": "Amendments to the US Constitution",
+      "category": "law",
+      "record_count": 27,
+      "columns": [
+        "no",
+        "subject",
+        "proposed",
+        "ratified",
+        "time_span"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_amendments_to_the_Constitution_of_the_United_States",
+      "updated": "2026-10",
+      "size": 9205,
+      "files": {
+        "csv": {
+          "name": "us-constitution-amendments_EN.csv",
+          "size": 4809
+        },
+        "xlsx": {
+          "name": "us-constitution-amendments_EN.xlsx",
+          "size": 9203
         }
       }
     },
