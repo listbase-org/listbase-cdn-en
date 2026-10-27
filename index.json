@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:41.097Z",
-  "total_datasets": 5972,
-  "total_records": 2716319,
+  "generated": "2026-10-27T02:37:45.334Z",
+  "total_datasets": 5973,
+  "total_records": 2716384,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "business",
@@ -232,6 +232,31 @@
         "xlsx": {
           "name": "uk-hop-varieties_EN.xlsx",
           "size": 7210
+        }
+      }
+    },
+    {
+      "id": "uk-sheep-breeds",
+      "name": "British Sheep Breeds",
+      "category": "agriculture",
+      "record_count": 65,
+      "columns": [
+        "breed",
+        "alternative_name",
+        "origin",
+        "purpose"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_sheep_breeds",
+      "updated": "2026-10",
+      "size": 10696,
+      "files": {
+        "csv": {
+          "name": "uk-sheep-breeds_EN.csv",
+          "size": 3417
+        },
+        "xlsx": {
+          "name": "uk-sheep-breeds_EN.xlsx",
+          "size": 8824
         }
       }
     },
