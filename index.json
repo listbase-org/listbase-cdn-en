@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:36:43.668Z",
-  "total_datasets": 5959,
-  "total_records": 2715877,
+  "generated": "2026-10-27T02:36:48.304Z",
+  "total_datasets": 5960,
+  "total_records": 2715930,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -154140,6 +154140,34 @@
         "xlsx": {
           "name": "au-national-parks_EN.xlsx",
           "size": 22476
+        }
+      }
+    },
+    {
+      "id": "ca-national-parks",
+      "name": "Canada National Parks",
+      "category": "tourism",
+      "record_count": 53,
+      "columns": [
+        "name",
+        "type",
+        "province",
+        "established",
+        "area_km2",
+        "annual_visitors_2022_23",
+        "region"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_national_parks_of_Canada",
+      "updated": "2026-10",
+      "size": 15183,
+      "files": {
+        "csv": {
+          "name": "ca-national-parks_EN.csv",
+          "size": 5553
+        },
+        "xlsx": {
+          "name": "ca-national-parks_EN.xlsx",
+          "size": 10092
         }
       }
     },

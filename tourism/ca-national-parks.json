@@ -1,0 +1,538 @@
+{
+  "id": "ca-national-parks",
+  "name": "Canada National Parks",
+  "title": "Canada National Parks",
+  "description": "National parks and reserves of Canada with province, establishment date, area, natural region and 2022–23 visitors.",
+  "category": "tourism",
+  "source": "https://en.wikipedia.org/wiki/List_of_national_parks_of_Canada",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_national_parks_of_Canada",
+  "updated": "2026-10",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "annual_visitors_2022_23",
+      "label": "Annual Visitors 2022 23",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Akami−Uapishkᵘ− KakKasuak−Mealy Mountains (Reserve)",
+      "type": "National park",
+      "province": "Newfoundland and Labrador",
+      "established": "31 July 2015",
+      "area_km2": 10700,
+      "annual_visitors_2022_23": "",
+      "region": "East coast boreal"
+    },
+    {
+      "name": "Aulavik",
+      "type": "National park",
+      "province": "Northwest Territories",
+      "established": "1992",
+      "area_km2": 12200,
+      "annual_visitors_2022_23": 34,
+      "region": "Western arctic lowlands"
+    },
+    {
+      "name": "Auyuittuq",
+      "type": "National park",
+      "province": "Nunavut",
+      "established": "2001",
+      "area_km2": 19089,
+      "annual_visitors_2022_23": 256,
+      "region": "Northern Davis region"
+    },
+    {
+      "name": "Banff *",
+      "type": "National park",
+      "province": "Alberta",
+      "established": "25 November 1885",
+      "area_km2": 6641,
+      "annual_visitors_2022_23": 4130081,
+      "region": "Rocky Mountains"
+    },
+    {
+      "name": "Bruce Peninsula",
+      "type": "National park",
+      "province": "Ontario",
+      "established": "1987",
+      "area_km2": 125,
+      "annual_visitors_2022_23": 460435,
+      "region": "St. Lawrence lowlands"
+    },
+    {
+      "name": "Cape Breton Highlands",
+      "type": "National park",
+      "province": "Nova Scotia",
+      "established": "1936",
+      "area_km2": 948,
+      "annual_visitors_2022_23": 277203,
+      "region": "Maritime Acadian highlands"
+    },
+    {
+      "name": "Elk Island",
+      "type": "National park",
+      "province": "Alberta",
+      "established": "1913",
+      "area_km2": 194,
+      "annual_visitors_2022_23": 409891,
+      "region": "Southern boreal plains & plateaux"
+    },
+    {
+      "name": "Forillon",
+      "type": "National park",
+      "province": "Quebec",
+      "established": "8 June 1970 (federal-provincial agreement)",
+      "area_km2": 240,
+      "annual_visitors_2022_23": 164130,
+      "region": "Notre Dame & Megantic Mountains"
+    },
+    {
+      "name": "Fundy",
+      "type": "National park",
+      "province": "New Brunswick",
+      "established": "1948",
+      "area_km2": 206,
+      "annual_visitors_2022_23": 303575,
+      "region": "Maritime Acadian highlands"
+    },
+    {
+      "name": "Georgian Bay Islands",
+      "type": "National park",
+      "province": "Ontario",
+      "established": "1930",
+      "area_km2": 14,
+      "annual_visitors_2022_23": 27482,
+      "region": "Great Lakes—St. Lawrence precambrian region"
+    },
+    {
+      "name": "Glacier",
+      "type": "National park",
+      "province": "British Columbia",
+      "established": "10 October 1886",
+      "area_km2": 1349,
+      "annual_visitors_2022_23": 775190,
+      "region": "Columbia Mountains"
+    },
+    {
+      "name": "Grasslands",
+      "type": "National park",
+      "province": "Saskatchewan",
+      "established": "1981",
+      "area_km2": 730,
+      "annual_visitors_2022_23": 19656,
+      "region": "Prairie grasslands"
+    },
+    {
+      "name": "Gros Morne *",
+      "type": "National park",
+      "province": "Newfoundland and Labrador",
+      "established": "1 October 2005 (national park) August 1973 (national park reserve)",
+      "area_km2": 1805,
+      "annual_visitors_2022_23": "",
+      "region": "Western Newfoundland highlands"
+    },
+    {
+      "name": "Gulf Islands (Reserve)",
+      "type": "National park",
+      "province": "British Columbia",
+      "established": "9 May 2003",
+      "area_km2": 37,
+      "annual_visitors_2022_23": 28434,
+      "region": "Strait of Georgia lowlands"
+    },
+    {
+      "name": "Gwaii Haanas * (Reserve)",
+      "type": "National park",
+      "province": "British Columbia",
+      "established": "1988",
+      "area_km2": 1474,
+      "annual_visitors_2022_23": 2651,
+      "region": "Pacific coast mountains"
+    },
+    {
+      "name": "Ivvavik",
+      "type": "National park",
+      "province": "Yukon",
+      "established": "1984",
+      "area_km2": 9750,
+      "annual_visitors_2022_23": 179,
+      "region": "Northern Yukon"
+    },
+    {
+      "name": "Jasper *",
+      "type": "National park",
+      "province": "Alberta",
+      "established": "14 September 1907",
+      "area_km2": 11228,
+      "annual_visitors_2022_23": 2415463,
+      "region": "Rocky Mountains"
+    },
+    {
+      "name": "Kejimkujik",
+      "type": "National park",
+      "province": "Nova Scotia",
+      "established": "1967",
+      "area_km2": 404,
+      "annual_visitors_2022_23": 75284,
+      "region": "Atlantic coast plain"
+    },
+    {
+      "name": "Kluane * (Park and Reserve)",
+      "type": "National park",
+      "province": "Yukon",
+      "established": "29 May 1993 (Park) 1972 (Reserve)",
+      "area_km2": 5900,
+      "annual_visitors_2022_23": 47098,
+      "region": "Northern coast mountains"
+    },
+    {
+      "name": "Kootenay *",
+      "type": "National park",
+      "province": "British Columbia",
+      "established": "21 April 1920",
+      "area_km2": 1406,
+      "annual_visitors_2022_23": 574126,
+      "region": "Rocky Mountains"
+    },
+    {
+      "name": "Kouchibouguac",
+      "type": "National park",
+      "province": "New Brunswick",
+      "established": "1969",
+      "area_km2": 239,
+      "annual_visitors_2022_23": 243489,
+      "region": "Maritime plain"
+    },
+    {
+      "name": "La Mauricie",
+      "type": "National park",
+      "province": "Quebec",
+      "established": "22 August 1970",
+      "area_km2": 536,
+      "annual_visitors_2022_23": 278923,
+      "region": "Great Lakes—St. Lawrence precambrian region"
+    },
+    {
+      "name": "Mingan Archipelago (Reserve)",
+      "type": "National park",
+      "province": "Quebec",
+      "established": "1984",
+      "area_km2": 151,
+      "annual_visitors_2022_23": 44017,
+      "region": "St. Lawrence lowlands"
+    },
+    {
+      "name": "Mount Revelstoke",
+      "type": "National park",
+      "province": "British Columbia",
+      "established": "1914",
+      "area_km2": 262,
+      "annual_visitors_2022_23": 775190,
+      "region": "Columbia Mountains"
+    },
+    {
+      "name": "Nááts'ihch'oh (Reserve)",
+      "type": "National park",
+      "province": "Northwest Territories",
+      "established": "18 December 2014",
+      "area_km2": 4850,
+      "annual_visitors_2022_23": 109,
+      "region": "Mackenzie Mountains"
+    },
+    {
+      "name": "Nahanni * (Reserve)",
+      "type": "National park",
+      "province": "Northwest Territories",
+      "established": "1974",
+      "area_km2": 30000,
+      "annual_visitors_2022_23": 1104,
+      "region": "Mackenzie Mountains"
+    },
+    {
+      "name": "Pacific Rim (Reserve)",
+      "type": "National park",
+      "province": "British Columbia",
+      "established": "1970",
+      "area_km2": 510,
+      "annual_visitors_2022_23": 1163362,
+      "region": "Pacific coast mountains"
+    },
+    {
+      "name": "Pituamkek (Reserve)",
+      "type": "National park",
+      "province": "Prince Edward Island",
+      "established": "4 July 2024",
+      "area_km2": 30,
+      "annual_visitors_2022_23": "",
+      "region": "Maritime plain"
+    },
+    {
+      "name": "Point Pelee",
+      "type": "National park",
+      "province": "Ontario",
+      "established": "29 May 1918",
+      "area_km2": 15,
+      "annual_visitors_2022_23": 492122,
+      "region": "St. Lawrence lowlands"
+    },
+    {
+      "name": "Prince Albert",
+      "type": "National park",
+      "province": "Saskatchewan",
+      "established": "24 March 1927",
+      "area_km2": 3875,
+      "annual_visitors_2022_23": 287372,
+      "region": "Southern boreal plains & plateaux"
+    },
+    {
+      "name": "Prince Edward Island",
+      "type": "National park",
+      "province": "Prince Edward Island",
+      "established": "1937",
+      "area_km2": 27,
+      "annual_visitors_2022_23": "",
+      "region": "Maritime plain"
+    },
+    {
+      "name": "Pukaskwa",
+      "type": "National park",
+      "province": "Ontario",
+      "established": "1971",
+      "area_km2": 1878,
+      "annual_visitors_2022_23": 17285,
+      "region": "Central boreal uplands"
+    },
+    {
+      "name": "Qausuittuq",
+      "type": "National park",
+      "province": "Nunavut",
+      "established": "1 September 2015",
+      "area_km2": 11008,
+      "annual_visitors_2022_23": "",
+      "region": "Western high Arctic"
+    },
+    {
+      "name": "Quttinirpaaq",
+      "type": "National park",
+      "province": "Nunavut",
+      "established": "1988",
+      "area_km2": 37775,
+      "annual_visitors_2022_23": 7,
+      "region": "Eastern high Arctic"
+    },
+    {
+      "name": "Riding Mountain",
+      "type": "National park",
+      "province": "Manitoba",
+      "established": "30 May 1933",
+      "area_km2": 2968,
+      "annual_visitors_2022_23": 336560,
+      "region": "Southern boreal plains & plateaux"
+    },
+    {
+      "name": "Rouge (Urban)",
+      "type": "National park",
+      "province": "Ontario",
+      "established": "15 May 2015",
+      "area_km2": 79.1,
+      "annual_visitors_2022_23": "",
+      "region": "St. Lawrence lowlands"
+    },
+    {
+      "name": "Sable Island (Reserve)",
+      "type": "National park",
+      "province": "Nova Scotia",
+      "established": "20 June 2013",
+      "area_km2": 30,
+      "annual_visitors_2022_23": 806,
+      "region": "Atlantic coast plain"
+    },
+    {
+      "name": "Sirmilik",
+      "type": "National park",
+      "province": "Nunavut",
+      "established": "2001",
+      "area_km2": 22200,
+      "annual_visitors_2022_23": 6,
+      "region": "Eastern Arctic lowlands"
+    },
+    {
+      "name": "Terra Nova",
+      "type": "National park",
+      "province": "Newfoundland and Labrador",
+      "established": "1957",
+      "area_km2": 399,
+      "annual_visitors_2022_23": 45191,
+      "region": "Eastern Newfoundland Atlantic region"
+    },
+    {
+      "name": "Thaidene Nëné (Reserve)",
+      "type": "National park",
+      "province": "Northwest Territories",
+      "established": "21 August 2019",
+      "area_km2": 14305,
+      "annual_visitors_2022_23": "",
+      "region": "Northwestern boreal uplands"
+    },
+    {
+      "name": "Thousand Islands",
+      "type": "National park",
+      "province": "Ontario",
+      "established": "1904",
+      "area_km2": 24,
+      "annual_visitors_2022_23": 109284,
+      "region": "St. Lawrence lowlands"
+    },
+    {
+      "name": "Torngat Mountains",
+      "type": "National park",
+      "province": "Newfoundland and Labrador",
+      "established": "10 July 2008",
+      "area_km2": 9700,
+      "annual_visitors_2022_23": "",
+      "region": "Northern Labrador mountains"
+    },
+    {
+      "name": "Tuktut Nogait",
+      "type": "National park",
+      "province": "Northwest Territories",
+      "established": "1998",
+      "area_km2": 18181,
+      "annual_visitors_2022_23": 12,
+      "region": "Tundra hills"
+    },
+    {
+      "name": "Ukkusiksalik",
+      "type": "National park",
+      "province": "Nunavut",
+      "established": "23 August 2003",
+      "area_km2": 20880,
+      "annual_visitors_2022_23": "",
+      "region": "Central tundra"
+    },
+    {
+      "name": "Vuntut",
+      "type": "National park",
+      "province": "Yukon",
+      "established": "1993",
+      "area_km2": 4345,
+      "annual_visitors_2022_23": "",
+      "region": "Northern Yukon"
+    },
+    {
+      "name": "Wapusk",
+      "type": "National park",
+      "province": "Manitoba",
+      "established": "1996",
+      "area_km2": 11475,
+      "annual_visitors_2022_23": 82,
+      "region": "Hudson—James lowlands"
+    },
+    {
+      "name": "Waterton Lakes ‡",
+      "type": "National park",
+      "province": "Alberta",
+      "established": "30 May 1895",
+      "area_km2": 505,
+      "annual_visitors_2022_23": 475842,
+      "region": "Rocky Mountains"
+    },
+    {
+      "name": "Wood Buffalo *",
+      "type": "National park",
+      "province": "Alberta / Northwest Territories",
+      "established": "1922",
+      "area_km2": 44972,
+      "annual_visitors_2022_23": 2399,
+      "region": "Northern boreal plains"
+    },
+    {
+      "name": "Yoho *",
+      "type": "National park",
+      "province": "British Columbia",
+      "established": "10 October 1886",
+      "area_km2": 1313,
+      "annual_visitors_2022_23": 663878,
+      "region": "Rocky Mountains"
+    },
+    {
+      "name": "Fathom Five",
+      "type": "National marine conservation area",
+      "province": "Ontario",
+      "established": "20 July 1987",
+      "area_km2": 114,
+      "annual_visitors_2022_23": 227828,
+      "region": "Georgian Bay"
+    },
+    {
+      "name": "Gwaii Haanas (Reserve)",
+      "type": "National marine conservation area",
+      "province": "British Columbia",
+      "established": "11 June 2010",
+      "area_km2": 1500,
+      "annual_visitors_2022_23": 2651,
+      "region": "Hecate Strait, Queen Charlotte Shelf"
+    },
+    {
+      "name": "Lake Superior",
+      "type": "National marine conservation area",
+      "province": "Ontario",
+      "established": "1 September 2015",
+      "area_km2": 10880,
+      "annual_visitors_2022_23": "",
+      "region": "Lake Superior"
+    },
+    {
+      "name": "Saguenay–St. Lawrence",
+      "type": "National marine conservation area",
+      "province": "Quebec",
+      "established": "8 June 1998",
+      "area_km2": 1245,
+      "annual_visitors_2022_23": 1070634,
+      "region": "St. Lawrence Estuary"
+    }
+  ],
+  "meta": {
+    "title": "Canada National Parks - Free Download",
+    "description": "National parks and reserves of Canada with province, establishment date, area, natural region and 2022–23 visitors. Contains 53 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Canada National Parks | ListBase",
+    "seo_description": "Download Canada National Parks — 53 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 53 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/List_of_national_parks_of_Canada"
+    ]
+  }
+}
