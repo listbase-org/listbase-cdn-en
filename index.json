@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:45.334Z",
-  "total_datasets": 5973,
-  "total_records": 2716384,
+  "generated": "2026-10-27T02:37:49.646Z",
+  "total_datasets": 5974,
+  "total_records": 2716419,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "math",
@@ -109579,6 +109579,33 @@
         "xlsx": {
           "name": "in-chief-justices_EN.xlsx",
           "size": 10751
+        }
+      }
+    },
+    {
+      "id": "uk-supreme-court-justices",
+      "name": "UK Supreme Court Justices",
+      "category": "law",
+      "record_count": 35,
+      "columns": [
+        "name",
+        "start",
+        "end",
+        "duration",
+        "succeeded",
+        "prior_judicial_office"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_judges_of_the_Supreme_Court_of_the_United_Kingdom",
+      "updated": "2026-10",
+      "size": 12948,
+      "files": {
+        "csv": {
+          "name": "uk-supreme-court-justices_EN.csv",
+          "size": 6739
+        },
+        "xlsx": {
+          "name": "uk-supreme-court-justices_EN.xlsx",
+          "size": 9324
         }
       }
     },
