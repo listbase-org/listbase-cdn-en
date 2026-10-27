@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-21T04:02:48.490Z",
-  "total_datasets": 5957,
-  "total_records": 2715190,
+  "generated": "2026-10-27T02:36:38.926Z",
+  "total_datasets": 5958,
+  "total_records": 2715255,
   "categories": [
     {
       "id": "agriculture",
@@ -55,6 +55,10 @@
     {
       "id": "language",
       "dataset_count": 28
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "math",
@@ -109367,6 +109371,36 @@
         "xlsx": {
           "name": "world-languages-with-native-names_EN.xlsx",
           "size": 13050
+        }
+      }
+    },
+    {
+      "id": "au-high-court-justices",
+      "name": "High Court of Australia Justices",
+      "category": "law",
+      "record_count": 65,
+      "columns": [
+        "no",
+        "name",
+        "state",
+        "birth_death",
+        "position",
+        "term_began",
+        "term_ended",
+        "time_in_office",
+        "pm_at_appointment"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_justices_of_the_High_Court_of_Australia",
+      "updated": "2026-10",
+      "size": 22094,
+      "files": {
+        "csv": {
+          "name": "au-high-court-justices_EN.csv",
+          "size": 7667
+        },
+        "xlsx": {
+          "name": "au-high-court-justices_EN.xlsx",
+          "size": 11402
         }
       }
     },
