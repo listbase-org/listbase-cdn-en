@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:02.029Z",
-  "total_datasets": 5963,
-  "total_records": 2716087,
+  "generated": "2026-10-27T02:37:06.536Z",
+  "total_datasets": 5964,
+  "total_records": 2716101,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -154281,6 +154281,31 @@
         "xlsx": {
           "name": "nz-great-walks_EN.xlsx",
           "size": 7293
+        }
+      }
+    },
+    {
+      "id": "nz-national-parks",
+      "name": "New Zealand National Parks",
+      "category": "tourism",
+      "record_count": 14,
+      "columns": [
+        "name",
+        "area_km2",
+        "established",
+        "doc_huts"
+      ],
+      "source": "https://en.wikipedia.org/wiki/National_parks_of_New_Zealand",
+      "updated": "2026-10",
+      "size": 3276,
+      "files": {
+        "csv": {
+          "name": "nz-national-parks_EN.csv",
+          "size": 727
+        },
+        "xlsx": {
+          "name": "nz-national-parks_EN.xlsx",
+          "size": 7235
         }
       }
     },
