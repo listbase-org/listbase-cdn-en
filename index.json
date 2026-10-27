@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:36:57.452Z",
-  "total_datasets": 5962,
-  "total_records": 2716076,
+  "generated": "2026-10-27T02:37:02.029Z",
+  "total_datasets": 5963,
+  "total_records": 2716087,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -154257,6 +154257,30 @@
         "xlsx": {
           "name": "chicago-airbnb-listings_EN.xlsx",
           "size": 75728
+        }
+      }
+    },
+    {
+      "id": "nz-great-walks",
+      "name": "New Zealand Great Walks",
+      "category": "tourism",
+      "record_count": 11,
+      "columns": [
+        "walk",
+        "island",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/New_Zealand_Great_Walks",
+      "updated": "2026-10",
+      "size": 3016,
+      "files": {
+        "csv": {
+          "name": "nz-great-walks_EN.csv",
+          "size": 998
+        },
+        "xlsx": {
+          "name": "nz-great-walks_EN.xlsx",
+          "size": 7293
         }
       }
     },
