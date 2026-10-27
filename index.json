@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:06.536Z",
-  "total_datasets": 5964,
-  "total_records": 2716101,
+  "generated": "2026-10-27T02:37:10.827Z",
+  "total_datasets": 5965,
+  "total_records": 2716146,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "business",
@@ -135,6 +135,30 @@
         "xlsx": {
           "name": "global-crop-livestock-production_EN.xlsx",
           "size": 10008
+        }
+      }
+    },
+    {
+      "id": "nz-wine-production-by-year",
+      "name": "New Zealand Wine Production by Year",
+      "category": "agriculture",
+      "record_count": 45,
+      "columns": [
+        "year",
+        "productive_area_ha",
+        "production_million_litres"
+      ],
+      "source": "https://en.wikipedia.org/wiki/New_Zealand_wine",
+      "updated": "2026-10",
+      "size": 6302,
+      "files": {
+        "csv": {
+          "name": "nz-wine-production-by-year_EN.csv",
+          "size": 1023
+        },
+        "xlsx": {
+          "name": "nz-wine-production-by-year_EN.xlsx",
+          "size": 7603
         }
       }
     },
