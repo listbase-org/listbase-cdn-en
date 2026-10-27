@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:38:15.521Z",
-  "total_datasets": 5980,
-  "total_records": 2717261,
+  "generated": "2026-10-27T02:38:19.922Z",
+  "total_datasets": 5981,
+  "total_records": 2717382,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "math",
@@ -109737,6 +109737,36 @@
         "xlsx": {
           "name": "us-law-schools_EN.xlsx",
           "size": 16775
+        }
+      }
+    },
+    {
+      "id": "us-supreme-court-justices",
+      "name": "US Supreme Court Justices",
+      "category": "law",
+      "record_count": 121,
+      "columns": [
+        "no",
+        "name",
+        "state",
+        "position",
+        "succeeded",
+        "confirmation",
+        "term",
+        "duration",
+        "appointed_by"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_justices_of_the_Supreme_Court_of_the_United_States",
+      "updated": "2026-10",
+      "size": 45987,
+      "files": {
+        "csv": {
+          "name": "us-supreme-court-justices_EN.csv",
+          "size": 22849
+        },
+        "xlsx": {
+          "name": "us-supreme-court-justices_EN.xlsx",
+          "size": 17576
         }
       }
     },
