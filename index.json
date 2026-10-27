@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:36.662Z",
-  "total_datasets": 5971,
-  "total_records": 2716302,
+  "generated": "2026-10-27T02:37:41.097Z",
+  "total_datasets": 5972,
+  "total_records": 2716319,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -154480,6 +154480,30 @@
         "xlsx": {
           "name": "uk-national-parks_EN.xlsx",
           "size": 7741
+        }
+      }
+    },
+    {
+      "id": "uk-national-trails",
+      "name": "National Trails of England and Wales",
+      "category": "tourism",
+      "record_count": 17,
+      "columns": [
+        "trail",
+        "country",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/National_Trails",
+      "updated": "2026-10",
+      "size": 3231,
+      "files": {
+        "csv": {
+          "name": "uk-national-trails_EN.csv",
+          "size": 820
+        },
+        "xlsx": {
+          "name": "uk-national-trails_EN.xlsx",
+          "size": 7270
         }
       }
     },
