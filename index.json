@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:38:06.661Z",
-  "total_datasets": 5978,
-  "total_records": 2716999,
+  "generated": "2026-10-27T02:38:11.156Z",
+  "total_datasets": 5979,
+  "total_records": 2717197,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "math",
@@ -109709,6 +109709,34 @@
         "xlsx": {
           "name": "us-federal-prisons_EN.xlsx",
           "size": 11010
+        }
+      }
+    },
+    {
+      "id": "us-law-schools",
+      "name": "US ABA-Accredited Law Schools",
+      "category": "law",
+      "record_count": 198,
+      "columns": [
+        "school",
+        "state",
+        "city",
+        "type",
+        "founded",
+        "aba_accredited",
+        "campus"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_law_schools_in_the_United_States",
+      "updated": "2026-10",
+      "size": 47509,
+      "files": {
+        "csv": {
+          "name": "us-law-schools_EN.csv",
+          "size": 19799
+        },
+        "xlsx": {
+          "name": "us-law-schools_EN.xlsx",
+          "size": 16775
         }
       }
     },
