@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:36:38.926Z",
-  "total_datasets": 5958,
-  "total_records": 2715255,
+  "generated": "2026-10-27T02:36:43.668Z",
+  "total_datasets": 5959,
+  "total_records": 2715877,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "transport",
@@ -154116,6 +154116,30 @@
         "xlsx": {
           "name": "world-timezones_EN.xlsx",
           "size": 14737
+        }
+      }
+    },
+    {
+      "id": "au-national-parks",
+      "name": "Australia National Parks",
+      "category": "tourism",
+      "record_count": 622,
+      "columns": [
+        "name",
+        "state_territory",
+        "established"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_national_parks_of_Australia",
+      "updated": "2026-10",
+      "size": 81576,
+      "files": {
+        "csv": {
+          "name": "au-national-parks_EN.csv",
+          "size": 33589
+        },
+        "xlsx": {
+          "name": "au-national-parks_EN.xlsx",
+          "size": 22476
         }
       }
     },
