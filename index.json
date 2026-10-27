@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:53.982Z",
-  "total_datasets": 5975,
-  "total_records": 2716726,
+  "generated": "2026-10-27T02:37:58.118Z",
+  "total_datasets": 5976,
+  "total_records": 2716852,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "math",
@@ -109630,6 +109630,33 @@
         "xlsx": {
           "name": "uk-supreme-court-justices_EN.xlsx",
           "size": 9324
+        }
+      }
+    },
+    {
+      "id": "us-attorneys-general",
+      "name": "US Attorneys General",
+      "category": "law",
+      "record_count": 126,
+      "columns": [
+        "no",
+        "name",
+        "state_of_residence",
+        "took_office",
+        "left_office",
+        "president"
+      ],
+      "source": "https://en.wikipedia.org/wiki/United_States_Attorney_General",
+      "updated": "2026-10",
+      "size": 31627,
+      "files": {
+        "csv": {
+          "name": "us-attorneys-general_EN.csv",
+          "size": 13258
+        },
+        "xlsx": {
+          "name": "us-attorneys-general_EN.xlsx",
+          "size": 13371
         }
       }
     },
