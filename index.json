@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:23.589Z",
-  "total_datasets": 5968,
-  "total_records": 2716219,
+  "generated": "2026-10-27T02:37:28.029Z",
+  "total_datasets": 5969,
+  "total_records": 2716237,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "business",
@@ -208,6 +208,30 @@
         "xlsx": {
           "name": "uk-cattle-breeds_EN.xlsx",
           "size": 7684
+        }
+      }
+    },
+    {
+      "id": "uk-hop-varieties",
+      "name": "British Hop Varieties",
+      "category": "agriculture",
+      "record_count": 18,
+      "columns": [
+        "variety",
+        "country",
+        "alpha_acid_percent"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_hop_varieties",
+      "updated": "2026-10",
+      "size": 3265,
+      "files": {
+        "csv": {
+          "name": "uk-hop-varieties_EN.csv",
+          "size": 604
+        },
+        "xlsx": {
+          "name": "uk-hop-varieties_EN.xlsx",
+          "size": 7210
         }
       }
     },
