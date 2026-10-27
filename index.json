@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:36:53.070Z",
-  "total_datasets": 5961,
-  "total_records": 2716023,
+  "generated": "2026-10-27T02:36:57.452Z",
+  "total_datasets": 5962,
+  "total_records": 2716076,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "math",
@@ -109429,6 +109429,34 @@
         "xlsx": {
           "name": "ca-supreme-court-justices_EN.xlsx",
           "size": 13554
+        }
+      }
+    },
+    {
+      "id": "in-chief-justices",
+      "name": "Chief Justices of India",
+      "category": "law",
+      "record_count": 53,
+      "columns": [
+        "no",
+        "name",
+        "start_of_term",
+        "end_of_term",
+        "length_of_term",
+        "parent_high_court",
+        "appointed_by"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_chief_justices_of_India",
+      "updated": "2026-10",
+      "size": 17007,
+      "files": {
+        "csv": {
+          "name": "in-chief-justices_EN.csv",
+          "size": 6684
+        },
+        "xlsx": {
+          "name": "in-chief-justices_EN.xlsx",
+          "size": 10751
         }
       }
     },
