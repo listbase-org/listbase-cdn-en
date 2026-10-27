@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:37:32.279Z",
-  "total_datasets": 5970,
-  "total_records": 2716287,
+  "generated": "2026-10-27T02:37:36.662Z",
+  "total_datasets": 5971,
+  "total_records": 2716302,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -154454,6 +154454,32 @@
         "xlsx": {
           "name": "uk-most-visited-attractions_EN.xlsx",
           "size": 8787
+        }
+      }
+    },
+    {
+      "id": "uk-national-parks",
+      "name": "UK National Parks",
+      "category": "tourism",
+      "record_count": 15,
+      "columns": [
+        "name",
+        "country",
+        "counties",
+        "date_formed",
+        "area_km2"
+      ],
+      "source": "https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom",
+      "updated": "2026-10",
+      "size": 4449,
+      "files": {
+        "csv": {
+          "name": "uk-national-parks_EN.csv",
+          "size": 1421
+        },
+        "xlsx": {
+          "name": "uk-national-parks_EN.xlsx",
+          "size": 7741
         }
       }
     },
