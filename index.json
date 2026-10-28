@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-10-28T02:30:27.340Z",
-  "total_datasets": 5986,
-  "total_records": 2717517,
+  "generated": "2026-10-28T02:30:31.361Z",
+  "total_datasets": 5987,
+  "total_records": 2717555,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "business",
@@ -110,6 +110,31 @@
     }
   ],
   "datasets": [
+    {
+      "id": "en-scottish-animal-breeds",
+      "name": "Scottish Animal Breeds",
+      "category": "agriculture",
+      "record_count": 38,
+      "columns": [
+        "breed",
+        "species",
+        "origin",
+        "status"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Scottish_breeds",
+      "updated": "2026-10",
+      "size": 7312,
+      "files": {
+        "csv": {
+          "name": "en-scottish-animal-breeds_EN.csv",
+          "size": 2742
+        },
+        "xlsx": {
+          "name": "en-scottish-animal-breeds_EN.xlsx",
+          "size": 8300
+        }
+      }
+    },
     {
       "id": "global-crop-livestock-production",
       "name": "Most Valuable Crops and Livestock Products Worldwide",
