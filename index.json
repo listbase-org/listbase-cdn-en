@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-28T02:30:31.361Z",
-  "total_datasets": 5987,
-  "total_records": 2717555,
+  "generated": "2026-10-28T02:30:35.318Z",
+  "total_datasets": 5988,
+  "total_records": 2717589,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 4
+      "dataset_count": 5
     }
   ],
   "datasets": [
@@ -166758,6 +166758,35 @@
         "xlsx": {
           "name": "zw-airports-iata_EN.xlsx",
           "size": 8195
+        }
+      }
+    },
+    {
+      "id": "en-imperial-units",
+      "name": "British Imperial Units of Measurement",
+      "category": "units",
+      "record_count": 34,
+      "columns": [
+        "quantity",
+        "subgroup",
+        "unit",
+        "symbols",
+        "relative_to_previous",
+        "metric_value",
+        "metric_unit",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Imperial_units",
+      "updated": "2026-10",
+      "size": 12637,
+      "files": {
+        "csv": {
+          "name": "en-imperial-units_EN.csv",
+          "size": 4906
+        },
+        "xlsx": {
+          "name": "en-imperial-units_EN.xlsx",
+          "size": 9933
         }
       }
     },

@@ -1,0 +1,406 @@
+{
+  "id": "en-imperial-units",
+  "name": "British Imperial Units of Measurement",
+  "title": "British Imperial Units of Measurement",
+  "description": "Imperial units of length, area, volume and mass as defined in the UK, with their metric equivalents.",
+  "category": "units",
+  "source": "https://en.wikipedia.org/wiki/Imperial_units",
+  "source_url": "https://en.wikipedia.org/wiki/Imperial_units",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "quantity",
+      "label": "Quantity",
+      "type": "string"
+    },
+    {
+      "key": "subgroup",
+      "label": "Subgroup",
+      "type": "string"
+    },
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "symbols",
+      "label": "Symbols",
+      "type": "string"
+    },
+    {
+      "key": "relative_to_previous",
+      "label": "Relative To Previous",
+      "type": "string"
+    },
+    {
+      "key": "metric_value",
+      "label": "Metric Value",
+      "type": "number"
+    },
+    {
+      "key": "metric_unit",
+      "label": "Metric Unit",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "quantity": "Length",
+      "subgroup": "",
+      "unit": "twip",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "0.000017638",
+      "metric_unit": "m",
+      "notes": "typographic measure"
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "",
+      "unit": "thou",
+      "symbols": "th",
+      "relative_to_previous": "1.44 twip",
+      "metric_value": "0.0000254",
+      "metric_unit": "m",
+      "notes": "Abbreviation of \"thousandth of an inch\". Also known as mil ."
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "",
+      "unit": "barleycorn",
+      "symbols": "Bc",
+      "relative_to_previous": "333 + 1⁄3 th",
+      "metric_value": "0.00846",
+      "metric_unit": "m",
+      "notes": "1⁄3 in"
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "",
+      "unit": "inch",
+      "symbols": "in ( ″ )",
+      "relative_to_previous": "3 Bc",
+      "metric_value": "0.0254",
+      "metric_unit": "m",
+      "notes": "1 metre ≡ 39 47⁄127 inches"
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "",
+      "unit": "hand",
+      "symbols": "hh",
+      "relative_to_previous": "4 in",
+      "metric_value": "0.1016",
+      "metric_unit": "m",
+      "notes": "Used to measure the height of horses"
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "",
+      "unit": "foot",
+      "symbols": "ft ( ′ )",
+      "relative_to_previous": "3 h h",
+      "metric_value": "0.3048",
+      "metric_unit": "m",
+      "notes": "12 in"
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "",
+      "unit": "yard",
+      "symbols": "yd",
+      "relative_to_previous": "3 ft",
+      "metric_value": "0.9144",
+      "metric_unit": "m",
+      "notes": "Defined as exactly 0.9144 m by the international yard and pound agreement of 1959"
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "",
+      "unit": "rod",
+      "symbols": "rd",
+      "relative_to_previous": "5 + 1⁄2 yd",
+      "metric_value": "5.0292",
+      "metric_unit": "m",
+      "notes": "The rod is also called pole or perch"
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "",
+      "unit": "furlong",
+      "symbols": "fur",
+      "relative_to_previous": "40 rd",
+      "metric_value": "201.168",
+      "metric_unit": "m",
+      "notes": "220 yd"
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "",
+      "unit": "mile",
+      "symbols": "mi",
+      "relative_to_previous": "8 furlongs",
+      "metric_value": "1609.344",
+      "metric_unit": "m",
+      "notes": "1760 yd or 80 chains"
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "",
+      "unit": "league",
+      "symbols": "lea",
+      "relative_to_previous": "3 miles",
+      "metric_value": "4828.032",
+      "metric_unit": "m",
+      "notes": ""
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "Maritime units",
+      "unit": "fathom",
+      "symbols": "ftm",
+      "relative_to_previous": "2.02667 yd",
+      "metric_value": "1.852",
+      "metric_unit": "m",
+      "notes": "The British Admiralty in practice used a fathom of 6 ft . This was despite its being 1⁄1000 of a nautical mile (i.e. 6.08 ft ) until the adoption of the international nautical mile."
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "Maritime units",
+      "unit": "cable",
+      "symbols": "",
+      "relative_to_previous": "100 fathoms",
+      "metric_value": "185.2",
+      "metric_unit": "m",
+      "notes": "One tenth of a nautical mile. Equal to 100 fathoms under the strict definition."
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "Maritime units",
+      "unit": "nautical mile",
+      "symbols": "nmi",
+      "relative_to_previous": "10 cables",
+      "metric_value": "1852",
+      "metric_unit": "m",
+      "notes": "Used for measuring distances at sea (and also in aviation) and approximately equal to one arc minute of a great circle . Until the adoption of the international definition of 1852 m in 1970, the British nautical (Admiralty) mile was defined as 6080 ft ."
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "Gunter's survey units (17th century onwards)",
+      "unit": "link",
+      "symbols": "",
+      "relative_to_previous": "1⁄1000 fur",
+      "metric_value": "0.201168",
+      "metric_unit": "m",
+      "notes": "Decimalization of furlong and acre to facilitate surveying calculations"
+    },
+    {
+      "quantity": "Length",
+      "subgroup": "Gunter's survey units (17th century onwards)",
+      "unit": "chain",
+      "symbols": "ch",
+      "relative_to_previous": "100 links",
+      "metric_value": "20.1168",
+      "metric_unit": "m",
+      "notes": "4 rods or 1⁄10 of a furlong. The distance between the two wickets on a cricket pitch ."
+    },
+    {
+      "quantity": "Area",
+      "subgroup": "",
+      "unit": "perch *",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "25.29285264",
+      "metric_unit": "m²",
+      "notes": ""
+    },
+    {
+      "quantity": "Area",
+      "subgroup": "",
+      "unit": "rood",
+      "symbols": "",
+      "relative_to_previous": "40 perches",
+      "metric_value": "1011.7141056",
+      "metric_unit": "m²",
+      "notes": ""
+    },
+    {
+      "quantity": "Area",
+      "subgroup": "",
+      "unit": "acre",
+      "symbols": "",
+      "relative_to_previous": "4 roods",
+      "metric_value": "4046.8564224",
+      "metric_unit": "m²",
+      "notes": ""
+    },
+    {
+      "quantity": "Area",
+      "subgroup": "",
+      "unit": "square mile",
+      "symbols": "sq mi",
+      "relative_to_previous": "640 acres",
+      "metric_value": "2589988.110336",
+      "metric_unit": "m²",
+      "notes": ""
+    },
+    {
+      "quantity": "Volume",
+      "subgroup": "",
+      "unit": "fluid ounce (fl oz)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "28.4130625",
+      "metric_unit": "mL",
+      "notes": ""
+    },
+    {
+      "quantity": "Volume",
+      "subgroup": "",
+      "unit": "gill (gi)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "142.0653125",
+      "metric_unit": "mL",
+      "notes": ""
+    },
+    {
+      "quantity": "Volume",
+      "subgroup": "",
+      "unit": "pint (pt)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "568.26125",
+      "metric_unit": "mL",
+      "notes": ""
+    },
+    {
+      "quantity": "Volume",
+      "subgroup": "",
+      "unit": "quart (qt)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "1136.5225",
+      "metric_unit": "mL",
+      "notes": ""
+    },
+    {
+      "quantity": "Volume",
+      "subgroup": "",
+      "unit": "gallon (gal)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "4546.09",
+      "metric_unit": "mL",
+      "notes": ""
+    },
+    {
+      "quantity": "Mass and weight",
+      "subgroup": "",
+      "unit": "grain (gr)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "64.79891 mg",
+      "metric_unit": "",
+      "notes": "Exactly 64.798 91 milligrams."
+    },
+    {
+      "quantity": "Mass and weight",
+      "subgroup": "",
+      "unit": "drachm (dr)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "1.7718451953125 g",
+      "metric_unit": "",
+      "notes": "A dram is 1⁄16 of an ounce"
+    },
+    {
+      "quantity": "Mass and weight",
+      "subgroup": "",
+      "unit": "ounce (oz)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "28.349523125 g",
+      "metric_unit": "",
+      "notes": "An ounce is 1⁄16 of a pound"
+    },
+    {
+      "quantity": "Mass and weight",
+      "subgroup": "",
+      "unit": "pound (lb)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "0.45359237 kg",
+      "metric_unit": "",
+      "notes": "Defined by the Units of Measurement Regulations 1994 ( SI 1994 /2867)"
+    },
+    {
+      "quantity": "Mass and weight",
+      "subgroup": "",
+      "unit": "stone (st)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "6.35029318 kg",
+      "metric_unit": "",
+      "notes": "The plural stone is often used when providing a weight (e.g. \"this sack weighs 8 stone\"). A person's weight is usually quoted in stone and pounds in English-speaking countries that use the avoirdupois system, with the exception of the United States and Canada, where it is usually quoted in pounds."
+    },
+    {
+      "quantity": "Mass and weight",
+      "subgroup": "",
+      "unit": "quarter (qr or qtr)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "12.70058636 kg",
+      "metric_unit": "",
+      "notes": "One quarter (literally a quarter of a hundredweight) is equal to two stone or 28 pounds. The term quarter is also used in retail contexts, where it refers to four ounces, i.e. a quarter of a pound. (The 1824 act defined a quarter as a unit of volume, as above: thus a 'quarter of wheat', 64 gallons, would weigh about 494 lb. )."
+    },
+    {
+      "quantity": "Mass and weight",
+      "subgroup": "",
+      "unit": "hundredweight (cwt)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "50.80234544 kg",
+      "metric_unit": "",
+      "notes": "One imperial hundredweight is equal to eight stone. This is the long hundredweight , 112 pounds, as opposed to the short hundredweight of 100 pounds used in the United States and Canada."
+    },
+    {
+      "quantity": "Mass and weight",
+      "subgroup": "",
+      "unit": "ton (ton)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "1016.0469088 kg",
+      "metric_unit": "",
+      "notes": "Twenty hundredweight equals a ton (as in the US and Canadian systems). The imperial hundredweight is 12% greater than the US and Canadian one. The imperial ton (or long ton ) is 2240 pounds, which is much closer to a tonne (about 2 204 .6 pounds), compared to the 10.7% smaller North American short ton of 2 000 pounds (907.185 kg). The symbol \"t\" is used to denote a tonne ."
+    },
+    {
+      "quantity": "Mass and weight",
+      "subgroup": "Gravitational units",
+      "unit": "slug (slug)",
+      "symbols": "",
+      "relative_to_previous": "",
+      "metric_value": "14.59390294 kg",
+      "metric_unit": "",
+      "notes": "The slug, a unit associated with imperial and US customary systems, is a mass that accelerates by 1 ft/s 2 when a force of one pound (lbf) is exerted on it. F = ma ( Newton's second law ) 1 lbf = 1 slug × 1 ft/s 2 (as defined above) 1 lbf = 1 lb × g /gc (by definition of the pound force ) g ≈ 32.174 048 56 ft/s 2 gc ≈ 32.174 048 56 lbm⋅ft/lbf⋅s 2 1 slug ≈ 32.174 048 56 pounds"
+    }
+  ],
+  "meta": {
+    "title": "British Imperial Units of Measurement - Free Download",
+    "description": "Imperial units of length, area, volume and mass as defined in the UK, with their metric equivalents. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "British Imperial Units of Measurement | ListBase",
+    "seo_description": "Download British Imperial Units of Measurement — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/Imperial_units"
+    ]
+  }
+}
