@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-28T02:30:10.070Z",
-  "total_datasets": 5982,
-  "total_records": 2717435,
+  "generated": "2026-10-28T02:30:14.757Z",
+  "total_datasets": 5983,
+  "total_records": 2717459,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "entertainment",
@@ -8244,6 +8244,35 @@
         "xlsx": {
           "name": "atus-time-use-activities_EN.xlsx",
           "size": 38745
+        }
+      }
+    },
+    {
+      "id": "en-russell-group-universities",
+      "name": "Russell Group Universities (UK)",
+      "category": "education",
+      "record_count": 24,
+      "columns": [
+        "university",
+        "nation",
+        "year_joined",
+        "undergraduates_2021_22",
+        "postgraduates_2021_22",
+        "total_students_2021_22",
+        "academic_staff_2022_23",
+        "tef_award"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Russell_Group",
+      "updated": "2026-10",
+      "size": 9076,
+      "files": {
+        "csv": {
+          "name": "en-russell-group-universities_EN.csv",
+          "size": 2132
+        },
+        "xlsx": {
+          "name": "en-russell-group-universities_EN.xlsx",
+          "size": 8179
         }
       }
     },
