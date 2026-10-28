@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-28T02:30:18.880Z",
-  "total_datasets": 5984,
-  "total_records": 2717467,
+  "generated": "2026-10-28T02:30:23.174Z",
+  "total_datasets": 5985,
+  "total_records": 2717481,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -154471,6 +154471,31 @@
         "xlsx": {
           "name": "country-holidays-summary_EN.xlsx",
           "size": 15719
+        }
+      }
+    },
+    {
+      "id": "en-us-time-zones",
+      "name": "Time Zones of the United States",
+      "category": "time",
+      "record_count": 14,
+      "columns": [
+        "time_zone",
+        "standard_offset",
+        "dst_offset",
+        "region"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Time_in_the_United_States",
+      "updated": "2026-10",
+      "size": 4711,
+      "files": {
+        "csv": {
+          "name": "en-us-time-zones_EN.csv",
+          "size": 1888
+        },
+        "xlsx": {
+          "name": "en-us-time-zones_EN.xlsx",
+          "size": 7713
         }
       }
     },

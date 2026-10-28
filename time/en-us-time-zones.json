@@ -1,0 +1,130 @@
+{
+  "id": "en-us-time-zones",
+  "name": "Time Zones of the United States",
+  "title": "Time Zones of the United States",
+  "description": "U.S. time zones with standard and daylight saving UTC offsets and the states and territories they cover.",
+  "category": "time",
+  "source": "https://en.wikipedia.org/wiki/Time_in_the_United_States",
+  "source_url": "https://en.wikipedia.org/wiki/Time_in_the_United_States",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "standard_offset",
+      "label": "Standard Offset",
+      "type": "string"
+    },
+    {
+      "key": "dst_offset",
+      "label": "Dst Offset",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "time_zone": "Atlantic",
+      "standard_offset": "UTC−04:00",
+      "dst_offset": "(not observed)",
+      "region": "Puerto Rico, U.S. Virgin Islands"
+    },
+    {
+      "time_zone": "Eastern",
+      "standard_offset": "UTC−05:00",
+      "dst_offset": "UTC−04:00",
+      "region": "Connecticut, Delaware, Georgia, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Vermont, Virginia, Washington, D.C., West Virginia; Partially: Florida, Indiana, Kentucky, Michigan, Tennessee"
+    },
+    {
+      "time_zone": "Eastern",
+      "standard_offset": "UTC−05:00",
+      "dst_offset": "(not observed)",
+      "region": "No DST observed, not defined by 15 U.S.C. §260: Navassa Island, Bajo Nuevo Bank, Serranilla Bank"
+    },
+    {
+      "time_zone": "Central",
+      "standard_offset": "UTC−06:00",
+      "dst_offset": "UTC−05:00",
+      "region": "Alabama, Arkansas, Illinois, Iowa, Louisiana, Minnesota, Mississippi, Missouri, Oklahoma, Wisconsin; Partially: Florida, Indiana, Kansas, Kentucky, Michigan, Nebraska, North Dakota, South Dakota, Tennessee, Texas"
+    },
+    {
+      "time_zone": "Mountain",
+      "standard_offset": "UTC−07:00",
+      "dst_offset": "UTC−06:00",
+      "region": "Colorado, Montana, New Mexico, Utah, Wyoming; Partially: Idaho, Kansas, Nebraska, Nevada, North Dakota, Oregon, South Dakota, Texas"
+    },
+    {
+      "time_zone": "Mountain",
+      "standard_offset": "UTC−07:00",
+      "dst_offset": "(not observed)",
+      "region": "Arizona (no DST outside of Navajo Nation)"
+    },
+    {
+      "time_zone": "Pacific",
+      "standard_offset": "UTC−08:00",
+      "dst_offset": "UTC−07:00",
+      "region": "California, Washington; Partially: Idaho, Nevada, Oregon"
+    },
+    {
+      "time_zone": "Alaska",
+      "standard_offset": "UTC−09:00",
+      "dst_offset": "UTC−08:00",
+      "region": "Partially: Alaska"
+    },
+    {
+      "time_zone": "Hawaii–Aleutian",
+      "standard_offset": "UTC−10:00",
+      "dst_offset": "UTC−09:00",
+      "region": "Partially: Alaska"
+    },
+    {
+      "time_zone": "Hawaii–Aleutian",
+      "standard_offset": "UTC−10:00",
+      "dst_offset": "(not observed)",
+      "region": "Hawaii, Not defined by 15 U.S.C. §260: Johnston Atoll (no DST observed in Hawaii and Johnston Atoll)"
+    },
+    {
+      "time_zone": "American Samoa",
+      "standard_offset": "UTC−11:00",
+      "dst_offset": "(not observed)",
+      "region": "American Samoa; Not defined by 15 U.S.C. §260: Jarvis Island, Midway Atoll, Palmyra Atoll, Kingman Reef"
+    },
+    {
+      "time_zone": "—",
+      "standard_offset": "UTC−12:00",
+      "dst_offset": "(not observed)",
+      "region": "Not defined by 15 U.S.C. §260: Baker Island, Howland Island"
+    },
+    {
+      "time_zone": "—",
+      "standard_offset": "UTC+12:00",
+      "dst_offset": "(not observed)",
+      "region": "Not defined by 15 U.S.C. §260: Wake Island"
+    },
+    {
+      "time_zone": "Chamorro",
+      "standard_offset": "UTC+10:00",
+      "dst_offset": "(not observed)",
+      "region": "Guam, Northern Mariana Islands"
+    }
+  ],
+  "meta": {
+    "title": "Time Zones of the United States - Free Download",
+    "description": "U.S. time zones with standard and daylight saving UTC offsets and the states and territories they cover. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Time Zones of the United States | ListBase",
+    "seo_description": "Download Time Zones of the United States — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/Time_in_the_United_States"
+    ]
+  }
+}
