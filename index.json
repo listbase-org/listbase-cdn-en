@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-28T02:30:14.757Z",
-  "total_datasets": 5983,
-  "total_records": 2717459,
+  "generated": "2026-10-28T02:30:18.880Z",
+  "total_datasets": 5984,
+  "total_records": 2717467,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "entertainment",
@@ -8244,6 +8244,39 @@
         "xlsx": {
           "name": "atus-time-use-activities_EN.xlsx",
           "size": 38745
+        }
+      }
+    },
+    {
+      "id": "en-group-of-eight-universities-australia",
+      "name": "Group of Eight Universities (Australia)",
+      "category": "education",
+      "record_count": 8,
+      "columns": [
+        "university",
+        "city",
+        "established",
+        "rank_average",
+        "rank_qs_world_2025",
+        "rank_the_world_2025",
+        "rank_us_news_2023",
+        "rank_arwu_world_2023",
+        "rank_scimago_2022",
+        "rank_urap_2022",
+        "rank_ntu_2022",
+        "rank_leiden_2022"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Group_of_Eight_(Australia)",
+      "updated": "2026-10",
+      "size": 5634,
+      "files": {
+        "csv": {
+          "name": "en-group-of-eight-universities-australia_EN.csv",
+          "size": 969
+        },
+        "xlsx": {
+          "name": "en-group-of-eight-universities-australia_EN.xlsx",
+          "size": 7591
         }
       }
     },
