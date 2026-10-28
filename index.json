@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-27T02:38:19.922Z",
-  "total_datasets": 5981,
-  "total_records": 2717382,
+  "generated": "2026-10-28T02:30:10.070Z",
+  "total_datasets": 5982,
+  "total_records": 2717435,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -143225,6 +143225,32 @@
         "xlsx": {
           "name": "crime-index-by-country_EN.xlsx",
           "size": 10712
+        }
+      }
+    },
+    {
+      "id": "en-us-states-poverty-rate",
+      "name": "U.S. States and Territories by Poverty Rate",
+      "category": "society",
+      "record_count": 53,
+      "columns": [
+        "area",
+        "poverty_rate_pct",
+        "rate_margin_of_error",
+        "people_in_poverty",
+        "number_margin_of_error"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_poverty_rate",
+      "updated": "2026-10",
+      "size": 11350,
+      "files": {
+        "csv": {
+          "name": "en-us-states-poverty-rate_EN.csv",
+          "size": 2281
+        },
+        "xlsx": {
+          "name": "en-us-states-poverty-rate_EN.xlsx",
+          "size": 8784
         }
       }
     },
