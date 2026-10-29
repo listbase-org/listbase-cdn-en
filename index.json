@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-29T02:21:42.455Z",
-  "total_datasets": 5992,
-  "total_records": 2717833,
+  "generated": "2026-10-29T02:21:46.590Z",
+  "total_datasets": 5993,
+  "total_records": 2717890,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -143342,6 +143342,34 @@
         "xlsx": {
           "name": "crime-index-by-country_EN.xlsx",
           "size": 10712
+        }
+      }
+    },
+    {
+      "id": "en-us-states-incarceration-rate",
+      "name": "U.S. States by Incarceration Rate",
+      "category": "society",
+      "record_count": 57,
+      "columns": [
+        "state",
+        "incarceration_rate_per_100k",
+        "total_incarcerated",
+        "state_population",
+        "state_prisons",
+        "federal",
+        "local_jails"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_by_incarceration_rate",
+      "updated": "2026-10",
+      "size": 15219,
+      "files": {
+        "csv": {
+          "name": "en-us-states-incarceration-rate_EN.csv",
+          "size": 3392
+        },
+        "xlsx": {
+          "name": "en-us-states-incarceration-rate_EN.xlsx",
+          "size": 9823
         }
       }
     },

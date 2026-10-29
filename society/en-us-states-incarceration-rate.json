@@ -1,0 +1,574 @@
+{
+  "id": "en-us-states-incarceration-rate",
+  "name": "U.S. States by Incarceration Rate",
+  "title": "U.S. States by Incarceration Rate",
+  "description": "Incarceration rate per 100,000 residents and number of people held in state prisons, federal prisons and local jails for each U.S. state.",
+  "category": "society",
+  "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_by_incarceration_rate",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_U.S._states_by_incarceration_rate",
+  "updated": "2026-10",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "incarceration_rate_per_100k",
+      "label": "Incarceration Rate Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "total_incarcerated",
+      "label": "Total Incarcerated",
+      "type": "number"
+    },
+    {
+      "key": "state_population",
+      "label": "State Population",
+      "type": "number"
+    },
+    {
+      "key": "state_prisons",
+      "label": "State Prisons",
+      "type": "number"
+    },
+    {
+      "key": "federal",
+      "label": "Federal",
+      "type": "number"
+    },
+    {
+      "key": "local_jails",
+      "label": "Local Jails",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Alabama",
+      "incarceration_rate_per_100k": 898,
+      "total_incarcerated": 45573,
+      "state_population": 5073903,
+      "state_prisons": 26421,
+      "federal": 3607,
+      "local_jails": 14727
+    },
+    {
+      "state": "Alaska",
+      "incarceration_rate_per_100k": 744,
+      "total_incarcerated": 5456,
+      "state_population": 733276,
+      "state_prisons": 4778,
+      "federal": 498,
+      "local_jails": 12
+    },
+    {
+      "state": "American Samoa",
+      "incarceration_rate_per_100k": 606,
+      "total_incarcerated": 301,
+      "state_population": 49710,
+      "state_prisons": 301,
+      "federal": "N/A",
+      "local_jails": "N/A"
+    },
+    {
+      "state": "Arizona",
+      "incarceration_rate_per_100k": 710,
+      "total_incarcerated": 52329,
+      "state_population": 7365684,
+      "state_prisons": 33865,
+      "federal": 3567,
+      "local_jails": 13541
+    },
+    {
+      "state": "Arkansas",
+      "incarceration_rate_per_100k": 912,
+      "total_incarcerated": 27795,
+      "state_population": 3046404,
+      "state_prisons": 17625,
+      "federal": 2522,
+      "local_jails": 7165
+    },
+    {
+      "state": "California",
+      "incarceration_rate_per_100k": 494,
+      "total_incarcerated": 192694,
+      "state_population": 39040616,
+      "state_prisons": 97608,
+      "federal": 12172,
+      "local_jails": 75061
+    },
+    {
+      "state": "Colorado",
+      "incarceration_rate_per_100k": 556,
+      "total_incarcerated": 32495,
+      "state_population": 5841039,
+      "state_prisons": 17168,
+      "federal": 1811,
+      "local_jails": 12719
+    },
+    {
+      "state": "Connecticut",
+      "incarceration_rate_per_100k": 326,
+      "total_incarcerated": 11747,
+      "state_population": 3608706,
+      "state_prisons": 10506,
+      "federal": 949,
+      "local_jails": "N/A"
+    },
+    {
+      "state": "Delaware",
+      "incarceration_rate_per_100k": 539,
+      "total_incarcerated": 5492,
+      "state_population": 1019459,
+      "state_prisons": 4954,
+      "federal": 361,
+      "local_jails": "N/A"
+    },
+    {
+      "state": "Florida",
+      "incarceration_rate_per_100k": 705,
+      "total_incarcerated": 156734,
+      "state_population": 22245521,
+      "state_prisons": 84678,
+      "federal": 13370,
+      "local_jails": 55826
+    },
+    {
+      "state": "Georgia",
+      "incarceration_rate_per_100k": 881,
+      "total_incarcerated": 96171,
+      "state_population": 10913150,
+      "state_prisons": 48439,
+      "federal": 6897,
+      "local_jails": 40085
+    },
+    {
+      "state": "Guam",
+      "incarceration_rate_per_100k": 502,
+      "total_incarcerated": 772,
+      "state_population": 153836,
+      "state_prisons": 678,
+      "federal": 94,
+      "local_jails": "N/A"
+    },
+    {
+      "state": "Hawaii",
+      "incarceration_rate_per_100k": 367,
+      "total_incarcerated": 5283,
+      "state_population": 1439399,
+      "state_prisons": 4149,
+      "federal": 834,
+      "local_jails": "N/A"
+    },
+    {
+      "state": "Idaho",
+      "incarceration_rate_per_100k": 720,
+      "total_incarcerated": 13965,
+      "state_population": 1938996,
+      "state_prisons": 9110,
+      "federal": 950,
+      "local_jails": 3508
+    },
+    {
+      "state": "Illinois",
+      "incarceration_rate_per_100k": 433,
+      "total_incarcerated": 54474,
+      "state_population": 12582515,
+      "state_prisons": 29634,
+      "federal": 6386,
+      "local_jails": 16493
+    },
+    {
+      "state": "Indiana",
+      "incarceration_rate_per_100k": 721,
+      "total_incarcerated": 49241,
+      "state_population": 6832274,
+      "state_prisons": 25286,
+      "federal": 3436,
+      "local_jails": 19416
+    },
+    {
+      "state": "Iowa",
+      "incarceration_rate_per_100k": 550,
+      "total_incarcerated": 17598,
+      "state_population": 3199693,
+      "state_prisons": 8473,
+      "federal": 3744,
+      "local_jails": 4950
+    },
+    {
+      "state": "Kansas",
+      "incarceration_rate_per_100k": 648,
+      "total_incarcerated": 19022,
+      "state_population": 2936716,
+      "state_prisons": 8709,
+      "federal": 1537,
+      "local_jails": 8065
+    },
+    {
+      "state": "Kentucky",
+      "incarceration_rate_per_100k": 889,
+      "total_incarcerated": 40107,
+      "state_population": 4511563,
+      "state_prisons": 19744,
+      "federal": 3182,
+      "local_jails": 16844
+    },
+    {
+      "state": "Louisiana",
+      "incarceration_rate_per_100k": 1067,
+      "total_incarcerated": 48973,
+      "state_population": 4588023,
+      "state_prisons": 27296,
+      "federal": 2538,
+      "local_jails": 18183
+    },
+    {
+      "state": "Maine",
+      "incarceration_rate_per_100k": 272,
+      "total_incarcerated": 3777,
+      "state_population": 1389338,
+      "state_prisons": 1675,
+      "federal": 452,
+      "local_jails": 1623
+    },
+    {
+      "state": "Maryland",
+      "incarceration_rate_per_100k": 475,
+      "total_incarcerated": 29304,
+      "state_population": 6163981,
+      "state_prisons": 15637,
+      "federal": 4068,
+      "local_jails": 8455
+    },
+    {
+      "state": "Massachusetts",
+      "incarceration_rate_per_100k": 241,
+      "total_incarcerated": 16798,
+      "state_population": 6982740,
+      "state_prisons": 6001,
+      "federal": 1279,
+      "local_jails": 9129
+    },
+    {
+      "state": "Michigan",
+      "incarceration_rate_per_100k": 535,
+      "total_incarcerated": 53683,
+      "state_population": 10033281,
+      "state_prisons": 32374,
+      "federal": 4477,
+      "local_jails": 15875
+    },
+    {
+      "state": "Minnesota",
+      "incarceration_rate_per_100k": 323,
+      "total_incarcerated": 18457,
+      "state_population": 5714300,
+      "state_prisons": 8636,
+      "federal": 2003,
+      "local_jails": 6343
+    },
+    {
+      "state": "Mississippi",
+      "incarceration_rate_per_100k": 1020,
+      "total_incarcerated": 29980,
+      "state_population": 2938928,
+      "state_prisons": 19802,
+      "federal": 2041,
+      "local_jails": 7829
+    },
+    {
+      "state": "Missouri",
+      "incarceration_rate_per_100k": 713,
+      "total_incarcerated": 44016,
+      "state_population": 6177168,
+      "state_prisons": 23911,
+      "federal": 6747,
+      "local_jails": 11576
+    },
+    {
+      "state": "Montana",
+      "incarceration_rate_per_100k": 758,
+      "total_incarcerated": 8508,
+      "state_population": 1122878,
+      "state_prisons": 4691,
+      "federal": 1214,
+      "local_jails": 2206
+    },
+    {
+      "state": "Nebraska",
+      "incarceration_rate_per_100k": 591,
+      "total_incarcerated": 11635,
+      "state_population": 1968060,
+      "state_prisons": 5649,
+      "federal": 1390,
+      "local_jails": 4119
+    },
+    {
+      "state": "Nevada",
+      "incarceration_rate_per_100k": 610,
+      "total_incarcerated": 19370,
+      "state_population": 3177421,
+      "state_prisons": 10304,
+      "federal": 1311,
+      "local_jails": 7211
+    },
+    {
+      "state": "New Hampshire",
+      "incarceration_rate_per_100k": 278,
+      "total_incarcerated": 3886,
+      "state_population": 1399003,
+      "state_prisons": 2086,
+      "federal": 426,
+      "local_jails": 1332
+    },
+    {
+      "state": "New Jersey",
+      "incarceration_rate_per_100k": 270,
+      "total_incarcerated": 25016,
+      "state_population": 9260817,
+      "state_prisons": 12657,
+      "federal": 2337,
+      "local_jails": 8775
+    },
+    {
+      "state": "New Mexico",
+      "incarceration_rate_per_100k": 647,
+      "total_incarcerated": 13676,
+      "state_population": 2113476,
+      "state_prisons": 4970,
+      "federal": 1746,
+      "local_jails": 6549
+    },
+    {
+      "state": "New York",
+      "incarceration_rate_per_100k": 317,
+      "total_incarcerated": 62339,
+      "state_population": 19673200,
+      "state_prisons": 31148,
+      "federal": 8859,
+      "local_jails": 20448
+    },
+    {
+      "state": "North Carolina",
+      "incarceration_rate_per_100k": 559,
+      "total_incarcerated": 59753,
+      "state_population": 10695965,
+      "state_prisons": 29627,
+      "federal": 9164,
+      "local_jails": 20360
+    },
+    {
+      "state": "North Dakota",
+      "incarceration_rate_per_100k": 560,
+      "total_incarcerated": 4363,
+      "state_population": 778912,
+      "state_prisons": 1817,
+      "federal": 901,
+      "local_jails": 1434
+    },
+    {
+      "state": "Northern Mariana Islands",
+      "incarceration_rate_per_100k": 400,
+      "total_incarcerated": 189,
+      "state_population": 47329,
+      "state_prisons": 170,
+      "federal": 19,
+      "local_jails": "N/A"
+    },
+    {
+      "state": "Ohio",
+      "incarceration_rate_per_100k": 621,
+      "total_incarcerated": 72989,
+      "state_population": 11759697,
+      "state_prisons": 45313,
+      "federal": 4728,
+      "local_jails": 20582
+    },
+    {
+      "state": "Oklahoma",
+      "incarceration_rate_per_100k": 905,
+      "total_incarcerated": 36388,
+      "state_population": 4019271,
+      "state_prisons": 22941,
+      "federal": 2350,
+      "local_jails": 10625
+    },
+    {
+      "state": "Oregon",
+      "incarceration_rate_per_100k": 494,
+      "total_incarcerated": 20942,
+      "state_population": 4239379,
+      "state_prisons": 12518,
+      "federal": 1182,
+      "local_jails": 5991
+    },
+    {
+      "state": "Pennsylvania",
+      "incarceration_rate_per_100k": 589,
+      "total_incarcerated": 76355,
+      "state_population": 12972091,
+      "state_prisons": 37910,
+      "federal": 5726,
+      "local_jails": 31303
+    },
+    {
+      "state": "Puerto Rico",
+      "incarceration_rate_per_100k": 341,
+      "total_incarcerated": 10995,
+      "state_population": 3220113,
+      "state_prisons": 7067,
+      "federal": 3928,
+      "local_jails": "N/A"
+    },
+    {
+      "state": "Rhode Island",
+      "incarceration_rate_per_100k": 254,
+      "total_incarcerated": 2779,
+      "state_population": 1093842,
+      "state_prisons": 2393,
+      "federal": 260,
+      "local_jails": "N/A"
+    },
+    {
+      "state": "South Carolina",
+      "incarceration_rate_per_100k": 606,
+      "total_incarcerated": 32038,
+      "state_population": 5282955,
+      "state_prisons": 16318,
+      "federal": 3712,
+      "local_jails": 11177
+    },
+    {
+      "state": "South Dakota",
+      "incarceration_rate_per_100k": 812,
+      "total_incarcerated": 7386,
+      "state_population": 909869,
+      "state_prisons": 3444,
+      "federal": 1327,
+      "local_jails": 2003
+    },
+    {
+      "state": "Tennessee",
+      "incarceration_rate_per_100k": 817,
+      "total_incarcerated": 57625,
+      "state_population": 7048976,
+      "state_prisons": 23735,
+      "federal": 7044,
+      "local_jails": 26463
+    },
+    {
+      "state": "Texas",
+      "incarceration_rate_per_100k": 751,
+      "total_incarcerated": 225480,
+      "state_population": 30029848,
+      "state_prisons": 139631,
+      "federal": 23244,
+      "local_jails": 58489
+    },
+    {
+      "state": "U.S. Virgin Islands",
+      "incarceration_rate_per_100k": 651,
+      "total_incarcerated": 567,
+      "state_population": 87146,
+      "state_prisons": 417,
+      "federal": 150,
+      "local_jails": "N/A"
+    },
+    {
+      "state": "Utah",
+      "incarceration_rate_per_100k": 396,
+      "total_incarcerated": 13381,
+      "state_population": 3381236,
+      "state_prisons": 6009,
+      "federal": 1313,
+      "local_jails": 5765
+    },
+    {
+      "state": "Vermont",
+      "incarceration_rate_per_100k": 245,
+      "total_incarcerated": 1583,
+      "state_population": 647110,
+      "state_prisons": 1360,
+      "federal": 219,
+      "local_jails": "N/A"
+    },
+    {
+      "state": "Virginia",
+      "incarceration_rate_per_100k": 679,
+      "total_incarcerated": 58917,
+      "state_population": 8679099,
+      "state_prisons": 27162,
+      "federal": 4722,
+      "local_jails": 25229
+    },
+    {
+      "state": "Washington",
+      "incarceration_rate_per_100k": 373,
+      "total_incarcerated": 29065,
+      "state_population": 7784477,
+      "state_prisons": 13772,
+      "federal": 2438,
+      "local_jails": 11567
+    },
+    {
+      "state": "Washington, D.C.",
+      "incarceration_rate_per_100k": 816,
+      "total_incarcerated": 5473,
+      "state_population": 670949,
+      "state_prisons": "N/A",
+      "federal": 3445,
+      "local_jails": 1817
+    },
+    {
+      "state": "West Virginia",
+      "incarceration_rate_per_100k": 674,
+      "total_incarcerated": 11954,
+      "state_population": 1774035,
+      "state_prisons": 5873,
+      "federal": 1289,
+      "local_jails": 4372
+    },
+    {
+      "state": "Wisconsin",
+      "incarceration_rate_per_100k": 615,
+      "total_incarcerated": 36199,
+      "state_population": 5890543,
+      "state_prisons": 20873,
+      "federal": 1615,
+      "local_jails": 12741
+    },
+    {
+      "state": "Wyoming",
+      "incarceration_rate_per_100k": 785,
+      "total_incarcerated": 4568,
+      "state_population": 581629,
+      "state_prisons": 2154,
+      "federal": 615,
+      "local_jails": 1558
+    },
+    {
+      "state": "U.S. total",
+      "incarceration_rate_per_100k": 608,
+      "total_incarcerated": 2048524,
+      "state_population": 336829545,
+      "state_prisons": 1079467,
+      "federal": 219140,
+      "local_jails": 649181
+    }
+  ],
+  "meta": {
+    "title": "U.S. States by Incarceration Rate - Free Download",
+    "description": "Incarceration rate per 100,000 residents and number of people held in state prisons, federal prisons and local jails for each U.S. state. Contains 57 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "U.S. States by Incarceration Rate | ListBase",
+    "seo_description": "Download U.S. States by Incarceration Rate — 57 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 57 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/List_of_U.S._states_by_incarceration_rate"
+    ]
+  }
+}
