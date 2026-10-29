@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-28T02:30:35.318Z",
-  "total_datasets": 5988,
-  "total_records": 2717589,
+  "generated": "2026-10-29T02:21:29.904Z",
+  "total_datasets": 5989,
+  "total_records": 2717600,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -154520,6 +154520,31 @@
         "xlsx": {
           "name": "en-us-daylight-saving-time-dates_EN.xlsx",
           "size": 7464
+        }
+      }
+    },
+    {
+      "id": "en-us-federal-holidays",
+      "name": "U.S. Federal Holidays",
+      "category": "time",
+      "record_count": 11,
+      "columns": [
+        "date",
+        "name",
+        "date_established",
+        "details"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Federal_holidays_in_the_United_States",
+      "updated": "2026-10",
+      "size": 7677,
+      "files": {
+        "csv": {
+          "name": "en-us-federal-holidays_EN.csv",
+          "size": 5216
+        },
+        "xlsx": {
+          "name": "en-us-federal-holidays_EN.xlsx",
+          "size": 9137
         }
       }
     },
