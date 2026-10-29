@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-29T02:21:38.394Z",
-  "total_datasets": 5991,
-  "total_records": 2717688,
+  "generated": "2026-10-29T02:21:42.455Z",
+  "total_datasets": 5992,
+  "total_records": 2717833,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "entertainment",
@@ -8331,6 +8331,36 @@
         "xlsx": {
           "name": "en-russell-group-universities_EN.xlsx",
           "size": 8179
+        }
+      }
+    },
+    {
+      "id": "en-us-hbcus",
+      "name": "Historically Black Colleges and Universities (HBCUs)",
+      "category": "education",
+      "record_count": 145,
+      "columns": [
+        "institution",
+        "city",
+        "state",
+        "founded",
+        "closed",
+        "type",
+        "status",
+        "regionally_accredited",
+        "comment"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities",
+      "updated": "2026-10",
+      "size": 52678,
+      "files": {
+        "csv": {
+          "name": "en-us-hbcus_EN.csv",
+          "size": 24537
+        },
+        "xlsx": {
+          "name": "en-us-hbcus_EN.xlsx",
+          "size": 17972
         }
       }
     },
