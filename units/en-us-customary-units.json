@@ -1,0 +1,592 @@
+{
+  "id": "en-us-customary-units",
+  "name": "United States Customary Units",
+  "title": "United States Customary Units",
+  "description": "Units of length, area, volume (fluid and dry) and mass in the United States customary system with their subdivisions and SI/metric equivalents.",
+  "category": "units",
+  "source": "https://en.wikipedia.org/wiki/United_States_customary_units",
+  "source_url": "https://en.wikipedia.org/wiki/United_States_customary_units",
+  "updated": "2026-10",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "measure",
+      "label": "Measure",
+      "type": "string"
+    },
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "divisions",
+      "label": "Divisions",
+      "type": "string"
+    },
+    {
+      "key": "si_equivalent",
+      "label": "Si Equivalent",
+      "type": "string"
+    },
+    {
+      "key": "si_equivalent_pre_2023",
+      "label": "Si Equivalent Pre 2023",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "measure": "International units",
+      "unit": "1 twip",
+      "name": "twip",
+      "divisions": " 1 / 20  p  1 / 1440  in",
+      "si_equivalent": " 127 / 7200  mm (17.63 8 μm)",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "International units",
+      "unit": "1 mil",
+      "name": "thousandth of an inch mil",
+      "divisions": " 1 / 1000  in",
+      "si_equivalent": "25.4 μm",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "International units",
+      "unit": "1 p",
+      "name": "point",
+      "divisions": " 1 / 72  in",
+      "si_equivalent": " 127 / 360  mm (352. 7 μm)",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "International units",
+      "unit": "1 P",
+      "name": "pica",
+      "divisions": "12 p",
+      "si_equivalent": " 127 / 30  mm (4.2 3 mm)",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "International units",
+      "unit": "1 in 1 ″",
+      "name": "inch",
+      "divisions": "6 P",
+      "si_equivalent": "25.4 mm",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "International units",
+      "unit": "1 ft 1 ′",
+      "name": "foot",
+      "divisions": "12 in",
+      "si_equivalent": "0.3048 m",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "International units",
+      "unit": "1 yd",
+      "name": "yard",
+      "divisions": "3 ft",
+      "si_equivalent": "0.9144 m",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "International units",
+      "unit": "1 mi",
+      "name": "mile",
+      "divisions": "5280 ft 1760 yd",
+      "si_equivalent": "1.609 344 km",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "International units",
+      "unit": "1 le",
+      "name": "league",
+      "divisions": "3 mi 15 840 ft",
+      "si_equivalent": "4.828 032 km",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "International nautical units",
+      "unit": "1 ftm",
+      "name": "fathom",
+      "divisions": "2 yd 6 ft",
+      "si_equivalent": "1143 ⁄ 625 m 1.8288 m",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "International nautical units",
+      "unit": "1 cb",
+      "name": "cable",
+      "divisions": "120 ftm 1.091 fur",
+      "si_equivalent": "3429 ⁄ 15625 km 0.219 456 km",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "International nautical units",
+      "unit": "1 nmi 1 NM",
+      "name": "nautical mile",
+      "divisions": "1.151 mi 8.439 cb",
+      "si_equivalent": "1852 m 1.852 km",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "US survey units",
+      "unit": "1 li",
+      "name": "link",
+      "divisions": "33 ⁄ 50 ft 7.92 in",
+      "si_equivalent": "0.201 168 m",
+      "si_equivalent_pre_2023": "792 ⁄ 3937 m ( 0.201 17 m )"
+    },
+    {
+      "measure": "US survey units",
+      "unit": "1 ft",
+      "name": "US survey foot (deprecated since 2023)",
+      "divisions": "— N/a",
+      "si_equivalent": "— N/a",
+      "si_equivalent_pre_2023": "1200 ⁄ 3937 m ( 0.304 8006 m )"
+    },
+    {
+      "measure": "US survey units",
+      "unit": "1 rd",
+      "name": "rod \"pole\" \"perch\"",
+      "divisions": "25 li 16.5 ft",
+      "si_equivalent": "5.0292 m",
+      "si_equivalent_pre_2023": "19,800 ⁄ 3937 m ( 5.029 m )"
+    },
+    {
+      "measure": "US survey units",
+      "unit": "1 ch",
+      "name": "chain",
+      "divisions": "4 rd 66 ft",
+      "si_equivalent": "20.1168 m",
+      "si_equivalent_pre_2023": "79,200 ⁄ 3937 m 20.117 m"
+    },
+    {
+      "measure": "US survey units",
+      "unit": "1 fur",
+      "name": "furlong",
+      "divisions": "10 ch",
+      "si_equivalent": "201.168 m",
+      "si_equivalent_pre_2023": "792 ⁄ 3937 km ( 201.168 m )"
+    },
+    {
+      "measure": "US survey units",
+      "unit": "1 mi",
+      "name": "U.S. survey mile",
+      "divisions": "8 fur",
+      "si_equivalent": "1.609 344 km",
+      "si_equivalent_pre_2023": "6336 ⁄ 3937 km ( 1.609 347 km )"
+    },
+    {
+      "measure": "US survey units",
+      "unit": "1 lea",
+      "name": "league",
+      "divisions": "3 mi",
+      "si_equivalent": "4.828 032 km",
+      "si_equivalent_pre_2023": "19,008 ⁄ 3937 km ( 4.828 km )"
+    },
+    {
+      "measure": "Area",
+      "unit": "1 sq ft 1 ft 2",
+      "name": "square foot",
+      "divisions": "144 sq in (international)",
+      "si_equivalent": "0.09290304 m 2",
+      "si_equivalent_pre_2023": "0.09290304 m 2"
+    },
+    {
+      "measure": "Area",
+      "unit": "1 sq yd 1 yd 2",
+      "name": "square yard",
+      "divisions": "9 ft 2",
+      "si_equivalent": "0.83612736 m 2",
+      "si_equivalent_pre_2023": "0.83612736 m 2"
+    },
+    {
+      "measure": "Area",
+      "unit": "1 sq ch 1 ch 2",
+      "name": "square chain",
+      "divisions": "4,356 sq ft (survey) 16 sq rod",
+      "si_equivalent": "404.68564224 m 2",
+      "si_equivalent_pre_2023": "( 404.6873 m 2 )"
+    },
+    {
+      "measure": "Area",
+      "unit": "1 acre",
+      "name": "acre",
+      "divisions": "43,560 sq ft (survey) 10 sq ch",
+      "si_equivalent": "4,046.8564224 m 2",
+      "si_equivalent_pre_2023": "( 4,046.873 m 2 )"
+    },
+    {
+      "measure": "Area",
+      "unit": "1 section",
+      "name": "section",
+      "divisions": "640 acres 1 sq mi (survey)",
+      "si_equivalent": "— N/a",
+      "si_equivalent_pre_2023": "( 2.589998 km 2 )"
+    },
+    {
+      "measure": "Area",
+      "unit": "1 twp",
+      "name": "survey township",
+      "divisions": "36 section 4 sq lea",
+      "si_equivalent": "— N/a",
+      "si_equivalent_pre_2023": "( 93.23993 km 2 )"
+    },
+    {
+      "measure": "Volume",
+      "unit": "1 cu in 1 in 3",
+      "name": "cubic inch",
+      "divisions": "— N/a",
+      "si_equivalent": "16.387064 mL",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Volume",
+      "unit": "1 cu ft 1 ft 3",
+      "name": "cubic foot",
+      "divisions": "1,728 cu in",
+      "si_equivalent": "28.316846592 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Volume",
+      "unit": "1 cu yd 1 yd 3",
+      "name": "cubic yard",
+      "divisions": "27 cu ft",
+      "si_equivalent": "764.554857984 L 0.764554857984 m 3",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Volume",
+      "unit": "1 acre⋅ft",
+      "name": "acre-foot",
+      "divisions": "43,560 cu ft ( 1,613.333 cu yd )",
+      "si_equivalent": "1.23348183754752 ML ( 1,233.482 m 3 )",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 drop",
+      "name": "drop",
+      "divisions": "",
+      "si_equivalent": "51.3429 μL",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 min",
+      "name": "minim",
+      "divisions": "1.2 drops",
+      "si_equivalent": "61.6115 μL",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 gr H 2 O",
+      "name": "grain water",
+      "divisions": "1.1 US min",
+      "si_equivalent": "64.7989 μL",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 fl dr",
+      "name": "US fluid dram",
+      "divisions": "60 min 72 drops",
+      "si_equivalent": "3.6967 mL",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 tsp",
+      "name": "teaspoon",
+      "divisions": "80 min",
+      "si_equivalent": "4.9289 mL",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 tbsp",
+      "name": "tablespoon",
+      "divisions": "3 tsp 4 fl dr",
+      "si_equivalent": "14.787 mL",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 fl oz 1 US fl oz",
+      "name": "US fluid ounce",
+      "divisions": "2 tbsp (1.0408 imp fl oz of water)",
+      "si_equivalent": "29.574 mL",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 jig",
+      "name": "US shot",
+      "divisions": "1.5 US fl oz 3 tbsp",
+      "si_equivalent": "44.360 mL",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 gi",
+      "name": "US gill",
+      "divisions": "2 2 ⁄ 3 jig 4 US fl oz",
+      "si_equivalent": "118.29 mL",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 c",
+      "name": "US cup",
+      "divisions": "2 gi 8 US fl oz",
+      "si_equivalent": "236.59 mL",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 pint 1 US pt",
+      "name": "US pint (liquid)",
+      "divisions": "2 c (16.65 imp fl oz of water)",
+      "si_equivalent": "0.47318 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 qt 1 US qt",
+      "name": "US quart (liquid)",
+      "divisions": "2 US pt",
+      "si_equivalent": "0.94635 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 pot",
+      "name": "US pottle (liquid)",
+      "divisions": "2 US qt",
+      "si_equivalent": "1.8927 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 gal 1 US gal",
+      "name": "US gallon (liquid)",
+      "divisions": "4 US qt 231 cu in",
+      "si_equivalent": "3.7854 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 bbl",
+      "name": "barrel (liquid)",
+      "divisions": "31.5 US gal",
+      "si_equivalent": "119.24 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 bbl",
+      "name": "oil barrel",
+      "divisions": "1 1 ⁄ 3 bbl (liquid) 42 US gal",
+      "si_equivalent": "158.99 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Fluid volume",
+      "unit": "1 hogshead",
+      "name": "hogshead",
+      "divisions": "2 bbl (liquid) 1.5 bbl (oil) 63 US gal 8.421875 cu ft",
+      "si_equivalent": "238.48 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Dry volume",
+      "unit": "1 pt",
+      "name": "pint (dry)",
+      "divisions": "33.600 3125 cu in",
+      "si_equivalent": "0.5506104713575 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Dry volume",
+      "unit": "1 qt",
+      "name": "quart (dry)",
+      "divisions": "2 pt",
+      "si_equivalent": "1.101220942715 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Dry volume",
+      "unit": "1 gal",
+      "name": "gallon (dry)",
+      "divisions": "4 qt",
+      "si_equivalent": "4.40488377086 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Dry volume",
+      "unit": "1 pk",
+      "name": "peck",
+      "divisions": "2 gal",
+      "si_equivalent": "8.80976754172 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Dry volume",
+      "unit": "1 bu",
+      "name": "bushel",
+      "divisions": "4 pk",
+      "si_equivalent": "35.23907016688 L",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Dry volume",
+      "unit": "1 bbl",
+      "name": "barrel (dry)",
+      "divisions": "7056 cu in 26.25 gal ( 3.281 bu )",
+      "si_equivalent": "(115.627123584 L)",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Avoirdupois (Mass)",
+      "unit": "1 gr",
+      "name": "grain",
+      "divisions": "1 ⁄ 7000 lb",
+      "si_equivalent": "64.79891 mg",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Avoirdupois (Mass)",
+      "unit": "1 dr",
+      "name": "dram",
+      "divisions": "27 + 11 ⁄ 32 gr ( 8.859 carats )",
+      "si_equivalent": "1.771845195 g",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Avoirdupois (Mass)",
+      "unit": "1 oz",
+      "name": "ounce",
+      "divisions": "16 drams",
+      "si_equivalent": "28.349523125 g",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Avoirdupois (Mass)",
+      "unit": "1 lb",
+      "name": "pound",
+      "divisions": "16 oz",
+      "si_equivalent": "453.59237 g",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Avoirdupois (Mass)",
+      "unit": "1 cwt 1 US cwt",
+      "name": "US (short) hundredweight",
+      "divisions": "100 lb",
+      "si_equivalent": "45.359237 kg",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Avoirdupois (Mass)",
+      "unit": "1 cwt 1 long cwt",
+      "name": "long hundredweight",
+      "divisions": "112 lb",
+      "si_equivalent": "50.80234544 kg",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Avoirdupois (Mass)",
+      "unit": "1 ton 1 short ton",
+      "name": "short ton",
+      "divisions": "20 US cwt 2,000 lb",
+      "si_equivalent": "907.18474 kg",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Avoirdupois (Mass)",
+      "unit": "1 ton",
+      "name": "long ton",
+      "divisions": "20 long cwt 2,240 lb",
+      "si_equivalent": "1,016.0469088 kg",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Troy weight (Mass)",
+      "unit": "1 gr",
+      "name": "grain",
+      "divisions": "1 ⁄ 7000 lb 1 ⁄ 5760 lbt",
+      "si_equivalent": "64.79891 mg",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Troy weight (Mass)",
+      "unit": "1 dwt",
+      "name": "pennyweight",
+      "divisions": "24 gr ( 7.776 carats )",
+      "si_equivalent": "1.55517384 g",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Troy weight (Mass)",
+      "unit": "1 ozt",
+      "name": "troy ounce",
+      "divisions": "20 dwt",
+      "si_equivalent": "31.1034768 g",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "Troy weight (Mass)",
+      "unit": "1 lbt",
+      "name": "troy pound",
+      "divisions": "12 ozt (13.16571429 oz )",
+      "si_equivalent": "373.2417216 g",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "English Engineering Units (Weight)",
+      "unit": "1 oz",
+      "name": "oz",
+      "divisions": "1 ⁄ 16 lb",
+      "si_equivalent": "≈0.278014 N",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "English Engineering Units (Weight)",
+      "unit": "1 lb",
+      "name": "pound",
+      "divisions": "16 oz",
+      "si_equivalent": "≈4.448222 N",
+      "si_equivalent_pre_2023": ""
+    },
+    {
+      "measure": "English Engineering Units (Weight)",
+      "unit": "1 ton",
+      "name": "ton",
+      "divisions": "2,000 lb",
+      "si_equivalent": "≈8,896.443231 N",
+      "si_equivalent_pre_2023": ""
+    }
+  ],
+  "meta": {
+    "title": "United States Customary Units - Free Download",
+    "description": "Units of length, area, volume (fluid and dry) and mass in the United States customary system with their subdivisions and SI/metric equivalents. Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "United States Customary Units | ListBase",
+    "seo_description": "Download United States Customary Units — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/United_States_customary_units"
+    ]
+  }
+}
