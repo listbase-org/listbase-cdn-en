@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-29T02:21:29.904Z",
-  "total_datasets": 5989,
-  "total_records": 2717600,
+  "generated": "2026-10-29T02:21:34.409Z",
+  "total_datasets": 5990,
+  "total_records": 2717621,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -154496,6 +154496,32 @@
         "xlsx": {
           "name": "country-holidays-summary_EN.xlsx",
           "size": 15719
+        }
+      }
+    },
+    {
+      "id": "en-uk-bank-holidays",
+      "name": "UK Bank and Public Holidays",
+      "category": "time",
+      "record_count": 21,
+      "columns": [
+        "region",
+        "date",
+        "occasion",
+        "type",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Public_holidays_in_the_United_Kingdom",
+      "updated": "2026-10",
+      "size": 8309,
+      "files": {
+        "csv": {
+          "name": "en-uk-bank-holidays_EN.csv",
+          "size": 4699
+        },
+        "xlsx": {
+          "name": "en-uk-bank-holidays_EN.xlsx",
+          "size": 8616
         }
       }
     },
