@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-30T02:21:19.882Z",
-  "total_datasets": 5996,
-  "total_records": 2718101,
+  "generated": "2026-10-30T02:21:30.270Z",
+  "total_datasets": 5997,
+  "total_records": 2718136,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "politics",
@@ -110411,6 +110411,30 @@
         "xlsx": {
           "name": "classic-rock-songs-radio-airplay_EN.xlsx",
           "size": 108919
+        }
+      }
+    },
+    {
+      "id": "en-mercury-prize-winners",
+      "name": "Mercury Prize Winners",
+      "category": "music",
+      "record_count": 35,
+      "columns": [
+        "year",
+        "winner_artist",
+        "winner_album"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Mercury_Prize",
+      "updated": "2026-10",
+      "size": 5244,
+      "files": {
+        "csv": {
+          "name": "en-mercury-prize-winners_EN.csv",
+          "size": 1426
+        },
+        "xlsx": {
+          "name": "en-mercury-prize-winners_EN.xlsx",
+          "size": 8027
         }
       }
     },
