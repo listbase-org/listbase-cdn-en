@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-10-29T02:21:46.590Z",
-  "total_datasets": 5993,
-  "total_records": 2717890,
+  "generated": "2026-10-30T02:20:54.775Z",
+  "total_datasets": 5994,
+  "total_records": 2717967,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "business",
@@ -110,6 +110,36 @@
     }
   ],
   "datasets": [
+    {
+      "id": "en-australia-largest-pastoral-stations",
+      "name": "Largest Pastoral Stations in Australia",
+      "category": "agriculture",
+      "record_count": 77,
+      "columns": [
+        "rank",
+        "station",
+        "state",
+        "area_km2",
+        "area_mi2",
+        "area_acres",
+        "stock",
+        "year_established",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_the_largest_stations_in_Australia",
+      "updated": "2026-10",
+      "size": 22680,
+      "files": {
+        "csv": {
+          "name": "en-australia-largest-pastoral-stations_EN.csv",
+          "size": 7529
+        },
+        "xlsx": {
+          "name": "en-australia-largest-pastoral-stations_EN.xlsx",
+          "size": 11926
+        }
+      }
+    },
     {
       "id": "en-scottish-animal-breeds",
       "name": "Scottish Animal Breeds",
