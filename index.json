@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-30T02:21:40.736Z",
-  "total_datasets": 5998,
-  "total_records": 2718220,
+  "generated": "2026-10-30T02:21:50.639Z",
+  "total_datasets": 5999,
+  "total_records": 2718492,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "language",
@@ -108352,6 +108352,31 @@
         "xlsx": {
           "name": "archaeological-dart-points-texas_EN.xlsx",
           "size": 14687
+        }
+      }
+    },
+    {
+      "id": "en-american-revolutionary-war-battles",
+      "name": "Battles of the American Revolutionary War",
+      "category": "history",
+      "record_count": 272,
+      "columns": [
+        "battle",
+        "date",
+        "location",
+        "outcome"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_battles_of_the_American_Revolutionary_War",
+      "updated": "2026-10",
+      "size": 47835,
+      "files": {
+        "csv": {
+          "name": "en-american-revolutionary-war-battles_EN.csv",
+          "size": 24191
+        },
+        "xlsx": {
+          "name": "en-american-revolutionary-war-battles_EN.xlsx",
+          "size": 18026
         }
       }
     },
