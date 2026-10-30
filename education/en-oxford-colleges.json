@@ -1,0 +1,466 @@
+{
+  "id": "en-oxford-colleges",
+  "name": "Colleges of the University of Oxford",
+  "title": "Colleges of the University of Oxford",
+  "description": "The constituent colleges of the University of Oxford with Latin name, year of foundation, Cambridge sister college, head of house and student numbers",
+  "category": "education",
+  "source": "https://en.wikipedia.org/wiki/Colleges_of_the_University_of_Oxford",
+  "source_url": "https://en.wikipedia.org/wiki/Colleges_of_the_University_of_Oxford",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "college",
+      "label": "College",
+      "type": "string"
+    },
+    {
+      "key": "latin_name",
+      "label": "Latin Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "sister_college_cambridge",
+      "label": "Sister College Cambridge",
+      "type": "string"
+    },
+    {
+      "key": "head_of_house",
+      "label": "Head Of House",
+      "type": "string"
+    },
+    {
+      "key": "undergraduates",
+      "label": "Undergraduates",
+      "type": "number"
+    },
+    {
+      "key": "postgraduates",
+      "label": "Postgraduates",
+      "type": "number"
+    },
+    {
+      "key": "total_students",
+      "label": "Total Students",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "college": "All Souls College",
+      "latin_name": "Collegium Omnium Animarum, Collegium Omnium Animarum Fidelium Defunctorum de Oxonia",
+      "founded": "1438",
+      "sister_college_cambridge": "Trinity Hall",
+      "head_of_house": "Sir John Vickers",
+      "undergraduates": 0,
+      "postgraduates": 9,
+      "total_students": 9
+    },
+    {
+      "college": "Balliol College Scarf colours: navy, with two equally spaced triple-stripes of white, purple and white again",
+      "latin_name": "Collegium Balliolensis, Collegium de Balliolo",
+      "founded": "1263",
+      "sister_college_cambridge": "St John's College",
+      "head_of_house": "Seamus Perry",
+      "undergraduates": 385,
+      "postgraduates": 343,
+      "total_students": 729
+    },
+    {
+      "college": "Brasenose College Scarf colours: black, with two narrow yellow stripes a fifth of a scarf-width in from either edge",
+      "latin_name": "Aula regia et collegium aenei nasi, Collegium Aenei Nasi",
+      "founded": "1509",
+      "sister_college_cambridge": "Gonville and Caius College",
+      "head_of_house": "John Bowers Alyson King (principal-elect)",
+      "undergraduates": 360,
+      "postgraduates": 234,
+      "total_students": 597
+    },
+    {
+      "college": "Christ Church Scarf colours: navy, with two sets of narrow triple stripes a quarter scarf-width in from either edge, each set of triple stripes of red, white and brown from left to right",
+      "latin_name": "Aedes Christi, Ecclesia Christi Cathedralis Oxon: ex fundatione Regis Henrici Octavi",
+      "founded": "1546",
+      "sister_college_cambridge": "Trinity College",
+      "head_of_house": "Sarah Foot",
+      "undergraduates": 455,
+      "postgraduates": 225,
+      "total_students": 680
+    },
+    {
+      "college": "Corpus Christi College Scarf colours: five equal stripes alternating navy and dark red, with navy at the edges and in the centre",
+      "latin_name": "Collegium Corporis Christi",
+      "founded": "1517",
+      "sister_college_cambridge": "Corpus Christi College",
+      "head_of_house": "Helen Moore",
+      "undergraduates": 258,
+      "postgraduates": 98,
+      "total_students": 358
+    },
+    {
+      "college": "Exeter College Scarf colours: black, with two purple stripes each a quarter of the scarf wide, separated from one another by a central black area itself a quarter of the scarf wide",
+      "latin_name": "Collegium Exoniense",
+      "founded": "1314",
+      "sister_college_cambridge": "Emmanuel College",
+      "head_of_house": "Dr Andrew Roe",
+      "undergraduates": 343,
+      "postgraduates": 233,
+      "total_students": 602
+    },
+    {
+      "college": "Green Templeton College Scarf colours: navy, with a wide central stripe of green, and a narrow yellow stripe through each of the navy areas to either side",
+      "latin_name": "Collegium Green Templeton",
+      "founded": "2008",
+      "sister_college_cambridge": "St Edmund's College",
+      "head_of_house": "Sir Michael Dixon",
+      "undergraduates": 90,
+      "postgraduates": 439,
+      "total_students": 529
+    },
+    {
+      "college": "Harris Manchester College Scarf colours: navy, with a wide central stripe of red, and a narrow yellow stripe through each of the navy areas to either side",
+      "latin_name": "Collegium de Harris et Manchester",
+      "founded": "1786 College: 1996",
+      "sister_college_cambridge": "Homerton College",
+      "head_of_house": "Beth Breeze",
+      "undergraduates": 115,
+      "postgraduates": 150,
+      "total_students": 265
+    },
+    {
+      "college": "Hertford College Scarf colours: burgundy, with two narrow stripes of red lined with white a quarter scarf in from either edge",
+      "latin_name": "Collegium Hertfordense, Collegium Hertfordiense",
+      "founded": "1282 College: 1740",
+      "sister_college_cambridge": "None",
+      "head_of_house": "Patrick Roche (interim) Alexandra Freeman (principal-elect)",
+      "undergraduates": 410,
+      "postgraduates": 236,
+      "total_students": 677
+    },
+    {
+      "college": "Jesus College Scarf colours: green, with a central narrow white stripe, and two slightly thinner white stripes one fifth of a scarf-width in from either edge.",
+      "latin_name": "Collegium Ihesus, Collegium Jesu",
+      "founded": "1571",
+      "sister_college_cambridge": "Jesus College",
+      "head_of_house": "Lindsay Skoll",
+      "undergraduates": 358,
+      "postgraduates": 189,
+      "total_students": 548
+    },
+    {
+      "college": "Keble College Scarf colours: navy, with two red stripes a fifth of a scarf-width in from either edge, each stripe divided by a white pinstripe",
+      "latin_name": "Collegium de Keble, Collegium Keblense",
+      "founded": "1870",
+      "sister_college_cambridge": "Selwyn College",
+      "head_of_house": "Sir Michael Jacobs",
+      "undergraduates": 422,
+      "postgraduates": 369,
+      "total_students": 795
+    },
+    {
+      "college": "Kellogg College Scarf colours: navy, with two equally-spaced stripes of medium-blue edged with white",
+      "latin_name": "Collegium de Kellogg",
+      "founded": "1990 Renamed: 1994",
+      "sister_college_cambridge": "None",
+      "head_of_house": "Jonathan Michie",
+      "undergraduates": 0,
+      "postgraduates": 1155,
+      "total_students": 1155
+    },
+    {
+      "college": "Lady Margaret Hall Scarf colours: navy, with two equally-spaced stripes of yellow, each edged with a thinner stripe of white on the left-hand side only",
+      "latin_name": "Aula Dominae Margaretae",
+      "founded": "1878",
+      "sister_college_cambridge": "Newnham College",
+      "head_of_house": "Christine Gerrard",
+      "undergraduates": 405,
+      "postgraduates": 212,
+      "total_students": 641
+    },
+    {
+      "college": "Linacre College Scarf colours: two equally-spaced thin yellow stripes separating the outer two-thirds of black and the central third of grey",
+      "latin_name": "Collegium de Linacre",
+      "founded": "1962",
+      "sister_college_cambridge": "Hughes Hall",
+      "head_of_house": "Nick Brown",
+      "undergraduates": 0,
+      "postgraduates": 587,
+      "total_students": 587
+    },
+    {
+      "college": "Lincoln College Scarf colours: dark blue, with two pairs of sky-blue tramline stripes one quarter of a scarf-width in from either edge",
+      "latin_name": "Collegio Lincolnensi, Collegium Lincolniense",
+      "founded": "1427",
+      "sister_college_cambridge": "Downing College",
+      "head_of_house": "Nigel Clifford",
+      "undergraduates": 312,
+      "postgraduates": 302,
+      "total_students": 617
+    },
+    {
+      "college": "Magdalen College Scarf colours: black, with two equally-spaced wide bands of white",
+      "latin_name": "Collegium Beatae Mariae Magdalenae",
+      "founded": "1458",
+      "sister_college_cambridge": "Magdalene College",
+      "head_of_house": "Dinah Rose",
+      "undergraduates": 405,
+      "postgraduates": 205,
+      "total_students": 620
+    },
+    {
+      "college": "Mansfield College Scarf colours: navy, with two equally-spaced pairs of thin tramline stripes, the left pinstripes in each pair of yellow and the right of red",
+      "latin_name": "Collegium de Mansfield",
+      "founded": "1886 College: 1995",
+      "sister_college_cambridge": "Homerton College",
+      "head_of_house": "Helen Mountfield",
+      "undergraduates": 239,
+      "postgraduates": 173,
+      "total_students": 452
+    },
+    {
+      "college": "Merton College Scarf colours: purple, with two narrow white stripes a quarter of a scarf-width in from either edge",
+      "latin_name": "Collegium de Merton, Domus sive collegium scholarium de Merton in universitate Oxon",
+      "founded": "1264",
+      "sister_college_cambridge": "Peterhouse",
+      "head_of_house": "Jennifer Payne",
+      "undergraduates": 314,
+      "postgraduates": 188,
+      "total_students": 502
+    },
+    {
+      "college": "New College Scarf colours: brown, with two equally-spaced narrow white stripes",
+      "latin_name": "Collegium Beatae Mariae Wynton in Oxon, Collegium Novum",
+      "founded": "1379",
+      "sister_college_cambridge": "King's College",
+      "head_of_house": "Miles Young",
+      "undergraduates": 418,
+      "postgraduates": 295,
+      "total_students": 723
+    },
+    {
+      "college": "Nuffield College Scarf colours: black, with two equally-spaced stripes of dark-red edged with yellow",
+      "latin_name": "Collegium de Nuffield, Collegium Nuffield",
+      "founded": "1937",
+      "sister_college_cambridge": "None",
+      "head_of_house": "Dame Julia Black",
+      "undergraduates": 0,
+      "postgraduates": 95,
+      "total_students": 95
+    },
+    {
+      "college": "Oriel College Scarf colours: dark blue, with two equally-spaced pairs of narrow white tramlines",
+      "latin_name": "Collegium Orielense",
+      "founded": "1326",
+      "sister_college_cambridge": "Clare College",
+      "head_of_house": "The Lord Mendoza",
+      "undergraduates": 323,
+      "postgraduates": 200,
+      "total_students": 528
+    },
+    {
+      "college": "Pembroke College Scarf colours: navy, with two equally-spaced stripes of grey edged with pearl-pink",
+      "latin_name": "Collegium Pembrochiae, Collegium Pembrochianum",
+      "founded": "1624",
+      "sister_college_cambridge": "Queens' College",
+      "head_of_house": "Sir Ernest Ryder",
+      "undergraduates": 390,
+      "postgraduates": 250,
+      "total_students": 670
+    },
+    {
+      "college": "The Queen's College Scarf colours: navy, with a wide band of white through the centre, and a white pinstripe through each of the two remaining navy areas",
+      "latin_name": "Collegium Reginae",
+      "founded": "1341",
+      "sister_college_cambridge": "Pembroke College",
+      "head_of_house": "Paul Johnson",
+      "undergraduates": 336,
+      "postgraduates": 177,
+      "total_students": 514
+    },
+    {
+      "college": "Reuben College",
+      "latin_name": "Collegium de Reuben",
+      "founded": "2019 Renamed: 2020",
+      "sister_college_cambridge": "None",
+      "head_of_house": "Lord Tarassenko",
+      "undergraduates": 0,
+      "postgraduates": 330,
+      "total_students": 330
+    },
+    {
+      "college": "St Anne's College Scarf colours: navy, with two equally-spaced stripes of red edged with grey",
+      "latin_name": "Collegium Sanctae Annae",
+      "founded": "1879 College: 1952",
+      "sister_college_cambridge": "Murray Edwards College",
+      "head_of_house": "Helen King",
+      "undergraduates": 439,
+      "postgraduates": 352,
+      "total_students": 828
+    },
+    {
+      "college": "St Antony's College Scarf colours: navy, with two equally-spaced wide bands of yellow, and a thin red stripe through each yellow band",
+      "latin_name": "Collegium Sancti Antonii",
+      "founded": "1950 College: 1963",
+      "sister_college_cambridge": "Wolfson College",
+      "head_of_house": "Roger Goodman",
+      "undergraduates": 0,
+      "postgraduates": 443,
+      "total_students": 443
+    },
+    {
+      "college": "St Catherine's College Scarf colours: maroon, with two equally-spaced narrow stripes of purple edged with sky-blue",
+      "latin_name": "Collegium Sanctae Catherinae",
+      "founded": "1868 College: 1962",
+      "sister_college_cambridge": "Robinson College",
+      "head_of_house": "Jude Kelly",
+      "undergraduates": 505,
+      "postgraduates": 428,
+      "total_students": 983
+    },
+    {
+      "college": "St Cross College Scarf colours: navy, with two narrow double-stripes a quarter of a scarf-width in from either edge, the left of each double-stripe of white and the right of purple",
+      "latin_name": "Collegium Sanctae Crucis",
+      "founded": "1965",
+      "sister_college_cambridge": "Clare Hall",
+      "head_of_house": "Kate Mavor",
+      "undergraduates": 0,
+      "postgraduates": 545,
+      "total_students": 545
+    },
+    {
+      "college": "St Edmund Hall Scarf colours: maroon, with two equally-spaced mustard pinstripes",
+      "latin_name": "Aula Sancti Edmundi",
+      "founded": "1278 College: 1957",
+      "sister_college_cambridge": "Fitzwilliam College",
+      "head_of_house": "Katherine Willis, Baroness Willis of Summertown",
+      "undergraduates": 396,
+      "postgraduates": 296,
+      "total_students": 732
+    },
+    {
+      "college": "St Hilda's College Scarf colours: navy, with three equally-spaced stripes of white",
+      "latin_name": "Collegium Sanctae Hildae",
+      "founded": "1893",
+      "sister_college_cambridge": "None",
+      "head_of_house": "Sarah Springman",
+      "undergraduates": 399,
+      "postgraduates": 183,
+      "total_students": 582
+    },
+    {
+      "college": "St Hugh's College Scarf colours: Two narrow double-stripes a fifth of a scarf-width in from either edge, the left of each double-stripe of white and the right of yellow, with the background areas to the left of each double-stripe of blue, and to the right of black, such that a black and a blue area meet in the centre of the scarf.",
+      "latin_name": "Collegium Sancti Hugonis",
+      "founded": "1886",
+      "sister_college_cambridge": "Clare College",
+      "head_of_house": "Michele Acton",
+      "undergraduates": 425,
+      "postgraduates": 366,
+      "total_students": 792
+    },
+    {
+      "college": "St John's College Scarf colours: black, with three equally-spaced thin stripes, the central stripe of red and the outer stripes of yellow",
+      "latin_name": "Collegium Divi Joannis Baptistae, Collegium Sancti Johannis Baptistae",
+      "founded": "1555",
+      "sister_college_cambridge": "Sidney Sussex College",
+      "head_of_house": "Sue Black, Baroness Black of Strome",
+      "undergraduates": 425,
+      "postgraduates": 250,
+      "total_students": 680
+    },
+    {
+      "college": "St Peter's College Scarf colours: green, with two narrow yellow stripes a quarter of a scarf-width in from either edge",
+      "latin_name": "Collegium Sancti Petri, Collegium Sancti Petri Juxta Ballium",
+      "founded": "1929 College: 1961",
+      "sister_college_cambridge": "None",
+      "head_of_house": "Judith Buchanan",
+      "undergraduates": 356,
+      "postgraduates": 215,
+      "total_students": 592
+    },
+    {
+      "college": "Somerville College Scarf colours: red, with two equally-spaced narrow black stripes",
+      "latin_name": "Collegium de Somerville",
+      "founded": "1879",
+      "sister_college_cambridge": "Girton College",
+      "head_of_house": "Catherine Royle",
+      "undergraduates": 425,
+      "postgraduates": 209,
+      "total_students": 634
+    },
+    {
+      "college": "Trinity College Scarf colours: navy, with two narrow white stripes a quarter of a scarf-width in from either edge",
+      "latin_name": "Collegium Sacrosanctae Trinitatis, Collegium Sanctae et Individuae Trinitatis in Universitate Oxon. ex Fundatione Thomae Pope Militis",
+      "founded": "1555",
+      "sister_college_cambridge": "Churchill College",
+      "head_of_house": "Sir Robert Chote",
+      "undergraduates": 299,
+      "postgraduates": 135,
+      "total_students": 434
+    },
+    {
+      "college": "University College Scarf colours: navy, with two narrow yellow stripes a quarter of a scarf-width in from either edge",
+      "latin_name": "Collegium Magnae Aulae Universitatis",
+      "founded": "1249",
+      "sister_college_cambridge": "Trinity Hall",
+      "head_of_house": "Valerie Amos, Baroness Amos",
+      "undergraduates": 394,
+      "postgraduates": 224,
+      "total_students": 618
+    },
+    {
+      "college": "Wadham College Scarf colours: black, with two grey-blue stripes a quarter of a scarf-width in from either edge, each stripe edged with a yellow pinstripe on the right-hand side only",
+      "latin_name": "Collegiun de Wadham, Collegium Wadhami",
+      "founded": "1610",
+      "sister_college_cambridge": "Christ's College",
+      "head_of_house": "Robert Hannigan",
+      "undergraduates": 466,
+      "postgraduates": 208,
+      "total_students": 704
+    },
+    {
+      "college": "Wolfson College Scarf colours: navy, with two equally-spaced stripes of red edged with yellow",
+      "latin_name": "Collegium de Wolfson",
+      "founded": "1966 College: 1981",
+      "sister_college_cambridge": "Darwin College",
+      "head_of_house": "Sir Tim Hitchens",
+      "undergraduates": 0,
+      "postgraduates": 581,
+      "total_students": 581
+    },
+    {
+      "college": "Worcester College Scarf colours: black, with two equally-spaced pearl-pink stripes",
+      "latin_name": "Collegium Vigorniense",
+      "founded": "1714",
+      "sister_college_cambridge": "St Catharine's College",
+      "head_of_house": "David Isaac, CBE",
+      "undergraduates": 438,
+      "postgraduates": 179,
+      "total_students": 647
+    },
+    {
+      "college": "Total",
+      "latin_name": "",
+      "founded": "",
+      "sister_college_cambridge": "",
+      "head_of_house": "",
+      "undergraduates": 12375,
+      "postgraduates": 13650,
+      "total_students": 26595
+    }
+  ],
+  "meta": {
+    "title": "Colleges of the University of Oxford - Free Download",
+    "description": "The constituent colleges of the University of Oxford with Latin name, year of foundation, Cambridge sister college, head of house and student numbers Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Colleges of the University of Oxford | ListBase",
+    "seo_description": "Download Colleges of the University of Oxford — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/Colleges_of_the_University_of_Oxford"
+    ]
+  }
+}

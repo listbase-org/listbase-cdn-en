@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-30T02:20:54.775Z",
-  "total_datasets": 5994,
-  "total_records": 2717967,
+  "generated": "2026-10-30T02:21:06.791Z",
+  "total_datasets": 5995,
+  "total_records": 2718007,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "entertainment",
@@ -8332,6 +8332,35 @@
         "xlsx": {
           "name": "en-group-of-eight-universities-australia_EN.xlsx",
           "size": 7591
+        }
+      }
+    },
+    {
+      "id": "en-oxford-colleges",
+      "name": "Colleges of the University of Oxford",
+      "category": "education",
+      "record_count": 40,
+      "columns": [
+        "college",
+        "latin_name",
+        "founded",
+        "sister_college_cambridge",
+        "head_of_house",
+        "undergraduates",
+        "postgraduates",
+        "total_students"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Colleges_of_the_University_of_Oxford",
+      "updated": "2026-10",
+      "size": 19102,
+      "files": {
+        "csv": {
+          "name": "en-oxford-colleges_EN.csv",
+          "size": 9290
+        },
+        "xlsx": {
+          "name": "en-oxford-colleges_EN.xlsx",
+          "size": 11038
         }
       }
     },
