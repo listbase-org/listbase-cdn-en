@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-30T02:21:30.270Z",
-  "total_datasets": 5997,
-  "total_records": 2718136,
+  "generated": "2026-10-30T02:21:40.736Z",
+  "total_datasets": 5998,
+  "total_records": 2718220,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "transport",
@@ -154950,6 +154950,35 @@
         "xlsx": {
           "name": "chicago-airbnb-listings_EN.xlsx",
           "size": 75728
+        }
+      }
+    },
+    {
+      "id": "en-england-lighthouses",
+      "name": "Active Lighthouses in England",
+      "category": "tourism",
+      "record_count": 84,
+      "columns": [
+        "name",
+        "location",
+        "county",
+        "year_built",
+        "tower_height",
+        "focal_height",
+        "range",
+        "operator"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_lighthouses_in_England",
+      "updated": "2026-10",
+      "size": 27244,
+      "files": {
+        "csv": {
+          "name": "en-england-lighthouses_EN.csv",
+          "size": 11702
+        },
+        "xlsx": {
+          "name": "en-england-lighthouses_EN.xlsx",
+          "size": 12234
         }
       }
     },
