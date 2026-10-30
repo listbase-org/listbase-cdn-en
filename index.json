@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-30T02:21:06.791Z",
-  "total_datasets": 5995,
-  "total_records": 2718007,
+  "generated": "2026-10-30T02:21:19.882Z",
+  "total_datasets": 5996,
+  "total_records": 2718101,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "math",
@@ -109751,6 +109751,35 @@
         "xlsx": {
           "name": "ca-supreme-court-justices_EN.xlsx",
           "size": 13554
+        }
+      }
+    },
+    {
+      "id": "en-us-district-courts",
+      "name": "United States District and Territorial Courts",
+      "category": "law",
+      "record_count": 94,
+      "columns": [
+        "court",
+        "citation",
+        "court_of_appeals_circuit",
+        "established",
+        "judges",
+        "meeting_places",
+        "counties",
+        "chief_judge"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_United_States_district_and_territorial_courts",
+      "updated": "2026-10",
+      "size": 27433,
+      "files": {
+        "csv": {
+          "name": "en-us-district-courts_EN.csv",
+          "size": 8343
+        },
+        "xlsx": {
+          "name": "en-us-district-courts_EN.xlsx",
+          "size": 12596
         }
       }
     },
