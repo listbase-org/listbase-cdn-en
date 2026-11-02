@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-02T02:29:50.074Z",
-  "total_datasets": 6002,
-  "total_records": 2718743,
+  "generated": "2026-11-02T02:29:59.765Z",
+  "total_datasets": 6003,
+  "total_records": 2718780,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "transport",
@@ -155084,6 +155084,29 @@
         "xlsx": {
           "name": "en-england-lighthouses_EN.xlsx",
           "size": 12234
+        }
+      }
+    },
+    {
+      "id": "en-uk-amusement-theme-parks",
+      "name": "Amusement and Theme Parks in the United Kingdom",
+      "category": "tourism",
+      "record_count": 37,
+      "columns": [
+        "park",
+        "status"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_amusement_parks_in_the_United_Kingdom",
+      "updated": "2026-11",
+      "size": 4646,
+      "files": {
+        "csv": {
+          "name": "en-uk-amusement-theme-parks_EN.csv",
+          "size": 1429
+        },
+        "xlsx": {
+          "name": "en-uk-amusement-theme-parks_EN.xlsx",
+          "size": 7640
         }
       }
     },
