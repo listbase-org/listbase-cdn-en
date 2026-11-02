@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-02T02:29:59.765Z",
-  "total_datasets": 6003,
-  "total_records": 2718780,
+  "generated": "2026-11-02T02:30:10.482Z",
+  "total_datasets": 6004,
+  "total_records": 2718837,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -143561,6 +143561,38 @@
         "xlsx": {
           "name": "en-us-states-incarceration-rate_EN.xlsx",
           "size": 9823
+        }
+      }
+    },
+    {
+      "id": "en-us-states-life-expectancy-1940-2019",
+      "name": "U.S. States by Life Expectancy at Birth (1940–2019)",
+      "category": "society",
+      "record_count": 57,
+      "columns": [
+        "state_or_territory",
+        "life_expectancy_2019",
+        "life_expectancy_2010",
+        "life_expectancy_2000",
+        "life_expectancy_1990",
+        "life_expectancy_1980",
+        "life_expectancy_1970",
+        "life_expectancy_1960",
+        "life_expectancy_1950",
+        "life_expectancy_1940",
+        "change_1940_2019"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_life_expectancy",
+      "updated": "2026-11",
+      "size": 25874,
+      "files": {
+        "csv": {
+          "name": "en-us-states-life-expectancy-1940-2019_EN.csv",
+          "size": 4802
+        },
+        "xlsx": {
+          "name": "en-us-states-life-expectancy-1940-2019_EN.xlsx",
+          "size": 10355
         }
       }
     },
