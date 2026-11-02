@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-10-30T02:21:50.639Z",
-  "total_datasets": 5999,
-  "total_records": 2718492,
+  "generated": "2026-11-02T02:29:30.347Z",
+  "total_datasets": 6000,
+  "total_records": 2718503,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tourism",
@@ -154691,6 +154691,32 @@
         "xlsx": {
           "name": "country-holidays-summary_EN.xlsx",
           "size": 15719
+        }
+      }
+    },
+    {
+      "id": "en-australia-time-zones",
+      "name": "Time Zones of Australia",
+      "category": "time",
+      "record_count": 11,
+      "columns": [
+        "zone",
+        "standard_offset",
+        "dst_offset",
+        "observes_dst",
+        "states_territories"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Time_in_Australia",
+      "updated": "2026-11",
+      "size": 3643,
+      "files": {
+        "csv": {
+          "name": "en-australia-time-zones_EN.csv",
+          "size": 665
+        },
+        "xlsx": {
+          "name": "en-australia-time-zones_EN.xlsx",
+          "size": 7224
         }
       }
     },

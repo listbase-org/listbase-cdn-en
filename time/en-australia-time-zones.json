@@ -1,0 +1,128 @@
+{
+  "id": "en-australia-time-zones",
+  "name": "Time Zones of Australia",
+  "title": "Time Zones of Australia",
+  "description": "Australian time zones with standard UTC offsets, daylight saving offsets and the states, territories and external territories that use each zone.",
+  "category": "time",
+  "source": "https://en.wikipedia.org/wiki/Time_in_Australia",
+  "source_url": "https://en.wikipedia.org/wiki/Time_in_Australia",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "zone",
+      "label": "Zone",
+      "type": "string"
+    },
+    {
+      "key": "standard_offset",
+      "label": "Standard Offset",
+      "type": "string"
+    },
+    {
+      "key": "dst_offset",
+      "label": "Dst Offset",
+      "type": "string"
+    },
+    {
+      "key": "observes_dst",
+      "label": "Observes Dst",
+      "type": "string"
+    },
+    {
+      "key": "states_territories",
+      "label": "States Territories",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone": "",
+      "standard_offset": "UTC+05:00",
+      "dst_offset": "UTC+05:00",
+      "observes_dst": "no",
+      "states_territories": "HM"
+    },
+    {
+      "zone": "Cocos",
+      "standard_offset": "UTC+06:30",
+      "dst_offset": "UTC+06:30",
+      "observes_dst": "no",
+      "states_territories": "CC"
+    },
+    {
+      "zone": "Christmas",
+      "standard_offset": "UTC+07:00",
+      "dst_offset": "UTC+07:00",
+      "observes_dst": "no",
+      "states_territories": "CX"
+    },
+    {
+      "zone": "Western",
+      "standard_offset": "UTC+08:00",
+      "dst_offset": "UTC+08:00",
+      "observes_dst": "no",
+      "states_territories": "WA"
+    },
+    {
+      "zone": "Central Western",
+      "standard_offset": "UTC+08:45",
+      "dst_offset": "UTC+08:45",
+      "observes_dst": "no",
+      "states_territories": "(South-eastern WA & Border Village, SA)"
+    },
+    {
+      "zone": "Central",
+      "standard_offset": "UTC+09:30",
+      "dst_offset": "UTC+09:30",
+      "observes_dst": "no",
+      "states_territories": "NT"
+    },
+    {
+      "zone": "Central",
+      "standard_offset": "UTC+09:30",
+      "dst_offset": "UTC+10:30",
+      "observes_dst": "yes",
+      "states_territories": "SA, Broken Hill"
+    },
+    {
+      "zone": "Eastern",
+      "standard_offset": "UTC+10:00",
+      "dst_offset": "UTC+10:00",
+      "observes_dst": "no",
+      "states_territories": "QLD"
+    },
+    {
+      "zone": "Eastern",
+      "standard_offset": "UTC+10:00",
+      "dst_offset": "UTC+11:00",
+      "observes_dst": "yes",
+      "states_territories": "NSW, TAS, VIC, ACT, JBT"
+    },
+    {
+      "zone": "Lord Howe",
+      "standard_offset": "UTC+10:30",
+      "dst_offset": "UTC+11:00",
+      "observes_dst": "yes",
+      "states_territories": "Lord Howe Island"
+    },
+    {
+      "zone": "Norfolk",
+      "standard_offset": "UTC+11:00",
+      "dst_offset": "UTC+12:00",
+      "observes_dst": "yes",
+      "states_territories": "Norfolk Island"
+    }
+  ],
+  "meta": {
+    "title": "Time Zones of Australia - Free Download",
+    "description": "Australian time zones with standard UTC offsets, daylight saving offsets and the states, territories and external territories that use each zone. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Time Zones of Australia | ListBase",
+    "seo_description": "Download Time Zones of Australia — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/Time_in_Australia"
+    ]
+  }
+}
