@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-02T02:29:40.768Z",
-  "total_datasets": 6001,
-  "total_records": 2718632,
+  "generated": "2026-11-02T02:29:50.074Z",
+  "total_datasets": 6002,
+  "total_records": 2718743,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "math",
@@ -109804,6 +109804,32 @@
         "xlsx": {
           "name": "ca-supreme-court-justices_EN.xlsx",
           "size": 13554
+        }
+      }
+    },
+    {
+      "id": "en-lord-chief-justices-england-wales",
+      "name": "Lord Chief Justices of England and Wales",
+      "category": "law",
+      "record_count": 111,
+      "columns": [
+        "lord_chief_justice",
+        "from",
+        "until",
+        "died_in_office",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Lord_Chief_Justice_of_England_and_Wales",
+      "updated": "2026-11",
+      "size": 24592,
+      "files": {
+        "csv": {
+          "name": "en-lord-chief-justices-england-wales_EN.csv",
+          "size": 10261
+        },
+        "xlsx": {
+          "name": "en-lord-chief-justices-england-wales_EN.xlsx",
+          "size": 12303
         }
       }
     },
