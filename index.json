@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-02T02:29:30.347Z",
-  "total_datasets": 6000,
-  "total_records": 2718503,
+  "generated": "2026-11-02T02:29:40.768Z",
+  "total_datasets": 6001,
+  "total_records": 2718632,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "language",
@@ -108377,6 +108377,34 @@
         "xlsx": {
           "name": "en-american-revolutionary-war-battles_EN.xlsx",
           "size": 18026
+        }
+      }
+    },
+    {
+      "id": "en-castles-in-wales",
+      "name": "Castles in Wales",
+      "category": "history",
+      "record_count": 129,
+      "columns": [
+        "name",
+        "principal_area",
+        "type",
+        "date",
+        "condition",
+        "ownership_access",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_castles_in_Wales",
+      "updated": "2026-11",
+      "size": 33877,
+      "files": {
+        "csv": {
+          "name": "en-castles-in-wales_EN.csv",
+          "size": 13428
+        },
+        "xlsx": {
+          "name": "en-castles-in-wales_EN.xlsx",
+          "size": 13757
         }
       }
     },
