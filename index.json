@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-03T02:33:03.953Z",
-  "total_datasets": 6005,
-  "total_records": 2718854,
+  "generated": "2026-11-03T02:33:12.943Z",
+  "total_datasets": 6006,
+  "total_records": 2718982,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "language",
@@ -108405,6 +108405,33 @@
         "xlsx": {
           "name": "en-castles-in-wales_EN.xlsx",
           "size": 13757
+        }
+      }
+    },
+    {
+      "id": "en-monarchs-in-britain-by-length-of-reign",
+      "name": "Monarchs in Britain by Length of Reign",
+      "category": "history",
+      "record_count": 128,
+      "columns": [
+        "monarch",
+        "realm",
+        "reign_from",
+        "reign_to",
+        "duration_days",
+        "duration_years_days"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_monarchs_in_Britain_by_length_of_reign",
+      "updated": "2026-11",
+      "size": 30863,
+      "files": {
+        "csv": {
+          "name": "en-monarchs-in-britain-by-length-of-reign_EN.csv",
+          "size": 11264
+        },
+        "xlsx": {
+          "name": "en-monarchs-in-britain-by-length-of-reign_EN.xlsx",
+          "size": 13389
         }
       }
     },
