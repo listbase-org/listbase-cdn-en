@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-03T02:33:42.899Z",
-  "total_datasets": 6009,
-  "total_records": 2719272,
+  "generated": "2026-11-03T02:33:52.823Z",
+  "total_datasets": 6010,
+  "total_records": 2719323,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 26
+      "dataset_count": 27
     },
     {
       "id": "education",
@@ -7796,6 +7796,36 @@
         "xlsx": {
           "name": "cpi-by-country-annual_EN.xlsx",
           "size": 165903
+        }
+      }
+    },
+    {
+      "id": "en-us-states-minimum-wage-2019-2026",
+      "name": "U.S. State Minimum Wages 2019–2026",
+      "category": "economy",
+      "record_count": 51,
+      "columns": [
+        "state",
+        "min_wage_2019",
+        "min_wage_2020",
+        "min_wage_2021",
+        "min_wage_2022",
+        "min_wage_2023",
+        "min_wage_2024",
+        "min_wage_2025",
+        "min_wage_2026"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_by_minimum_wage",
+      "updated": "2026-11",
+      "size": 16843,
+      "files": {
+        "csv": {
+          "name": "en-us-states-minimum-wage-2019-2026_EN.csv",
+          "size": 4327
+        },
+        "xlsx": {
+          "name": "en-us-states-minimum-wage-2019-2026_EN.xlsx",
+          "size": 9539
         }
       }
     },
