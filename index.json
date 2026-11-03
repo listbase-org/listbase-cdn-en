@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-02T02:30:10.482Z",
-  "total_datasets": 6004,
-  "total_records": 2718837,
+  "generated": "2026-11-03T02:33:03.953Z",
+  "total_datasets": 6005,
+  "total_records": 2718854,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tourism",
@@ -154803,6 +154803,41 @@
         "xlsx": {
           "name": "en-australia-time-zones_EN.xlsx",
           "size": 7224
+        }
+      }
+    },
+    {
+      "id": "en-canada-holidays-by-province",
+      "name": "Statutory Holidays in Canada by Province and Territory",
+      "category": "time",
+      "record_count": 17,
+      "columns": [
+        "date",
+        "ab",
+        "bc",
+        "mb",
+        "nb",
+        "nl",
+        "nt",
+        "ns",
+        "nu",
+        "on",
+        "pe",
+        "qc",
+        "sk",
+        "yt"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Public_holidays_in_Canada",
+      "updated": "2026-11",
+      "size": 8504,
+      "files": {
+        "csv": {
+          "name": "en-canada-holidays-by-province_EN.csv",
+          "size": 2769
+        },
+        "xlsx": {
+          "name": "en-canada-holidays-by-province_EN.xlsx",
+          "size": 7951
         }
       }
     },
