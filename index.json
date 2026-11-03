@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-03T02:33:32.951Z",
-  "total_datasets": 6008,
-  "total_records": 2719219,
+  "generated": "2026-11-03T02:33:42.899Z",
+  "total_datasets": 6009,
+  "total_records": 2719272,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "entertainment",
@@ -8447,6 +8447,35 @@
         "xlsx": {
           "name": "en-us-hbcus_EN.xlsx",
           "size": 17972
+        }
+      }
+    },
+    {
+      "id": "en-us-states-educational-attainment",
+      "name": "U.S. States by Educational Attainment",
+      "category": "education",
+      "record_count": 53,
+      "columns": [
+        "state",
+        "population_25_plus",
+        "high_school_or_higher",
+        "high_school_or_higher_pct",
+        "bachelors_or_higher",
+        "bachelors_or_higher_pct",
+        "advanced_degree",
+        "advanced_degree_pct"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment",
+      "updated": "2026-11",
+      "size": 18468,
+      "files": {
+        "csv": {
+          "name": "en-us-states-educational-attainment_EN.csv",
+          "size": 4079
+        },
+        "xlsx": {
+          "name": "en-us-states-educational-attainment_EN.xlsx",
+          "size": 10226
         }
       }
     },

@@ -1,0 +1,596 @@
+{
+  "id": "en-us-states-educational-attainment",
+  "name": "U.S. States by Educational Attainment",
+  "title": "U.S. States by Educational Attainment",
+  "description": "Population aged 25+ in each U.S. state with a high school diploma, bachelor's degree and advanced degree (counts and percentages), from the American Community Survey.",
+  "category": "education",
+  "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment",
+  "updated": "2026-11",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "population_25_plus",
+      "label": "Population 25 Plus",
+      "type": "number"
+    },
+    {
+      "key": "high_school_or_higher",
+      "label": "High School Or Higher",
+      "type": "number"
+    },
+    {
+      "key": "high_school_or_higher_pct",
+      "label": "High School Or Higher Pct",
+      "type": "number"
+    },
+    {
+      "key": "bachelors_or_higher",
+      "label": "Bachelors Or Higher",
+      "type": "number"
+    },
+    {
+      "key": "bachelors_or_higher_pct",
+      "label": "Bachelors Or Higher Pct",
+      "type": "number"
+    },
+    {
+      "key": "advanced_degree",
+      "label": "Advanced Degree",
+      "type": "number"
+    },
+    {
+      "key": "advanced_degree_pct",
+      "label": "Advanced Degree Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Alabama",
+      "population_25_plus": 3451208,
+      "high_school_or_higher": 3034741,
+      "high_school_or_higher_pct": 87.93,
+      "bachelors_or_higher": 946766,
+      "bachelors_or_higher_pct": 27.43,
+      "advanced_degree": 374490,
+      "advanced_degree_pct": 10.85
+    },
+    {
+      "state": "Alaska",
+      "population_25_plus": 485779,
+      "high_school_or_higher": 453289,
+      "high_school_or_higher_pct": 93.31,
+      "bachelors_or_higher": 159290,
+      "bachelors_or_higher_pct": 32.79,
+      "advanced_degree": 57868,
+      "advanced_degree_pct": 11.91
+    },
+    {
+      "state": "Arizona",
+      "population_25_plus": 4980297,
+      "high_school_or_higher": 4430934,
+      "high_school_or_higher_pct": 88.97,
+      "bachelors_or_higher": 1615081,
+      "bachelors_or_higher_pct": 32.43,
+      "advanced_degree": 629408,
+      "advanced_degree_pct": 12.64
+    },
+    {
+      "state": "Arkansas",
+      "population_25_plus": 2037763,
+      "high_school_or_higher": 1806873,
+      "high_school_or_higher_pct": 88.67,
+      "bachelors_or_higher": 515034,
+      "bachelors_or_higher_pct": 25.27,
+      "advanced_degree": 190897,
+      "advanced_degree_pct": 9.37
+    },
+    {
+      "state": "California",
+      "population_25_plus": 26909869,
+      "high_school_or_higher": 22724990,
+      "high_school_or_higher_pct": 84.45,
+      "bachelors_or_higher": 9737817,
+      "bachelors_or_higher_pct": 36.19,
+      "advanced_degree": 3779787,
+      "advanced_degree_pct": 14.05
+    },
+    {
+      "state": "Colorado",
+      "population_25_plus": 4044182,
+      "high_school_or_higher": 3738208,
+      "high_school_or_higher_pct": 92.43,
+      "bachelors_or_higher": 1796240,
+      "bachelors_or_higher_pct": 44.42,
+      "advanced_degree": 688931,
+      "advanced_degree_pct": 17.04
+    },
+    {
+      "state": "Connecticut",
+      "population_25_plus": 2534376,
+      "high_school_or_higher": 2309185,
+      "high_school_or_higher_pct": 91.11,
+      "bachelors_or_higher": 1067671,
+      "bachelors_or_higher_pct": 42.13,
+      "advanced_degree": 479981,
+      "advanced_degree_pct": 18.94
+    },
+    {
+      "state": "Delaware",
+      "population_25_plus": 711104,
+      "high_school_or_higher": 649638,
+      "high_school_or_higher_pct": 91.36,
+      "bachelors_or_higher": 253292,
+      "bachelors_or_higher_pct": 35.62,
+      "advanced_degree": 106997,
+      "advanced_degree_pct": 15.05
+    },
+    {
+      "state": "District of Columbia",
+      "population_25_plus": 478774,
+      "high_school_or_higher": 444233,
+      "high_school_or_higher_pct": 92.79,
+      "bachelors_or_higher": 301852,
+      "bachelors_or_higher_pct": 63.05,
+      "advanced_degree": 181081,
+      "advanced_degree_pct": 37.82
+    },
+    {
+      "state": "Florida",
+      "population_25_plus": 15762122,
+      "high_school_or_higher": 14153579,
+      "high_school_or_higher_pct": 89.79,
+      "bachelors_or_higher": 5226846,
+      "bachelors_or_higher_pct": 33.16,
+      "advanced_degree": 1978625,
+      "advanced_degree_pct": 12.55
+    },
+    {
+      "state": "Georgia",
+      "population_25_plus": 7234271,
+      "high_school_or_higher": 6436394,
+      "high_school_or_higher_pct": 88.97,
+      "bachelors_or_higher": 2505076,
+      "bachelors_or_higher_pct": 34.63,
+      "advanced_degree": 991062,
+      "advanced_degree_pct": 13.7
+    },
+    {
+      "state": "Hawaii",
+      "population_25_plus": 1021687,
+      "high_school_or_higher": 949476,
+      "high_school_or_higher_pct": 92.93,
+      "bachelors_or_higher": 360681,
+      "bachelors_or_higher_pct": 35.3,
+      "advanced_degree": 133832,
+      "advanced_degree_pct": 13.1
+    },
+    {
+      "state": "Idaho",
+      "population_25_plus": 1257566,
+      "high_school_or_higher": 1147653,
+      "high_school_or_higher_pct": 91.26,
+      "bachelors_or_higher": 386264,
+      "bachelors_or_higher_pct": 30.72,
+      "advanced_degree": 132502,
+      "advanced_degree_pct": 10.54
+    },
+    {
+      "state": "Illinois",
+      "population_25_plus": 8730697,
+      "high_school_or_higher": 7872693,
+      "high_school_or_higher_pct": 90.17,
+      "bachelors_or_higher": 3242579,
+      "bachelors_or_higher_pct": 37.14,
+      "advanced_degree": 1310297,
+      "advanced_degree_pct": 15.01
+    },
+    {
+      "state": "Indiana",
+      "population_25_plus": 4559631,
+      "high_school_or_higher": 4132897,
+      "high_school_or_higher_pct": 90.64,
+      "bachelors_or_higher": 1316787,
+      "bachelors_or_higher_pct": 28.88,
+      "advanced_degree": 473718,
+      "advanced_degree_pct": 10.39
+    },
+    {
+      "state": "Iowa",
+      "population_25_plus": 2137261,
+      "high_school_or_higher": 1994595,
+      "high_school_or_higher_pct": 93.32,
+      "bachelors_or_higher": 652742,
+      "bachelors_or_higher_pct": 30.54,
+      "advanced_degree": 210864,
+      "advanced_degree_pct": 9.87
+    },
+    {
+      "state": "Kansas",
+      "population_25_plus": 1942133,
+      "high_school_or_higher": 1784711,
+      "high_school_or_higher_pct": 91.89,
+      "bachelors_or_higher": 687452,
+      "bachelors_or_higher_pct": 35.4,
+      "advanced_degree": 259988,
+      "advanced_degree_pct": 13.39
+    },
+    {
+      "state": "Kentucky",
+      "population_25_plus": 3077867,
+      "high_school_or_higher": 2708147,
+      "high_school_or_higher_pct": 87.99,
+      "bachelors_or_higher": 830414,
+      "bachelors_or_higher_pct": 26.98,
+      "advanced_degree": 341868,
+      "advanced_degree_pct": 11.11
+    },
+    {
+      "state": "Louisiana",
+      "population_25_plus": 3117186,
+      "high_school_or_higher": 2701889,
+      "high_school_or_higher_pct": 86.68,
+      "bachelors_or_higher": 824369,
+      "bachelors_or_higher_pct": 26.45,
+      "advanced_degree": 300894,
+      "advanced_degree_pct": 9.65
+    },
+    {
+      "state": "Maine",
+      "population_25_plus": 1015078,
+      "high_school_or_higher": 959533,
+      "high_school_or_higher_pct": 94.53,
+      "bachelors_or_higher": 365305,
+      "bachelors_or_higher_pct": 35.99,
+      "advanced_degree": 140318,
+      "advanced_degree_pct": 13.82
+    },
+    {
+      "state": "Maryland",
+      "population_25_plus": 4273260,
+      "high_school_or_higher": 3892442,
+      "high_school_or_higher_pct": 91.09,
+      "bachelors_or_higher": 1818202,
+      "bachelors_or_higher_pct": 48.55,
+      "advanced_degree": 861669,
+      "advanced_degree_pct": 24.16
+    },
+    {
+      "state": "Massachusetts",
+      "population_25_plus": 4934755,
+      "high_school_or_higher": 4495563,
+      "high_school_or_higher_pct": 96.1,
+      "bachelors_or_higher": 2300423,
+      "bachelors_or_higher_pct": 50.62,
+      "advanced_degree": 1049675,
+      "advanced_degree_pct": 28.27
+    },
+    {
+      "state": "Michigan",
+      "population_25_plus": 6971895,
+      "high_school_or_higher": 6411597,
+      "high_school_or_higher_pct": 91.96,
+      "bachelors_or_higher": 2208170,
+      "bachelors_or_higher_pct": 31.67,
+      "advanced_degree": 870008,
+      "advanced_degree_pct": 12.48
+    },
+    {
+      "state": "Minnesota",
+      "population_25_plus": 3898742,
+      "high_school_or_higher": 3669895,
+      "high_school_or_higher_pct": 94.13,
+      "bachelors_or_higher": 1516426,
+      "bachelors_or_higher_pct": 38.9,
+      "advanced_degree": 522543,
+      "advanced_degree_pct": 13.4
+    },
+    {
+      "state": "Mississippi",
+      "population_25_plus": 1968167,
+      "high_school_or_higher": 1702178,
+      "high_school_or_higher_pct": 86.49,
+      "bachelors_or_higher": 487663,
+      "bachelors_or_higher_pct": 24.78,
+      "advanced_degree": 184007,
+      "advanced_degree_pct": 9.35
+    },
+    {
+      "state": "Missouri",
+      "population_25_plus": 4226634,
+      "high_school_or_higher": 3871249,
+      "high_school_or_higher_pct": 91.59,
+      "bachelors_or_higher": 1340643,
+      "bachelors_or_higher_pct": 31.72,
+      "advanced_degree": 517428,
+      "advanced_degree_pct": 12.24
+    },
+    {
+      "state": "Montana",
+      "population_25_plus": 766758,
+      "high_school_or_higher": 723450,
+      "high_school_or_higher_pct": 94.35,
+      "bachelors_or_higher": 266820,
+      "bachelors_or_higher_pct": 34.8,
+      "advanced_degree": 95443,
+      "advanced_degree_pct": 12.45
+    },
+    {
+      "state": "Nebraska",
+      "population_25_plus": 1292536,
+      "high_school_or_higher": 1191221,
+      "high_school_or_higher_pct": 92.16,
+      "bachelors_or_higher": 445261,
+      "bachelors_or_higher_pct": 34.45,
+      "advanced_degree": 158751,
+      "advanced_degree_pct": 12.28
+    },
+    {
+      "state": "Nevada",
+      "population_25_plus": 2192826,
+      "high_school_or_higher": 1911173,
+      "high_school_or_higher_pct": 87.16,
+      "bachelors_or_higher": 604626,
+      "bachelors_or_higher_pct": 27.57,
+      "advanced_degree": 211418,
+      "advanced_degree_pct": 9.64
+    },
+    {
+      "state": "New Hampshire",
+      "population_25_plus": 1008318,
+      "high_school_or_higher": 952238,
+      "high_school_or_higher_pct": 94.44,
+      "bachelors_or_higher": 405815,
+      "bachelors_or_higher_pct": 40.98,
+      "advanced_degree": 158459,
+      "advanced_degree_pct": 15.72
+    },
+    {
+      "state": "New Jersey",
+      "population_25_plus": 6474427,
+      "high_school_or_higher": 5890494,
+      "high_school_or_higher_pct": 90.98,
+      "bachelors_or_higher": 2790646,
+      "bachelors_or_higher_pct": 43.1,
+      "advanced_degree": 1126293,
+      "advanced_degree_pct": 17.4
+    },
+    {
+      "state": "New Mexico",
+      "population_25_plus": 1450549,
+      "high_school_or_higher": 1268955,
+      "high_school_or_higher_pct": 87.48,
+      "bachelors_or_higher": 435930,
+      "bachelors_or_higher_pct": 30.05,
+      "advanced_degree": 204185,
+      "advanced_degree_pct": 14.08
+    },
+    {
+      "state": "New York",
+      "population_25_plus": 13987094,
+      "high_school_or_higher": 12313514,
+      "high_school_or_higher_pct": 88.03,
+      "bachelors_or_higher": 5583687,
+      "bachelors_or_higher_pct": 40.9,
+      "advanced_degree": 2477848,
+      "advanced_degree_pct": 17.72
+    },
+    {
+      "state": "North Carolina",
+      "population_25_plus": 7245632,
+      "high_school_or_higher": 6499145,
+      "high_school_or_higher_pct": 89.7,
+      "bachelors_or_higher": 2529657,
+      "bachelors_or_higher_pct": 34.91,
+      "advanced_degree": 955976,
+      "advanced_degree_pct": 13.19
+    },
+    {
+      "state": "North Dakota",
+      "population_25_plus": 506739,
+      "high_school_or_higher": 474432,
+      "high_school_or_higher_pct": 93.62,
+      "bachelors_or_higher": 160847,
+      "bachelors_or_higher_pct": 31.74,
+      "advanced_degree": 47533,
+      "advanced_degree_pct": 9.38
+    },
+    {
+      "state": "Ohio",
+      "population_25_plus": 8117973,
+      "high_school_or_higher": 7447659,
+      "high_school_or_higher_pct": 91.74,
+      "bachelors_or_higher": 2493910,
+      "bachelors_or_higher_pct": 30.72,
+      "advanced_degree": 957286,
+      "advanced_degree_pct": 11.79
+    },
+    {
+      "state": "Oklahoma",
+      "population_25_plus": 2639889,
+      "high_school_or_higher": 2341875,
+      "high_school_or_higher_pct": 88.71,
+      "bachelors_or_higher": 737183,
+      "bachelors_or_higher_pct": 27.92,
+      "advanced_degree": 254015,
+      "advanced_degree_pct": 9.62
+    },
+    {
+      "state": "Oregon",
+      "population_25_plus": 3030635,
+      "high_school_or_higher": 2784373,
+      "high_school_or_higher_pct": 91.87,
+      "bachelors_or_higher": 1101061,
+      "bachelors_or_higher_pct": 36.33,
+      "advanced_degree": 420755,
+      "advanced_degree_pct": 13.88
+    },
+    {
+      "state": "Pennsylvania",
+      "population_25_plus": 9161945,
+      "high_school_or_higher": 8418661,
+      "high_school_or_higher_pct": 91.89,
+      "bachelors_or_higher": 3164985,
+      "bachelors_or_higher_pct": 34.54,
+      "advanced_degree": 1277263,
+      "advanced_degree_pct": 13.94
+    },
+    {
+      "state": "Puerto Rico",
+      "population_25_plus": 2401409,
+      "high_school_or_higher": 1912629,
+      "high_school_or_higher_pct": 79.65,
+      "bachelors_or_higher": 683894,
+      "bachelors_or_higher_pct": 28.48,
+      "advanced_degree": 190538,
+      "advanced_degree_pct": 7.93
+    },
+    {
+      "state": "Rhode Island",
+      "population_25_plus": 773464,
+      "high_school_or_higher": 689448,
+      "high_school_or_higher_pct": 89.14,
+      "bachelors_or_higher": 282326,
+      "bachelors_or_higher_pct": 36.5,
+      "advanced_degree": 120732,
+      "advanced_degree_pct": 15.61
+    },
+    {
+      "state": "South Carolina",
+      "population_25_plus": 3598398,
+      "high_school_or_higher": 3224401,
+      "high_school_or_higher_pct": 89.61,
+      "bachelors_or_higher": 1134636,
+      "bachelors_or_higher_pct": 31.53,
+      "advanced_degree": 429896,
+      "advanced_degree_pct": 11.95
+    },
+    {
+      "state": "South Dakota",
+      "population_25_plus": 590377,
+      "high_school_or_higher": 549364,
+      "high_school_or_higher_pct": 93.05,
+      "bachelors_or_higher": 186946,
+      "bachelors_or_higher_pct": 31.67,
+      "advanced_degree": 59688,
+      "advanced_degree_pct": 10.11
+    },
+    {
+      "state": "Tennessee",
+      "population_25_plus": 4814533,
+      "high_school_or_higher": 4320485,
+      "high_school_or_higher_pct": 89.74,
+      "bachelors_or_higher": 1467481,
+      "bachelors_or_higher_pct": 30.48,
+      "advanced_degree": 543077,
+      "advanced_degree_pct": 11.28
+    },
+    {
+      "state": "Texas",
+      "population_25_plus": 19224688,
+      "high_school_or_higher": 16415784,
+      "high_school_or_higher_pct": 85.39,
+      "bachelors_or_higher": 6366437,
+      "bachelors_or_higher_pct": 33.12,
+      "advanced_degree": 2288616,
+      "advanced_degree_pct": 11.9
+    },
+    {
+      "state": "Utah",
+      "population_25_plus": 2010727,
+      "high_school_or_higher": 1873479,
+      "high_school_or_higher_pct": 93.17,
+      "bachelors_or_higher": 740097,
+      "bachelors_or_higher_pct": 36.81,
+      "advanced_degree": 255215,
+      "advanced_degree_pct": 12.69
+    },
+    {
+      "state": "Vermont",
+      "population_25_plus": 462705,
+      "high_school_or_higher": 437478,
+      "high_school_or_higher_pct": 94.55,
+      "bachelors_or_higher": 205621,
+      "bachelors_or_higher_pct": 44.44,
+      "advanced_degree": 85248,
+      "advanced_degree_pct": 18.42
+    },
+    {
+      "state": "Virginia",
+      "population_25_plus": 5942672,
+      "high_school_or_higher": 5430700,
+      "high_school_or_higher_pct": 91.38,
+      "bachelors_or_higher": 2484460,
+      "bachelors_or_higher_pct": 41.81,
+      "advanced_degree": 1089585,
+      "advanced_degree_pct": 18.33
+    },
+    {
+      "state": "Washington",
+      "population_25_plus": 5401149,
+      "high_school_or_higher": 4987844,
+      "high_school_or_higher_pct": 92.35,
+      "bachelors_or_higher": 2104662,
+      "bachelors_or_higher_pct": 40.97,
+      "advanced_degree": 817197,
+      "advanced_degree_pct": 15.13
+    },
+    {
+      "state": "West Virginia",
+      "population_25_plus": 1265439,
+      "high_school_or_higher": 1123971,
+      "high_school_or_higher_pct": 88.82,
+      "bachelors_or_higher": 305188,
+      "bachelors_or_higher_pct": 24.12,
+      "advanced_degree": 125812,
+      "advanced_degree_pct": 9.94
+    },
+    {
+      "state": "Wisconsin",
+      "population_25_plus": 4076339,
+      "high_school_or_higher": 3804265,
+      "high_school_or_higher_pct": 93.33,
+      "bachelors_or_higher": 1326478,
+      "bachelors_or_higher_pct": 32.54,
+      "advanced_degree": 450011,
+      "advanced_degree_pct": 11.04
+    },
+    {
+      "state": "Wyoming",
+      "population_25_plus": 395348,
+      "high_school_or_higher": 369992,
+      "high_school_or_higher_pct": 93.59,
+      "bachelors_or_higher": 115618,
+      "bachelors_or_higher_pct": 29.24,
+      "advanced_degree": 42363,
+      "advanced_degree_pct": 10.72
+    },
+    {
+      "state": "United States",
+      "population_25_plus": 230594873,
+      "high_school_or_higher": 205833612,
+      "high_school_or_higher_pct": 90.3,
+      "bachelors_or_higher": 80587357,
+      "bachelors_or_higher_pct": 34.9,
+      "advanced_degree": 31611941,
+      "advanced_degree_pct": 16.7
+    }
+  ],
+  "meta": {
+    "title": "U.S. States by Educational Attainment - Free Download",
+    "description": "Population aged 25+ in each U.S. state with a high school diploma, bachelor's degree and advanced degree (counts and percentages), from the American Community Survey. Contains 53 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "U.S. States by Educational Attainment | ListBase",
+    "seo_description": "Download U.S. States by Educational Attainment — 53 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 53 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment"
+    ]
+  }
+}
