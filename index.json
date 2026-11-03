@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-03T02:33:23.058Z",
-  "total_datasets": 6007,
-  "total_records": 2719056,
+  "generated": "2026-11-03T02:33:32.951Z",
+  "total_datasets": 6008,
+  "total_records": 2719219,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "entertainment",
@@ -8390,6 +8390,33 @@
         "xlsx": {
           "name": "en-russell-group-universities_EN.xlsx",
           "size": 8179
+        }
+      }
+    },
+    {
+      "id": "en-uk-universities-by-enrolment",
+      "name": "UK Universities by Student Enrolment",
+      "category": "education",
+      "record_count": 163,
+      "columns": [
+        "rank",
+        "institution",
+        "undergraduates",
+        "postgraduates",
+        "total_students",
+        "fte_students"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_universities_in_the_United_Kingdom_by_enrolment",
+      "updated": "2026-11",
+      "size": 34387,
+      "files": {
+        "csv": {
+          "name": "en-uk-universities-by-enrolment_EN.csv",
+          "size": 10241
+        },
+        "xlsx": {
+          "name": "en-uk-universities-by-enrolment_EN.xlsx",
+          "size": 13950
         }
       }
     },
