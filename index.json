@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-03T02:33:12.943Z",
-  "total_datasets": 6006,
-  "total_records": 2718982,
+  "generated": "2026-11-03T02:33:23.058Z",
+  "total_datasets": 6007,
+  "total_records": 2719056,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "politics",
@@ -110541,6 +110541,31 @@
         "xlsx": {
           "name": "en-mercury-prize-winners_EN.xlsx",
           "size": 8027
+        }
+      }
+    },
+    {
+      "id": "en-uk-christmas-number-one-singles",
+      "name": "UK Singles Chart Christmas Number Ones",
+      "category": "music",
+      "record_count": 74,
+      "columns": [
+        "year",
+        "artist",
+        "song",
+        "weeks_at_number_one"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_UK_singles_chart_Christmas_number_ones",
+      "updated": "2026-11",
+      "size": 11684,
+      "files": {
+        "csv": {
+          "name": "en-uk-christmas-number-one-singles_EN.csv",
+          "size": 3769
+        },
+        "xlsx": {
+          "name": "en-uk-christmas-number-one-singles_EN.xlsx",
+          "size": 9819
         }
       }
     },
