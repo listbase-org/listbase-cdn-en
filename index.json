@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-04T02:34:24.218Z",
-  "total_datasets": 6012,
-  "total_records": 2719413,
+  "generated": "2026-11-04T02:34:33.717Z",
+  "total_datasets": 6013,
+  "total_records": 2719426,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "math",
@@ -109943,6 +109943,31 @@
         "xlsx": {
           "name": "en-attorneys-general-england-wales_EN.xlsx",
           "size": 9845
+        }
+      }
+    },
+    {
+      "id": "en-chief-justices-of-new-zealand",
+      "name": "Chief Justices of New Zealand",
+      "category": "law",
+      "record_count": 13,
+      "columns": [
+        "number",
+        "chief_justice",
+        "assumed_office",
+        "left_office"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Chief_Justice_of_New_Zealand",
+      "updated": "2026-11",
+      "size": 3744,
+      "files": {
+        "csv": {
+          "name": "en-chief-justices-of-new-zealand_EN.csv",
+          "size": 991
+        },
+        "xlsx": {
+          "name": "en-chief-justices-of-new-zealand_EN.xlsx",
+          "size": 7417
         }
       }
     },
