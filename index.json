@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-04T02:34:33.717Z",
-  "total_datasets": 6013,
-  "total_records": 2719426,
+  "generated": "2026-11-04T02:34:44.484Z",
+  "total_datasets": 6014,
+  "total_records": 2719434,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "transport",
@@ -155367,6 +155367,31 @@
         "xlsx": {
           "name": "en-england-lighthouses_EN.xlsx",
           "size": 12234
+        }
+      }
+    },
+    {
+      "id": "en-ireland-national-parks",
+      "name": "National Parks of Ireland",
+      "category": "tourism",
+      "record_count": 8,
+      "columns": [
+        "national_park",
+        "region",
+        "area",
+        "established"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_national_parks_of_the_Republic_of_Ireland",
+      "updated": "2026-11",
+      "size": 2887,
+      "files": {
+        "csv": {
+          "name": "en-ireland-national-parks_EN.csv",
+          "size": 672
+        },
+        "xlsx": {
+          "name": "en-ireland-national-parks_EN.xlsx",
+          "size": 7188
         }
       }
     },
