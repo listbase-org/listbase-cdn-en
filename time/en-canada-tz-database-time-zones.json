@@ -1,0 +1,288 @@
+{
+  "id": "en-canada-tz-database-time-zones",
+  "name": "Canada Time Zones in the IANA tz Database",
+  "title": "Canada Time Zones in the IANA tz Database",
+  "description": "IANA tz database zones used in Canada with coordinates, region comments, standard and daylight-saving UTC offsets, and historical notes.",
+  "category": "time",
+  "source": "https://en.wikipedia.org/wiki/Time_in_Canada",
+  "source_url": "https://en.wikipedia.org/wiki/Time_in_Canada",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "tz_identifier",
+      "label": "Tz Identifier",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "comments",
+      "label": "Comments",
+      "type": "string"
+    },
+    {
+      "key": "utc_offset",
+      "label": "Utc Offset",
+      "type": "string"
+    },
+    {
+      "key": "utc_offset_dst",
+      "label": "Utc Offset Dst",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tz_identifier": "America/St_Johns",
+      "coordinates": "+4734 −05243",
+      "comments": "Newfoundland, Labrador (SE)",
+      "utc_offset": "-03:30",
+      "utc_offset_dst": "-02:30",
+      "description": "Uses UTC−03:30 with daylight saving time Includes the entire Island of Newfoundland and the Labrador Straits region of Labrador"
+    },
+    {
+      "tz_identifier": "America/Blanc-Sablon",
+      "coordinates": "+5125 −05707",
+      "comments": "AST – QC (Lower North Shore)",
+      "utc_offset": "-04:00",
+      "utc_offset_dst": "-04:00",
+      "description": "Has used UTC−04:00 year-round since the IANA cutoff date in 1970; alias for America/Puerto_Rico Includes all of Le Golfe-du-Saint-Laurent Regional County Municipality"
+    },
+    {
+      "tz_identifier": "America/Glace_Bay",
+      "coordinates": "+4612 −05957",
+      "comments": "Atlantic – NS (Cape Breton)",
+      "utc_offset": "-04:00",
+      "utc_offset_dst": "-03:00",
+      "description": "Now in sync with America/Halifax but did not adopt daylight saving time until 1972 Likely includes all of Cape Breton Island and possibly part of mainland Nova Scotia"
+    },
+    {
+      "tz_identifier": "America/Goose_Bay",
+      "coordinates": "+5320 −06025",
+      "comments": "Atlantic – Labrador (most areas)",
+      "utc_offset": "-04:00",
+      "utc_offset_dst": "-03:00",
+      "description": "Now in sync with America/Halifax but from 1987–2011, started and ended daylight saving time at 12:01 am rather than 2:00 am Includes all of Labrador except for the Labrador Straits region"
+    },
+    {
+      "tz_identifier": "America/Halifax",
+      "coordinates": "+4439 −06336",
+      "comments": "Atlantic – NS (most areas), PE",
+      "utc_offset": "-04:00",
+      "utc_offset_dst": "-03:00",
+      "description": "Uses UTC−04:00 with daylight saving time Includes a majority of Nova Scotia, all of Prince Edward Island, and Quebec's Magdalen Islands and Listuguj Miꞌgmaq First Nation"
+    },
+    {
+      "tz_identifier": "America/Moncton",
+      "coordinates": "+4606 −06447",
+      "comments": "Atlantic – New Brunswick",
+      "utc_offset": "-04:00",
+      "utc_offset_dst": "-03:00",
+      "description": "Now in sync with America/Halifax but prior to 2007, started and ended daylight saving time at 12:01 am rather than 2:00 am Includes all of New Brunswick"
+    },
+    {
+      "tz_identifier": "America/Pangnirtung",
+      "coordinates": "",
+      "comments": "",
+      "utc_offset": "-05:00",
+      "utc_offset_dst": "-04:00",
+      "description": "Redirects to America/Iqaluit"
+    },
+    {
+      "tz_identifier": "America/Iqaluit",
+      "coordinates": "+6344 −06828",
+      "comments": "Eastern – NU (most areas)",
+      "utc_offset": "-05:00",
+      "utc_offset_dst": "-04:00",
+      "description": "Now in sync with America/Toronto but used −04:00 with daylight saving time until 1995"
+    },
+    {
+      "tz_identifier": "America/Montreal",
+      "coordinates": "",
+      "comments": "",
+      "utc_offset": "-05:00",
+      "utc_offset_dst": "-04:00",
+      "description": "Redirects to America/Toronto as of version 2015c"
+    },
+    {
+      "tz_identifier": "America/Toronto",
+      "coordinates": "+4339 −07923",
+      "comments": "Eastern – ON & QC (most areas)",
+      "utc_offset": "-05:00",
+      "utc_offset_dst": "-04:00",
+      "description": "Uses UTC−05:00 with daylight saving time Includes a majority of Ontario and Quebec. Legally, its western boundary is the 90th meridian west but in practice, it is not observed by Big Trout Lake. Adoption of daylight saving time in Ontario may have been patchy until 1974."
+    },
+    {
+      "tz_identifier": "America/Nipigon",
+      "coordinates": "",
+      "comments": "",
+      "utc_offset": "-05:00",
+      "utc_offset_dst": "-04:00",
+      "description": "Redirects to America/Toronto as of version 2022f Created for places observing Eastern time that allegedly did not observe DST 1967–1973 but this was not well sourced"
+    },
+    {
+      "tz_identifier": "America/Thunder_Bay",
+      "coordinates": "",
+      "comments": "",
+      "utc_offset": "-05:00",
+      "utc_offset_dst": "-04:00",
+      "description": "Redirects to America/Toronto Created because of a claim that Thunder Bay did not use DST in 1973"
+    },
+    {
+      "tz_identifier": "America/Atikokan",
+      "coordinates": "+484531 −0913718",
+      "comments": "EST – ON (Atikokan), NU (Coral H)",
+      "utc_offset": "-05:00",
+      "utc_offset_dst": "-05:00",
+      "description": "Has used UTC−05:00 year-round since the IANA cutoff date in 1970; alias for America/Panama Includes four areas: Atikokan, Ontario; Mishkeegogamang First Nation in Ontario; Southampton Island, Nunavut; and Eureka station, Nunavut"
+    },
+    {
+      "tz_identifier": "America/Rankin_Inlet",
+      "coordinates": "+624900 −0920459",
+      "comments": "Central – NU (central)",
+      "utc_offset": "-06:00",
+      "utc_offset_dst": "-05:00",
+      "description": "Uses UTC−06:00 with daylight saving time"
+    },
+    {
+      "tz_identifier": "America/Rainy_River",
+      "coordinates": "",
+      "comments": "",
+      "utc_offset": "-05:00",
+      "utc_offset_dst": "-05:00",
+      "description": "Redirects to America/Winnipeg as of version 2022f Created for places observing Central Time that allegedly did not observe daylight saving time from 1967–1973, but this is not well sourced"
+    },
+    {
+      "tz_identifier": "America/Resolute",
+      "coordinates": "+744144 −0944945",
+      "comments": "Central – NU (Resolute)",
+      "utc_offset": "-06:00",
+      "utc_offset_dst": "-05:00",
+      "description": "Now in sync with America/Rankin_Inlet but skipped daylight saving time in 2007 Includes Southampton Island"
+    },
+    {
+      "tz_identifier": "America/Winnipeg",
+      "coordinates": "+4953 −09709",
+      "comments": "EST – Manitoba, ON (northwest)",
+      "utc_offset": "-05:00",
+      "utc_offset_dst": "-05:00",
+      "description": "Used UTC−06:00 with daylight saving time until 2026 Includes Big Trout Lake and Denare Beach in practice, though by law they should be in America/Toronto and America/Regina, respectively"
+    },
+    {
+      "tz_identifier": "America/Cambridge_Bay",
+      "coordinates": "+690650 −1050310",
+      "comments": "Mountain – NU (west)",
+      "utc_offset": "-07:00",
+      "utc_offset_dst": "-06:00",
+      "description": "Now uses UTC−07:00 with daylight saving but used UTC−06:00 with daylight saving from 1999 to 2001 Includes the western third of Nunavut"
+    },
+    {
+      "tz_identifier": "America/Regina",
+      "coordinates": "+5024 −10439",
+      "comments": "CST – SK (most areas)",
+      "utc_offset": "-06:00",
+      "utc_offset_dst": "-06:00",
+      "description": "Has used UTC−06:00 year-round since the IANA cutoff date in 1970"
+    },
+    {
+      "tz_identifier": "America/Swift_Current",
+      "coordinates": "+5017 −10750",
+      "comments": "CST – SK (midwest)",
+      "utc_offset": "-06:00",
+      "utc_offset_dst": "-06:00",
+      "description": "Used UTC−07:00 year-round until 1972 Includes southwest Saskatchewan. Map is approximate; the exact boundaries are based on old school districts."
+    },
+    {
+      "tz_identifier": "America/Edmonton",
+      "coordinates": "+5333 −11328",
+      "comments": "CST – AB, BC(E), NT(E), SK(W)",
+      "utc_offset": "-06:00",
+      "utc_offset_dst": "-06:00",
+      "description": "Used UTC−07:00 with daylight saving time until 2026 Includes all of Alberta, City of Lloydminster in Saskatchewan, Regional District of East Kootenay and Columbia-Shuswap Regional District Area A in British Columbia, and the eastern half of the Northwest Territories"
+    },
+    {
+      "tz_identifier": "America/Yellowknife",
+      "coordinates": "",
+      "comments": "",
+      "utc_offset": "-06:00",
+      "utc_offset_dst": "-06:00",
+      "description": "Redirects to America/Edmonton"
+    },
+    {
+      "tz_identifier": "America/Creston",
+      "coordinates": "+4906 −11631",
+      "comments": "MST – BC (Creston)",
+      "utc_offset": "-07:00",
+      "utc_offset_dst": "-07:00",
+      "description": "Has used UTC−07:00 year-round since the IANA cutoff date in 1970; alias for America/Phoenix"
+    },
+    {
+      "tz_identifier": "America/Dawson_Creek",
+      "coordinates": "+5546 −12014",
+      "comments": "MST – BC (Dawson Cr, Ft St John)",
+      "utc_offset": "-07:00",
+      "utc_offset_dst": "-07:00",
+      "description": "Used UTC−07:00 with daylight saving time until 1973 Includes the eastern half of Peace River Regional District"
+    },
+    {
+      "tz_identifier": "America/Fort_Nelson",
+      "coordinates": "+5848 −12242",
+      "comments": "MST – BC (Ft Nelson)",
+      "utc_offset": "-07:00",
+      "utc_offset_dst": "-07:00",
+      "description": "Used UTC−07:00 with daylight saving time until 2015 Includes Northern Rockies Regional Municipality in British Columbia"
+    },
+    {
+      "tz_identifier": "America/Vancouver",
+      "coordinates": "+4916 −12307",
+      "comments": "MST – BC (most areas)",
+      "utc_offset": "-07:00",
+      "utc_offset_dst": "-07:00",
+      "description": "Used UTC−08:00 with daylight saving time until 2026 Includes a majority of British Columbia"
+    },
+    {
+      "tz_identifier": "America/Inuvik",
+      "coordinates": "+682059 −1334300",
+      "comments": "CST – NT (west)",
+      "utc_offset": "-06:00",
+      "utc_offset_dst": "-06:00",
+      "description": "Used UTC−08:00 with daylight saving time until 1979 and used UTC−07:00 with daylight saving time from 1979 to 2026 Defined as areas in NWT west of 120th meridian west"
+    },
+    {
+      "tz_identifier": "America/Whitehorse",
+      "coordinates": "+6043 −13503",
+      "comments": "MST – Yukon (east)",
+      "utc_offset": "-07:00",
+      "utc_offset_dst": "-07:00",
+      "description": "Used UTC−08:00 with daylight saving time until 2020 Includes a majority of Yukon"
+    },
+    {
+      "tz_identifier": "America/Dawson",
+      "coordinates": "+6404 −13925",
+      "comments": "MST – Yukon (west)",
+      "utc_offset": "-07:00",
+      "utc_offset_dst": "-07:00",
+      "description": "Used UTC−09:00 with daylight saving time until 1973 and used UTC−08:00 with daylight saving time from 1973–2020 Includes all of Yukon west of 138th meridian west"
+    }
+  ],
+  "meta": {
+    "title": "Canada Time Zones in the IANA tz Database - Free Download",
+    "description": "IANA tz database zones used in Canada with coordinates, region comments, standard and daylight-saving UTC offsets, and historical notes. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Canada Time Zones in the IANA tz Database | ListBase",
+    "seo_description": "Download Canada Time Zones in the IANA tz Database — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/Time_in_Canada"
+    ]
+  }
+}

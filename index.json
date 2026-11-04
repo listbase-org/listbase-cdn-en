@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-04T02:34:13.579Z",
-  "total_datasets": 6011,
-  "total_records": 2719384,
+  "generated": "2026-11-04T02:34:24.218Z",
+  "total_datasets": 6012,
+  "total_records": 2719413,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "tourism",
@@ -155002,6 +155002,33 @@
         "xlsx": {
           "name": "en-canada-holidays-by-province_EN.xlsx",
           "size": 7951
+        }
+      }
+    },
+    {
+      "id": "en-canada-tz-database-time-zones",
+      "name": "Canada Time Zones in the IANA tz Database",
+      "category": "time",
+      "record_count": 29,
+      "columns": [
+        "tz_identifier",
+        "coordinates",
+        "comments",
+        "utc_offset",
+        "utc_offset_dst",
+        "description"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Time_in_Canada",
+      "updated": "2026-11",
+      "size": 12263,
+      "files": {
+        "csv": {
+          "name": "en-canada-tz-database-time-zones_EN.csv",
+          "size": 6317
+        },
+        "xlsx": {
+          "name": "en-canada-tz-database-time-zones_EN.xlsx",
+          "size": 9636
         }
       }
     },
