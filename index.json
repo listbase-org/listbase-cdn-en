@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-04T02:34:44.484Z",
-  "total_datasets": 6014,
-  "total_records": 2719434,
+  "generated": "2026-11-04T02:34:53.294Z",
+  "total_datasets": 6015,
+  "total_records": 2719456,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 6
+      "dataset_count": 7
     }
   ],
   "datasets": [
@@ -167473,6 +167473,34 @@
         "xlsx": {
           "name": "en-imperial-units_EN.xlsx",
           "size": 9933
+        }
+      }
+    },
+    {
+      "id": "en-irish-units-of-measurement",
+      "name": "Traditional Irish Units of Measurement",
+      "category": "units",
+      "record_count": 22,
+      "columns": [
+        "unit",
+        "meaning",
+        "type",
+        "relative_value",
+        "si_value",
+        "imperial_value",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Irish_units_of_measurement",
+      "updated": "2026-11",
+      "size": 6638,
+      "files": {
+        "csv": {
+          "name": "en-irish-units-of-measurement_EN.csv",
+          "size": 1628
+        },
+        "xlsx": {
+          "name": "en-irish-units-of-measurement_EN.xlsx",
+          "size": 8201
         }
       }
     },
