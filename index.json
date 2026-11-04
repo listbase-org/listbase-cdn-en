@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-03T02:33:52.823Z",
-  "total_datasets": 6010,
-  "total_records": 2719323,
+  "generated": "2026-11-04T02:34:13.579Z",
+  "total_datasets": 6011,
+  "total_records": 2719384,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "math",
@@ -109917,6 +109917,32 @@
         "xlsx": {
           "name": "ca-supreme-court-justices_EN.xlsx",
           "size": 13554
+        }
+      }
+    },
+    {
+      "id": "en-attorneys-general-england-wales",
+      "name": "Attorneys General for England and Wales since 1861",
+      "category": "law",
+      "record_count": 61,
+      "columns": [
+        "attorney_general",
+        "term_start",
+        "term_end",
+        "party",
+        "prime_minister"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Attorney_General_for_England_and_Wales",
+      "updated": "2026-11",
+      "size": 14711,
+      "files": {
+        "csv": {
+          "name": "en-attorneys-general-england-wales_EN.csv",
+          "size": 5581
+        },
+        "xlsx": {
+          "name": "en-attorneys-general-england-wales_EN.xlsx",
+          "size": 9845
         }
       }
     },
