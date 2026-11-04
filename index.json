@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-04T02:34:53.294Z",
-  "total_datasets": 6015,
-  "total_records": 2719456,
+  "generated": "2026-11-04T02:35:02.585Z",
+  "total_datasets": 6016,
+  "total_records": 2719508,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -143722,6 +143722,35 @@
         "xlsx": {
           "name": "crime-index-by-country_EN.xlsx",
           "size": 10712
+        }
+      }
+    },
+    {
+      "id": "en-us-states-homicide-rate",
+      "name": "U.S. States by Homicide Rate (2018–2024)",
+      "category": "society",
+      "record_count": 52,
+      "columns": [
+        "location",
+        "rate_2018",
+        "rate_2019",
+        "rate_2020",
+        "rate_2021",
+        "rate_2022",
+        "rate_2023",
+        "rate_2024"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_by_intentional_homicide_rate",
+      "updated": "2026-11",
+      "size": 13041,
+      "files": {
+        "csv": {
+          "name": "en-us-states-homicide-rate_EN.csv",
+          "size": 2852
+        },
+        "xlsx": {
+          "name": "en-us-states-homicide-rate_EN.xlsx",
+          "size": 9096
         }
       }
     },
