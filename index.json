@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-04T02:35:02.585Z",
-  "total_datasets": 6016,
-  "total_records": 2719508,
+  "generated": "2026-11-04T02:35:12.993Z",
+  "total_datasets": 6017,
+  "total_records": 2719560,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "sports",
@@ -143837,6 +143837,37 @@
         "xlsx": {
           "name": "en-us-states-poverty-rate_EN.xlsx",
           "size": 8784
+        }
+      }
+    },
+    {
+      "id": "en-us-states-union-membership",
+      "name": "U.S. States by Union Membership",
+      "category": "society",
+      "record_count": 52,
+      "columns": [
+        "rank",
+        "state",
+        "pct_union_members",
+        "pct_change_members",
+        "union_members",
+        "pct_represented",
+        "pct_change_represented",
+        "represented_by_unions",
+        "total_employed",
+        "right_to_work"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Union_affiliation_by_U.S._state",
+      "updated": "2026-11",
+      "size": 19297,
+      "files": {
+        "csv": {
+          "name": "en-us-states-union-membership_EN.csv",
+          "size": 4093
+        },
+        "xlsx": {
+          "name": "en-us-states-union-membership_EN.xlsx",
+          "size": 9980
         }
       }
     },
