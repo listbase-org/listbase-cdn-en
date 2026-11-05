@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-05T02:32:13.193Z",
-  "total_datasets": 6019,
-  "total_records": 2719917,
+  "generated": "2026-11-05T02:32:23.162Z",
+  "total_datasets": 6020,
+  "total_records": 2719933,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "tourism",
@@ -155140,6 +155140,31 @@
         "xlsx": {
           "name": "en-canada-tz-database-time-zones_EN.xlsx",
           "size": 9636
+        }
+      }
+    },
+    {
+      "id": "en-new-zealand-anniversary-days",
+      "name": "New Zealand Provincial Anniversary Days",
+      "category": "time",
+      "record_count": 16,
+      "columns": [
+        "provincial_district",
+        "includes",
+        "actual_day",
+        "observance_day"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Public_holidays_in_New_Zealand",
+      "updated": "2026-11",
+      "size": 5022,
+      "files": {
+        "csv": {
+          "name": "en-new-zealand-anniversary-days_EN.csv",
+          "size": 1684
+        },
+        "xlsx": {
+          "name": "en-new-zealand-anniversary-days_EN.xlsx",
+          "size": 7703
         }
       }
     },
