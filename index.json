@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-04T02:35:12.993Z",
-  "total_datasets": 6017,
-  "total_records": 2719560,
+  "generated": "2026-11-05T02:32:02.400Z",
+  "total_datasets": 6018,
+  "total_records": 2719666,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "transport",
@@ -155452,6 +155452,37 @@
         "xlsx": {
           "name": "en-ireland-national-parks_EN.xlsx",
           "size": 7188
+        }
+      }
+    },
+    {
+      "id": "en-lighthouses-in-scotland",
+      "name": "Lighthouses in Scotland",
+      "category": "tourism",
+      "record_count": 106,
+      "columns": [
+        "name",
+        "area",
+        "coordinates",
+        "island_or_mainland",
+        "year_built",
+        "designed_by",
+        "operator_or_status",
+        "tower_height_m",
+        "focal_height_m",
+        "range_nmi"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_lighthouses_in_Scotland",
+      "updated": "2026-11",
+      "size": 43197,
+      "files": {
+        "csv": {
+          "name": "en-lighthouses-in-scotland_EN.csv",
+          "size": 17015
+        },
+        "xlsx": {
+          "name": "en-lighthouses-in-scotland_EN.xlsx",
+          "size": 14678
         }
       }
     },
