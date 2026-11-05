@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-05T02:32:42.325Z",
-  "total_datasets": 6022,
-  "total_records": 2719981,
+  "generated": "2026-11-05T02:32:51.462Z",
+  "total_datasets": 6023,
+  "total_records": 2720038,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "sports",
@@ -143774,6 +143774,45 @@
         "xlsx": {
           "name": "crime-index-by-country_EN.xlsx",
           "size": 10712
+        }
+      }
+    },
+    {
+      "id": "en-us-states-fertility-rate",
+      "name": "U.S. States and Territories by Total Fertility Rate (2008–2024)",
+      "category": "society",
+      "record_count": 57,
+      "columns": [
+        "state",
+        "tfr_2008",
+        "tfr_2009",
+        "tfr_2010",
+        "tfr_2011",
+        "tfr_2012",
+        "tfr_2013",
+        "tfr_2014",
+        "tfr_2015",
+        "tfr_2016",
+        "tfr_2017",
+        "tfr_2018",
+        "tfr_2019",
+        "tfr_2020",
+        "tfr_2021",
+        "tfr_2022",
+        "tfr_2023",
+        "tfr_2024"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_fertility_rate",
+      "updated": "2026-11",
+      "size": 28467,
+      "files": {
+        "csv": {
+          "name": "en-us-states-fertility-rate_EN.csv",
+          "size": 7515
+        },
+        "xlsx": {
+          "name": "en-us-states-fertility-rate_EN.xlsx",
+          "size": 11517
         }
       }
     },
