@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-05T02:32:23.162Z",
-  "total_datasets": 6020,
-  "total_records": 2719933,
+  "generated": "2026-11-05T02:32:32.257Z",
+  "total_datasets": 6021,
+  "total_records": 2719944,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "tourism",
@@ -155165,6 +155165,30 @@
         "xlsx": {
           "name": "en-new-zealand-anniversary-days_EN.xlsx",
           "size": 7703
+        }
+      }
+    },
+    {
+      "id": "en-new-zealand-public-holidays",
+      "name": "Public Holidays in New Zealand",
+      "category": "time",
+      "record_count": 11,
+      "columns": [
+        "date",
+        "holiday",
+        "trading_restriction"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Public_holidays_in_New_Zealand",
+      "updated": "2026-11",
+      "size": 2825,
+      "files": {
+        "csv": {
+          "name": "en-new-zealand-public-holidays_EN.csv",
+          "size": 582
+        },
+        "xlsx": {
+          "name": "en-new-zealand-public-holidays_EN.xlsx",
+          "size": 7133
         }
       }
     },
