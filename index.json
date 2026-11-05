@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-05T02:32:02.400Z",
-  "total_datasets": 6018,
-  "total_records": 2719666,
+  "generated": "2026-11-05T02:32:13.193Z",
+  "total_datasets": 6019,
+  "total_records": 2719917,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "math",
@@ -109968,6 +109968,32 @@
         "xlsx": {
           "name": "en-chief-justices-of-new-zealand_EN.xlsx",
           "size": 7417
+        }
+      }
+    },
+    {
+      "id": "en-lord-chancellors",
+      "name": "Lord Chancellors and Lord Keepers of England and Great Britain",
+      "category": "law",
+      "record_count": 251,
+      "columns": [
+        "name",
+        "term_start",
+        "term_end",
+        "monarch",
+        "period"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_lord_chancellors_and_lord_keepers",
+      "updated": "2026-11",
+      "size": 70388,
+      "files": {
+        "csv": {
+          "name": "en-lord-chancellors_EN.csv",
+          "size": 42866
+        },
+        "xlsx": {
+          "name": "en-lord-chancellors_EN.xlsx",
+          "size": 18263
         }
       }
     },
