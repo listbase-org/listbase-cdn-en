@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-11-05T02:32:32.257Z",
-  "total_datasets": 6021,
-  "total_records": 2719944,
+  "generated": "2026-11-05T02:32:42.325Z",
+  "total_datasets": 6022,
+  "total_records": 2719981,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "business",
@@ -137,6 +137,32 @@
         "xlsx": {
           "name": "en-australia-largest-pastoral-stations_EN.xlsx",
           "size": 11926
+        }
+      }
+    },
+    {
+      "id": "en-pig-breeds-english-speaking-countries",
+      "name": "Pig Breeds of the UK, US, Australia and New Zealand",
+      "category": "agriculture",
+      "record_count": 37,
+      "columns": [
+        "breed",
+        "origin",
+        "height",
+        "weight",
+        "color"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_pig_breeds",
+      "updated": "2026-11",
+      "size": 7799,
+      "files": {
+        "csv": {
+          "name": "en-pig-breeds-english-speaking-countries_EN.csv",
+          "size": 2574
+        },
+        "xlsx": {
+          "name": "en-pig-breeds-english-speaking-countries_EN.xlsx",
+          "size": 8247
         }
       }
     },
