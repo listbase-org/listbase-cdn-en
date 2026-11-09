@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-09T02:58:22.205Z",
-  "total_datasets": 6025,
-  "total_records": 2720078,
+  "generated": "2026-11-09T02:58:34.373Z",
+  "total_datasets": 6026,
+  "total_records": 2720088,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "tourism",
@@ -155258,6 +155258,31 @@
         "xlsx": {
           "name": "en-canada-tz-database-time-zones_EN.xlsx",
           "size": 9636
+        }
+      }
+    },
+    {
+      "id": "en-ireland-public-holidays",
+      "name": "Public Holidays in Ireland",
+      "category": "time",
+      "record_count": 10,
+      "columns": [
+        "date",
+        "english_name",
+        "irish_name",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Public_holidays_in_the_Republic_of_Ireland",
+      "updated": "2026-11",
+      "size": 4172,
+      "files": {
+        "csv": {
+          "name": "en-ireland-public-holidays_EN.csv",
+          "size": 1812
+        },
+        "xlsx": {
+          "name": "en-ireland-public-holidays_EN.xlsx",
+          "size": 7694
         }
       }
     },
