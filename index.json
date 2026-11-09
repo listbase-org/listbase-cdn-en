@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-11-09T02:58:10.571Z",
-  "total_datasets": 6024,
-  "total_records": 2720065,
+  "generated": "2026-11-09T02:58:22.205Z",
+  "total_datasets": 6025,
+  "total_records": 2720078,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "business",
@@ -137,6 +137,29 @@
         "xlsx": {
           "name": "en-australia-largest-pastoral-stations_EN.xlsx",
           "size": 11926
+        }
+      }
+    },
+    {
+      "id": "en-canada-farms-by-province",
+      "name": "Number of Farms in Canada by Province and Territory (2021)",
+      "category": "agriculture",
+      "record_count": 13,
+      "columns": [
+        "province_territory",
+        "number_of_farms_2021"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Agriculture_in_Canada",
+      "updated": "2026-11",
+      "size": 2671,
+      "files": {
+        "csv": {
+          "name": "en-canada-farms-by-province_EN.csv",
+          "size": 331
+        },
+        "xlsx": {
+          "name": "en-canada-farms-by-province_EN.xlsx",
+          "size": 7014
         }
       }
     },
