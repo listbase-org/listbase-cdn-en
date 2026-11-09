@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-09T02:58:34.373Z",
-  "total_datasets": 6026,
-  "total_records": 2720088,
+  "generated": "2026-11-09T02:58:45.533Z",
+  "total_datasets": 6027,
+  "total_records": 2720100,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 7
+      "dataset_count": 8
     }
   ],
   "datasets": [
@@ -167810,6 +167810,33 @@
         "xlsx": {
           "name": "en-irish-units-of-measurement_EN.xlsx",
           "size": 8201
+        }
+      }
+    },
+    {
+      "id": "en-scottish-units-of-measurement",
+      "name": "Traditional Scottish Units of Measurement",
+      "category": "units",
+      "record_count": 12,
+      "columns": [
+        "name",
+        "scottish_unit",
+        "us_customary",
+        "english_unit",
+        "metric_equivalent",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Scottish_units_of_measurement",
+      "updated": "2026-11",
+      "size": 4562,
+      "files": {
+        "csv": {
+          "name": "en-scottish-units-of-measurement_EN.csv",
+          "size": 1109
+        },
+        "xlsx": {
+          "name": "en-scottish-units-of-measurement_EN.xlsx",
+          "size": 7506
         }
       }
     },
