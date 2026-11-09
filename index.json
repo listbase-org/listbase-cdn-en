@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-05T02:32:51.462Z",
-  "total_datasets": 6023,
-  "total_records": 2720038,
+  "generated": "2026-11-09T02:58:10.571Z",
+  "total_datasets": 6024,
+  "total_records": 2720065,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "tourism",
@@ -155117,6 +155117,36 @@
         "xlsx": {
           "name": "country-holidays-summary_EN.xlsx",
           "size": 15719
+        }
+      }
+    },
+    {
+      "id": "en-australia-public-holidays-by-state",
+      "name": "Public Holidays in Australia by State and Territory",
+      "category": "time",
+      "record_count": 27,
+      "columns": [
+        "date",
+        "act",
+        "nsw",
+        "nt",
+        "qld",
+        "sa",
+        "tas",
+        "vic",
+        "wa"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Public_holidays_in_Australia",
+      "updated": "2026-11",
+      "size": 8624,
+      "files": {
+        "csv": {
+          "name": "en-australia-public-holidays-by-state_EN.csv",
+          "size": 3001
+        },
+        "xlsx": {
+          "name": "en-australia-public-holidays-by-state_EN.xlsx",
+          "size": 8163
         }
       }
     },
