@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-11-10T02:36:57.879Z",
-  "total_datasets": 6028,
-  "total_records": 2720872,
+  "generated": "2026-11-10T02:37:07.522Z",
+  "total_datasets": 6029,
+  "total_records": 2720910,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "business",
@@ -160,6 +160,30 @@
         "xlsx": {
           "name": "en-canada-farms-by-province_EN.xlsx",
           "size": 7014
+        }
+      }
+    },
+    {
+      "id": "en-north-american-sheep-breeds",
+      "name": "North American Sheep Breeds",
+      "category": "agriculture",
+      "record_count": 38,
+      "columns": [
+        "breed",
+        "notes",
+        "conservation_status"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_North_American_sheep_breeds",
+      "updated": "2026-11",
+      "size": 5578,
+      "files": {
+        "csv": {
+          "name": "en-north-american-sheep-breeds_EN.csv",
+          "size": 1334
+        },
+        "xlsx": {
+          "name": "en-north-american-sheep-breeds_EN.xlsx",
+          "size": 7656
         }
       }
     },
