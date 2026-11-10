@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-10T02:37:16.072Z",
-  "total_datasets": 6030,
-  "total_records": 2721056,
+  "generated": "2026-11-10T02:37:26.624Z",
+  "total_datasets": 6031,
+  "total_records": 2721113,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "sports",
@@ -143974,6 +143974,30 @@
         "xlsx": {
           "name": "en-us-states-life-expectancy-1940-2019_EN.xlsx",
           "size": 10355
+        }
+      }
+    },
+    {
+      "id": "en-us-states-median-age",
+      "name": "U.S. States and Territories by Median Age",
+      "category": "society",
+      "record_count": 57,
+      "columns": [
+        "rank",
+        "state",
+        "median_age"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_by_median_age",
+      "updated": "2026-11",
+      "size": 6335,
+      "files": {
+        "csv": {
+          "name": "en-us-states-median-age_EN.csv",
+          "size": 1392
+        },
+        "xlsx": {
+          "name": "en-us-states-median-age_EN.xlsx",
+          "size": 8090
         }
       }
     },
