@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-10T02:37:26.624Z",
-  "total_datasets": 6031,
-  "total_records": 2721113,
+  "generated": "2026-11-11T02:26:50.955Z",
+  "total_datasets": 6032,
+  "total_records": 2721128,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 8
+      "dataset_count": 9
     }
   ],
   "datasets": [
@@ -167850,6 +167850,33 @@
         "xlsx": {
           "name": "zw-airports-iata_EN.xlsx",
           "size": 8195
+        }
+      }
+    },
+    {
+      "id": "en-apothecaries-units",
+      "name": "Apothecaries' Units of Weight and Fluid Measure",
+      "category": "units",
+      "record_count": 15,
+      "columns": [
+        "system",
+        "unit",
+        "symbol",
+        "equals_next_unit",
+        "equals_smallest_unit",
+        "metric_equivalent"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Apothecaries'_system",
+      "updated": "2026-11",
+      "size": 5461,
+      "files": {
+        "csv": {
+          "name": "en-apothecaries-units_EN.csv",
+          "size": 1353
+        },
+        "xlsx": {
+          "name": "en-apothecaries-units_EN.xlsx",
+          "size": 7578
         }
       }
     },
