@@ -1,0 +1,192 @@
+{
+  "id": "en-us-customary-cooking-measures",
+  "name": "US Customary Cooking Measures",
+  "title": "US Customary Cooking Measures",
+  "description": "US customary volume units used in cooking and recipes, from the drop and pinch to the cup, quart and gallon, with definitions, US fluid-ounce and millilitre equivalents.",
+  "category": "units",
+  "source": "https://en.wikipedia.org/wiki/Cooking_weights_and_measures",
+  "source_url": "https://en.wikipedia.org/wiki/Cooking_weights_and_measures",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "defined_as",
+      "label": "Defined As",
+      "type": "string"
+    },
+    {
+      "key": "us_fluid_ounces",
+      "label": "Us Fluid Ounces",
+      "type": "string"
+    },
+    {
+      "key": "millilitres",
+      "label": "Millilitres",
+      "type": "number"
+    },
+    {
+      "key": "relation",
+      "label": "Relation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "drop",
+      "abbreviation": "dr., gt., gtt. (plural)",
+      "defined_as": "1/96 tsp",
+      "us_fluid_ounces": "1/576",
+      "millilitres": 0.0513429,
+      "relation": ""
+    },
+    {
+      "unit": "smidgen",
+      "abbreviation": "smdg., smi.",
+      "defined_as": "1/32 tsp",
+      "us_fluid_ounces": "1/256",
+      "millilitres": 0.115522,
+      "relation": "2 smidgens = 1 pinch"
+    },
+    {
+      "unit": "pinch",
+      "abbreviation": "pn.",
+      "defined_as": "1/16 tsp",
+      "us_fluid_ounces": "1/128",
+      "millilitres": 0.231043,
+      "relation": "2 pinches = 1 dash"
+    },
+    {
+      "unit": "dash",
+      "abbreviation": "ds.",
+      "defined_as": "1/8 tsp",
+      "us_fluid_ounces": "1/64",
+      "millilitres": 0.462086,
+      "relation": "2 dashes = 1 saltspoon"
+    },
+    {
+      "unit": "saltspoon or scruple",
+      "abbreviation": "ssp.",
+      "defined_as": "1/4 tsp",
+      "us_fluid_ounces": "1/32",
+      "millilitres": 0.924173,
+      "relation": "2 saltspoons = 1 coffeespoon"
+    },
+    {
+      "unit": "coffeespoon",
+      "abbreviation": "csp.",
+      "defined_as": "1/2 tsp",
+      "us_fluid_ounces": "1/16",
+      "millilitres": 1.84835,
+      "relation": "2 coffeespoons = 1 teaspoon"
+    },
+    {
+      "unit": "Fluid dram",
+      "abbreviation": "fl.dr.",
+      "defined_as": "3/4 tsp",
+      "us_fluid_ounces": "1/8",
+      "millilitres": 3.69669,
+      "relation": "2 fluid drams = 1 dessertspoon (Australia)"
+    },
+    {
+      "unit": "teaspoon (culinary)",
+      "abbreviation": "tsp. or t.",
+      "defined_as": "1/3 tbsp",
+      "us_fluid_ounces": "1/6",
+      "millilitres": 4.92892,
+      "relation": "2 teaspoons = 1 dessertspoon"
+    },
+    {
+      "unit": "dessertspoon",
+      "abbreviation": "dsp., dssp. or dstspn.",
+      "defined_as": "2 tsp",
+      "us_fluid_ounces": "1/3",
+      "millilitres": 9.85784,
+      "relation": ""
+    },
+    {
+      "unit": "tablespoon",
+      "abbreviation": "tbsp. or T.",
+      "defined_as": "1/16 cup",
+      "us_fluid_ounces": "1/2",
+      "millilitres": 14.7868,
+      "relation": "2 tablespoons = 1 fluid ounce"
+    },
+    {
+      "unit": "fluid ounce",
+      "abbreviation": "fl.oz. or oz.",
+      "defined_as": "1/8 cup",
+      "us_fluid_ounces": "1",
+      "millilitres": 29.5735,
+      "relation": "2 fluid ounces = 1 wineglass"
+    },
+    {
+      "unit": "wineglass",
+      "abbreviation": "wgf.",
+      "defined_as": "1/4 cup",
+      "us_fluid_ounces": "2",
+      "millilitres": 59.1471,
+      "relation": "2 wineglasses = 1 teacup"
+    },
+    {
+      "unit": "gill or teacup",
+      "abbreviation": "tcf.",
+      "defined_as": "1/2 cup",
+      "us_fluid_ounces": "4",
+      "millilitres": 118.294,
+      "relation": "2 teacups = 1 cup"
+    },
+    {
+      "unit": "cup",
+      "abbreviation": "C",
+      "defined_as": "1/2 pint",
+      "us_fluid_ounces": "8",
+      "millilitres": 236.588,
+      "relation": "2 cups = 1 pint"
+    },
+    {
+      "unit": "pint",
+      "abbreviation": "pt.",
+      "defined_as": "1/2 qt",
+      "us_fluid_ounces": "16",
+      "millilitres": 473.176,
+      "relation": "2 pints = 1 quart"
+    },
+    {
+      "unit": "quart",
+      "abbreviation": "qt.",
+      "defined_as": "1/4 gal",
+      "us_fluid_ounces": "32",
+      "millilitres": 946.353,
+      "relation": "2 quarts = 1 pottle"
+    },
+    {
+      "unit": "gallon",
+      "abbreviation": "gal.",
+      "defined_as": "231 in 3",
+      "us_fluid_ounces": "128",
+      "millilitres": 3785.41,
+      "relation": "4 quarts = 1 gal"
+    }
+  ],
+  "meta": {
+    "title": "US Customary Cooking Measures - Free Download",
+    "description": "US customary volume units used in cooking and recipes, from the drop and pinch to the cup, quart and gallon, with definitions, US fluid-ounce and millilitre equivalents. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "US Customary Cooking Measures | ListBase",
+    "seo_description": "Download US Customary Cooking Measures — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/Cooking_weights_and_measures"
+    ]
+  }
+}
