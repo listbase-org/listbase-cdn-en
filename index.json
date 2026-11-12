@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-12T02:16:23.838Z",
-  "total_datasets": 6036,
-  "total_records": 2721245,
+  "generated": "2026-11-12T02:17:24.758Z",
+  "total_datasets": 6037,
+  "total_records": 2721258,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "math",
@@ -110094,6 +110094,31 @@
         "xlsx": {
           "name": "en-chief-justices-of-new-zealand_EN.xlsx",
           "size": 7417
+        }
+      }
+    },
+    {
+      "id": "en-lord-advocates-of-scotland-post-devolution",
+      "name": "Lord Advocates of Scotland since Devolution",
+      "category": "law",
+      "record_count": 13,
+      "columns": [
+        "lord_advocate",
+        "term",
+        "first_minister",
+        "solicitor_general"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Lord_Advocate",
+      "updated": "2026-11",
+      "size": 3833,
+      "files": {
+        "csv": {
+          "name": "en-lord-advocates-of-scotland-post-devolution_EN.csv",
+          "size": 872
+        },
+        "xlsx": {
+          "name": "en-lord-advocates-of-scotland-post-devolution_EN.xlsx",
+          "size": 7238
         }
       }
     },
