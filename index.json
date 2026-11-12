@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-12T02:16:08.548Z",
-  "total_datasets": 6035,
-  "total_records": 2721231,
+  "generated": "2026-11-12T02:16:23.838Z",
+  "total_datasets": 6036,
+  "total_records": 2721245,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "math",
@@ -110041,6 +110041,34 @@
         "xlsx": {
           "name": "en-attorneys-general-england-wales_EN.xlsx",
           "size": 9845
+        }
+      }
+    },
+    {
+      "id": "en-chief-justices-of-australia",
+      "name": "Chief Justices of Australia",
+      "category": "law",
+      "record_count": 14,
+      "columns": [
+        "no",
+        "chief_justice",
+        "life",
+        "tenure",
+        "nominating_prime_minister",
+        "state",
+        "previous_post"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Chief_Justice_of_Australia",
+      "updated": "2026-11",
+      "size": 6314,
+      "files": {
+        "csv": {
+          "name": "en-chief-justices-of-australia_EN.csv",
+          "size": 2406
+        },
+        "xlsx": {
+          "name": "en-chief-justices-of-australia_EN.xlsx",
+          "size": 8139
         }
       }
     },
