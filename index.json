@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-11T02:27:03.692Z",
-  "total_datasets": 6033,
-  "total_records": 2721145,
+  "generated": "2026-11-12T02:15:53.878Z",
+  "total_datasets": 6034,
+  "total_records": 2721193,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "transport",
@@ -155713,6 +155713,32 @@
         "xlsx": {
           "name": "chicago-airbnb-listings_EN.xlsx",
           "size": 75728
+        }
+      }
+    },
+    {
+      "id": "en-areas-of-outstanding-natural-beauty",
+      "name": "Areas of Outstanding Natural Beauty (National Landscapes)",
+      "category": "tourism",
+      "record_count": 48,
+      "columns": [
+        "name",
+        "country",
+        "established",
+        "area",
+        "local_authorities"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty",
+      "updated": "2026-11",
+      "size": 12566,
+      "files": {
+        "csv": {
+          "name": "en-areas-of-outstanding-natural-beauty_EN.csv",
+          "size": 5459
+        },
+        "xlsx": {
+          "name": "en-areas-of-outstanding-natural-beauty_EN.xlsx",
+          "size": 9825
         }
       }
     },
