@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-12T02:17:24.758Z",
-  "total_datasets": 6037,
-  "total_records": 2721258,
+  "generated": "2026-11-12T02:17:42.945Z",
+  "total_datasets": 6038,
+  "total_records": 2721311,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "sports",
@@ -143938,6 +143938,31 @@
         "xlsx": {
           "name": "en-us-states-fertility-rate_EN.xlsx",
           "size": 11517
+        }
+      }
+    },
+    {
+      "id": "en-us-states-gini-coefficient",
+      "name": "U.S. States by Gini Coefficient (Income Inequality)",
+      "category": "society",
+      "record_count": 53,
+      "columns": [
+        "rank",
+        "state",
+        "gini_2019",
+        "gini_2015_2019"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_by_Gini_coefficient",
+      "updated": "2026-11",
+      "size": 7950,
+      "files": {
+        "csv": {
+          "name": "en-us-states-gini-coefficient_EN.csv",
+          "size": 1861
+        },
+        "xlsx": {
+          "name": "en-us-states-gini-coefficient_EN.xlsx",
+          "size": 8316
         }
       }
     },
