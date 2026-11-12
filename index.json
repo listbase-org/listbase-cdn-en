@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-12T02:15:53.878Z",
-  "total_datasets": 6034,
-  "total_records": 2721193,
+  "generated": "2026-11-12T02:16:08.548Z",
+  "total_datasets": 6035,
+  "total_records": 2721231,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 10
+      "dataset_count": 11
     }
   ],
   "datasets": [
@@ -167903,6 +167903,34 @@
         "xlsx": {
           "name": "en-apothecaries-units_EN.xlsx",
           "size": 7578
+        }
+      }
+    },
+    {
+      "id": "en-canadian-units-of-measurement",
+      "name": "Canadian Units of Measurement",
+      "category": "units",
+      "record_count": 38,
+      "columns": [
+        "dimension",
+        "unit",
+        "symbol",
+        "relative_to_previous",
+        "imperial_equivalent",
+        "metric_equivalent",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Canadian_units_of_measurement",
+      "updated": "2026-11",
+      "size": 14854,
+      "files": {
+        "csv": {
+          "name": "en-canadian-units-of-measurement_EN.csv",
+          "size": 6609
+        },
+        "xlsx": {
+          "name": "en-canadian-units-of-measurement_EN.xlsx",
+          "size": 10330
         }
       }
     },
