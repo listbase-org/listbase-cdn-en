@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-12T02:17:42.945Z",
-  "total_datasets": 6038,
-  "total_records": 2721311,
+  "generated": "2026-11-13T02:11:48.829Z",
+  "total_datasets": 6039,
+  "total_records": 2721363,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 11
+      "dataset_count": 12
     }
   ],
   "datasets": [
@@ -168009,6 +168009,32 @@
         "xlsx": {
           "name": "en-canadian-units-of-measurement_EN.xlsx",
           "size": 10330
+        }
+      }
+    },
+    {
+      "id": "en-english-units-of-measurement",
+      "name": "Historical English Units of Measurement (pre-1824)",
+      "category": "units",
+      "record_count": 52,
+      "columns": [
+        "quantity",
+        "unit",
+        "si_equivalent",
+        "definition",
+        "origin_or_usage"
+      ],
+      "source": "https://en.wikipedia.org/wiki/English_units_of_measurement",
+      "updated": "2026-11",
+      "size": 15149,
+      "files": {
+        "csv": {
+          "name": "en-english-units-of-measurement_EN.csv",
+          "size": 7227
+        },
+        "xlsx": {
+          "name": "en-english-units-of-measurement_EN.xlsx",
+          "size": 10815
         }
       }
     },
