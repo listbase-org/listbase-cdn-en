@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-13T02:11:48.829Z",
-  "total_datasets": 6039,
-  "total_records": 2721363,
+  "generated": "2026-11-13T02:12:02.210Z",
+  "total_datasets": 6040,
+  "total_records": 2721626,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "language",
@@ -108616,6 +108616,32 @@
         "xlsx": {
           "name": "en-monarchs-in-britain-by-length-of-reign_EN.xlsx",
           "size": 13389
+        }
+      }
+    },
+    {
+      "id": "en-war-of-1812-timeline",
+      "name": "War of 1812 Timeline of Battles and Events",
+      "category": "history",
+      "record_count": 263,
+      "columns": [
+        "year",
+        "day",
+        "theater",
+        "occurrence",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Battles_of_the_War_of_1812",
+      "updated": "2026-11",
+      "size": 54604,
+      "files": {
+        "csv": {
+          "name": "en-war-of-1812-timeline_EN.csv",
+          "size": 28111
+        },
+        "xlsx": {
+          "name": "en-war-of-1812-timeline_EN.xlsx",
+          "size": 21941
         }
       }
     },
