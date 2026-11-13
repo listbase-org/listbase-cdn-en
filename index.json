@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-13T02:12:02.210Z",
-  "total_datasets": 6040,
-  "total_records": 2721626,
+  "generated": "2026-11-13T02:12:16.149Z",
+  "total_datasets": 6041,
+  "total_records": 2721678,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "language",
@@ -108642,6 +108642,35 @@
         "xlsx": {
           "name": "en-war-of-1812-timeline_EN.xlsx",
           "size": 21941
+        }
+      }
+    },
+    {
+      "id": "en-wars-involving-australia",
+      "name": "Wars Involving Australia",
+      "category": "history",
+      "record_count": 52,
+      "columns": [
+        "conflict",
+        "era",
+        "combatant_1",
+        "combatant_2",
+        "result",
+        "australian_military_losses",
+        "australian_civilian_losses",
+        "notable_battles"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_wars_involving_Australia",
+      "updated": "2026-11",
+      "size": 41780,
+      "files": {
+        "csv": {
+          "name": "en-wars-involving-australia_EN.csv",
+          "size": 29059
+        },
+        "xlsx": {
+          "name": "en-wars-involving-australia_EN.xlsx",
+          "size": 17305
         }
       }
     },
