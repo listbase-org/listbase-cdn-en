@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-14T02:14:56.959Z",
-  "total_datasets": 6045,
-  "total_records": 2721805,
+  "generated": "2026-11-14T02:15:08.549Z",
+  "total_datasets": 6046,
+  "total_records": 2721865,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "math",
@@ -110255,6 +110255,33 @@
         "xlsx": {
           "name": "en-lord-chief-justices-england-wales_EN.xlsx",
           "size": 12303
+        }
+      }
+    },
+    {
+      "id": "en-solicitors-general-england-wales",
+      "name": "Solicitors General for England and Wales (since 1900)",
+      "category": "law",
+      "record_count": 60,
+      "columns": [
+        "name",
+        "term_start",
+        "term_end",
+        "political_party",
+        "prime_minister",
+        "attorney_general"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Solicitor_General_for_England_and_Wales",
+      "updated": "2026-11",
+      "size": 17148,
+      "files": {
+        "csv": {
+          "name": "en-solicitors-general-england-wales_EN.csv",
+          "size": 6506
+        },
+        "xlsx": {
+          "name": "en-solicitors-general-england-wales_EN.xlsx",
+          "size": 10070
         }
       }
     },
