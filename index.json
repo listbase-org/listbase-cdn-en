@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-14T02:14:16.859Z",
-  "total_datasets": 6043,
-  "total_records": 2721698,
+  "generated": "2026-11-14T02:14:43.058Z",
+  "total_datasets": 6044,
+  "total_records": 2721798,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 212
+      "dataset_count": 213
     },
     {
       "id": "finance",
@@ -17910,6 +17910,35 @@
         "xlsx": {
           "name": "eh-power-plants_EN.xlsx",
           "size": 7095
+        }
+      }
+    },
+    {
+      "id": "en-retired-atlantic-hurricane-names",
+      "name": "Retired Atlantic Hurricane Names",
+      "category": "environment",
+      "record_count": 100,
+      "columns": [
+        "name",
+        "dates_active",
+        "peak_classification",
+        "sustained_winds",
+        "pressure",
+        "areas_affected",
+        "deaths",
+        "damage_usd"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_retired_Atlantic_hurricane_names",
+      "updated": "2026-11",
+      "size": 37101,
+      "files": {
+        "csv": {
+          "name": "en-retired-atlantic-hurricane-names_EN.csv",
+          "size": 16238
+        },
+        "xlsx": {
+          "name": "en-retired-atlantic-hurricane-names_EN.xlsx",
+          "size": 13648
         }
       }
     },
