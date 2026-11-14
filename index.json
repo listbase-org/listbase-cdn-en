@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-13T02:12:16.149Z",
-  "total_datasets": 6041,
-  "total_records": 2721678,
+  "generated": "2026-11-14T02:14:03.096Z",
+  "total_datasets": 6042,
+  "total_records": 2721691,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 12
+      "dataset_count": 13
     }
   ],
   "datasets": [
@@ -168036,6 +168036,37 @@
         "xlsx": {
           "name": "en-apothecaries-units_EN.xlsx",
           "size": 7578
+        }
+      }
+    },
+    {
+      "id": "en-beaufort-wind-force-scale",
+      "name": "Beaufort Wind Force Scale (0–12)",
+      "category": "units",
+      "record_count": 13,
+      "columns": [
+        "beaufort_number",
+        "description",
+        "wind_knots",
+        "wind_mph",
+        "wind_kmh",
+        "wind_ms",
+        "wave_height_ft",
+        "wave_height_m",
+        "sea_conditions",
+        "land_conditions"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Beaufort_scale",
+      "updated": "2026-11",
+      "size": 8678,
+      "files": {
+        "csv": {
+          "name": "en-beaufort-wind-force-scale_EN.csv",
+          "size": 3535
+        },
+        "xlsx": {
+          "name": "en-beaufort-wind-force-scale_EN.xlsx",
+          "size": 8989
         }
       }
     },
