@@ -1,0 +1,124 @@
+{
+  "id": "en-enhanced-fujita-tornado-scale",
+  "name": "Enhanced Fujita (EF) Tornado Scale",
+  "title": "Enhanced Fujita (EF) Tornado Scale",
+  "description": "The Enhanced Fujita scale used by the US National Weather Service to rate tornado intensity (EFU, EF0–EF5): estimated 3-second gust wind speeds, relative frequency, descriptor and typical damage.",
+  "category": "units",
+  "source": "https://en.wikipedia.org/wiki/Enhanced_Fujita_scale",
+  "source_url": "https://en.wikipedia.org/wiki/Enhanced_Fujita_scale",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "rating",
+      "label": "Rating",
+      "type": "string"
+    },
+    {
+      "key": "wind_mph",
+      "label": "Wind Mph",
+      "type": "string"
+    },
+    {
+      "key": "wind_kmh",
+      "label": "Wind Kmh",
+      "type": "string"
+    },
+    {
+      "key": "wind_knots",
+      "label": "Wind Knots",
+      "type": "string"
+    },
+    {
+      "key": "frequency",
+      "label": "Frequency",
+      "type": "string"
+    },
+    {
+      "key": "descriptor",
+      "label": "Descriptor",
+      "type": "string"
+    },
+    {
+      "key": "damage_description",
+      "label": "Damage Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rating": "EFU",
+      "wind_mph": "",
+      "wind_kmh": "",
+      "wind_knots": "",
+      "frequency": "3.11%",
+      "descriptor": "No surveyable damage",
+      "damage_description": "Intensity cannot be determined due to a lack of information. This rating applies to tornadoes that traverse areas with no damage indicators, cause damage in an area that cannot be accessed by a survey, or cause damage that cannot be differentiated from that of another tornado."
+    },
+    {
+      "rating": "EF0",
+      "wind_mph": "65–85",
+      "wind_kmh": "105–137",
+      "wind_knots": "57–74",
+      "frequency": "52.82%",
+      "descriptor": "Light damage",
+      "damage_description": "Well-built structures are typically unscathed, sometimes sustaining broken windows, with minor damage to roofs and chimneys. Billboards and large signs can be knocked down. Trees may have large branches broken off and may be uprooted if they have shallow roots."
+    },
+    {
+      "rating": "EF1",
+      "wind_mph": "86–110",
+      "wind_kmh": "138–177",
+      "wind_knots": "75–95",
+      "frequency": "32.98%",
+      "descriptor": "Moderate damage",
+      "damage_description": "Damage to mobile homes and other temporary structures becomes significant, and cars and other vehicles may be pushed off the road or flipped. Permanent structures can suffer major damage to their roofs, with corners or edges of roofs being torn off completely. Larger trees can be uprooted."
+    },
+    {
+      "rating": "EF2",
+      "wind_mph": "111–135",
+      "wind_kmh": "178–217",
+      "wind_knots": "96–117",
+      "frequency": "8.41%",
+      "descriptor": "Considerable damage",
+      "damage_description": "Well-built structures can suffer severe damage (including roof loss), and the collapse of some exterior walls may occur in poorly built structures. Mobile homes are often heavily damaged or destroyed. Vehicles can be lifted off the ground, and lighter objects can become small missiles, causing damage outside of the tornado's main path. Wooded areas have a large percentage of their trees snapped or uprooted."
+    },
+    {
+      "rating": "EF3",
+      "wind_mph": "136–165",
+      "wind_kmh": "218–266",
+      "wind_knots": "118–143",
+      "frequency": "2.18%",
+      "descriptor": "Severe damage",
+      "damage_description": "A few parts of affected buildings are left standing. Well-built structures lose all outer and some inner walls. Unanchored homes are swept away, and homes with poor anchoring may collapse entirely. Trains and train cars are all overturned. Small vehicles and similarly sized objects are lifted off the ground and tossed as projectiles. Wooded areas suffer an almost total loss of vegetation and some tree debarking may occur."
+    },
+    {
+      "rating": "EF4",
+      "wind_mph": "166–200",
+      "wind_kmh": "267–322",
+      "wind_knots": "144–174",
+      "frequency": "0.45%",
+      "descriptor": "Devastating damage",
+      "damage_description": "Well-built homes are reduced to a short pile of medium-sized debris on the foundation. Homes with poor or no anchoring are swept completely away. Large, heavy vehicles, including airplanes, trains, and large trucks, can be pushed over, flipped repeatedly, or picked up and thrown. Large, healthy trees are entirely debarked and snapped off close to the ground or uprooted altogether and turned into flying projectiles. Passenger cars and similarly sized objects can be picked up and flung for considerable distances."
+    },
+    {
+      "rating": "EF5",
+      "wind_mph": "201+",
+      "wind_kmh": "323+",
+      "wind_knots": "175+",
+      "frequency": "0.05%",
+      "descriptor": "Incredible damage",
+      "damage_description": "Well-built and well-anchored homes are swept cleanly off their foundations and obliterated. Large, steel-reinforced structures such as schools are completely leveled. Low-lying grass and vegetation are shredded from the ground. Trees are completely debarked and snapped. Very little recognizable structural debris is generated with most materials reduced to a coarse, dispersed mix of small, granular particles. Large, multiple-ton steel frame vehicles and farm equipment are often mangled beyond recognition and tossed miles away or reduced entirely to unrecognizable parts. Tall buildings collapse or suffer severe structural deformation."
+    }
+  ],
+  "meta": {
+    "title": "Enhanced Fujita (EF) Tornado Scale - Free Download",
+    "description": "The Enhanced Fujita scale used by the US National Weather Service to rate tornado intensity (EFU, EF0–EF5): estimated 3-second gust wind speeds, relative frequency, descriptor and typical damage. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Enhanced Fujita (EF) Tornado Scale | ListBase",
+    "seo_description": "Download Enhanced Fujita (EF) Tornado Scale — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/Enhanced_Fujita_scale"
+    ]
+  }
+}

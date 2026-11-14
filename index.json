@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-14T02:14:03.096Z",
-  "total_datasets": 6042,
-  "total_records": 2721691,
+  "generated": "2026-11-14T02:14:16.859Z",
+  "total_datasets": 6043,
+  "total_records": 2721698,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 13
+      "dataset_count": 14
     }
   ],
   "datasets": [
@@ -168121,6 +168121,34 @@
         "xlsx": {
           "name": "en-english-units-of-measurement_EN.xlsx",
           "size": 10815
+        }
+      }
+    },
+    {
+      "id": "en-enhanced-fujita-tornado-scale",
+      "name": "Enhanced Fujita (EF) Tornado Scale",
+      "category": "units",
+      "record_count": 7,
+      "columns": [
+        "rating",
+        "wind_mph",
+        "wind_kmh",
+        "wind_knots",
+        "frequency",
+        "descriptor",
+        "damage_description"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Enhanced_Fujita_scale",
+      "updated": "2026-11",
+      "size": 6392,
+      "files": {
+        "csv": {
+          "name": "en-enhanced-fujita-tornado-scale_EN.csv",
+          "size": 3369
+        },
+        "xlsx": {
+          "name": "en-enhanced-fujita-tornado-scale_EN.xlsx",
+          "size": 8505
         }
       }
     },
