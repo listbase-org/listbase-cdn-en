@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-14T02:14:43.058Z",
-  "total_datasets": 6044,
-  "total_records": 2721798,
+  "generated": "2026-11-14T02:14:56.959Z",
+  "total_datasets": 6045,
+  "total_records": 2721805,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 14
+      "dataset_count": 15
     }
   ],
   "datasets": [
@@ -168235,6 +168235,32 @@
         "xlsx": {
           "name": "en-irish-units-of-measurement_EN.xlsx",
           "size": 8201
+        }
+      }
+    },
+    {
+      "id": "en-saffir-simpson-hurricane-wind-scale",
+      "name": "Saffir–Simpson Hurricane Wind Scale",
+      "category": "units",
+      "record_count": 7,
+      "columns": [
+        "category",
+        "wind_ms",
+        "wind_knots",
+        "wind_mph",
+        "wind_kmh"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Saffir–Simpson_scale",
+      "updated": "2026-11",
+      "size": 2937,
+      "files": {
+        "csv": {
+          "name": "en-saffir-simpson-hurricane-wind-scale_EN.csv",
+          "size": 380
+        },
+        "xlsx": {
+          "name": "en-saffir-simpson-hurricane-wind-scale_EN.xlsx",
+          "size": 7045
         }
       }
     },

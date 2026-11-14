@@ -1,0 +1,100 @@
+{
+  "id": "en-saffir-simpson-hurricane-wind-scale",
+  "name": "Saffir–Simpson Hurricane Wind Scale",
+  "title": "Saffir–Simpson Hurricane Wind Scale",
+  "description": "The Saffir–Simpson hurricane wind scale used by the US National Hurricane Center: categories 1–5 plus tropical storm and tropical depression, with 1-minute sustained wind ranges in m/s, knots, mph and km/h.",
+  "category": "units",
+  "source": "https://en.wikipedia.org/wiki/Saffir–Simpson_scale",
+  "source_url": "https://en.wikipedia.org/wiki/Saffir–Simpson_scale",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "number"
+    },
+    {
+      "key": "wind_ms",
+      "label": "Wind Ms",
+      "type": "string"
+    },
+    {
+      "key": "wind_knots",
+      "label": "Wind Knots",
+      "type": "string"
+    },
+    {
+      "key": "wind_mph",
+      "label": "Wind Mph",
+      "type": "string"
+    },
+    {
+      "key": "wind_kmh",
+      "label": "Wind Kmh",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "5",
+      "wind_ms": "≥ 70",
+      "wind_knots": "≥ 137",
+      "wind_mph": "≥ 157",
+      "wind_kmh": "≥ 252"
+    },
+    {
+      "category": "4",
+      "wind_ms": "58–70",
+      "wind_knots": "113–136",
+      "wind_mph": "130–156",
+      "wind_kmh": "209–251"
+    },
+    {
+      "category": "3",
+      "wind_ms": "50–58",
+      "wind_knots": "96–112",
+      "wind_mph": "111–129",
+      "wind_kmh": "178–208"
+    },
+    {
+      "category": "2",
+      "wind_ms": "43–49",
+      "wind_knots": "83–95",
+      "wind_mph": "96–110",
+      "wind_kmh": "154–177"
+    },
+    {
+      "category": "1",
+      "wind_ms": "33–42",
+      "wind_knots": "64–82",
+      "wind_mph": "74–95",
+      "wind_kmh": "119–153"
+    },
+    {
+      "category": "TS",
+      "wind_ms": "18–32",
+      "wind_knots": "34–63",
+      "wind_mph": "39–73",
+      "wind_kmh": "63–118"
+    },
+    {
+      "category": "TD",
+      "wind_ms": "≤ 17",
+      "wind_knots": "≤ 33",
+      "wind_mph": "≤ 38",
+      "wind_kmh": "≤ 62"
+    }
+  ],
+  "meta": {
+    "title": "Saffir–Simpson Hurricane Wind Scale - Free Download",
+    "description": "The Saffir–Simpson hurricane wind scale used by the US National Hurricane Center: categories 1–5 plus tropical storm and tropical depression, with 1-minute sustained wind ranges in m/s, knots, mph and km/h. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Saffir–Simpson Hurricane Wind Scale | ListBase",
+    "seo_description": "Download Saffir–Simpson Hurricane Wind Scale — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/Saffir–Simpson_scale"
+    ]
+  }
+}
