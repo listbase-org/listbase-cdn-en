@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-14T02:15:08.549Z",
-  "total_datasets": 6046,
-  "total_records": 2721865,
+  "generated": "2026-11-15T02:23:29.341Z",
+  "total_datasets": 6047,
+  "total_records": 2721910,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "math",
@@ -110125,6 +110125,40 @@
         "xlsx": {
           "name": "en-attorneys-general-england-wales_EN.xlsx",
           "size": 9845
+        }
+      }
+    },
+    {
+      "id": "en-australian-constitutional-referendums",
+      "name": "Australian Constitutional Referendums (1906–2023)",
+      "category": "law",
+      "record_count": 45,
+      "columns": [
+        "year",
+        "number",
+        "name",
+        "national_yes_pct",
+        "states_for_against",
+        "nsw_yes_pct",
+        "vic_yes_pct",
+        "qld_yes_pct",
+        "sa_yes_pct",
+        "wa_yes_pct",
+        "tas_yes_pct",
+        "act_yes_pct",
+        "nt_yes_pct"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Referendums_in_Australia",
+      "updated": "2026-11",
+      "size": 19470,
+      "files": {
+        "csv": {
+          "name": "en-australian-constitutional-referendums_EN.csv",
+          "size": 4718
+        },
+        "xlsx": {
+          "name": "en-australian-constitutional-referendums_EN.xlsx",
+          "size": 10456
         }
       }
     },
