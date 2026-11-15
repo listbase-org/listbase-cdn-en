@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-15T02:23:29.341Z",
-  "total_datasets": 6047,
-  "total_records": 2721910,
+  "generated": "2026-11-15T02:23:44.217Z",
+  "total_datasets": 6048,
+  "total_records": 2721957,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "math",
@@ -110212,6 +110212,39 @@
         "xlsx": {
           "name": "en-chief-justices-of-new-zealand_EN.xlsx",
           "size": 7417
+        }
+      }
+    },
+    {
+      "id": "en-ireland-constitutional-amendments",
+      "name": "Amendments to the Constitution of Ireland (1937–2024)",
+      "category": "law",
+      "record_count": 47,
+      "columns": [
+        "proposal",
+        "enactment_date",
+        "subject",
+        "referendum_date",
+        "electorate",
+        "total_poll",
+        "turnout_pct",
+        "votes_for",
+        "for_pct",
+        "votes_against",
+        "against_pct",
+        "description"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Amendments_to_the_Constitution_of_Ireland",
+      "updated": "2026-11",
+      "size": 27097,
+      "files": {
+        "csv": {
+          "name": "en-ireland-constitutional-amendments_EN.csv",
+          "size": 12558
+        },
+        "xlsx": {
+          "name": "en-ireland-constitutional-amendments_EN.xlsx",
+          "size": 13492
         }
       }
     },
