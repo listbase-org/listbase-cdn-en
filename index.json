@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-15T02:23:44.217Z",
-  "total_datasets": 6048,
-  "total_records": 2721957,
+  "generated": "2026-11-15T02:23:58.242Z",
+  "total_datasets": 6049,
+  "total_records": 2722005,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 243
+      "dataset_count": 244
     },
     {
       "id": "reference",
@@ -113385,6 +113385,34 @@
         "xlsx": {
           "name": "eh-political-parties_EN.xlsx",
           "size": 7202
+        }
+      }
+    },
+    {
+      "id": "en-new-zealand-citizens-initiated-referendum-petitions",
+      "name": "New Zealand Citizens-Initiated Referendum Petitions (1994–present)",
+      "category": "politics",
+      "record_count": 48,
+      "columns": [
+        "proposal_received",
+        "sponsor",
+        "question_proposed",
+        "question_determined",
+        "determination_gazetted",
+        "signatures_due",
+        "result"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Referendums_in_New_Zealand",
+      "updated": "2026-11",
+      "size": 30744,
+      "files": {
+        "csv": {
+          "name": "en-new-zealand-citizens-initiated-referendum-petitions_EN.csv",
+          "size": 19442
+        },
+        "xlsx": {
+          "name": "en-new-zealand-citizens-initiated-referendum-petitions_EN.xlsx",
+          "size": 14235
         }
       }
     },
