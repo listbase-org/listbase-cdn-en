@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-15T02:23:58.242Z",
-  "total_datasets": 6049,
-  "total_records": 2722005,
+  "generated": "2026-11-15T02:24:11.254Z",
+  "total_datasets": 6050,
+  "total_records": 2722048,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "transport",
@@ -156131,6 +156131,32 @@
         "xlsx": {
           "name": "en-uk-amusement-theme-parks_EN.xlsx",
           "size": 7640
+        }
+      }
+    },
+    {
+      "id": "en-us-most-visited-museums",
+      "name": "Most-Visited Museums in the United States",
+      "category": "tourism",
+      "record_count": 43,
+      "columns": [
+        "rank",
+        "museum",
+        "location",
+        "visitors",
+        "year"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_most-visited_museums_in_the_United_States",
+      "updated": "2026-11",
+      "size": 8746,
+      "files": {
+        "csv": {
+          "name": "en-us-most-visited-museums_EN.csv",
+          "size": 3068
+        },
+        "xlsx": {
+          "name": "en-us-most-visited-museums_EN.xlsx",
+          "size": 8589
         }
       }
     },
