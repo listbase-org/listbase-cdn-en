@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-11-16T02:27:20.622Z",
-  "total_datasets": 6051,
-  "total_records": 2722063,
+  "generated": "2026-11-16T02:27:34.229Z",
+  "total_datasets": 6052,
+  "total_records": 2722095,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "business",
@@ -235,6 +235,30 @@
         "xlsx": {
           "name": "en-scottish-animal-breeds_EN.xlsx",
           "size": 8300
+        }
+      }
+    },
+    {
+      "id": "en-uk-common-crop-pests",
+      "name": "Common Pests of UK Crops",
+      "category": "agriculture",
+      "record_count": 32,
+      "columns": [
+        "common_name",
+        "latin_name",
+        "crops_affected"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Agriculture_in_the_United_Kingdom",
+      "updated": "2026-11",
+      "size": 5833,
+      "files": {
+        "csv": {
+          "name": "en-uk-common-crop-pests_EN.csv",
+          "size": 1713
+        },
+        "xlsx": {
+          "name": "en-uk-common-crop-pests_EN.xlsx",
+          "size": 7922
         }
       }
     },
