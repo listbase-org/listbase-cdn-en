@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-11-16T02:27:34.229Z",
-  "total_datasets": 6052,
-  "total_records": 2722095,
+  "generated": "2026-11-16T02:27:48.798Z",
+  "total_datasets": 6053,
+  "total_records": 2722120,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "business",
@@ -259,6 +259,30 @@
         "xlsx": {
           "name": "en-uk-common-crop-pests_EN.xlsx",
           "size": 7922
+        }
+      }
+    },
+    {
+      "id": "en-uk-common-crop-weeds",
+      "name": "Common Weeds of UK Farmland and the Crops They Affect",
+      "category": "agriculture",
+      "record_count": 25,
+      "columns": [
+        "common_name",
+        "latin_name",
+        "crops_affected"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Agriculture_in_the_United_Kingdom",
+      "updated": "2026-11",
+      "size": 5028,
+      "files": {
+        "csv": {
+          "name": "en-uk-common-crop-weeds_EN.csv",
+          "size": 1329
+        },
+        "xlsx": {
+          "name": "en-uk-common-crop-weeds_EN.xlsx",
+          "size": 7633
         }
       }
     },
