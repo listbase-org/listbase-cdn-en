@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-15T02:24:11.254Z",
-  "total_datasets": 6050,
-  "total_records": 2722048,
+  "generated": "2026-11-16T02:27:20.622Z",
+  "total_datasets": 6051,
+  "total_records": 2722063,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "tourism",
@@ -155689,6 +155689,36 @@
         "xlsx": {
           "name": "en-new-zealand-public-holidays_EN.xlsx",
           "size": 7133
+        }
+      }
+    },
+    {
+      "id": "en-relative-time-expressions",
+      "name": "English Relative Time Expressions (yesterday, next week, in 3 days, 2 hours ago…)",
+      "category": "time",
+      "record_count": 15,
+      "columns": [
+        "unit_code",
+        "unit",
+        "previous",
+        "current",
+        "next",
+        "future_singular",
+        "future_plural",
+        "past_singular",
+        "past_plural"
+      ],
+      "source": "https://github.com/unicode-org/cldr/blob/main/common/main/en.xml",
+      "updated": "2026-11",
+      "size": 7291,
+      "files": {
+        "csv": {
+          "name": "en-relative-time-expressions_EN.csv",
+          "size": 1923
+        },
+        "xlsx": {
+          "name": "en-relative-time-expressions_EN.xlsx",
+          "size": 7814
         }
       }
     },

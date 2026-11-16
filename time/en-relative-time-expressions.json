@@ -1,0 +1,236 @@
+{
+  "id": "en-relative-time-expressions",
+  "name": "English Relative Time Expressions (yesterday, next week, in 3 days, 2 hours ago…)",
+  "title": "English Relative Time Expressions (yesterday, next week, in 3 days, 2 hours ago…)",
+  "description": "Standard English relative time expressions for every time unit and weekday — last year, this month, next week, yesterday, today, tomorrow, \"in {0} days\", \"{0} hours ago\" — with singular and plural patterns, from the Unicode CLDR (en).",
+  "category": "time",
+  "source": "https://github.com/unicode-org/cldr/blob/main/common/main/en.xml",
+  "source_url": "https://github.com/unicode-org/cldr/blob/main/common/main/en.xml",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "previous",
+      "label": "Previous",
+      "type": "string"
+    },
+    {
+      "key": "current",
+      "label": "Current",
+      "type": "string"
+    },
+    {
+      "key": "next",
+      "label": "Next",
+      "type": "string"
+    },
+    {
+      "key": "future_singular",
+      "label": "Future Singular",
+      "type": "string"
+    },
+    {
+      "key": "future_plural",
+      "label": "Future Plural",
+      "type": "string"
+    },
+    {
+      "key": "past_singular",
+      "label": "Past Singular",
+      "type": "string"
+    },
+    {
+      "key": "past_plural",
+      "label": "Past Plural",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "year",
+      "unit": "year",
+      "previous": "last year",
+      "current": "this year",
+      "next": "next year",
+      "future_singular": "in {0} year",
+      "future_plural": "in {0} years",
+      "past_singular": "{0} year ago",
+      "past_plural": "{0} years ago"
+    },
+    {
+      "unit_code": "quarter",
+      "unit": "quarter",
+      "previous": "last quarter",
+      "current": "this quarter",
+      "next": "next quarter",
+      "future_singular": "in {0} quarter",
+      "future_plural": "in {0} quarters",
+      "past_singular": "{0} quarter ago",
+      "past_plural": "{0} quarters ago"
+    },
+    {
+      "unit_code": "month",
+      "unit": "month",
+      "previous": "last month",
+      "current": "this month",
+      "next": "next month",
+      "future_singular": "in {0} month",
+      "future_plural": "in {0} months",
+      "past_singular": "{0} month ago",
+      "past_plural": "{0} months ago"
+    },
+    {
+      "unit_code": "week",
+      "unit": "week",
+      "previous": "last week",
+      "current": "this week",
+      "next": "next week",
+      "future_singular": "in {0} week",
+      "future_plural": "in {0} weeks",
+      "past_singular": "{0} week ago",
+      "past_plural": "{0} weeks ago"
+    },
+    {
+      "unit_code": "day",
+      "unit": "day",
+      "previous": "yesterday",
+      "current": "today",
+      "next": "tomorrow",
+      "future_singular": "in {0} day",
+      "future_plural": "in {0} days",
+      "past_singular": "{0} day ago",
+      "past_plural": "{0} days ago"
+    },
+    {
+      "unit_code": "sun",
+      "unit": "Sunday",
+      "previous": "last Sunday",
+      "current": "this Sunday",
+      "next": "next Sunday",
+      "future_singular": "in {0} Sunday",
+      "future_plural": "in {0} Sundays",
+      "past_singular": "{0} Sunday ago",
+      "past_plural": "{0} Sundays ago"
+    },
+    {
+      "unit_code": "mon",
+      "unit": "Monday",
+      "previous": "last Monday",
+      "current": "this Monday",
+      "next": "next Monday",
+      "future_singular": "in {0} Monday",
+      "future_plural": "in {0} Mondays",
+      "past_singular": "{0} Monday ago",
+      "past_plural": "{0} Mondays ago"
+    },
+    {
+      "unit_code": "tue",
+      "unit": "Tuesday",
+      "previous": "last Tuesday",
+      "current": "this Tuesday",
+      "next": "next Tuesday",
+      "future_singular": "in {0} Tuesday",
+      "future_plural": "in {0} Tuesdays",
+      "past_singular": "{0} Tuesday ago",
+      "past_plural": "{0} Tuesdays ago"
+    },
+    {
+      "unit_code": "wed",
+      "unit": "Wednesday",
+      "previous": "last Wednesday",
+      "current": "this Wednesday",
+      "next": "next Wednesday",
+      "future_singular": "in {0} Wednesday",
+      "future_plural": "in {0} Wednesdays",
+      "past_singular": "{0} Wednesday ago",
+      "past_plural": "{0} Wednesdays ago"
+    },
+    {
+      "unit_code": "thu",
+      "unit": "Thursday",
+      "previous": "last Thursday",
+      "current": "this Thursday",
+      "next": "next Thursday",
+      "future_singular": "in {0} Thursday",
+      "future_plural": "in {0} Thursdays",
+      "past_singular": "{0} Thursday ago",
+      "past_plural": "{0} Thursdays ago"
+    },
+    {
+      "unit_code": "fri",
+      "unit": "Friday",
+      "previous": "last Friday",
+      "current": "this Friday",
+      "next": "next Friday",
+      "future_singular": "in {0} Friday",
+      "future_plural": "in {0} Fridays",
+      "past_singular": "{0} Friday ago",
+      "past_plural": "{0} Fridays ago"
+    },
+    {
+      "unit_code": "sat",
+      "unit": "Saturday",
+      "previous": "last Saturday",
+      "current": "this Saturday",
+      "next": "next Saturday",
+      "future_singular": "in {0} Saturday",
+      "future_plural": "in {0} Saturdays",
+      "past_singular": "{0} Saturday ago",
+      "past_plural": "{0} Saturdays ago"
+    },
+    {
+      "unit_code": "hour",
+      "unit": "hour",
+      "previous": "",
+      "current": "this hour",
+      "next": "",
+      "future_singular": "in {0} hour",
+      "future_plural": "in {0} hours",
+      "past_singular": "{0} hour ago",
+      "past_plural": "{0} hours ago"
+    },
+    {
+      "unit_code": "minute",
+      "unit": "minute",
+      "previous": "",
+      "current": "this minute",
+      "next": "",
+      "future_singular": "in {0} minute",
+      "future_plural": "in {0} minutes",
+      "past_singular": "{0} minute ago",
+      "past_plural": "{0} minutes ago"
+    },
+    {
+      "unit_code": "second",
+      "unit": "second",
+      "previous": "",
+      "current": "now",
+      "next": "",
+      "future_singular": "in {0} second",
+      "future_plural": "in {0} seconds",
+      "past_singular": "{0} second ago",
+      "past_plural": "{0} seconds ago"
+    }
+  ],
+  "meta": {
+    "title": "English Relative Time Expressions (yesterday, next week, in 3 days, 2 hours ago…) - Free Download",
+    "description": "Standard English relative time expressions for every time unit and weekday — last year, this month, next week, yesterday, today, tomorrow, \"in {0} days\", \"{0} hours ago\" — with singular and plural patterns, from the Unicode CLDR (en). Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "English Relative Time Expressions (yesterday, next week, in 3 days, 2 hours ago…) | ListBase",
+    "seo_description": "Download English Relative Time Expressions (yesterday, next week, in 3 days, 2 hours ago…) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr/blob/main/common/main/en.xml"
+    ]
+  }
+}
