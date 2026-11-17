@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-17T02:29:32.479Z",
-  "total_datasets": 6055,
-  "total_records": 2722136,
+  "generated": "2026-11-17T02:29:47.003Z",
+  "total_datasets": 6056,
+  "total_records": 2722187,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "sports",
@@ -144276,6 +144276,30 @@
         "xlsx": {
           "name": "en-us-states-gini-coefficient_EN.xlsx",
           "size": 8316
+        }
+      }
+    },
+    {
+      "id": "en-us-states-gun-death-rate-2024",
+      "name": "Gun Death Rates by U.S. State (2024)",
+      "category": "society",
+      "record_count": 51,
+      "columns": [
+        "state",
+        "gun_death_rate_per_100k_2024",
+        "gun_deaths_2024"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Gun_death_and_violence_in_the_United_States_by_state",
+      "updated": "2026-11",
+      "size": 7484,
+      "files": {
+        "csv": {
+          "name": "en-us-states-gun-death-rate-2024_EN.csv",
+          "size": 1314
+        },
+        "xlsx": {
+          "name": "en-us-states-gun-death-rate-2024_EN.xlsx",
+          "size": 8031
         }
       }
     },
