@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-17T02:29:18.180Z",
-  "total_datasets": 6054,
-  "total_records": 2722128,
+  "generated": "2026-11-17T02:29:32.479Z",
+  "total_datasets": 6055,
+  "total_records": 2722136,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "entertainment",
@@ -8515,6 +8515,33 @@
         "xlsx": {
           "name": "en-ivy-league-universities_EN.xlsx",
           "size": 7944
+        }
+      }
+    },
+    {
+      "id": "en-new-zealand-universities",
+      "name": "Universities in New Zealand",
+      "category": "education",
+      "record_count": 8,
+      "columns": [
+        "university",
+        "main_campus",
+        "established",
+        "university_status_since",
+        "student_headcount_2024",
+        "equivalent_full_time_students_2024"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_universities_in_New_Zealand",
+      "updated": "2026-11",
+      "size": 3980,
+      "files": {
+        "csv": {
+          "name": "en-new-zealand-universities_EN.csv",
+          "size": 680
+        },
+        "xlsx": {
+          "name": "en-new-zealand-universities_EN.xlsx",
+          "size": 7200
         }
       }
     },
