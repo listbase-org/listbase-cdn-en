@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-16T02:27:48.798Z",
-  "total_datasets": 6053,
-  "total_records": 2722120,
+  "generated": "2026-11-17T02:29:18.180Z",
+  "total_datasets": 6054,
+  "total_records": 2722128,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "entertainment",
@@ -8483,6 +8483,38 @@
         "xlsx": {
           "name": "en-group-of-eight-universities-australia_EN.xlsx",
           "size": 7591
+        }
+      }
+    },
+    {
+      "id": "en-ivy-league-universities",
+      "name": "Ivy League Universities",
+      "category": "education",
+      "record_count": 8,
+      "columns": [
+        "institution",
+        "location",
+        "undergraduates",
+        "postgraduates",
+        "endowment_usd_billion",
+        "academic_staff",
+        "year_founded",
+        "team_name",
+        "founded_as",
+        "chartered",
+        "founding_affiliation"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Ivy_League",
+      "updated": "2026-11",
+      "size": 6174,
+      "files": {
+        "csv": {
+          "name": "en-ivy-league-universities_EN.csv",
+          "size": 1810
+        },
+        "xlsx": {
+          "name": "en-ivy-league-universities_EN.xlsx",
+          "size": 7944
         }
       }
     },
