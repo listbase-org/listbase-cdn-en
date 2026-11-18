@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-11-17T02:29:47.003Z",
-  "total_datasets": 6056,
-  "total_records": 2722187,
+  "generated": "2026-11-18T02:24:34.661Z",
+  "total_datasets": 6057,
+  "total_records": 2722232,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "business",
@@ -283,6 +283,34 @@
         "xlsx": {
           "name": "en-uk-common-crop-weeds_EN.xlsx",
           "size": 7633
+        }
+      }
+    },
+    {
+      "id": "en-us-secretaries-of-agriculture",
+      "name": "United States Secretaries of Agriculture",
+      "category": "agriculture",
+      "record_count": 45,
+      "columns": [
+        "number",
+        "name",
+        "state_of_residence",
+        "took_office",
+        "left_office",
+        "presidents",
+        "office"
+      ],
+      "source": "https://en.wikipedia.org/wiki/United_States_Secretary_of_Agriculture",
+      "updated": "2026-11",
+      "size": 14325,
+      "files": {
+        "csv": {
+          "name": "en-us-secretaries-of-agriculture_EN.csv",
+          "size": 5393
+        },
+        "xlsx": {
+          "name": "en-us-secretaries-of-agriculture_EN.xlsx",
+          "size": 9703
         }
       }
     },
