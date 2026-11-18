@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-18T02:24:49.925Z",
-  "total_datasets": 6058,
-  "total_records": 2722251,
+  "generated": "2026-11-18T02:25:05.278Z",
+  "total_datasets": 6059,
+  "total_records": 2722291,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "sports",
@@ -144267,6 +144267,33 @@
         "xlsx": {
           "name": "crime-index-by-country_EN.xlsx",
           "size": 10712
+        }
+      }
+    },
+    {
+      "id": "en-us-secretaries-of-labor",
+      "name": "United States Secretaries of Labor",
+      "category": "society",
+      "record_count": 40,
+      "columns": [
+        "number",
+        "name",
+        "state_of_residence",
+        "took_office",
+        "left_office",
+        "presidents"
+      ],
+      "source": "https://en.wikipedia.org/wiki/United_States_Secretary_of_Labor",
+      "updated": "2026-11",
+      "size": 10871,
+      "files": {
+        "csv": {
+          "name": "en-us-secretaries-of-labor_EN.csv",
+          "size": 3633
+        },
+        "xlsx": {
+          "name": "en-us-secretaries-of-labor_EN.xlsx",
+          "size": 9107
         }
       }
     },
