@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-18T02:24:34.661Z",
-  "total_datasets": 6057,
-  "total_records": 2722232,
+  "generated": "2026-11-18T02:24:49.925Z",
+  "total_datasets": 6058,
+  "total_records": 2722251,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "entertainment",
@@ -8685,6 +8685,33 @@
         "xlsx": {
           "name": "en-us-hbcus_EN.xlsx",
           "size": 17972
+        }
+      }
+    },
+    {
+      "id": "en-us-secretaries-of-education",
+      "name": "United States Secretaries of Education",
+      "category": "education",
+      "record_count": 19,
+      "columns": [
+        "number",
+        "name",
+        "state_of_residence",
+        "took_office",
+        "left_office",
+        "presidents"
+      ],
+      "source": "https://en.wikipedia.org/wiki/United_States_Secretary_of_Education",
+      "updated": "2026-11",
+      "size": 6212,
+      "files": {
+        "csv": {
+          "name": "en-us-secretaries-of-education_EN.csv",
+          "size": 1740
+        },
+        "xlsx": {
+          "name": "en-us-secretaries-of-education_EN.xlsx",
+          "size": 7837
         }
       }
     },
