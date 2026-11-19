@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-18T02:25:05.278Z",
-  "total_datasets": 6059,
-  "total_records": 2722291,
+  "generated": "2026-11-19T02:24:45.264Z",
+  "total_datasets": 6060,
+  "total_records": 2722335,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 15
+      "dataset_count": 16
     }
   ],
   "datasets": [
@@ -168429,6 +168429,36 @@
         "xlsx": {
           "name": "zw-airports-iata_EN.xlsx",
           "size": 8195
+        }
+      }
+    },
+    {
+      "id": "en-american-wire-gauge-sizes",
+      "name": "American Wire Gauge (AWG) Sizes",
+      "category": "units",
+      "record_count": 44,
+      "columns": [
+        "awg",
+        "diameter_in",
+        "diameter_mm",
+        "area_kcmil",
+        "area_mm2",
+        "copper_resistance_mohm_per_m",
+        "copper_ampacity_60c_a",
+        "copper_ampacity_75c_a",
+        "copper_ampacity_90c_a"
+      ],
+      "source": "https://en.wikipedia.org/wiki/American_wire_gauge",
+      "updated": "2026-11",
+      "size": 14949,
+      "files": {
+        "csv": {
+          "name": "en-american-wire-gauge-sizes_EN.csv",
+          "size": 2718
+        },
+        "xlsx": {
+          "name": "en-american-wire-gauge-sizes_EN.xlsx",
+          "size": 9143
         }
       }
     },
