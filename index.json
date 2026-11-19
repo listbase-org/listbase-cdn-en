@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-19T02:24:45.264Z",
-  "total_datasets": 6060,
-  "total_records": 2722335,
+  "generated": "2026-11-19T02:24:57.639Z",
+  "total_datasets": 6061,
+  "total_records": 2722702,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "language",
@@ -108755,6 +108755,31 @@
         "xlsx": {
           "name": "en-castles-in-wales_EN.xlsx",
           "size": 13757
+        }
+      }
+    },
+    {
+      "id": "en-disasters-great-britain-ireland-by-death-toll",
+      "name": "Disasters in Great Britain and Ireland by Death Toll",
+      "category": "history",
+      "record_count": 367,
+      "columns": [
+        "deaths",
+        "event",
+        "year",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_disasters_in_Great_Britain_and_Ireland_by_death_toll",
+      "updated": "2026-11",
+      "size": 74559,
+      "files": {
+        "csv": {
+          "name": "en-disasters-great-britain-ireland-by-death-toll_EN.csv",
+          "size": 45527
+        },
+        "xlsx": {
+          "name": "en-disasters-great-britain-ireland-by-death-toll_EN.xlsx",
+          "size": 32580
         }
       }
     },
