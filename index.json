@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-19T02:25:08.057Z",
-  "total_datasets": 6062,
-  "total_records": 2723095,
+  "generated": "2026-11-19T02:25:18.493Z",
+  "total_datasets": 6063,
+  "total_records": 2723108,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "sports",
@@ -144292,6 +144292,37 @@
         "xlsx": {
           "name": "crime-index-by-country_EN.xlsx",
           "size": 10712
+        }
+      }
+    },
+    {
+      "id": "en-canada-provinces-life-expectancy",
+      "name": "Life Expectancy at Birth by Canadian Province and Territory",
+      "category": "society",
+      "record_count": 13,
+      "columns": [
+        "province_or_territory",
+        "overall_2017_2019",
+        "male_2017_2019",
+        "female_2017_2019",
+        "overall_2021_2023",
+        "male_2021_2023",
+        "female_2021_2023",
+        "overall_2022_2024",
+        "male_2022_2024",
+        "female_2022_2024"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Canadian_provinces_and_territories_by_life_expectancy",
+      "updated": "2026-11",
+      "size": 7239,
+      "files": {
+        "csv": {
+          "name": "en-canada-provinces-life-expectancy_EN.csv",
+          "size": 1325
+        },
+        "xlsx": {
+          "name": "en-canada-provinces-life-expectancy_EN.xlsx",
+          "size": 7734
         }
       }
     },

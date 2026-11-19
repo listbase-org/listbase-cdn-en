@@ -1,0 +1,232 @@
+{
+  "id": "en-canada-provinces-life-expectancy",
+  "name": "Life Expectancy at Birth by Canadian Province and Territory",
+  "title": "Life Expectancy at Birth by Canadian Province and Territory",
+  "description": "Life expectancy at birth (overall, male and female) for Canada and each province and territory, as three-year averages for 2017–2019, 2021–2023 and 2022–2024 (Statistics Canada data).",
+  "category": "society",
+  "source": "https://en.wikipedia.org/wiki/List_of_Canadian_provinces_and_territories_by_life_expectancy",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Canadian_provinces_and_territories_by_life_expectancy",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "province_or_territory",
+      "label": "Province Or Territory",
+      "type": "string"
+    },
+    {
+      "key": "overall_2017_2019",
+      "label": "Overall 2017 2019",
+      "type": "number"
+    },
+    {
+      "key": "male_2017_2019",
+      "label": "Male 2017 2019",
+      "type": "number"
+    },
+    {
+      "key": "female_2017_2019",
+      "label": "Female 2017 2019",
+      "type": "number"
+    },
+    {
+      "key": "overall_2021_2023",
+      "label": "Overall 2021 2023",
+      "type": "number"
+    },
+    {
+      "key": "male_2021_2023",
+      "label": "Male 2021 2023",
+      "type": "number"
+    },
+    {
+      "key": "female_2021_2023",
+      "label": "Female 2021 2023",
+      "type": "number"
+    },
+    {
+      "key": "overall_2022_2024",
+      "label": "Overall 2022 2024",
+      "type": "number"
+    },
+    {
+      "key": "male_2022_2024",
+      "label": "Male 2022 2024",
+      "type": "number"
+    },
+    {
+      "key": "female_2022_2024",
+      "label": "Female 2022 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "province_or_territory": "Canada on average",
+      "overall_2017_2019": 81.99,
+      "male_2017_2019": 79.86,
+      "female_2017_2019": 84.09,
+      "overall_2021_2023": 81.43,
+      "male_2021_2023": 79.16,
+      "female_2021_2023": 83.72,
+      "overall_2022_2024": 81.65,
+      "male_2022_2024": 79.47,
+      "female_2022_2024": 83.86
+    },
+    {
+      "province_or_territory": "Quebec",
+      "overall_2017_2019": 82.56,
+      "male_2017_2019": 80.68,
+      "female_2017_2019": 84.34,
+      "overall_2021_2023": 82.44,
+      "male_2021_2023": 80.56,
+      "female_2021_2023": 84.26,
+      "overall_2022_2024": 82.39,
+      "male_2022_2024": 80.6,
+      "female_2022_2024": 84.14
+    },
+    {
+      "province_or_territory": "Ontario",
+      "overall_2017_2019": 82.39,
+      "male_2017_2019": 80.25,
+      "female_2017_2019": 84.46,
+      "overall_2021_2023": 81.96,
+      "male_2021_2023": 79.68,
+      "female_2021_2023": 84.23,
+      "overall_2022_2024": 82.27,
+      "male_2022_2024": 80.06,
+      "female_2022_2024": 84.47
+    },
+    {
+      "province_or_territory": "British Columbia",
+      "overall_2017_2019": 82.32,
+      "male_2017_2019": 79.95,
+      "female_2017_2019": 84.75,
+      "overall_2021_2023": 81.57,
+      "male_2021_2023": 78.87,
+      "female_2021_2023": 84.39,
+      "overall_2022_2024": 81.98,
+      "male_2022_2024": 79.38,
+      "female_2022_2024": 84.69
+    },
+    {
+      "province_or_territory": "Prince Edward Island",
+      "overall_2017_2019": 81.21,
+      "male_2017_2019": 78.96,
+      "female_2017_2019": 83.41,
+      "overall_2021_2023": 80.89,
+      "male_2021_2023": 78.58,
+      "female_2021_2023": 83.11,
+      "overall_2022_2024": 81.16,
+      "male_2022_2024": 79.01,
+      "female_2022_2024": 83.2
+    },
+    {
+      "province_or_territory": "Alberta",
+      "overall_2017_2019": 81.58,
+      "male_2017_2019": 79.33,
+      "female_2017_2019": 83.91,
+      "overall_2021_2023": 80.36,
+      "male_2021_2023": 77.93,
+      "female_2021_2023": 82.92,
+      "overall_2022_2024": 80.81,
+      "male_2022_2024": 78.52,
+      "female_2022_2024": 83.2
+    },
+    {
+      "province_or_territory": "Nova Scotia",
+      "overall_2017_2019": 80.4,
+      "male_2017_2019": 78.34,
+      "female_2017_2019": 82.43,
+      "overall_2021_2023": 80.21,
+      "male_2021_2023": 78,
+      "female_2021_2023": 82.51,
+      "overall_2022_2024": 80.3,
+      "male_2022_2024": 78.13,
+      "female_2022_2024": 82.53
+    },
+    {
+      "province_or_territory": "New Brunswick",
+      "overall_2017_2019": 80.69,
+      "male_2017_2019": 78.52,
+      "female_2017_2019": 82.8,
+      "overall_2021_2023": 80.25,
+      "male_2021_2023": 78.19,
+      "female_2021_2023": 82.38,
+      "overall_2022_2024": 80.12,
+      "male_2022_2024": 78.07,
+      "female_2022_2024": 82.24
+    },
+    {
+      "province_or_territory": "Newfoundland and Labrador",
+      "overall_2017_2019": 79.97,
+      "male_2017_2019": 77.97,
+      "female_2017_2019": 81.98,
+      "overall_2021_2023": 79.14,
+      "male_2021_2023": 77.05,
+      "female_2021_2023": 81.21,
+      "overall_2022_2024": 79.17,
+      "male_2022_2024": 77.14,
+      "female_2022_2024": 81.22
+    },
+    {
+      "province_or_territory": "Saskatchewan",
+      "overall_2017_2019": 80.27,
+      "male_2017_2019": 77.97,
+      "female_2017_2019": 82.71,
+      "overall_2021_2023": 78.65,
+      "male_2021_2023": 76.3,
+      "female_2021_2023": 81.17,
+      "overall_2022_2024": 79.02,
+      "male_2022_2024": 76.74,
+      "female_2022_2024": 81.47
+    },
+    {
+      "province_or_territory": "Manitoba",
+      "overall_2017_2019": 80.03,
+      "male_2017_2019": 77.87,
+      "female_2017_2019": 82.23,
+      "overall_2021_2023": 78.89,
+      "male_2021_2023": 76.43,
+      "female_2021_2023": 81.49,
+      "overall_2022_2024": 78.9,
+      "male_2022_2024": 76.49,
+      "female_2022_2024": 81.45
+    },
+    {
+      "province_or_territory": "Northwest Territories",
+      "overall_2017_2019": 77.59,
+      "male_2017_2019": 75.66,
+      "female_2017_2019": 79.64,
+      "overall_2021_2023": 76.63,
+      "male_2021_2023": 73.72,
+      "female_2021_2023": 79.75,
+      "overall_2022_2024": 76.29,
+      "male_2022_2024": 73.86,
+      "female_2022_2024": 79.11
+    },
+    {
+      "province_or_territory": "Nunavut",
+      "overall_2017_2019": 70.65,
+      "male_2017_2019": 68.6,
+      "female_2017_2019": 72.76,
+      "overall_2021_2023": 70.78,
+      "male_2021_2023": 68.5,
+      "female_2021_2023": 73.27,
+      "overall_2022_2024": 70.84,
+      "male_2022_2024": 69.5,
+      "female_2022_2024": 72.17
+    }
+  ],
+  "meta": {
+    "title": "Life Expectancy at Birth by Canadian Province and Territory - Free Download",
+    "description": "Life expectancy at birth (overall, male and female) for Canada and each province and territory, as three-year averages for 2017–2019, 2021–2023 and 2022–2024 (Statistics Canada data). Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Life Expectancy at Birth by Canadian Province and Territory | ListBase",
+    "seo_description": "Download Life Expectancy at Birth by Canadian Province and Territory — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/List_of_Canadian_provinces_and_territories_by_life_expectancy"
+    ]
+  }
+}
