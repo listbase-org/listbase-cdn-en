@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-19T02:24:57.639Z",
-  "total_datasets": 6061,
-  "total_records": 2722702,
+  "generated": "2026-11-19T02:25:08.057Z",
+  "total_datasets": 6062,
+  "total_records": 2723095,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "transport",
@@ -156320,6 +156320,33 @@
         "xlsx": {
           "name": "en-england-lighthouses_EN.xlsx",
           "size": 12234
+        }
+      }
+    },
+    {
+      "id": "en-english-heritage-properties",
+      "name": "English Heritage Properties by County",
+      "category": "tourism",
+      "record_count": 393,
+      "columns": [
+        "name",
+        "county",
+        "type",
+        "date",
+        "condition",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_English_Heritage_properties",
+      "updated": "2026-11",
+      "size": 166714,
+      "files": {
+        "csv": {
+          "name": "en-english-heritage-properties_EN.csv",
+          "size": 121752
+        },
+        "xlsx": {
+          "name": "en-english-heritage-properties_EN.xlsx",
+          "size": 58908
         }
       }
     },
