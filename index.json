@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-20T02:24:25.110Z",
-  "total_datasets": 6065,
-  "total_records": 2723887,
+  "generated": "2026-11-20T02:24:35.758Z",
+  "total_datasets": 6066,
+  "total_records": 2724082,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "language",
@@ -108887,6 +108887,37 @@
         "xlsx": {
           "name": "en-wars-involving-australia_EN.xlsx",
           "size": 17305
+        }
+      }
+    },
+    {
+      "id": "en-wars-involving-the-united-states",
+      "name": "Wars Involving the United States",
+      "category": "history",
+      "record_count": 195,
+      "columns": [
+        "century",
+        "conflict",
+        "years",
+        "part_of",
+        "location",
+        "allies",
+        "opponents",
+        "outcome",
+        "result",
+        "us_leaders"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Lists_of_wars_involving_the_United_States",
+      "updated": "2026-11",
+      "size": 177566,
+      "files": {
+        "csv": {
+          "name": "en-wars-involving-the-united-states_EN.csv",
+          "size": 137375
+        },
+        "xlsx": {
+          "name": "en-wars-involving-the-united-states_EN.xlsx",
+          "size": 53969
         }
       }
     },
