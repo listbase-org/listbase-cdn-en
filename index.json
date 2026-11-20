@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-19T02:25:18.493Z",
-  "total_datasets": 6063,
-  "total_records": 2723108,
+  "generated": "2026-11-20T02:24:12.621Z",
+  "total_datasets": 6064,
+  "total_records": 2723566,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "transport",
@@ -156483,6 +156483,30 @@
         "xlsx": {
           "name": "en-us-most-visited-museums_EN.xlsx",
           "size": 8589
+        }
+      }
+    },
+    {
+      "id": "en-us-ski-areas-and-resorts",
+      "name": "Ski Areas and Resorts in the United States",
+      "category": "tourism",
+      "record_count": 458,
+      "columns": [
+        "state",
+        "name",
+        "location"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_ski_areas_and_resorts_in_the_United_States",
+      "updated": "2026-11",
+      "size": 50285,
+      "files": {
+        "csv": {
+          "name": "en-us-ski-areas-and-resorts_EN.csv",
+          "size": 20366
+        },
+        "xlsx": {
+          "name": "en-us-ski-areas-and-resorts_EN.xlsx",
+          "size": 19583
         }
       }
     },
