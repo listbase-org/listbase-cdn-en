@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-20T02:24:12.621Z",
-  "total_datasets": 6064,
-  "total_records": 2723566,
+  "generated": "2026-11-20T02:24:25.110Z",
+  "total_datasets": 6065,
+  "total_records": 2723887,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "transport",
@@ -156507,6 +156507,30 @@
         "xlsx": {
           "name": "en-us-ski-areas-and-resorts_EN.xlsx",
           "size": 19583
+        }
+      }
+    },
+    {
+      "id": "en-us-zoos",
+      "name": "Zoos in the United States",
+      "category": "tourism",
+      "record_count": 321,
+      "columns": [
+        "state",
+        "name",
+        "location"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_zoos_in_the_United_States",
+      "updated": "2026-11",
+      "size": 36231,
+      "files": {
+        "csv": {
+          "name": "en-us-zoos_EN.csv",
+          "size": 14983
+        },
+        "xlsx": {
+          "name": "en-us-zoos_EN.xlsx",
+          "size": 16407
         }
       }
     },
