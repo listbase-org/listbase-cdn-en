@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-23T02:29:23.858Z",
-  "total_datasets": 6068,
-  "total_records": 2724759,
+  "generated": "2026-11-23T02:29:55.285Z",
+  "total_datasets": 6069,
+  "total_records": 2724900,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 48
+      "dataset_count": 49
     },
     {
       "id": "geography",
@@ -33735,6 +33735,31 @@
         "xlsx": {
           "name": "dietary-nutrients-reference_EN.xlsx",
           "size": 8309
+        }
+      }
+    },
+    {
+      "id": "en-us-state-foods",
+      "name": "U.S. State Foods",
+      "category": "food",
+      "record_count": 141,
+      "columns": [
+        "state",
+        "food_type",
+        "food_name",
+        "year_adopted"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_U.S._state_foods",
+      "updated": "2026-11",
+      "size": 21570,
+      "files": {
+        "csv": {
+          "name": "en-us-state-foods_EN.csv",
+          "size": 7280
+        },
+        "xlsx": {
+          "name": "en-us-state-foods_EN.xlsx",
+          "size": 11519
         }
       }
     },
