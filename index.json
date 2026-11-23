@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-23T02:29:11.093Z",
-  "total_datasets": 6067,
-  "total_records": 2724246,
+  "generated": "2026-11-23T02:29:23.858Z",
+  "total_datasets": 6068,
+  "total_records": 2724759,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 19
+      "dataset_count": 20
     },
     {
       "id": "language",
@@ -108780,6 +108780,34 @@
         "xlsx": {
           "name": "en-disasters-great-britain-ireland-by-death-toll_EN.xlsx",
           "size": 32580
+        }
+      }
+    },
+    {
+      "id": "en-disasters-in-australia-by-death-toll",
+      "name": "Disasters in Australia by Death Toll",
+      "category": "history",
+      "record_count": 513,
+      "columns": [
+        "disaster_type",
+        "location",
+        "deaths",
+        "deaths_min",
+        "date",
+        "section",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_disasters_in_Australia_by_death_toll",
+      "updated": "2026-11",
+      "size": 173068,
+      "files": {
+        "csv": {
+          "name": "en-disasters-in-australia-by-death-toll_EN.csv",
+          "size": 99289
+        },
+        "xlsx": {
+          "name": "en-disasters-in-australia-by-death-toll_EN.xlsx",
+          "size": 48548
         }
       }
     },
