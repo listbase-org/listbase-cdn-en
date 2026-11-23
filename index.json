@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-20T02:24:35.758Z",
-  "total_datasets": 6066,
-  "total_records": 2724082,
+  "generated": "2026-11-23T02:29:11.093Z",
+  "total_datasets": 6067,
+  "total_records": 2724246,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 19
+      "dataset_count": 20
     },
     {
       "id": "math",
@@ -110317,6 +110317,32 @@
         "xlsx": {
           "name": "ca-supreme-court-justices_EN.xlsx",
           "size": 13554
+        }
+      }
+    },
+    {
+      "id": "en-acts-of-the-scottish-parliament-2016-2026",
+      "name": "Acts of the Scottish Parliament (2016–2026)",
+      "category": "law",
+      "record_count": 164,
+      "columns": [
+        "year",
+        "short_title",
+        "citation",
+        "royal_assent",
+        "long_title"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_acts_of_the_Scottish_Parliament_from_2024",
+      "updated": "2026-11",
+      "size": 85651,
+      "files": {
+        "csv": {
+          "name": "en-acts-of-the-scottish-parliament-2016-2026_EN.csv",
+          "size": 65857
+        },
+        "xlsx": {
+          "name": "en-acts-of-the-scottish-parliament-2016-2026_EN.xlsx",
+          "size": 25951
         }
       }
     },
