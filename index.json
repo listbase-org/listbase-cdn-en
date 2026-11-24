@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-24T02:19:43.081Z",
-  "total_datasets": 6070,
-  "total_records": 2725123,
+  "generated": "2026-11-24T02:19:54.209Z",
+  "total_datasets": 6071,
+  "total_records": 2725170,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 16
+      "dataset_count": 17
     }
   ],
   "datasets": [
@@ -168784,6 +168784,35 @@
         "xlsx": {
           "name": "en-beaufort-wind-force-scale_EN.xlsx",
           "size": 8989
+        }
+      }
+    },
+    {
+      "id": "en-british-standard-whitworth-sizes",
+      "name": "British Standard Whitworth (BSW) Screw Thread Sizes",
+      "category": "units",
+      "record_count": 47,
+      "columns": [
+        "major_diameter_in",
+        "major_diameter_mm",
+        "threads_per_inch",
+        "pitch_mm",
+        "minor_diameter_in",
+        "minor_diameter_mm",
+        "tap_drill_75pct_in",
+        "tap_drill_75pct_mm"
+      ],
+      "source": "https://en.wikipedia.org/wiki/British_Standard_Whitworth",
+      "updated": "2026-11",
+      "size": 15508,
+      "files": {
+        "csv": {
+          "name": "en-british-standard-whitworth-sizes_EN.csv",
+          "size": 3130
+        },
+        "xlsx": {
+          "name": "en-british-standard-whitworth-sizes_EN.xlsx",
+          "size": 9348
         }
       }
     },
