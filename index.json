@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-24T02:19:54.209Z",
-  "total_datasets": 6071,
-  "total_records": 2725170,
+  "generated": "2026-11-24T02:20:04.941Z",
+  "total_datasets": 6072,
+  "total_records": 2725204,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 17
+      "dataset_count": 18
     }
   ],
   "datasets": [
@@ -169005,6 +169005,42 @@
         "xlsx": {
           "name": "en-scottish-units-of-measurement_EN.xlsx",
           "size": 7506
+        }
+      }
+    },
+    {
+      "id": "en-unified-thread-standard-sizes",
+      "name": "Unified Thread Standard (UNC, UNF, UNEF) Screw Sizes",
+      "category": "units",
+      "record_count": 34,
+      "columns": [
+        "size",
+        "major_diameter_in",
+        "major_diameter_mm",
+        "unc_tpi",
+        "unc_pitch_mm",
+        "unf_tpi",
+        "unf_pitch_mm",
+        "unef_tpi",
+        "unef_pitch_mm",
+        "unc_tap_drill",
+        "unc_tap_drill_in",
+        "unf_tap_drill",
+        "unf_tap_drill_in",
+        "unef_tap_drill",
+        "unef_tap_drill_in"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Unified_Thread_Standard",
+      "updated": "2026-11",
+      "size": 17927,
+      "files": {
+        "csv": {
+          "name": "en-unified-thread-standard-sizes_EN.csv",
+          "size": 3260
+        },
+        "xlsx": {
+          "name": "en-unified-thread-standard-sizes_EN.xlsx",
+          "size": 9553
         }
       }
     },
