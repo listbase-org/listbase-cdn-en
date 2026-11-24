@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-23T02:29:55.285Z",
-  "total_datasets": 6069,
-  "total_records": 2724900,
+  "generated": "2026-11-24T02:19:43.081Z",
+  "total_datasets": 6070,
+  "total_records": 2725123,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "politics",
@@ -111306,6 +111306,32 @@
         "xlsx": {
           "name": "classic-rock-songs-radio-airplay_EN.xlsx",
           "size": 108919
+        }
+      }
+    },
+    {
+      "id": "en-brit-award-british-album-of-the-year",
+      "name": "Brit Award for British Album of the Year – Winners and Nominees",
+      "category": "music",
+      "record_count": 223,
+      "columns": [
+        "year",
+        "ceremony",
+        "album",
+        "artist",
+        "result"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Brit_Award_for_British_Album_of_the_Year",
+      "updated": "2026-11",
+      "size": 34288,
+      "files": {
+        "csv": {
+          "name": "en-brit-award-british-album-of-the-year_EN.csv",
+          "size": 11920
+        },
+        "xlsx": {
+          "name": "en-brit-award-british-album-of-the-year_EN.xlsx",
+          "size": 15200
         }
       }
     },
