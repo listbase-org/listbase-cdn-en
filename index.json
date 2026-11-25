@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-11-24T02:20:04.941Z",
-  "total_datasets": 6072,
-  "total_records": 2725204,
+  "generated": "2026-11-25T02:22:11.085Z",
+  "total_datasets": 6073,
+  "total_records": 2725324,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "business",
@@ -110,6 +110,30 @@
     }
   ],
   "datasets": [
+    {
+      "id": "en-apa-recognized-chicken-breeds",
+      "name": "Chicken Breeds Recognized by the American Poultry Association",
+      "category": "agriculture",
+      "record_count": 120,
+      "columns": [
+        "breed",
+        "size",
+        "apa_class"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Chicken_breeds_recognized_by_the_American_Poultry_Association",
+      "updated": "2026-11",
+      "size": 14823,
+      "files": {
+        "csv": {
+          "name": "en-apa-recognized-chicken-breeds_EN.csv",
+          "size": 5398
+        },
+        "xlsx": {
+          "name": "en-apa-recognized-chicken-breeds_EN.xlsx",
+          "size": 9071
+        }
+      }
+    },
     {
       "id": "en-australia-largest-pastoral-stations",
       "name": "Largest Pastoral Stations in Australia",
