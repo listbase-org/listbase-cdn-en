@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-25T02:22:11.085Z",
-  "total_datasets": 6073,
-  "total_records": 2725324,
+  "generated": "2026-11-25T02:22:22.507Z",
+  "total_datasets": 6074,
+  "total_records": 2725332,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "tourism",
@@ -155926,6 +155926,32 @@
         "xlsx": {
           "name": "country-holidays-summary_EN.xlsx",
           "size": 15719
+        }
+      }
+    },
+    {
+      "id": "en-australia-daylight-saving-time",
+      "name": "Daylight Saving Time in Australia by State and Territory",
+      "category": "time",
+      "record_count": 8,
+      "columns": [
+        "state_territory",
+        "dst_start",
+        "dst_end",
+        "utc_offset_in_summer",
+        "notes"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Daylight_saving_time_in_Australia",
+      "updated": "2026-11",
+      "size": 4265,
+      "files": {
+        "csv": {
+          "name": "en-australia-daylight-saving-time_EN.csv",
+          "size": 1403
+        },
+        "xlsx": {
+          "name": "en-australia-daylight-saving-time_EN.xlsx",
+          "size": 7311
         }
       }
     },
