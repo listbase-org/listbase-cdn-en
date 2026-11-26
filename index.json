@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "generated": "2026-11-26T02:10:40.187Z",
-  "total_datasets": 6076,
-  "total_records": 2725552,
+  "generated": "2026-11-26T02:10:51.042Z",
+  "total_datasets": 6077,
+  "total_records": 2725695,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "business",
@@ -259,6 +259,36 @@
         "xlsx": {
           "name": "en-scottish-animal-breeds_EN.xlsx",
           "size": 8300
+        }
+      }
+    },
+    {
+      "id": "en-uk-cider-apple-cultivars",
+      "name": "British Cider Apple Cultivars",
+      "category": "agriculture",
+      "record_count": 143,
+      "columns": [
+        "cultivar",
+        "origin",
+        "first_developed",
+        "type",
+        "juice_acidity_pct",
+        "juice_specific_gravity",
+        "tannin_pct",
+        "days_bloom_to_maturity",
+        "measured_at"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_apple_cultivars",
+      "updated": "2026-11",
+      "size": 45626,
+      "files": {
+        "csv": {
+          "name": "en-uk-cider-apple-cultivars_EN.csv",
+          "size": 11713
+        },
+        "xlsx": {
+          "name": "en-uk-cider-apple-cultivars_EN.xlsx",
+          "size": 14016
         }
       }
     },
