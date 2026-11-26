@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-26T02:10:29.524Z",
-  "total_datasets": 6075,
-  "total_records": 2725523,
+  "generated": "2026-11-26T02:10:40.187Z",
+  "total_datasets": 6076,
+  "total_records": 2725552,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 19
+      "dataset_count": 20
     },
     {
       "id": "tourism",
@@ -156202,6 +156202,32 @@
         "xlsx": {
           "name": "en-relative-time-expressions_EN.xlsx",
           "size": 7814
+        }
+      }
+    },
+    {
+      "id": "en-south-africa-public-holidays",
+      "name": "Public Holidays in South Africa (Current and Historical)",
+      "category": "time",
+      "record_count": 29,
+      "columns": [
+        "date",
+        "name",
+        "status",
+        "period",
+        "comments"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Public_holidays_in_South_Africa",
+      "updated": "2026-11",
+      "size": 6913,
+      "files": {
+        "csv": {
+          "name": "en-south-africa-public-holidays_EN.csv",
+          "size": 2416
+        },
+        "xlsx": {
+          "name": "en-south-africa-public-holidays_EN.xlsx",
+          "size": 8223
         }
       }
     },
