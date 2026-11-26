@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-25T02:22:22.507Z",
-  "total_datasets": 6074,
-  "total_records": 2725332,
+  "generated": "2026-11-26T02:10:29.524Z",
+  "total_datasets": 6075,
+  "total_records": 2725523,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "tourism",
@@ -156070,6 +156070,34 @@
         "xlsx": {
           "name": "en-canada-tz-database-time-zones_EN.xlsx",
           "size": 9636
+        }
+      }
+    },
+    {
+      "id": "en-india-public-holidays",
+      "name": "Public Holidays in India (National, Central and State)",
+      "category": "time",
+      "record_count": 191,
+      "columns": [
+        "date",
+        "name",
+        "level",
+        "group",
+        "type",
+        "states_uts",
+        "details"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Public_holidays_in_India",
+      "updated": "2026-11",
+      "size": 49530,
+      "files": {
+        "csv": {
+          "name": "en-india-public-holidays_EN.csv",
+          "size": 23183
+        },
+        "xlsx": {
+          "name": "en-india-public-holidays_EN.xlsx",
+          "size": 17145
         }
       }
     },
