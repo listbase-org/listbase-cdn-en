@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-26T02:10:51.042Z",
-  "total_datasets": 6077,
-  "total_records": 2725695,
+  "generated": "2026-11-27T02:12:47.735Z",
+  "total_datasets": 6078,
+  "total_records": 2725703,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "sports",
@@ -144482,6 +144482,30 @@
         "xlsx": {
           "name": "crime-index-by-country_EN.xlsx",
           "size": 10712
+        }
+      }
+    },
+    {
+      "id": "en-australia-states-hdi",
+      "name": "Australian States and Territories by Human Development Index (2023)",
+      "category": "society",
+      "record_count": 8,
+      "columns": [
+        "rank",
+        "state_or_territory",
+        "hdi_2023"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Australian_states_and_territories_by_Human_Development_Index",
+      "updated": "2026-11",
+      "size": 2573,
+      "files": {
+        "csv": {
+          "name": "en-australia-states-hdi_EN.csv",
+          "size": 280
+        },
+        "xlsx": {
+          "name": "en-australia-states-hdi_EN.xlsx",
+          "size": 6910
         }
       }
     },
