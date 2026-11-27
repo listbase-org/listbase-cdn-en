@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-27T02:12:59.798Z",
-  "total_datasets": 6079,
-  "total_records": 2725715,
+  "generated": "2026-11-27T02:13:10.879Z",
+  "total_datasets": 6080,
+  "total_records": 2725766,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 19
+      "dataset_count": 20
     },
     {
       "id": "sports",
@@ -144846,6 +144846,39 @@
         "xlsx": {
           "name": "en-us-states-union-membership_EN.xlsx",
           "size": 9980
+        }
+      }
+    },
+    {
+      "id": "en-us-states-violent-crime-rate",
+      "name": "U.S. States by Violent Crime Rate (2018–2024)",
+      "category": "society",
+      "record_count": 51,
+      "columns": [
+        "state",
+        "violent_crime_rate_2024",
+        "homicide_rate_2024",
+        "rape_rate_2024",
+        "robbery_rate_2024",
+        "aggravated_assault_rate_2024",
+        "violent_crime_rate_2018",
+        "violent_crime_rate_2019",
+        "violent_crime_rate_2020",
+        "violent_crime_rate_2021",
+        "violent_crime_rate_2022",
+        "violent_crime_rate_2023"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_violent_crime_rate",
+      "updated": "2026-11",
+      "size": 26257,
+      "files": {
+        "csv": {
+          "name": "en-us-states-violent-crime-rate_EN.csv",
+          "size": 5021
+        },
+        "xlsx": {
+          "name": "en-us-states-violent-crime-rate_EN.xlsx",
+          "size": 10576
         }
       }
     },
