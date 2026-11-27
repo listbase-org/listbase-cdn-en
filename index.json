@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "generated": "2026-11-27T02:12:47.735Z",
-  "total_datasets": 6078,
-  "total_records": 2725703,
+  "generated": "2026-11-27T02:12:59.798Z",
+  "total_datasets": 6079,
+  "total_records": 2725715,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "sports",
@@ -144537,6 +144537,30 @@
         "xlsx": {
           "name": "en-canada-provinces-life-expectancy_EN.xlsx",
           "size": 7734
+        }
+      }
+    },
+    {
+      "id": "en-uk-regions-hdi",
+      "name": "UK Regions and Nations by Human Development Index (2023)",
+      "category": "society",
+      "record_count": 12,
+      "columns": [
+        "rank",
+        "region",
+        "hdi_2023"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_regions_of_the_United_Kingdom_by_Human_Development_Index",
+      "updated": "2026-11",
+      "size": 2860,
+      "files": {
+        "csv": {
+          "name": "en-uk-regions-hdi_EN.csv",
+          "size": 390
+        },
+        "xlsx": {
+          "name": "en-uk-regions-hdi_EN.xlsx",
+          "size": 6991
         }
       }
     },
